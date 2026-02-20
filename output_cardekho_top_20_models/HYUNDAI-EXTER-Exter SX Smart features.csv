@@ -1,0 +1,116 @@
+company,model,variant,feature_name,feature_details
+HYUNDAI,EXTER,Exter SX Smart,Engine Type,1.2 l Kappa
+HYUNDAI,EXTER,Exter SX Smart,Displacement,1197 cc
+HYUNDAI,EXTER,Exter SX Smart,Max Power,81.8bhp@6000rpm
+HYUNDAI,EXTER,Exter SX Smart,Max Torque,113.8Nm@4000rpm
+HYUNDAI,EXTER,Exter SX Smart,No. of Cylinders,4
+HYUNDAI,EXTER,Exter SX Smart,Valves Per Cylinder,4
+HYUNDAI,EXTER,Exter SX Smart,Transmission Type,Manual
+HYUNDAI,EXTER,Exter SX Smart,Gearbox,5-Speed
+HYUNDAI,EXTER,Exter SX Smart,Drive Type,FWD
+HYUNDAI,EXTER,Exter SX Smart,Fuel Type,Petrol
+HYUNDAI,EXTER,Exter SX Smart,Petrol Mileage ARAI,19.4 kmpl
+HYUNDAI,EXTER,Exter SX Smart,Petrol Fuel Tank Capacity,37 Litres
+HYUNDAI,EXTER,Exter SX Smart,Emission Norm Compliance,BS VI 2.0
+HYUNDAI,EXTER,Exter SX Smart,Front Suspension,MacPherson Strut suspension
+HYUNDAI,EXTER,Exter SX Smart,Rear Suspension,Rear twist beam
+HYUNDAI,EXTER,Exter SX Smart,Shock Absorbers Type,Gas Type
+HYUNDAI,EXTER,Exter SX Smart,Steering Type,Electric
+HYUNDAI,EXTER,Exter SX Smart,Steering Column,Tilt
+HYUNDAI,EXTER,Exter SX Smart,Front Brake Type,Disc
+HYUNDAI,EXTER,Exter SX Smart,Rear Brake Type,Drum
+HYUNDAI,EXTER,Exter SX Smart,Length,3815 mm
+HYUNDAI,EXTER,Exter SX Smart,Width,1710 mm
+HYUNDAI,EXTER,Exter SX Smart,Height,1631 mm
+HYUNDAI,EXTER,Exter SX Smart,Seating Capacity,5
+HYUNDAI,EXTER,Exter SX Smart,Wheel Base,2450 mm
+HYUNDAI,EXTER,Exter SX Smart,No. of Doors,5
+HYUNDAI,EXTER,Exter SX Smart,Reported Boot Space,391 Litres
+HYUNDAI,EXTER,Exter SX Smart,Power Steering,YES
+HYUNDAI,EXTER,Exter SX Smart,Air Conditioner,YES
+HYUNDAI,EXTER,Exter SX Smart,Heater,YES
+HYUNDAI,EXTER,Exter SX Smart,Height Adjustable Driver Seat,YES
+HYUNDAI,EXTER,Exter SX Smart,Automatic Climate Control,YES
+HYUNDAI,EXTER,Exter SX Smart,Accessory Power Outlet,YES
+HYUNDAI,EXTER,Exter SX Smart,Trunk Light,NO
+HYUNDAI,EXTER,Exter SX Smart,Vanity Mirror,YES
+HYUNDAI,EXTER,Exter SX Smart,Rear Reading Lamp,YES
+HYUNDAI,EXTER,Exter SX Smart,Rear Seat Headrest,Adjustable
+HYUNDAI,EXTER,Exter SX Smart,Rear AC Vents,YES
+HYUNDAI,EXTER,Exter SX Smart,Cruise Control,YES
+HYUNDAI,EXTER,Exter SX Smart,Parking Sensors,Rear
+HYUNDAI,EXTER,Exter SX Smart,Foldable Rear Seat,Bench Folding
+HYUNDAI,EXTER,Exter SX Smart,KeyLess Entry,YES
+HYUNDAI,EXTER,Exter SX Smart,Engine Start/Stop Button,YES
+HYUNDAI,EXTER,Exter SX Smart,Cooled Glovebox,NO
+HYUNDAI,EXTER,Exter SX Smart,Voice Commands,YES
+HYUNDAI,EXTER,Exter SX Smart,Paddle Shifters,NO
+HYUNDAI,EXTER,Exter SX Smart,USB Charger,Front
+HYUNDAI,EXTER,Exter SX Smart,Tailgate Ajar Warning,YES
+HYUNDAI,EXTER,Exter SX Smart,Luggage Hook & Net,YES
+HYUNDAI,EXTER,Exter SX Smart,Battery Saver,YES
+HYUNDAI,EXTER,Exter SX Smart,Idle Start-Stop System,YES
+HYUNDAI,EXTER,Exter SX Smart,Automatic Headlamps,NO
+HYUNDAI,EXTER,Exter SX Smart,Follow Me Home Headlamps,YES
+HYUNDAI,EXTER,Exter SX Smart,Additional Features,Rear parcel tray
+HYUNDAI,EXTER,Exter SX Smart,Voice assisted sunroof,NO
+HYUNDAI,EXTER,Exter SX Smart,Power Windows,Front & Rear
+HYUNDAI,EXTER,Exter SX Smart,Tachometer,YES
+HYUNDAI,EXTER,Exter SX Smart,Glove Box,YES
+HYUNDAI,EXTER,Exter SX Smart,Digital Cluster,YES
+HYUNDAI,EXTER,Exter SX Smart,Upholstery,Leatherette
+HYUNDAI,EXTER,Exter SX Smart,Adjustable Headlamps,YES
+HYUNDAI,EXTER,Exter SX Smart,Rear Window Wiper,NO
+HYUNDAI,EXTER,Exter SX Smart,Rear Window Washer,NO
+HYUNDAI,EXTER,Exter SX Smart,Rear Window Defogger,YES
+HYUNDAI,EXTER,Exter SX Smart,Wheel Covers,YES
+HYUNDAI,EXTER,Exter SX Smart,Alloy Wheels,NO
+HYUNDAI,EXTER,Exter SX Smart,Rear Spoiler,YES
+HYUNDAI,EXTER,Exter SX Smart,Outside Rear View Mirror Turn Indicators,YES
+HYUNDAI,EXTER,Exter SX Smart,Projector Headlamps,YES
+HYUNDAI,EXTER,Exter SX Smart,Halogen Headlamps,NO
+HYUNDAI,EXTER,Exter SX Smart,Roof Rails,YES
+HYUNDAI,EXTER,Exter SX Smart,Antenna,Shark Fin
+HYUNDAI,EXTER,Exter SX Smart,Sunroof,Single Pane
+HYUNDAI,EXTER,Exter SX Smart,Boot Opening,Electronic
+HYUNDAI,EXTER,Exter SX Smart,Outside Rear View Mirror (ORVM),Powered & Folding
+HYUNDAI,EXTER,Exter SX Smart,Tyre Size,175/65 R15
+HYUNDAI,EXTER,Exter SX Smart,Tyre Type,Radial Tubeless
+HYUNDAI,EXTER,Exter SX Smart,Wheel Size,15 Inch
+HYUNDAI,EXTER,Exter SX Smart,LED DRLs,YES
+HYUNDAI,EXTER,Exter SX Smart,LED Taillights,YES
+HYUNDAI,EXTER,Exter SX Smart,Anti-lock Braking System (ABS),YES
+HYUNDAI,EXTER,Exter SX Smart,Central Locking,YES
+HYUNDAI,EXTER,Exter SX Smart,Child Safety Locks,YES
+HYUNDAI,EXTER,Exter SX Smart,Anti-Theft Alarm,YES
+HYUNDAI,EXTER,Exter SX Smart,No. of Airbags,6
+HYUNDAI,EXTER,Exter SX Smart,Driver Airbag,YES
+HYUNDAI,EXTER,Exter SX Smart,Passenger Airbag,YES
+HYUNDAI,EXTER,Exter SX Smart,Side Airbag,YES
+HYUNDAI,EXTER,Exter SX Smart,Side Airbag-Rear,NO
+HYUNDAI,EXTER,Exter SX Smart,Day & Night Rear View Mirror,YES
+HYUNDAI,EXTER,Exter SX Smart,Curtain Airbag,YES
+HYUNDAI,EXTER,Exter SX Smart,Electronic Brakeforce Distribution (EBD),YES
+HYUNDAI,EXTER,Exter SX Smart,Seat Belt Warning,YES
+HYUNDAI,EXTER,Exter SX Smart,Door Ajar Warning,YES
+HYUNDAI,EXTER,Exter SX Smart,Tyre Pressure Monitoring System (TPMS),YES
+HYUNDAI,EXTER,Exter SX Smart,Engine Immobilizer,YES
+HYUNDAI,EXTER,Exter SX Smart,Electronic Stability Control (ESC),YES
+HYUNDAI,EXTER,Exter SX Smart,Rear Camera,With Guidedlines
+HYUNDAI,EXTER,Exter SX Smart,Anti-Theft Device,YES
+HYUNDAI,EXTER,Exter SX Smart,Speed Alert,YES
+HYUNDAI,EXTER,Exter SX Smart,Speed Sensing Auto Door Lock,YES
+HYUNDAI,EXTER,Exter SX Smart,ISOFIX Child Seat Mounts,YES
+HYUNDAI,EXTER,Exter SX Smart,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+HYUNDAI,EXTER,Exter SX Smart,Hill Assist,YES
+HYUNDAI,EXTER,Exter SX Smart,Impact Sensing Auto Door Unlock,YES
+HYUNDAI,EXTER,Exter SX Smart,Radio,NO
+HYUNDAI,EXTER,Exter SX Smart,Wireless Phone Charging,NO
+HYUNDAI,EXTER,Exter SX Smart,Bluetooth Connectivity,NO
+HYUNDAI,EXTER,Exter SX Smart,Touchscreen,NO
+HYUNDAI,EXTER,Exter SX Smart,Touchscreen Size,inch
+HYUNDAI,EXTER,Exter SX Smart,Android Auto,NO
+HYUNDAI,EXTER,Exter SX Smart,Apple CarPlay,NO
+HYUNDAI,EXTER,Exter SX Smart,Usb Ports,YES
+HYUNDAI,EXTER,Exter SX Smart,Inbuilt Apps,NO
+HYUNDAI,EXTER,Exter SX Smart,Speakers,Front & Rear

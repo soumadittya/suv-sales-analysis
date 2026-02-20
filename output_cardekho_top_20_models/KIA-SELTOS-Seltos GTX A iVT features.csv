@@ -1,0 +1,128 @@
+company,model,variant,feature_name,feature_details
+KIA,SELTOS,Seltos GTX A iVT,Engine Type,SmartStream G1.5
+KIA,SELTOS,Seltos GTX A iVT,Displacement,1497 cc
+KIA,SELTOS,Seltos GTX A iVT,Max Power,113bhp@6300rpm
+KIA,SELTOS,Seltos GTX A iVT,Max Torque,144Nm@4500rpm
+KIA,SELTOS,Seltos GTX A iVT,No. of Cylinders,4
+KIA,SELTOS,Seltos GTX A iVT,Valves Per Cylinder,4
+KIA,SELTOS,Seltos GTX A iVT,Fuel Supply System,MPi
+KIA,SELTOS,Seltos GTX A iVT,Turbo Charger,NO
+KIA,SELTOS,Seltos GTX A iVT,Transmission Type,Automatic
+KIA,SELTOS,Seltos GTX A iVT,Gearbox,6-Speed
+KIA,SELTOS,Seltos GTX A iVT,Drive Type,2WD
+KIA,SELTOS,Seltos GTX A iVT,Fuel Type,Petrol
+KIA,SELTOS,Seltos GTX A iVT,Petrol Fuel Tank Capacity,47 Litres
+KIA,SELTOS,Seltos GTX A iVT,Emission Norm Compliance,BS VI 2.0
+KIA,SELTOS,Seltos GTX A iVT,Front Suspension,MacPherson Strut suspension
+KIA,SELTOS,Seltos GTX A iVT,Rear Suspension,Rear twist beam
+KIA,SELTOS,Seltos GTX A iVT,Steering Type,Electric
+KIA,SELTOS,Seltos GTX A iVT,Steering Column,Tilt & Telescopic
+KIA,SELTOS,Seltos GTX A iVT,Front Brake Type,Disc
+KIA,SELTOS,Seltos GTX A iVT,Rear Brake Type,Disc
+KIA,SELTOS,Seltos GTX A iVT,Alloy Wheel Size Front,18 Inch
+KIA,SELTOS,Seltos GTX A iVT,Alloy Wheel Size Rear,18 Inch
+KIA,SELTOS,Seltos GTX A iVT,Length,4460 mm
+KIA,SELTOS,Seltos GTX A iVT,Width,1830 mm
+KIA,SELTOS,Seltos GTX A iVT,Height,1635 mm
+KIA,SELTOS,Seltos GTX A iVT,Boot Space,447 Litres
+KIA,SELTOS,Seltos GTX A iVT,Seating Capacity,5
+KIA,SELTOS,Seltos GTX A iVT,Wheel Base,2690 mm
+KIA,SELTOS,Seltos GTX A iVT,No. of Doors,5
+KIA,SELTOS,Seltos GTX A iVT,Power Steering,YES
+KIA,SELTOS,Seltos GTX A iVT,Air Conditioner,YES
+KIA,SELTOS,Seltos GTX A iVT,Heater,YES
+KIA,SELTOS,Seltos GTX A iVT,Adjustable Steering,Height & Reach
+KIA,SELTOS,Seltos GTX A iVT,Height Adjustable Driver Seat,YES
+KIA,SELTOS,Seltos GTX A iVT,Ventilated Seats,YES
+KIA,SELTOS,Seltos GTX A iVT,Electric Adjustable Seats,Front
+KIA,SELTOS,Seltos GTX A iVT,Automatic Climate Control,YES
+KIA,SELTOS,Seltos GTX A iVT,Accessory Power Outlet,YES
+KIA,SELTOS,Seltos GTX A iVT,Vanity Mirror,YES
+KIA,SELTOS,Seltos GTX A iVT,Rear Reading Lamp,YES
+KIA,SELTOS,Seltos GTX A iVT,Rear Seat Headrest,Adjustable
+KIA,SELTOS,Seltos GTX A iVT,Adjustable Headrest,YES
+KIA,SELTOS,Seltos GTX A iVT,Rear Seat Centre Arm Rest,YES
+KIA,SELTOS,Seltos GTX A iVT,Rear AC Vents,YES
+KIA,SELTOS,Seltos GTX A iVT,Lumbar Support,YES
+KIA,SELTOS,Seltos GTX A iVT,Cruise Control,YES
+KIA,SELTOS,Seltos GTX A iVT,Parking Sensors,Front & Rear
+KIA,SELTOS,Seltos GTX A iVT,Foldable Rear Seat,60:40 Split
+KIA,SELTOS,Seltos GTX A iVT,KeyLess Entry,YES
+KIA,SELTOS,Seltos GTX A iVT,Engine Start/Stop Button,YES
+KIA,SELTOS,Seltos GTX A iVT,Paddle Shifters,YES
+KIA,SELTOS,Seltos GTX A iVT,USB Charger,Front & Rear
+KIA,SELTOS,Seltos GTX A iVT,Central Console Armrest,YES
+KIA,SELTOS,Seltos GTX A iVT,Tailgate Ajar Warning,YES
+KIA,SELTOS,Seltos GTX A iVT,Drive Modes,3
+KIA,SELTOS,Seltos GTX A iVT,Rear Window Sunblind,YES
+KIA,SELTOS,Seltos GTX A iVT,Additional Features,Sunglass Holder
+KIA,SELTOS,Seltos GTX A iVT,Drive Mode Types,ECO | NORMAL | SPORTS
+KIA,SELTOS,Seltos GTX A iVT,Power Windows,Front & Rear
+KIA,SELTOS,Seltos GTX A iVT,Cup Holders,Front & Rear
+KIA,SELTOS,Seltos GTX A iVT,Tachometer,YES
+KIA,SELTOS,Seltos GTX A iVT,Leather Wrapped Steering Wheel,YES
+KIA,SELTOS,Seltos GTX A iVT,Glove Box,YES
+KIA,SELTOS,Seltos GTX A iVT,Lighting,Ambient light
+KIA,SELTOS,Seltos GTX A iVT,Additional Features,Rear Parcel Shelf
+KIA,SELTOS,Seltos GTX A iVT,Digital Cluster,YES
+KIA,SELTOS,Seltos GTX A iVT,Digital Cluster Size,12.3
+KIA,SELTOS,Seltos GTX A iVT,Upholstery,Leatherette
+KIA,SELTOS,Seltos GTX A iVT,Ambient Light Colour (numbers),64
+KIA,SELTOS,Seltos GTX A iVT,Rear Window Wiper,YES
+KIA,SELTOS,Seltos GTX A iVT,Rear Window Defogger,YES
+KIA,SELTOS,Seltos GTX A iVT,Wheel Covers,NO
+KIA,SELTOS,Seltos GTX A iVT,Alloy Wheels,YES
+KIA,SELTOS,Seltos GTX A iVT,Rear Spoiler,YES
+KIA,SELTOS,Seltos GTX A iVT,Outside Rear View Mirror Turn Indicators,YES
+KIA,SELTOS,Seltos GTX A iVT,Integrated Antenna,YES
+KIA,SELTOS,Seltos GTX A iVT,Projector Headlamps,YES
+KIA,SELTOS,Seltos GTX A iVT,Roof Rails,YES
+KIA,SELTOS,Seltos GTX A iVT,Automatic Headlamps,YES
+KIA,SELTOS,Seltos GTX A iVT,Fog Lights,Front
+KIA,SELTOS,Seltos GTX A iVT,Antenna,Shark Fin
+KIA,SELTOS,Seltos GTX A iVT,Sunroof,Panoramic
+KIA,SELTOS,Seltos GTX A iVT,Outside Rear View Mirror (ORVM),Powered & Folding
+KIA,SELTOS,Seltos GTX A iVT,Tyre Size,215/55 R18
+KIA,SELTOS,Seltos GTX A iVT,Tyre Type,Radial Tubeless
+KIA,SELTOS,Seltos GTX A iVT,LED DRLs,YES
+KIA,SELTOS,Seltos GTX A iVT,LED Headlamps,YES
+KIA,SELTOS,Seltos GTX A iVT,LED Taillights,YES
+KIA,SELTOS,Seltos GTX A iVT,LED Fog Lamps,YES
+KIA,SELTOS,Seltos GTX A iVT,Anti-lock Braking System (ABS),YES
+KIA,SELTOS,Seltos GTX A iVT,Brake Assist,YES
+KIA,SELTOS,Seltos GTX A iVT,Central Locking,YES
+KIA,SELTOS,Seltos GTX A iVT,Child Safety Locks,YES
+KIA,SELTOS,Seltos GTX A iVT,No. of Airbags,6
+KIA,SELTOS,Seltos GTX A iVT,Driver Airbag,YES
+KIA,SELTOS,Seltos GTX A iVT,Passenger Airbag,YES
+KIA,SELTOS,Seltos GTX A iVT,Side Airbag,YES
+KIA,SELTOS,Seltos GTX A iVT,Day & Night Rear View Mirror,YES
+KIA,SELTOS,Seltos GTX A iVT,Curtain Airbag,YES
+KIA,SELTOS,Seltos GTX A iVT,Electronic Brakeforce Distribution (EBD),YES
+KIA,SELTOS,Seltos GTX A iVT,Seat Belt Warning,YES
+KIA,SELTOS,Seltos GTX A iVT,Door Ajar Warning,YES
+KIA,SELTOS,Seltos GTX A iVT,Traction Control,YES
+KIA,SELTOS,Seltos GTX A iVT,Tyre Pressure Monitoring System (TPMS),YES
+KIA,SELTOS,Seltos GTX A iVT,Engine Immobilizer,YES
+KIA,SELTOS,Seltos GTX A iVT,Electronic Stability Control (ESC),YES
+KIA,SELTOS,Seltos GTX A iVT,Rear Camera,With Guidedlines
+KIA,SELTOS,Seltos GTX A iVT,Anti-Pinch Power Windows,Driver's Window
+KIA,SELTOS,Seltos GTX A iVT,Speed Alert,YES
+KIA,SELTOS,Seltos GTX A iVT,Speed Sensing Auto Door Lock,YES
+KIA,SELTOS,Seltos GTX A iVT,ISOFIX Child Seat Mounts,YES
+KIA,SELTOS,Seltos GTX A iVT,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+KIA,SELTOS,Seltos GTX A iVT,Hill Descent Control,YES
+KIA,SELTOS,Seltos GTX A iVT,Hill Assist,YES
+KIA,SELTOS,Seltos GTX A iVT,Impact Sensing Auto Door Unlock,YES
+KIA,SELTOS,Seltos GTX A iVT,360 View Camera,YES
+KIA,SELTOS,Seltos GTX A iVT,Radio,YES
+KIA,SELTOS,Seltos GTX A iVT,Wireless Phone Charging,YES
+KIA,SELTOS,Seltos GTX A iVT,Bluetooth Connectivity,YES
+KIA,SELTOS,Seltos GTX A iVT,Touchscreen,YES
+KIA,SELTOS,Seltos GTX A iVT,Touchscreen Size,12.3 inch
+KIA,SELTOS,Seltos GTX A iVT,Android Auto,YES
+KIA,SELTOS,Seltos GTX A iVT,Apple CarPlay,YES
+KIA,SELTOS,Seltos GTX A iVT,No. of Speakers,8
+KIA,SELTOS,Seltos GTX A iVT,Usb Ports,YES
+KIA,SELTOS,Seltos GTX A iVT,Additional Features,Wireless Android Auto/Apple CarPlay
+KIA,SELTOS,Seltos GTX A iVT,Speakers,Front & Rear

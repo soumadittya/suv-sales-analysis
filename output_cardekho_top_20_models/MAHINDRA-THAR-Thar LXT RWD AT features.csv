@@ -1,0 +1,106 @@
+company,model,variant,feature_name,feature_details
+MAHINDRA,THAR,Thar LXT RWD AT,Engine Type,mStallion 150 TGDi
+MAHINDRA,THAR,Thar LXT RWD AT,Displacement,1997 cc
+MAHINDRA,THAR,Thar LXT RWD AT,Max Power,150.19bhp@5000rpm
+MAHINDRA,THAR,Thar LXT RWD AT,Max Torque,320Nm@1500-3000rpm
+MAHINDRA,THAR,Thar LXT RWD AT,No. of Cylinders,4
+MAHINDRA,THAR,Thar LXT RWD AT,Valves Per Cylinder,4
+MAHINDRA,THAR,Thar LXT RWD AT,Turbo Charger,YES
+MAHINDRA,THAR,Thar LXT RWD AT,Transmission Type,Automatic
+MAHINDRA,THAR,Thar LXT RWD AT,Gearbox,6-Speed
+MAHINDRA,THAR,Thar LXT RWD AT,Drive Type,RWD
+MAHINDRA,THAR,Thar LXT RWD AT,Fuel Type,Petrol
+MAHINDRA,THAR,Thar LXT RWD AT,Petrol Fuel Tank Capacity,57 Litres
+MAHINDRA,THAR,Thar LXT RWD AT,Petrol Highway Mileage,9 kmpl
+MAHINDRA,THAR,Thar LXT RWD AT,Emission Norm Compliance,BS VI 2.0
+MAHINDRA,THAR,Thar LXT RWD AT,Front Suspension,Double wishbone suspension
+MAHINDRA,THAR,Thar LXT RWD AT,Rear Suspension,"Multi-link, Solid Axle"
+MAHINDRA,THAR,Thar LXT RWD AT,Steering Type,Hydraulic
+MAHINDRA,THAR,Thar LXT RWD AT,Steering Column,Tilt
+MAHINDRA,THAR,Thar LXT RWD AT,Steering Gear Type,Rack & Pinion
+MAHINDRA,THAR,Thar LXT RWD AT,Front Brake Type,Disc
+MAHINDRA,THAR,Thar LXT RWD AT,Rear Brake Type,Drum
+MAHINDRA,THAR,Thar LXT RWD AT,Alloy Wheel Size Front,18 Inch
+MAHINDRA,THAR,Thar LXT RWD AT,Alloy Wheel Size Rear,18 Inch
+MAHINDRA,THAR,Thar LXT RWD AT,Length,3985 mm
+MAHINDRA,THAR,Thar LXT RWD AT,Width,1820 mm
+MAHINDRA,THAR,Thar LXT RWD AT,Height,1855 mm
+MAHINDRA,THAR,Thar LXT RWD AT,Seating Capacity,4
+MAHINDRA,THAR,Thar LXT RWD AT,Ground Clearance Unladen,226 mm
+MAHINDRA,THAR,Thar LXT RWD AT,Wheel Base,2450 mm
+MAHINDRA,THAR,Thar LXT RWD AT,Rear Tread,1520 mm
+MAHINDRA,THAR,Thar LXT RWD AT,Approach Angle,41.2°
+MAHINDRA,THAR,Thar LXT RWD AT,Break-over Angle,26.2°
+MAHINDRA,THAR,Thar LXT RWD AT,Departure Angle,36°
+MAHINDRA,THAR,Thar LXT RWD AT,No. of Doors,3
+MAHINDRA,THAR,Thar LXT RWD AT,Power Steering,YES
+MAHINDRA,THAR,Thar LXT RWD AT,Air Conditioner,YES
+MAHINDRA,THAR,Thar LXT RWD AT,Heater,YES
+MAHINDRA,THAR,Thar LXT RWD AT,Height Adjustable Driver Seat,YES
+MAHINDRA,THAR,Thar LXT RWD AT,Accessory Power Outlet,YES
+MAHINDRA,THAR,Thar LXT RWD AT,Rear Reading Lamp,YES
+MAHINDRA,THAR,Thar LXT RWD AT,Adjustable Headrest,YES
+MAHINDRA,THAR,Thar LXT RWD AT,Rear AC Vents,YES
+MAHINDRA,THAR,Thar LXT RWD AT,Cruise Control,YES
+MAHINDRA,THAR,Thar LXT RWD AT,Parking Sensors,Rear
+MAHINDRA,THAR,Thar LXT RWD AT,Foldable Rear Seat,50:50 Split
+MAHINDRA,THAR,Thar LXT RWD AT,KeyLess Entry,YES
+MAHINDRA,THAR,Thar LXT RWD AT,Voice Commands,YES
+MAHINDRA,THAR,Thar LXT RWD AT,Lane Change Indicator,YES
+MAHINDRA,THAR,Thar LXT RWD AT,Follow Me Home Headlamps,YES
+MAHINDRA,THAR,Thar LXT RWD AT,Additional Features,"Adventure Statistics Gen II, Advanced Electronic Brake Locking Differential,Mechanical Locking Differential"
+MAHINDRA,THAR,Thar LXT RWD AT,Power Windows,Front Only
+MAHINDRA,THAR,Thar LXT RWD AT,Tachometer,YES
+MAHINDRA,THAR,Thar LXT RWD AT,Glove Box,YES
+MAHINDRA,THAR,Thar LXT RWD AT,Digital Cluster,Sami(Coloured)
+MAHINDRA,THAR,Thar LXT RWD AT,Digital Cluster Size,4.2 inch
+MAHINDRA,THAR,Thar LXT RWD AT,Upholstery,Fabric
+MAHINDRA,THAR,Thar LXT RWD AT,Rear Window Wiper,YES
+MAHINDRA,THAR,Thar LXT RWD AT,Rear Window Washer,YES
+MAHINDRA,THAR,Thar LXT RWD AT,Rear Window Defogger,YES
+MAHINDRA,THAR,Thar LXT RWD AT,Alloy Wheels,YES
+MAHINDRA,THAR,Thar LXT RWD AT,Side Stepper,YES
+MAHINDRA,THAR,Thar LXT RWD AT,Integrated Antenna,YES
+MAHINDRA,THAR,Thar LXT RWD AT,Fog Lights,Front
+MAHINDRA,THAR,Thar LXT RWD AT,Antenna,Fender-mounted
+MAHINDRA,THAR,Thar LXT RWD AT,Boot Opening,Manual
+MAHINDRA,THAR,Thar LXT RWD AT,Outside Rear View Mirror (ORVM),Powered
+MAHINDRA,THAR,Thar LXT RWD AT,Tyre Size,255/65 R18
+MAHINDRA,THAR,Thar LXT RWD AT,Tyre Type,Tubeless All-Terrain
+MAHINDRA,THAR,Thar LXT RWD AT,LED DRLs,YES
+MAHINDRA,THAR,Thar LXT RWD AT,LED Headlamps,YES
+MAHINDRA,THAR,Thar LXT RWD AT,LED Taillights,YES
+MAHINDRA,THAR,Thar LXT RWD AT,Anti-lock Braking System (ABS),YES
+MAHINDRA,THAR,Thar LXT RWD AT,Brake Assist,YES
+MAHINDRA,THAR,Thar LXT RWD AT,Central Locking,YES
+MAHINDRA,THAR,Thar LXT RWD AT,No. of Airbags,2
+MAHINDRA,THAR,Thar LXT RWD AT,Driver Airbag,YES
+MAHINDRA,THAR,Thar LXT RWD AT,Passenger Airbag,YES
+MAHINDRA,THAR,Thar LXT RWD AT,Side Airbag,NO
+MAHINDRA,THAR,Thar LXT RWD AT,Side Airbag-Rear,NO
+MAHINDRA,THAR,Thar LXT RWD AT,Day & Night Rear View Mirror,YES
+MAHINDRA,THAR,Thar LXT RWD AT,Electronic Brakeforce Distribution (EBD),YES
+MAHINDRA,THAR,Thar LXT RWD AT,Seat Belt Warning,YES
+MAHINDRA,THAR,Thar LXT RWD AT,Tyre Pressure Monitoring System (TPMS),YES
+MAHINDRA,THAR,Thar LXT RWD AT,Electronic Stability Control (ESC),YES
+MAHINDRA,THAR,Thar LXT RWD AT,Rear Camera,With Guidedlines
+MAHINDRA,THAR,Thar LXT RWD AT,Speed Alert,YES
+MAHINDRA,THAR,Thar LXT RWD AT,Speed Sensing Auto Door Lock,YES
+MAHINDRA,THAR,Thar LXT RWD AT,ISOFIX Child Seat Mounts,YES
+MAHINDRA,THAR,Thar LXT RWD AT,Hill Descent Control,YES
+MAHINDRA,THAR,Thar LXT RWD AT,Hill Assist,YES
+MAHINDRA,THAR,Thar LXT RWD AT,Global NCAP Safety Rating,4 Star
+MAHINDRA,THAR,Thar LXT RWD AT,Global NCAP Child Safety Rating,4 Star
+MAHINDRA,THAR,Thar LXT RWD AT,Radio,YES
+MAHINDRA,THAR,Thar LXT RWD AT,Integrated 2DIN Audio,YES
+MAHINDRA,THAR,Thar LXT RWD AT,Bluetooth Connectivity,YES
+MAHINDRA,THAR,Thar LXT RWD AT,Touchscreen,YES
+MAHINDRA,THAR,Thar LXT RWD AT,Touchscreen Size,10.24 inch
+MAHINDRA,THAR,Thar LXT RWD AT,Connectivity,"Android Auto, Apple CarPlay"
+MAHINDRA,THAR,Thar LXT RWD AT,Android Auto,YES
+MAHINDRA,THAR,Thar LXT RWD AT,Apple CarPlay,YES
+MAHINDRA,THAR,Thar LXT RWD AT,No. of Speakers,4
+MAHINDRA,THAR,Thar LXT RWD AT,Usb Ports,YES
+MAHINDRA,THAR,Thar LXT RWD AT,Tweeters,2
+MAHINDRA,THAR,Thar LXT RWD AT,Additional Features,wireless android auto play
+MAHINDRA,THAR,Thar LXT RWD AT,Speakers,Front & Rear

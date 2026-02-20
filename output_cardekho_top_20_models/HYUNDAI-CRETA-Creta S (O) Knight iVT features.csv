@@ -1,0 +1,138 @@
+company,model,variant,feature_name,feature_details
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Engine Type,1.5L MPi
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Displacement,1497 cc
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Max Power,113.18bhp@6300rpm
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Max Torque,143.8Nm@4500rpm
+HYUNDAI,CRETA,Creta S (O) Knight iVT,No. of Cylinders,4
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Valves Per Cylinder,4
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Valve Configuration,DOHC
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Fuel Supply System,MPi
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Turbo Charger,NO
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Transmission Type,Automatic
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Gearbox,6-Speed iVT
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Drive Type,FWD
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Fuel Type,Petrol
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Petrol Mileage ARAI,17.7 kmpl
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Petrol Fuel Tank Capacity,50 Litres
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Emission Norm Compliance,BS VI 2.0
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Front Suspension,MacPherson Strut suspension
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Rear Suspension,Rear twist beam
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Steering Type,Electric
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Steering Column,Tilt & Telescopic
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Turning Radius,5.3 m
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Front Brake Type,Disc
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Rear Brake Type,Disc
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Alloy Wheel Size Front,17 Inch
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Alloy Wheel Size Rear,17 Inch
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Length,4330 mm
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Width,1790 mm
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Height,1635 mm
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Seating Capacity,5
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Ground Clearance Unladen,190 mm
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Wheel Base,2610 mm
+HYUNDAI,CRETA,Creta S (O) Knight iVT,No. of Doors,5
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Reported Boot Space,433 Litres
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Power Steering,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Air Conditioner,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Heater,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Height Adjustable Driver Seat,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Ventilated Seats,NO
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Electric Adjustable Seats,NO
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Automatic Climate Control,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Accessory Power Outlet,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Trunk Light,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Vanity Mirror,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Rear Reading Lamp,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Adjustable Headrest,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Rear Seat Centre Arm Rest,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Height Adjustable Front Seat Belts,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Rear AC Vents,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Cruise Control,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Parking Sensors,Rear
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Foldable Rear Seat,60:40 Split
+HYUNDAI,CRETA,Creta S (O) Knight iVT,KeyLess Entry,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Engine Start/Stop Button,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Cooled Glovebox,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Voice Commands,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Paddle Shifters,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,USB Charger,Front & Rear
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Central Console Armrest,With Storage
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Hands-Free Tailgate,NO
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Drive Modes,3
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Idle Start-Stop System,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Rear Window Sunblind,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Automatic Headlamps,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Follow Me Home Headlamps,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Additional Features,Sunglass holder
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Voice assisted sunroof,NO
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Drive Mode Types,ECO|NORMAL|SPORT
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Power Windows,Front & Rear
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Tachometer,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Glove Box,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Digital Odometer,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Dual Tone Dashboard,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Additional Features,Rear parcel tray
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Digital Cluster,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Upholstery,Fabric
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Rear Window Wiper,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Rear Window Washer,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Rear Window Defogger,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Wheel Covers,NO
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Alloy Wheels,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Rear Spoiler,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Outside Rear View Mirror Turn Indicators,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Integrated Antenna,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Projector Headlamps,NO
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Roof Rails,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Antenna,Shark Fin
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Sunroof,Panoramic
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Boot Opening,Electronic
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Puddle Lamps,NO
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Outside Rear View Mirror (ORVM),Powered & Folding
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Tyre Size,215 / 55 R18
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Tyre Type,Radial Tubeless
+HYUNDAI,CRETA,Creta S (O) Knight iVT,LED DRLs,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,LED Headlamps,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,LED Taillights,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Anti-lock Braking System (ABS),YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Central Locking,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Child Safety Locks,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Anti-Theft Alarm,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,No. of Airbags,6
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Driver Airbag,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Passenger Airbag,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Side Airbag,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Side Airbag-Rear,NO
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Day & Night Rear View Mirror,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Curtain Airbag,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Electronic Brakeforce Distribution (EBD),YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Seat Belt Warning,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Door Ajar Warning,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Traction Control,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Tyre Pressure Monitoring System (TPMS),YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Engine Immobilizer,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Electronic Stability Control (ESC),YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Rear Camera,With Guidedlines
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Anti-Theft Device,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Speed Alert,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Speed Sensing Auto Door Lock,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Knee Airbags,NO
+HYUNDAI,CRETA,Creta S (O) Knight iVT,ISOFIX Child Seat Mounts,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Hill Assist,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Impact Sensing Auto Door Unlock,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,360 View Camera,NO
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Radio,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Integrated 2DIN Audio,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Wireless Phone Charging,NO
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Bluetooth Connectivity,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Touchscreen,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Touchscreen Size,8 inch
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Connectivity,Android Auto
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Android Auto,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Apple CarPlay,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,No. of Speakers,4
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Usb Ports,YES
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Inbuilt Apps,NO
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Tweeters,2
+HYUNDAI,CRETA,Creta S (O) Knight iVT,Speakers,Front & Rear

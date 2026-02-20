@@ -1,0 +1,139 @@
+company,model,variant,feature_name,feature_details
+HYUNDAI,CRETA,Creta SX Tech Diesel,Engine Type,1.5L U2 CRDi
+HYUNDAI,CRETA,Creta SX Tech Diesel,Displacement,1493 cc
+HYUNDAI,CRETA,Creta SX Tech Diesel,Max Power,114bhp@4000rpm
+HYUNDAI,CRETA,Creta SX Tech Diesel,Max Torque,250Nm@1500-2750rpm
+HYUNDAI,CRETA,Creta SX Tech Diesel,No. of Cylinders,4
+HYUNDAI,CRETA,Creta SX Tech Diesel,Valves Per Cylinder,4
+HYUNDAI,CRETA,Creta SX Tech Diesel,Valve Configuration,DOHC
+HYUNDAI,CRETA,Creta SX Tech Diesel,Fuel Supply System,CRDi
+HYUNDAI,CRETA,Creta SX Tech Diesel,Turbo Charger,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Transmission Type,Manual
+HYUNDAI,CRETA,Creta SX Tech Diesel,Gearbox,6-Speed
+HYUNDAI,CRETA,Creta SX Tech Diesel,Drive Type,FWD
+HYUNDAI,CRETA,Creta SX Tech Diesel,Fuel Type,Diesel
+HYUNDAI,CRETA,Creta SX Tech Diesel,Diesel Mileage ARAI,21.8 kmpl
+HYUNDAI,CRETA,Creta SX Tech Diesel,Diesel Fuel Tank Capacity,50 Litres
+HYUNDAI,CRETA,Creta SX Tech Diesel,Emission Norm Compliance,BS VI 2.0
+HYUNDAI,CRETA,Creta SX Tech Diesel,Front Suspension,MacPherson Strut suspension
+HYUNDAI,CRETA,Creta SX Tech Diesel,Rear Suspension,Rear twist beam
+HYUNDAI,CRETA,Creta SX Tech Diesel,Steering Type,Electric
+HYUNDAI,CRETA,Creta SX Tech Diesel,Steering Column,Tilt & Telescopic
+HYUNDAI,CRETA,Creta SX Tech Diesel,Turning Radius,5.3 m
+HYUNDAI,CRETA,Creta SX Tech Diesel,Front Brake Type,Disc
+HYUNDAI,CRETA,Creta SX Tech Diesel,Rear Brake Type,Disc
+HYUNDAI,CRETA,Creta SX Tech Diesel,Alloy Wheel Size Front,18 Inch
+HYUNDAI,CRETA,Creta SX Tech Diesel,Alloy Wheel Size Rear,18 Inch
+HYUNDAI,CRETA,Creta SX Tech Diesel,Length,4330 mm
+HYUNDAI,CRETA,Creta SX Tech Diesel,Width,1790 mm
+HYUNDAI,CRETA,Creta SX Tech Diesel,Height,1635 mm
+HYUNDAI,CRETA,Creta SX Tech Diesel,Seating Capacity,5
+HYUNDAI,CRETA,Creta SX Tech Diesel,Ground Clearance Unladen,190 mm
+HYUNDAI,CRETA,Creta SX Tech Diesel,Wheel Base,2610 mm
+HYUNDAI,CRETA,Creta SX Tech Diesel,No. of Doors,5
+HYUNDAI,CRETA,Creta SX Tech Diesel,Reported Boot Space,433 Litres
+HYUNDAI,CRETA,Creta SX Tech Diesel,Power Steering,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Air Conditioner,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Heater,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Height Adjustable Driver Seat,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Ventilated Seats,NO
+HYUNDAI,CRETA,Creta SX Tech Diesel,Electric Adjustable Seats,NO
+HYUNDAI,CRETA,Creta SX Tech Diesel,Automatic Climate Control,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Accessory Power Outlet,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Trunk Light,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Vanity Mirror,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Rear Reading Lamp,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Adjustable Headrest,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Rear Seat Centre Arm Rest,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Height Adjustable Front Seat Belts,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Rear AC Vents,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Cruise Control,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Parking Sensors,Rear
+HYUNDAI,CRETA,Creta SX Tech Diesel,Foldable Rear Seat,60:40 Split
+HYUNDAI,CRETA,Creta SX Tech Diesel,KeyLess Entry,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Engine Start/Stop Button,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Cooled Glovebox,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Voice Commands,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Paddle Shifters,NO
+HYUNDAI,CRETA,Creta SX Tech Diesel,USB Charger,Front & Rear
+HYUNDAI,CRETA,Creta SX Tech Diesel,Central Console Armrest,With Storage
+HYUNDAI,CRETA,Creta SX Tech Diesel,Hands-Free Tailgate,NO
+HYUNDAI,CRETA,Creta SX Tech Diesel,Idle Start-Stop System,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Rear Window Sunblind,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Automatic Headlamps,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Follow Me Home Headlamps,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Additional Features,Sunglass holder
+HYUNDAI,CRETA,Creta SX Tech Diesel,Voice assisted sunroof,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Drive Mode Types,NA
+HYUNDAI,CRETA,Creta SX Tech Diesel,Tachometer,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Glove Box,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Digital Odometer,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Dual Tone Dashboard,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Additional Features,Rear parcel tray
+HYUNDAI,CRETA,Creta SX Tech Diesel,Digital Cluster,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Upholstery,Leatherette
+HYUNDAI,CRETA,Creta SX Tech Diesel,Rear Window Wiper,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Rear Window Washer,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Rear Window Defogger,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Wheel Covers,NO
+HYUNDAI,CRETA,Creta SX Tech Diesel,Alloy Wheels,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Rear Spoiler,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Outside Rear View Mirror Turn Indicators,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Integrated Antenna,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Projector Headlamps,NO
+HYUNDAI,CRETA,Creta SX Tech Diesel,Roof Rails,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Antenna,Shark Fin
+HYUNDAI,CRETA,Creta SX Tech Diesel,Sunroof,Panoramic
+HYUNDAI,CRETA,Creta SX Tech Diesel,Boot Opening,Electronic
+HYUNDAI,CRETA,Creta SX Tech Diesel,Puddle Lamps,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Outside Rear View Mirror (ORVM),Powered & Folding
+HYUNDAI,CRETA,Creta SX Tech Diesel,Tyre Size,215/55 R18
+HYUNDAI,CRETA,Creta SX Tech Diesel,Tyre Type,Radial Tubeless
+HYUNDAI,CRETA,Creta SX Tech Diesel,LED DRLs,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,LED Headlamps,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,LED Taillights,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Anti-lock Braking System (ABS),YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Central Locking,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Child Safety Locks,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Anti-Theft Alarm,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,No. of Airbags,6
+HYUNDAI,CRETA,Creta SX Tech Diesel,Driver Airbag,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Passenger Airbag,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Side Airbag,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Side Airbag-Rear,NO
+HYUNDAI,CRETA,Creta SX Tech Diesel,Day & Night Rear View Mirror,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Curtain Airbag,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Electronic Brakeforce Distribution (EBD),YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Seat Belt Warning,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Door Ajar Warning,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Traction Control,NO
+HYUNDAI,CRETA,Creta SX Tech Diesel,Tyre Pressure Monitoring System (TPMS),YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Engine Immobilizer,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Electronic Stability Control (ESC),YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Rear Camera,With Guidedlines
+HYUNDAI,CRETA,Creta SX Tech Diesel,Anti-Theft Device,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Anti-Pinch Power Windows,Driver's Window
+HYUNDAI,CRETA,Creta SX Tech Diesel,Speed Alert,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Speed Sensing Auto Door Lock,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Knee Airbags,NO
+HYUNDAI,CRETA,Creta SX Tech Diesel,ISOFIX Child Seat Mounts,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+HYUNDAI,CRETA,Creta SX Tech Diesel,Hill Assist,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Impact Sensing Auto Door Unlock,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,360 View Camera,NO
+HYUNDAI,CRETA,Creta SX Tech Diesel,Radio,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Integrated 2DIN Audio,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Wireless Phone Charging,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Bluetooth Connectivity,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Touchscreen,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Touchscreen Size,10.25 inch
+HYUNDAI,CRETA,Creta SX Tech Diesel,Connectivity,Android Auto
+HYUNDAI,CRETA,Creta SX Tech Diesel,Android Auto,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Apple CarPlay,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,No. of Speakers,5
+HYUNDAI,CRETA,Creta SX Tech Diesel,Usb Ports,YES
+HYUNDAI,CRETA,Creta SX Tech Diesel,Inbuilt Apps,JioSaavan
+HYUNDAI,CRETA,Creta SX Tech Diesel,Tweeters,2
+HYUNDAI,CRETA,Creta SX Tech Diesel,Subwoofer,1
+HYUNDAI,CRETA,Creta SX Tech Diesel,Additional Features,Bose premium sound 8 speaker system with front central speaker & sub-woofer
+HYUNDAI,CRETA,Creta SX Tech Diesel,Speakers,Front & Rear

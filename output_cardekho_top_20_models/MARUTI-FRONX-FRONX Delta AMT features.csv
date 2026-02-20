@@ -1,0 +1,118 @@
+company,model,variant,feature_name,feature_details
+MARUTI,FRONX,FRONX Delta AMT,Engine Type,"1.2L Dual Jet, Dual VVT"
+MARUTI,FRONX,FRONX Delta AMT,Displacement,1197 cc
+MARUTI,FRONX,FRONX Delta AMT,Max Power,88.50bhp@6000rpm
+MARUTI,FRONX,FRONX Delta AMT,Max Torque,113Nm@4400rpm
+MARUTI,FRONX,FRONX Delta AMT,No. of Cylinders,4
+MARUTI,FRONX,FRONX Delta AMT,Valves Per Cylinder,4
+MARUTI,FRONX,FRONX Delta AMT,Turbo Charger,NO
+MARUTI,FRONX,FRONX Delta AMT,Transmission Type,Automatic
+MARUTI,FRONX,FRONX Delta AMT,Gearbox,5-Speed AMT
+MARUTI,FRONX,FRONX Delta AMT,Drive Type,FWD
+MARUTI,FRONX,FRONX Delta AMT,Fuel Type,Petrol
+MARUTI,FRONX,FRONX Delta AMT,Petrol Mileage ARAI,22.89 kmpl
+MARUTI,FRONX,FRONX Delta AMT,Petrol Fuel Tank Capacity,37 Litres
+MARUTI,FRONX,FRONX Delta AMT,Emission Norm Compliance,BS VI 2.0
+MARUTI,FRONX,FRONX Delta AMT,Top Speed,180 kmph
+MARUTI,FRONX,FRONX Delta AMT,Front Suspension,MacPherson Strut suspension
+MARUTI,FRONX,FRONX Delta AMT,Rear Suspension,Rear twist beam
+MARUTI,FRONX,FRONX Delta AMT,Steering Type,Electric
+MARUTI,FRONX,FRONX Delta AMT,Steering Column,Tilt
+MARUTI,FRONX,FRONX Delta AMT,Turning Radius,4.9 m
+MARUTI,FRONX,FRONX Delta AMT,Front Brake Type,Disc
+MARUTI,FRONX,FRONX Delta AMT,Rear Brake Type,Drum
+MARUTI,FRONX,FRONX Delta AMT,Length,3995 mm
+MARUTI,FRONX,FRONX Delta AMT,Width,1765 mm
+MARUTI,FRONX,FRONX Delta AMT,Height,1550 mm
+MARUTI,FRONX,FRONX Delta AMT,Boot Space,308 Litres
+MARUTI,FRONX,FRONX Delta AMT,Seating Capacity,5
+MARUTI,FRONX,FRONX Delta AMT,Wheel Base,2520 mm
+MARUTI,FRONX,FRONX Delta AMT,Kerb Weight,965-975 kg
+MARUTI,FRONX,FRONX Delta AMT,Gross Weight,1450 kg
+MARUTI,FRONX,FRONX Delta AMT,No. of Doors,5
+MARUTI,FRONX,FRONX Delta AMT,Power Steering,YES
+MARUTI,FRONX,FRONX Delta AMT,Air Conditioner,YES
+MARUTI,FRONX,FRONX Delta AMT,Heater,YES
+MARUTI,FRONX,FRONX Delta AMT,Height Adjustable Driver Seat,NO
+MARUTI,FRONX,FRONX Delta AMT,Automatic Climate Control,YES
+MARUTI,FRONX,FRONX Delta AMT,Rear Reading Lamp,YES
+MARUTI,FRONX,FRONX Delta AMT,Adjustable Headrest,YES
+MARUTI,FRONX,FRONX Delta AMT,Rear AC Vents,NO
+MARUTI,FRONX,FRONX Delta AMT,Cruise Control,NO
+MARUTI,FRONX,FRONX Delta AMT,Parking Sensors,Rear
+MARUTI,FRONX,FRONX Delta AMT,Real-Time Vehicle Tracking,NO
+MARUTI,FRONX,FRONX Delta AMT,Foldable Rear Seat,60:40 Split
+MARUTI,FRONX,FRONX Delta AMT,KeyLess Entry,YES
+MARUTI,FRONX,FRONX Delta AMT,Engine Start/Stop Button,NO
+MARUTI,FRONX,FRONX Delta AMT,Voice Commands,YES
+MARUTI,FRONX,FRONX Delta AMT,Paddle Shifters,NO
+MARUTI,FRONX,FRONX Delta AMT,USB Charger,Front
+MARUTI,FRONX,FRONX Delta AMT,Central Console Armrest,NO
+MARUTI,FRONX,FRONX Delta AMT,Gear Shift Indicator,NO
+MARUTI,FRONX,FRONX Delta AMT,Idle Start-Stop System,YES
+MARUTI,FRONX,FRONX Delta AMT,Automatic Headlamps,NO
+MARUTI,FRONX,FRONX Delta AMT,Follow Me Home Headlamps,NO
+MARUTI,FRONX,FRONX Delta AMT,Power Windows,Front & Rear
+MARUTI,FRONX,FRONX Delta AMT,Tachometer,YES
+MARUTI,FRONX,FRONX Delta AMT,Glove Box,YES
+MARUTI,FRONX,FRONX Delta AMT,Dual Tone Dashboard,YES
+MARUTI,FRONX,FRONX Delta AMT,Additional Features,Rear Parcel Tray
+MARUTI,FRONX,FRONX Delta AMT,Digital Cluster,NO
+MARUTI,FRONX,FRONX Delta AMT,Upholstery,Fabric
+MARUTI,FRONX,FRONX Delta AMT,Rear Window Wiper,NO
+MARUTI,FRONX,FRONX Delta AMT,Rear Window Washer,NO
+MARUTI,FRONX,FRONX Delta AMT,Rear Window Defogger,YES
+MARUTI,FRONX,FRONX Delta AMT,Wheel Covers,YES
+MARUTI,FRONX,FRONX Delta AMT,Alloy Wheels,NO
+MARUTI,FRONX,FRONX Delta AMT,Rear Spoiler,YES
+MARUTI,FRONX,FRONX Delta AMT,Outside Rear View Mirror Turn Indicators,YES
+MARUTI,FRONX,FRONX Delta AMT,Integrated Antenna,YES
+MARUTI,FRONX,FRONX Delta AMT,Chrome Grille,YES
+MARUTI,FRONX,FRONX Delta AMT,Projector Headlamps,YES
+MARUTI,FRONX,FRONX Delta AMT,Halogen Headlamps,YES
+MARUTI,FRONX,FRONX Delta AMT,Antenna,Shark Fin
+MARUTI,FRONX,FRONX Delta AMT,Outside Rear View Mirror (ORVM),Powered
+MARUTI,FRONX,FRONX Delta AMT,Tyre Size,195/60 R16
+MARUTI,FRONX,FRONX Delta AMT,Tyre Type,Radial Tubeless
+MARUTI,FRONX,FRONX Delta AMT,Wheel Size,16 Inch
+MARUTI,FRONX,FRONX Delta AMT,LED DRLs,NO
+MARUTI,FRONX,FRONX Delta AMT,LED Headlamps,NO
+MARUTI,FRONX,FRONX Delta AMT,LED Taillights,YES
+MARUTI,FRONX,FRONX Delta AMT,Anti-lock Braking System (ABS),YES
+MARUTI,FRONX,FRONX Delta AMT,Central Locking,YES
+MARUTI,FRONX,FRONX Delta AMT,Anti-Theft Alarm,YES
+MARUTI,FRONX,FRONX Delta AMT,No. of Airbags,6
+MARUTI,FRONX,FRONX Delta AMT,Driver Airbag,YES
+MARUTI,FRONX,FRONX Delta AMT,Passenger Airbag,YES
+MARUTI,FRONX,FRONX Delta AMT,Side Airbag,YES
+MARUTI,FRONX,FRONX Delta AMT,Side Airbag-Rear,NO
+MARUTI,FRONX,FRONX Delta AMT,Day & Night Rear View Mirror,YES
+MARUTI,FRONX,FRONX Delta AMT,Curtain Airbag,YES
+MARUTI,FRONX,FRONX Delta AMT,Electronic Brakeforce Distribution (EBD),YES
+MARUTI,FRONX,FRONX Delta AMT,Seat Belt Warning,YES
+MARUTI,FRONX,FRONX Delta AMT,Door Ajar Warning,YES
+MARUTI,FRONX,FRONX Delta AMT,Engine Immobilizer,YES
+MARUTI,FRONX,FRONX Delta AMT,Electronic Stability Control (ESC),YES
+MARUTI,FRONX,FRONX Delta AMT,Rear Camera,NO
+MARUTI,FRONX,FRONX Delta AMT,Anti-Theft Device,YES
+MARUTI,FRONX,FRONX Delta AMT,Speed Alert,YES
+MARUTI,FRONX,FRONX Delta AMT,Speed Sensing Auto Door Lock,YES
+MARUTI,FRONX,FRONX Delta AMT,ISOFIX Child Seat Mounts,YES
+MARUTI,FRONX,FRONX Delta AMT,Heads-Up Display (HUD),NO
+MARUTI,FRONX,FRONX Delta AMT,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+MARUTI,FRONX,FRONX Delta AMT,Hill Assist,YES
+MARUTI,FRONX,FRONX Delta AMT,Impact Sensing Auto Door Unlock,YES
+MARUTI,FRONX,FRONX Delta AMT,360 View Camera,NO
+MARUTI,FRONX,FRONX Delta AMT,Radio,YES
+MARUTI,FRONX,FRONX Delta AMT,Integrated 2DIN Audio,YES
+MARUTI,FRONX,FRONX Delta AMT,Wireless Phone Charging,NO
+MARUTI,FRONX,FRONX Delta AMT,Bluetooth Connectivity,YES
+MARUTI,FRONX,FRONX Delta AMT,Touchscreen,YES
+MARUTI,FRONX,FRONX Delta AMT,Touchscreen Size,7 inch
+MARUTI,FRONX,FRONX Delta AMT,Connectivity,"Android Auto, Apple CarPlay"
+MARUTI,FRONX,FRONX Delta AMT,Android Auto,YES
+MARUTI,FRONX,FRONX Delta AMT,Apple CarPlay,YES
+MARUTI,FRONX,FRONX Delta AMT,No. of Speakers,4
+MARUTI,FRONX,FRONX Delta AMT,Usb Ports,YES
+MARUTI,FRONX,FRONX Delta AMT,Additional Features,Android Auto and Apple CarPlay (Wireless)
+MARUTI,FRONX,FRONX Delta AMT,Speakers,Front & Rear

@@ -1,0 +1,123 @@
+company,model,variant,feature_name,feature_details
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Engine Type,K15B
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Displacement,1462 cc
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Max Power,101.64bhp@6000rpm
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Max Torque,136.8Nm@4400rpm
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,No. of Cylinders,4
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Valves Per Cylinder,4
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Transmission Type,Automatic
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Gearbox,6-Speed
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Drive Type,FWD
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Fuel Type,Petrol
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Petrol Mileage ARAI,20.58 kmpl
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Petrol Fuel Tank Capacity,45 Litres
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Emission Norm Compliance,BS VI 2.0
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Top Speed,180 kmph
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Front Suspension,MacPherson Strut suspension
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Rear Suspension,Rear twist beam
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Steering Type,Electric
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Steering Column,Tilt & Telescopic
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Turning Radius,5.4 m
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Front Brake Type,Ventilated Disc
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Rear Brake Type,Solid Disc
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Length,4365 mm
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Width,1795 mm
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Height,1645 mm
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Boot Space,373 Litres
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Seating Capacity,5
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Wheel Base,2600 mm
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Kerb Weight,1185-1215 kg
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Gross Weight,1675 kg
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,No. of Doors,5
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Reported Boot Space,373 Litres
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Power Steering,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Air Conditioner,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Heater,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Height Adjustable Driver Seat,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Ventilated Seats,NO
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Automatic Climate Control,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Air Quality Control,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Accessory Power Outlet,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Trunk Light,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Vanity Mirror,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Rear Reading Lamp,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Adjustable Headrest,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Rear Seat Centre Arm Rest,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Height Adjustable Front Seat Belts,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Rear AC Vents,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Cruise Control,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Parking Sensors,Rear
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Foldable Rear Seat,60:40 Split
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,KeyLess Entry,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Engine Start/Stop Button,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Paddle Shifters,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,USB Charger,Front & Rear
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Central Console Armrest,With Storage
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Tailgate Ajar Warning,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Gear Shift Indicator,NO
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Glove Box light,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Automatic Headlamps,NO
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Follow Me Home Headlamps,NO
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Tachometer,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Leather Wrapped Steering Wheel,NO
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Glove Box,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Digital Cluster,Semi
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Digital Cluster Size,4.2 inch
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Upholstery,Fabric
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Adjustable Headlamps,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Rear Window Wiper,NO
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Rear Window Washer,NO
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Wheel Covers,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Alloy Wheels,NO
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Rear Spoiler,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Outside Rear View Mirror Turn Indicators,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Integrated Antenna,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Projector Headlamps,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Halogen Headlamps,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Roof Rails,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Antenna,Shark Fin
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Sunroof,NO
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Boot Opening,Manual
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Tyre Size,215/60 R17
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Tyre Type,"Tubeless, Radial"
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Wheel Size,17 Inch
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,LED DRLs,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,LED Headlamps,NO
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,LED Taillights,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Anti-lock Braking System (ABS),YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Central Locking,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Child Safety Locks,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,No. of Airbags,6
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Driver Airbag,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Passenger Airbag,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Side Airbag,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Day & Night Rear View Mirror,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Curtain Airbag,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Electronic Brakeforce Distribution (EBD),YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Seat Belt Warning,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Door Ajar Warning,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Tyre Pressure Monitoring System (TPMS),YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Engine Immobilizer,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Electronic Stability Control (ESC),YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Rear Camera,With Guidedlines
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Speed Alert,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Speed Sensing Auto Door Lock,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,ISOFIX Child Seat Mounts,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Heads-Up Display (HUD),NO
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Hill Descent Control,NO
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Hill Assist,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Impact Sensing Auto Door Unlock,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,360 View Camera,NO
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Radio,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Integrated 2DIN Audio,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Wireless Phone Charging,NO
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Bluetooth Connectivity,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Touchscreen,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Touchscreen Size,7 inch
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Connectivity,"Android Auto, Apple CarPlay"
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Android Auto,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Apple CarPlay,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,No. of Speakers,4
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Usb Ports,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,Speakers,Front & Rear

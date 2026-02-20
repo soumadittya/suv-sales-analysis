@@ -1,0 +1,125 @@
+company,model,variant,feature_name,feature_details
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Engine Type,K15C
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Displacement,1462 cc
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Max Power,86.63bhp@5500rpm
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Max Torque,121.5Nm@4200rpm
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,No. of Cylinders,4
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Valves Per Cylinder,4
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Transmission Type,Manual
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Gearbox,5-Speed
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Drive Type,FWD
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Fuel Type,CNG
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,CNG Mileage ARAI,26.6 km/kg
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,CNG Fuel Tank Capacity,55 Litres
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Emission Norm Compliance,BS VI 2.0
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Top Speed,180 kmph
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Front Suspension,MacPherson Strut suspension
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Rear Suspension,Rear twist beam
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Steering Type,Electric
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Steering Column,Tilt & Telescopic
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Turning Radius,5.4 m
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Front Brake Type,Ventilated Disc
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Rear Brake Type,Solid Disc
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Alloy Wheel Size Front,17 Inch
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Alloy Wheel Size Rear,17 Inch
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Length,4365 mm
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Width,1795 mm
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Height,1645 mm
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Boot Space,273 Litres
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Seating Capacity,5
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Wheel Base,2600 mm
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Kerb Weight,1245 kg
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Gross Weight,1705 kg
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,No. of Doors,5
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Reported Boot Space,373 Litres
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Power Steering,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Air Conditioner,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Heater,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Height Adjustable Driver Seat,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Ventilated Seats,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Automatic Climate Control,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Air Quality Control,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Accessory Power Outlet,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Trunk Light,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Vanity Mirror,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Rear Reading Lamp,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Adjustable Headrest,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Rear Seat Centre Arm Rest,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Height Adjustable Front Seat Belts,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Rear AC Vents,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Cruise Control,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Parking Sensors,Rear
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Foldable Rear Seat,60:40 Split
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,KeyLess Entry,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Engine Start/Stop Button,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Paddle Shifters,NO
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,USB Charger,Front & Rear
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Central Console Armrest,With Storage
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Tailgate Ajar Warning,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Gear Shift Indicator,NO
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Glove Box light,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Automatic Headlamps,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Follow Me Home Headlamps,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Tachometer,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Leather Wrapped Steering Wheel,NO
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Glove Box,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Digital Cluster,Semi
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Digital Cluster Size,4.2 inch
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Upholstery,Fabric
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Adjustable Headlamps,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Rear Window Wiper,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Rear Window Washer,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Wheel Covers,NO
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Alloy Wheels,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Rear Spoiler,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Outside Rear View Mirror Turn Indicators,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Integrated Antenna,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Projector Headlamps,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Halogen Headlamps,NO
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Roof Rails,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Antenna,Shark Fin
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Sunroof,NO
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Boot Opening,Manual
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Tyre Size,215/60 R17
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Tyre Type,"Tubeless, Radial"
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,LED DRLs,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,LED Headlamps,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,LED Taillights,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Anti-lock Braking System (ABS),YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Central Locking,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Child Safety Locks,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,No. of Airbags,6
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Driver Airbag,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Passenger Airbag,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Side Airbag,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Day & Night Rear View Mirror,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Curtain Airbag,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Electronic Brakeforce Distribution (EBD),YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Seat Belt Warning,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Door Ajar Warning,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Tyre Pressure Monitoring System (TPMS),YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Engine Immobilizer,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Electronic Stability Control (ESC),YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Rear Camera,With Guidedlines
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Speed Alert,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Speed Sensing Auto Door Lock,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,ISOFIX Child Seat Mounts,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Heads-Up Display (HUD),NO
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Hill Descent Control,NO
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Hill Assist,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Impact Sensing Auto Door Unlock,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,360 View Camera,NO
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Radio,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Integrated 2DIN Audio,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Wireless Phone Charging,NO
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Bluetooth Connectivity,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Touchscreen,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Touchscreen Size,9 inch
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Connectivity,"Android Auto, Apple CarPlay"
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Android Auto,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Apple CarPlay,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,No. of Speakers,4
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Usb Ports,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Tweeters,2
+TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,Speakers,Front & Rear

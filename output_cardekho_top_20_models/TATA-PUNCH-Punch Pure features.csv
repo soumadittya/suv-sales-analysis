@@ -1,0 +1,116 @@
+company,model,variant,feature_name,feature_details
+TATA,PUNCH,Punch Pure,Engine Type,1.2 l Revotron
+TATA,PUNCH,Punch Pure,Displacement,1199 cc
+TATA,PUNCH,Punch Pure,Max Power,87bhp@6000rpm
+TATA,PUNCH,Punch Pure,Max Torque,115Nm@3250rpm
+TATA,PUNCH,Punch Pure,No. of Cylinders,3
+TATA,PUNCH,Punch Pure,Valves Per Cylinder,4
+TATA,PUNCH,Punch Pure,Turbo Charger,NO
+TATA,PUNCH,Punch Pure,Transmission Type,Manual
+TATA,PUNCH,Punch Pure,Gearbox,5-Speed
+TATA,PUNCH,Punch Pure,Drive Type,FWD
+TATA,PUNCH,Punch Pure,Fuel Type,Petrol
+TATA,PUNCH,Punch Pure,Petrol Fuel Tank Capacity,37 Litres
+TATA,PUNCH,Punch Pure,Emission Norm Compliance,BS VI 2.0
+TATA,PUNCH,Punch Pure,Top Speed,150 kmph
+TATA,PUNCH,Punch Pure,Front Suspension,MacPherson Strut suspension
+TATA,PUNCH,Punch Pure,Rear Suspension,Rear twist beam
+TATA,PUNCH,Punch Pure,Steering Type,Electric
+TATA,PUNCH,Punch Pure,Steering Column,Tilt
+TATA,PUNCH,Punch Pure,Front Brake Type,Disc
+TATA,PUNCH,Punch Pure,Rear Brake Type,Drum
+TATA,PUNCH,Punch Pure,Length,3876 mm
+TATA,PUNCH,Punch Pure,Width,1742 mm
+TATA,PUNCH,Punch Pure,Height,1615 mm
+TATA,PUNCH,Punch Pure,Boot Space,366 Litres
+TATA,PUNCH,Punch Pure,Seating Capacity,5
+TATA,PUNCH,Punch Pure,Ground Clearance Unladen,193 mm
+TATA,PUNCH,Punch Pure,Wheel Base,2445 mm
+TATA,PUNCH,Punch Pure,No. of Doors,5
+TATA,PUNCH,Punch Pure,Power Steering,YES
+TATA,PUNCH,Punch Pure,Air Conditioner,YES
+TATA,PUNCH,Punch Pure,Heater,YES
+TATA,PUNCH,Punch Pure,Adjustable Steering,Height only
+TATA,PUNCH,Punch Pure,Height Adjustable Driver Seat,NO
+TATA,PUNCH,Punch Pure,Automatic Climate Control,NO
+TATA,PUNCH,Punch Pure,Air Quality Control,NO
+TATA,PUNCH,Punch Pure,Accessory Power Outlet,YES
+TATA,PUNCH,Punch Pure,Vanity Mirror,NO
+TATA,PUNCH,Punch Pure,Rear Seat Headrest,Integrated
+TATA,PUNCH,Punch Pure,Adjustable Headrest,YES
+TATA,PUNCH,Punch Pure,Rear Seat Centre Arm Rest,NO
+TATA,PUNCH,Punch Pure,Rear AC Vents,YES
+TATA,PUNCH,Punch Pure,Cruise Control,NO
+TATA,PUNCH,Punch Pure,Parking Sensors,NO
+TATA,PUNCH,Punch Pure,KeyLess Entry,YES
+TATA,PUNCH,Punch Pure,Engine Start/Stop Button,NO
+TATA,PUNCH,Punch Pure,Cooled Glovebox,NO
+TATA,PUNCH,Punch Pure,Paddle Shifters,NO
+TATA,PUNCH,Punch Pure,USB Charger,Front
+TATA,PUNCH,Punch Pure,Central Console Armrest,YES
+TATA,PUNCH,Punch Pure,Drive Modes,2
+TATA,PUNCH,Punch Pure,Idle Start-Stop System,YES
+TATA,PUNCH,Punch Pure,Follow Me Home Headlamps,YES
+TATA,PUNCH,Punch Pure,Voice assisted sunroof,NO
+TATA,PUNCH,Punch Pure,Power Windows,Front & Rear
+TATA,PUNCH,Punch Pure,Tachometer,YES
+TATA,PUNCH,Punch Pure,Leather Wrapped Steering Wheel,NO
+TATA,PUNCH,Punch Pure,Leather wrap gear-shift selector,NO
+TATA,PUNCH,Punch Pure,Glove Box,YES
+TATA,PUNCH,Punch Pure,Digital Cluster,YES
+TATA,PUNCH,Punch Pure,Digital Cluster Size,4
+TATA,PUNCH,Punch Pure,Rain Sensing Wiper,NO
+TATA,PUNCH,Punch Pure,Rear Window Wiper,NO
+TATA,PUNCH,Punch Pure,Rear Window Washer,NO
+TATA,PUNCH,Punch Pure,Rear Window Defogger,YES
+TATA,PUNCH,Punch Pure,Wheel Covers,YES
+TATA,PUNCH,Punch Pure,Alloy Wheels,NO
+TATA,PUNCH,Punch Pure,Rear Spoiler,NO
+TATA,PUNCH,Punch Pure,Outside Rear View Mirror Turn Indicators,YES
+TATA,PUNCH,Punch Pure,Integrated Antenna,YES
+TATA,PUNCH,Punch Pure,Cornering Foglamps,NO
+TATA,PUNCH,Punch Pure,Roof Rails,NO
+TATA,PUNCH,Punch Pure,Automatic Headlamps,NO
+TATA,PUNCH,Punch Pure,Antenna,Pole Type
+TATA,PUNCH,Punch Pure,Sunroof,NO
+TATA,PUNCH,Punch Pure,Puddle Lamps,NO
+TATA,PUNCH,Punch Pure,Outside Rear View Mirror (ORVM),Powered & Folding
+TATA,PUNCH,Punch Pure,Tyre Size,185/70 R15
+TATA,PUNCH,Punch Pure,Tyre Type,Radial Tubeless
+TATA,PUNCH,Punch Pure,Wheel Size,15 Inch
+TATA,PUNCH,Punch Pure,LED DRLs,NO
+TATA,PUNCH,Punch Pure,LED Headlamps,YES
+TATA,PUNCH,Punch Pure,LED Taillights,NO
+TATA,PUNCH,Punch Pure,LED Fog Lamps,NO
+TATA,PUNCH,Punch Pure,Anti-lock Braking System (ABS),YES
+TATA,PUNCH,Punch Pure,Central Locking,YES
+TATA,PUNCH,Punch Pure,Child Safety Locks,YES
+TATA,PUNCH,Punch Pure,No. of Airbags,6
+TATA,PUNCH,Punch Pure,Driver Airbag,YES
+TATA,PUNCH,Punch Pure,Passenger Airbag,YES
+TATA,PUNCH,Punch Pure,Side Airbag,YES
+TATA,PUNCH,Punch Pure,Day & Night Rear View Mirror,YES
+TATA,PUNCH,Punch Pure,Curtain Airbag,YES
+TATA,PUNCH,Punch Pure,Electronic Brakeforce Distribution (EBD),YES
+TATA,PUNCH,Punch Pure,Seat Belt Warning,YES
+TATA,PUNCH,Punch Pure,Door Ajar Warning,YES
+TATA,PUNCH,Punch Pure,Tyre Pressure Monitoring System (TPMS),YES
+TATA,PUNCH,Punch Pure,Engine Immobilizer,YES
+TATA,PUNCH,Punch Pure,Electronic Stability Control (ESC),YES
+TATA,PUNCH,Punch Pure,Rear Camera,NO
+TATA,PUNCH,Punch Pure,Speed Alert,YES
+TATA,PUNCH,Punch Pure,Speed Sensing Auto Door Lock,YES
+TATA,PUNCH,Punch Pure,ISOFIX Child Seat Mounts,YES
+TATA,PUNCH,Punch Pure,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+TATA,PUNCH,Punch Pure,Hill Descent Control,NO
+TATA,PUNCH,Punch Pure,Hill Assist,YES
+TATA,PUNCH,Punch Pure,360 View Camera,NO
+TATA,PUNCH,Punch Pure,Radio,NO
+TATA,PUNCH,Punch Pure,Wireless Phone Charging,NO
+TATA,PUNCH,Punch Pure,Bluetooth Connectivity,NO
+TATA,PUNCH,Punch Pure,Touchscreen,NO
+TATA,PUNCH,Punch Pure,Android Auto,NO
+TATA,PUNCH,Punch Pure,Apple CarPlay,NO
+TATA,PUNCH,Punch Pure,No. of Speakers,4
+TATA,PUNCH,Punch Pure,Usb Ports,YES
+TATA,PUNCH,Punch Pure,Speakers,Front & Rear

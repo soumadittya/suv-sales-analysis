@@ -1,0 +1,117 @@
+company,model,variant,feature_name,feature_details
+MARUTI,XL6,XL6 Alpha,Engine Type,K15C Smart Hybrid
+MARUTI,XL6,XL6 Alpha,Displacement,1462 cc
+MARUTI,XL6,XL6 Alpha,Max Power,101.64bhp@6000rpm
+MARUTI,XL6,XL6 Alpha,Max Torque,136.8Nm@4400rpm
+MARUTI,XL6,XL6 Alpha,No. of Cylinders,4
+MARUTI,XL6,XL6 Alpha,Valves Per Cylinder,4
+MARUTI,XL6,XL6 Alpha,Transmission Type,Manual
+MARUTI,XL6,XL6 Alpha,Gearbox,5-Speed
+MARUTI,XL6,XL6 Alpha,Drive Type,FWD
+MARUTI,XL6,XL6 Alpha,Fuel Type,Petrol
+MARUTI,XL6,XL6 Alpha,Petrol Mileage ARAI,20.97 kmpl
+MARUTI,XL6,XL6 Alpha,Petrol Fuel Tank Capacity,45 Litres
+MARUTI,XL6,XL6 Alpha,Emission Norm Compliance,BS VI 2.0
+MARUTI,XL6,XL6 Alpha,Top Speed,170 kmph
+MARUTI,XL6,XL6 Alpha,Front Suspension,MacPherson Strut suspension
+MARUTI,XL6,XL6 Alpha,Rear Suspension,Rear twist beam
+MARUTI,XL6,XL6 Alpha,Steering Column,Tilt and Telescopic
+MARUTI,XL6,XL6 Alpha,Turning Radius,5.2 m
+MARUTI,XL6,XL6 Alpha,Front Brake Type,Disc
+MARUTI,XL6,XL6 Alpha,Rear Brake Type,Drum
+MARUTI,XL6,XL6 Alpha,Alloy Wheel Size Front,16 Inch
+MARUTI,XL6,XL6 Alpha,Alloy Wheel Size Rear,16 Inch
+MARUTI,XL6,XL6 Alpha,Length,4445 mm
+MARUTI,XL6,XL6 Alpha,Width,1775 mm
+MARUTI,XL6,XL6 Alpha,Height,1755 mm
+MARUTI,XL6,XL6 Alpha,Boot Space,209 Litres
+MARUTI,XL6,XL6 Alpha,Seating Capacity,6
+MARUTI,XL6,XL6 Alpha,Wheel Base,2740 mm
+MARUTI,XL6,XL6 Alpha,Kerb Weight,1200 kg
+MARUTI,XL6,XL6 Alpha,Gross Weight,1740 kg
+MARUTI,XL6,XL6 Alpha,No. of Doors,5
+MARUTI,XL6,XL6 Alpha,Reported Ground Clearance (Unladen),180 mm
+MARUTI,XL6,XL6 Alpha,Power Steering,YES
+MARUTI,XL6,XL6 Alpha,Air Conditioner,YES
+MARUTI,XL6,XL6 Alpha,Heater,YES
+MARUTI,XL6,XL6 Alpha,Height Adjustable Driver Seat,YES
+MARUTI,XL6,XL6 Alpha,Ventilated Seats,NO
+MARUTI,XL6,XL6 Alpha,Automatic Climate Control,YES
+MARUTI,XL6,XL6 Alpha,Accessory Power Outlet,YES
+MARUTI,XL6,XL6 Alpha,Vanity Mirror,YES
+MARUTI,XL6,XL6 Alpha,Rear Reading Lamp,YES
+MARUTI,XL6,XL6 Alpha,Rear Seat Centre Arm Rest,YES
+MARUTI,XL6,XL6 Alpha,Height Adjustable Front Seat Belts,YES
+MARUTI,XL6,XL6 Alpha,Rear AC Vents,YES
+MARUTI,XL6,XL6 Alpha,Cruise Control,YES
+MARUTI,XL6,XL6 Alpha,Parking Sensors,Rear
+MARUTI,XL6,XL6 Alpha,Real-Time Vehicle Tracking,YES
+MARUTI,XL6,XL6 Alpha,Foldable Rear Seat,3rd Row 50:50 Split
+MARUTI,XL6,XL6 Alpha,KeyLess Entry,YES
+MARUTI,XL6,XL6 Alpha,Engine Start/Stop Button,YES
+MARUTI,XL6,XL6 Alpha,Voice Commands,YES
+MARUTI,XL6,XL6 Alpha,USB Charger,Front
+MARUTI,XL6,XL6 Alpha,Central Console Armrest,With Storage
+MARUTI,XL6,XL6 Alpha,Tailgate Ajar Warning,YES
+MARUTI,XL6,XL6 Alpha,Gear Shift Indicator,YES
+MARUTI,XL6,XL6 Alpha,Idle Start-Stop System,YES
+MARUTI,XL6,XL6 Alpha,Automatic Headlamps,YES
+MARUTI,XL6,XL6 Alpha,Follow Me Home Headlamps,YES
+MARUTI,XL6,XL6 Alpha,Tachometer,YES
+MARUTI,XL6,XL6 Alpha,Leather Wrapped Steering Wheel,YES
+MARUTI,XL6,XL6 Alpha,Glove Box,YES
+MARUTI,XL6,XL6 Alpha,Additional Features,Gear Position Indicator
+MARUTI,XL6,XL6 Alpha,Digital Cluster,Semi
+MARUTI,XL6,XL6 Alpha,Upholstery,Leatherette
+MARUTI,XL6,XL6 Alpha,Adjustable Headlamps,YES
+MARUTI,XL6,XL6 Alpha,Rear Window Wiper,YES
+MARUTI,XL6,XL6 Alpha,Rear Window Washer,YES
+MARUTI,XL6,XL6 Alpha,Rear Window Defogger,YES
+MARUTI,XL6,XL6 Alpha,Alloy Wheels,YES
+MARUTI,XL6,XL6 Alpha,Rear Spoiler,NO
+MARUTI,XL6,XL6 Alpha,Outside Rear View Mirror Turn Indicators,YES
+MARUTI,XL6,XL6 Alpha,Integrated Antenna,YES
+MARUTI,XL6,XL6 Alpha,Fog Lights,Front
+MARUTI,XL6,XL6 Alpha,Antenna,Shark Fin
+MARUTI,XL6,XL6 Alpha,Boot Opening,Manual
+MARUTI,XL6,XL6 Alpha,Tyre Size,195/60 R16
+MARUTI,XL6,XL6 Alpha,Tyre Type,"Tubeless, Radial"
+MARUTI,XL6,XL6 Alpha,LED DRLs,YES
+MARUTI,XL6,XL6 Alpha,LED Headlamps,YES
+MARUTI,XL6,XL6 Alpha,LED Taillights,YES
+MARUTI,XL6,XL6 Alpha,LED Fog Lamps,YES
+MARUTI,XL6,XL6 Alpha,Anti-lock Braking System (ABS),YES
+MARUTI,XL6,XL6 Alpha,Central Locking,YES
+MARUTI,XL6,XL6 Alpha,Child Safety Locks,YES
+MARUTI,XL6,XL6 Alpha,Anti-Theft Alarm,YES
+MARUTI,XL6,XL6 Alpha,No. of Airbags,6
+MARUTI,XL6,XL6 Alpha,Driver Airbag,YES
+MARUTI,XL6,XL6 Alpha,Passenger Airbag,YES
+MARUTI,XL6,XL6 Alpha,Side Airbag,YES
+MARUTI,XL6,XL6 Alpha,Day & Night Rear View Mirror,YES
+MARUTI,XL6,XL6 Alpha,Curtain Airbag,YES
+MARUTI,XL6,XL6 Alpha,Electronic Brakeforce Distribution (EBD),YES
+MARUTI,XL6,XL6 Alpha,Seat Belt Warning,YES
+MARUTI,XL6,XL6 Alpha,Door Ajar Warning,YES
+MARUTI,XL6,XL6 Alpha,Tyre Pressure Monitoring System (TPMS),NO
+MARUTI,XL6,XL6 Alpha,Engine Immobilizer,YES
+MARUTI,XL6,XL6 Alpha,Anti-Theft Device,YES
+MARUTI,XL6,XL6 Alpha,Anti-Pinch Power Windows,Driver
+MARUTI,XL6,XL6 Alpha,Speed Alert,YES
+MARUTI,XL6,XL6 Alpha,Speed Sensing Auto Door Lock,YES
+MARUTI,XL6,XL6 Alpha,ISOFIX Child Seat Mounts,YES
+MARUTI,XL6,XL6 Alpha,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+MARUTI,XL6,XL6 Alpha,360 View Camera,YES
+MARUTI,XL6,XL6 Alpha,Radio,YES
+MARUTI,XL6,XL6 Alpha,Integrated 2DIN Audio,YES
+MARUTI,XL6,XL6 Alpha,Bluetooth Connectivity,YES
+MARUTI,XL6,XL6 Alpha,Touchscreen,YES
+MARUTI,XL6,XL6 Alpha,Touchscreen Size,7 inch
+MARUTI,XL6,XL6 Alpha,Connectivity,"Android Auto, Apple CarPlay"
+MARUTI,XL6,XL6 Alpha,Android Auto,YES
+MARUTI,XL6,XL6 Alpha,Apple CarPlay,YES
+MARUTI,XL6,XL6 Alpha,No. of Speakers,4
+MARUTI,XL6,XL6 Alpha,Usb Ports,YES
+MARUTI,XL6,XL6 Alpha,Tweeters,2
+MARUTI,XL6,XL6 Alpha,Additional Features,"Wireless, Android Auto, Apple CarPlay"
+MARUTI,XL6,XL6 Alpha,Speakers,Front & Rear

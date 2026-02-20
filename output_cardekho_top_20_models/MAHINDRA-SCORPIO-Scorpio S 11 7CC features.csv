@@ -1,0 +1,104 @@
+company,model,variant,feature_name,feature_details
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Engine Type,mHAWK 4 Cylinder
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Displacement,2184 cc
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Max Power,130bhp@3750rpm
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Max Torque,300Nm@1600-2800rpm
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,No. of Cylinders,4
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Valves Per Cylinder,4
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Fuel Supply System,CRDi
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Turbo Charger,YES
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Transmission Type,Manual
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Gearbox,6-Speed
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Drive Type,RWD
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Fuel Type,Diesel
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Diesel Mileage ARAI,14.44 kmpl
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Diesel Fuel Tank Capacity,60 Litres
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Emission Norm Compliance,BS VI 2.0
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Top Speed,165 kmph
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Front Suspension,Double wishbone suspension
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Rear Suspension,Multi-link suspension
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Shock Absorbers Type,"Hydraulic, Double Acting, Telescopic"
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Steering Type,Hydraulic
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Steering Column,Tilt & Telescopic
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Front Brake Type,Disc
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Rear Brake Type,Drum
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Braking (100-0kmph),41.50 s
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,0-100Kmph (Tested),13.1 s
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Alloy Wheel Size Front,17 Inch
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Alloy Wheel Size Rear,17 Inch
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Braking (80-0 kmph),26.14 s
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Length,4456 mm
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Width,1820 mm
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Height,1995 mm
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Boot Space,460 Litres
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Seating Capacity,7
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Wheel Base,2680 mm
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,No. of Doors,5
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Power Steering,YES
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Air Conditioner,YES
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Heater,YES
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Height Adjustable Driver Seat,YES
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Automatic Climate Control,YES
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Accessory Power Outlet,YES
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Rear Reading Lamp,YES
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Adjustable Headrest,YES
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Height Adjustable Front Seat Belts,NO
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Rear AC Vents,YES
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Cruise Control,YES
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Parking Sensors,Rear
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,KeyLess Entry,YES
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Central Console Armrest,YES
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Gear Shift Indicator,YES
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Lane Change Indicator,YES
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Follow Me Home Headlamps,YES
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Cup Holders,Front & Rear
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Tachometer,YES
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Leather Wrapped Steering Wheel,YES
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Glove Box,YES
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Additional Features,Roof Mounted Sunglass Holder
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Upholstery,Fabric
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Adjustable Headlamps,YES
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Rear Window Wiper,YES
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Rear Window Washer,YES
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Rear Window Defogger,YES
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Alloy Wheels,YES
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Rear Spoiler,YES
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Side Stepper,YES
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Outside Rear View Mirror Turn Indicators,NO
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Integrated Antenna,YES
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Chrome Grille,YES
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Projector Headlamps,YES
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Fog Lights,Front
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Sunroof,NO
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Boot Opening,Manual
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Outside Rear View Mirror (ORVM),Powered
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Tyre Size,235/65 R17
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Tyre Type,"Radial, Tubeless"
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,LED DRLs,YES
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,LED Headlamps,YES
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,LED Taillights,YES
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Anti-lock Braking System (ABS),YES
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Central Locking,YES
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Anti-Theft Alarm,YES
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,No. of Airbags,2
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Driver Airbag,YES
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Passenger Airbag,YES
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Side Airbag,NO
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Side Airbag-Rear,NO
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Day & Night Rear View Mirror,YES
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Electronic Brakeforce Distribution (EBD),YES
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Seat Belt Warning,YES
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Door Ajar Warning,YES
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Engine Immobilizer,YES
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Anti-Theft Device,YES
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Anti-Pinch Power Windows,Driver
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Speed Alert,YES
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Speed Sensing Auto Door Lock,YES
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Radio,YES
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Integrated 2DIN Audio,YES
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Bluetooth Connectivity,YES
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Touchscreen,YES
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Touchscreen Size,9 inch
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Usb Ports,YES
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Tweeters,2
+MAHINDRA,SCORPIO,Scorpio S 11 7CC,Speakers,Front & Rear

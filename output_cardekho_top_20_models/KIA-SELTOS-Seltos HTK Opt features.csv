@@ -1,0 +1,125 @@
+company,model,variant,feature_name,feature_details
+KIA,SELTOS,Seltos HTK Opt,Engine Type,SmartStream G1.5
+KIA,SELTOS,Seltos HTK Opt,Displacement,1497 cc
+KIA,SELTOS,Seltos HTK Opt,Max Power,113bhp@6300rpm
+KIA,SELTOS,Seltos HTK Opt,Max Torque,114Nm@4500rpm
+KIA,SELTOS,Seltos HTK Opt,No. of Cylinders,4
+KIA,SELTOS,Seltos HTK Opt,Valves Per Cylinder,4
+KIA,SELTOS,Seltos HTK Opt,Fuel Supply System,MPi
+KIA,SELTOS,Seltos HTK Opt,Turbo Charger,NO
+KIA,SELTOS,Seltos HTK Opt,Transmission Type,Manual
+KIA,SELTOS,Seltos HTK Opt,Gearbox,6-Speed
+KIA,SELTOS,Seltos HTK Opt,Drive Type,2WD
+KIA,SELTOS,Seltos HTK Opt,Fuel Type,Petrol
+KIA,SELTOS,Seltos HTK Opt,Petrol Fuel Tank Capacity,47 Litres
+KIA,SELTOS,Seltos HTK Opt,Emission Norm Compliance,BS VI 2.0
+KIA,SELTOS,Seltos HTK Opt,Front Suspension,MacPherson Strut suspension
+KIA,SELTOS,Seltos HTK Opt,Rear Suspension,Rear twist beam
+KIA,SELTOS,Seltos HTK Opt,Steering Type,Electric
+KIA,SELTOS,Seltos HTK Opt,Steering Column,Tilt & Telescopic
+KIA,SELTOS,Seltos HTK Opt,Front Brake Type,Disc
+KIA,SELTOS,Seltos HTK Opt,Rear Brake Type,Disc
+KIA,SELTOS,Seltos HTK Opt,Length,4460 mm
+KIA,SELTOS,Seltos HTK Opt,Width,1830 mm
+KIA,SELTOS,Seltos HTK Opt,Height,1635 mm
+KIA,SELTOS,Seltos HTK Opt,Boot Space,447 Litres
+KIA,SELTOS,Seltos HTK Opt,Seating Capacity,5
+KIA,SELTOS,Seltos HTK Opt,Wheel Base,2690 mm
+KIA,SELTOS,Seltos HTK Opt,No. of Doors,5
+KIA,SELTOS,Seltos HTK Opt,Power Steering,YES
+KIA,SELTOS,Seltos HTK Opt,Air Conditioner,YES
+KIA,SELTOS,Seltos HTK Opt,Heater,YES
+KIA,SELTOS,Seltos HTK Opt,Adjustable Steering,Height & Reach
+KIA,SELTOS,Seltos HTK Opt,Height Adjustable Driver Seat,YES
+KIA,SELTOS,Seltos HTK Opt,Ventilated Seats,NO
+KIA,SELTOS,Seltos HTK Opt,Electric Adjustable Seats,NO
+KIA,SELTOS,Seltos HTK Opt,Automatic Climate Control,NO
+KIA,SELTOS,Seltos HTK Opt,Accessory Power Outlet,YES
+KIA,SELTOS,Seltos HTK Opt,Vanity Mirror,YES
+KIA,SELTOS,Seltos HTK Opt,Rear Reading Lamp,YES
+KIA,SELTOS,Seltos HTK Opt,Rear Seat Headrest,Adjustable
+KIA,SELTOS,Seltos HTK Opt,Adjustable Headrest,YES
+KIA,SELTOS,Seltos HTK Opt,Rear Seat Centre Arm Rest,YES
+KIA,SELTOS,Seltos HTK Opt,Rear AC Vents,YES
+KIA,SELTOS,Seltos HTK Opt,Lumbar Support,NO
+KIA,SELTOS,Seltos HTK Opt,Cruise Control,YES
+KIA,SELTOS,Seltos HTK Opt,Parking Sensors,Front & Rear
+KIA,SELTOS,Seltos HTK Opt,Foldable Rear Seat,60:40 Split
+KIA,SELTOS,Seltos HTK Opt,KeyLess Entry,YES
+KIA,SELTOS,Seltos HTK Opt,Engine Start/Stop Button,YES
+KIA,SELTOS,Seltos HTK Opt,Paddle Shifters,NO
+KIA,SELTOS,Seltos HTK Opt,USB Charger,Front & Rear
+KIA,SELTOS,Seltos HTK Opt,Central Console Armrest,YES
+KIA,SELTOS,Seltos HTK Opt,Tailgate Ajar Warning,YES
+KIA,SELTOS,Seltos HTK Opt,Drive Modes,NO
+KIA,SELTOS,Seltos HTK Opt,Rear Window Sunblind,YES
+KIA,SELTOS,Seltos HTK Opt,Additional Features,Sunglass Holder
+KIA,SELTOS,Seltos HTK Opt,Drive Mode Types,NO
+KIA,SELTOS,Seltos HTK Opt,Power Windows,Front & Rear
+KIA,SELTOS,Seltos HTK Opt,Cup Holders,Front & Rear
+KIA,SELTOS,Seltos HTK Opt,Tachometer,YES
+KIA,SELTOS,Seltos HTK Opt,Leather Wrapped Steering Wheel,YES
+KIA,SELTOS,Seltos HTK Opt,Glove Box,YES
+KIA,SELTOS,Seltos HTK Opt,Additional Features,Rear Parcel Shelf
+KIA,SELTOS,Seltos HTK Opt,Digital Cluster,YES
+KIA,SELTOS,Seltos HTK Opt,Digital Cluster Size,4.2
+KIA,SELTOS,Seltos HTK Opt,Upholstery,Leatherette
+KIA,SELTOS,Seltos HTK Opt,Rear Window Wiper,YES
+KIA,SELTOS,Seltos HTK Opt,Rear Window Defogger,YES
+KIA,SELTOS,Seltos HTK Opt,Wheel Covers,NO
+KIA,SELTOS,Seltos HTK Opt,Alloy Wheels,YES
+KIA,SELTOS,Seltos HTK Opt,Rear Spoiler,YES
+KIA,SELTOS,Seltos HTK Opt,Outside Rear View Mirror Turn Indicators,YES
+KIA,SELTOS,Seltos HTK Opt,Integrated Antenna,YES
+KIA,SELTOS,Seltos HTK Opt,Projector Headlamps,NO
+KIA,SELTOS,Seltos HTK Opt,Roof Rails,YES
+KIA,SELTOS,Seltos HTK Opt,Automatic Headlamps,YES
+KIA,SELTOS,Seltos HTK Opt,Fog Lights,NO
+KIA,SELTOS,Seltos HTK Opt,Antenna,Shark Fin
+KIA,SELTOS,Seltos HTK Opt,Sunroof,Panoramic
+KIA,SELTOS,Seltos HTK Opt,Outside Rear View Mirror (ORVM),Powered & Folding
+KIA,SELTOS,Seltos HTK Opt,Tyre Size,205/65 R16
+KIA,SELTOS,Seltos HTK Opt,Tyre Type,Radial Tubeless
+KIA,SELTOS,Seltos HTK Opt,Wheel Size,16 Inch
+KIA,SELTOS,Seltos HTK Opt,LED DRLs,YES
+KIA,SELTOS,Seltos HTK Opt,LED Headlamps,YES
+KIA,SELTOS,Seltos HTK Opt,LED Taillights,YES
+KIA,SELTOS,Seltos HTK Opt,LED Fog Lamps,NO
+KIA,SELTOS,Seltos HTK Opt,Anti-lock Braking System (ABS),YES
+KIA,SELTOS,Seltos HTK Opt,Brake Assist,YES
+KIA,SELTOS,Seltos HTK Opt,Central Locking,YES
+KIA,SELTOS,Seltos HTK Opt,Child Safety Locks,YES
+KIA,SELTOS,Seltos HTK Opt,No. of Airbags,6
+KIA,SELTOS,Seltos HTK Opt,Driver Airbag,YES
+KIA,SELTOS,Seltos HTK Opt,Passenger Airbag,YES
+KIA,SELTOS,Seltos HTK Opt,Side Airbag,YES
+KIA,SELTOS,Seltos HTK Opt,Day & Night Rear View Mirror,YES
+KIA,SELTOS,Seltos HTK Opt,Curtain Airbag,YES
+KIA,SELTOS,Seltos HTK Opt,Electronic Brakeforce Distribution (EBD),YES
+KIA,SELTOS,Seltos HTK Opt,Seat Belt Warning,YES
+KIA,SELTOS,Seltos HTK Opt,Door Ajar Warning,YES
+KIA,SELTOS,Seltos HTK Opt,Traction Control,NO
+KIA,SELTOS,Seltos HTK Opt,Tyre Pressure Monitoring System (TPMS),YES
+KIA,SELTOS,Seltos HTK Opt,Engine Immobilizer,YES
+KIA,SELTOS,Seltos HTK Opt,Electronic Stability Control (ESC),YES
+KIA,SELTOS,Seltos HTK Opt,Rear Camera,With Guidedlines
+KIA,SELTOS,Seltos HTK Opt,Anti-Pinch Power Windows,Driver's Window
+KIA,SELTOS,Seltos HTK Opt,Speed Alert,YES
+KIA,SELTOS,Seltos HTK Opt,Speed Sensing Auto Door Lock,YES
+KIA,SELTOS,Seltos HTK Opt,ISOFIX Child Seat Mounts,YES
+KIA,SELTOS,Seltos HTK Opt,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+KIA,SELTOS,Seltos HTK Opt,Hill Descent Control,YES
+KIA,SELTOS,Seltos HTK Opt,Hill Assist,YES
+KIA,SELTOS,Seltos HTK Opt,Impact Sensing Auto Door Unlock,YES
+KIA,SELTOS,Seltos HTK Opt,360 View Camera,NO
+KIA,SELTOS,Seltos HTK Opt,Radio,YES
+KIA,SELTOS,Seltos HTK Opt,Wireless Phone Charging,YES
+KIA,SELTOS,Seltos HTK Opt,Bluetooth Connectivity,YES
+KIA,SELTOS,Seltos HTK Opt,Touchscreen,YES
+KIA,SELTOS,Seltos HTK Opt,Touchscreen Size,10.25 inch
+KIA,SELTOS,Seltos HTK Opt,Android Auto,YES
+KIA,SELTOS,Seltos HTK Opt,Apple CarPlay,YES
+KIA,SELTOS,Seltos HTK Opt,No. of Speakers,6
+KIA,SELTOS,Seltos HTK Opt,Usb Ports,YES
+KIA,SELTOS,Seltos HTK Opt,Additional Features,Wireless Android Auto/Apple CarPlay
+KIA,SELTOS,Seltos HTK Opt,Speakers,Front & Rear

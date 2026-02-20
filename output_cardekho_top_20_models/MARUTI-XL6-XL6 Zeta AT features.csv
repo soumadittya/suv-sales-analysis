@@ -1,0 +1,114 @@
+company,model,variant,feature_name,feature_details
+MARUTI,XL6,XL6 Zeta AT,Engine Type,K15C Smart Hybrid
+MARUTI,XL6,XL6 Zeta AT,Displacement,1462 cc
+MARUTI,XL6,XL6 Zeta AT,Max Power,101.64bhp@6000rpm
+MARUTI,XL6,XL6 Zeta AT,Max Torque,136.8Nm@4400rpm
+MARUTI,XL6,XL6 Zeta AT,No. of Cylinders,4
+MARUTI,XL6,XL6 Zeta AT,Valves Per Cylinder,4
+MARUTI,XL6,XL6 Zeta AT,Transmission Type,Automatic
+MARUTI,XL6,XL6 Zeta AT,Gearbox,6-Speed AT
+MARUTI,XL6,XL6 Zeta AT,Drive Type,FWD
+MARUTI,XL6,XL6 Zeta AT,Fuel Type,Petrol
+MARUTI,XL6,XL6 Zeta AT,Petrol Mileage ARAI,20.27 kmpl
+MARUTI,XL6,XL6 Zeta AT,Petrol Fuel Tank Capacity,45 Litres
+MARUTI,XL6,XL6 Zeta AT,Emission Norm Compliance,BS VI 2.0
+MARUTI,XL6,XL6 Zeta AT,Top Speed,170 kmph
+MARUTI,XL6,XL6 Zeta AT,Front Suspension,MacPherson Strut suspension
+MARUTI,XL6,XL6 Zeta AT,Rear Suspension,Rear twist beam
+MARUTI,XL6,XL6 Zeta AT,Steering Column,Tilt and Telescopic
+MARUTI,XL6,XL6 Zeta AT,Turning Radius,5.2 m
+MARUTI,XL6,XL6 Zeta AT,Front Brake Type,Disc
+MARUTI,XL6,XL6 Zeta AT,Rear Brake Type,Drum
+MARUTI,XL6,XL6 Zeta AT,Alloy Wheel Size Front,16 Inch
+MARUTI,XL6,XL6 Zeta AT,Alloy Wheel Size Rear,16 Inch
+MARUTI,XL6,XL6 Zeta AT,Length,4445 mm
+MARUTI,XL6,XL6 Zeta AT,Width,1775 mm
+MARUTI,XL6,XL6 Zeta AT,Height,1755 mm
+MARUTI,XL6,XL6 Zeta AT,Boot Space,209 Litres
+MARUTI,XL6,XL6 Zeta AT,Seating Capacity,6
+MARUTI,XL6,XL6 Zeta AT,Wheel Base,2740 mm
+MARUTI,XL6,XL6 Zeta AT,Kerb Weight,1225 kg
+MARUTI,XL6,XL6 Zeta AT,Gross Weight,1765 kg
+MARUTI,XL6,XL6 Zeta AT,No. of Doors,5
+MARUTI,XL6,XL6 Zeta AT,Power Steering,YES
+MARUTI,XL6,XL6 Zeta AT,Air Conditioner,YES
+MARUTI,XL6,XL6 Zeta AT,Heater,YES
+MARUTI,XL6,XL6 Zeta AT,Height Adjustable Driver Seat,YES
+MARUTI,XL6,XL6 Zeta AT,Ventilated Seats,NO
+MARUTI,XL6,XL6 Zeta AT,Automatic Climate Control,YES
+MARUTI,XL6,XL6 Zeta AT,Accessory Power Outlet,YES
+MARUTI,XL6,XL6 Zeta AT,Vanity Mirror,NO
+MARUTI,XL6,XL6 Zeta AT,Rear Reading Lamp,YES
+MARUTI,XL6,XL6 Zeta AT,Rear Seat Centre Arm Rest,YES
+MARUTI,XL6,XL6 Zeta AT,Height Adjustable Front Seat Belts,YES
+MARUTI,XL6,XL6 Zeta AT,Rear AC Vents,YES
+MARUTI,XL6,XL6 Zeta AT,Cruise Control,YES
+MARUTI,XL6,XL6 Zeta AT,Parking Sensors,Rear
+MARUTI,XL6,XL6 Zeta AT,Real-Time Vehicle Tracking,YES
+MARUTI,XL6,XL6 Zeta AT,Foldable Rear Seat,3rd Row 50:50 Split
+MARUTI,XL6,XL6 Zeta AT,KeyLess Entry,YES
+MARUTI,XL6,XL6 Zeta AT,Engine Start/Stop Button,YES
+MARUTI,XL6,XL6 Zeta AT,Voice Commands,NO
+MARUTI,XL6,XL6 Zeta AT,USB Charger,Front
+MARUTI,XL6,XL6 Zeta AT,Central Console Armrest,With Storage
+MARUTI,XL6,XL6 Zeta AT,Tailgate Ajar Warning,YES
+MARUTI,XL6,XL6 Zeta AT,Gear Shift Indicator,NO
+MARUTI,XL6,XL6 Zeta AT,Idle Start-Stop System,YES
+MARUTI,XL6,XL6 Zeta AT,Automatic Headlamps,NO
+MARUTI,XL6,XL6 Zeta AT,Follow Me Home Headlamps,NO
+MARUTI,XL6,XL6 Zeta AT,Tachometer,YES
+MARUTI,XL6,XL6 Zeta AT,Leather Wrapped Steering Wheel,NO
+MARUTI,XL6,XL6 Zeta AT,Glove Box,YES
+MARUTI,XL6,XL6 Zeta AT,Digital Cluster,Semi
+MARUTI,XL6,XL6 Zeta AT,Upholstery,Fabric
+MARUTI,XL6,XL6 Zeta AT,Adjustable Headlamps,YES
+MARUTI,XL6,XL6 Zeta AT,Rear Window Wiper,YES
+MARUTI,XL6,XL6 Zeta AT,Rear Window Washer,YES
+MARUTI,XL6,XL6 Zeta AT,Rear Window Defogger,YES
+MARUTI,XL6,XL6 Zeta AT,Alloy Wheels,YES
+MARUTI,XL6,XL6 Zeta AT,Rear Spoiler,NO
+MARUTI,XL6,XL6 Zeta AT,Outside Rear View Mirror Turn Indicators,YES
+MARUTI,XL6,XL6 Zeta AT,Integrated Antenna,YES
+MARUTI,XL6,XL6 Zeta AT,Fog Lights,Front
+MARUTI,XL6,XL6 Zeta AT,Antenna,Shark Fin
+MARUTI,XL6,XL6 Zeta AT,Boot Opening,Manual
+MARUTI,XL6,XL6 Zeta AT,Tyre Size,195/60 R16
+MARUTI,XL6,XL6 Zeta AT,Tyre Type,"Tubeless, Radial"
+MARUTI,XL6,XL6 Zeta AT,LED DRLs,YES
+MARUTI,XL6,XL6 Zeta AT,LED Headlamps,YES
+MARUTI,XL6,XL6 Zeta AT,LED Taillights,YES
+MARUTI,XL6,XL6 Zeta AT,LED Fog Lamps,YES
+MARUTI,XL6,XL6 Zeta AT,Anti-lock Braking System (ABS),YES
+MARUTI,XL6,XL6 Zeta AT,Central Locking,YES
+MARUTI,XL6,XL6 Zeta AT,Child Safety Locks,YES
+MARUTI,XL6,XL6 Zeta AT,Anti-Theft Alarm,YES
+MARUTI,XL6,XL6 Zeta AT,No. of Airbags,6
+MARUTI,XL6,XL6 Zeta AT,Driver Airbag,YES
+MARUTI,XL6,XL6 Zeta AT,Passenger Airbag,YES
+MARUTI,XL6,XL6 Zeta AT,Side Airbag,YES
+MARUTI,XL6,XL6 Zeta AT,Day & Night Rear View Mirror,YES
+MARUTI,XL6,XL6 Zeta AT,Curtain Airbag,YES
+MARUTI,XL6,XL6 Zeta AT,Electronic Brakeforce Distribution (EBD),YES
+MARUTI,XL6,XL6 Zeta AT,Seat Belt Warning,YES
+MARUTI,XL6,XL6 Zeta AT,Door Ajar Warning,YES
+MARUTI,XL6,XL6 Zeta AT,Tyre Pressure Monitoring System (TPMS),NO
+MARUTI,XL6,XL6 Zeta AT,Engine Immobilizer,YES
+MARUTI,XL6,XL6 Zeta AT,Anti-Theft Device,YES
+MARUTI,XL6,XL6 Zeta AT,Anti-Pinch Power Windows,Driver
+MARUTI,XL6,XL6 Zeta AT,Speed Alert,YES
+MARUTI,XL6,XL6 Zeta AT,Speed Sensing Auto Door Lock,YES
+MARUTI,XL6,XL6 Zeta AT,ISOFIX Child Seat Mounts,YES
+MARUTI,XL6,XL6 Zeta AT,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+MARUTI,XL6,XL6 Zeta AT,360 View Camera,NO
+MARUTI,XL6,XL6 Zeta AT,Radio,YES
+MARUTI,XL6,XL6 Zeta AT,Integrated 2DIN Audio,YES
+MARUTI,XL6,XL6 Zeta AT,Bluetooth Connectivity,YES
+MARUTI,XL6,XL6 Zeta AT,Touchscreen,YES
+MARUTI,XL6,XL6 Zeta AT,Touchscreen Size,7 Inch
+MARUTI,XL6,XL6 Zeta AT,Connectivity,"Android Auto, Apple CarPlay"
+MARUTI,XL6,XL6 Zeta AT,Android Auto,YES
+MARUTI,XL6,XL6 Zeta AT,Apple CarPlay,YES
+MARUTI,XL6,XL6 Zeta AT,No. of Speakers,4
+MARUTI,XL6,XL6 Zeta AT,Usb Ports,YES
+MARUTI,XL6,XL6 Zeta AT,Tweeters,2
+MARUTI,XL6,XL6 Zeta AT,Speakers,Front & Rear

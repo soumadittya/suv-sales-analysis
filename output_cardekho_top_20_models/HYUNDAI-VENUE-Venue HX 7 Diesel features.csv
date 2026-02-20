@@ -1,0 +1,132 @@
+company,model,variant,feature_name,feature_details
+HYUNDAI,VENUE,Venue HX 7 Diesel,Engine Type,U2 1.5 l CRDi
+HYUNDAI,VENUE,Venue HX 7 Diesel,Displacement,1493 cc
+HYUNDAI,VENUE,Venue HX 7 Diesel,Max Power,114bhp@4000rpm
+HYUNDAI,VENUE,Venue HX 7 Diesel,Max Torque,250Nm@1500-2750rpm
+HYUNDAI,VENUE,Venue HX 7 Diesel,No. of Cylinders,4
+HYUNDAI,VENUE,Venue HX 7 Diesel,Valves Per Cylinder,4
+HYUNDAI,VENUE,Venue HX 7 Diesel,Fuel Supply System,CRDi
+HYUNDAI,VENUE,Venue HX 7 Diesel,Turbo Charger,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,Transmission Type,Manual
+HYUNDAI,VENUE,Venue HX 7 Diesel,Gearbox,6-Speed
+HYUNDAI,VENUE,Venue HX 7 Diesel,Drive Type,FWD
+HYUNDAI,VENUE,Venue HX 7 Diesel,Fuel Type,Diesel
+HYUNDAI,VENUE,Venue HX 7 Diesel,Diesel Mileage ARAI,20.99 kmpl
+HYUNDAI,VENUE,Venue HX 7 Diesel,Diesel Fuel Tank Capacity,45 Litres
+HYUNDAI,VENUE,Venue HX 7 Diesel,Emission Norm Compliance,BS VI 2.0
+HYUNDAI,VENUE,Venue HX 7 Diesel,Front Suspension,MacPherson Strut suspension
+HYUNDAI,VENUE,Venue HX 7 Diesel,Rear Suspension,Rear twist beam
+HYUNDAI,VENUE,Venue HX 7 Diesel,Steering Type,Electric
+HYUNDAI,VENUE,Venue HX 7 Diesel,Steering Column,Tilt
+HYUNDAI,VENUE,Venue HX 7 Diesel,Front Brake Type,Disc
+HYUNDAI,VENUE,Venue HX 7 Diesel,Rear Brake Type,Drum
+HYUNDAI,VENUE,Venue HX 7 Diesel,Alloy Wheel Size Front,16 Inch
+HYUNDAI,VENUE,Venue HX 7 Diesel,Alloy Wheel Size Rear,16 Inch
+HYUNDAI,VENUE,Venue HX 7 Diesel,Length,3995 mm
+HYUNDAI,VENUE,Venue HX 7 Diesel,Width,1800 mm
+HYUNDAI,VENUE,Venue HX 7 Diesel,Height,1665 mm
+HYUNDAI,VENUE,Venue HX 7 Diesel,Boot Space,375 Litres
+HYUNDAI,VENUE,Venue HX 7 Diesel,Seating Capacity,5
+HYUNDAI,VENUE,Venue HX 7 Diesel,Wheel Base,2520 mm
+HYUNDAI,VENUE,Venue HX 7 Diesel,No. of Doors,5
+HYUNDAI,VENUE,Venue HX 7 Diesel,Power Steering,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,Air Conditioner,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,Heater,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,Adjustable Steering,Height only
+HYUNDAI,VENUE,Venue HX 7 Diesel,Height Adjustable Driver Seat,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,Ventilated Seats,NO
+HYUNDAI,VENUE,Venue HX 7 Diesel,Electric Adjustable Seats,NO
+HYUNDAI,VENUE,Venue HX 7 Diesel,Automatic Climate Control,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,Accessory Power Outlet,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,Trunk Light,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,Vanity Mirror,NO
+HYUNDAI,VENUE,Venue HX 7 Diesel,Rear Seat Headrest,Adjustable
+HYUNDAI,VENUE,Venue HX 7 Diesel,Adjustable Headrest,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,Rear Seat Centre Arm Rest,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,Rear AC Vents,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,Cruise Control,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,Parking Sensors,Rear
+HYUNDAI,VENUE,Venue HX 7 Diesel,Foldable Rear Seat,60:40 Split
+HYUNDAI,VENUE,Venue HX 7 Diesel,Smart Access Card Entry,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,KeyLess Entry,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,Engine Start/Stop Button,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,Cooled Glovebox,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,Voice Commands,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,Paddle Shifters,NO
+HYUNDAI,VENUE,Venue HX 7 Diesel,USB Charger,Front & Rear
+HYUNDAI,VENUE,Venue HX 7 Diesel,Central Console Armrest,With Storage
+HYUNDAI,VENUE,Venue HX 7 Diesel,Drive Modes,NO
+HYUNDAI,VENUE,Venue HX 7 Diesel,Idle Start-Stop System,NO
+HYUNDAI,VENUE,Venue HX 7 Diesel,Rear Window Sunblind,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,Follow Me Home Headlamps,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,Voice assisted sunroof,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,Drive Mode Types,##changes##
+HYUNDAI,VENUE,Venue HX 7 Diesel,Power Windows,Front & Rear
+HYUNDAI,VENUE,Venue HX 7 Diesel,Cup Holders,Front & Rear
+HYUNDAI,VENUE,Venue HX 7 Diesel,Tachometer,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,Glove Box,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,Lighting,Ambient light
+HYUNDAI,VENUE,Venue HX 7 Diesel,Additional Features,Rear parcel tray
+HYUNDAI,VENUE,Venue HX 7 Diesel,Digital Cluster,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,Digital Cluster Size,10.66
+HYUNDAI,VENUE,Venue HX 7 Diesel,Upholstery,Fabric
+HYUNDAI,VENUE,Venue HX 7 Diesel,Rear Window Wiper,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,Rear Window Washer,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,Rear Window Defogger,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,Wheel Covers,NO
+HYUNDAI,VENUE,Venue HX 7 Diesel,Alloy Wheels,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,Rear Spoiler,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,Outside Rear View Mirror Turn Indicators,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,Chrome Grille,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,Projector Headlamps,NO
+HYUNDAI,VENUE,Venue HX 7 Diesel,Roof Rails,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,Automatic Headlamps,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,Antenna,Shark Fin
+HYUNDAI,VENUE,Venue HX 7 Diesel,Sunroof,Single Pane
+HYUNDAI,VENUE,Venue HX 7 Diesel,Puddle Lamps,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,Outside Rear View Mirror (ORVM),Powered & Folding
+HYUNDAI,VENUE,Venue HX 7 Diesel,Tyre Size,215/60 R16
+HYUNDAI,VENUE,Venue HX 7 Diesel,Tyre Type,Tubeless Radial
+HYUNDAI,VENUE,Venue HX 7 Diesel,LED DRLs,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,LED Headlamps,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,LED Taillights,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,Anti-lock Braking System (ABS),YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,Central Locking,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,Child Safety Locks,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,Anti-Theft Alarm,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,No. of Airbags,6
+HYUNDAI,VENUE,Venue HX 7 Diesel,Driver Airbag,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,Passenger Airbag,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,Side Airbag,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,Side Airbag-Rear,NO
+HYUNDAI,VENUE,Venue HX 7 Diesel,Day & Night Rear View Mirror,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,Curtain Airbag,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,Electronic Brakeforce Distribution (EBD),YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,Seat Belt Warning,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,Door Ajar Warning,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,Traction Control,NO
+HYUNDAI,VENUE,Venue HX 7 Diesel,Tyre Pressure Monitoring System (TPMS),YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,Engine Immobilizer,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,Electronic Stability Control (ESC),YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,Rear Camera,With Guidedlines
+HYUNDAI,VENUE,Venue HX 7 Diesel,Anti-Pinch Power Windows,Driver's Window
+HYUNDAI,VENUE,Venue HX 7 Diesel,Speed Alert,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,Speed Sensing Auto Door Lock,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,ISOFIX Child Seat Mounts,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+HYUNDAI,VENUE,Venue HX 7 Diesel,Blind Spot Camera,NO
+HYUNDAI,VENUE,Venue HX 7 Diesel,Hill Assist,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,Impact Sensing Auto Door Unlock,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,360 View Camera,NO
+HYUNDAI,VENUE,Venue HX 7 Diesel,Radio,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,Wireless Phone Charging,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,Bluetooth Connectivity,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,Touchscreen,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,Touchscreen Size,10.25 inch
+HYUNDAI,VENUE,Venue HX 7 Diesel,Android Auto,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,Apple CarPlay,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,No. of Speakers,4
+HYUNDAI,VENUE,Venue HX 7 Diesel,Usb Ports,YES
+HYUNDAI,VENUE,Venue HX 7 Diesel,Tweeters,2
+HYUNDAI,VENUE,Venue HX 7 Diesel,Additional Features,Wireless Android Auto and Apple Carplay
+HYUNDAI,VENUE,Venue HX 7 Diesel,Speakers,Front & Rear

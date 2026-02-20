@@ -1,0 +1,117 @@
+company,model,variant,feature_name,feature_details
+HYUNDAI,EXTER,Exter SX Tech,Engine Type,1.2 l Kappa
+HYUNDAI,EXTER,Exter SX Tech,Displacement,1197 cc
+HYUNDAI,EXTER,Exter SX Tech,Max Power,81.8bhp@6000rpm
+HYUNDAI,EXTER,Exter SX Tech,Max Torque,113.8Nm@4000rpm
+HYUNDAI,EXTER,Exter SX Tech,No. of Cylinders,4
+HYUNDAI,EXTER,Exter SX Tech,Valves Per Cylinder,4
+HYUNDAI,EXTER,Exter SX Tech,Transmission Type,Manual
+HYUNDAI,EXTER,Exter SX Tech,Gearbox,5-Speed
+HYUNDAI,EXTER,Exter SX Tech,Drive Type,FWD
+HYUNDAI,EXTER,Exter SX Tech,Fuel Type,Petrol
+HYUNDAI,EXTER,Exter SX Tech,Petrol Mileage ARAI,19.4 kmpl
+HYUNDAI,EXTER,Exter SX Tech,Petrol Fuel Tank Capacity,37 Litres
+HYUNDAI,EXTER,Exter SX Tech,Emission Norm Compliance,BS VI 2.0
+HYUNDAI,EXTER,Exter SX Tech,Front Suspension,MacPherson Strut suspension
+HYUNDAI,EXTER,Exter SX Tech,Rear Suspension,Rear twist beam
+HYUNDAI,EXTER,Exter SX Tech,Shock Absorbers Type,Gas Type
+HYUNDAI,EXTER,Exter SX Tech,Steering Type,Electric
+HYUNDAI,EXTER,Exter SX Tech,Steering Column,Tilt
+HYUNDAI,EXTER,Exter SX Tech,Front Brake Type,Disc
+HYUNDAI,EXTER,Exter SX Tech,Rear Brake Type,Drum
+HYUNDAI,EXTER,Exter SX Tech,Length,3815 mm
+HYUNDAI,EXTER,Exter SX Tech,Width,1710 mm
+HYUNDAI,EXTER,Exter SX Tech,Height,1631 mm
+HYUNDAI,EXTER,Exter SX Tech,Seating Capacity,5
+HYUNDAI,EXTER,Exter SX Tech,Wheel Base,2450 mm
+HYUNDAI,EXTER,Exter SX Tech,No. of Doors,5
+HYUNDAI,EXTER,Exter SX Tech,Reported Boot Space,391 Litres
+HYUNDAI,EXTER,Exter SX Tech,Power Steering,YES
+HYUNDAI,EXTER,Exter SX Tech,Air Conditioner,YES
+HYUNDAI,EXTER,Exter SX Tech,Heater,YES
+HYUNDAI,EXTER,Exter SX Tech,Height Adjustable Driver Seat,YES
+HYUNDAI,EXTER,Exter SX Tech,Automatic Climate Control,YES
+HYUNDAI,EXTER,Exter SX Tech,Accessory Power Outlet,YES
+HYUNDAI,EXTER,Exter SX Tech,Trunk Light,NO
+HYUNDAI,EXTER,Exter SX Tech,Vanity Mirror,YES
+HYUNDAI,EXTER,Exter SX Tech,Rear Reading Lamp,YES
+HYUNDAI,EXTER,Exter SX Tech,Rear Seat Headrest,Adjustable
+HYUNDAI,EXTER,Exter SX Tech,Rear AC Vents,YES
+HYUNDAI,EXTER,Exter SX Tech,Cruise Control,YES
+HYUNDAI,EXTER,Exter SX Tech,Parking Sensors,Rear
+HYUNDAI,EXTER,Exter SX Tech,Foldable Rear Seat,Bench Folding
+HYUNDAI,EXTER,Exter SX Tech,KeyLess Entry,YES
+HYUNDAI,EXTER,Exter SX Tech,Engine Start/Stop Button,NO
+HYUNDAI,EXTER,Exter SX Tech,Cooled Glovebox,NO
+HYUNDAI,EXTER,Exter SX Tech,Voice Commands,YES
+HYUNDAI,EXTER,Exter SX Tech,Paddle Shifters,NO
+HYUNDAI,EXTER,Exter SX Tech,USB Charger,Front
+HYUNDAI,EXTER,Exter SX Tech,Tailgate Ajar Warning,YES
+HYUNDAI,EXTER,Exter SX Tech,Luggage Hook & Net,YES
+HYUNDAI,EXTER,Exter SX Tech,Battery Saver,YES
+HYUNDAI,EXTER,Exter SX Tech,Idle Start-Stop System,YES
+HYUNDAI,EXTER,Exter SX Tech,Automatic Headlamps,NO
+HYUNDAI,EXTER,Exter SX Tech,Follow Me Home Headlamps,YES
+HYUNDAI,EXTER,Exter SX Tech,Additional Features,Rear parcel tray
+HYUNDAI,EXTER,Exter SX Tech,Voice assisted sunroof,NO
+HYUNDAI,EXTER,Exter SX Tech,Power Windows,Front & Rear
+HYUNDAI,EXTER,Exter SX Tech,Tachometer,YES
+HYUNDAI,EXTER,Exter SX Tech,Glove Box,YES
+HYUNDAI,EXTER,Exter SX Tech,Digital Cluster,YES
+HYUNDAI,EXTER,Exter SX Tech,Upholstery,Leatherette
+HYUNDAI,EXTER,Exter SX Tech,Adjustable Headlamps,YES
+HYUNDAI,EXTER,Exter SX Tech,Rear Window Wiper,NO
+HYUNDAI,EXTER,Exter SX Tech,Rear Window Washer,NO
+HYUNDAI,EXTER,Exter SX Tech,Rear Window Defogger,YES
+HYUNDAI,EXTER,Exter SX Tech,Wheel Covers,YES
+HYUNDAI,EXTER,Exter SX Tech,Alloy Wheels,NO
+HYUNDAI,EXTER,Exter SX Tech,Rear Spoiler,YES
+HYUNDAI,EXTER,Exter SX Tech,Outside Rear View Mirror Turn Indicators,YES
+HYUNDAI,EXTER,Exter SX Tech,Projector Headlamps,YES
+HYUNDAI,EXTER,Exter SX Tech,Halogen Headlamps,NO
+HYUNDAI,EXTER,Exter SX Tech,Roof Rails,YES
+HYUNDAI,EXTER,Exter SX Tech,Antenna,Shark Fin
+HYUNDAI,EXTER,Exter SX Tech,Sunroof,Single Pane
+HYUNDAI,EXTER,Exter SX Tech,Boot Opening,Electronic
+HYUNDAI,EXTER,Exter SX Tech,Outside Rear View Mirror (ORVM),Powered & Folding
+HYUNDAI,EXTER,Exter SX Tech,Tyre Size,175/65 R15
+HYUNDAI,EXTER,Exter SX Tech,Tyre Type,Radial Tubeless
+HYUNDAI,EXTER,Exter SX Tech,Wheel Size,15 Inch
+HYUNDAI,EXTER,Exter SX Tech,LED DRLs,YES
+HYUNDAI,EXTER,Exter SX Tech,LED Taillights,YES
+HYUNDAI,EXTER,Exter SX Tech,Anti-lock Braking System (ABS),YES
+HYUNDAI,EXTER,Exter SX Tech,Central Locking,YES
+HYUNDAI,EXTER,Exter SX Tech,Child Safety Locks,YES
+HYUNDAI,EXTER,Exter SX Tech,Anti-Theft Alarm,YES
+HYUNDAI,EXTER,Exter SX Tech,No. of Airbags,6
+HYUNDAI,EXTER,Exter SX Tech,Driver Airbag,YES
+HYUNDAI,EXTER,Exter SX Tech,Passenger Airbag,YES
+HYUNDAI,EXTER,Exter SX Tech,Side Airbag,YES
+HYUNDAI,EXTER,Exter SX Tech,Side Airbag-Rear,NO
+HYUNDAI,EXTER,Exter SX Tech,Day & Night Rear View Mirror,YES
+HYUNDAI,EXTER,Exter SX Tech,Curtain Airbag,YES
+HYUNDAI,EXTER,Exter SX Tech,Electronic Brakeforce Distribution (EBD),YES
+HYUNDAI,EXTER,Exter SX Tech,Seat Belt Warning,YES
+HYUNDAI,EXTER,Exter SX Tech,Door Ajar Warning,YES
+HYUNDAI,EXTER,Exter SX Tech,Tyre Pressure Monitoring System (TPMS),YES
+HYUNDAI,EXTER,Exter SX Tech,Engine Immobilizer,YES
+HYUNDAI,EXTER,Exter SX Tech,Electronic Stability Control (ESC),YES
+HYUNDAI,EXTER,Exter SX Tech,Rear Camera,With Guidedlines
+HYUNDAI,EXTER,Exter SX Tech,Anti-Theft Device,YES
+HYUNDAI,EXTER,Exter SX Tech,Speed Alert,YES
+HYUNDAI,EXTER,Exter SX Tech,Speed Sensing Auto Door Lock,YES
+HYUNDAI,EXTER,Exter SX Tech,ISOFIX Child Seat Mounts,YES
+HYUNDAI,EXTER,Exter SX Tech,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+HYUNDAI,EXTER,Exter SX Tech,Hill Assist,YES
+HYUNDAI,EXTER,Exter SX Tech,Impact Sensing Auto Door Unlock,YES
+HYUNDAI,EXTER,Exter SX Tech,Radio,YES
+HYUNDAI,EXTER,Exter SX Tech,Wireless Phone Charging,NO
+HYUNDAI,EXTER,Exter SX Tech,Bluetooth Connectivity,YES
+HYUNDAI,EXTER,Exter SX Tech,Touchscreen,YES
+HYUNDAI,EXTER,Exter SX Tech,Touchscreen Size,8 inch
+HYUNDAI,EXTER,Exter SX Tech,Connectivity,"Android Auto, Apple CarPlay"
+HYUNDAI,EXTER,Exter SX Tech,Android Auto,YES
+HYUNDAI,EXTER,Exter SX Tech,Apple CarPlay,YES
+HYUNDAI,EXTER,Exter SX Tech,Usb Ports,YES
+HYUNDAI,EXTER,Exter SX Tech,Inbuilt Apps,NO
+HYUNDAI,EXTER,Exter SX Tech,Speakers,Front & Rear

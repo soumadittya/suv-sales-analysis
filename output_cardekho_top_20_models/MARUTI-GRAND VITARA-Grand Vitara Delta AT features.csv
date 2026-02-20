@@ -1,0 +1,139 @@
+company,model,variant,feature_name,feature_details
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Engine Type,K15C With Mild Hybrid System
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Displacement,1462 cc
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Max Power,101.64bhp@6000rpm
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Max Torque,139Nm@4300rpm
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,No. of Cylinders,4
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Valves Per Cylinder,4
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Transmission Type,Automatic
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Gearbox,6-Speed
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Drive Type,FWD
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Fuel Type,Petrol
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Petrol Mileage ARAI,20.58 kmpl
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Petrol Fuel Tank Capacity,45 Litres
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Petrol Highway Mileage,19.05 kmpl
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Secondary Fuel Type,Electric
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Emission Norm Compliance,BS VI 2.0
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Top Speed,135 kmph
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Front Suspension,MacPherson Strut suspension
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Rear Suspension,Rear twist beam
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Steering Type,Electric
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Steering Column,Tilt & Telescopic
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Steering Gear Type,Rack & Pinion
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Turning Radius,5.4 m
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Front Brake Type,Disc
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Rear Brake Type,Disc
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Braking (100-0kmph),46.87 s
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,0-100Kmph (Tested),15.13 s
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,City driveability (20-80kmph),8.48 s
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Braking (80-0 kmph),29.41 s
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Length,4345 mm
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Width,1795 mm
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Height,1645 mm
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Boot Space,373 Litres
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Seating Capacity,5
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Ground Clearance Unladen,210 mm
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Wheel Base,2600 mm
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Kerb Weight,1180-1285 kg
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Gross Weight,1675 kg
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,No. of Doors,5
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Power Steering,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Air Conditioner,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Heater,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Height Adjustable Driver Seat,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Ventilated Seats,NO
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Automatic Climate Control,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Accessory Power Outlet,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Trunk Light,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Vanity Mirror,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Rear Reading Lamp,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Adjustable Headrest,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Rear Seat Centre Arm Rest,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Height Adjustable Front Seat Belts,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Rear AC Vents,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Cruise Control,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Parking Sensors,Rear
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Real-Time Vehicle Tracking,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Foldable Rear Seat,60:40 Split
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,KeyLess Entry,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Engine Start/Stop Button,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Voice Commands,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Paddle Shifters,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,USB Charger,Rear
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Central Console Armrest,With Storage
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Gear Shift Indicator,NO
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Glove Box light,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Idle Start-Stop System,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Automatic Headlamps,NO
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Follow Me Home Headlamps,NO
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Tachometer,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Glove Box,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Digital Odometer,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Dual Tone Dashboard,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Digital Cluster,Semi
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Digital Cluster Size,4.2 inch
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Upholstery,Fabric
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Adjustable Headlamps,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Rear Window Wiper,NO
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Rear Window Washer,NO
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Wheel Covers,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Alloy Wheels,NO
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Rear Spoiler,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Outside Rear View Mirror Turn Indicators,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Integrated Antenna,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Projector Headlamps,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Halogen Headlamps,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Roof Rails,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Antenna,Shark Fin
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Sunroof,NO
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Boot Opening,Manual
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Puddle Lamps,NO
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Outside Rear View Mirror (ORVM),Powered & Folding
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Tyre Size,215/60 R17
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Tyre Type,"Tubeless, Radial"
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Wheel Size,17 Inch
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,LED DRLs,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,LED Headlamps,NO
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,LED Taillights,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Anti-lock Braking System (ABS),YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Brake Assist,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Central Locking,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Child Safety Locks,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Anti-Theft Alarm,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,No. of Airbags,6
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Driver Airbag,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Passenger Airbag,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Side Airbag,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Side Airbag-Rear,NO
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Day & Night Rear View Mirror,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Curtain Airbag,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Electronic Brakeforce Distribution (EBD),YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Seat Belt Warning,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Door Ajar Warning,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Tyre Pressure Monitoring System (TPMS),NO
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Engine Immobilizer,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Electronic Stability Control (ESC),YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Rear Camera,With Guidedlines
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Anti-Theft Device,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Speed Alert,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Speed Sensing Auto Door Lock,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,ISOFIX Child Seat Mounts,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Heads-Up Display (HUD),NO
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Hill Descent Control,NO
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Hill Assist,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Impact Sensing Auto Door Unlock,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,360 View Camera,NO
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Radio,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Integrated 2DIN Audio,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Wireless Phone Charging,NO
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Bluetooth Connectivity,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Touchscreen,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Touchscreen Size,7 inch
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Connectivity,"Android Auto, Apple CarPlay"
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Android Auto,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Apple CarPlay,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,No. of Speakers,4
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Usb Ports,YES
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Additional Features,SmartPlay Pro
+MARUTI,GRAND VITARA,Grand Vitara Delta AT,Speakers,Front & Rear

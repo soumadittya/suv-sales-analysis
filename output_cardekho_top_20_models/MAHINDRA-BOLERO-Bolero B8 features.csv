@@ -1,0 +1,97 @@
+company,model,variant,feature_name,feature_details
+MAHINDRA,BOLERO,Bolero B8,Engine Type,mHAWK75
+MAHINDRA,BOLERO,Bolero B8,Displacement,1493 cc
+MAHINDRA,BOLERO,Bolero B8,Max Power,74.96bhp@3600rpm
+MAHINDRA,BOLERO,Bolero B8,Max Torque,210Nm@1600-2200rpm
+MAHINDRA,BOLERO,Bolero B8,No. of Cylinders,3
+MAHINDRA,BOLERO,Bolero B8,Valves Per Cylinder,4
+MAHINDRA,BOLERO,Bolero B8,Valve Configuration,SOHC
+MAHINDRA,BOLERO,Bolero B8,Turbo Charger,YES
+MAHINDRA,BOLERO,Bolero B8,Transmission Type,Manual
+MAHINDRA,BOLERO,Bolero B8,Gearbox,5-Speed
+MAHINDRA,BOLERO,Bolero B8,Drive Type,RWD
+MAHINDRA,BOLERO,Bolero B8,Fuel Type,Diesel
+MAHINDRA,BOLERO,Bolero B8,Diesel Mileage ARAI,16 kmpl
+MAHINDRA,BOLERO,Bolero B8,Diesel Fuel Tank Capacity,60 Litres
+MAHINDRA,BOLERO,Bolero B8,Emission Norm Compliance,BS VI 2.0
+MAHINDRA,BOLERO,Bolero B8,Rear Suspension,Leaf spring suspension
+MAHINDRA,BOLERO,Bolero B8,Steering Type,Electric
+MAHINDRA,BOLERO,Bolero B8,Steering Column,Power
+MAHINDRA,BOLERO,Bolero B8,Turning Radius,5.8 m
+MAHINDRA,BOLERO,Bolero B8,Front Brake Type,disc
+MAHINDRA,BOLERO,Bolero B8,Rear Brake Type,drum
+MAHINDRA,BOLERO,Bolero B8,Alloy Wheel Size Front,15 Inch
+MAHINDRA,BOLERO,Bolero B8,Alloy Wheel Size Rear,15 Inch
+MAHINDRA,BOLERO,Bolero B8,Length,3995 mm
+MAHINDRA,BOLERO,Bolero B8,Width,1745 mm
+MAHINDRA,BOLERO,Bolero B8,Height,1880 mm
+MAHINDRA,BOLERO,Bolero B8,Seating Capacity,7
+MAHINDRA,BOLERO,Bolero B8,Wheel Base,2680 mm
+MAHINDRA,BOLERO,Bolero B8,No. of Doors,5
+MAHINDRA,BOLERO,Bolero B8,Power Steering,YES
+MAHINDRA,BOLERO,Bolero B8,Air Conditioner,YES
+MAHINDRA,BOLERO,Bolero B8,Heater,YES
+MAHINDRA,BOLERO,Bolero B8,Adjustable Steering,NO
+MAHINDRA,BOLERO,Bolero B8,Remote Fuel Lid Opener,YES
+MAHINDRA,BOLERO,Bolero B8,Accessory Power Outlet,YES
+MAHINDRA,BOLERO,Bolero B8,Vanity Mirror,NO
+MAHINDRA,BOLERO,Bolero B8,Rear Reading Lamp,YES
+MAHINDRA,BOLERO,Bolero B8,Rear Seat Headrest,Adjustable
+MAHINDRA,BOLERO,Bolero B8,Adjustable Headrest,YES
+MAHINDRA,BOLERO,Bolero B8,Rear Seat Centre Arm Rest,YES
+MAHINDRA,BOLERO,Bolero B8,Rear AC Vents,NO
+MAHINDRA,BOLERO,Bolero B8,Cruise Control,NO
+MAHINDRA,BOLERO,Bolero B8,Parking Sensors,Rear
+MAHINDRA,BOLERO,Bolero B8,KeyLess Entry,YES
+MAHINDRA,BOLERO,Bolero B8,USB Charger,Front
+MAHINDRA,BOLERO,Bolero B8,Gear Shift Indicator,YES
+MAHINDRA,BOLERO,Bolero B8,Idle Start-Stop System,YES
+MAHINDRA,BOLERO,Bolero B8,Power Windows,Front & Rear
+MAHINDRA,BOLERO,Bolero B8,Tachometer,YES
+MAHINDRA,BOLERO,Bolero B8,Glove Box,YES
+MAHINDRA,BOLERO,Bolero B8,Dual Tone Dashboard,NO
+MAHINDRA,BOLERO,Bolero B8,Digital Cluster,YES
+MAHINDRA,BOLERO,Bolero B8,Upholstery,Leatherette
+MAHINDRA,BOLERO,Bolero B8,Adjustable Headlamps,YES
+MAHINDRA,BOLERO,Bolero B8,Rear Window Wiper,YES
+MAHINDRA,BOLERO,Bolero B8,Rear Window Washer,YES
+MAHINDRA,BOLERO,Bolero B8,Rear Window Defogger,YES
+MAHINDRA,BOLERO,Bolero B8,Wheel Covers,NO
+MAHINDRA,BOLERO,Bolero B8,Alloy Wheels,YES
+MAHINDRA,BOLERO,Bolero B8,Rear Spoiler,NO
+MAHINDRA,BOLERO,Bolero B8,Side Stepper,YES
+MAHINDRA,BOLERO,Bolero B8,Outside Rear View Mirror Turn Indicators,NO
+MAHINDRA,BOLERO,Bolero B8,Integrated Antenna,YES
+MAHINDRA,BOLERO,Bolero B8,Chrome Grille,YES
+MAHINDRA,BOLERO,Bolero B8,Fog Lights,Front
+MAHINDRA,BOLERO,Bolero B8,Outside Rear View Mirror (ORVM),Manual
+MAHINDRA,BOLERO,Bolero B8,Tyre Size,215/75 R15
+MAHINDRA,BOLERO,Bolero B8,Tyre Type,"Tubeless,Radial"
+MAHINDRA,BOLERO,Bolero B8,Anti-lock Braking System (ABS),YES
+MAHINDRA,BOLERO,Bolero B8,Central Locking,YES
+MAHINDRA,BOLERO,Bolero B8,Child Safety Locks,YES
+MAHINDRA,BOLERO,Bolero B8,No. of Airbags,2
+MAHINDRA,BOLERO,Bolero B8,Driver Airbag,YES
+MAHINDRA,BOLERO,Bolero B8,Passenger Airbag,YES
+MAHINDRA,BOLERO,Bolero B8,Side Airbag,NO
+MAHINDRA,BOLERO,Bolero B8,Side Airbag-Rear,NO
+MAHINDRA,BOLERO,Bolero B8,Day & Night Rear View Mirror,NO
+MAHINDRA,BOLERO,Bolero B8,Curtain Airbag,NO
+MAHINDRA,BOLERO,Bolero B8,Electronic Brakeforce Distribution (EBD),YES
+MAHINDRA,BOLERO,Bolero B8,Seat Belt Warning,YES
+MAHINDRA,BOLERO,Bolero B8,Door Ajar Warning,YES
+MAHINDRA,BOLERO,Bolero B8,Engine Immobilizer,YES
+MAHINDRA,BOLERO,Bolero B8,Electronic Stability Control (ESC),NO
+MAHINDRA,BOLERO,Bolero B8,Rear Camera,NO
+MAHINDRA,BOLERO,Bolero B8,Speed Alert,NO
+MAHINDRA,BOLERO,Bolero B8,360 View Camera,NO
+MAHINDRA,BOLERO,Bolero B8,Radio,YES
+MAHINDRA,BOLERO,Bolero B8,Integrated 2DIN Audio,NO
+MAHINDRA,BOLERO,Bolero B8,Bluetooth Connectivity,YES
+MAHINDRA,BOLERO,Bolero B8,Touchscreen,YES
+MAHINDRA,BOLERO,Bolero B8,Touchscreen Size,7 inch
+MAHINDRA,BOLERO,Bolero B8,Android Auto,NO
+MAHINDRA,BOLERO,Bolero B8,Apple CarPlay,NO
+MAHINDRA,BOLERO,Bolero B8,No. of Speakers,4
+MAHINDRA,BOLERO,Bolero B8,Usb Ports,YES
+MAHINDRA,BOLERO,Bolero B8,Speakers,Front & Rear

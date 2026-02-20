@@ -1,0 +1,131 @@
+company,model,variant,feature_name,feature_details
+HYUNDAI,VENUE,Venue HX 6,Engine Type,1.2 l Kappa MPi
+HYUNDAI,VENUE,Venue HX 6,Displacement,1197 cc
+HYUNDAI,VENUE,Venue HX 6,Max Power,82bhp@6000rpm
+HYUNDAI,VENUE,Venue HX 6,Max Torque,114.7Nm@4200rpm
+HYUNDAI,VENUE,Venue HX 6,No. of Cylinders,4
+HYUNDAI,VENUE,Venue HX 6,Valves Per Cylinder,4
+HYUNDAI,VENUE,Venue HX 6,Fuel Supply System,MPi
+HYUNDAI,VENUE,Venue HX 6,Turbo Charger,NO
+HYUNDAI,VENUE,Venue HX 6,Transmission Type,Manual
+HYUNDAI,VENUE,Venue HX 6,Gearbox,5-Speed
+HYUNDAI,VENUE,Venue HX 6,Drive Type,FWD
+HYUNDAI,VENUE,Venue HX 6,Fuel Type,Petrol
+HYUNDAI,VENUE,Venue HX 6,Petrol Mileage ARAI,18.5 kmpl
+HYUNDAI,VENUE,Venue HX 6,Petrol Fuel Tank Capacity,45 Litres
+HYUNDAI,VENUE,Venue HX 6,Emission Norm Compliance,BS VI 2.0
+HYUNDAI,VENUE,Venue HX 6,Front Suspension,MacPherson Strut suspension
+HYUNDAI,VENUE,Venue HX 6,Rear Suspension,Rear twist beam
+HYUNDAI,VENUE,Venue HX 6,Steering Type,Electric
+HYUNDAI,VENUE,Venue HX 6,Steering Column,Tilt
+HYUNDAI,VENUE,Venue HX 6,Front Brake Type,Disc
+HYUNDAI,VENUE,Venue HX 6,Rear Brake Type,Drum
+HYUNDAI,VENUE,Venue HX 6,Length,3995 mm
+HYUNDAI,VENUE,Venue HX 6,Width,1800 mm
+HYUNDAI,VENUE,Venue HX 6,Height,1665 mm
+HYUNDAI,VENUE,Venue HX 6,Boot Space,375 Litres
+HYUNDAI,VENUE,Venue HX 6,Seating Capacity,5
+HYUNDAI,VENUE,Venue HX 6,Wheel Base,2520 mm
+HYUNDAI,VENUE,Venue HX 6,No. of Doors,5
+HYUNDAI,VENUE,Venue HX 6,Power Steering,YES
+HYUNDAI,VENUE,Venue HX 6,Air Conditioner,YES
+HYUNDAI,VENUE,Venue HX 6,Heater,YES
+HYUNDAI,VENUE,Venue HX 6,Adjustable Steering,Height only
+HYUNDAI,VENUE,Venue HX 6,Height Adjustable Driver Seat,YES
+HYUNDAI,VENUE,Venue HX 6,Ventilated Seats,NO
+HYUNDAI,VENUE,Venue HX 6,Electric Adjustable Seats,NO
+HYUNDAI,VENUE,Venue HX 6,Automatic Climate Control,YES
+HYUNDAI,VENUE,Venue HX 6,Accessory Power Outlet,YES
+HYUNDAI,VENUE,Venue HX 6,Trunk Light,NO
+HYUNDAI,VENUE,Venue HX 6,Vanity Mirror,NO
+HYUNDAI,VENUE,Venue HX 6,Rear Seat Headrest,Integrated
+HYUNDAI,VENUE,Venue HX 6,Adjustable Headrest,YES
+HYUNDAI,VENUE,Venue HX 6,Rear Seat Centre Arm Rest,NO
+HYUNDAI,VENUE,Venue HX 6,Rear AC Vents,YES
+HYUNDAI,VENUE,Venue HX 6,Cruise Control,NO
+HYUNDAI,VENUE,Venue HX 6,Parking Sensors,Rear
+HYUNDAI,VENUE,Venue HX 6,Foldable Rear Seat,Bench Folding
+HYUNDAI,VENUE,Venue HX 6,Smart Access Card Entry,YES
+HYUNDAI,VENUE,Venue HX 6,KeyLess Entry,YES
+HYUNDAI,VENUE,Venue HX 6,Engine Start/Stop Button,YES
+HYUNDAI,VENUE,Venue HX 6,Cooled Glovebox,NO
+HYUNDAI,VENUE,Venue HX 6,Voice Commands,YES
+HYUNDAI,VENUE,Venue HX 6,Paddle Shifters,NO
+HYUNDAI,VENUE,Venue HX 6,USB Charger,Front & Rear
+HYUNDAI,VENUE,Venue HX 6,Central Console Armrest,With Storage
+HYUNDAI,VENUE,Venue HX 6,Drive Modes,NO
+HYUNDAI,VENUE,Venue HX 6,Idle Start-Stop System,NO
+HYUNDAI,VENUE,Venue HX 6,Rear Window Sunblind,YES
+HYUNDAI,VENUE,Venue HX 6,Automatic Headlamps,YES
+HYUNDAI,VENUE,Venue HX 6,Follow Me Home Headlamps,YES
+HYUNDAI,VENUE,Venue HX 6,Voice assisted sunroof,NO
+HYUNDAI,VENUE,Venue HX 6,Drive Mode Types,##changes##
+HYUNDAI,VENUE,Venue HX 6,Power Windows,Front & Rear
+HYUNDAI,VENUE,Venue HX 6,Cup Holders,Front Only
+HYUNDAI,VENUE,Venue HX 6,Tachometer,YES
+HYUNDAI,VENUE,Venue HX 6,Glove Box,YES
+HYUNDAI,VENUE,Venue HX 6,Additional Features,Rear parcel tray
+HYUNDAI,VENUE,Venue HX 6,Digital Cluster,YES
+HYUNDAI,VENUE,Venue HX 6,Digital Cluster Size,10.66
+HYUNDAI,VENUE,Venue HX 6,Upholstery,Fabric
+HYUNDAI,VENUE,Venue HX 6,Rear Window Wiper,YES
+HYUNDAI,VENUE,Venue HX 6,Rear Window Washer,YES
+HYUNDAI,VENUE,Venue HX 6,Rear Window Defogger,YES
+HYUNDAI,VENUE,Venue HX 6,Wheel Covers,YES
+HYUNDAI,VENUE,Venue HX 6,Alloy Wheels,NO
+HYUNDAI,VENUE,Venue HX 6,Rear Spoiler,YES
+HYUNDAI,VENUE,Venue HX 6,Outside Rear View Mirror Turn Indicators,YES
+HYUNDAI,VENUE,Venue HX 6,Chrome Grille,YES
+HYUNDAI,VENUE,Venue HX 6,Projector Headlamps,NO
+HYUNDAI,VENUE,Venue HX 6,Roof Rails,YES
+HYUNDAI,VENUE,Venue HX 6,Automatic Headlamps,YES
+HYUNDAI,VENUE,Venue HX 6,Antenna,Shark Fin
+HYUNDAI,VENUE,Venue HX 6,Sunroof,Single Pane
+HYUNDAI,VENUE,Venue HX 6,Puddle Lamps,NO
+HYUNDAI,VENUE,Venue HX 6,Outside Rear View Mirror (ORVM),Powered & Folding
+HYUNDAI,VENUE,Venue HX 6,Tyre Size,195/65 R15
+HYUNDAI,VENUE,Venue HX 6,Tyre Type,Tubeless Radial
+HYUNDAI,VENUE,Venue HX 6,Wheel Size,15 Inch
+HYUNDAI,VENUE,Venue HX 6,LED DRLs,YES
+HYUNDAI,VENUE,Venue HX 6,LED Headlamps,YES
+HYUNDAI,VENUE,Venue HX 6,LED Taillights,YES
+HYUNDAI,VENUE,Venue HX 6,Anti-lock Braking System (ABS),YES
+HYUNDAI,VENUE,Venue HX 6,Central Locking,YES
+HYUNDAI,VENUE,Venue HX 6,Child Safety Locks,YES
+HYUNDAI,VENUE,Venue HX 6,Anti-Theft Alarm,YES
+HYUNDAI,VENUE,Venue HX 6,No. of Airbags,6
+HYUNDAI,VENUE,Venue HX 6,Driver Airbag,YES
+HYUNDAI,VENUE,Venue HX 6,Passenger Airbag,YES
+HYUNDAI,VENUE,Venue HX 6,Side Airbag,YES
+HYUNDAI,VENUE,Venue HX 6,Side Airbag-Rear,NO
+HYUNDAI,VENUE,Venue HX 6,Day & Night Rear View Mirror,YES
+HYUNDAI,VENUE,Venue HX 6,Curtain Airbag,YES
+HYUNDAI,VENUE,Venue HX 6,Electronic Brakeforce Distribution (EBD),YES
+HYUNDAI,VENUE,Venue HX 6,Seat Belt Warning,YES
+HYUNDAI,VENUE,Venue HX 6,Door Ajar Warning,YES
+HYUNDAI,VENUE,Venue HX 6,Traction Control,NO
+HYUNDAI,VENUE,Venue HX 6,Tyre Pressure Monitoring System (TPMS),YES
+HYUNDAI,VENUE,Venue HX 6,Engine Immobilizer,YES
+HYUNDAI,VENUE,Venue HX 6,Electronic Stability Control (ESC),YES
+HYUNDAI,VENUE,Venue HX 6,Rear Camera,With Guidedlines
+HYUNDAI,VENUE,Venue HX 6,Anti-Pinch Power Windows,Driver's Window
+HYUNDAI,VENUE,Venue HX 6,Speed Alert,YES
+HYUNDAI,VENUE,Venue HX 6,Speed Sensing Auto Door Lock,YES
+HYUNDAI,VENUE,Venue HX 6,ISOFIX Child Seat Mounts,YES
+HYUNDAI,VENUE,Venue HX 6,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+HYUNDAI,VENUE,Venue HX 6,Blind Spot Camera,NO
+HYUNDAI,VENUE,Venue HX 6,Hill Assist,YES
+HYUNDAI,VENUE,Venue HX 6,Impact Sensing Auto Door Unlock,YES
+HYUNDAI,VENUE,Venue HX 6,360 View Camera,NO
+HYUNDAI,VENUE,Venue HX 6,Radio,YES
+HYUNDAI,VENUE,Venue HX 6,Wireless Phone Charging,YES
+HYUNDAI,VENUE,Venue HX 6,Bluetooth Connectivity,YES
+HYUNDAI,VENUE,Venue HX 6,Touchscreen,YES
+HYUNDAI,VENUE,Venue HX 6,Touchscreen Size,10.25 inch
+HYUNDAI,VENUE,Venue HX 6,Android Auto,YES
+HYUNDAI,VENUE,Venue HX 6,Apple CarPlay,YES
+HYUNDAI,VENUE,Venue HX 6,No. of Speakers,4
+HYUNDAI,VENUE,Venue HX 6,Usb Ports,YES
+HYUNDAI,VENUE,Venue HX 6,Tweeters,2
+HYUNDAI,VENUE,Venue HX 6,Additional Features,Wireless Android Auto and Apple Carplay
+HYUNDAI,VENUE,Venue HX 6,Speakers,Front & Rear

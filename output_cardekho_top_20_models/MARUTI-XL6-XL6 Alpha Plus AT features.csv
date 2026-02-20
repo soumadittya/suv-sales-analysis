@@ -1,0 +1,115 @@
+company,model,variant,feature_name,feature_details
+MARUTI,XL6,XL6 Alpha Plus AT,Engine Type,K15C Smart Hybrid
+MARUTI,XL6,XL6 Alpha Plus AT,Displacement,1462 cc
+MARUTI,XL6,XL6 Alpha Plus AT,Max Power,101.64bhp@6000rpm
+MARUTI,XL6,XL6 Alpha Plus AT,Max Torque,136.8Nm@4400rpm
+MARUTI,XL6,XL6 Alpha Plus AT,No. of Cylinders,4
+MARUTI,XL6,XL6 Alpha Plus AT,Valves Per Cylinder,4
+MARUTI,XL6,XL6 Alpha Plus AT,Transmission Type,Automatic
+MARUTI,XL6,XL6 Alpha Plus AT,Gearbox,6-Speed AT
+MARUTI,XL6,XL6 Alpha Plus AT,Drive Type,FWD
+MARUTI,XL6,XL6 Alpha Plus AT,Fuel Type,Petrol
+MARUTI,XL6,XL6 Alpha Plus AT,Petrol Mileage ARAI,20.27 kmpl
+MARUTI,XL6,XL6 Alpha Plus AT,Petrol Fuel Tank Capacity,45 Litres
+MARUTI,XL6,XL6 Alpha Plus AT,Emission Norm Compliance,BS VI 2.0
+MARUTI,XL6,XL6 Alpha Plus AT,Top Speed,170 kmph
+MARUTI,XL6,XL6 Alpha Plus AT,Front Suspension,MacPherson Strut suspension
+MARUTI,XL6,XL6 Alpha Plus AT,Rear Suspension,Rear twist beam
+MARUTI,XL6,XL6 Alpha Plus AT,Steering Column,Tilt and Telescopic
+MARUTI,XL6,XL6 Alpha Plus AT,Turning Radius,5.2 m
+MARUTI,XL6,XL6 Alpha Plus AT,Front Brake Type,Disc
+MARUTI,XL6,XL6 Alpha Plus AT,Rear Brake Type,Drum
+MARUTI,XL6,XL6 Alpha Plus AT,Alloy Wheel Size Front,16 Inch
+MARUTI,XL6,XL6 Alpha Plus AT,Alloy Wheel Size Rear,16 Inch
+MARUTI,XL6,XL6 Alpha Plus AT,Length,4445 mm
+MARUTI,XL6,XL6 Alpha Plus AT,Width,1775 mm
+MARUTI,XL6,XL6 Alpha Plus AT,Height,1755 mm
+MARUTI,XL6,XL6 Alpha Plus AT,Boot Space,209 Litres
+MARUTI,XL6,XL6 Alpha Plus AT,Seating Capacity,6
+MARUTI,XL6,XL6 Alpha Plus AT,Wheel Base,2740 mm
+MARUTI,XL6,XL6 Alpha Plus AT,Kerb Weight,1225 kg
+MARUTI,XL6,XL6 Alpha Plus AT,Gross Weight,1765 kg
+MARUTI,XL6,XL6 Alpha Plus AT,No. of Doors,5
+MARUTI,XL6,XL6 Alpha Plus AT,Power Steering,YES
+MARUTI,XL6,XL6 Alpha Plus AT,Air Conditioner,YES
+MARUTI,XL6,XL6 Alpha Plus AT,Heater,YES
+MARUTI,XL6,XL6 Alpha Plus AT,Height Adjustable Driver Seat,YES
+MARUTI,XL6,XL6 Alpha Plus AT,Ventilated Seats,YES
+MARUTI,XL6,XL6 Alpha Plus AT,Automatic Climate Control,YES
+MARUTI,XL6,XL6 Alpha Plus AT,Accessory Power Outlet,YES
+MARUTI,XL6,XL6 Alpha Plus AT,Vanity Mirror,YES
+MARUTI,XL6,XL6 Alpha Plus AT,Rear Reading Lamp,YES
+MARUTI,XL6,XL6 Alpha Plus AT,Rear Seat Centre Arm Rest,YES
+MARUTI,XL6,XL6 Alpha Plus AT,Height Adjustable Front Seat Belts,YES
+MARUTI,XL6,XL6 Alpha Plus AT,Rear AC Vents,YES
+MARUTI,XL6,XL6 Alpha Plus AT,Cruise Control,YES
+MARUTI,XL6,XL6 Alpha Plus AT,Parking Sensors,Rear
+MARUTI,XL6,XL6 Alpha Plus AT,Real-Time Vehicle Tracking,YES
+MARUTI,XL6,XL6 Alpha Plus AT,Foldable Rear Seat,3rd Row 50:50 Split
+MARUTI,XL6,XL6 Alpha Plus AT,KeyLess Entry,YES
+MARUTI,XL6,XL6 Alpha Plus AT,Engine Start/Stop Button,YES
+MARUTI,XL6,XL6 Alpha Plus AT,Voice Commands,YES
+MARUTI,XL6,XL6 Alpha Plus AT,USB Charger,Front
+MARUTI,XL6,XL6 Alpha Plus AT,Central Console Armrest,With Storage
+MARUTI,XL6,XL6 Alpha Plus AT,Tailgate Ajar Warning,YES
+MARUTI,XL6,XL6 Alpha Plus AT,Gear Shift Indicator,NO
+MARUTI,XL6,XL6 Alpha Plus AT,Idle Start-Stop System,YES
+MARUTI,XL6,XL6 Alpha Plus AT,Automatic Headlamps,YES
+MARUTI,XL6,XL6 Alpha Plus AT,Follow Me Home Headlamps,YES
+MARUTI,XL6,XL6 Alpha Plus AT,Tachometer,YES
+MARUTI,XL6,XL6 Alpha Plus AT,Leather Wrapped Steering Wheel,YES
+MARUTI,XL6,XL6 Alpha Plus AT,Glove Box,YES
+MARUTI,XL6,XL6 Alpha Plus AT,Digital Cluster,Semi
+MARUTI,XL6,XL6 Alpha Plus AT,Upholstery,Leatherette
+MARUTI,XL6,XL6 Alpha Plus AT,Adjustable Headlamps,YES
+MARUTI,XL6,XL6 Alpha Plus AT,Rear Window Wiper,YES
+MARUTI,XL6,XL6 Alpha Plus AT,Rear Window Washer,YES
+MARUTI,XL6,XL6 Alpha Plus AT,Rear Window Defogger,YES
+MARUTI,XL6,XL6 Alpha Plus AT,Alloy Wheels,YES
+MARUTI,XL6,XL6 Alpha Plus AT,Rear Spoiler,YES
+MARUTI,XL6,XL6 Alpha Plus AT,Outside Rear View Mirror Turn Indicators,YES
+MARUTI,XL6,XL6 Alpha Plus AT,Integrated Antenna,YES
+MARUTI,XL6,XL6 Alpha Plus AT,Fog Lights,Front
+MARUTI,XL6,XL6 Alpha Plus AT,Antenna,Shark Fin
+MARUTI,XL6,XL6 Alpha Plus AT,Boot Opening,Manual
+MARUTI,XL6,XL6 Alpha Plus AT,Tyre Size,195/60 R16
+MARUTI,XL6,XL6 Alpha Plus AT,Tyre Type,"Tubeless, Radial"
+MARUTI,XL6,XL6 Alpha Plus AT,LED DRLs,YES
+MARUTI,XL6,XL6 Alpha Plus AT,LED Headlamps,YES
+MARUTI,XL6,XL6 Alpha Plus AT,LED Taillights,YES
+MARUTI,XL6,XL6 Alpha Plus AT,LED Fog Lamps,YES
+MARUTI,XL6,XL6 Alpha Plus AT,Anti-lock Braking System (ABS),YES
+MARUTI,XL6,XL6 Alpha Plus AT,Central Locking,YES
+MARUTI,XL6,XL6 Alpha Plus AT,Child Safety Locks,YES
+MARUTI,XL6,XL6 Alpha Plus AT,Anti-Theft Alarm,YES
+MARUTI,XL6,XL6 Alpha Plus AT,No. of Airbags,6
+MARUTI,XL6,XL6 Alpha Plus AT,Driver Airbag,YES
+MARUTI,XL6,XL6 Alpha Plus AT,Passenger Airbag,YES
+MARUTI,XL6,XL6 Alpha Plus AT,Side Airbag,YES
+MARUTI,XL6,XL6 Alpha Plus AT,Day & Night Rear View Mirror,YES
+MARUTI,XL6,XL6 Alpha Plus AT,Curtain Airbag,YES
+MARUTI,XL6,XL6 Alpha Plus AT,Electronic Brakeforce Distribution (EBD),YES
+MARUTI,XL6,XL6 Alpha Plus AT,Seat Belt Warning,YES
+MARUTI,XL6,XL6 Alpha Plus AT,Door Ajar Warning,YES
+MARUTI,XL6,XL6 Alpha Plus AT,Tyre Pressure Monitoring System (TPMS),YES
+MARUTI,XL6,XL6 Alpha Plus AT,Engine Immobilizer,YES
+MARUTI,XL6,XL6 Alpha Plus AT,Anti-Theft Device,YES
+MARUTI,XL6,XL6 Alpha Plus AT,Anti-Pinch Power Windows,Driver
+MARUTI,XL6,XL6 Alpha Plus AT,Speed Alert,YES
+MARUTI,XL6,XL6 Alpha Plus AT,Speed Sensing Auto Door Lock,YES
+MARUTI,XL6,XL6 Alpha Plus AT,ISOFIX Child Seat Mounts,YES
+MARUTI,XL6,XL6 Alpha Plus AT,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+MARUTI,XL6,XL6 Alpha Plus AT,360 View Camera,YES
+MARUTI,XL6,XL6 Alpha Plus AT,Radio,YES
+MARUTI,XL6,XL6 Alpha Plus AT,Integrated 2DIN Audio,YES
+MARUTI,XL6,XL6 Alpha Plus AT,Bluetooth Connectivity,YES
+MARUTI,XL6,XL6 Alpha Plus AT,Touchscreen,YES
+MARUTI,XL6,XL6 Alpha Plus AT,Touchscreen Size,7 inch
+MARUTI,XL6,XL6 Alpha Plus AT,Connectivity,"Android Auto, Apple CarPlay"
+MARUTI,XL6,XL6 Alpha Plus AT,Android Auto,YES
+MARUTI,XL6,XL6 Alpha Plus AT,Apple CarPlay,YES
+MARUTI,XL6,XL6 Alpha Plus AT,No. of Speakers,4
+MARUTI,XL6,XL6 Alpha Plus AT,Usb Ports,YES
+MARUTI,XL6,XL6 Alpha Plus AT,Tweeters,2
+MARUTI,XL6,XL6 Alpha Plus AT,Additional Features,"Wireless, Android Auto, Apple CarPlay"
+MARUTI,XL6,XL6 Alpha Plus AT,Speakers,Front & Rear

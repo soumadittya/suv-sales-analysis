@@ -1,0 +1,115 @@
+company,model,variant,feature_name,feature_details
+HYUNDAI,EXTER,Exter SX Dual CNG,Engine Type,1.2 l Bi-Fuel
+HYUNDAI,EXTER,Exter SX Dual CNG,Displacement,1197 cc
+HYUNDAI,EXTER,Exter SX Dual CNG,Max Power,67.72bhp@6000rpm
+HYUNDAI,EXTER,Exter SX Dual CNG,Max Torque,95.2Nm@4000rpm
+HYUNDAI,EXTER,Exter SX Dual CNG,No. of Cylinders,4
+HYUNDAI,EXTER,Exter SX Dual CNG,Valves Per Cylinder,4
+HYUNDAI,EXTER,Exter SX Dual CNG,Transmission Type,Manual
+HYUNDAI,EXTER,Exter SX Dual CNG,Gearbox,5-Speed
+HYUNDAI,EXTER,Exter SX Dual CNG,Drive Type,FWD
+HYUNDAI,EXTER,Exter SX Dual CNG,Fuel Type,CNG
+HYUNDAI,EXTER,Exter SX Dual CNG,CNG Mileage ARAI,27.1 km/kg
+HYUNDAI,EXTER,Exter SX Dual CNG,CNG Fuel Tank Capacity,60 Litres
+HYUNDAI,EXTER,Exter SX Dual CNG,Emission Norm Compliance,BS VI 2.0
+HYUNDAI,EXTER,Exter SX Dual CNG,Front Suspension,MacPherson Strut suspension
+HYUNDAI,EXTER,Exter SX Dual CNG,Rear Suspension,Rear twist beam
+HYUNDAI,EXTER,Exter SX Dual CNG,Shock Absorbers Type,Gas Type
+HYUNDAI,EXTER,Exter SX Dual CNG,Steering Type,Electric
+HYUNDAI,EXTER,Exter SX Dual CNG,Steering Column,Tilt
+HYUNDAI,EXTER,Exter SX Dual CNG,Front Brake Type,Disc
+HYUNDAI,EXTER,Exter SX Dual CNG,Rear Brake Type,Drum
+HYUNDAI,EXTER,Exter SX Dual CNG,Length,3815 mm
+HYUNDAI,EXTER,Exter SX Dual CNG,Width,1710 mm
+HYUNDAI,EXTER,Exter SX Dual CNG,Height,1631 mm
+HYUNDAI,EXTER,Exter SX Dual CNG,Seating Capacity,5
+HYUNDAI,EXTER,Exter SX Dual CNG,Wheel Base,2450 mm
+HYUNDAI,EXTER,Exter SX Dual CNG,No. of Doors,5
+HYUNDAI,EXTER,Exter SX Dual CNG,Reported Boot Space,391 Litres
+HYUNDAI,EXTER,Exter SX Dual CNG,Power Steering,YES
+HYUNDAI,EXTER,Exter SX Dual CNG,Air Conditioner,YES
+HYUNDAI,EXTER,Exter SX Dual CNG,Heater,YES
+HYUNDAI,EXTER,Exter SX Dual CNG,Height Adjustable Driver Seat,YES
+HYUNDAI,EXTER,Exter SX Dual CNG,Automatic Climate Control,YES
+HYUNDAI,EXTER,Exter SX Dual CNG,Accessory Power Outlet,YES
+HYUNDAI,EXTER,Exter SX Dual CNG,Trunk Light,NO
+HYUNDAI,EXTER,Exter SX Dual CNG,Vanity Mirror,YES
+HYUNDAI,EXTER,Exter SX Dual CNG,Rear Reading Lamp,YES
+HYUNDAI,EXTER,Exter SX Dual CNG,Rear Seat Headrest,Adjustable
+HYUNDAI,EXTER,Exter SX Dual CNG,Rear AC Vents,YES
+HYUNDAI,EXTER,Exter SX Dual CNG,Cruise Control,NO
+HYUNDAI,EXTER,Exter SX Dual CNG,Parking Sensors,Rear
+HYUNDAI,EXTER,Exter SX Dual CNG,Foldable Rear Seat,Bench Folding
+HYUNDAI,EXTER,Exter SX Dual CNG,KeyLess Entry,YES
+HYUNDAI,EXTER,Exter SX Dual CNG,Engine Start/Stop Button,NO
+HYUNDAI,EXTER,Exter SX Dual CNG,Cooled Glovebox,NO
+HYUNDAI,EXTER,Exter SX Dual CNG,Voice Commands,YES
+HYUNDAI,EXTER,Exter SX Dual CNG,Paddle Shifters,NO
+HYUNDAI,EXTER,Exter SX Dual CNG,USB Charger,Front
+HYUNDAI,EXTER,Exter SX Dual CNG,Tailgate Ajar Warning,YES
+HYUNDAI,EXTER,Exter SX Dual CNG,Luggage Hook & Net,YES
+HYUNDAI,EXTER,Exter SX Dual CNG,Idle Start-Stop System,YES
+HYUNDAI,EXTER,Exter SX Dual CNG,Automatic Headlamps,NO
+HYUNDAI,EXTER,Exter SX Dual CNG,Follow Me Home Headlamps,YES
+HYUNDAI,EXTER,Exter SX Dual CNG,Additional Features,Rear parcel tray
+HYUNDAI,EXTER,Exter SX Dual CNG,Voice assisted sunroof,NO
+HYUNDAI,EXTER,Exter SX Dual CNG,Power Windows,Front & Rear
+HYUNDAI,EXTER,Exter SX Dual CNG,Tachometer,YES
+HYUNDAI,EXTER,Exter SX Dual CNG,Glove Box,YES
+HYUNDAI,EXTER,Exter SX Dual CNG,Digital Cluster,YES
+HYUNDAI,EXTER,Exter SX Dual CNG,Upholstery,Leatherette
+HYUNDAI,EXTER,Exter SX Dual CNG,Adjustable Headlamps,YES
+HYUNDAI,EXTER,Exter SX Dual CNG,Rear Window Wiper,NO
+HYUNDAI,EXTER,Exter SX Dual CNG,Rear Window Washer,NO
+HYUNDAI,EXTER,Exter SX Dual CNG,Rear Window Defogger,YES
+HYUNDAI,EXTER,Exter SX Dual CNG,Wheel Covers,YES
+HYUNDAI,EXTER,Exter SX Dual CNG,Alloy Wheels,NO
+HYUNDAI,EXTER,Exter SX Dual CNG,Rear Spoiler,NO
+HYUNDAI,EXTER,Exter SX Dual CNG,Outside Rear View Mirror Turn Indicators,YES
+HYUNDAI,EXTER,Exter SX Dual CNG,Projector Headlamps,YES
+HYUNDAI,EXTER,Exter SX Dual CNG,Halogen Headlamps,NO
+HYUNDAI,EXTER,Exter SX Dual CNG,Roof Rails,YES
+HYUNDAI,EXTER,Exter SX Dual CNG,Antenna,Shark fin
+HYUNDAI,EXTER,Exter SX Dual CNG,Sunroof,Single Pane
+HYUNDAI,EXTER,Exter SX Dual CNG,Boot Opening,Electronic
+HYUNDAI,EXTER,Exter SX Dual CNG,Outside Rear View Mirror (ORVM),Powered & Folding
+HYUNDAI,EXTER,Exter SX Dual CNG,Tyre Size,175/65 R15
+HYUNDAI,EXTER,Exter SX Dual CNG,Tyre Type,Radial Tubeless
+HYUNDAI,EXTER,Exter SX Dual CNG,Wheel Size,15 Inch
+HYUNDAI,EXTER,Exter SX Dual CNG,LED DRLs,YES
+HYUNDAI,EXTER,Exter SX Dual CNG,LED Taillights,YES
+HYUNDAI,EXTER,Exter SX Dual CNG,Anti-lock Braking System (ABS),YES
+HYUNDAI,EXTER,Exter SX Dual CNG,Central Locking,YES
+HYUNDAI,EXTER,Exter SX Dual CNG,Child Safety Locks,YES
+HYUNDAI,EXTER,Exter SX Dual CNG,Anti-Theft Alarm,YES
+HYUNDAI,EXTER,Exter SX Dual CNG,No. of Airbags,6
+HYUNDAI,EXTER,Exter SX Dual CNG,Driver Airbag,YES
+HYUNDAI,EXTER,Exter SX Dual CNG,Passenger Airbag,YES
+HYUNDAI,EXTER,Exter SX Dual CNG,Side Airbag,YES
+HYUNDAI,EXTER,Exter SX Dual CNG,Side Airbag-Rear,NO
+HYUNDAI,EXTER,Exter SX Dual CNG,Day & Night Rear View Mirror,YES
+HYUNDAI,EXTER,Exter SX Dual CNG,Curtain Airbag,YES
+HYUNDAI,EXTER,Exter SX Dual CNG,Electronic Brakeforce Distribution (EBD),YES
+HYUNDAI,EXTER,Exter SX Dual CNG,Seat Belt Warning,YES
+HYUNDAI,EXTER,Exter SX Dual CNG,Door Ajar Warning,YES
+HYUNDAI,EXTER,Exter SX Dual CNG,Tyre Pressure Monitoring System (TPMS),YES
+HYUNDAI,EXTER,Exter SX Dual CNG,Engine Immobilizer,YES
+HYUNDAI,EXTER,Exter SX Dual CNG,Electronic Stability Control (ESC),YES
+HYUNDAI,EXTER,Exter SX Dual CNG,Rear Camera,With Guidedlines
+HYUNDAI,EXTER,Exter SX Dual CNG,Anti-Theft Device,YES
+HYUNDAI,EXTER,Exter SX Dual CNG,Speed Alert,YES
+HYUNDAI,EXTER,Exter SX Dual CNG,Speed Sensing Auto Door Lock,YES
+HYUNDAI,EXTER,Exter SX Dual CNG,ISOFIX Child Seat Mounts,YES
+HYUNDAI,EXTER,Exter SX Dual CNG,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+HYUNDAI,EXTER,Exter SX Dual CNG,Hill Assist,YES
+HYUNDAI,EXTER,Exter SX Dual CNG,Impact Sensing Auto Door Unlock,YES
+HYUNDAI,EXTER,Exter SX Dual CNG,Radio,YES
+HYUNDAI,EXTER,Exter SX Dual CNG,Wireless Phone Charging,NO
+HYUNDAI,EXTER,Exter SX Dual CNG,Bluetooth Connectivity,YES
+HYUNDAI,EXTER,Exter SX Dual CNG,Touchscreen,YES
+HYUNDAI,EXTER,Exter SX Dual CNG,Touchscreen Size,8 inch
+HYUNDAI,EXTER,Exter SX Dual CNG,Android Auto,YES
+HYUNDAI,EXTER,Exter SX Dual CNG,Apple CarPlay,YES
+HYUNDAI,EXTER,Exter SX Dual CNG,Usb Ports,YES
+HYUNDAI,EXTER,Exter SX Dual CNG,Inbuilt Apps,NO
+HYUNDAI,EXTER,Exter SX Dual CNG,Speakers,Front & Rear

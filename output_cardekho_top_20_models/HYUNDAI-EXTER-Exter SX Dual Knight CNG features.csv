@@ -1,0 +1,114 @@
+company,model,variant,feature_name,feature_details
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Engine Type,1.2 l Bi-Fuel
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Displacement,1197 cc
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Max Power,67.72bhp@6000rpm
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Max Torque,95.2Nm@4000rpm
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,No. of Cylinders,4
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Valves Per Cylinder,4
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Transmission Type,Manual
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Gearbox,5-Speed
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Drive Type,FWD
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Fuel Type,CNG
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,CNG Mileage ARAI,27.1 km/kg
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,CNG Fuel Tank Capacity,60 Litres
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Emission Norm Compliance,BS VI 2.0
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Front Suspension,MacPherson Strut suspension
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Rear Suspension,Rear twist beam
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Shock Absorbers Type,Gas Type
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Steering Type,Electric
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Steering Column,Tilt
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Front Brake Type,Disc
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Rear Brake Type,Drum
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Length,3815 mm
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Width,1710 mm
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Height,1631 mm
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Seating Capacity,5
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Wheel Base,2450 mm
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,No. of Doors,5
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Reported Boot Space,391 Litres
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Power Steering,YES
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Air Conditioner,YES
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Heater,YES
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Height Adjustable Driver Seat,YES
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Automatic Climate Control,YES
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Accessory Power Outlet,YES
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Trunk Light,NO
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Vanity Mirror,YES
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Rear Reading Lamp,YES
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Rear Seat Headrest,Adjustable
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Rear AC Vents,YES
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Cruise Control,NO
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Parking Sensors,Rear
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Foldable Rear Seat,Bench Folding
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,KeyLess Entry,YES
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Engine Start/Stop Button,NO
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Cooled Glovebox,NO
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Voice Commands,YES
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Paddle Shifters,NO
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,USB Charger,Front
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Tailgate Ajar Warning,YES
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Luggage Hook & Net,YES
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Idle Start-Stop System,YES
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Automatic Headlamps,NO
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Follow Me Home Headlamps,YES
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Additional Features,Rear parcel tray
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Voice assisted sunroof,NO
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Power Windows,Front & Rear
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Tachometer,YES
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Glove Box,YES
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Digital Cluster,YES
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Upholstery,Leatherette
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Adjustable Headlamps,YES
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Rear Window Wiper,NO
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Rear Window Washer,NO
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Rear Window Defogger,YES
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Wheel Covers,YES
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Alloy Wheels,NO
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Rear Spoiler,YES
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Outside Rear View Mirror Turn Indicators,YES
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Projector Headlamps,YES
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Halogen Headlamps,NO
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Roof Rails,YES
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Antenna,Shark fin
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Sunroof,Single Pane
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Boot Opening,Electronic
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Outside Rear View Mirror (ORVM),Powered & Folding
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Tyre Size,175/65 R15
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Tyre Type,Radial Tubeless
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Wheel Size,15 Inch
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,LED DRLs,YES
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,LED Taillights,YES
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Anti-lock Braking System (ABS),YES
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Central Locking,YES
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Child Safety Locks,YES
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Anti-Theft Alarm,YES
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,No. of Airbags,6
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Driver Airbag,YES
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Passenger Airbag,YES
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Side Airbag,YES
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Side Airbag-Rear,NO
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Day & Night Rear View Mirror,YES
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Curtain Airbag,YES
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Electronic Brakeforce Distribution (EBD),YES
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Seat Belt Warning,YES
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Door Ajar Warning,YES
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Tyre Pressure Monitoring System (TPMS),YES
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Engine Immobilizer,YES
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Electronic Stability Control (ESC),YES
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Rear Camera,With Guidedlines
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Anti-Theft Device,YES
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Speed Alert,YES
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Speed Sensing Auto Door Lock,YES
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,ISOFIX Child Seat Mounts,YES
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Hill Assist,YES
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Impact Sensing Auto Door Unlock,YES
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Radio,YES
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Wireless Phone Charging,NO
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Bluetooth Connectivity,YES
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Touchscreen,YES
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Touchscreen Size,8 inch
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Android Auto,YES
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Apple CarPlay,YES
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Rear Touchscreen,NO
+HYUNDAI,EXTER,Exter SX Dual Knight CNG,Speakers,Front & Rear

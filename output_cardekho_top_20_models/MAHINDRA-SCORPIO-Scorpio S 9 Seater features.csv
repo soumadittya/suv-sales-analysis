@@ -1,0 +1,98 @@
+company,model,variant,feature_name,feature_details
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Engine Type,mHAWK 4 Cylinder
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Displacement,2184 cc
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Max Power,130bhp@3750rpm
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Max Torque,300Nm@1600-2800rpm
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,No. of Cylinders,4
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Valves Per Cylinder,4
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Fuel Supply System,CRDi
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Turbo Charger,YES
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Transmission Type,Manual
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Gearbox,6-Speed
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Drive Type,RWD
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Fuel Type,Diesel
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Diesel Mileage ARAI,14.44 kmpl
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Diesel Fuel Tank Capacity,60 Litres
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Emission Norm Compliance,BS VI 2.0
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Top Speed,165 kmph
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Front Suspension,Double wishbone suspension
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Rear Suspension,Multi-link suspension
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Shock Absorbers Type,"Hydraulic, Double Acting, Telescopic"
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Steering Type,Hydraulic
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Steering Column,Tilt & Telescopic
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Front Brake Type,Disc
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Rear Brake Type,Drum
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Braking (100-0kmph),41.50 s
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,0-100Kmph (Tested),13.1 s
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Braking (80-0 kmph),26.14 s
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Length,4456 mm
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Width,1820 mm
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Height,1995 mm
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Boot Space,460 Litres
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Seating Capacity,9
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Wheel Base,2680 mm
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,No. of Doors,5
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Power Steering,YES
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Air Conditioner,YES
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Heater,YES
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Height Adjustable Driver Seat,NO
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Automatic Climate Control,NO
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Accessory Power Outlet,YES
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Rear Reading Lamp,YES
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Adjustable Headrest,YES
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Height Adjustable Front Seat Belts,NO
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Rear AC Vents,YES
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Cruise Control,NO
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Parking Sensors,Rear
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,KeyLess Entry,NO
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Central Console Armrest,NO
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Gear Shift Indicator,NO
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Lane Change Indicator,YES
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Follow Me Home Headlamps,NO
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Tachometer,YES
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Leather Wrapped Steering Wheel,NO
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Glove Box,YES
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Adjustable Headlamps,YES
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Rear Window Wiper,NO
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Rear Window Washer,NO
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Rear Window Defogger,NO
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Alloy Wheels,NO
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Rear Spoiler,NO
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Side Stepper,NO
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Outside Rear View Mirror Turn Indicators,NO
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Integrated Antenna,NO
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Chrome Grille,NO
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Projector Headlamps,NO
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Fog Lights,NO
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Sunroof,NO
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Boot Opening,Manual
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Outside Rear View Mirror (ORVM),Manual
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Tyre Size,235/65 R17
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Tyre Type,"Radial, Tubeless"
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Wheel Size,17 Inch
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,LED DRLs,NO
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,LED Headlamps,NO
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,LED Taillights,YES
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Anti-lock Braking System (ABS),YES
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Central Locking,YES
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Anti-Theft Alarm,NO
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,No. of Airbags,2
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Driver Airbag,YES
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Passenger Airbag,YES
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Side Airbag,NO
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Side Airbag-Rear,NO
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Day & Night Rear View Mirror,YES
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Electronic Brakeforce Distribution (EBD),YES
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Seat Belt Warning,YES
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Door Ajar Warning,YES
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Engine Immobilizer,YES
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Anti-Theft Device,NO
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Speed Alert,YES
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Speed Sensing Auto Door Lock,NO
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Radio,NO
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Integrated 2DIN Audio,NO
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Bluetooth Connectivity,NO
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Touchscreen,NO
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Touchscreen Size,inch
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Usb Ports,NO
+MAHINDRA,SCORPIO,Scorpio S 9 Seater,Speakers,NO

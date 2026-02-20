@@ -1,0 +1,122 @@
+company,model,variant,feature_name,feature_details
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Engine Type,K15B
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Displacement,1462 cc
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Max Power,101.64bhp@6000rpm
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Max Torque,136.8Nm@4400rpm
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,No. of Cylinders,4
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Valves Per Cylinder,4
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Transmission Type,Manual
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Gearbox,5-Speed
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Drive Type,FWD
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Fuel Type,Petrol
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Petrol Mileage ARAI,21.12 kmpl
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Petrol Fuel Tank Capacity,45 Litres
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Emission Norm Compliance,BS VI 2.0
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Top Speed,180 kmph
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Front Suspension,MacPherson Strut suspension
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Rear Suspension,Rear twist beam
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Steering Type,Electric
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Steering Column,Tilt & Telescopic
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Turning Radius,5.4 m
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Front Brake Type,Ventilated Disc
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Rear Brake Type,Solid Disc
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Length,4365 mm
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Width,1795 mm
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Height,1645 mm
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Boot Space,373 Litres
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Seating Capacity,5
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Wheel Base,2600 mm
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Kerb Weight,1145-1190 kg
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Gross Weight,1650 kg
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,No. of Doors,5
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Reported Boot Space,373 Litres
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Reported Ground Clearance (Unladen),208 mm
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Power Steering,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Air Conditioner,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Heater,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Height Adjustable Driver Seat,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Ventilated Seats,NO
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Automatic Climate Control,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Air Quality Control,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Accessory Power Outlet,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Trunk Light,NO
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Vanity Mirror,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Rear Reading Lamp,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Adjustable Headrest,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Rear Seat Centre Arm Rest,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Height Adjustable Front Seat Belts,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Rear AC Vents,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Cruise Control,NO
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Parking Sensors,Rear
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Foldable Rear Seat,60:40 Split
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,KeyLess Entry,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Engine Start/Stop Button,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Paddle Shifters,NO
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,USB Charger,NO
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Central Console Armrest,With Storage
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Tailgate Ajar Warning,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Gear Shift Indicator,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Glove Box light,NO
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Automatic Headlamps,NO
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Follow Me Home Headlamps,NO
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Tachometer,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Leather Wrapped Steering Wheel,NO
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Glove Box,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Digital Cluster,Semi
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Digital Cluster Size,4.2 inch
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Upholstery,Fabric
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Adjustable Headlamps,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Rear Window Wiper,NO
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Rear Window Washer,NO
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Wheel Covers,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Alloy Wheels,NO
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Rear Spoiler,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Outside Rear View Mirror Turn Indicators,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Integrated Antenna,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Projector Headlamps,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Halogen Headlamps,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Roof Rails,NO
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Antenna,Shark Fin
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Sunroof,NO
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Boot Opening,Manual
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Tyre Size,215/60 R17
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Tyre Type,"Tubeless, Radial"
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Wheel Size,17 Inch
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,LED DRLs,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,LED Headlamps,NO
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,LED Taillights,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Anti-lock Braking System (ABS),YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Central Locking,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Child Safety Locks,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,No. of Airbags,6
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Driver Airbag,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Passenger Airbag,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Side Airbag,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Day & Night Rear View Mirror,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Curtain Airbag,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Electronic Brakeforce Distribution (EBD),YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Seat Belt Warning,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Door Ajar Warning,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Tyre Pressure Monitoring System (TPMS),NO
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Engine Immobilizer,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Electronic Stability Control (ESC),YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Rear Camera,NO
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Speed Alert,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Speed Sensing Auto Door Lock,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,ISOFIX Child Seat Mounts,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Heads-Up Display (HUD),NO
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Hill Descent Control,NO
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Hill Assist,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Impact Sensing Auto Door Unlock,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,360 View Camera,NO
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Radio,NO
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Integrated 2DIN Audio,NO
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Wireless Phone Charging,NO
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Bluetooth Connectivity,NO
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Touchscreen,NO
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Android Auto,NO
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Apple CarPlay,NO
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,No. of Speakers,2
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Usb Ports,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder E,Speakers,Front Only

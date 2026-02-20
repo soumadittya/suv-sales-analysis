@@ -1,0 +1,140 @@
+company,model,variant,feature_name,feature_details
+HYUNDAI,CRETA,Creta King Turbo DCT,Engine Type,1.5L T-GDi
+HYUNDAI,CRETA,Creta King Turbo DCT,Displacement,1482 cc
+HYUNDAI,CRETA,Creta King Turbo DCT,Max Power,157.57bhp@5500rpm
+HYUNDAI,CRETA,Creta King Turbo DCT,Max Torque,253Nm@1500-3500rpm
+HYUNDAI,CRETA,Creta King Turbo DCT,No. of Cylinders,4
+HYUNDAI,CRETA,Creta King Turbo DCT,Valves Per Cylinder,4
+HYUNDAI,CRETA,Creta King Turbo DCT,Valve Configuration,DOHC
+HYUNDAI,CRETA,Creta King Turbo DCT,Fuel Supply System,GDi
+HYUNDAI,CRETA,Creta King Turbo DCT,Turbo Charger,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Transmission Type,Automatic
+HYUNDAI,CRETA,Creta King Turbo DCT,Gearbox,7-Speed DCT
+HYUNDAI,CRETA,Creta King Turbo DCT,Drive Type,FWD
+HYUNDAI,CRETA,Creta King Turbo DCT,Fuel Type,Petrol
+HYUNDAI,CRETA,Creta King Turbo DCT,Petrol Mileage ARAI,18.4 kmpl
+HYUNDAI,CRETA,Creta King Turbo DCT,Petrol Fuel Tank Capacity,50 Litres
+HYUNDAI,CRETA,Creta King Turbo DCT,Emission Norm Compliance,BS VI 2.0
+HYUNDAI,CRETA,Creta King Turbo DCT,Front Suspension,MacPherson Strut suspension
+HYUNDAI,CRETA,Creta King Turbo DCT,Rear Suspension,Rear twist beam
+HYUNDAI,CRETA,Creta King Turbo DCT,Steering Type,Electric
+HYUNDAI,CRETA,Creta King Turbo DCT,Steering Column,Tilt & Telescopic
+HYUNDAI,CRETA,Creta King Turbo DCT,Turning Radius,5.3 m
+HYUNDAI,CRETA,Creta King Turbo DCT,Front Brake Type,Disc
+HYUNDAI,CRETA,Creta King Turbo DCT,Rear Brake Type,Disc
+HYUNDAI,CRETA,Creta King Turbo DCT,Alloy Wheel Size Front,18 Inch
+HYUNDAI,CRETA,Creta King Turbo DCT,Alloy Wheel Size Rear,18 Inch
+HYUNDAI,CRETA,Creta King Turbo DCT,Length,4330 mm
+HYUNDAI,CRETA,Creta King Turbo DCT,Width,1790 mm
+HYUNDAI,CRETA,Creta King Turbo DCT,Height,1635 mm
+HYUNDAI,CRETA,Creta King Turbo DCT,Seating Capacity,5
+HYUNDAI,CRETA,Creta King Turbo DCT,Ground Clearance Unladen,190 mm
+HYUNDAI,CRETA,Creta King Turbo DCT,Wheel Base,2610 mm
+HYUNDAI,CRETA,Creta King Turbo DCT,No. of Doors,5
+HYUNDAI,CRETA,Creta King Turbo DCT,Reported Boot Space,433 Litres
+HYUNDAI,CRETA,Creta King Turbo DCT,Power Steering,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Air Conditioner,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Heater,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Height Adjustable Driver Seat,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Ventilated Seats,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Electric Adjustable Seats,Front
+HYUNDAI,CRETA,Creta King Turbo DCT,Automatic Climate Control,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Accessory Power Outlet,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Trunk Light,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Vanity Mirror,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Rear Reading Lamp,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Adjustable Headrest,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Rear Seat Centre Arm Rest,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Height Adjustable Front Seat Belts,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Rear AC Vents,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Cruise Control,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Parking Sensors,Front & Rear
+HYUNDAI,CRETA,Creta King Turbo DCT,Foldable Rear Seat,60:40 Split
+HYUNDAI,CRETA,Creta King Turbo DCT,KeyLess Entry,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Engine Start/Stop Button,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Cooled Glovebox,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Voice Commands,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Paddle Shifters,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,USB Charger,Front & Rear
+HYUNDAI,CRETA,Creta King Turbo DCT,Central Console Armrest,With Storage
+HYUNDAI,CRETA,Creta King Turbo DCT,Hands-Free Tailgate,NO
+HYUNDAI,CRETA,Creta King Turbo DCT,Drive Modes,3
+HYUNDAI,CRETA,Creta King Turbo DCT,Idle Start-Stop System,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Rear Window Sunblind,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Automatic Headlamps,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Follow Me Home Headlamps,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Additional Features,Sunglass holder
+HYUNDAI,CRETA,Creta King Turbo DCT,Voice assisted sunroof,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Drive Mode Types,ECO|NORMAL|SPORT
+HYUNDAI,CRETA,Creta King Turbo DCT,Tachometer,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Glove Box,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Digital Odometer,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Dual Tone Dashboard,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Additional Features,Rear parcel tray
+HYUNDAI,CRETA,Creta King Turbo DCT,Digital Cluster,Full
+HYUNDAI,CRETA,Creta King Turbo DCT,Digital Cluster Size,10.25 Inch
+HYUNDAI,CRETA,Creta King Turbo DCT,Upholstery,Leatherette
+HYUNDAI,CRETA,Creta King Turbo DCT,Rear Window Wiper,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Rear Window Washer,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Rear Window Defogger,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Wheel Covers,NO
+HYUNDAI,CRETA,Creta King Turbo DCT,Alloy Wheels,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Rear Spoiler,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Outside Rear View Mirror Turn Indicators,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Integrated Antenna,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Projector Headlamps,NO
+HYUNDAI,CRETA,Creta King Turbo DCT,Roof Rails,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Antenna,Shark Fin
+HYUNDAI,CRETA,Creta King Turbo DCT,Sunroof,Panoramic
+HYUNDAI,CRETA,Creta King Turbo DCT,Boot Opening,Electronic
+HYUNDAI,CRETA,Creta King Turbo DCT,Puddle Lamps,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Tyre Size,215/55 R18
+HYUNDAI,CRETA,Creta King Turbo DCT,Tyre Type,Radial Tubeless
+HYUNDAI,CRETA,Creta King Turbo DCT,LED DRLs,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,LED Headlamps,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,LED Taillights,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Anti-lock Braking System (ABS),YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Central Locking,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Child Safety Locks,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Anti-Theft Alarm,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,No. of Airbags,6
+HYUNDAI,CRETA,Creta King Turbo DCT,Driver Airbag,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Passenger Airbag,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Side Airbag,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Side Airbag-Rear,NO
+HYUNDAI,CRETA,Creta King Turbo DCT,Day & Night Rear View Mirror,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Curtain Airbag,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Electronic Brakeforce Distribution (EBD),YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Seat Belt Warning,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Door Ajar Warning,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Traction Control,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Tyre Pressure Monitoring System (TPMS),YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Engine Immobilizer,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Electronic Stability Control (ESC),YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Rear Camera,With Guidedlines
+HYUNDAI,CRETA,Creta King Turbo DCT,Anti-Theft Device,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Anti-Pinch Power Windows,Driver's Window
+HYUNDAI,CRETA,Creta King Turbo DCT,Speed Alert,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Speed Sensing Auto Door Lock,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Knee Airbags,NO
+HYUNDAI,CRETA,Creta King Turbo DCT,ISOFIX Child Seat Mounts,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+HYUNDAI,CRETA,Creta King Turbo DCT,Hill Assist,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Impact Sensing Auto Door Unlock,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,360 View Camera,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Radio,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Integrated 2DIN Audio,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Wireless Phone Charging,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Bluetooth Connectivity,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Touchscreen,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Touchscreen Size,10.25 inch
+HYUNDAI,CRETA,Creta King Turbo DCT,Connectivity,Android Auto
+HYUNDAI,CRETA,Creta King Turbo DCT,Android Auto,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Apple CarPlay,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,No. of Speakers,8
+HYUNDAI,CRETA,Creta King Turbo DCT,Usb Ports,YES
+HYUNDAI,CRETA,Creta King Turbo DCT,Inbuilt Apps,JioSaavan
+HYUNDAI,CRETA,Creta King Turbo DCT,Tweeters,2
+HYUNDAI,CRETA,Creta King Turbo DCT,Subwoofer,1
+HYUNDAI,CRETA,Creta King Turbo DCT,Additional Features,Bose premium sound 8 speaker system with front central speaker & sub-woofer
+HYUNDAI,CRETA,Creta King Turbo DCT,Speakers,Front & Rear

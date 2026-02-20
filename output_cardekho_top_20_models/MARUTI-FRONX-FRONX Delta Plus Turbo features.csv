@@ -1,0 +1,123 @@
+company,model,variant,feature_name,feature_details
+MARUTI,FRONX,FRONX Delta Plus Turbo,Engine Type,1.0L Turbo Boosterjet
+MARUTI,FRONX,FRONX Delta Plus Turbo,Displacement,998 cc
+MARUTI,FRONX,FRONX Delta Plus Turbo,Max Power,98.69bhp@5500rpm
+MARUTI,FRONX,FRONX Delta Plus Turbo,Max Torque,147.6Nm@2000-4500rpm
+MARUTI,FRONX,FRONX Delta Plus Turbo,No. of Cylinders,3
+MARUTI,FRONX,FRONX Delta Plus Turbo,Valves Per Cylinder,4
+MARUTI,FRONX,FRONX Delta Plus Turbo,Turbo Charger,YES
+MARUTI,FRONX,FRONX Delta Plus Turbo,Transmission Type,Manual
+MARUTI,FRONX,FRONX Delta Plus Turbo,Gearbox,5-Speed
+MARUTI,FRONX,FRONX Delta Plus Turbo,Drive Type,FWD
+MARUTI,FRONX,FRONX Delta Plus Turbo,Fuel Type,Petrol
+MARUTI,FRONX,FRONX Delta Plus Turbo,Petrol Mileage ARAI,21.5 kmpl
+MARUTI,FRONX,FRONX Delta Plus Turbo,Petrol Fuel Tank Capacity,37 Litres
+MARUTI,FRONX,FRONX Delta Plus Turbo,Emission Norm Compliance,BS VI 2.0
+MARUTI,FRONX,FRONX Delta Plus Turbo,Top Speed,180 kmph
+MARUTI,FRONX,FRONX Delta Plus Turbo,Front Suspension,MacPherson Strut suspension
+MARUTI,FRONX,FRONX Delta Plus Turbo,Rear Suspension,Rear twist beam
+MARUTI,FRONX,FRONX Delta Plus Turbo,Steering Type,Electric
+MARUTI,FRONX,FRONX Delta Plus Turbo,Steering Column,Tilt
+MARUTI,FRONX,FRONX Delta Plus Turbo,Turning Radius,4.9 m
+MARUTI,FRONX,FRONX Delta Plus Turbo,Front Brake Type,Disc
+MARUTI,FRONX,FRONX Delta Plus Turbo,Rear Brake Type,Drum
+MARUTI,FRONX,FRONX Delta Plus Turbo,Acceleration,10.38 s
+MARUTI,FRONX,FRONX Delta Plus Turbo,Braking (100-0kmph),41.30 s
+MARUTI,FRONX,FRONX Delta Plus Turbo,0-100kmph,10.38 s
+MARUTI,FRONX,FRONX Delta Plus Turbo,Alloy Wheel Size Front,16 Inch
+MARUTI,FRONX,FRONX Delta Plus Turbo,Alloy Wheel Size Rear,16 Inch
+MARUTI,FRONX,FRONX Delta Plus Turbo,Braking (80-0 kmph),26.23 s
+MARUTI,FRONX,FRONX Delta Plus Turbo,Length,3995 mm
+MARUTI,FRONX,FRONX Delta Plus Turbo,Width,1765 mm
+MARUTI,FRONX,FRONX Delta Plus Turbo,Height,1550 mm
+MARUTI,FRONX,FRONX Delta Plus Turbo,Boot Space,308 Litres
+MARUTI,FRONX,FRONX Delta Plus Turbo,Seating Capacity,5
+MARUTI,FRONX,FRONX Delta Plus Turbo,Wheel Base,2520 mm
+MARUTI,FRONX,FRONX Delta Plus Turbo,Kerb Weight,1015-1030 kg
+MARUTI,FRONX,FRONX Delta Plus Turbo,Gross Weight,1480 kg
+MARUTI,FRONX,FRONX Delta Plus Turbo,No. of Doors,5
+MARUTI,FRONX,FRONX Delta Plus Turbo,Power Steering,YES
+MARUTI,FRONX,FRONX Delta Plus Turbo,Air Conditioner,YES
+MARUTI,FRONX,FRONX Delta Plus Turbo,Heater,YES
+MARUTI,FRONX,FRONX Delta Plus Turbo,Height Adjustable Driver Seat,NO
+MARUTI,FRONX,FRONX Delta Plus Turbo,Automatic Climate Control,YES
+MARUTI,FRONX,FRONX Delta Plus Turbo,Rear Reading Lamp,YES
+MARUTI,FRONX,FRONX Delta Plus Turbo,Adjustable Headrest,YES
+MARUTI,FRONX,FRONX Delta Plus Turbo,Rear AC Vents,NO
+MARUTI,FRONX,FRONX Delta Plus Turbo,Cruise Control,NO
+MARUTI,FRONX,FRONX Delta Plus Turbo,Parking Sensors,Rear
+MARUTI,FRONX,FRONX Delta Plus Turbo,Real-Time Vehicle Tracking,NO
+MARUTI,FRONX,FRONX Delta Plus Turbo,Foldable Rear Seat,60:40 Split
+MARUTI,FRONX,FRONX Delta Plus Turbo,KeyLess Entry,YES
+MARUTI,FRONX,FRONX Delta Plus Turbo,Engine Start/Stop Button,NO
+MARUTI,FRONX,FRONX Delta Plus Turbo,Voice Commands,YES
+MARUTI,FRONX,FRONX Delta Plus Turbo,Paddle Shifters,NO
+MARUTI,FRONX,FRONX Delta Plus Turbo,USB Charger,Front
+MARUTI,FRONX,FRONX Delta Plus Turbo,Central Console Armrest,NO
+MARUTI,FRONX,FRONX Delta Plus Turbo,Gear Shift Indicator,YES
+MARUTI,FRONX,FRONX Delta Plus Turbo,Idle Start-Stop System,YES
+MARUTI,FRONX,FRONX Delta Plus Turbo,Automatic Headlamps,YES
+MARUTI,FRONX,FRONX Delta Plus Turbo,Follow Me Home Headlamps,YES
+MARUTI,FRONX,FRONX Delta Plus Turbo,Power Windows,Front & Rear
+MARUTI,FRONX,FRONX Delta Plus Turbo,Tachometer,YES
+MARUTI,FRONX,FRONX Delta Plus Turbo,Glove Box,YES
+MARUTI,FRONX,FRONX Delta Plus Turbo,Dual Tone Dashboard,YES
+MARUTI,FRONX,FRONX Delta Plus Turbo,Additional Features,Rear Parcel Tray
+MARUTI,FRONX,FRONX Delta Plus Turbo,Digital Cluster,NO
+MARUTI,FRONX,FRONX Delta Plus Turbo,Upholstery,Fabric
+MARUTI,FRONX,FRONX Delta Plus Turbo,Rear Window Wiper,NO
+MARUTI,FRONX,FRONX Delta Plus Turbo,Rear Window Washer,NO
+MARUTI,FRONX,FRONX Delta Plus Turbo,Rear Window Defogger,YES
+MARUTI,FRONX,FRONX Delta Plus Turbo,Wheel Covers,NO
+MARUTI,FRONX,FRONX Delta Plus Turbo,Alloy Wheels,YES
+MARUTI,FRONX,FRONX Delta Plus Turbo,Rear Spoiler,YES
+MARUTI,FRONX,FRONX Delta Plus Turbo,Outside Rear View Mirror Turn Indicators,YES
+MARUTI,FRONX,FRONX Delta Plus Turbo,Integrated Antenna,YES
+MARUTI,FRONX,FRONX Delta Plus Turbo,Chrome Grille,YES
+MARUTI,FRONX,FRONX Delta Plus Turbo,Projector Headlamps,NO
+MARUTI,FRONX,FRONX Delta Plus Turbo,Halogen Headlamps,NO
+MARUTI,FRONX,FRONX Delta Plus Turbo,Antenna,Shark Fin
+MARUTI,FRONX,FRONX Delta Plus Turbo,Outside Rear View Mirror (ORVM),Powered
+MARUTI,FRONX,FRONX Delta Plus Turbo,Tyre Size,195/60 R16
+MARUTI,FRONX,FRONX Delta Plus Turbo,Tyre Type,Radial Tubeless
+MARUTI,FRONX,FRONX Delta Plus Turbo,LED DRLs,YES
+MARUTI,FRONX,FRONX Delta Plus Turbo,LED Headlamps,YES
+MARUTI,FRONX,FRONX Delta Plus Turbo,LED Taillights,YES
+MARUTI,FRONX,FRONX Delta Plus Turbo,Anti-lock Braking System (ABS),YES
+MARUTI,FRONX,FRONX Delta Plus Turbo,Central Locking,YES
+MARUTI,FRONX,FRONX Delta Plus Turbo,Anti-Theft Alarm,YES
+MARUTI,FRONX,FRONX Delta Plus Turbo,No. of Airbags,6
+MARUTI,FRONX,FRONX Delta Plus Turbo,Driver Airbag,YES
+MARUTI,FRONX,FRONX Delta Plus Turbo,Passenger Airbag,YES
+MARUTI,FRONX,FRONX Delta Plus Turbo,Side Airbag,YES
+MARUTI,FRONX,FRONX Delta Plus Turbo,Side Airbag-Rear,NO
+MARUTI,FRONX,FRONX Delta Plus Turbo,Day & Night Rear View Mirror,YES
+MARUTI,FRONX,FRONX Delta Plus Turbo,Curtain Airbag,YES
+MARUTI,FRONX,FRONX Delta Plus Turbo,Electronic Brakeforce Distribution (EBD),YES
+MARUTI,FRONX,FRONX Delta Plus Turbo,Seat Belt Warning,YES
+MARUTI,FRONX,FRONX Delta Plus Turbo,Door Ajar Warning,YES
+MARUTI,FRONX,FRONX Delta Plus Turbo,Engine Immobilizer,YES
+MARUTI,FRONX,FRONX Delta Plus Turbo,Electronic Stability Control (ESC),YES
+MARUTI,FRONX,FRONX Delta Plus Turbo,Rear Camera,NO
+MARUTI,FRONX,FRONX Delta Plus Turbo,Anti-Theft Device,YES
+MARUTI,FRONX,FRONX Delta Plus Turbo,Speed Alert,YES
+MARUTI,FRONX,FRONX Delta Plus Turbo,Speed Sensing Auto Door Lock,YES
+MARUTI,FRONX,FRONX Delta Plus Turbo,ISOFIX Child Seat Mounts,YES
+MARUTI,FRONX,FRONX Delta Plus Turbo,Heads-Up Display (HUD),NO
+MARUTI,FRONX,FRONX Delta Plus Turbo,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+MARUTI,FRONX,FRONX Delta Plus Turbo,Hill Assist,YES
+MARUTI,FRONX,FRONX Delta Plus Turbo,Impact Sensing Auto Door Unlock,YES
+MARUTI,FRONX,FRONX Delta Plus Turbo,360 View Camera,NO
+MARUTI,FRONX,FRONX Delta Plus Turbo,Radio,YES
+MARUTI,FRONX,FRONX Delta Plus Turbo,Integrated 2DIN Audio,YES
+MARUTI,FRONX,FRONX Delta Plus Turbo,Wireless Phone Charging,NO
+MARUTI,FRONX,FRONX Delta Plus Turbo,Bluetooth Connectivity,YES
+MARUTI,FRONX,FRONX Delta Plus Turbo,Touchscreen,YES
+MARUTI,FRONX,FRONX Delta Plus Turbo,Touchscreen Size,7 inch
+MARUTI,FRONX,FRONX Delta Plus Turbo,Connectivity,"Android Auto, Apple CarPlay"
+MARUTI,FRONX,FRONX Delta Plus Turbo,Android Auto,YES
+MARUTI,FRONX,FRONX Delta Plus Turbo,Apple CarPlay,YES
+MARUTI,FRONX,FRONX Delta Plus Turbo,No. of Speakers,4
+MARUTI,FRONX,FRONX Delta Plus Turbo,Usb Ports,YES
+MARUTI,FRONX,FRONX Delta Plus Turbo,Additional Features,Android Auto and Apple CarPlay (Wireless)
+MARUTI,FRONX,FRONX Delta Plus Turbo,Speakers,Front & Rear

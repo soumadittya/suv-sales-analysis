@@ -1,0 +1,106 @@
+company,model,variant,feature_name,feature_details
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Engine Type,mHawk 130 CRDe
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Displacement,2184 cc
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Max Power,130bhp@3750rpm
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Max Torque,300Nm@1600-2800rpm
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,No. of Cylinders,4
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Valves Per Cylinder,4
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Turbo Charger,YES
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Transmission Type,Automatic
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Gearbox,6-Speed
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Drive Type,4WD
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Fuel Type,Diesel
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Diesel Fuel Tank Capacity,57 Litres
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Diesel Highway Mileage,11 kmpl
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Emission Norm Compliance,BS VI 2.0
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Front Suspension,Double wishbone suspension
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Rear Suspension,"Multi-link, Solid Axle"
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Steering Type,Hydraulic
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Steering Column,Tilt
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Steering Gear Type,Rack & Pinion
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Front Brake Type,Disc
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Rear Brake Type,Drum
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Alloy Wheel Size Front,18 Inch
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Alloy Wheel Size Rear,18 Inch
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Length,3985 mm
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Width,1820 mm
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Height,1855 mm
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Seating Capacity,4
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Ground Clearance Unladen,226 mm
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Wheel Base,2450 mm
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Rear Tread,1520 mm
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Approach Angle,41.2°
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Break-over Angle,26.2°
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Departure Angle,36°
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,No. of Doors,3
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Power Steering,YES
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Air Conditioner,YES
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Heater,YES
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Height Adjustable Driver Seat,YES
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Accessory Power Outlet,YES
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Rear Reading Lamp,YES
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Adjustable Headrest,YES
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Rear AC Vents,YES
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Cruise Control,YES
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Parking Sensors,Rear
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Foldable Rear Seat,50:50 Split
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,KeyLess Entry,YES
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Voice Commands,YES
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Lane Change Indicator,YES
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Follow Me Home Headlamps,YES
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Additional Features,"Adventure Statistics Gen II, Advanced Electronic Brake Locking Differential,Mechanical Locking Differential"
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Power Windows,Front Only
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Tachometer,YES
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Glove Box,YES
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Digital Cluster,Sami(Coloured)
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Digital Cluster Size,4.2 inch
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Upholstery,Fabric
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Rear Window Wiper,YES
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Rear Window Washer,YES
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Rear Window Defogger,YES
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Alloy Wheels,YES
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Side Stepper,YES
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Integrated Antenna,YES
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Fog Lights,Front
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Antenna,Fender-mounted
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Boot Opening,Manual
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Outside Rear View Mirror (ORVM),Powered
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Tyre Size,255/65 R18
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Tyre Type,Tubeless All-Terrain
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,LED DRLs,YES
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,LED Headlamps,YES
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,LED Taillights,YES
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Anti-lock Braking System (ABS),YES
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Brake Assist,YES
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Central Locking,YES
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,No. of Airbags,2
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Driver Airbag,YES
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Passenger Airbag,YES
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Side Airbag,NO
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Side Airbag-Rear,NO
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Day & Night Rear View Mirror,YES
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Electronic Brakeforce Distribution (EBD),YES
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Seat Belt Warning,YES
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Tyre Pressure Monitoring System (TPMS),YES
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Electronic Stability Control (ESC),YES
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Rear Camera,With Guidedlines
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Speed Alert,YES
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Speed Sensing Auto Door Lock,YES
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,ISOFIX Child Seat Mounts,YES
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Hill Descent Control,YES
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Hill Assist,YES
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Global NCAP Safety Rating,4 Star
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Global NCAP Child Safety Rating,4 Star
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Radio,YES
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Integrated 2DIN Audio,YES
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Bluetooth Connectivity,YES
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Touchscreen,YES
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Touchscreen Size,10.24 inch
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Connectivity,"Android Auto, Apple CarPlay"
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Android Auto,YES
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Apple CarPlay,YES
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,No. of Speakers,4
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Usb Ports,YES
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Tweeters,2
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Additional Features,wireless android auto play
+MAHINDRA,THAR,Thar LXT 4WD Diesel AT,Speakers,Front & Rear

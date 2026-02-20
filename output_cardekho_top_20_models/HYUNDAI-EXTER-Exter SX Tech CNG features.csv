@@ -1,0 +1,115 @@
+company,model,variant,feature_name,feature_details
+HYUNDAI,EXTER,Exter SX Tech CNG,Engine Type,1.2 l Bi-Fuel
+HYUNDAI,EXTER,Exter SX Tech CNG,Displacement,1197 cc
+HYUNDAI,EXTER,Exter SX Tech CNG,Max Power,67.72bhp@6000rpm
+HYUNDAI,EXTER,Exter SX Tech CNG,Max Torque,95.2Nm@4000rpm
+HYUNDAI,EXTER,Exter SX Tech CNG,No. of Cylinders,4
+HYUNDAI,EXTER,Exter SX Tech CNG,Valves Per Cylinder,4
+HYUNDAI,EXTER,Exter SX Tech CNG,Transmission Type,Manual
+HYUNDAI,EXTER,Exter SX Tech CNG,Gearbox,5-Speed
+HYUNDAI,EXTER,Exter SX Tech CNG,Drive Type,FWD
+HYUNDAI,EXTER,Exter SX Tech CNG,Fuel Type,CNG
+HYUNDAI,EXTER,Exter SX Tech CNG,CNG Mileage ARAI,27.1 km/kg
+HYUNDAI,EXTER,Exter SX Tech CNG,CNG Fuel Tank Capacity,60 Litres
+HYUNDAI,EXTER,Exter SX Tech CNG,Emission Norm Compliance,BS VI 2.0
+HYUNDAI,EXTER,Exter SX Tech CNG,Front Suspension,MacPherson Strut suspension
+HYUNDAI,EXTER,Exter SX Tech CNG,Rear Suspension,Rear twist beam
+HYUNDAI,EXTER,Exter SX Tech CNG,Shock Absorbers Type,Gas Type
+HYUNDAI,EXTER,Exter SX Tech CNG,Steering Type,Electric
+HYUNDAI,EXTER,Exter SX Tech CNG,Steering Column,Tilt
+HYUNDAI,EXTER,Exter SX Tech CNG,Front Brake Type,Disc
+HYUNDAI,EXTER,Exter SX Tech CNG,Rear Brake Type,Drum
+HYUNDAI,EXTER,Exter SX Tech CNG,Length,3815 mm
+HYUNDAI,EXTER,Exter SX Tech CNG,Width,1710 mm
+HYUNDAI,EXTER,Exter SX Tech CNG,Height,1631 mm
+HYUNDAI,EXTER,Exter SX Tech CNG,Seating Capacity,5
+HYUNDAI,EXTER,Exter SX Tech CNG,Wheel Base,2450 mm
+HYUNDAI,EXTER,Exter SX Tech CNG,No. of Doors,5
+HYUNDAI,EXTER,Exter SX Tech CNG,Reported Boot Space,391 Litres
+HYUNDAI,EXTER,Exter SX Tech CNG,Power Steering,YES
+HYUNDAI,EXTER,Exter SX Tech CNG,Air Conditioner,YES
+HYUNDAI,EXTER,Exter SX Tech CNG,Heater,YES
+HYUNDAI,EXTER,Exter SX Tech CNG,Height Adjustable Driver Seat,YES
+HYUNDAI,EXTER,Exter SX Tech CNG,Automatic Climate Control,YES
+HYUNDAI,EXTER,Exter SX Tech CNG,Accessory Power Outlet,YES
+HYUNDAI,EXTER,Exter SX Tech CNG,Trunk Light,NO
+HYUNDAI,EXTER,Exter SX Tech CNG,Vanity Mirror,YES
+HYUNDAI,EXTER,Exter SX Tech CNG,Rear Reading Lamp,YES
+HYUNDAI,EXTER,Exter SX Tech CNG,Rear Seat Headrest,Adjustable
+HYUNDAI,EXTER,Exter SX Tech CNG,Rear AC Vents,YES
+HYUNDAI,EXTER,Exter SX Tech CNG,Cruise Control,NO
+HYUNDAI,EXTER,Exter SX Tech CNG,Parking Sensors,Rear
+HYUNDAI,EXTER,Exter SX Tech CNG,Foldable Rear Seat,Bench Folding
+HYUNDAI,EXTER,Exter SX Tech CNG,KeyLess Entry,YES
+HYUNDAI,EXTER,Exter SX Tech CNG,Engine Start/Stop Button,NO
+HYUNDAI,EXTER,Exter SX Tech CNG,Cooled Glovebox,NO
+HYUNDAI,EXTER,Exter SX Tech CNG,Voice Commands,YES
+HYUNDAI,EXTER,Exter SX Tech CNG,Paddle Shifters,NO
+HYUNDAI,EXTER,Exter SX Tech CNG,USB Charger,Front
+HYUNDAI,EXTER,Exter SX Tech CNG,Tailgate Ajar Warning,YES
+HYUNDAI,EXTER,Exter SX Tech CNG,Luggage Hook & Net,YES
+HYUNDAI,EXTER,Exter SX Tech CNG,Idle Start-Stop System,YES
+HYUNDAI,EXTER,Exter SX Tech CNG,Automatic Headlamps,NO
+HYUNDAI,EXTER,Exter SX Tech CNG,Follow Me Home Headlamps,YES
+HYUNDAI,EXTER,Exter SX Tech CNG,Additional Features,Rear parcel tray
+HYUNDAI,EXTER,Exter SX Tech CNG,Voice assisted sunroof,NO
+HYUNDAI,EXTER,Exter SX Tech CNG,Power Windows,Front & Rear
+HYUNDAI,EXTER,Exter SX Tech CNG,Tachometer,YES
+HYUNDAI,EXTER,Exter SX Tech CNG,Glove Box,YES
+HYUNDAI,EXTER,Exter SX Tech CNG,Digital Cluster,YES
+HYUNDAI,EXTER,Exter SX Tech CNG,Upholstery,Leatherette
+HYUNDAI,EXTER,Exter SX Tech CNG,Adjustable Headlamps,YES
+HYUNDAI,EXTER,Exter SX Tech CNG,Rear Window Wiper,NO
+HYUNDAI,EXTER,Exter SX Tech CNG,Rear Window Washer,NO
+HYUNDAI,EXTER,Exter SX Tech CNG,Rear Window Defogger,YES
+HYUNDAI,EXTER,Exter SX Tech CNG,Wheel Covers,YES
+HYUNDAI,EXTER,Exter SX Tech CNG,Alloy Wheels,NO
+HYUNDAI,EXTER,Exter SX Tech CNG,Rear Spoiler,NO
+HYUNDAI,EXTER,Exter SX Tech CNG,Outside Rear View Mirror Turn Indicators,YES
+HYUNDAI,EXTER,Exter SX Tech CNG,Projector Headlamps,YES
+HYUNDAI,EXTER,Exter SX Tech CNG,Halogen Headlamps,NO
+HYUNDAI,EXTER,Exter SX Tech CNG,Roof Rails,YES
+HYUNDAI,EXTER,Exter SX Tech CNG,Antenna,Shark fin
+HYUNDAI,EXTER,Exter SX Tech CNG,Sunroof,Single Pane
+HYUNDAI,EXTER,Exter SX Tech CNG,Boot Opening,Electronic
+HYUNDAI,EXTER,Exter SX Tech CNG,Outside Rear View Mirror (ORVM),Powered & Folding
+HYUNDAI,EXTER,Exter SX Tech CNG,Tyre Size,175/65 R15
+HYUNDAI,EXTER,Exter SX Tech CNG,Tyre Type,Radial Tubeless
+HYUNDAI,EXTER,Exter SX Tech CNG,Wheel Size,15 Inch
+HYUNDAI,EXTER,Exter SX Tech CNG,LED DRLs,YES
+HYUNDAI,EXTER,Exter SX Tech CNG,LED Taillights,YES
+HYUNDAI,EXTER,Exter SX Tech CNG,Anti-lock Braking System (ABS),YES
+HYUNDAI,EXTER,Exter SX Tech CNG,Central Locking,YES
+HYUNDAI,EXTER,Exter SX Tech CNG,Child Safety Locks,YES
+HYUNDAI,EXTER,Exter SX Tech CNG,Anti-Theft Alarm,YES
+HYUNDAI,EXTER,Exter SX Tech CNG,No. of Airbags,6
+HYUNDAI,EXTER,Exter SX Tech CNG,Driver Airbag,YES
+HYUNDAI,EXTER,Exter SX Tech CNG,Passenger Airbag,YES
+HYUNDAI,EXTER,Exter SX Tech CNG,Side Airbag,YES
+HYUNDAI,EXTER,Exter SX Tech CNG,Side Airbag-Rear,NO
+HYUNDAI,EXTER,Exter SX Tech CNG,Day & Night Rear View Mirror,YES
+HYUNDAI,EXTER,Exter SX Tech CNG,Curtain Airbag,YES
+HYUNDAI,EXTER,Exter SX Tech CNG,Electronic Brakeforce Distribution (EBD),YES
+HYUNDAI,EXTER,Exter SX Tech CNG,Seat Belt Warning,YES
+HYUNDAI,EXTER,Exter SX Tech CNG,Door Ajar Warning,YES
+HYUNDAI,EXTER,Exter SX Tech CNG,Tyre Pressure Monitoring System (TPMS),YES
+HYUNDAI,EXTER,Exter SX Tech CNG,Engine Immobilizer,YES
+HYUNDAI,EXTER,Exter SX Tech CNG,Electronic Stability Control (ESC),YES
+HYUNDAI,EXTER,Exter SX Tech CNG,Rear Camera,With Guidedlines
+HYUNDAI,EXTER,Exter SX Tech CNG,Anti-Theft Device,YES
+HYUNDAI,EXTER,Exter SX Tech CNG,Speed Alert,YES
+HYUNDAI,EXTER,Exter SX Tech CNG,Speed Sensing Auto Door Lock,YES
+HYUNDAI,EXTER,Exter SX Tech CNG,ISOFIX Child Seat Mounts,YES
+HYUNDAI,EXTER,Exter SX Tech CNG,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+HYUNDAI,EXTER,Exter SX Tech CNG,Hill Assist,YES
+HYUNDAI,EXTER,Exter SX Tech CNG,Impact Sensing Auto Door Unlock,YES
+HYUNDAI,EXTER,Exter SX Tech CNG,Radio,YES
+HYUNDAI,EXTER,Exter SX Tech CNG,Wireless Phone Charging,NO
+HYUNDAI,EXTER,Exter SX Tech CNG,Bluetooth Connectivity,YES
+HYUNDAI,EXTER,Exter SX Tech CNG,Touchscreen,YES
+HYUNDAI,EXTER,Exter SX Tech CNG,Touchscreen Size,8 inch
+HYUNDAI,EXTER,Exter SX Tech CNG,Android Auto,YES
+HYUNDAI,EXTER,Exter SX Tech CNG,Apple CarPlay,YES
+HYUNDAI,EXTER,Exter SX Tech CNG,Usb Ports,YES
+HYUNDAI,EXTER,Exter SX Tech CNG,Inbuilt Apps,NO
+HYUNDAI,EXTER,Exter SX Tech CNG,Speakers,Front & Rear

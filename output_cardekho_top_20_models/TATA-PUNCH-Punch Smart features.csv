@@ -1,0 +1,115 @@
+company,model,variant,feature_name,feature_details
+TATA,PUNCH,Punch Smart,Engine Type,1.2 l Revotron
+TATA,PUNCH,Punch Smart,Displacement,1199 cc
+TATA,PUNCH,Punch Smart,Max Power,87bhp@6000rpm
+TATA,PUNCH,Punch Smart,Max Torque,115Nm@3250rpm
+TATA,PUNCH,Punch Smart,No. of Cylinders,3
+TATA,PUNCH,Punch Smart,Valves Per Cylinder,4
+TATA,PUNCH,Punch Smart,Turbo Charger,NO
+TATA,PUNCH,Punch Smart,Transmission Type,Manual
+TATA,PUNCH,Punch Smart,Gearbox,5-Speed
+TATA,PUNCH,Punch Smart,Drive Type,FWD
+TATA,PUNCH,Punch Smart,Fuel Type,Petrol
+TATA,PUNCH,Punch Smart,Petrol Fuel Tank Capacity,37 Litres
+TATA,PUNCH,Punch Smart,Emission Norm Compliance,BS VI 2.0
+TATA,PUNCH,Punch Smart,Top Speed,150 kmph
+TATA,PUNCH,Punch Smart,Front Suspension,MacPherson Strut suspension
+TATA,PUNCH,Punch Smart,Rear Suspension,Rear twist beam
+TATA,PUNCH,Punch Smart,Steering Type,Electric
+TATA,PUNCH,Punch Smart,Steering Column,Tilt
+TATA,PUNCH,Punch Smart,Front Brake Type,Disc
+TATA,PUNCH,Punch Smart,Rear Brake Type,Drum
+TATA,PUNCH,Punch Smart,Length,3876 mm
+TATA,PUNCH,Punch Smart,Width,1742 mm
+TATA,PUNCH,Punch Smart,Height,1615 mm
+TATA,PUNCH,Punch Smart,Boot Space,366 Litres
+TATA,PUNCH,Punch Smart,Seating Capacity,5
+TATA,PUNCH,Punch Smart,Ground Clearance Unladen,193 mm
+TATA,PUNCH,Punch Smart,Wheel Base,2445 mm
+TATA,PUNCH,Punch Smart,No. of Doors,5
+TATA,PUNCH,Punch Smart,Power Steering,YES
+TATA,PUNCH,Punch Smart,Air Conditioner,YES
+TATA,PUNCH,Punch Smart,Heater,YES
+TATA,PUNCH,Punch Smart,Adjustable Steering,Height only
+TATA,PUNCH,Punch Smart,Height Adjustable Driver Seat,NO
+TATA,PUNCH,Punch Smart,Automatic Climate Control,NO
+TATA,PUNCH,Punch Smart,Air Quality Control,NO
+TATA,PUNCH,Punch Smart,Accessory Power Outlet,YES
+TATA,PUNCH,Punch Smart,Vanity Mirror,NO
+TATA,PUNCH,Punch Smart,Rear Seat Headrest,Integrated
+TATA,PUNCH,Punch Smart,Adjustable Headrest,YES
+TATA,PUNCH,Punch Smart,Rear Seat Centre Arm Rest,NO
+TATA,PUNCH,Punch Smart,Rear AC Vents,NO
+TATA,PUNCH,Punch Smart,Cruise Control,NO
+TATA,PUNCH,Punch Smart,Parking Sensors,NO
+TATA,PUNCH,Punch Smart,Real-Time Vehicle Tracking,NO
+TATA,PUNCH,Punch Smart,KeyLess Entry,YES
+TATA,PUNCH,Punch Smart,Engine Start/Stop Button,NO
+TATA,PUNCH,Punch Smart,Cooled Glovebox,NO
+TATA,PUNCH,Punch Smart,Paddle Shifters,NO
+TATA,PUNCH,Punch Smart,USB Charger,NO
+TATA,PUNCH,Punch Smart,Central Console Armrest,NO
+TATA,PUNCH,Punch Smart,Drive Modes,2
+TATA,PUNCH,Punch Smart,Idle Start-Stop System,YES
+TATA,PUNCH,Punch Smart,Follow Me Home Headlamps,YES
+TATA,PUNCH,Punch Smart,Voice assisted sunroof,NO
+TATA,PUNCH,Punch Smart,Power Windows,Front Only
+TATA,PUNCH,Punch Smart,Tachometer,YES
+TATA,PUNCH,Punch Smart,Leather Wrapped Steering Wheel,NO
+TATA,PUNCH,Punch Smart,Leather wrap gear-shift selector,NO
+TATA,PUNCH,Punch Smart,Glove Box,YES
+TATA,PUNCH,Punch Smart,Digital Cluster,YES
+TATA,PUNCH,Punch Smart,Digital Cluster Size,4
+TATA,PUNCH,Punch Smart,Rain Sensing Wiper,NO
+TATA,PUNCH,Punch Smart,Rear Window Wiper,NO
+TATA,PUNCH,Punch Smart,Rear Window Washer,NO
+TATA,PUNCH,Punch Smart,Rear Window Defogger,NO
+TATA,PUNCH,Punch Smart,Wheel Covers,YES
+TATA,PUNCH,Punch Smart,Alloy Wheels,NO
+TATA,PUNCH,Punch Smart,Rear Spoiler,NO
+TATA,PUNCH,Punch Smart,Outside Rear View Mirror Turn Indicators,YES
+TATA,PUNCH,Punch Smart,Integrated Antenna,YES
+TATA,PUNCH,Punch Smart,Cornering Foglamps,NO
+TATA,PUNCH,Punch Smart,Roof Rails,NO
+TATA,PUNCH,Punch Smart,Automatic Headlamps,NO
+TATA,PUNCH,Punch Smart,Antenna,Pole Type
+TATA,PUNCH,Punch Smart,Sunroof,NO
+TATA,PUNCH,Punch Smart,Puddle Lamps,NO
+TATA,PUNCH,Punch Smart,Outside Rear View Mirror (ORVM),Manual
+TATA,PUNCH,Punch Smart,Tyre Size,185/70 R15
+TATA,PUNCH,Punch Smart,Tyre Type,Radial Tubeless
+TATA,PUNCH,Punch Smart,Wheel Size,15 Inch
+TATA,PUNCH,Punch Smart,LED DRLs,NO
+TATA,PUNCH,Punch Smart,LED Headlamps,YES
+TATA,PUNCH,Punch Smart,LED Taillights,NO
+TATA,PUNCH,Punch Smart,LED Fog Lamps,NO
+TATA,PUNCH,Punch Smart,Anti-lock Braking System (ABS),YES
+TATA,PUNCH,Punch Smart,Central Locking,YES
+TATA,PUNCH,Punch Smart,Child Safety Locks,YES
+TATA,PUNCH,Punch Smart,No. of Airbags,6
+TATA,PUNCH,Punch Smart,Driver Airbag,YES
+TATA,PUNCH,Punch Smart,Passenger Airbag,YES
+TATA,PUNCH,Punch Smart,Side Airbag,YES
+TATA,PUNCH,Punch Smart,Day & Night Rear View Mirror,YES
+TATA,PUNCH,Punch Smart,Curtain Airbag,YES
+TATA,PUNCH,Punch Smart,Electronic Brakeforce Distribution (EBD),YES
+TATA,PUNCH,Punch Smart,Seat Belt Warning,YES
+TATA,PUNCH,Punch Smart,Door Ajar Warning,YES
+TATA,PUNCH,Punch Smart,Tyre Pressure Monitoring System (TPMS),YES
+TATA,PUNCH,Punch Smart,Engine Immobilizer,YES
+TATA,PUNCH,Punch Smart,Electronic Stability Control (ESC),YES
+TATA,PUNCH,Punch Smart,Rear Camera,NO
+TATA,PUNCH,Punch Smart,Speed Sensing Auto Door Lock,YES
+TATA,PUNCH,Punch Smart,ISOFIX Child Seat Mounts,YES
+TATA,PUNCH,Punch Smart,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+TATA,PUNCH,Punch Smart,Hill Descent Control,NO
+TATA,PUNCH,Punch Smart,Hill Assist,YES
+TATA,PUNCH,Punch Smart,360 View Camera,NO
+TATA,PUNCH,Punch Smart,Radio,NO
+TATA,PUNCH,Punch Smart,Wireless Phone Charging,NO
+TATA,PUNCH,Punch Smart,Bluetooth Connectivity,NO
+TATA,PUNCH,Punch Smart,Touchscreen,NO
+TATA,PUNCH,Punch Smart,Android Auto,NO
+TATA,PUNCH,Punch Smart,Apple CarPlay,NO
+TATA,PUNCH,Punch Smart,Usb Ports,NO
+TATA,PUNCH,Punch Smart,Speakers,NO

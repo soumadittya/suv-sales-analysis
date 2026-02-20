@@ -1,0 +1,137 @@
+company,model,variant,feature_name,feature_details
+HYUNDAI,CRETA,Creta S (O) Knight DT,Engine Type,1.5L MPi
+HYUNDAI,CRETA,Creta S (O) Knight DT,Displacement,1497 cc
+HYUNDAI,CRETA,Creta S (O) Knight DT,Max Power,113.18bhp@6300rpm
+HYUNDAI,CRETA,Creta S (O) Knight DT,Max Torque,143.8Nm@4500rpm
+HYUNDAI,CRETA,Creta S (O) Knight DT,No. of Cylinders,4
+HYUNDAI,CRETA,Creta S (O) Knight DT,Valves Per Cylinder,4
+HYUNDAI,CRETA,Creta S (O) Knight DT,Valve Configuration,DOHC
+HYUNDAI,CRETA,Creta S (O) Knight DT,Fuel Supply System,MPi
+HYUNDAI,CRETA,Creta S (O) Knight DT,Turbo Charger,NO
+HYUNDAI,CRETA,Creta S (O) Knight DT,Transmission Type,Manual
+HYUNDAI,CRETA,Creta S (O) Knight DT,Gearbox,6-Speed
+HYUNDAI,CRETA,Creta S (O) Knight DT,Drive Type,FWD
+HYUNDAI,CRETA,Creta S (O) Knight DT,Fuel Type,Petrol
+HYUNDAI,CRETA,Creta S (O) Knight DT,Petrol Mileage ARAI,17.4 kmpl
+HYUNDAI,CRETA,Creta S (O) Knight DT,Petrol Fuel Tank Capacity,50 Litres
+HYUNDAI,CRETA,Creta S (O) Knight DT,Emission Norm Compliance,BS VI 2.0
+HYUNDAI,CRETA,Creta S (O) Knight DT,Front Suspension,MacPherson Strut suspension
+HYUNDAI,CRETA,Creta S (O) Knight DT,Rear Suspension,Rear twist beam
+HYUNDAI,CRETA,Creta S (O) Knight DT,Steering Type,Electric
+HYUNDAI,CRETA,Creta S (O) Knight DT,Steering Column,Tilt & Telescopic
+HYUNDAI,CRETA,Creta S (O) Knight DT,Turning Radius,5.3 m
+HYUNDAI,CRETA,Creta S (O) Knight DT,Front Brake Type,Disc
+HYUNDAI,CRETA,Creta S (O) Knight DT,Rear Brake Type,Disc
+HYUNDAI,CRETA,Creta S (O) Knight DT,Alloy Wheel Size Front,17 Inch
+HYUNDAI,CRETA,Creta S (O) Knight DT,Alloy Wheel Size Rear,17 Inch
+HYUNDAI,CRETA,Creta S (O) Knight DT,Length,4330 mm
+HYUNDAI,CRETA,Creta S (O) Knight DT,Width,1790 mm
+HYUNDAI,CRETA,Creta S (O) Knight DT,Height,1635 mm
+HYUNDAI,CRETA,Creta S (O) Knight DT,Seating Capacity,5
+HYUNDAI,CRETA,Creta S (O) Knight DT,Ground Clearance Unladen,190 mm
+HYUNDAI,CRETA,Creta S (O) Knight DT,Wheel Base,2610 mm
+HYUNDAI,CRETA,Creta S (O) Knight DT,No. of Doors,5
+HYUNDAI,CRETA,Creta S (O) Knight DT,Reported Boot Space,433 Litres
+HYUNDAI,CRETA,Creta S (O) Knight DT,Power Steering,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Air Conditioner,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Heater,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Height Adjustable Driver Seat,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Ventilated Seats,NO
+HYUNDAI,CRETA,Creta S (O) Knight DT,Electric Adjustable Seats,NO
+HYUNDAI,CRETA,Creta S (O) Knight DT,Automatic Climate Control,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Accessory Power Outlet,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Trunk Light,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Vanity Mirror,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Rear Reading Lamp,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Adjustable Headrest,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Rear Seat Centre Arm Rest,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Height Adjustable Front Seat Belts,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Rear AC Vents,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Cruise Control,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Parking Sensors,Rear
+HYUNDAI,CRETA,Creta S (O) Knight DT,Foldable Rear Seat,60:40 Split
+HYUNDAI,CRETA,Creta S (O) Knight DT,KeyLess Entry,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Engine Start/Stop Button,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Cooled Glovebox,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Voice Commands,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Paddle Shifters,NO
+HYUNDAI,CRETA,Creta S (O) Knight DT,USB Charger,Front & Rear
+HYUNDAI,CRETA,Creta S (O) Knight DT,Central Console Armrest,With Storage
+HYUNDAI,CRETA,Creta S (O) Knight DT,Hands-Free Tailgate,NO
+HYUNDAI,CRETA,Creta S (O) Knight DT,Idle Start-Stop System,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Rear Window Sunblind,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Automatic Headlamps,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Follow Me Home Headlamps,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Additional Features,Sunglass holder
+HYUNDAI,CRETA,Creta S (O) Knight DT,Voice assisted sunroof,NO
+HYUNDAI,CRETA,Creta S (O) Knight DT,Drive Mode Types,NA
+HYUNDAI,CRETA,Creta S (O) Knight DT,Power Windows,Front & Rear
+HYUNDAI,CRETA,Creta S (O) Knight DT,Tachometer,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Glove Box,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Digital Odometer,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Dual Tone Dashboard,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Additional Features,Rear parcel tray
+HYUNDAI,CRETA,Creta S (O) Knight DT,Digital Cluster,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Upholstery,Fabric
+HYUNDAI,CRETA,Creta S (O) Knight DT,Rear Window Wiper,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Rear Window Washer,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Rear Window Defogger,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Wheel Covers,NO
+HYUNDAI,CRETA,Creta S (O) Knight DT,Alloy Wheels,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Rear Spoiler,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Outside Rear View Mirror Turn Indicators,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Integrated Antenna,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Projector Headlamps,NO
+HYUNDAI,CRETA,Creta S (O) Knight DT,Roof Rails,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Antenna,Shark Fin
+HYUNDAI,CRETA,Creta S (O) Knight DT,Sunroof,Panoramic
+HYUNDAI,CRETA,Creta S (O) Knight DT,Boot Opening,Electronic
+HYUNDAI,CRETA,Creta S (O) Knight DT,Puddle Lamps,NO
+HYUNDAI,CRETA,Creta S (O) Knight DT,Outside Rear View Mirror (ORVM),Powered & Folding
+HYUNDAI,CRETA,Creta S (O) Knight DT,Tyre Size,215 / 55 R18
+HYUNDAI,CRETA,Creta S (O) Knight DT,Tyre Type,Radial Tubeless
+HYUNDAI,CRETA,Creta S (O) Knight DT,LED DRLs,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,LED Headlamps,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,LED Taillights,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Anti-lock Braking System (ABS),YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Central Locking,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Child Safety Locks,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Anti-Theft Alarm,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,No. of Airbags,6
+HYUNDAI,CRETA,Creta S (O) Knight DT,Driver Airbag,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Passenger Airbag,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Side Airbag,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Side Airbag-Rear,NO
+HYUNDAI,CRETA,Creta S (O) Knight DT,Day & Night Rear View Mirror,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Curtain Airbag,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Electronic Brakeforce Distribution (EBD),YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Seat Belt Warning,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Door Ajar Warning,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Traction Control,NO
+HYUNDAI,CRETA,Creta S (O) Knight DT,Tyre Pressure Monitoring System (TPMS),YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Engine Immobilizer,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Electronic Stability Control (ESC),YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Rear Camera,With Guidedlines
+HYUNDAI,CRETA,Creta S (O) Knight DT,Anti-Theft Device,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Speed Alert,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Speed Sensing Auto Door Lock,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Knee Airbags,NO
+HYUNDAI,CRETA,Creta S (O) Knight DT,ISOFIX Child Seat Mounts,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+HYUNDAI,CRETA,Creta S (O) Knight DT,Hill Assist,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Impact Sensing Auto Door Unlock,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,360 View Camera,NO
+HYUNDAI,CRETA,Creta S (O) Knight DT,Radio,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Integrated 2DIN Audio,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Wireless Phone Charging,NO
+HYUNDAI,CRETA,Creta S (O) Knight DT,Bluetooth Connectivity,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Touchscreen,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Touchscreen Size,8 inch
+HYUNDAI,CRETA,Creta S (O) Knight DT,Connectivity,"Android Auto, Apple CarPlay"
+HYUNDAI,CRETA,Creta S (O) Knight DT,Android Auto,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Apple CarPlay,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,No. of Speakers,4
+HYUNDAI,CRETA,Creta S (O) Knight DT,Usb Ports,YES
+HYUNDAI,CRETA,Creta S (O) Knight DT,Inbuilt Apps,NO
+HYUNDAI,CRETA,Creta S (O) Knight DT,Tweeters,2
+HYUNDAI,CRETA,Creta S (O) Knight DT,Speakers,Front & Rear

@@ -1,0 +1,125 @@
+company,model,variant,feature_name,feature_details
+TOYOTA,HYRYDER,Hyryder G Opt,Engine Type,K15B
+TOYOTA,HYRYDER,Hyryder G Opt,Displacement,1462 cc
+TOYOTA,HYRYDER,Hyryder G Opt,Max Power,101.64bhp@6000rpm
+TOYOTA,HYRYDER,Hyryder G Opt,Max Torque,136.8Nm@4400rpm
+TOYOTA,HYRYDER,Hyryder G Opt,No. of Cylinders,4
+TOYOTA,HYRYDER,Hyryder G Opt,Valves Per Cylinder,4
+TOYOTA,HYRYDER,Hyryder G Opt,Transmission Type,Manual
+TOYOTA,HYRYDER,Hyryder G Opt,Gearbox,5-Speed
+TOYOTA,HYRYDER,Hyryder G Opt,Drive Type,FWD
+TOYOTA,HYRYDER,Hyryder G Opt,Fuel Type,Petrol
+TOYOTA,HYRYDER,Hyryder G Opt,Petrol Mileage ARAI,21.12 kmpl
+TOYOTA,HYRYDER,Hyryder G Opt,Petrol Fuel Tank Capacity,45 Litres
+TOYOTA,HYRYDER,Hyryder G Opt,Emission Norm Compliance,BS VI 2.0
+TOYOTA,HYRYDER,Hyryder G Opt,Top Speed,180 kmph
+TOYOTA,HYRYDER,Hyryder G Opt,Front Suspension,MacPherson Strut suspension
+TOYOTA,HYRYDER,Hyryder G Opt,Rear Suspension,Rear twist beam
+TOYOTA,HYRYDER,Hyryder G Opt,Steering Type,Electric
+TOYOTA,HYRYDER,Hyryder G Opt,Steering Column,Tilt & Telescopic
+TOYOTA,HYRYDER,Hyryder G Opt,Turning Radius,5.4 m
+TOYOTA,HYRYDER,Hyryder G Opt,Front Brake Type,Ventilated Disc
+TOYOTA,HYRYDER,Hyryder G Opt,Rear Brake Type,Solid Disc
+TOYOTA,HYRYDER,Hyryder G Opt,Alloy Wheel Size Front,17 Inch
+TOYOTA,HYRYDER,Hyryder G Opt,Alloy Wheel Size Rear,17 Inch
+TOYOTA,HYRYDER,Hyryder G Opt,Length,4365 mm
+TOYOTA,HYRYDER,Hyryder G Opt,Width,1795 mm
+TOYOTA,HYRYDER,Hyryder G Opt,Height,1650 mm
+TOYOTA,HYRYDER,Hyryder G Opt,Boot Space,373 Litres
+TOYOTA,HYRYDER,Hyryder G Opt,Seating Capacity,5
+TOYOTA,HYRYDER,Hyryder G Opt,Wheel Base,2600 mm
+TOYOTA,HYRYDER,Hyryder G Opt,Kerb Weight,1145-1290 kg
+TOYOTA,HYRYDER,Hyryder G Opt,Gross Weight,1645 kg
+TOYOTA,HYRYDER,Hyryder G Opt,No. of Doors,5
+TOYOTA,HYRYDER,Hyryder G Opt,Reported Boot Space,373 Litres
+TOYOTA,HYRYDER,Hyryder G Opt,Power Steering,YES
+TOYOTA,HYRYDER,Hyryder G Opt,Air Conditioner,YES
+TOYOTA,HYRYDER,Hyryder G Opt,Heater,YES
+TOYOTA,HYRYDER,Hyryder G Opt,Height Adjustable Driver Seat,YES
+TOYOTA,HYRYDER,Hyryder G Opt,Ventilated Seats,YES
+TOYOTA,HYRYDER,Hyryder G Opt,Automatic Climate Control,YES
+TOYOTA,HYRYDER,Hyryder G Opt,Air Quality Control,YES
+TOYOTA,HYRYDER,Hyryder G Opt,Accessory Power Outlet,YES
+TOYOTA,HYRYDER,Hyryder G Opt,Trunk Light,YES
+TOYOTA,HYRYDER,Hyryder G Opt,Vanity Mirror,YES
+TOYOTA,HYRYDER,Hyryder G Opt,Rear Reading Lamp,YES
+TOYOTA,HYRYDER,Hyryder G Opt,Adjustable Headrest,YES
+TOYOTA,HYRYDER,Hyryder G Opt,Rear Seat Centre Arm Rest,YES
+TOYOTA,HYRYDER,Hyryder G Opt,Height Adjustable Front Seat Belts,YES
+TOYOTA,HYRYDER,Hyryder G Opt,Rear AC Vents,YES
+TOYOTA,HYRYDER,Hyryder G Opt,Cruise Control,YES
+TOYOTA,HYRYDER,Hyryder G Opt,Parking Sensors,Rear
+TOYOTA,HYRYDER,Hyryder G Opt,Foldable Rear Seat,60:40 Split
+TOYOTA,HYRYDER,Hyryder G Opt,KeyLess Entry,YES
+TOYOTA,HYRYDER,Hyryder G Opt,Engine Start/Stop Button,YES
+TOYOTA,HYRYDER,Hyryder G Opt,Paddle Shifters,NO
+TOYOTA,HYRYDER,Hyryder G Opt,USB Charger,Front & Rear
+TOYOTA,HYRYDER,Hyryder G Opt,Central Console Armrest,With Storage
+TOYOTA,HYRYDER,Hyryder G Opt,Tailgate Ajar Warning,YES
+TOYOTA,HYRYDER,Hyryder G Opt,Gear Shift Indicator,YES
+TOYOTA,HYRYDER,Hyryder G Opt,Glove Box light,YES
+TOYOTA,HYRYDER,Hyryder G Opt,Automatic Headlamps,YES
+TOYOTA,HYRYDER,Hyryder G Opt,Follow Me Home Headlamps,YES
+TOYOTA,HYRYDER,Hyryder G Opt,Tachometer,YES
+TOYOTA,HYRYDER,Hyryder G Opt,Leather Wrapped Steering Wheel,NO
+TOYOTA,HYRYDER,Hyryder G Opt,Glove Box,YES
+TOYOTA,HYRYDER,Hyryder G Opt,Digital Cluster,Semi
+TOYOTA,HYRYDER,Hyryder G Opt,Digital Cluster Size,7 inch
+TOYOTA,HYRYDER,Hyryder G Opt,Upholstery,Fabric
+TOYOTA,HYRYDER,Hyryder G Opt,Adjustable Headlamps,YES
+TOYOTA,HYRYDER,Hyryder G Opt,Rear Window Wiper,YES
+TOYOTA,HYRYDER,Hyryder G Opt,Rear Window Washer,YES
+TOYOTA,HYRYDER,Hyryder G Opt,Wheel Covers,NO
+TOYOTA,HYRYDER,Hyryder G Opt,Alloy Wheels,YES
+TOYOTA,HYRYDER,Hyryder G Opt,Rear Spoiler,YES
+TOYOTA,HYRYDER,Hyryder G Opt,Outside Rear View Mirror Turn Indicators,YES
+TOYOTA,HYRYDER,Hyryder G Opt,Integrated Antenna,YES
+TOYOTA,HYRYDER,Hyryder G Opt,Projector Headlamps,YES
+TOYOTA,HYRYDER,Hyryder G Opt,Halogen Headlamps,NO
+TOYOTA,HYRYDER,Hyryder G Opt,Roof Rails,YES
+TOYOTA,HYRYDER,Hyryder G Opt,Antenna,Shark Fin
+TOYOTA,HYRYDER,Hyryder G Opt,Sunroof,Panoramic
+TOYOTA,HYRYDER,Hyryder G Opt,Boot Opening,Manual
+TOYOTA,HYRYDER,Hyryder G Opt,Tyre Size,215/60 R17
+TOYOTA,HYRYDER,Hyryder G Opt,Tyre Type,"Tubeless, Radial"
+TOYOTA,HYRYDER,Hyryder G Opt,LED DRLs,YES
+TOYOTA,HYRYDER,Hyryder G Opt,LED Headlamps,YES
+TOYOTA,HYRYDER,Hyryder G Opt,LED Taillights,YES
+TOYOTA,HYRYDER,Hyryder G Opt,Anti-lock Braking System (ABS),YES
+TOYOTA,HYRYDER,Hyryder G Opt,Central Locking,YES
+TOYOTA,HYRYDER,Hyryder G Opt,Child Safety Locks,YES
+TOYOTA,HYRYDER,Hyryder G Opt,No. of Airbags,6
+TOYOTA,HYRYDER,Hyryder G Opt,Driver Airbag,YES
+TOYOTA,HYRYDER,Hyryder G Opt,Passenger Airbag,YES
+TOYOTA,HYRYDER,Hyryder G Opt,Side Airbag,YES
+TOYOTA,HYRYDER,Hyryder G Opt,Day & Night Rear View Mirror,YES
+TOYOTA,HYRYDER,Hyryder G Opt,Curtain Airbag,YES
+TOYOTA,HYRYDER,Hyryder G Opt,Electronic Brakeforce Distribution (EBD),YES
+TOYOTA,HYRYDER,Hyryder G Opt,Seat Belt Warning,YES
+TOYOTA,HYRYDER,Hyryder G Opt,Door Ajar Warning,YES
+TOYOTA,HYRYDER,Hyryder G Opt,Tyre Pressure Monitoring System (TPMS),YES
+TOYOTA,HYRYDER,Hyryder G Opt,Engine Immobilizer,YES
+TOYOTA,HYRYDER,Hyryder G Opt,Electronic Stability Control (ESC),YES
+TOYOTA,HYRYDER,Hyryder G Opt,Rear Camera,With Guidedlines
+TOYOTA,HYRYDER,Hyryder G Opt,Speed Alert,YES
+TOYOTA,HYRYDER,Hyryder G Opt,Speed Sensing Auto Door Lock,YES
+TOYOTA,HYRYDER,Hyryder G Opt,ISOFIX Child Seat Mounts,YES
+TOYOTA,HYRYDER,Hyryder G Opt,Heads-Up Display (HUD),NO
+TOYOTA,HYRYDER,Hyryder G Opt,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+TOYOTA,HYRYDER,Hyryder G Opt,Hill Descent Control,NO
+TOYOTA,HYRYDER,Hyryder G Opt,Hill Assist,YES
+TOYOTA,HYRYDER,Hyryder G Opt,Impact Sensing Auto Door Unlock,YES
+TOYOTA,HYRYDER,Hyryder G Opt,360 View Camera,NO
+TOYOTA,HYRYDER,Hyryder G Opt,Radio,YES
+TOYOTA,HYRYDER,Hyryder G Opt,Integrated 2DIN Audio,YES
+TOYOTA,HYRYDER,Hyryder G Opt,Wireless Phone Charging,YES
+TOYOTA,HYRYDER,Hyryder G Opt,Bluetooth Connectivity,YES
+TOYOTA,HYRYDER,Hyryder G Opt,Touchscreen,YES
+TOYOTA,HYRYDER,Hyryder G Opt,Touchscreen Size,9 inch
+TOYOTA,HYRYDER,Hyryder G Opt,Connectivity,"Android Auto, Apple CarPlay"
+TOYOTA,HYRYDER,Hyryder G Opt,Android Auto,YES
+TOYOTA,HYRYDER,Hyryder G Opt,Apple CarPlay,YES
+TOYOTA,HYRYDER,Hyryder G Opt,No. of Speakers,4
+TOYOTA,HYRYDER,Hyryder G Opt,Usb Ports,YES
+TOYOTA,HYRYDER,Hyryder G Opt,Tweeters,2
+TOYOTA,HYRYDER,Hyryder G Opt,Speakers,Front & Rear

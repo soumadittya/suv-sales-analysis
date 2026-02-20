@@ -1,0 +1,128 @@
+company,model,variant,feature_name,feature_details
+KIA,SELTOS,Seltos HTX A TGDi DCT,Engine Type,Smartstream G1.5 T-GDi
+KIA,SELTOS,Seltos HTX A TGDi DCT,Displacement,1482 cc
+KIA,SELTOS,Seltos HTX A TGDi DCT,Max Power,158bhp@5500rpm
+KIA,SELTOS,Seltos HTX A TGDi DCT,Max Torque,253Nm@1500-3500rpm
+KIA,SELTOS,Seltos HTX A TGDi DCT,No. of Cylinders,4
+KIA,SELTOS,Seltos HTX A TGDi DCT,Valves Per Cylinder,4
+KIA,SELTOS,Seltos HTX A TGDi DCT,Fuel Supply System,GDi
+KIA,SELTOS,Seltos HTX A TGDi DCT,Turbo Charger,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,Transmission Type,Automatic
+KIA,SELTOS,Seltos HTX A TGDi DCT,Gearbox,7-Speed
+KIA,SELTOS,Seltos HTX A TGDi DCT,Drive Type,2WD
+KIA,SELTOS,Seltos HTX A TGDi DCT,Fuel Type,Petrol
+KIA,SELTOS,Seltos HTX A TGDi DCT,Petrol Fuel Tank Capacity,50 Litres
+KIA,SELTOS,Seltos HTX A TGDi DCT,Emission Norm Compliance,BS VI 2.0
+KIA,SELTOS,Seltos HTX A TGDi DCT,Front Suspension,MacPherson Strut suspension
+KIA,SELTOS,Seltos HTX A TGDi DCT,Rear Suspension,Rear twist beam
+KIA,SELTOS,Seltos HTX A TGDi DCT,Steering Type,Electric
+KIA,SELTOS,Seltos HTX A TGDi DCT,Steering Column,Tilt & Telescopic
+KIA,SELTOS,Seltos HTX A TGDi DCT,Front Brake Type,Disc
+KIA,SELTOS,Seltos HTX A TGDi DCT,Rear Brake Type,Disc
+KIA,SELTOS,Seltos HTX A TGDi DCT,Alloy Wheel Size Front,17 Inch
+KIA,SELTOS,Seltos HTX A TGDi DCT,Alloy Wheel Size Rear,17 Inch
+KIA,SELTOS,Seltos HTX A TGDi DCT,Length,4460 mm
+KIA,SELTOS,Seltos HTX A TGDi DCT,Width,1830 mm
+KIA,SELTOS,Seltos HTX A TGDi DCT,Height,1635 mm
+KIA,SELTOS,Seltos HTX A TGDi DCT,Boot Space,447 Litres
+KIA,SELTOS,Seltos HTX A TGDi DCT,Seating Capacity,5
+KIA,SELTOS,Seltos HTX A TGDi DCT,Wheel Base,2690 mm
+KIA,SELTOS,Seltos HTX A TGDi DCT,No. of Doors,5
+KIA,SELTOS,Seltos HTX A TGDi DCT,Power Steering,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,Air Conditioner,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,Heater,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,Adjustable Steering,Height & Reach
+KIA,SELTOS,Seltos HTX A TGDi DCT,Height Adjustable Driver Seat,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,Ventilated Seats,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,Electric Adjustable Seats,Front
+KIA,SELTOS,Seltos HTX A TGDi DCT,Automatic Climate Control,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,Accessory Power Outlet,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,Vanity Mirror,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,Rear Reading Lamp,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,Rear Seat Headrest,Adjustable
+KIA,SELTOS,Seltos HTX A TGDi DCT,Adjustable Headrest,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,Rear Seat Centre Arm Rest,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,Rear AC Vents,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,Lumbar Support,NO
+KIA,SELTOS,Seltos HTX A TGDi DCT,Cruise Control,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,Parking Sensors,Front & Rear
+KIA,SELTOS,Seltos HTX A TGDi DCT,Foldable Rear Seat,60:40 Split
+KIA,SELTOS,Seltos HTX A TGDi DCT,KeyLess Entry,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,Engine Start/Stop Button,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,Paddle Shifters,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,USB Charger,Front & Rear
+KIA,SELTOS,Seltos HTX A TGDi DCT,Central Console Armrest,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,Tailgate Ajar Warning,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,Drive Modes,3
+KIA,SELTOS,Seltos HTX A TGDi DCT,Rear Window Sunblind,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,Additional Features,Sunglass Holder
+KIA,SELTOS,Seltos HTX A TGDi DCT,Drive Mode Types,ECO | NORMAL | SPORTS
+KIA,SELTOS,Seltos HTX A TGDi DCT,Power Windows,Front & Rear
+KIA,SELTOS,Seltos HTX A TGDi DCT,Cup Holders,Front & Rear
+KIA,SELTOS,Seltos HTX A TGDi DCT,Tachometer,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,Leather Wrapped Steering Wheel,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,Glove Box,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,Lighting,Ambient light
+KIA,SELTOS,Seltos HTX A TGDi DCT,Additional Features,Rear Parcel Shelf
+KIA,SELTOS,Seltos HTX A TGDi DCT,Digital Cluster,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,Digital Cluster Size,12.3
+KIA,SELTOS,Seltos HTX A TGDi DCT,Upholstery,Leatherette
+KIA,SELTOS,Seltos HTX A TGDi DCT,Ambient Light Colour (numbers),64
+KIA,SELTOS,Seltos HTX A TGDi DCT,Rear Window Wiper,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,Rear Window Defogger,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,Wheel Covers,NO
+KIA,SELTOS,Seltos HTX A TGDi DCT,Alloy Wheels,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,Rear Spoiler,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,Outside Rear View Mirror Turn Indicators,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,Integrated Antenna,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,Projector Headlamps,NO
+KIA,SELTOS,Seltos HTX A TGDi DCT,Roof Rails,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,Automatic Headlamps,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,Fog Lights,Front
+KIA,SELTOS,Seltos HTX A TGDi DCT,Antenna,Shark Fin
+KIA,SELTOS,Seltos HTX A TGDi DCT,Sunroof,Panoramic
+KIA,SELTOS,Seltos HTX A TGDi DCT,Outside Rear View Mirror (ORVM),Powered & Folding
+KIA,SELTOS,Seltos HTX A TGDi DCT,Tyre Size,215/60 R17
+KIA,SELTOS,Seltos HTX A TGDi DCT,Tyre Type,Radial Tubeless
+KIA,SELTOS,Seltos HTX A TGDi DCT,LED DRLs,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,LED Headlamps,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,LED Taillights,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,LED Fog Lamps,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,Anti-lock Braking System (ABS),YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,Brake Assist,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,Central Locking,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,Child Safety Locks,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,No. of Airbags,6
+KIA,SELTOS,Seltos HTX A TGDi DCT,Driver Airbag,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,Passenger Airbag,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,Side Airbag,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,Day & Night Rear View Mirror,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,Curtain Airbag,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,Electronic Brakeforce Distribution (EBD),YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,Seat Belt Warning,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,Door Ajar Warning,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,Traction Control,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,Tyre Pressure Monitoring System (TPMS),YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,Engine Immobilizer,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,Electronic Stability Control (ESC),YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,Rear Camera,With Guidedlines
+KIA,SELTOS,Seltos HTX A TGDi DCT,Anti-Pinch Power Windows,Driver's Window
+KIA,SELTOS,Seltos HTX A TGDi DCT,Speed Alert,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,Speed Sensing Auto Door Lock,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,ISOFIX Child Seat Mounts,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+KIA,SELTOS,Seltos HTX A TGDi DCT,Hill Descent Control,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,Hill Assist,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,Impact Sensing Auto Door Unlock,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,360 View Camera,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,Radio,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,Wireless Phone Charging,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,Bluetooth Connectivity,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,Touchscreen,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,Touchscreen Size,12.3 inch
+KIA,SELTOS,Seltos HTX A TGDi DCT,Android Auto,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,Apple CarPlay,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,No. of Speakers,8
+KIA,SELTOS,Seltos HTX A TGDi DCT,Usb Ports,YES
+KIA,SELTOS,Seltos HTX A TGDi DCT,Additional Features,Wireless Android Auto/Apple CarPlay
+KIA,SELTOS,Seltos HTX A TGDi DCT,Speakers,Front & Rear

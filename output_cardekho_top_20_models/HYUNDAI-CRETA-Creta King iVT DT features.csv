@@ -1,0 +1,142 @@
+company,model,variant,feature_name,feature_details
+HYUNDAI,CRETA,Creta King iVT DT,Engine Type,1.5L MPi
+HYUNDAI,CRETA,Creta King iVT DT,Displacement,1497 cc
+HYUNDAI,CRETA,Creta King iVT DT,Max Power,113.18bhp@6300rpm
+HYUNDAI,CRETA,Creta King iVT DT,Max Torque,143.8Nm@4500rpm
+HYUNDAI,CRETA,Creta King iVT DT,No. of Cylinders,4
+HYUNDAI,CRETA,Creta King iVT DT,Valves Per Cylinder,4
+HYUNDAI,CRETA,Creta King iVT DT,Valve Configuration,DOHC
+HYUNDAI,CRETA,Creta King iVT DT,Fuel Supply System,MPi
+HYUNDAI,CRETA,Creta King iVT DT,Turbo Charger,NO
+HYUNDAI,CRETA,Creta King iVT DT,Transmission Type,Automatic
+HYUNDAI,CRETA,Creta King iVT DT,Gearbox,6-Speed iVT
+HYUNDAI,CRETA,Creta King iVT DT,Drive Type,FWD
+HYUNDAI,CRETA,Creta King iVT DT,Fuel Type,Petrol
+HYUNDAI,CRETA,Creta King iVT DT,Petrol Mileage ARAI,17.7 kmpl
+HYUNDAI,CRETA,Creta King iVT DT,Petrol Fuel Tank Capacity,50 Litres
+HYUNDAI,CRETA,Creta King iVT DT,Emission Norm Compliance,BS VI 2.0
+HYUNDAI,CRETA,Creta King iVT DT,Front Suspension,MacPherson Strut suspension
+HYUNDAI,CRETA,Creta King iVT DT,Rear Suspension,Rear twist beam
+HYUNDAI,CRETA,Creta King iVT DT,Steering Type,Electric
+HYUNDAI,CRETA,Creta King iVT DT,Steering Column,Tilt & Telescopic
+HYUNDAI,CRETA,Creta King iVT DT,Turning Radius,5.3 m
+HYUNDAI,CRETA,Creta King iVT DT,Front Brake Type,Disc
+HYUNDAI,CRETA,Creta King iVT DT,Rear Brake Type,Disc
+HYUNDAI,CRETA,Creta King iVT DT,Alloy Wheel Size Front,18 Inch
+HYUNDAI,CRETA,Creta King iVT DT,Alloy Wheel Size Rear,18` Inch
+HYUNDAI,CRETA,Creta King iVT DT,Length,4330 mm
+HYUNDAI,CRETA,Creta King iVT DT,Width,1790 mm
+HYUNDAI,CRETA,Creta King iVT DT,Height,1635 mm
+HYUNDAI,CRETA,Creta King iVT DT,Seating Capacity,5
+HYUNDAI,CRETA,Creta King iVT DT,Ground Clearance Unladen,190 mm
+HYUNDAI,CRETA,Creta King iVT DT,Wheel Base,2610 mm
+HYUNDAI,CRETA,Creta King iVT DT,No. of Doors,5
+HYUNDAI,CRETA,Creta King iVT DT,Reported Boot Space,433 Litres
+HYUNDAI,CRETA,Creta King iVT DT,Power Steering,YES
+HYUNDAI,CRETA,Creta King iVT DT,Air Conditioner,YES
+HYUNDAI,CRETA,Creta King iVT DT,Heater,YES
+HYUNDAI,CRETA,Creta King iVT DT,Height Adjustable Driver Seat,YES
+HYUNDAI,CRETA,Creta King iVT DT,Ventilated Seats,YES
+HYUNDAI,CRETA,Creta King iVT DT,Electric Adjustable Seats,Front
+HYUNDAI,CRETA,Creta King iVT DT,Automatic Climate Control,YES
+HYUNDAI,CRETA,Creta King iVT DT,Accessory Power Outlet,YES
+HYUNDAI,CRETA,Creta King iVT DT,Trunk Light,YES
+HYUNDAI,CRETA,Creta King iVT DT,Vanity Mirror,YES
+HYUNDAI,CRETA,Creta King iVT DT,Rear Reading Lamp,YES
+HYUNDAI,CRETA,Creta King iVT DT,Adjustable Headrest,YES
+HYUNDAI,CRETA,Creta King iVT DT,Rear Seat Centre Arm Rest,YES
+HYUNDAI,CRETA,Creta King iVT DT,Height Adjustable Front Seat Belts,YES
+HYUNDAI,CRETA,Creta King iVT DT,Rear AC Vents,YES
+HYUNDAI,CRETA,Creta King iVT DT,Cruise Control,YES
+HYUNDAI,CRETA,Creta King iVT DT,Parking Sensors,Front & Rear
+HYUNDAI,CRETA,Creta King iVT DT,Foldable Rear Seat,60:40 Split
+HYUNDAI,CRETA,Creta King iVT DT,KeyLess Entry,YES
+HYUNDAI,CRETA,Creta King iVT DT,Engine Start/Stop Button,YES
+HYUNDAI,CRETA,Creta King iVT DT,Cooled Glovebox,YES
+HYUNDAI,CRETA,Creta King iVT DT,Voice Commands,YES
+HYUNDAI,CRETA,Creta King iVT DT,Paddle Shifters,YES
+HYUNDAI,CRETA,Creta King iVT DT,USB Charger,Front & Rear
+HYUNDAI,CRETA,Creta King iVT DT,Central Console Armrest,With Storage
+HYUNDAI,CRETA,Creta King iVT DT,Hands-Free Tailgate,NO
+HYUNDAI,CRETA,Creta King iVT DT,Drive Modes,3
+HYUNDAI,CRETA,Creta King iVT DT,Idle Start-Stop System,YES
+HYUNDAI,CRETA,Creta King iVT DT,Rear Window Sunblind,YES
+HYUNDAI,CRETA,Creta King iVT DT,Automatic Headlamps,YES
+HYUNDAI,CRETA,Creta King iVT DT,Follow Me Home Headlamps,YES
+HYUNDAI,CRETA,Creta King iVT DT,Additional Features,Sunglass holder
+HYUNDAI,CRETA,Creta King iVT DT,Voice assisted sunroof,YES
+HYUNDAI,CRETA,Creta King iVT DT,Drive Mode Types,ECO|NORMAL|SPORT
+HYUNDAI,CRETA,Creta King iVT DT,Power Windows,Front & Rear
+HYUNDAI,CRETA,Creta King iVT DT,Cup Holders,Front & Rear
+HYUNDAI,CRETA,Creta King iVT DT,Tachometer,YES
+HYUNDAI,CRETA,Creta King iVT DT,Glove Box,YES
+HYUNDAI,CRETA,Creta King iVT DT,Digital Odometer,YES
+HYUNDAI,CRETA,Creta King iVT DT,Dual Tone Dashboard,YES
+HYUNDAI,CRETA,Creta King iVT DT,Additional Features,Rear parcel tray
+HYUNDAI,CRETA,Creta King iVT DT,Digital Cluster,Full
+HYUNDAI,CRETA,Creta King iVT DT,Digital Cluster Size,10.25 Inch
+HYUNDAI,CRETA,Creta King iVT DT,Upholstery,Leatherette
+HYUNDAI,CRETA,Creta King iVT DT,Rear Window Wiper,YES
+HYUNDAI,CRETA,Creta King iVT DT,Rear Window Washer,YES
+HYUNDAI,CRETA,Creta King iVT DT,Rear Window Defogger,YES
+HYUNDAI,CRETA,Creta King iVT DT,Wheel Covers,NO
+HYUNDAI,CRETA,Creta King iVT DT,Alloy Wheels,YES
+HYUNDAI,CRETA,Creta King iVT DT,Rear Spoiler,YES
+HYUNDAI,CRETA,Creta King iVT DT,Outside Rear View Mirror Turn Indicators,YES
+HYUNDAI,CRETA,Creta King iVT DT,Integrated Antenna,YES
+HYUNDAI,CRETA,Creta King iVT DT,Projector Headlamps,NO
+HYUNDAI,CRETA,Creta King iVT DT,Roof Rails,YES
+HYUNDAI,CRETA,Creta King iVT DT,Antenna,Shark Fin
+HYUNDAI,CRETA,Creta King iVT DT,Sunroof,Panoramic
+HYUNDAI,CRETA,Creta King iVT DT,Boot Opening,Electronic
+HYUNDAI,CRETA,Creta King iVT DT,Puddle Lamps,YES
+HYUNDAI,CRETA,Creta King iVT DT,Tyre Size,215/55 R18
+HYUNDAI,CRETA,Creta King iVT DT,Tyre Type,Radial Tubeless
+HYUNDAI,CRETA,Creta King iVT DT,LED DRLs,YES
+HYUNDAI,CRETA,Creta King iVT DT,LED Headlamps,YES
+HYUNDAI,CRETA,Creta King iVT DT,LED Taillights,YES
+HYUNDAI,CRETA,Creta King iVT DT,Anti-lock Braking System (ABS),YES
+HYUNDAI,CRETA,Creta King iVT DT,Central Locking,YES
+HYUNDAI,CRETA,Creta King iVT DT,Child Safety Locks,YES
+HYUNDAI,CRETA,Creta King iVT DT,Anti-Theft Alarm,YES
+HYUNDAI,CRETA,Creta King iVT DT,No. of Airbags,6
+HYUNDAI,CRETA,Creta King iVT DT,Driver Airbag,YES
+HYUNDAI,CRETA,Creta King iVT DT,Passenger Airbag,YES
+HYUNDAI,CRETA,Creta King iVT DT,Side Airbag,YES
+HYUNDAI,CRETA,Creta King iVT DT,Side Airbag-Rear,NO
+HYUNDAI,CRETA,Creta King iVT DT,Day & Night Rear View Mirror,YES
+HYUNDAI,CRETA,Creta King iVT DT,Curtain Airbag,YES
+HYUNDAI,CRETA,Creta King iVT DT,Electronic Brakeforce Distribution (EBD),YES
+HYUNDAI,CRETA,Creta King iVT DT,Seat Belt Warning,YES
+HYUNDAI,CRETA,Creta King iVT DT,Door Ajar Warning,YES
+HYUNDAI,CRETA,Creta King iVT DT,Traction Control,YES
+HYUNDAI,CRETA,Creta King iVT DT,Tyre Pressure Monitoring System (TPMS),YES
+HYUNDAI,CRETA,Creta King iVT DT,Engine Immobilizer,YES
+HYUNDAI,CRETA,Creta King iVT DT,Electronic Stability Control (ESC),YES
+HYUNDAI,CRETA,Creta King iVT DT,Rear Camera,With Guidedlines
+HYUNDAI,CRETA,Creta King iVT DT,Anti-Theft Device,YES
+HYUNDAI,CRETA,Creta King iVT DT,Anti-Pinch Power Windows,Driver's Window
+HYUNDAI,CRETA,Creta King iVT DT,Speed Alert,YES
+HYUNDAI,CRETA,Creta King iVT DT,Speed Sensing Auto Door Lock,YES
+HYUNDAI,CRETA,Creta King iVT DT,Knee Airbags,NO
+HYUNDAI,CRETA,Creta King iVT DT,ISOFIX Child Seat Mounts,YES
+HYUNDAI,CRETA,Creta King iVT DT,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+HYUNDAI,CRETA,Creta King iVT DT,Hill Assist,YES
+HYUNDAI,CRETA,Creta King iVT DT,Impact Sensing Auto Door Unlock,YES
+HYUNDAI,CRETA,Creta King iVT DT,360 View Camera,YES
+HYUNDAI,CRETA,Creta King iVT DT,Radio,YES
+HYUNDAI,CRETA,Creta King iVT DT,Integrated 2DIN Audio,YES
+HYUNDAI,CRETA,Creta King iVT DT,Wireless Phone Charging,YES
+HYUNDAI,CRETA,Creta King iVT DT,Bluetooth Connectivity,YES
+HYUNDAI,CRETA,Creta King iVT DT,Touchscreen,YES
+HYUNDAI,CRETA,Creta King iVT DT,Touchscreen Size,10.25 inch
+HYUNDAI,CRETA,Creta King iVT DT,Connectivity,Android Auto
+HYUNDAI,CRETA,Creta King iVT DT,Android Auto,YES
+HYUNDAI,CRETA,Creta King iVT DT,Apple CarPlay,YES
+HYUNDAI,CRETA,Creta King iVT DT,No. of Speakers,5
+HYUNDAI,CRETA,Creta King iVT DT,Usb Ports,YES
+HYUNDAI,CRETA,Creta King iVT DT,Inbuilt Apps,JioSaavan
+HYUNDAI,CRETA,Creta King iVT DT,Tweeters,2
+HYUNDAI,CRETA,Creta King iVT DT,Subwoofer,1
+HYUNDAI,CRETA,Creta King iVT DT,Additional Features,Bose premium sound 8 speaker system with front central speaker & sub-woofer
+HYUNDAI,CRETA,Creta King iVT DT,Speakers,Front & Rear

@@ -1,0 +1,153 @@
+company,model,variant,feature_name,feature_details
+KIA,SONET,Sonet HTX Turbo DCT,Engine Type,Smartstream G1.0 TGDi
+KIA,SONET,Sonet HTX Turbo DCT,Displacement,998 cc
+KIA,SONET,Sonet HTX Turbo DCT,Max Power,118bhp@6000rpm
+KIA,SONET,Sonet HTX Turbo DCT,Max Torque,172Nm@1500-4000rpm
+KIA,SONET,Sonet HTX Turbo DCT,No. of Cylinders,3
+KIA,SONET,Sonet HTX Turbo DCT,Valves Per Cylinder,4
+KIA,SONET,Sonet HTX Turbo DCT,Fuel Supply System,GDi
+KIA,SONET,Sonet HTX Turbo DCT,Turbo Charger,YES
+KIA,SONET,Sonet HTX Turbo DCT,Regenerative Braking,NO
+KIA,SONET,Sonet HTX Turbo DCT,Transmission Type,Automatic
+KIA,SONET,Sonet HTX Turbo DCT,Gearbox,7-Speed DCT
+KIA,SONET,Sonet HTX Turbo DCT,Drive Type,FWD
+KIA,SONET,Sonet HTX Turbo DCT,Fuel Type,Petrol
+KIA,SONET,Sonet HTX Turbo DCT,Petrol Mileage ARAI,18.4 kmpl
+KIA,SONET,Sonet HTX Turbo DCT,Petrol Fuel Tank Capacity,45 Litres
+KIA,SONET,Sonet HTX Turbo DCT,Emission Norm Compliance,BS VI 2.0
+KIA,SONET,Sonet HTX Turbo DCT,Front Suspension,MacPherson Strut suspension
+KIA,SONET,Sonet HTX Turbo DCT,Rear Suspension,Rear twist beam
+KIA,SONET,Sonet HTX Turbo DCT,Steering Type,Electric
+KIA,SONET,Sonet HTX Turbo DCT,Steering Column,Tilt
+KIA,SONET,Sonet HTX Turbo DCT,Front Brake Type,Disc
+KIA,SONET,Sonet HTX Turbo DCT,Rear Brake Type,Disc
+KIA,SONET,Sonet HTX Turbo DCT,Alloy Wheel Size Front,16 Inch
+KIA,SONET,Sonet HTX Turbo DCT,Alloy Wheel Size Rear,16 Inch
+KIA,SONET,Sonet HTX Turbo DCT,Length,3995 mm
+KIA,SONET,Sonet HTX Turbo DCT,Width,1790 mm
+KIA,SONET,Sonet HTX Turbo DCT,Height,1642 mm
+KIA,SONET,Sonet HTX Turbo DCT,Boot Space,385 Litres
+KIA,SONET,Sonet HTX Turbo DCT,Seating Capacity,5
+KIA,SONET,Sonet HTX Turbo DCT,Wheel Base,2500 mm
+KIA,SONET,Sonet HTX Turbo DCT,No. of Doors,5
+KIA,SONET,Sonet HTX Turbo DCT,Power Steering,YES
+KIA,SONET,Sonet HTX Turbo DCT,Air Conditioner,YES
+KIA,SONET,Sonet HTX Turbo DCT,Heater,YES
+KIA,SONET,Sonet HTX Turbo DCT,Adjustable Steering,Height only
+KIA,SONET,Sonet HTX Turbo DCT,Height Adjustable Driver Seat,YES
+KIA,SONET,Sonet HTX Turbo DCT,Ventilated Seats,YES
+KIA,SONET,Sonet HTX Turbo DCT,Electric Adjustable Seats,NO
+KIA,SONET,Sonet HTX Turbo DCT,Automatic Climate Control,YES
+KIA,SONET,Sonet HTX Turbo DCT,Air Quality Control,NO
+KIA,SONET,Sonet HTX Turbo DCT,Accessory Power Outlet,YES
+KIA,SONET,Sonet HTX Turbo DCT,Trunk Light,YES
+KIA,SONET,Sonet HTX Turbo DCT,Rear Reading Lamp,YES
+KIA,SONET,Sonet HTX Turbo DCT,Rear Seat Headrest,Adjustable
+KIA,SONET,Sonet HTX Turbo DCT,Adjustable Headrest,YES
+KIA,SONET,Sonet HTX Turbo DCT,Rear Seat Centre Arm Rest,YES
+KIA,SONET,Sonet HTX Turbo DCT,Rear AC Vents,YES
+KIA,SONET,Sonet HTX Turbo DCT,Cruise Control,YES
+KIA,SONET,Sonet HTX Turbo DCT,Parking Sensors,Front & Rear
+KIA,SONET,Sonet HTX Turbo DCT,Real-Time Vehicle Tracking,NO
+KIA,SONET,Sonet HTX Turbo DCT,Foldable Rear Seat,60:40 Split
+KIA,SONET,Sonet HTX Turbo DCT,KeyLess Entry,YES
+KIA,SONET,Sonet HTX Turbo DCT,Voice Commands,YES
+KIA,SONET,Sonet HTX Turbo DCT,Paddle Shifters,YES
+KIA,SONET,Sonet HTX Turbo DCT,USB Charger,Front & Rear
+KIA,SONET,Sonet HTX Turbo DCT,Central Console Armrest,With Storage
+KIA,SONET,Sonet HTX Turbo DCT,Tailgate Ajar Warning,YES
+KIA,SONET,Sonet HTX Turbo DCT,Gear Shift Indicator,NO
+KIA,SONET,Sonet HTX Turbo DCT,Luggage Hook & Net,YES
+KIA,SONET,Sonet HTX Turbo DCT,Battery Saver,YES
+KIA,SONET,Sonet HTX Turbo DCT,Drive Modes,3
+KIA,SONET,Sonet HTX Turbo DCT,Idle Start-Stop System,YES
+KIA,SONET,Sonet HTX Turbo DCT,Rear Window Sunblind,YES
+KIA,SONET,Sonet HTX Turbo DCT,Rear Windscreen Sunblind,NO
+KIA,SONET,Sonet HTX Turbo DCT,Automatic Headlamps,YES
+KIA,SONET,Sonet HTX Turbo DCT,Follow Me Home Headlamps,YES
+KIA,SONET,Sonet HTX Turbo DCT,Additional Features,Sunglass Holder
+KIA,SONET,Sonet HTX Turbo DCT,Drive Mode Types,NORMAL|ECO|SPORTS
+KIA,SONET,Sonet HTX Turbo DCT,Power Windows,Front & Rear
+KIA,SONET,Sonet HTX Turbo DCT,Cup Holders,Front & Rear
+KIA,SONET,Sonet HTX Turbo DCT,Tachometer,YES
+KIA,SONET,Sonet HTX Turbo DCT,Leather Wrapped Steering Wheel,YES
+KIA,SONET,Sonet HTX Turbo DCT,Leather wrap gear-shift selector,YES
+KIA,SONET,Sonet HTX Turbo DCT,Glove Box,YES
+KIA,SONET,Sonet HTX Turbo DCT,Cigarette Lighter,NO
+KIA,SONET,Sonet HTX Turbo DCT,Folding Table in The Rear,NO
+KIA,SONET,Sonet HTX Turbo DCT,Dual Tone Dashboard,NO
+KIA,SONET,Sonet HTX Turbo DCT,Digital Cluster,YES
+KIA,SONET,Sonet HTX Turbo DCT,Digital Cluster Size,4.2
+KIA,SONET,Sonet HTX Turbo DCT,Upholstery,Leatherette
+KIA,SONET,Sonet HTX Turbo DCT,Adjustable Headlamps,YES
+KIA,SONET,Sonet HTX Turbo DCT,Headlamp Washers,NO
+KIA,SONET,Sonet HTX Turbo DCT,Rear Window Wiper,YES
+KIA,SONET,Sonet HTX Turbo DCT,Rear Window Washer,YES
+KIA,SONET,Sonet HTX Turbo DCT,Rear Window Defogger,YES
+KIA,SONET,Sonet HTX Turbo DCT,Wheel Covers,NO
+KIA,SONET,Sonet HTX Turbo DCT,Alloy Wheels,YES
+KIA,SONET,Sonet HTX Turbo DCT,Tinted Glass,YES
+KIA,SONET,Sonet HTX Turbo DCT,Rear Spoiler,NO
+KIA,SONET,Sonet HTX Turbo DCT,Side Stepper,NO
+KIA,SONET,Sonet HTX Turbo DCT,Outside Rear View Mirror Turn Indicators,YES
+KIA,SONET,Sonet HTX Turbo DCT,Integrated Antenna,YES
+KIA,SONET,Sonet HTX Turbo DCT,Chrome Grille,YES
+KIA,SONET,Sonet HTX Turbo DCT,Smoke Headlamps,NO
+KIA,SONET,Sonet HTX Turbo DCT,Roof Rails,YES
+KIA,SONET,Sonet HTX Turbo DCT,Fog Lights,Front
+KIA,SONET,Sonet HTX Turbo DCT,Antenna,Shark Fin
+KIA,SONET,Sonet HTX Turbo DCT,Sunroof,Single Pane
+KIA,SONET,Sonet HTX Turbo DCT,Boot Opening,Electronic
+KIA,SONET,Sonet HTX Turbo DCT,Heated Outside Rear View Mirror,NO
+KIA,SONET,Sonet HTX Turbo DCT,Outside Rear View Mirror (ORVM),Powered & Folding
+KIA,SONET,Sonet HTX Turbo DCT,Tyre Size,215/60 R16
+KIA,SONET,Sonet HTX Turbo DCT,Tyre Type,Radial Tubeless
+KIA,SONET,Sonet HTX Turbo DCT,LED DRLs,YES
+KIA,SONET,Sonet HTX Turbo DCT,LED Headlamps,YES
+KIA,SONET,Sonet HTX Turbo DCT,LED Taillights,YES
+KIA,SONET,Sonet HTX Turbo DCT,LED Fog Lamps,YES
+KIA,SONET,Sonet HTX Turbo DCT,Anti-lock Braking System (ABS),YES
+KIA,SONET,Sonet HTX Turbo DCT,Brake Assist,YES
+KIA,SONET,Sonet HTX Turbo DCT,Central Locking,YES
+KIA,SONET,Sonet HTX Turbo DCT,Anti-Theft Alarm,YES
+KIA,SONET,Sonet HTX Turbo DCT,No. of Airbags,6
+KIA,SONET,Sonet HTX Turbo DCT,Driver Airbag,YES
+KIA,SONET,Sonet HTX Turbo DCT,Passenger Airbag,YES
+KIA,SONET,Sonet HTX Turbo DCT,Side Airbag,YES
+KIA,SONET,Sonet HTX Turbo DCT,Side Airbag-Rear,NO
+KIA,SONET,Sonet HTX Turbo DCT,Day & Night Rear View Mirror,YES
+KIA,SONET,Sonet HTX Turbo DCT,Curtain Airbag,YES
+KIA,SONET,Sonet HTX Turbo DCT,Electronic Brakeforce Distribution (EBD),YES
+KIA,SONET,Sonet HTX Turbo DCT,Seat Belt Warning,YES
+KIA,SONET,Sonet HTX Turbo DCT,Door Ajar Warning,YES
+KIA,SONET,Sonet HTX Turbo DCT,Traction Control,YES
+KIA,SONET,Sonet HTX Turbo DCT,Tyre Pressure Monitoring System (TPMS),YES
+KIA,SONET,Sonet HTX Turbo DCT,Engine Immobilizer,YES
+KIA,SONET,Sonet HTX Turbo DCT,Electronic Stability Control (ESC),YES
+KIA,SONET,Sonet HTX Turbo DCT,Rear Camera,With Guidedlines
+KIA,SONET,Sonet HTX Turbo DCT,Anti-Theft Device,NO
+KIA,SONET,Sonet HTX Turbo DCT,Anti-Pinch Power Windows,Driver's Window
+KIA,SONET,Sonet HTX Turbo DCT,Speed Alert,YES
+KIA,SONET,Sonet HTX Turbo DCT,Speed Sensing Auto Door Lock,YES
+KIA,SONET,Sonet HTX Turbo DCT,Knee Airbags,NO
+KIA,SONET,Sonet HTX Turbo DCT,ISOFIX Child Seat Mounts,YES
+KIA,SONET,Sonet HTX Turbo DCT,Heads-Up Display (HUD),NO
+KIA,SONET,Sonet HTX Turbo DCT,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+KIA,SONET,Sonet HTX Turbo DCT,Hill Descent Control,YES
+KIA,SONET,Sonet HTX Turbo DCT,Hill Assist,YES
+KIA,SONET,Sonet HTX Turbo DCT,Impact Sensing Auto Door Unlock,YES
+KIA,SONET,Sonet HTX Turbo DCT,360 View Camera,NO
+KIA,SONET,Sonet HTX Turbo DCT,Radio,YES
+KIA,SONET,Sonet HTX Turbo DCT,Integrated 2DIN Audio,YES
+KIA,SONET,Sonet HTX Turbo DCT,Wireless Phone Charging,YES
+KIA,SONET,Sonet HTX Turbo DCT,Bluetooth Connectivity,YES
+KIA,SONET,Sonet HTX Turbo DCT,Touchscreen,YES
+KIA,SONET,Sonet HTX Turbo DCT,Touchscreen Size,8 inch
+KIA,SONET,Sonet HTX Turbo DCT,Connectivity,"Android Auto, Apple CarPlay"
+KIA,SONET,Sonet HTX Turbo DCT,Android Auto,YES
+KIA,SONET,Sonet HTX Turbo DCT,Apple CarPlay,YES
+KIA,SONET,Sonet HTX Turbo DCT,No. of Speakers,4
+KIA,SONET,Sonet HTX Turbo DCT,Usb Ports,YES
+KIA,SONET,Sonet HTX Turbo DCT,Tweeters,2
+KIA,SONET,Sonet HTX Turbo DCT,Additional Features,Wireless Android Auto & Apple CarPlay
+KIA,SONET,Sonet HTX Turbo DCT,Speakers,Front & Rear

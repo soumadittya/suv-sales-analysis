@@ -1,0 +1,149 @@
+company,model,variant,feature_name,feature_details
+KIA,CARENS,Carens Premium Opt,Engine Type,Smartstream
+KIA,CARENS,Carens Premium Opt,Displacement,1497 cc
+KIA,CARENS,Carens Premium Opt,Max Power,113.42bhp@6300rpm
+KIA,CARENS,Carens Premium Opt,Max Torque,144Nm@4500rpm
+KIA,CARENS,Carens Premium Opt,No. of Cylinders,4
+KIA,CARENS,Carens Premium Opt,Valves Per Cylinder,4
+KIA,CARENS,Carens Premium Opt,Fuel Supply System,Di
+KIA,CARENS,Carens Premium Opt,Turbo Charger,NO
+KIA,CARENS,Carens Premium Opt,Transmission Type,Manual
+KIA,CARENS,Carens Premium Opt,Gearbox,6-Speed
+KIA,CARENS,Carens Premium Opt,Drive Type,FWD
+KIA,CARENS,Carens Premium Opt,Fuel Type,Petrol
+KIA,CARENS,Carens Premium Opt,Petrol Fuel Tank Capacity,45 Litres
+KIA,CARENS,Carens Premium Opt,Petrol Highway Mileage,15.58 kmpl
+KIA,CARENS,Carens Premium Opt,Emission Norm Compliance,BS VI 2.0
+KIA,CARENS,Carens Premium Opt,Top Speed,174 kmph
+KIA,CARENS,Carens Premium Opt,Front Suspension,MacPherson Strut suspension
+KIA,CARENS,Carens Premium Opt,Rear Suspension,Rear twist beam
+KIA,CARENS,Carens Premium Opt,Steering Type,Electric
+KIA,CARENS,Carens Premium Opt,Steering Column,Tilt
+KIA,CARENS,Carens Premium Opt,Front Brake Type,Disc
+KIA,CARENS,Carens Premium Opt,Rear Brake Type,Disc
+KIA,CARENS,Carens Premium Opt,Length,4540 mm
+KIA,CARENS,Carens Premium Opt,Width,1800 mm
+KIA,CARENS,Carens Premium Opt,Height,1708 mm
+KIA,CARENS,Carens Premium Opt,Boot Space,216 Litres
+KIA,CARENS,Carens Premium Opt,Seating Capacity,7
+KIA,CARENS,Carens Premium Opt,Wheel Base,2780 mm
+KIA,CARENS,Carens Premium Opt,No. of Doors,5
+KIA,CARENS,Carens Premium Opt,Reported Ground Clearance (Unladen),195 mm
+KIA,CARENS,Carens Premium Opt,Power Steering,YES
+KIA,CARENS,Carens Premium Opt,Air Conditioner,YES
+KIA,CARENS,Carens Premium Opt,Heater,YES
+KIA,CARENS,Carens Premium Opt,Height Adjustable Driver Seat,YES
+KIA,CARENS,Carens Premium Opt,Ventilated Seats,NO
+KIA,CARENS,Carens Premium Opt,Electric Adjustable Seats,NO
+KIA,CARENS,Carens Premium Opt,Automatic Climate Control,NO
+KIA,CARENS,Carens Premium Opt,Air Quality Control,NO
+KIA,CARENS,Carens Premium Opt,Remote Fuel Lid Opener,NO
+KIA,CARENS,Carens Premium Opt,Accessory Power Outlet,YES
+KIA,CARENS,Carens Premium Opt,Trunk Light,NO
+KIA,CARENS,Carens Premium Opt,Vanity Mirror,YES
+KIA,CARENS,Carens Premium Opt,Rear Reading Lamp,YES
+KIA,CARENS,Carens Premium Opt,Adjustable Headrest,YES
+KIA,CARENS,Carens Premium Opt,Rear Seat Centre Arm Rest,YES
+KIA,CARENS,Carens Premium Opt,Height Adjustable Front Seat Belts,NO
+KIA,CARENS,Carens Premium Opt,Rear AC Vents,YES
+KIA,CARENS,Carens Premium Opt,Cruise Control,NO
+KIA,CARENS,Carens Premium Opt,Parking Sensors,Front & Rear
+KIA,CARENS,Carens Premium Opt,Foldable Rear Seat,60:40 Split
+KIA,CARENS,Carens Premium Opt,KeyLess Entry,YES
+KIA,CARENS,Carens Premium Opt,Engine Start/Stop Button,NO
+KIA,CARENS,Carens Premium Opt,Voice Commands,YES
+KIA,CARENS,Carens Premium Opt,Paddle Shifters,NO
+KIA,CARENS,Carens Premium Opt,USB Charger,Front & Rear
+KIA,CARENS,Carens Premium Opt,Central Console Armrest,With Storage
+KIA,CARENS,Carens Premium Opt,Luggage Hook & Net,YES
+KIA,CARENS,Carens Premium Opt,Drive Modes,NO
+KIA,CARENS,Carens Premium Opt,Idle Start-Stop System,YES
+KIA,CARENS,Carens Premium Opt,Rear Window Sunblind,YES
+KIA,CARENS,Carens Premium Opt,Rear Windscreen Sunblind,NO
+KIA,CARENS,Carens Premium Opt,Automatic Headlamps,NO
+KIA,CARENS,Carens Premium Opt,Follow Me Home Headlamps,YES
+KIA,CARENS,Carens Premium Opt,Voice assisted sunroof,NO
+KIA,CARENS,Carens Premium Opt,Drive Mode Types,NO
+KIA,CARENS,Carens Premium Opt,Power Windows,Front & Rear
+KIA,CARENS,Carens Premium Opt,Cup Holders,Front & Rear
+KIA,CARENS,Carens Premium Opt,Tachometer,YES
+KIA,CARENS,Carens Premium Opt,Leather Wrapped Steering Wheel,NO
+KIA,CARENS,Carens Premium Opt,Leather wrap gear-shift selector,NO
+KIA,CARENS,Carens Premium Opt,Glove Box,YES
+KIA,CARENS,Carens Premium Opt,Folding Table in The Rear,NO
+KIA,CARENS,Carens Premium Opt,Dual Tone Dashboard,YES
+KIA,CARENS,Carens Premium Opt,Digital Cluster,YES
+KIA,CARENS,Carens Premium Opt,Digital Cluster Size,4.2
+KIA,CARENS,Carens Premium Opt,Upholstery,Fabric
+KIA,CARENS,Carens Premium Opt,Adjustable Headlamps,YES
+KIA,CARENS,Carens Premium Opt,Rain Sensing Wiper,NO
+KIA,CARENS,Carens Premium Opt,Rear Window Wiper,NO
+KIA,CARENS,Carens Premium Opt,Rear Window Washer,NO
+KIA,CARENS,Carens Premium Opt,Rear Window Defogger,NO
+KIA,CARENS,Carens Premium Opt,Wheel Covers,YES
+KIA,CARENS,Carens Premium Opt,Alloy Wheels,NO
+KIA,CARENS,Carens Premium Opt,Rear Spoiler,YES
+KIA,CARENS,Carens Premium Opt,Side Stepper,NO
+KIA,CARENS,Carens Premium Opt,Outside Rear View Mirror Turn Indicators,YES
+KIA,CARENS,Carens Premium Opt,Integrated Antenna,YES
+KIA,CARENS,Carens Premium Opt,Chrome Grille,NO
+KIA,CARENS,Carens Premium Opt,Chrome Garnish,YES
+KIA,CARENS,Carens Premium Opt,Halogen Headlamps,YES
+KIA,CARENS,Carens Premium Opt,Roof Rails,NO
+KIA,CARENS,Carens Premium Opt,Fog Lights,NO
+KIA,CARENS,Carens Premium Opt,Antenna,Shark Fin
+KIA,CARENS,Carens Premium Opt,Sunroof,NO
+KIA,CARENS,Carens Premium Opt,Boot Opening,Electronic
+KIA,CARENS,Carens Premium Opt,Heated Outside Rear View Mirror,NO
+KIA,CARENS,Carens Premium Opt,Outside Rear View Mirror (ORVM),Powered
+KIA,CARENS,Carens Premium Opt,Tyre Size,195/65 R15
+KIA,CARENS,Carens Premium Opt,Tyre Type,Radial Tubeless
+KIA,CARENS,Carens Premium Opt,Wheel Size,15 Inch
+KIA,CARENS,Carens Premium Opt,LED DRLs,NO
+KIA,CARENS,Carens Premium Opt,LED Headlamps,NO
+KIA,CARENS,Carens Premium Opt,LED Taillights,NO
+KIA,CARENS,Carens Premium Opt,LED Fog Lamps,NO
+KIA,CARENS,Carens Premium Opt,Anti-lock Braking System (ABS),YES
+KIA,CARENS,Carens Premium Opt,Brake Assist,YES
+KIA,CARENS,Carens Premium Opt,Central Locking,YES
+KIA,CARENS,Carens Premium Opt,Child Safety Locks,YES
+KIA,CARENS,Carens Premium Opt,Anti-Theft Alarm,YES
+KIA,CARENS,Carens Premium Opt,No. of Airbags,6
+KIA,CARENS,Carens Premium Opt,Driver Airbag,YES
+KIA,CARENS,Carens Premium Opt,Passenger Airbag,YES
+KIA,CARENS,Carens Premium Opt,Side Airbag,YES
+KIA,CARENS,Carens Premium Opt,Side Airbag-Rear,NO
+KIA,CARENS,Carens Premium Opt,Day & Night Rear View Mirror,YES
+KIA,CARENS,Carens Premium Opt,Curtain Airbag,YES
+KIA,CARENS,Carens Premium Opt,Electronic Brakeforce Distribution (EBD),YES
+KIA,CARENS,Carens Premium Opt,Seat Belt Warning,YES
+KIA,CARENS,Carens Premium Opt,Door Ajar Warning,YES
+KIA,CARENS,Carens Premium Opt,Tyre Pressure Monitoring System (TPMS),YES
+KIA,CARENS,Carens Premium Opt,Engine Immobilizer,YES
+KIA,CARENS,Carens Premium Opt,Electronic Stability Control (ESC),YES
+KIA,CARENS,Carens Premium Opt,Rear Camera,With Guidedlines
+KIA,CARENS,Carens Premium Opt,Speed Alert,YES
+KIA,CARENS,Carens Premium Opt,Speed Sensing Auto Door Lock,YES
+KIA,CARENS,Carens Premium Opt,ISOFIX Child Seat Mounts,YES
+KIA,CARENS,Carens Premium Opt,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+KIA,CARENS,Carens Premium Opt,Hill Descent Control,YES
+KIA,CARENS,Carens Premium Opt,Hill Assist,YES
+KIA,CARENS,Carens Premium Opt,Impact Sensing Auto Door Unlock,YES
+KIA,CARENS,Carens Premium Opt,Global NCAP Safety Rating,3 Star
+KIA,CARENS,Carens Premium Opt,Global NCAP Child Safety Rating,5 Star
+KIA,CARENS,Carens Premium Opt,Radio,YES
+KIA,CARENS,Carens Premium Opt,Integrated 2DIN Audio,YES
+KIA,CARENS,Carens Premium Opt,Wireless Phone Charging,NO
+KIA,CARENS,Carens Premium Opt,Bluetooth Connectivity,YES
+KIA,CARENS,Carens Premium Opt,Touchscreen,YES
+KIA,CARENS,Carens Premium Opt,Touchscreen Size,8 inch
+KIA,CARENS,Carens Premium Opt,Connectivity,"Android Auto, Apple CarPlay"
+KIA,CARENS,Carens Premium Opt,Android Auto,YES
+KIA,CARENS,Carens Premium Opt,Apple CarPlay,YES
+KIA,CARENS,Carens Premium Opt,No. of Speakers,4
+KIA,CARENS,Carens Premium Opt,Rear Entertainment System,NO
+KIA,CARENS,Carens Premium Opt,Usb Ports,YES
+KIA,CARENS,Carens Premium Opt,Tweeters,2
+KIA,CARENS,Carens Premium Opt,Rear Touchscreen,NO
+KIA,CARENS,Carens Premium Opt,Additional Features,"Smart Phone Wireless Charger with (Android Auto, Apple CarPlay), BOSE Premium Sound System with 8 Speakers"
+KIA,CARENS,Carens Premium Opt,Speakers,Front & Rear

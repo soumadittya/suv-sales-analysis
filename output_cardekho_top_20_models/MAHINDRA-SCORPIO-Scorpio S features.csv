@@ -1,0 +1,98 @@
+company,model,variant,feature_name,feature_details
+MAHINDRA,SCORPIO,Scorpio S,Engine Type,mHAWK 4 Cylinder
+MAHINDRA,SCORPIO,Scorpio S,Displacement,2184 cc
+MAHINDRA,SCORPIO,Scorpio S,Max Power,130bhp@3750rpm
+MAHINDRA,SCORPIO,Scorpio S,Max Torque,300Nm@1600-2800rpm
+MAHINDRA,SCORPIO,Scorpio S,No. of Cylinders,4
+MAHINDRA,SCORPIO,Scorpio S,Valves Per Cylinder,4
+MAHINDRA,SCORPIO,Scorpio S,Fuel Supply System,CRDi
+MAHINDRA,SCORPIO,Scorpio S,Turbo Charger,YES
+MAHINDRA,SCORPIO,Scorpio S,Transmission Type,Manual
+MAHINDRA,SCORPIO,Scorpio S,Gearbox,6-Speed
+MAHINDRA,SCORPIO,Scorpio S,Drive Type,RWD
+MAHINDRA,SCORPIO,Scorpio S,Fuel Type,Diesel
+MAHINDRA,SCORPIO,Scorpio S,Diesel Mileage ARAI,14.44 kmpl
+MAHINDRA,SCORPIO,Scorpio S,Diesel Fuel Tank Capacity,60 Litres
+MAHINDRA,SCORPIO,Scorpio S,Emission Norm Compliance,BS VI 2.0
+MAHINDRA,SCORPIO,Scorpio S,Top Speed,165 kmph
+MAHINDRA,SCORPIO,Scorpio S,Front Suspension,Double wishbone suspension
+MAHINDRA,SCORPIO,Scorpio S,Rear Suspension,Multi-link suspension
+MAHINDRA,SCORPIO,Scorpio S,Shock Absorbers Type,"Hydraulic, Double Acting, Telescopic"
+MAHINDRA,SCORPIO,Scorpio S,Steering Type,Hydraulic
+MAHINDRA,SCORPIO,Scorpio S,Steering Column,Tilt & Collapsible
+MAHINDRA,SCORPIO,Scorpio S,Front Brake Type,Disc
+MAHINDRA,SCORPIO,Scorpio S,Rear Brake Type,Drum
+MAHINDRA,SCORPIO,Scorpio S,Braking (100-0kmph),41.50 s
+MAHINDRA,SCORPIO,Scorpio S,0-100Kmph (Tested),13.1 s
+MAHINDRA,SCORPIO,Scorpio S,Braking (80-0 kmph),26.14 s
+MAHINDRA,SCORPIO,Scorpio S,Length,4456 mm
+MAHINDRA,SCORPIO,Scorpio S,Width,1820 mm
+MAHINDRA,SCORPIO,Scorpio S,Height,1995 mm
+MAHINDRA,SCORPIO,Scorpio S,Boot Space,460 Litres
+MAHINDRA,SCORPIO,Scorpio S,Seating Capacity,7
+MAHINDRA,SCORPIO,Scorpio S,Wheel Base,2680 mm
+MAHINDRA,SCORPIO,Scorpio S,No. of Doors,5
+MAHINDRA,SCORPIO,Scorpio S,Power Steering,YES
+MAHINDRA,SCORPIO,Scorpio S,Air Conditioner,YES
+MAHINDRA,SCORPIO,Scorpio S,Heater,YES
+MAHINDRA,SCORPIO,Scorpio S,Height Adjustable Driver Seat,NO
+MAHINDRA,SCORPIO,Scorpio S,Automatic Climate Control,NO
+MAHINDRA,SCORPIO,Scorpio S,Accessory Power Outlet,YES
+MAHINDRA,SCORPIO,Scorpio S,Rear Reading Lamp,YES
+MAHINDRA,SCORPIO,Scorpio S,Adjustable Headrest,YES
+MAHINDRA,SCORPIO,Scorpio S,Height Adjustable Front Seat Belts,NO
+MAHINDRA,SCORPIO,Scorpio S,Rear AC Vents,YES
+MAHINDRA,SCORPIO,Scorpio S,Cruise Control,NO
+MAHINDRA,SCORPIO,Scorpio S,Parking Sensors,Rear
+MAHINDRA,SCORPIO,Scorpio S,KeyLess Entry,NO
+MAHINDRA,SCORPIO,Scorpio S,Central Console Armrest,NO
+MAHINDRA,SCORPIO,Scorpio S,Gear Shift Indicator,NO
+MAHINDRA,SCORPIO,Scorpio S,Lane Change Indicator,YES
+MAHINDRA,SCORPIO,Scorpio S,Follow Me Home Headlamps,NO
+MAHINDRA,SCORPIO,Scorpio S,Tachometer,YES
+MAHINDRA,SCORPIO,Scorpio S,Leather Wrapped Steering Wheel,NO
+MAHINDRA,SCORPIO,Scorpio S,Glove Box,YES
+MAHINDRA,SCORPIO,Scorpio S,Adjustable Headlamps,YES
+MAHINDRA,SCORPIO,Scorpio S,Rear Window Wiper,NO
+MAHINDRA,SCORPIO,Scorpio S,Rear Window Washer,NO
+MAHINDRA,SCORPIO,Scorpio S,Rear Window Defogger,NO
+MAHINDRA,SCORPIO,Scorpio S,Alloy Wheels,NO
+MAHINDRA,SCORPIO,Scorpio S,Rear Spoiler,NO
+MAHINDRA,SCORPIO,Scorpio S,Side Stepper,NO
+MAHINDRA,SCORPIO,Scorpio S,Outside Rear View Mirror Turn Indicators,NO
+MAHINDRA,SCORPIO,Scorpio S,Integrated Antenna,NO
+MAHINDRA,SCORPIO,Scorpio S,Chrome Grille,NO
+MAHINDRA,SCORPIO,Scorpio S,Projector Headlamps,NO
+MAHINDRA,SCORPIO,Scorpio S,Fog Lights,NO
+MAHINDRA,SCORPIO,Scorpio S,Sunroof,NO
+MAHINDRA,SCORPIO,Scorpio S,Boot Opening,Manual
+MAHINDRA,SCORPIO,Scorpio S,Outside Rear View Mirror (ORVM),Manual
+MAHINDRA,SCORPIO,Scorpio S,Tyre Size,235/65 R17
+MAHINDRA,SCORPIO,Scorpio S,Tyre Type,"Radial, Tubeless"
+MAHINDRA,SCORPIO,Scorpio S,Wheel Size,17 Inch
+MAHINDRA,SCORPIO,Scorpio S,LED DRLs,NO
+MAHINDRA,SCORPIO,Scorpio S,LED Headlamps,NO
+MAHINDRA,SCORPIO,Scorpio S,LED Taillights,YES
+MAHINDRA,SCORPIO,Scorpio S,Anti-lock Braking System (ABS),YES
+MAHINDRA,SCORPIO,Scorpio S,Central Locking,YES
+MAHINDRA,SCORPIO,Scorpio S,Anti-Theft Alarm,NO
+MAHINDRA,SCORPIO,Scorpio S,No. of Airbags,2
+MAHINDRA,SCORPIO,Scorpio S,Driver Airbag,YES
+MAHINDRA,SCORPIO,Scorpio S,Passenger Airbag,YES
+MAHINDRA,SCORPIO,Scorpio S,Side Airbag,NO
+MAHINDRA,SCORPIO,Scorpio S,Side Airbag-Rear,NO
+MAHINDRA,SCORPIO,Scorpio S,Day & Night Rear View Mirror,YES
+MAHINDRA,SCORPIO,Scorpio S,Electronic Brakeforce Distribution (EBD),YES
+MAHINDRA,SCORPIO,Scorpio S,Seat Belt Warning,YES
+MAHINDRA,SCORPIO,Scorpio S,Door Ajar Warning,YES
+MAHINDRA,SCORPIO,Scorpio S,Engine Immobilizer,YES
+MAHINDRA,SCORPIO,Scorpio S,Anti-Theft Device,NO
+MAHINDRA,SCORPIO,Scorpio S,Speed Alert,YES
+MAHINDRA,SCORPIO,Scorpio S,Speed Sensing Auto Door Lock,NO
+MAHINDRA,SCORPIO,Scorpio S,Radio,NO
+MAHINDRA,SCORPIO,Scorpio S,Integrated 2DIN Audio,NO
+MAHINDRA,SCORPIO,Scorpio S,Bluetooth Connectivity,NO
+MAHINDRA,SCORPIO,Scorpio S,Touchscreen,NO
+MAHINDRA,SCORPIO,Scorpio S,Touchscreen Size,inch
+MAHINDRA,SCORPIO,Scorpio S,Usb Ports,NO
+MAHINDRA,SCORPIO,Scorpio S,Speakers,NO

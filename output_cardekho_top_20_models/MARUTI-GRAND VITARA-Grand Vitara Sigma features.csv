@@ -1,0 +1,130 @@
+company,model,variant,feature_name,feature_details
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Engine Type,K15C With Mild Hybrid System
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Displacement,1462 cc
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Max Power,101.64bhp@6000rpm
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Max Torque,139Nm@4300rpm
+MARUTI,GRAND VITARA,Grand Vitara Sigma,No. of Cylinders,4
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Valves Per Cylinder,4
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Transmission Type,Manual
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Gearbox,5-Speed
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Drive Type,FWD
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Fuel Type,Petrol
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Petrol Mileage ARAI,21.11 kmpl
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Petrol Fuel Tank Capacity,45 Litres
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Secondary Fuel Type,Electric
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Emission Norm Compliance,BS VI 2.0
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Top Speed,135 kmph
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Front Suspension,MacPherson Strut suspension
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Rear Suspension,Rear twist beam
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Steering Type,Electric
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Steering Column,Tilt & Telescopic
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Steering Gear Type,Rack & Pinion
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Turning Radius,5.4 m
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Front Brake Type,Disc
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Rear Brake Type,Disc
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Length,4345 mm
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Width,1795 mm
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Height,1645 mm
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Boot Space,373 Litres
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Seating Capacity,5
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Ground Clearance Unladen,210 mm
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Wheel Base,2600 mm
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Kerb Weight,1140-1185 kg
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Gross Weight,1645 kg
+MARUTI,GRAND VITARA,Grand Vitara Sigma,No. of Doors,5
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Power Steering,YES
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Air Conditioner,YES
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Heater,YES
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Height Adjustable Driver Seat,YES
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Ventilated Seats,NO
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Automatic Climate Control,YES
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Accessory Power Outlet,YES
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Trunk Light,NO
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Vanity Mirror,YES
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Rear Reading Lamp,YES
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Adjustable Headrest,YES
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Rear Seat Centre Arm Rest,YES
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Height Adjustable Front Seat Belts,YES
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Rear AC Vents,YES
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Cruise Control,NO
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Parking Sensors,Rear
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Real-Time Vehicle Tracking,NO
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Foldable Rear Seat,60:40 Split
+MARUTI,GRAND VITARA,Grand Vitara Sigma,KeyLess Entry,YES
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Engine Start/Stop Button,YES
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Voice Commands,NO
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Paddle Shifters,NO
+MARUTI,GRAND VITARA,Grand Vitara Sigma,USB Charger,NO
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Central Console Armrest,With Storage
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Gear Shift Indicator,YES
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Glove Box light,NO
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Idle Start-Stop System,YES
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Automatic Headlamps,NO
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Follow Me Home Headlamps,NO
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Tachometer,YES
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Glove Box,YES
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Digital Odometer,YES
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Dual Tone Dashboard,YES
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Digital Cluster,Semi
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Digital Cluster Size,4.2 inch
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Upholstery,Fabric
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Adjustable Headlamps,YES
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Rear Window Wiper,NO
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Rear Window Washer,NO
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Wheel Covers,YES
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Alloy Wheels,NO
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Rear Spoiler,YES
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Outside Rear View Mirror Turn Indicators,YES
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Integrated Antenna,YES
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Projector Headlamps,YES
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Halogen Headlamps,YES
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Roof Rails,NO
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Antenna,Shark Fin
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Sunroof,NO
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Boot Opening,Manual
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Puddle Lamps,NO
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Tyre Size,215/60 R17
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Tyre Type,"Tubeless, Radial"
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Wheel Size,17 Inch
+MARUTI,GRAND VITARA,Grand Vitara Sigma,LED DRLs,YES
+MARUTI,GRAND VITARA,Grand Vitara Sigma,LED Headlamps,NO
+MARUTI,GRAND VITARA,Grand Vitara Sigma,LED Taillights,YES
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Anti-lock Braking System (ABS),YES
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Brake Assist,YES
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Central Locking,YES
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Child Safety Locks,YES
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Anti-Theft Alarm,NO
+MARUTI,GRAND VITARA,Grand Vitara Sigma,No. of Airbags,6
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Driver Airbag,YES
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Passenger Airbag,YES
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Side Airbag,YES
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Side Airbag-Rear,NO
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Day & Night Rear View Mirror,YES
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Curtain Airbag,YES
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Electronic Brakeforce Distribution (EBD),YES
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Seat Belt Warning,YES
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Door Ajar Warning,YES
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Tyre Pressure Monitoring System (TPMS),NO
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Engine Immobilizer,YES
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Electronic Stability Control (ESC),YES
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Rear Camera,NO
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Anti-Theft Device,NO
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Speed Alert,YES
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Speed Sensing Auto Door Lock,YES
+MARUTI,GRAND VITARA,Grand Vitara Sigma,ISOFIX Child Seat Mounts,YES
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Heads-Up Display (HUD),NO
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Hill Descent Control,NO
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Hill Assist,YES
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Impact Sensing Auto Door Unlock,YES
+MARUTI,GRAND VITARA,Grand Vitara Sigma,360 View Camera,NO
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Radio,NO
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Integrated 2DIN Audio,NO
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Wireless Phone Charging,NO
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Bluetooth Connectivity,NO
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Touchscreen,NO
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Touchscreen Size,inch
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Android Auto,NO
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Apple CarPlay,NO
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Usb Ports,YES
+MARUTI,GRAND VITARA,Grand Vitara Sigma,Speakers,NO

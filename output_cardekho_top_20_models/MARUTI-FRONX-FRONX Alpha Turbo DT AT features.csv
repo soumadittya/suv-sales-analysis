@@ -1,0 +1,122 @@
+company,model,variant,feature_name,feature_details
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Engine Type,1.0L Turbo Boosterjet
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Displacement,998 cc
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Max Power,98.69bhp@5500rpm
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Max Torque,147.6Nm@2000-4500rpm
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,No. of Cylinders,3
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Valves Per Cylinder,4
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Turbo Charger,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Transmission Type,Automatic
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Gearbox,6-Speed AT
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Drive Type,FWD
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Fuel Type,Petrol
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Petrol Mileage ARAI,20.01 kmpl
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Petrol Fuel Tank Capacity,37 Litres
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Emission Norm Compliance,BS VI 2.0
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Top Speed,180 kmph
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Front Suspension,MacPherson Strut suspension
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Rear Suspension,Rear twist beam
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Steering Type,Electric
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Steering Column,Tilt & Telescopic
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Turning Radius,4.9 m
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Front Brake Type,Disc
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Rear Brake Type,Drum
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Alloy Wheel Size Front,16 Inch
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Alloy Wheel Size Rear,16 Inch
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Length,3995 mm
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Width,1765 mm
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Height,1550 mm
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Boot Space,308 Litres
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Seating Capacity,5
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Wheel Base,2520 mm
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Kerb Weight,1055-1060 kg
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Gross Weight,1480 kg
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,No. of Doors,5
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Power Steering,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Air Conditioner,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Heater,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Height Adjustable Driver Seat,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Automatic Climate Control,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Rear Reading Lamp,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Adjustable Headrest,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Rear AC Vents,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Cruise Control,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Parking Sensors,Rear
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Real-Time Vehicle Tracking,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Foldable Rear Seat,60:40 Split
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,KeyLess Entry,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Engine Start/Stop Button,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Voice Commands,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Paddle Shifters,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,USB Charger,Front & Rear
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Central Console Armrest,With Storage
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Gear Shift Indicator,NO
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Idle Start-Stop System,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Automatic Headlamps,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Follow Me Home Headlamps,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Power Windows,Front & Rear
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Cup Holders,Front Only
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Tachometer,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Leather Wrapped Steering Wheel,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Glove Box,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Dual Tone Dashboard,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Additional Features,Rear Parcel Tray
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Digital Cluster,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Upholstery,Fabric
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Rear Window Wiper,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Rear Window Washer,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Rear Window Defogger,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Wheel Covers,NO
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Alloy Wheels,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Rear Spoiler,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Outside Rear View Mirror Turn Indicators,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Integrated Antenna,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Chrome Grille,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Projector Headlamps,NO
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Halogen Headlamps,NO
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Antenna,Shark Fin
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Outside Rear View Mirror (ORVM),Powered & Folding
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Tyre Size,195/60 R16
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Tyre Type,Radial Tubeless
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,LED DRLs,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,LED Headlamps,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,LED Taillights,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Anti-lock Braking System (ABS),YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Central Locking,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Anti-Theft Alarm,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,No. of Airbags,6
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Driver Airbag,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Passenger Airbag,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Side Airbag,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Side Airbag-Rear,NO
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Day & Night Rear View Mirror,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Curtain Airbag,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Electronic Brakeforce Distribution (EBD),YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Seat Belt Warning,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Door Ajar Warning,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Engine Immobilizer,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Electronic Stability Control (ESC),YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Rear Camera,With Guidedlines
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Anti-Theft Device,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Speed Alert,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Speed Sensing Auto Door Lock,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,ISOFIX Child Seat Mounts,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Heads-Up Display (HUD),YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Hill Assist,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Impact Sensing Auto Door Unlock,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,360 View Camera,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Radio,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Integrated 2DIN Audio,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Wireless Phone Charging,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Bluetooth Connectivity,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Touchscreen,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Touchscreen Size,9 inch
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Connectivity,"Android Auto, Apple CarPlay"
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Android Auto,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Apple CarPlay,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,No. of Speakers,4
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Usb Ports,YES
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Tweeters,2
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Additional Features,"ARKAMYS Premium Sound System, Android Auto and Apple CarPlay (Wireless)"
+MARUTI,FRONX,FRONX Alpha Turbo DT AT,Speakers,Front & Rear

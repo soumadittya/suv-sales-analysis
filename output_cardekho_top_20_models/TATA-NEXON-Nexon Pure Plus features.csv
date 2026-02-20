@@ -1,0 +1,131 @@
+company,model,variant,feature_name,feature_details
+TATA,NEXON,Nexon Pure Plus,Engine Type,1.2L Turbocharged Revotron
+TATA,NEXON,Nexon Pure Plus,Displacement,1199 cc
+TATA,NEXON,Nexon Pure Plus,Max Power,118.27bhp@5500rpm
+TATA,NEXON,Nexon Pure Plus,Max Torque,170Nm@1750-4000rpm
+TATA,NEXON,Nexon Pure Plus,No. of Cylinders,3
+TATA,NEXON,Nexon Pure Plus,Valves Per Cylinder,4
+TATA,NEXON,Nexon Pure Plus,Turbo Charger,YES
+TATA,NEXON,Nexon Pure Plus,Transmission Type,Manual
+TATA,NEXON,Nexon Pure Plus,Gearbox,6-Speed
+TATA,NEXON,Nexon Pure Plus,Drive Type,FWD
+TATA,NEXON,Nexon Pure Plus,Fuel Type,Petrol
+TATA,NEXON,Nexon Pure Plus,Petrol Mileage ARAI,17.44 kmpl
+TATA,NEXON,Nexon Pure Plus,Petrol Fuel Tank Capacity,44 Litres
+TATA,NEXON,Nexon Pure Plus,Emission Norm Compliance,BS VI 2.0
+TATA,NEXON,Nexon Pure Plus,Top Speed,180 kmph
+TATA,NEXON,Nexon Pure Plus,Front Suspension,MacPherson Strut suspension
+TATA,NEXON,Nexon Pure Plus,Rear Suspension,Rear twist beam
+TATA,NEXON,Nexon Pure Plus,Steering Type,Electric
+TATA,NEXON,Nexon Pure Plus,Steering Column,Tilt
+TATA,NEXON,Nexon Pure Plus,Front Brake Type,Disc
+TATA,NEXON,Nexon Pure Plus,Rear Brake Type,Drum
+TATA,NEXON,Nexon Pure Plus,Length,3995 mm
+TATA,NEXON,Nexon Pure Plus,Width,1804 mm
+TATA,NEXON,Nexon Pure Plus,Height,1620 mm
+TATA,NEXON,Nexon Pure Plus,Boot Space,382 Litres
+TATA,NEXON,Nexon Pure Plus,Seating Capacity,5
+TATA,NEXON,Nexon Pure Plus,Ground Clearance Unladen,208 mm
+TATA,NEXON,Nexon Pure Plus,Wheel Base,2498 mm
+TATA,NEXON,Nexon Pure Plus,No. of Doors,5
+TATA,NEXON,Nexon Pure Plus,Power Steering,YES
+TATA,NEXON,Nexon Pure Plus,Air Conditioner,YES
+TATA,NEXON,Nexon Pure Plus,Heater,YES
+TATA,NEXON,Nexon Pure Plus,Adjustable Steering,Height only
+TATA,NEXON,Nexon Pure Plus,Height Adjustable Driver Seat,YES
+TATA,NEXON,Nexon Pure Plus,Ventilated Seats,NO
+TATA,NEXON,Nexon Pure Plus,Automatic Climate Control,NO
+TATA,NEXON,Nexon Pure Plus,Air Quality Control,NO
+TATA,NEXON,Nexon Pure Plus,Accessory Power Outlet,YES
+TATA,NEXON,Nexon Pure Plus,Trunk Light,NO
+TATA,NEXON,Nexon Pure Plus,Rear Seat Headrest,Adjustable
+TATA,NEXON,Nexon Pure Plus,Adjustable Headrest,YES
+TATA,NEXON,Nexon Pure Plus,Rear Seat Centre Arm Rest,NO
+TATA,NEXON,Nexon Pure Plus,Height Adjustable Front Seat Belts,NO
+TATA,NEXON,Nexon Pure Plus,Rear AC Vents,YES
+TATA,NEXON,Nexon Pure Plus,Cruise Control,NO
+TATA,NEXON,Nexon Pure Plus,Parking Sensors,Rear
+TATA,NEXON,Nexon Pure Plus,Foldable Rear Seat,Bench Folding
+TATA,NEXON,Nexon Pure Plus,KeyLess Entry,YES
+TATA,NEXON,Nexon Pure Plus,Engine Start/Stop Button,NO
+TATA,NEXON,Nexon Pure Plus,Cooled Glovebox,NO
+TATA,NEXON,Nexon Pure Plus,Voice Commands,NO
+TATA,NEXON,Nexon Pure Plus,Paddle Shifters,NO
+TATA,NEXON,Nexon Pure Plus,USB Charger,Front
+TATA,NEXON,Nexon Pure Plus,Central Console Armrest,YES
+TATA,NEXON,Nexon Pure Plus,Drive Modes,3
+TATA,NEXON,Nexon Pure Plus,Rear Window Sunblind,NO
+TATA,NEXON,Nexon Pure Plus,Automatic Headlamps,NO
+TATA,NEXON,Nexon Pure Plus,Follow Me Home Headlamps,YES
+TATA,NEXON,Nexon Pure Plus,Voice assisted sunroof,NO
+TATA,NEXON,Nexon Pure Plus,Drive Mode Types,Eco|City|Sports
+TATA,NEXON,Nexon Pure Plus,Power Windows,Front & Rear
+TATA,NEXON,Nexon Pure Plus,Tachometer,YES
+TATA,NEXON,Nexon Pure Plus,Leather Wrapped Steering Wheel,NO
+TATA,NEXON,Nexon Pure Plus,Glove Box,YES
+TATA,NEXON,Nexon Pure Plus,Digital Cluster,YES
+TATA,NEXON,Nexon Pure Plus,Digital Cluster Size,4
+TATA,NEXON,Nexon Pure Plus,Upholstery,Fabric
+TATA,NEXON,Nexon Pure Plus,Adjustable Headlamps,YES
+TATA,NEXON,Nexon Pure Plus,Rain Sensing Wiper,NO
+TATA,NEXON,Nexon Pure Plus,Rear Window Wiper,NO
+TATA,NEXON,Nexon Pure Plus,Rear Window Washer,NO
+TATA,NEXON,Nexon Pure Plus,Rear Window Defogger,NO
+TATA,NEXON,Nexon Pure Plus,Wheel Covers,YES
+TATA,NEXON,Nexon Pure Plus,Alloy Wheels,NO
+TATA,NEXON,Nexon Pure Plus,Rear Spoiler,YES
+TATA,NEXON,Nexon Pure Plus,Outside Rear View Mirror Turn Indicators,YES
+TATA,NEXON,Nexon Pure Plus,Integrated Antenna,YES
+TATA,NEXON,Nexon Pure Plus,Cornering Foglamps,NO
+TATA,NEXON,Nexon Pure Plus,Roof Rails,NO
+TATA,NEXON,Nexon Pure Plus,Automatic Headlamps,NO
+TATA,NEXON,Nexon Pure Plus,Fog Lights,NO
+TATA,NEXON,Nexon Pure Plus,Antenna,Shark Fin
+TATA,NEXON,Nexon Pure Plus,Sunroof,NO
+TATA,NEXON,Nexon Pure Plus,Outside Rear View Mirror (ORVM),Powered & Folding
+TATA,NEXON,Nexon Pure Plus,Tyre Size,195/60 R16
+TATA,NEXON,Nexon Pure Plus,Tyre Type,Radial Tubeless
+TATA,NEXON,Nexon Pure Plus,Wheel Size,16 Inch
+TATA,NEXON,Nexon Pure Plus,LED DRLs,YES
+TATA,NEXON,Nexon Pure Plus,LED Headlamps,YES
+TATA,NEXON,Nexon Pure Plus,LED Taillights,YES
+TATA,NEXON,Nexon Pure Plus,LED Fog Lamps,NO
+TATA,NEXON,Nexon Pure Plus,Anti-lock Braking System (ABS),YES
+TATA,NEXON,Nexon Pure Plus,Central Locking,YES
+TATA,NEXON,Nexon Pure Plus,Child Safety Locks,YES
+TATA,NEXON,Nexon Pure Plus,No. of Airbags,6
+TATA,NEXON,Nexon Pure Plus,Driver Airbag,YES
+TATA,NEXON,Nexon Pure Plus,Passenger Airbag,YES
+TATA,NEXON,Nexon Pure Plus,Side Airbag,YES
+TATA,NEXON,Nexon Pure Plus,Side Airbag-Rear,NO
+TATA,NEXON,Nexon Pure Plus,Day & Night Rear View Mirror,YES
+TATA,NEXON,Nexon Pure Plus,Curtain Airbag,YES
+TATA,NEXON,Nexon Pure Plus,Electronic Brakeforce Distribution (EBD),YES
+TATA,NEXON,Nexon Pure Plus,Seat Belt Warning,YES
+TATA,NEXON,Nexon Pure Plus,Door Ajar Warning,YES
+TATA,NEXON,Nexon Pure Plus,Tyre Pressure Monitoring System (TPMS),NO
+TATA,NEXON,Nexon Pure Plus,Engine Immobilizer,YES
+TATA,NEXON,Nexon Pure Plus,Electronic Stability Control (ESC),YES
+TATA,NEXON,Nexon Pure Plus,Rear Camera,With Guidedlines
+TATA,NEXON,Nexon Pure Plus,Speed Alert,YES
+TATA,NEXON,Nexon Pure Plus,Speed Sensing Auto Door Lock,YES
+TATA,NEXON,Nexon Pure Plus,ISOFIX Child Seat Mounts,YES
+TATA,NEXON,Nexon Pure Plus,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+TATA,NEXON,Nexon Pure Plus,Impact Sensing Auto Door Unlock,YES
+TATA,NEXON,Nexon Pure Plus,360 View Camera,NO
+TATA,NEXON,Nexon Pure Plus,Global NCAP Safety Rating,5 Star
+TATA,NEXON,Nexon Pure Plus,Global NCAP Child Safety Rating,5 Star
+TATA,NEXON,Nexon Pure Plus,Bharat NCAP Safety Rating,5 Star
+TATA,NEXON,Nexon Pure Plus,Bharat NCAP Child Safety Rating,5 Star
+TATA,NEXON,Nexon Pure Plus,Radio,YES
+TATA,NEXON,Nexon Pure Plus,Wireless Phone Charging,NO
+TATA,NEXON,Nexon Pure Plus,Bluetooth Connectivity,YES
+TATA,NEXON,Nexon Pure Plus,Touchscreen,YES
+TATA,NEXON,Nexon Pure Plus,Touchscreen Size,10.24 inch
+TATA,NEXON,Nexon Pure Plus,Connectivity,"Android Auto, Apple CarPlay"
+TATA,NEXON,Nexon Pure Plus,Android Auto,YES
+TATA,NEXON,Nexon Pure Plus,Apple CarPlay,YES
+TATA,NEXON,Nexon Pure Plus,No. of Speakers,4
+TATA,NEXON,Nexon Pure Plus,Usb Ports,YES
+TATA,NEXON,Nexon Pure Plus,Additional Features,Wireless Android Auto & Apple Car Play
+TATA,NEXON,Nexon Pure Plus,Speakers,Front & Rear

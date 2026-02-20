@@ -1,0 +1,149 @@
+company,model,variant,feature_name,feature_details
+KIA,SONET,Sonet HTE (O) Diesel,Engine Type,1.5L CRDi VGT
+KIA,SONET,Sonet HTE (O) Diesel,Displacement,1493 cc
+KIA,SONET,Sonet HTE (O) Diesel,Max Power,114bhp@4000rpm
+KIA,SONET,Sonet HTE (O) Diesel,Max Torque,250Nm@1500-2750rpm
+KIA,SONET,Sonet HTE (O) Diesel,No. of Cylinders,4
+KIA,SONET,Sonet HTE (O) Diesel,Valves Per Cylinder,4
+KIA,SONET,Sonet HTE (O) Diesel,Fuel Supply System,CRDi
+KIA,SONET,Sonet HTE (O) Diesel,Turbo Charger,YES
+KIA,SONET,Sonet HTE (O) Diesel,Transmission Type,Manual
+KIA,SONET,Sonet HTE (O) Diesel,Gearbox,6-Speed
+KIA,SONET,Sonet HTE (O) Diesel,Drive Type,FWD
+KIA,SONET,Sonet HTE (O) Diesel,Fuel Type,Diesel
+KIA,SONET,Sonet HTE (O) Diesel,Diesel Mileage ARAI,24.1 kmpl
+KIA,SONET,Sonet HTE (O) Diesel,Diesel Fuel Tank Capacity,45 Litres
+KIA,SONET,Sonet HTE (O) Diesel,Emission Norm Compliance,BS VI 2.0
+KIA,SONET,Sonet HTE (O) Diesel,Front Suspension,MacPherson Strut suspension
+KIA,SONET,Sonet HTE (O) Diesel,Rear Suspension,Rear twist beam
+KIA,SONET,Sonet HTE (O) Diesel,Steering Type,Electric
+KIA,SONET,Sonet HTE (O) Diesel,Steering Column,Tilt
+KIA,SONET,Sonet HTE (O) Diesel,Front Brake Type,Disc
+KIA,SONET,Sonet HTE (O) Diesel,Rear Brake Type,Drum
+KIA,SONET,Sonet HTE (O) Diesel,Length,3995 mm
+KIA,SONET,Sonet HTE (O) Diesel,Width,1790 mm
+KIA,SONET,Sonet HTE (O) Diesel,Height,1642 mm
+KIA,SONET,Sonet HTE (O) Diesel,Boot Space,385 Litres
+KIA,SONET,Sonet HTE (O) Diesel,Seating Capacity,5
+KIA,SONET,Sonet HTE (O) Diesel,Wheel Base,2500 mm
+KIA,SONET,Sonet HTE (O) Diesel,No. of Doors,5
+KIA,SONET,Sonet HTE (O) Diesel,Power Steering,YES
+KIA,SONET,Sonet HTE (O) Diesel,Air Conditioner,YES
+KIA,SONET,Sonet HTE (O) Diesel,Heater,YES
+KIA,SONET,Sonet HTE (O) Diesel,Adjustable Steering,Height only
+KIA,SONET,Sonet HTE (O) Diesel,Height Adjustable Driver Seat,NO
+KIA,SONET,Sonet HTE (O) Diesel,Ventilated Seats,NO
+KIA,SONET,Sonet HTE (O) Diesel,Electric Adjustable Seats,NO
+KIA,SONET,Sonet HTE (O) Diesel,Automatic Climate Control,NO
+KIA,SONET,Sonet HTE (O) Diesel,Air Quality Control,NO
+KIA,SONET,Sonet HTE (O) Diesel,Accessory Power Outlet,YES
+KIA,SONET,Sonet HTE (O) Diesel,Vanity Mirror,NO
+KIA,SONET,Sonet HTE (O) Diesel,Rear Reading Lamp,YES
+KIA,SONET,Sonet HTE (O) Diesel,Rear Seat Headrest,Integrated
+KIA,SONET,Sonet HTE (O) Diesel,Adjustable Headrest,YES
+KIA,SONET,Sonet HTE (O) Diesel,Rear Seat Centre Arm Rest,NO
+KIA,SONET,Sonet HTE (O) Diesel,Rear AC Vents,YES
+KIA,SONET,Sonet HTE (O) Diesel,Active noise cancellation,NO
+KIA,SONET,Sonet HTE (O) Diesel,Cruise Control,NO
+KIA,SONET,Sonet HTE (O) Diesel,Parking Sensors,Rear
+KIA,SONET,Sonet HTE (O) Diesel,Real-Time Vehicle Tracking,NO
+KIA,SONET,Sonet HTE (O) Diesel,Foldable Rear Seat,Bench Folding
+KIA,SONET,Sonet HTE (O) Diesel,KeyLess Entry,NO
+KIA,SONET,Sonet HTE (O) Diesel,Engine Start/Stop Button,NO
+KIA,SONET,Sonet HTE (O) Diesel,Voice Commands,NO
+KIA,SONET,Sonet HTE (O) Diesel,Paddle Shifters,NO
+KIA,SONET,Sonet HTE (O) Diesel,USB Charger,Front & Rear
+KIA,SONET,Sonet HTE (O) Diesel,Central Console Armrest,With Storage
+KIA,SONET,Sonet HTE (O) Diesel,Tailgate Ajar Warning,YES
+KIA,SONET,Sonet HTE (O) Diesel,Hands-Free Tailgate,NO
+KIA,SONET,Sonet HTE (O) Diesel,Gear Shift Indicator,YES
+KIA,SONET,Sonet HTE (O) Diesel,Luggage Hook & Net,YES
+KIA,SONET,Sonet HTE (O) Diesel,Battery Saver,YES
+KIA,SONET,Sonet HTE (O) Diesel,Drive Modes,NO
+KIA,SONET,Sonet HTE (O) Diesel,Idle Start-Stop System,YES
+KIA,SONET,Sonet HTE (O) Diesel,Rear Window Sunblind,YES
+KIA,SONET,Sonet HTE (O) Diesel,Automatic Headlamps,YES
+KIA,SONET,Sonet HTE (O) Diesel,Follow Me Home Headlamps,NO
+KIA,SONET,Sonet HTE (O) Diesel,Additional Features,Sunglass Holder
+KIA,SONET,Sonet HTE (O) Diesel,Drive Mode Types,NO
+KIA,SONET,Sonet HTE (O) Diesel,Power Windows,Front & Rear
+KIA,SONET,Sonet HTE (O) Diesel,Cup Holders,Front Only
+KIA,SONET,Sonet HTE (O) Diesel,Tachometer,YES
+KIA,SONET,Sonet HTE (O) Diesel,Leather Wrapped Steering Wheel,NO
+KIA,SONET,Sonet HTE (O) Diesel,Leather wrap gear-shift selector,NO
+KIA,SONET,Sonet HTE (O) Diesel,Glove Box,YES
+KIA,SONET,Sonet HTE (O) Diesel,Cigarette Lighter,NO
+KIA,SONET,Sonet HTE (O) Diesel,Folding Table in The Rear,NO
+KIA,SONET,Sonet HTE (O) Diesel,Dual Tone Dashboard,NO
+KIA,SONET,Sonet HTE (O) Diesel,Digital Cluster,YES
+KIA,SONET,Sonet HTE (O) Diesel,Digital Cluster Size,4.2
+KIA,SONET,Sonet HTE (O) Diesel,Upholstery,Leatherette
+KIA,SONET,Sonet HTE (O) Diesel,Adjustable Headlamps,YES
+KIA,SONET,Sonet HTE (O) Diesel,Headlamp Washers,NO
+KIA,SONET,Sonet HTE (O) Diesel,Rain Sensing Wiper,NO
+KIA,SONET,Sonet HTE (O) Diesel,Rear Window Wiper,NO
+KIA,SONET,Sonet HTE (O) Diesel,Rear Window Washer,NO
+KIA,SONET,Sonet HTE (O) Diesel,Rear Window Defogger,NO
+KIA,SONET,Sonet HTE (O) Diesel,Wheel Covers,YES
+KIA,SONET,Sonet HTE (O) Diesel,Alloy Wheels,NO
+KIA,SONET,Sonet HTE (O) Diesel,Tinted Glass,YES
+KIA,SONET,Sonet HTE (O) Diesel,Rear Spoiler,NO
+KIA,SONET,Sonet HTE (O) Diesel,Side Stepper,NO
+KIA,SONET,Sonet HTE (O) Diesel,Outside Rear View Mirror Turn Indicators,NO
+KIA,SONET,Sonet HTE (O) Diesel,Integrated Antenna,YES
+KIA,SONET,Sonet HTE (O) Diesel,Chrome Grille,YES
+KIA,SONET,Sonet HTE (O) Diesel,Smoke Headlamps,NO
+KIA,SONET,Sonet HTE (O) Diesel,Roof Rails,NO
+KIA,SONET,Sonet HTE (O) Diesel,Fog Lights,NO
+KIA,SONET,Sonet HTE (O) Diesel,Antenna,Pole Type
+KIA,SONET,Sonet HTE (O) Diesel,Sunroof,Single Pane
+KIA,SONET,Sonet HTE (O) Diesel,Boot Opening,Manual
+KIA,SONET,Sonet HTE (O) Diesel,Heated Outside Rear View Mirror,NO
+KIA,SONET,Sonet HTE (O) Diesel,Outside Rear View Mirror (ORVM),Powered
+KIA,SONET,Sonet HTE (O) Diesel,Tyre Size,195/65 R15
+KIA,SONET,Sonet HTE (O) Diesel,Tyre Type,Radial Tubeless
+KIA,SONET,Sonet HTE (O) Diesel,Wheel Size,15 Inch
+KIA,SONET,Sonet HTE (O) Diesel,LED DRLs,YES
+KIA,SONET,Sonet HTE (O) Diesel,LED Headlamps,NO
+KIA,SONET,Sonet HTE (O) Diesel,LED Taillights,YES
+KIA,SONET,Sonet HTE (O) Diesel,LED Fog Lamps,YES
+KIA,SONET,Sonet HTE (O) Diesel,Anti-lock Braking System (ABS),YES
+KIA,SONET,Sonet HTE (O) Diesel,Brake Assist,YES
+KIA,SONET,Sonet HTE (O) Diesel,Central Locking,YES
+KIA,SONET,Sonet HTE (O) Diesel,Child Safety Locks,YES
+KIA,SONET,Sonet HTE (O) Diesel,Anti-Theft Alarm,NO
+KIA,SONET,Sonet HTE (O) Diesel,No. of Airbags,6
+KIA,SONET,Sonet HTE (O) Diesel,Driver Airbag,YES
+KIA,SONET,Sonet HTE (O) Diesel,Passenger Airbag,YES
+KIA,SONET,Sonet HTE (O) Diesel,Side Airbag,YES
+KIA,SONET,Sonet HTE (O) Diesel,Side Airbag-Rear,NO
+KIA,SONET,Sonet HTE (O) Diesel,Day & Night Rear View Mirror,YES
+KIA,SONET,Sonet HTE (O) Diesel,Curtain Airbag,YES
+KIA,SONET,Sonet HTE (O) Diesel,Electronic Brakeforce Distribution (EBD),YES
+KIA,SONET,Sonet HTE (O) Diesel,Seat Belt Warning,YES
+KIA,SONET,Sonet HTE (O) Diesel,Door Ajar Warning,YES
+KIA,SONET,Sonet HTE (O) Diesel,Traction Control,NO
+KIA,SONET,Sonet HTE (O) Diesel,Tyre Pressure Monitoring System (TPMS),YES
+KIA,SONET,Sonet HTE (O) Diesel,Engine Immobilizer,YES
+KIA,SONET,Sonet HTE (O) Diesel,Electronic Stability Control (ESC),YES
+KIA,SONET,Sonet HTE (O) Diesel,Rear Camera,NO
+KIA,SONET,Sonet HTE (O) Diesel,Speed Alert,YES
+KIA,SONET,Sonet HTE (O) Diesel,Speed Sensing Auto Door Lock,YES
+KIA,SONET,Sonet HTE (O) Diesel,Knee Airbags,NO
+KIA,SONET,Sonet HTE (O) Diesel,ISOFIX Child Seat Mounts,YES
+KIA,SONET,Sonet HTE (O) Diesel,Heads-Up Display (HUD),NO
+KIA,SONET,Sonet HTE (O) Diesel,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+KIA,SONET,Sonet HTE (O) Diesel,Hill Descent Control,YES
+KIA,SONET,Sonet HTE (O) Diesel,Hill Assist,YES
+KIA,SONET,Sonet HTE (O) Diesel,Impact Sensing Auto Door Unlock,YES
+KIA,SONET,Sonet HTE (O) Diesel,360 View Camera,NO
+KIA,SONET,Sonet HTE (O) Diesel,Radio,NO
+KIA,SONET,Sonet HTE (O) Diesel,Integrated 2DIN Audio,NO
+KIA,SONET,Sonet HTE (O) Diesel,Wireless Phone Charging,NO
+KIA,SONET,Sonet HTE (O) Diesel,Bluetooth Connectivity,NO
+KIA,SONET,Sonet HTE (O) Diesel,Touchscreen,NO
+KIA,SONET,Sonet HTE (O) Diesel,Android Auto,NO
+KIA,SONET,Sonet HTE (O) Diesel,Apple CarPlay,NO
+KIA,SONET,Sonet HTE (O) Diesel,Usb Ports,YES
+KIA,SONET,Sonet HTE (O) Diesel,Additional Features,NO
+KIA,SONET,Sonet HTE (O) Diesel,Speakers,NO

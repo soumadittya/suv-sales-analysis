@@ -1,0 +1,127 @@
+company,model,variant,feature_name,feature_details
+HYUNDAI,VENUE,Venue HX 2 Turbo,Engine Type,1.0 l Kappa Turbo
+HYUNDAI,VENUE,Venue HX 2 Turbo,Displacement,998 cc
+HYUNDAI,VENUE,Venue HX 2 Turbo,Max Power,118bhp@6000rpm
+HYUNDAI,VENUE,Venue HX 2 Turbo,Max Torque,172Nm@1500-4000rpm
+HYUNDAI,VENUE,Venue HX 2 Turbo,No. of Cylinders,3
+HYUNDAI,VENUE,Venue HX 2 Turbo,Valves Per Cylinder,4
+HYUNDAI,VENUE,Venue HX 2 Turbo,Fuel Supply System,GDi
+HYUNDAI,VENUE,Venue HX 2 Turbo,Turbo Charger,YES
+HYUNDAI,VENUE,Venue HX 2 Turbo,Transmission Type,Manual
+HYUNDAI,VENUE,Venue HX 2 Turbo,Gearbox,6 - Speed
+HYUNDAI,VENUE,Venue HX 2 Turbo,Drive Type,FWD
+HYUNDAI,VENUE,Venue HX 2 Turbo,Fuel Type,Petrol
+HYUNDAI,VENUE,Venue HX 2 Turbo,Petrol Mileage ARAI,18.74 kmpl
+HYUNDAI,VENUE,Venue HX 2 Turbo,Petrol Fuel Tank Capacity,45 Litres
+HYUNDAI,VENUE,Venue HX 2 Turbo,Emission Norm Compliance,BS VI 2.0
+HYUNDAI,VENUE,Venue HX 2 Turbo,Front Suspension,MacPherson Strut suspension
+HYUNDAI,VENUE,Venue HX 2 Turbo,Rear Suspension,Rear twist beam
+HYUNDAI,VENUE,Venue HX 2 Turbo,Steering Type,Electric
+HYUNDAI,VENUE,Venue HX 2 Turbo,Steering Column,Tilt
+HYUNDAI,VENUE,Venue HX 2 Turbo,Front Brake Type,Disc
+HYUNDAI,VENUE,Venue HX 2 Turbo,Rear Brake Type,Drum
+HYUNDAI,VENUE,Venue HX 2 Turbo,Length,3995 mm
+HYUNDAI,VENUE,Venue HX 2 Turbo,Width,1800 mm
+HYUNDAI,VENUE,Venue HX 2 Turbo,Height,1665 mm
+HYUNDAI,VENUE,Venue HX 2 Turbo,Boot Space,375 Litres
+HYUNDAI,VENUE,Venue HX 2 Turbo,Seating Capacity,5
+HYUNDAI,VENUE,Venue HX 2 Turbo,Wheel Base,2520 mm
+HYUNDAI,VENUE,Venue HX 2 Turbo,No. of Doors,5
+HYUNDAI,VENUE,Venue HX 2 Turbo,Power Steering,YES
+HYUNDAI,VENUE,Venue HX 2 Turbo,Air Conditioner,YES
+HYUNDAI,VENUE,Venue HX 2 Turbo,Heater,YES
+HYUNDAI,VENUE,Venue HX 2 Turbo,Adjustable Steering,Height only
+HYUNDAI,VENUE,Venue HX 2 Turbo,Height Adjustable Driver Seat,NO
+HYUNDAI,VENUE,Venue HX 2 Turbo,Ventilated Seats,NO
+HYUNDAI,VENUE,Venue HX 2 Turbo,Electric Adjustable Seats,NO
+HYUNDAI,VENUE,Venue HX 2 Turbo,Automatic Climate Control,NO
+HYUNDAI,VENUE,Venue HX 2 Turbo,Accessory Power Outlet,YES
+HYUNDAI,VENUE,Venue HX 2 Turbo,Trunk Light,NO
+HYUNDAI,VENUE,Venue HX 2 Turbo,Vanity Mirror,NO
+HYUNDAI,VENUE,Venue HX 2 Turbo,Rear Seat Headrest,Integrated
+HYUNDAI,VENUE,Venue HX 2 Turbo,Adjustable Headrest,YES
+HYUNDAI,VENUE,Venue HX 2 Turbo,Rear Seat Centre Arm Rest,NO
+HYUNDAI,VENUE,Venue HX 2 Turbo,Rear AC Vents,YES
+HYUNDAI,VENUE,Venue HX 2 Turbo,Cruise Control,NO
+HYUNDAI,VENUE,Venue HX 2 Turbo,Parking Sensors,Rear
+HYUNDAI,VENUE,Venue HX 2 Turbo,Foldable Rear Seat,Bench Folding
+HYUNDAI,VENUE,Venue HX 2 Turbo,Smart Access Card Entry,YES
+HYUNDAI,VENUE,Venue HX 2 Turbo,KeyLess Entry,YES
+HYUNDAI,VENUE,Venue HX 2 Turbo,Engine Start/Stop Button,NO
+HYUNDAI,VENUE,Venue HX 2 Turbo,Cooled Glovebox,NO
+HYUNDAI,VENUE,Venue HX 2 Turbo,Voice Commands,YES
+HYUNDAI,VENUE,Venue HX 2 Turbo,Paddle Shifters,NO
+HYUNDAI,VENUE,Venue HX 2 Turbo,USB Charger,Front & Rear
+HYUNDAI,VENUE,Venue HX 2 Turbo,Central Console Armrest,NO
+HYUNDAI,VENUE,Venue HX 2 Turbo,Drive Modes,NO
+HYUNDAI,VENUE,Venue HX 2 Turbo,Idle Start-Stop System,NO
+HYUNDAI,VENUE,Venue HX 2 Turbo,Rear Window Sunblind,NO
+HYUNDAI,VENUE,Venue HX 2 Turbo,Automatic Headlamps,NO
+HYUNDAI,VENUE,Venue HX 2 Turbo,Follow Me Home Headlamps,YES
+HYUNDAI,VENUE,Venue HX 2 Turbo,Voice assisted sunroof,NO
+HYUNDAI,VENUE,Venue HX 2 Turbo,Drive Mode Types,NO
+HYUNDAI,VENUE,Venue HX 2 Turbo,Power Windows,Front & Rear
+HYUNDAI,VENUE,Venue HX 2 Turbo,Cup Holders,Front Only
+HYUNDAI,VENUE,Venue HX 2 Turbo,Tachometer,YES
+HYUNDAI,VENUE,Venue HX 2 Turbo,Glove Box,YES
+HYUNDAI,VENUE,Venue HX 2 Turbo,Digital Cluster,YES
+HYUNDAI,VENUE,Venue HX 2 Turbo,Digital Cluster Size,10.66
+HYUNDAI,VENUE,Venue HX 2 Turbo,Upholstery,Fabric
+HYUNDAI,VENUE,Venue HX 2 Turbo,Rear Window Wiper,NO
+HYUNDAI,VENUE,Venue HX 2 Turbo,Rear Window Washer,NO
+HYUNDAI,VENUE,Venue HX 2 Turbo,Rear Window Defogger,NO
+HYUNDAI,VENUE,Venue HX 2 Turbo,Wheel Covers,YES
+HYUNDAI,VENUE,Venue HX 2 Turbo,Alloy Wheels,NO
+HYUNDAI,VENUE,Venue HX 2 Turbo,Rear Spoiler,YES
+HYUNDAI,VENUE,Venue HX 2 Turbo,Outside Rear View Mirror Turn Indicators,NO
+HYUNDAI,VENUE,Venue HX 2 Turbo,Chrome Grille,NO
+HYUNDAI,VENUE,Venue HX 2 Turbo,Projector Headlamps,YES
+HYUNDAI,VENUE,Venue HX 2 Turbo,Roof Rails,NO
+HYUNDAI,VENUE,Venue HX 2 Turbo,Automatic Headlamps,NO
+HYUNDAI,VENUE,Venue HX 2 Turbo,Antenna,Shark Fin
+HYUNDAI,VENUE,Venue HX 2 Turbo,Sunroof,NO
+HYUNDAI,VENUE,Venue HX 2 Turbo,Puddle Lamps,NO
+HYUNDAI,VENUE,Venue HX 2 Turbo,Outside Rear View Mirror (ORVM),Powered
+HYUNDAI,VENUE,Venue HX 2 Turbo,Tyre Size,215/60 R16
+HYUNDAI,VENUE,Venue HX 2 Turbo,Tyre Type,Radial Tubeless
+HYUNDAI,VENUE,Venue HX 2 Turbo,Wheel Size,16 Inch
+HYUNDAI,VENUE,Venue HX 2 Turbo,LED DRLs,YES
+HYUNDAI,VENUE,Venue HX 2 Turbo,LED Taillights,YES
+HYUNDAI,VENUE,Venue HX 2 Turbo,Anti-lock Braking System (ABS),YES
+HYUNDAI,VENUE,Venue HX 2 Turbo,Central Locking,YES
+HYUNDAI,VENUE,Venue HX 2 Turbo,Child Safety Locks,YES
+HYUNDAI,VENUE,Venue HX 2 Turbo,Anti-Theft Alarm,YES
+HYUNDAI,VENUE,Venue HX 2 Turbo,No. of Airbags,6
+HYUNDAI,VENUE,Venue HX 2 Turbo,Driver Airbag,YES
+HYUNDAI,VENUE,Venue HX 2 Turbo,Passenger Airbag,YES
+HYUNDAI,VENUE,Venue HX 2 Turbo,Side Airbag,YES
+HYUNDAI,VENUE,Venue HX 2 Turbo,Side Airbag-Rear,NO
+HYUNDAI,VENUE,Venue HX 2 Turbo,Day & Night Rear View Mirror,YES
+HYUNDAI,VENUE,Venue HX 2 Turbo,Curtain Airbag,YES
+HYUNDAI,VENUE,Venue HX 2 Turbo,Electronic Brakeforce Distribution (EBD),YES
+HYUNDAI,VENUE,Venue HX 2 Turbo,Seat Belt Warning,YES
+HYUNDAI,VENUE,Venue HX 2 Turbo,Door Ajar Warning,YES
+HYUNDAI,VENUE,Venue HX 2 Turbo,Traction Control,NO
+HYUNDAI,VENUE,Venue HX 2 Turbo,Tyre Pressure Monitoring System (TPMS),NO
+HYUNDAI,VENUE,Venue HX 2 Turbo,Engine Immobilizer,YES
+HYUNDAI,VENUE,Venue HX 2 Turbo,Electronic Stability Control (ESC),YES
+HYUNDAI,VENUE,Venue HX 2 Turbo,Rear Camera,NO
+HYUNDAI,VENUE,Venue HX 2 Turbo,Speed Alert,YES
+HYUNDAI,VENUE,Venue HX 2 Turbo,Speed Sensing Auto Door Lock,YES
+HYUNDAI,VENUE,Venue HX 2 Turbo,ISOFIX Child Seat Mounts,YES
+HYUNDAI,VENUE,Venue HX 2 Turbo,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+HYUNDAI,VENUE,Venue HX 2 Turbo,Blind Spot Camera,NO
+HYUNDAI,VENUE,Venue HX 2 Turbo,Hill Assist,YES
+HYUNDAI,VENUE,Venue HX 2 Turbo,Impact Sensing Auto Door Unlock,YES
+HYUNDAI,VENUE,Venue HX 2 Turbo,360 View Camera,NO
+HYUNDAI,VENUE,Venue HX 2 Turbo,Radio,YES
+HYUNDAI,VENUE,Venue HX 2 Turbo,Wireless Phone Charging,NO
+HYUNDAI,VENUE,Venue HX 2 Turbo,Bluetooth Connectivity,YES
+HYUNDAI,VENUE,Venue HX 2 Turbo,Touchscreen,YES
+HYUNDAI,VENUE,Venue HX 2 Turbo,Touchscreen Size,10.25 inch
+HYUNDAI,VENUE,Venue HX 2 Turbo,Android Auto,YES
+HYUNDAI,VENUE,Venue HX 2 Turbo,Apple CarPlay,YES
+HYUNDAI,VENUE,Venue HX 2 Turbo,No. of Speakers,4
+HYUNDAI,VENUE,Venue HX 2 Turbo,Usb Ports,YES
+HYUNDAI,VENUE,Venue HX 2 Turbo,Additional Features,Wireless Android Auto and Apple Carplay
+HYUNDAI,VENUE,Venue HX 2 Turbo,Speakers,Front & Rear

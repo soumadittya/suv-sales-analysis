@@ -1,0 +1,140 @@
+company,model,variant,feature_name,feature_details
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Engine Type,K15C With Mild Hybrid System
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Displacement,1462 cc
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Max Power,101.64bhp@6000rpm
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Max Torque,139Nm@4300rpm
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,No. of Cylinders,4
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Valves Per Cylinder,4
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Transmission Type,Automatic
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Gearbox,6-Speed
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Drive Type,FWD
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Fuel Type,Petrol
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Petrol Mileage ARAI,20.58 kmpl
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Petrol Fuel Tank Capacity,45 Litres
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Petrol Highway Mileage,19.05 kmpl
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Emission Norm Compliance,BS VI 2.0
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Top Speed,135 kmph
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Front Suspension,MacPherson Strut suspension
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Rear Suspension,Rear twist beam
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Steering Type,Electric
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Steering Column,Tilt & Telescopic
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Steering Gear Type,Rack & Pinion
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Turning Radius,5.4 m
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Front Brake Type,Disc
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Rear Brake Type,Disc
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Braking (100-0kmph),46.87 s
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,0-100Kmph (Tested),15.13 s
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Alloy Wheel Size Front,17 Inch
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Alloy Wheel Size Rear,17 Inch
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,City driveability (20-80kmph),8.48 s
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Braking (80-0 kmph),29.41 s
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Length,4345 mm
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Width,1795 mm
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Height,1645 mm
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Boot Space,373 Litres
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Seating Capacity,5
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Ground Clearance Unladen,210 mm
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Wheel Base,2600 mm
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Kerb Weight,1180-1285 kg
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Gross Weight,1675 kg
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,No. of Doors,5
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Power Steering,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Air Conditioner,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Heater,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Height Adjustable Driver Seat,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Ventilated Seats,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Automatic Climate Control,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Accessory Power Outlet,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Trunk Light,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Vanity Mirror,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Rear Reading Lamp,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Adjustable Headrest,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Rear Seat Centre Arm Rest,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Height Adjustable Front Seat Belts,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Rear AC Vents,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Cruise Control,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Parking Sensors,Rear
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Real-Time Vehicle Tracking,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Foldable Rear Seat,60:40 Split
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,KeyLess Entry,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Engine Start/Stop Button,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Voice Commands,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Paddle Shifters,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,USB Charger,Rear
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Central Console Armrest,With Storage
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Gear Shift Indicator,NO
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Glove Box light,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Idle Start-Stop System,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Automatic Headlamps,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Follow Me Home Headlamps,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Additional Features,Sunglass Holder
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Tachometer,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Glove Box,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Digital Odometer,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Dual Tone Dashboard,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Digital Cluster,Semi
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Digital Cluster Size,7
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Upholstery,Fabric
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Adjustable Headlamps,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Rear Window Wiper,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Rear Window Washer,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Wheel Covers,NO
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Alloy Wheels,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Rear Spoiler,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Outside Rear View Mirror Turn Indicators,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Integrated Antenna,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Projector Headlamps,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Halogen Headlamps,NO
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Roof Rails,NO
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Antenna,Shark Fin
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Sunroof,NO
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Boot Opening,Manual
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Puddle Lamps,NO
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Outside Rear View Mirror (ORVM),Powered & Folding
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Tyre Size,215/60 R17
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Tyre Type,"Tubeless, Radial"
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,LED Headlamps,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,LED Taillights,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Anti-lock Braking System (ABS),YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Brake Assist,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Central Locking,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Child Safety Locks,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Anti-Theft Alarm,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,No. of Airbags,6
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Driver Airbag,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Passenger Airbag,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Side Airbag,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Side Airbag-Rear,NO
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Day & Night Rear View Mirror,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Curtain Airbag,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Electronic Brakeforce Distribution (EBD),YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Seat Belt Warning,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Door Ajar Warning,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Tyre Pressure Monitoring System (TPMS),NO
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Engine Immobilizer,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Electronic Stability Control (ESC),YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Rear Camera,With Guidedlines
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Anti-Theft Device,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Speed Alert,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Speed Sensing Auto Door Lock,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,ISOFIX Child Seat Mounts,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Heads-Up Display (HUD),NO
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Hill Descent Control,NO
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Hill Assist,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Impact Sensing Auto Door Unlock,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,360 View Camera,NO
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Radio,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Integrated 2DIN Audio,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Wireless Phone Charging,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Bluetooth Connectivity,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Touchscreen,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Touchscreen Size,9 inch
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Connectivity,"Android Auto, Apple CarPlay"
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Android Auto,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Apple CarPlay,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,No. of Speakers,4
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Usb Ports,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Tweeters,2
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Additional Features,"SmartPlay Pro+, Arkamys Sound Tuning"
+MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,Speakers,Front & Rear

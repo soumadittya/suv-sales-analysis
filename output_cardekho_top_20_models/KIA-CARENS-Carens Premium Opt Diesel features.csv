@@ -1,0 +1,149 @@
+company,model,variant,feature_name,feature_details
+KIA,CARENS,Carens Premium Opt Diesel,Engine Type,CRDi VGT
+KIA,CARENS,Carens Premium Opt Diesel,Displacement,1493 cc
+KIA,CARENS,Carens Premium Opt Diesel,Max Power,114.41bhp@4000rpm
+KIA,CARENS,Carens Premium Opt Diesel,Max Torque,250Nm@1500-2750rpm
+KIA,CARENS,Carens Premium Opt Diesel,No. of Cylinders,4
+KIA,CARENS,Carens Premium Opt Diesel,Valves Per Cylinder,4
+KIA,CARENS,Carens Premium Opt Diesel,Fuel Supply System,CRDi
+KIA,CARENS,Carens Premium Opt Diesel,Turbo Charger,YES
+KIA,CARENS,Carens Premium Opt Diesel,Transmission Type,Manual
+KIA,CARENS,Carens Premium Opt Diesel,Gearbox,6-Speed
+KIA,CARENS,Carens Premium Opt Diesel,Drive Type,FWD
+KIA,CARENS,Carens Premium Opt Diesel,Fuel Type,Diesel
+KIA,CARENS,Carens Premium Opt Diesel,Diesel Fuel Tank Capacity,45 Litres
+KIA,CARENS,Carens Premium Opt Diesel,Diesel Highway Mileage,15.58 kmpl
+KIA,CARENS,Carens Premium Opt Diesel,Emission Norm Compliance,BS VI 2.0
+KIA,CARENS,Carens Premium Opt Diesel,Top Speed,174 kmph
+KIA,CARENS,Carens Premium Opt Diesel,Front Suspension,MacPherson Strut suspension
+KIA,CARENS,Carens Premium Opt Diesel,Rear Suspension,Rear twist beam
+KIA,CARENS,Carens Premium Opt Diesel,Steering Type,Electric
+KIA,CARENS,Carens Premium Opt Diesel,Steering Column,Tilt
+KIA,CARENS,Carens Premium Opt Diesel,Front Brake Type,Disc
+KIA,CARENS,Carens Premium Opt Diesel,Rear Brake Type,Disc
+KIA,CARENS,Carens Premium Opt Diesel,Length,4540 mm
+KIA,CARENS,Carens Premium Opt Diesel,Width,1800 mm
+KIA,CARENS,Carens Premium Opt Diesel,Height,1708 mm
+KIA,CARENS,Carens Premium Opt Diesel,Boot Space,216 Litres
+KIA,CARENS,Carens Premium Opt Diesel,Seating Capacity,7
+KIA,CARENS,Carens Premium Opt Diesel,Wheel Base,2780 mm
+KIA,CARENS,Carens Premium Opt Diesel,No. of Doors,5
+KIA,CARENS,Carens Premium Opt Diesel,Power Steering,YES
+KIA,CARENS,Carens Premium Opt Diesel,Air Conditioner,YES
+KIA,CARENS,Carens Premium Opt Diesel,Heater,YES
+KIA,CARENS,Carens Premium Opt Diesel,Height Adjustable Driver Seat,YES
+KIA,CARENS,Carens Premium Opt Diesel,Ventilated Seats,NO
+KIA,CARENS,Carens Premium Opt Diesel,Electric Adjustable Seats,NO
+KIA,CARENS,Carens Premium Opt Diesel,Automatic Climate Control,NO
+KIA,CARENS,Carens Premium Opt Diesel,Air Quality Control,NO
+KIA,CARENS,Carens Premium Opt Diesel,Remote Fuel Lid Opener,NO
+KIA,CARENS,Carens Premium Opt Diesel,Accessory Power Outlet,YES
+KIA,CARENS,Carens Premium Opt Diesel,Trunk Light,NO
+KIA,CARENS,Carens Premium Opt Diesel,Vanity Mirror,YES
+KIA,CARENS,Carens Premium Opt Diesel,Rear Reading Lamp,YES
+KIA,CARENS,Carens Premium Opt Diesel,Adjustable Headrest,YES
+KIA,CARENS,Carens Premium Opt Diesel,Rear Seat Centre Arm Rest,YES
+KIA,CARENS,Carens Premium Opt Diesel,Height Adjustable Front Seat Belts,NO
+KIA,CARENS,Carens Premium Opt Diesel,Rear AC Vents,YES
+KIA,CARENS,Carens Premium Opt Diesel,Cruise Control,NO
+KIA,CARENS,Carens Premium Opt Diesel,Parking Sensors,Front & Rear
+KIA,CARENS,Carens Premium Opt Diesel,Foldable Rear Seat,60:40 Split
+KIA,CARENS,Carens Premium Opt Diesel,KeyLess Entry,YES
+KIA,CARENS,Carens Premium Opt Diesel,Engine Start/Stop Button,NO
+KIA,CARENS,Carens Premium Opt Diesel,Voice Commands,YES
+KIA,CARENS,Carens Premium Opt Diesel,Paddle Shifters,NO
+KIA,CARENS,Carens Premium Opt Diesel,USB Charger,Front & Rear
+KIA,CARENS,Carens Premium Opt Diesel,Central Console Armrest,With Storage
+KIA,CARENS,Carens Premium Opt Diesel,Luggage Hook & Net,YES
+KIA,CARENS,Carens Premium Opt Diesel,Drive Modes,NO
+KIA,CARENS,Carens Premium Opt Diesel,Idle Start-Stop System,YES
+KIA,CARENS,Carens Premium Opt Diesel,Rear Window Sunblind,YES
+KIA,CARENS,Carens Premium Opt Diesel,Rear Windscreen Sunblind,NO
+KIA,CARENS,Carens Premium Opt Diesel,Automatic Headlamps,NO
+KIA,CARENS,Carens Premium Opt Diesel,Follow Me Home Headlamps,YES
+KIA,CARENS,Carens Premium Opt Diesel,Voice assisted sunroof,NO
+KIA,CARENS,Carens Premium Opt Diesel,Drive Mode Types,NO
+KIA,CARENS,Carens Premium Opt Diesel,Power Windows,Front & Rear
+KIA,CARENS,Carens Premium Opt Diesel,Cup Holders,Front & Rear
+KIA,CARENS,Carens Premium Opt Diesel,Tachometer,YES
+KIA,CARENS,Carens Premium Opt Diesel,Leather Wrapped Steering Wheel,NO
+KIA,CARENS,Carens Premium Opt Diesel,Leather wrap gear-shift selector,NO
+KIA,CARENS,Carens Premium Opt Diesel,Glove Box,YES
+KIA,CARENS,Carens Premium Opt Diesel,Folding Table in The Rear,NO
+KIA,CARENS,Carens Premium Opt Diesel,Dual Tone Dashboard,YES
+KIA,CARENS,Carens Premium Opt Diesel,Digital Cluster,YES
+KIA,CARENS,Carens Premium Opt Diesel,Digital Cluster Size,4.2
+KIA,CARENS,Carens Premium Opt Diesel,Upholstery,Fabric
+KIA,CARENS,Carens Premium Opt Diesel,Ambient Light Colour (numbers),NO
+KIA,CARENS,Carens Premium Opt Diesel,Adjustable Headlamps,YES
+KIA,CARENS,Carens Premium Opt Diesel,Rain Sensing Wiper,NO
+KIA,CARENS,Carens Premium Opt Diesel,Rear Window Wiper,NO
+KIA,CARENS,Carens Premium Opt Diesel,Rear Window Washer,NO
+KIA,CARENS,Carens Premium Opt Diesel,Rear Window Defogger,NO
+KIA,CARENS,Carens Premium Opt Diesel,Wheel Covers,YES
+KIA,CARENS,Carens Premium Opt Diesel,Alloy Wheels,NO
+KIA,CARENS,Carens Premium Opt Diesel,Rear Spoiler,YES
+KIA,CARENS,Carens Premium Opt Diesel,Side Stepper,NO
+KIA,CARENS,Carens Premium Opt Diesel,Outside Rear View Mirror Turn Indicators,YES
+KIA,CARENS,Carens Premium Opt Diesel,Integrated Antenna,YES
+KIA,CARENS,Carens Premium Opt Diesel,Chrome Grille,NO
+KIA,CARENS,Carens Premium Opt Diesel,Chrome Garnish,YES
+KIA,CARENS,Carens Premium Opt Diesel,Halogen Headlamps,YES
+KIA,CARENS,Carens Premium Opt Diesel,Roof Rails,YES
+KIA,CARENS,Carens Premium Opt Diesel,Fog Lights,NO
+KIA,CARENS,Carens Premium Opt Diesel,Antenna,Shark Fin
+KIA,CARENS,Carens Premium Opt Diesel,Sunroof,NO
+KIA,CARENS,Carens Premium Opt Diesel,Boot Opening,Electronic
+KIA,CARENS,Carens Premium Opt Diesel,Heated Outside Rear View Mirror,NO
+KIA,CARENS,Carens Premium Opt Diesel,Outside Rear View Mirror (ORVM),Powered
+KIA,CARENS,Carens Premium Opt Diesel,Tyre Size,205/65 R16
+KIA,CARENS,Carens Premium Opt Diesel,Tyre Type,Radial Tubeless
+KIA,CARENS,Carens Premium Opt Diesel,Wheel Size,16 Inch
+KIA,CARENS,Carens Premium Opt Diesel,LED DRLs,YES
+KIA,CARENS,Carens Premium Opt Diesel,LED Headlamps,NO
+KIA,CARENS,Carens Premium Opt Diesel,LED Taillights,NO
+KIA,CARENS,Carens Premium Opt Diesel,LED Fog Lamps,NO
+KIA,CARENS,Carens Premium Opt Diesel,Anti-lock Braking System (ABS),YES
+KIA,CARENS,Carens Premium Opt Diesel,Brake Assist,YES
+KIA,CARENS,Carens Premium Opt Diesel,Central Locking,YES
+KIA,CARENS,Carens Premium Opt Diesel,Child Safety Locks,YES
+KIA,CARENS,Carens Premium Opt Diesel,Anti-Theft Alarm,YES
+KIA,CARENS,Carens Premium Opt Diesel,No. of Airbags,6
+KIA,CARENS,Carens Premium Opt Diesel,Driver Airbag,YES
+KIA,CARENS,Carens Premium Opt Diesel,Passenger Airbag,YES
+KIA,CARENS,Carens Premium Opt Diesel,Side Airbag,YES
+KIA,CARENS,Carens Premium Opt Diesel,Side Airbag-Rear,NO
+KIA,CARENS,Carens Premium Opt Diesel,Day & Night Rear View Mirror,YES
+KIA,CARENS,Carens Premium Opt Diesel,Curtain Airbag,YES
+KIA,CARENS,Carens Premium Opt Diesel,Electronic Brakeforce Distribution (EBD),YES
+KIA,CARENS,Carens Premium Opt Diesel,Seat Belt Warning,YES
+KIA,CARENS,Carens Premium Opt Diesel,Door Ajar Warning,YES
+KIA,CARENS,Carens Premium Opt Diesel,Tyre Pressure Monitoring System (TPMS),YES
+KIA,CARENS,Carens Premium Opt Diesel,Engine Immobilizer,YES
+KIA,CARENS,Carens Premium Opt Diesel,Electronic Stability Control (ESC),YES
+KIA,CARENS,Carens Premium Opt Diesel,Rear Camera,With Guidedlines
+KIA,CARENS,Carens Premium Opt Diesel,Speed Alert,YES
+KIA,CARENS,Carens Premium Opt Diesel,Speed Sensing Auto Door Lock,YES
+KIA,CARENS,Carens Premium Opt Diesel,ISOFIX Child Seat Mounts,YES
+KIA,CARENS,Carens Premium Opt Diesel,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+KIA,CARENS,Carens Premium Opt Diesel,Hill Descent Control,YES
+KIA,CARENS,Carens Premium Opt Diesel,Hill Assist,YES
+KIA,CARENS,Carens Premium Opt Diesel,Impact Sensing Auto Door Unlock,YES
+KIA,CARENS,Carens Premium Opt Diesel,Global NCAP Safety Rating,3 Star
+KIA,CARENS,Carens Premium Opt Diesel,Global NCAP Child Safety Rating,5 Star
+KIA,CARENS,Carens Premium Opt Diesel,Radio,YES
+KIA,CARENS,Carens Premium Opt Diesel,Integrated 2DIN Audio,YES
+KIA,CARENS,Carens Premium Opt Diesel,Wireless Phone Charging,NO
+KIA,CARENS,Carens Premium Opt Diesel,Bluetooth Connectivity,YES
+KIA,CARENS,Carens Premium Opt Diesel,Touchscreen,YES
+KIA,CARENS,Carens Premium Opt Diesel,Touchscreen Size,8 inch
+KIA,CARENS,Carens Premium Opt Diesel,Connectivity,"Android Auto, Apple CarPlay"
+KIA,CARENS,Carens Premium Opt Diesel,Android Auto,YES
+KIA,CARENS,Carens Premium Opt Diesel,Apple CarPlay,YES
+KIA,CARENS,Carens Premium Opt Diesel,No. of Speakers,4
+KIA,CARENS,Carens Premium Opt Diesel,Rear Entertainment System,NO
+KIA,CARENS,Carens Premium Opt Diesel,Usb Ports,YES
+KIA,CARENS,Carens Premium Opt Diesel,Tweeters,2
+KIA,CARENS,Carens Premium Opt Diesel,Rear Touchscreen,NO
+KIA,CARENS,Carens Premium Opt Diesel,Additional Features,"Smart Phone Wireless Charger with (Android Auto, Apple CarPlay), BOSE Premium Sound System with 8 Speakers"
+KIA,CARENS,Carens Premium Opt Diesel,Speakers,Front & Rear
