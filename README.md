@@ -81,29 +81,3 @@ Analyzes core vehicle specifications such as:
     • Mileage
 
 Includes comparison charts and pattern visualizations to understand what specifications top-selling SUVs share.
-
-**📘 safety.ipynb**
-
-Focuses on safety-related data such as:
-    • Number of airbags
-    • ABS, EBD, ESC, Hill Assist
-    • 5-star / 4-star safety ratings (if available)
-    • Safety equipment distribution across models
-
-This notebook helps identify whether safety contributes meaningfully to higher sales.
-
-**📘 essentials.ipynb**
-
-Covers customer-essential features like:
-    • Infotainment
-    • Sunroof (single/double)
-    • Cruise control
-    • Rear camera & sensors
-    • Connected car features
-    • Automatic climate control
-
-It visualizes which essential features appear most frequently among top sellers.
-
-**📘 others.ipynb**
-
-Includes analysis of all remaining features which people might like to have but are not essential such as sunroof, etc.
