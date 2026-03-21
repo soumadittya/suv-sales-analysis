@@ -1,3 +1,5 @@
+📊 Decoding India’s SUV Market: A Full Data Scraping & Analysis Project (2020–2025)
+
 This project presents a complete analysis of the Indian SUV market, focusing on the top 20 most-sold SUVs between 2020 and 2025. It studies each vehicle’s sales performance alongside its key specifications to understand which characteristics customers value the most—such as size, engine displacement, pricing, and feature set. By combining sales insights with technical attributes, the project highlights which SUVs dominate the market, which price segments attract buyers, and what patterns emerge across the highest-selling models, offering a clear, data-driven picture of India’s evolving SUV preferences.
 
 
