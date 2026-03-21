@@ -1,0 +1,115 @@
+company,model,variant,feature_name,feature_details
+HYUNDAI,EXTER,Exter SX Knight,Engine Type,1.2 l Kappa
+HYUNDAI,EXTER,Exter SX Knight,Displacement,1197 cc
+HYUNDAI,EXTER,Exter SX Knight,Max Power,81.8bhp@6000rpm
+HYUNDAI,EXTER,Exter SX Knight,Max Torque,113.8Nm@4000rpm
+HYUNDAI,EXTER,Exter SX Knight,No. of Cylinders,4
+HYUNDAI,EXTER,Exter SX Knight,Valves Per Cylinder,4
+HYUNDAI,EXTER,Exter SX Knight,Transmission Type,Manual
+HYUNDAI,EXTER,Exter SX Knight,Gearbox,5-Speed
+HYUNDAI,EXTER,Exter SX Knight,Drive Type,FWD
+HYUNDAI,EXTER,Exter SX Knight,Fuel Type,Petrol
+HYUNDAI,EXTER,Exter SX Knight,Petrol Mileage ARAI,19.4 kmpl
+HYUNDAI,EXTER,Exter SX Knight,Petrol Fuel Tank Capacity,37 Litres
+HYUNDAI,EXTER,Exter SX Knight,Emission Norm Compliance,BS VI 2.0
+HYUNDAI,EXTER,Exter SX Knight,Front Suspension,MacPherson Strut suspension
+HYUNDAI,EXTER,Exter SX Knight,Rear Suspension,Rear twist beam
+HYUNDAI,EXTER,Exter SX Knight,Shock Absorbers Type,Gas Type
+HYUNDAI,EXTER,Exter SX Knight,Steering Type,Electric
+HYUNDAI,EXTER,Exter SX Knight,Steering Column,Tilt
+HYUNDAI,EXTER,Exter SX Knight,Front Brake Type,Disc
+HYUNDAI,EXTER,Exter SX Knight,Rear Brake Type,Drum
+HYUNDAI,EXTER,Exter SX Knight,Length,3815 mm
+HYUNDAI,EXTER,Exter SX Knight,Width,1710 mm
+HYUNDAI,EXTER,Exter SX Knight,Height,1631 mm
+HYUNDAI,EXTER,Exter SX Knight,Seating Capacity,5
+HYUNDAI,EXTER,Exter SX Knight,Wheel Base,2450 mm
+HYUNDAI,EXTER,Exter SX Knight,No. of Doors,5
+HYUNDAI,EXTER,Exter SX Knight,Reported Boot Space,391 Litres
+HYUNDAI,EXTER,Exter SX Knight,Power Steering,YES
+HYUNDAI,EXTER,Exter SX Knight,Air Conditioner,YES
+HYUNDAI,EXTER,Exter SX Knight,Heater,YES
+HYUNDAI,EXTER,Exter SX Knight,Height Adjustable Driver Seat,YES
+HYUNDAI,EXTER,Exter SX Knight,Automatic Climate Control,YES
+HYUNDAI,EXTER,Exter SX Knight,Accessory Power Outlet,YES
+HYUNDAI,EXTER,Exter SX Knight,Trunk Light,NO
+HYUNDAI,EXTER,Exter SX Knight,Vanity Mirror,YES
+HYUNDAI,EXTER,Exter SX Knight,Rear Reading Lamp,YES
+HYUNDAI,EXTER,Exter SX Knight,Rear Seat Headrest,Adjustable
+HYUNDAI,EXTER,Exter SX Knight,Rear AC Vents,YES
+HYUNDAI,EXTER,Exter SX Knight,Cruise Control,YES
+HYUNDAI,EXTER,Exter SX Knight,Parking Sensors,Rear
+HYUNDAI,EXTER,Exter SX Knight,Foldable Rear Seat,Bench Folding
+HYUNDAI,EXTER,Exter SX Knight,KeyLess Entry,YES
+HYUNDAI,EXTER,Exter SX Knight,Engine Start/Stop Button,NO
+HYUNDAI,EXTER,Exter SX Knight,Cooled Glovebox,NO
+HYUNDAI,EXTER,Exter SX Knight,Voice Commands,YES
+HYUNDAI,EXTER,Exter SX Knight,Paddle Shifters,NO
+HYUNDAI,EXTER,Exter SX Knight,USB Charger,Front
+HYUNDAI,EXTER,Exter SX Knight,Tailgate Ajar Warning,YES
+HYUNDAI,EXTER,Exter SX Knight,Luggage Hook & Net,YES
+HYUNDAI,EXTER,Exter SX Knight,Idle Start-Stop System,YES
+HYUNDAI,EXTER,Exter SX Knight,Automatic Headlamps,NO
+HYUNDAI,EXTER,Exter SX Knight,Follow Me Home Headlamps,YES
+HYUNDAI,EXTER,Exter SX Knight,Additional Features,Rear parcel tray
+HYUNDAI,EXTER,Exter SX Knight,Voice assisted sunroof,NO
+HYUNDAI,EXTER,Exter SX Knight,Power Windows,Front & Rear
+HYUNDAI,EXTER,Exter SX Knight,Tachometer,YES
+HYUNDAI,EXTER,Exter SX Knight,Glove Box,YES
+HYUNDAI,EXTER,Exter SX Knight,Digital Cluster,YES
+HYUNDAI,EXTER,Exter SX Knight,Upholstery,Leatherette
+HYUNDAI,EXTER,Exter SX Knight,Adjustable Headlamps,YES
+HYUNDAI,EXTER,Exter SX Knight,Rear Window Wiper,NO
+HYUNDAI,EXTER,Exter SX Knight,Rear Window Washer,NO
+HYUNDAI,EXTER,Exter SX Knight,Rear Window Defogger,YES
+HYUNDAI,EXTER,Exter SX Knight,Wheel Covers,YES
+HYUNDAI,EXTER,Exter SX Knight,Alloy Wheels,NO
+HYUNDAI,EXTER,Exter SX Knight,Rear Spoiler,YES
+HYUNDAI,EXTER,Exter SX Knight,Outside Rear View Mirror Turn Indicators,YES
+HYUNDAI,EXTER,Exter SX Knight,Projector Headlamps,YES
+HYUNDAI,EXTER,Exter SX Knight,Halogen Headlamps,NO
+HYUNDAI,EXTER,Exter SX Knight,Roof Rails,YES
+HYUNDAI,EXTER,Exter SX Knight,Antenna,Shark fin
+HYUNDAI,EXTER,Exter SX Knight,Sunroof,Single Pane
+HYUNDAI,EXTER,Exter SX Knight,Boot Opening,Electronic
+HYUNDAI,EXTER,Exter SX Knight,Outside Rear View Mirror (ORVM),Powered & Folding
+HYUNDAI,EXTER,Exter SX Knight,Tyre Size,175/65 R15
+HYUNDAI,EXTER,Exter SX Knight,Tyre Type,Radial Tubeless
+HYUNDAI,EXTER,Exter SX Knight,Wheel Size,15 Inch
+HYUNDAI,EXTER,Exter SX Knight,LED DRLs,YES
+HYUNDAI,EXTER,Exter SX Knight,LED Taillights,YES
+HYUNDAI,EXTER,Exter SX Knight,Anti-lock Braking System (ABS),YES
+HYUNDAI,EXTER,Exter SX Knight,Central Locking,YES
+HYUNDAI,EXTER,Exter SX Knight,Child Safety Locks,YES
+HYUNDAI,EXTER,Exter SX Knight,Anti-Theft Alarm,YES
+HYUNDAI,EXTER,Exter SX Knight,No. of Airbags,6
+HYUNDAI,EXTER,Exter SX Knight,Driver Airbag,YES
+HYUNDAI,EXTER,Exter SX Knight,Passenger Airbag,YES
+HYUNDAI,EXTER,Exter SX Knight,Side Airbag,YES
+HYUNDAI,EXTER,Exter SX Knight,Side Airbag-Rear,NO
+HYUNDAI,EXTER,Exter SX Knight,Day & Night Rear View Mirror,YES
+HYUNDAI,EXTER,Exter SX Knight,Curtain Airbag,YES
+HYUNDAI,EXTER,Exter SX Knight,Electronic Brakeforce Distribution (EBD),YES
+HYUNDAI,EXTER,Exter SX Knight,Seat Belt Warning,YES
+HYUNDAI,EXTER,Exter SX Knight,Door Ajar Warning,YES
+HYUNDAI,EXTER,Exter SX Knight,Tyre Pressure Monitoring System (TPMS),YES
+HYUNDAI,EXTER,Exter SX Knight,Engine Immobilizer,YES
+HYUNDAI,EXTER,Exter SX Knight,Electronic Stability Control (ESC),YES
+HYUNDAI,EXTER,Exter SX Knight,Rear Camera,With Guidedlines
+HYUNDAI,EXTER,Exter SX Knight,Anti-Theft Device,YES
+HYUNDAI,EXTER,Exter SX Knight,Speed Alert,YES
+HYUNDAI,EXTER,Exter SX Knight,Speed Sensing Auto Door Lock,YES
+HYUNDAI,EXTER,Exter SX Knight,ISOFIX Child Seat Mounts,YES
+HYUNDAI,EXTER,Exter SX Knight,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+HYUNDAI,EXTER,Exter SX Knight,Hill Assist,YES
+HYUNDAI,EXTER,Exter SX Knight,Impact Sensing Auto Door Unlock,YES
+HYUNDAI,EXTER,Exter SX Knight,Radio,YES
+HYUNDAI,EXTER,Exter SX Knight,Wireless Phone Charging,NO
+HYUNDAI,EXTER,Exter SX Knight,Bluetooth Connectivity,YES
+HYUNDAI,EXTER,Exter SX Knight,Touchscreen,YES
+HYUNDAI,EXTER,Exter SX Knight,Touchscreen Size,8 inch
+HYUNDAI,EXTER,Exter SX Knight,Android Auto,YES
+HYUNDAI,EXTER,Exter SX Knight,Apple CarPlay,YES
+HYUNDAI,EXTER,Exter SX Knight,Usb Ports,YES
+HYUNDAI,EXTER,Exter SX Knight,Inbuilt Apps,NO
+HYUNDAI,EXTER,Exter SX Knight,Speakers,Front & Rear

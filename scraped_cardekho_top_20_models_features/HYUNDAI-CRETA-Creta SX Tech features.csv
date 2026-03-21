@@ -1,0 +1,140 @@
+company,model,variant,feature_name,feature_details
+HYUNDAI,CRETA,Creta SX Tech,Engine Type,1.5L MPi
+HYUNDAI,CRETA,Creta SX Tech,Displacement,1497 cc
+HYUNDAI,CRETA,Creta SX Tech,Max Power,113.18bhp@6300rpm
+HYUNDAI,CRETA,Creta SX Tech,Max Torque,143.8Nm@4500rpm
+HYUNDAI,CRETA,Creta SX Tech,No. of Cylinders,4
+HYUNDAI,CRETA,Creta SX Tech,Valves Per Cylinder,4
+HYUNDAI,CRETA,Creta SX Tech,Valve Configuration,DOHC
+HYUNDAI,CRETA,Creta SX Tech,Fuel Supply System,MPi
+HYUNDAI,CRETA,Creta SX Tech,Turbo Charger,NO
+HYUNDAI,CRETA,Creta SX Tech,Transmission Type,Manual
+HYUNDAI,CRETA,Creta SX Tech,Gearbox,6-Speed
+HYUNDAI,CRETA,Creta SX Tech,Drive Type,FWD
+HYUNDAI,CRETA,Creta SX Tech,Fuel Type,Petrol
+HYUNDAI,CRETA,Creta SX Tech,Petrol Mileage ARAI,17.4 kmpl
+HYUNDAI,CRETA,Creta SX Tech,Petrol Fuel Tank Capacity,50 Litres
+HYUNDAI,CRETA,Creta SX Tech,Emission Norm Compliance,BS VI 2.0
+HYUNDAI,CRETA,Creta SX Tech,Front Suspension,MacPherson Strut suspension
+HYUNDAI,CRETA,Creta SX Tech,Rear Suspension,Rear twist beam
+HYUNDAI,CRETA,Creta SX Tech,Steering Type,Electric
+HYUNDAI,CRETA,Creta SX Tech,Steering Column,Tilt & Telescopic
+HYUNDAI,CRETA,Creta SX Tech,Turning Radius,5.3 m
+HYUNDAI,CRETA,Creta SX Tech,Front Brake Type,Disc
+HYUNDAI,CRETA,Creta SX Tech,Rear Brake Type,Disc
+HYUNDAI,CRETA,Creta SX Tech,Alloy Wheel Size Front,18 Inch
+HYUNDAI,CRETA,Creta SX Tech,Alloy Wheel Size Rear,18 Inch
+HYUNDAI,CRETA,Creta SX Tech,Length,4330 mm
+HYUNDAI,CRETA,Creta SX Tech,Width,1790 mm
+HYUNDAI,CRETA,Creta SX Tech,Height,1635 mm
+HYUNDAI,CRETA,Creta SX Tech,Seating Capacity,5
+HYUNDAI,CRETA,Creta SX Tech,Ground Clearance Unladen,190 mm
+HYUNDAI,CRETA,Creta SX Tech,Wheel Base,2610 mm
+HYUNDAI,CRETA,Creta SX Tech,No. of Doors,5
+HYUNDAI,CRETA,Creta SX Tech,Reported Boot Space,433 Litres
+HYUNDAI,CRETA,Creta SX Tech,Power Steering,YES
+HYUNDAI,CRETA,Creta SX Tech,Air Conditioner,YES
+HYUNDAI,CRETA,Creta SX Tech,Heater,YES
+HYUNDAI,CRETA,Creta SX Tech,Height Adjustable Driver Seat,YES
+HYUNDAI,CRETA,Creta SX Tech,Ventilated Seats,NO
+HYUNDAI,CRETA,Creta SX Tech,Electric Adjustable Seats,NO
+HYUNDAI,CRETA,Creta SX Tech,Automatic Climate Control,YES
+HYUNDAI,CRETA,Creta SX Tech,Accessory Power Outlet,YES
+HYUNDAI,CRETA,Creta SX Tech,Trunk Light,YES
+HYUNDAI,CRETA,Creta SX Tech,Vanity Mirror,YES
+HYUNDAI,CRETA,Creta SX Tech,Rear Reading Lamp,YES
+HYUNDAI,CRETA,Creta SX Tech,Adjustable Headrest,YES
+HYUNDAI,CRETA,Creta SX Tech,Rear Seat Centre Arm Rest,YES
+HYUNDAI,CRETA,Creta SX Tech,Height Adjustable Front Seat Belts,YES
+HYUNDAI,CRETA,Creta SX Tech,Rear AC Vents,YES
+HYUNDAI,CRETA,Creta SX Tech,Cruise Control,YES
+HYUNDAI,CRETA,Creta SX Tech,Parking Sensors,Rear
+HYUNDAI,CRETA,Creta SX Tech,Foldable Rear Seat,60:40 Split
+HYUNDAI,CRETA,Creta SX Tech,KeyLess Entry,YES
+HYUNDAI,CRETA,Creta SX Tech,Engine Start/Stop Button,YES
+HYUNDAI,CRETA,Creta SX Tech,Cooled Glovebox,YES
+HYUNDAI,CRETA,Creta SX Tech,Voice Commands,YES
+HYUNDAI,CRETA,Creta SX Tech,Paddle Shifters,NO
+HYUNDAI,CRETA,Creta SX Tech,USB Charger,Front & Rear
+HYUNDAI,CRETA,Creta SX Tech,Central Console Armrest,With Storage
+HYUNDAI,CRETA,Creta SX Tech,Hands-Free Tailgate,NO
+HYUNDAI,CRETA,Creta SX Tech,Idle Start-Stop System,YES
+HYUNDAI,CRETA,Creta SX Tech,Rear Window Sunblind,YES
+HYUNDAI,CRETA,Creta SX Tech,Automatic Headlamps,YES
+HYUNDAI,CRETA,Creta SX Tech,Follow Me Home Headlamps,YES
+HYUNDAI,CRETA,Creta SX Tech,Additional Features,Sunglass holder
+HYUNDAI,CRETA,Creta SX Tech,Voice assisted sunroof,YES
+HYUNDAI,CRETA,Creta SX Tech,Drive Mode Types,NA
+HYUNDAI,CRETA,Creta SX Tech,Power Windows,Front & Rear
+HYUNDAI,CRETA,Creta SX Tech,Tachometer,YES
+HYUNDAI,CRETA,Creta SX Tech,Glove Box,YES
+HYUNDAI,CRETA,Creta SX Tech,Digital Odometer,YES
+HYUNDAI,CRETA,Creta SX Tech,Dual Tone Dashboard,YES
+HYUNDAI,CRETA,Creta SX Tech,Additional Features,Rear parcel tray
+HYUNDAI,CRETA,Creta SX Tech,Digital Cluster,YES
+HYUNDAI,CRETA,Creta SX Tech,Upholstery,Leatherette
+HYUNDAI,CRETA,Creta SX Tech,Rear Window Wiper,YES
+HYUNDAI,CRETA,Creta SX Tech,Rear Window Washer,YES
+HYUNDAI,CRETA,Creta SX Tech,Rear Window Defogger,YES
+HYUNDAI,CRETA,Creta SX Tech,Wheel Covers,NO
+HYUNDAI,CRETA,Creta SX Tech,Alloy Wheels,YES
+HYUNDAI,CRETA,Creta SX Tech,Rear Spoiler,YES
+HYUNDAI,CRETA,Creta SX Tech,Outside Rear View Mirror Turn Indicators,YES
+HYUNDAI,CRETA,Creta SX Tech,Integrated Antenna,YES
+HYUNDAI,CRETA,Creta SX Tech,Projector Headlamps,NO
+HYUNDAI,CRETA,Creta SX Tech,Roof Rails,YES
+HYUNDAI,CRETA,Creta SX Tech,Antenna,Shark Fin
+HYUNDAI,CRETA,Creta SX Tech,Sunroof,Panoramic
+HYUNDAI,CRETA,Creta SX Tech,Boot Opening,Electronic
+HYUNDAI,CRETA,Creta SX Tech,Puddle Lamps,YES
+HYUNDAI,CRETA,Creta SX Tech,Outside Rear View Mirror (ORVM),Powered & Folding
+HYUNDAI,CRETA,Creta SX Tech,Tyre Size,215/55 R18
+HYUNDAI,CRETA,Creta SX Tech,Tyre Type,Radial Tubeless
+HYUNDAI,CRETA,Creta SX Tech,LED DRLs,YES
+HYUNDAI,CRETA,Creta SX Tech,LED Headlamps,YES
+HYUNDAI,CRETA,Creta SX Tech,LED Taillights,YES
+HYUNDAI,CRETA,Creta SX Tech,Anti-lock Braking System (ABS),YES
+HYUNDAI,CRETA,Creta SX Tech,Central Locking,YES
+HYUNDAI,CRETA,Creta SX Tech,Child Safety Locks,YES
+HYUNDAI,CRETA,Creta SX Tech,Anti-Theft Alarm,YES
+HYUNDAI,CRETA,Creta SX Tech,No. of Airbags,6
+HYUNDAI,CRETA,Creta SX Tech,Driver Airbag,YES
+HYUNDAI,CRETA,Creta SX Tech,Passenger Airbag,YES
+HYUNDAI,CRETA,Creta SX Tech,Side Airbag,YES
+HYUNDAI,CRETA,Creta SX Tech,Side Airbag-Rear,NO
+HYUNDAI,CRETA,Creta SX Tech,Day & Night Rear View Mirror,YES
+HYUNDAI,CRETA,Creta SX Tech,Curtain Airbag,YES
+HYUNDAI,CRETA,Creta SX Tech,Electronic Brakeforce Distribution (EBD),YES
+HYUNDAI,CRETA,Creta SX Tech,Seat Belt Warning,YES
+HYUNDAI,CRETA,Creta SX Tech,Door Ajar Warning,YES
+HYUNDAI,CRETA,Creta SX Tech,Traction Control,NO
+HYUNDAI,CRETA,Creta SX Tech,Tyre Pressure Monitoring System (TPMS),YES
+HYUNDAI,CRETA,Creta SX Tech,Engine Immobilizer,YES
+HYUNDAI,CRETA,Creta SX Tech,Electronic Stability Control (ESC),YES
+HYUNDAI,CRETA,Creta SX Tech,Rear Camera,With Guidedlines
+HYUNDAI,CRETA,Creta SX Tech,Anti-Theft Device,YES
+HYUNDAI,CRETA,Creta SX Tech,Anti-Pinch Power Windows,Driver's Window
+HYUNDAI,CRETA,Creta SX Tech,Speed Alert,YES
+HYUNDAI,CRETA,Creta SX Tech,Speed Sensing Auto Door Lock,YES
+HYUNDAI,CRETA,Creta SX Tech,Knee Airbags,NO
+HYUNDAI,CRETA,Creta SX Tech,ISOFIX Child Seat Mounts,YES
+HYUNDAI,CRETA,Creta SX Tech,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+HYUNDAI,CRETA,Creta SX Tech,Hill Assist,YES
+HYUNDAI,CRETA,Creta SX Tech,Impact Sensing Auto Door Unlock,YES
+HYUNDAI,CRETA,Creta SX Tech,360 View Camera,NO
+HYUNDAI,CRETA,Creta SX Tech,Radio,YES
+HYUNDAI,CRETA,Creta SX Tech,Integrated 2DIN Audio,YES
+HYUNDAI,CRETA,Creta SX Tech,Wireless Phone Charging,YES
+HYUNDAI,CRETA,Creta SX Tech,Bluetooth Connectivity,YES
+HYUNDAI,CRETA,Creta SX Tech,Touchscreen,YES
+HYUNDAI,CRETA,Creta SX Tech,Touchscreen Size,10.25 inch
+HYUNDAI,CRETA,Creta SX Tech,Connectivity,Android Auto
+HYUNDAI,CRETA,Creta SX Tech,Android Auto,YES
+HYUNDAI,CRETA,Creta SX Tech,Apple CarPlay,YES
+HYUNDAI,CRETA,Creta SX Tech,No. of Speakers,5
+HYUNDAI,CRETA,Creta SX Tech,Usb Ports,YES
+HYUNDAI,CRETA,Creta SX Tech,Inbuilt Apps,JioSaavan
+HYUNDAI,CRETA,Creta SX Tech,Tweeters,2
+HYUNDAI,CRETA,Creta SX Tech,Subwoofer,1
+HYUNDAI,CRETA,Creta SX Tech,Additional Features,Bose premium sound 8 speaker system with front central speaker & sub-woofer
+HYUNDAI,CRETA,Creta SX Tech,Speakers,Front & Rear

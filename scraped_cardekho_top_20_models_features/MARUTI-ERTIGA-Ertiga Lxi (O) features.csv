@@ -1,0 +1,111 @@
+company,model,variant,feature_name,feature_details
+MARUTI,ERTIGA,Ertiga Lxi (O),Engine Type,K15C Smart Hybrid
+MARUTI,ERTIGA,Ertiga Lxi (O),Displacement,1462 cc
+MARUTI,ERTIGA,Ertiga Lxi (O),Max Power,101.64bhp@6000rpm
+MARUTI,ERTIGA,Ertiga Lxi (O),Max Torque,139Nm@4300rpm
+MARUTI,ERTIGA,Ertiga Lxi (O),No. of Cylinders,4
+MARUTI,ERTIGA,Ertiga Lxi (O),Valves Per Cylinder,4
+MARUTI,ERTIGA,Ertiga Lxi (O),Transmission Type,Manual
+MARUTI,ERTIGA,Ertiga Lxi (O),Gearbox,5-Speed
+MARUTI,ERTIGA,Ertiga Lxi (O),Drive Type,FWD
+MARUTI,ERTIGA,Ertiga Lxi (O),Fuel Type,Petrol
+MARUTI,ERTIGA,Ertiga Lxi (O),Petrol Mileage ARAI,20.51 kmpl
+MARUTI,ERTIGA,Ertiga Lxi (O),Petrol Fuel Tank Capacity,45 Litres
+MARUTI,ERTIGA,Ertiga Lxi (O),Emission Norm Compliance,BS VI 2.0
+MARUTI,ERTIGA,Ertiga Lxi (O),Front Suspension,MacPherson Strut suspension
+MARUTI,ERTIGA,Ertiga Lxi (O),Rear Suspension,Rear twist beam
+MARUTI,ERTIGA,Ertiga Lxi (O),Steering Type,Power
+MARUTI,ERTIGA,Ertiga Lxi (O),Steering Column,Tilt
+MARUTI,ERTIGA,Ertiga Lxi (O),Turning Radius,5.2 m
+MARUTI,ERTIGA,Ertiga Lxi (O),Front Brake Type,Disc
+MARUTI,ERTIGA,Ertiga Lxi (O),Rear Brake Type,Drum
+MARUTI,ERTIGA,Ertiga Lxi (O),Length,4395 mm
+MARUTI,ERTIGA,Ertiga Lxi (O),Width,1735 mm
+MARUTI,ERTIGA,Ertiga Lxi (O),Height,1690 mm
+MARUTI,ERTIGA,Ertiga Lxi (O),Boot Space,209 Litres
+MARUTI,ERTIGA,Ertiga Lxi (O),Seating Capacity,7
+MARUTI,ERTIGA,Ertiga Lxi (O),Wheel Base,2740 mm
+MARUTI,ERTIGA,Ertiga Lxi (O),Kerb Weight,1150-1205 kg
+MARUTI,ERTIGA,Ertiga Lxi (O),Gross Weight,1760 kg
+MARUTI,ERTIGA,Ertiga Lxi (O),No. of Doors,5
+MARUTI,ERTIGA,Ertiga Lxi (O),Reported Ground Clearance (Unladen),185 mm
+MARUTI,ERTIGA,Ertiga Lxi (O),Power Steering,YES
+MARUTI,ERTIGA,Ertiga Lxi (O),Air Conditioner,YES
+MARUTI,ERTIGA,Ertiga Lxi (O),Heater,YES
+MARUTI,ERTIGA,Ertiga Lxi (O),Height Adjustable Driver Seat,NO
+MARUTI,ERTIGA,Ertiga Lxi (O),Automatic Climate Control,NO
+MARUTI,ERTIGA,Ertiga Lxi (O),Accessory Power Outlet,YES
+MARUTI,ERTIGA,Ertiga Lxi (O),Vanity Mirror,NO
+MARUTI,ERTIGA,Ertiga Lxi (O),Rear Reading Lamp,YES
+MARUTI,ERTIGA,Ertiga Lxi (O),Adjustable Headrest,YES
+MARUTI,ERTIGA,Ertiga Lxi (O),Rear Seat Centre Arm Rest,NO
+MARUTI,ERTIGA,Ertiga Lxi (O),Height Adjustable Front Seat Belts,NO
+MARUTI,ERTIGA,Ertiga Lxi (O),Rear AC Vents,NO
+MARUTI,ERTIGA,Ertiga Lxi (O),Cruise Control,NO
+MARUTI,ERTIGA,Ertiga Lxi (O),Parking Sensors,Rear
+MARUTI,ERTIGA,Ertiga Lxi (O),Foldable Rear Seat,60:40 Split
+MARUTI,ERTIGA,Ertiga Lxi (O),KeyLess Entry,NO
+MARUTI,ERTIGA,Ertiga Lxi (O),Engine Start/Stop Button,NO
+MARUTI,ERTIGA,Ertiga Lxi (O),Paddle Shifters,NO
+MARUTI,ERTIGA,Ertiga Lxi (O),Central Console Armrest,NO
+MARUTI,ERTIGA,Ertiga Lxi (O),Gear Shift Indicator,YES
+MARUTI,ERTIGA,Ertiga Lxi (O),Idle Start-Stop System,YES
+MARUTI,ERTIGA,Ertiga Lxi (O),Automatic Headlamps,NO
+MARUTI,ERTIGA,Ertiga Lxi (O),Follow Me Home Headlamps,NO
+MARUTI,ERTIGA,Ertiga Lxi (O),Tachometer,YES
+MARUTI,ERTIGA,Ertiga Lxi (O),Leather Wrapped Steering Wheel,NO
+MARUTI,ERTIGA,Ertiga Lxi (O),Glove Box,YES
+MARUTI,ERTIGA,Ertiga Lxi (O),Digital Odometer,YES
+MARUTI,ERTIGA,Ertiga Lxi (O),Dual Tone Dashboard,YES
+MARUTI,ERTIGA,Ertiga Lxi (O),Digital Cluster,Semi
+MARUTI,ERTIGA,Ertiga Lxi (O),Upholstery,Fabric
+MARUTI,ERTIGA,Ertiga Lxi (O),Rear Window Wiper,NO
+MARUTI,ERTIGA,Ertiga Lxi (O),Rear Window Washer,NO
+MARUTI,ERTIGA,Ertiga Lxi (O),Rear Window Defogger,NO
+MARUTI,ERTIGA,Ertiga Lxi (O),Wheel Covers,YES
+MARUTI,ERTIGA,Ertiga Lxi (O),Alloy Wheels,NO
+MARUTI,ERTIGA,Ertiga Lxi (O),Outside Rear View Mirror Turn Indicators,NO
+MARUTI,ERTIGA,Ertiga Lxi (O),Integrated Antenna,YES
+MARUTI,ERTIGA,Ertiga Lxi (O),Chrome Grille,NO
+MARUTI,ERTIGA,Ertiga Lxi (O),Projector Headlamps,YES
+MARUTI,ERTIGA,Ertiga Lxi (O),Halogen Headlamps,YES
+MARUTI,ERTIGA,Ertiga Lxi (O),Fog Lights,NO
+MARUTI,ERTIGA,Ertiga Lxi (O),Boot Opening,Manual
+MARUTI,ERTIGA,Ertiga Lxi (O),Tyre Size,185/65 R15
+MARUTI,ERTIGA,Ertiga Lxi (O),Tyre Type,"Tubeless, Radial"
+MARUTI,ERTIGA,Ertiga Lxi (O),Wheel Size,15 Inch
+MARUTI,ERTIGA,Ertiga Lxi (O),LED Taillights,YES
+MARUTI,ERTIGA,Ertiga Lxi (O),Anti-lock Braking System (ABS),YES
+MARUTI,ERTIGA,Ertiga Lxi (O),Brake Assist,YES
+MARUTI,ERTIGA,Ertiga Lxi (O),Central Locking,YES
+MARUTI,ERTIGA,Ertiga Lxi (O),Child Safety Locks,YES
+MARUTI,ERTIGA,Ertiga Lxi (O),Anti-Theft Alarm,NO
+MARUTI,ERTIGA,Ertiga Lxi (O),No. of Airbags,6
+MARUTI,ERTIGA,Ertiga Lxi (O),Driver Airbag,YES
+MARUTI,ERTIGA,Ertiga Lxi (O),Passenger Airbag,YES
+MARUTI,ERTIGA,Ertiga Lxi (O),Side Airbag,YES
+MARUTI,ERTIGA,Ertiga Lxi (O),Side Airbag-Rear,NO
+MARUTI,ERTIGA,Ertiga Lxi (O),Day & Night Rear View Mirror,NO
+MARUTI,ERTIGA,Ertiga Lxi (O),Curtain Airbag,YES
+MARUTI,ERTIGA,Ertiga Lxi (O),Electronic Brakeforce Distribution (EBD),YES
+MARUTI,ERTIGA,Ertiga Lxi (O),Seat Belt Warning,YES
+MARUTI,ERTIGA,Ertiga Lxi (O),Door Ajar Warning,YES
+MARUTI,ERTIGA,Ertiga Lxi (O),Engine Immobilizer,YES
+MARUTI,ERTIGA,Ertiga Lxi (O),Electronic Stability Control (ESC),YES
+MARUTI,ERTIGA,Ertiga Lxi (O),Rear Camera,NO
+MARUTI,ERTIGA,Ertiga Lxi (O),Anti-Theft Device,NO
+MARUTI,ERTIGA,Ertiga Lxi (O),Speed Alert,YES
+MARUTI,ERTIGA,Ertiga Lxi (O),Speed Sensing Auto Door Lock,YES
+MARUTI,ERTIGA,Ertiga Lxi (O),ISOFIX Child Seat Mounts,YES
+MARUTI,ERTIGA,Ertiga Lxi (O),Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+MARUTI,ERTIGA,Ertiga Lxi (O),Hill Assist,YES
+MARUTI,ERTIGA,Ertiga Lxi (O),Global NCAP Safety Rating,3 Star
+MARUTI,ERTIGA,Ertiga Lxi (O),Global NCAP Child Safety Rating,3 Star
+MARUTI,ERTIGA,Ertiga Lxi (O),Radio,NO
+MARUTI,ERTIGA,Ertiga Lxi (O),Integrated 2DIN Audio,NO
+MARUTI,ERTIGA,Ertiga Lxi (O),Bluetooth Connectivity,NO
+MARUTI,ERTIGA,Ertiga Lxi (O),Touchscreen,NO
+MARUTI,ERTIGA,Ertiga Lxi (O),Android Auto,NO
+MARUTI,ERTIGA,Ertiga Lxi (O),Apple CarPlay,NO
+MARUTI,ERTIGA,Ertiga Lxi (O),Usb Ports,NO
+MARUTI,ERTIGA,Ertiga Lxi (O),Speakers,NO

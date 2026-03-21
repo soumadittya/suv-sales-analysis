@@ -1,0 +1,134 @@
+company,model,variant,feature_name,feature_details
+TATA,NEXON,Nexon Creative CNG,Engine Type,1.2L Turbocharged Revotorq
+TATA,NEXON,Nexon Creative CNG,Displacement,1199 cc
+TATA,NEXON,Nexon Creative CNG,Max Power,99bhp@5000rpm
+TATA,NEXON,Nexon Creative CNG,Max Torque,170Nm@2000rpm
+TATA,NEXON,Nexon Creative CNG,No. of Cylinders,3
+TATA,NEXON,Nexon Creative CNG,Valves Per Cylinder,4
+TATA,NEXON,Nexon Creative CNG,Turbo Charger,YES
+TATA,NEXON,Nexon Creative CNG,Transmission Type,Manual
+TATA,NEXON,Nexon Creative CNG,Gearbox,6-Speed
+TATA,NEXON,Nexon Creative CNG,Drive Type,FWD
+TATA,NEXON,Nexon Creative CNG,Fuel Type,CNG
+TATA,NEXON,Nexon Creative CNG,CNG Mileage ARAI,17.44 km/kg
+TATA,NEXON,Nexon Creative CNG,CNG Fuel Tank Capacity,60 Litres
+TATA,NEXON,Nexon Creative CNG,Secondary Fuel Type,Petrol
+TATA,NEXON,Nexon Creative CNG,Petrol Fuel Tank Capacity (Litres),44.0
+TATA,NEXON,Nexon Creative CNG,Emission Norm Compliance,BS VI 2.0
+TATA,NEXON,Nexon Creative CNG,Top Speed,180 kmph
+TATA,NEXON,Nexon Creative CNG,Front Suspension,MacPherson Strut suspension
+TATA,NEXON,Nexon Creative CNG,Rear Suspension,Rear twist beam
+TATA,NEXON,Nexon Creative CNG,Steering Type,Electric
+TATA,NEXON,Nexon Creative CNG,Steering Column,Tilt
+TATA,NEXON,Nexon Creative CNG,Front Brake Type,Disc
+TATA,NEXON,Nexon Creative CNG,Rear Brake Type,Drum
+TATA,NEXON,Nexon Creative CNG,Alloy Wheel Size Front,16 Inch
+TATA,NEXON,Nexon Creative CNG,Alloy Wheel Size Rear,16 Inch
+TATA,NEXON,Nexon Creative CNG,Length,3995 mm
+TATA,NEXON,Nexon Creative CNG,Width,1804 mm
+TATA,NEXON,Nexon Creative CNG,Height,1620 mm
+TATA,NEXON,Nexon Creative CNG,Boot Space,321 Litres
+TATA,NEXON,Nexon Creative CNG,Seating Capacity,5
+TATA,NEXON,Nexon Creative CNG,Ground Clearance Unladen,208 mm
+TATA,NEXON,Nexon Creative CNG,Wheel Base,2498 mm
+TATA,NEXON,Nexon Creative CNG,No. of Doors,5
+TATA,NEXON,Nexon Creative CNG,Power Steering,YES
+TATA,NEXON,Nexon Creative CNG,Air Conditioner,YES
+TATA,NEXON,Nexon Creative CNG,Heater,YES
+TATA,NEXON,Nexon Creative CNG,Adjustable Steering,Height only
+TATA,NEXON,Nexon Creative CNG,Height Adjustable Driver Seat,YES
+TATA,NEXON,Nexon Creative CNG,Ventilated Seats,NO
+TATA,NEXON,Nexon Creative CNG,Automatic Climate Control,YES
+TATA,NEXON,Nexon Creative CNG,Air Quality Control,NO
+TATA,NEXON,Nexon Creative CNG,Accessory Power Outlet,YES
+TATA,NEXON,Nexon Creative CNG,Trunk Light,NO
+TATA,NEXON,Nexon Creative CNG,Rear Seat Headrest,Adjustable
+TATA,NEXON,Nexon Creative CNG,Adjustable Headrest,YES
+TATA,NEXON,Nexon Creative CNG,Rear Seat Centre Arm Rest,NO
+TATA,NEXON,Nexon Creative CNG,Height Adjustable Front Seat Belts,NO
+TATA,NEXON,Nexon Creative CNG,Rear AC Vents,YES
+TATA,NEXON,Nexon Creative CNG,Cruise Control,NO
+TATA,NEXON,Nexon Creative CNG,Parking Sensors,Rear
+TATA,NEXON,Nexon Creative CNG,Foldable Rear Seat,Bench Folding
+TATA,NEXON,Nexon Creative CNG,KeyLess Entry,YES
+TATA,NEXON,Nexon Creative CNG,Engine Start/Stop Button,YES
+TATA,NEXON,Nexon Creative CNG,Cooled Glovebox,YES
+TATA,NEXON,Nexon Creative CNG,Voice Commands,NO
+TATA,NEXON,Nexon Creative CNG,Paddle Shifters,NO
+TATA,NEXON,Nexon Creative CNG,USB Charger,Front
+TATA,NEXON,Nexon Creative CNG,Central Console Armrest,YES
+TATA,NEXON,Nexon Creative CNG,Drive Modes,3
+TATA,NEXON,Nexon Creative CNG,Rear Window Sunblind,NO
+TATA,NEXON,Nexon Creative CNG,Automatic Headlamps,NO
+TATA,NEXON,Nexon Creative CNG,Follow Me Home Headlamps,YES
+TATA,NEXON,Nexon Creative CNG,Voice assisted sunroof,NO
+TATA,NEXON,Nexon Creative CNG,Drive Mode Types,Eco|City|Sports
+TATA,NEXON,Nexon Creative CNG,Power Windows,Front & Rear
+TATA,NEXON,Nexon Creative CNG,Tachometer,YES
+TATA,NEXON,Nexon Creative CNG,Leather Wrapped Steering Wheel,NO
+TATA,NEXON,Nexon Creative CNG,Glove Box,YES
+TATA,NEXON,Nexon Creative CNG,Digital Cluster,YES
+TATA,NEXON,Nexon Creative CNG,Digital Cluster Size,4
+TATA,NEXON,Nexon Creative CNG,Upholstery,Fabric
+TATA,NEXON,Nexon Creative CNG,Adjustable Headlamps,YES
+TATA,NEXON,Nexon Creative CNG,Rain Sensing Wiper,NO
+TATA,NEXON,Nexon Creative CNG,Rear Window Wiper,YES
+TATA,NEXON,Nexon Creative CNG,Rear Window Washer,YES
+TATA,NEXON,Nexon Creative CNG,Rear Window Defogger,NO
+TATA,NEXON,Nexon Creative CNG,Wheel Covers,NO
+TATA,NEXON,Nexon Creative CNG,Alloy Wheels,YES
+TATA,NEXON,Nexon Creative CNG,Rear Spoiler,YES
+TATA,NEXON,Nexon Creative CNG,Outside Rear View Mirror Turn Indicators,YES
+TATA,NEXON,Nexon Creative CNG,Integrated Antenna,YES
+TATA,NEXON,Nexon Creative CNG,Cornering Foglamps,NO
+TATA,NEXON,Nexon Creative CNG,Roof Rails,NO
+TATA,NEXON,Nexon Creative CNG,Automatic Headlamps,NO
+TATA,NEXON,Nexon Creative CNG,Fog Lights,NO
+TATA,NEXON,Nexon Creative CNG,Antenna,Shark Fin
+TATA,NEXON,Nexon Creative CNG,Sunroof,NO
+TATA,NEXON,Nexon Creative CNG,Outside Rear View Mirror (ORVM),Powered & Folding
+TATA,NEXON,Nexon Creative CNG,Tyre Size,215/60 R16
+TATA,NEXON,Nexon Creative CNG,Tyre Type,Radial Tubeless
+TATA,NEXON,Nexon Creative CNG,LED DRLs,YES
+TATA,NEXON,Nexon Creative CNG,LED Headlamps,YES
+TATA,NEXON,Nexon Creative CNG,LED Taillights,YES
+TATA,NEXON,Nexon Creative CNG,LED Fog Lamps,NO
+TATA,NEXON,Nexon Creative CNG,Anti-lock Braking System (ABS),YES
+TATA,NEXON,Nexon Creative CNG,Central Locking,YES
+TATA,NEXON,Nexon Creative CNG,Child Safety Locks,YES
+TATA,NEXON,Nexon Creative CNG,No. of Airbags,6
+TATA,NEXON,Nexon Creative CNG,Driver Airbag,YES
+TATA,NEXON,Nexon Creative CNG,Passenger Airbag,YES
+TATA,NEXON,Nexon Creative CNG,Side Airbag,YES
+TATA,NEXON,Nexon Creative CNG,Side Airbag-Rear,NO
+TATA,NEXON,Nexon Creative CNG,Day & Night Rear View Mirror,YES
+TATA,NEXON,Nexon Creative CNG,Curtain Airbag,YES
+TATA,NEXON,Nexon Creative CNG,Electronic Brakeforce Distribution (EBD),YES
+TATA,NEXON,Nexon Creative CNG,Seat Belt Warning,YES
+TATA,NEXON,Nexon Creative CNG,Door Ajar Warning,YES
+TATA,NEXON,Nexon Creative CNG,Tyre Pressure Monitoring System (TPMS),NO
+TATA,NEXON,Nexon Creative CNG,Engine Immobilizer,YES
+TATA,NEXON,Nexon Creative CNG,Electronic Stability Control (ESC),YES
+TATA,NEXON,Nexon Creative CNG,Rear Camera,With Guidedlines
+TATA,NEXON,Nexon Creative CNG,Speed Alert,YES
+TATA,NEXON,Nexon Creative CNG,Speed Sensing Auto Door Lock,YES
+TATA,NEXON,Nexon Creative CNG,ISOFIX Child Seat Mounts,YES
+TATA,NEXON,Nexon Creative CNG,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+TATA,NEXON,Nexon Creative CNG,Impact Sensing Auto Door Unlock,YES
+TATA,NEXON,Nexon Creative CNG,360 View Camera,YES
+TATA,NEXON,Nexon Creative CNG,Global NCAP Safety Rating,5 Star
+TATA,NEXON,Nexon Creative CNG,Global NCAP Child Safety Rating,5 Star
+TATA,NEXON,Nexon Creative CNG,Bharat NCAP Safety Rating,5 Star
+TATA,NEXON,Nexon Creative CNG,Bharat NCAP Child Safety Rating,5 Star
+TATA,NEXON,Nexon Creative CNG,Radio,YES
+TATA,NEXON,Nexon Creative CNG,Wireless Phone Charging,NO
+TATA,NEXON,Nexon Creative CNG,Bluetooth Connectivity,YES
+TATA,NEXON,Nexon Creative CNG,Touchscreen,YES
+TATA,NEXON,Nexon Creative CNG,Touchscreen Size,10.24 inch
+TATA,NEXON,Nexon Creative CNG,Connectivity,"Android Auto, Apple CarPlay"
+TATA,NEXON,Nexon Creative CNG,Android Auto,YES
+TATA,NEXON,Nexon Creative CNG,Apple CarPlay,YES
+TATA,NEXON,Nexon Creative CNG,No. of Speakers,4
+TATA,NEXON,Nexon Creative CNG,Usb Ports,YES
+TATA,NEXON,Nexon Creative CNG,Additional Features,Wireless Android Auto & Apple CarPlay
+TATA,NEXON,Nexon Creative CNG,Speakers,Front & Rear

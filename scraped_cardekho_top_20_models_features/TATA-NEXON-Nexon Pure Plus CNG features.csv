@@ -1,0 +1,131 @@
+company,model,variant,feature_name,feature_details
+TATA,NEXON,Nexon Pure Plus CNG,Engine Type,1.2L Turbocharged Revotorq
+TATA,NEXON,Nexon Pure Plus CNG,Displacement,1199 cc
+TATA,NEXON,Nexon Pure Plus CNG,Max Power,99bhp@5000rpm
+TATA,NEXON,Nexon Pure Plus CNG,Max Torque,170Nm@2000rpm
+TATA,NEXON,Nexon Pure Plus CNG,No. of Cylinders,3
+TATA,NEXON,Nexon Pure Plus CNG,Valves Per Cylinder,4
+TATA,NEXON,Nexon Pure Plus CNG,Turbo Charger,YES
+TATA,NEXON,Nexon Pure Plus CNG,Transmission Type,Manual
+TATA,NEXON,Nexon Pure Plus CNG,Gearbox,6-Speed
+TATA,NEXON,Nexon Pure Plus CNG,Drive Type,FWD
+TATA,NEXON,Nexon Pure Plus CNG,Fuel Type,CNG
+TATA,NEXON,Nexon Pure Plus CNG,CNG Mileage ARAI,17.44 km/kg
+TATA,NEXON,Nexon Pure Plus CNG,CNG Fuel Tank Capacity,60 Litres
+TATA,NEXON,Nexon Pure Plus CNG,Emission Norm Compliance,BS VI 2.0
+TATA,NEXON,Nexon Pure Plus CNG,Top Speed,180 kmph
+TATA,NEXON,Nexon Pure Plus CNG,Front Suspension,MacPherson Strut suspension
+TATA,NEXON,Nexon Pure Plus CNG,Rear Suspension,Rear twist beam
+TATA,NEXON,Nexon Pure Plus CNG,Steering Type,Electric
+TATA,NEXON,Nexon Pure Plus CNG,Steering Column,Tilt
+TATA,NEXON,Nexon Pure Plus CNG,Front Brake Type,Disc
+TATA,NEXON,Nexon Pure Plus CNG,Rear Brake Type,Drum
+TATA,NEXON,Nexon Pure Plus CNG,Length,3995 mm
+TATA,NEXON,Nexon Pure Plus CNG,Width,1804 mm
+TATA,NEXON,Nexon Pure Plus CNG,Height,1620 mm
+TATA,NEXON,Nexon Pure Plus CNG,Boot Space,321 Litres
+TATA,NEXON,Nexon Pure Plus CNG,Seating Capacity,5
+TATA,NEXON,Nexon Pure Plus CNG,Ground Clearance Unladen,208 mm
+TATA,NEXON,Nexon Pure Plus CNG,Wheel Base,2498 mm
+TATA,NEXON,Nexon Pure Plus CNG,No. of Doors,5
+TATA,NEXON,Nexon Pure Plus CNG,Power Steering,YES
+TATA,NEXON,Nexon Pure Plus CNG,Air Conditioner,YES
+TATA,NEXON,Nexon Pure Plus CNG,Heater,YES
+TATA,NEXON,Nexon Pure Plus CNG,Adjustable Steering,Height only
+TATA,NEXON,Nexon Pure Plus CNG,Height Adjustable Driver Seat,YES
+TATA,NEXON,Nexon Pure Plus CNG,Ventilated Seats,NO
+TATA,NEXON,Nexon Pure Plus CNG,Automatic Climate Control,NO
+TATA,NEXON,Nexon Pure Plus CNG,Air Quality Control,NO
+TATA,NEXON,Nexon Pure Plus CNG,Accessory Power Outlet,YES
+TATA,NEXON,Nexon Pure Plus CNG,Trunk Light,NO
+TATA,NEXON,Nexon Pure Plus CNG,Rear Seat Headrest,Adjustable
+TATA,NEXON,Nexon Pure Plus CNG,Adjustable Headrest,YES
+TATA,NEXON,Nexon Pure Plus CNG,Rear Seat Centre Arm Rest,NO
+TATA,NEXON,Nexon Pure Plus CNG,Height Adjustable Front Seat Belts,NO
+TATA,NEXON,Nexon Pure Plus CNG,Rear AC Vents,YES
+TATA,NEXON,Nexon Pure Plus CNG,Cruise Control,NO
+TATA,NEXON,Nexon Pure Plus CNG,Parking Sensors,Rear
+TATA,NEXON,Nexon Pure Plus CNG,Foldable Rear Seat,Bench Folding
+TATA,NEXON,Nexon Pure Plus CNG,KeyLess Entry,YES
+TATA,NEXON,Nexon Pure Plus CNG,Engine Start/Stop Button,NO
+TATA,NEXON,Nexon Pure Plus CNG,Cooled Glovebox,NO
+TATA,NEXON,Nexon Pure Plus CNG,Voice Commands,NO
+TATA,NEXON,Nexon Pure Plus CNG,Paddle Shifters,NO
+TATA,NEXON,Nexon Pure Plus CNG,USB Charger,Front
+TATA,NEXON,Nexon Pure Plus CNG,Central Console Armrest,YES
+TATA,NEXON,Nexon Pure Plus CNG,Drive Modes,3
+TATA,NEXON,Nexon Pure Plus CNG,Rear Window Sunblind,NO
+TATA,NEXON,Nexon Pure Plus CNG,Automatic Headlamps,NO
+TATA,NEXON,Nexon Pure Plus CNG,Follow Me Home Headlamps,YES
+TATA,NEXON,Nexon Pure Plus CNG,Voice assisted sunroof,NO
+TATA,NEXON,Nexon Pure Plus CNG,Drive Mode Types,Eco|City|Sports
+TATA,NEXON,Nexon Pure Plus CNG,Power Windows,Front & Rear
+TATA,NEXON,Nexon Pure Plus CNG,Tachometer,YES
+TATA,NEXON,Nexon Pure Plus CNG,Leather Wrapped Steering Wheel,NO
+TATA,NEXON,Nexon Pure Plus CNG,Glove Box,YES
+TATA,NEXON,Nexon Pure Plus CNG,Digital Cluster,YES
+TATA,NEXON,Nexon Pure Plus CNG,Digital Cluster Size,4
+TATA,NEXON,Nexon Pure Plus CNG,Upholstery,Fabric
+TATA,NEXON,Nexon Pure Plus CNG,Adjustable Headlamps,YES
+TATA,NEXON,Nexon Pure Plus CNG,Rain Sensing Wiper,NO
+TATA,NEXON,Nexon Pure Plus CNG,Rear Window Wiper,NO
+TATA,NEXON,Nexon Pure Plus CNG,Rear Window Washer,NO
+TATA,NEXON,Nexon Pure Plus CNG,Rear Window Defogger,NO
+TATA,NEXON,Nexon Pure Plus CNG,Wheel Covers,YES
+TATA,NEXON,Nexon Pure Plus CNG,Alloy Wheels,NO
+TATA,NEXON,Nexon Pure Plus CNG,Rear Spoiler,YES
+TATA,NEXON,Nexon Pure Plus CNG,Outside Rear View Mirror Turn Indicators,YES
+TATA,NEXON,Nexon Pure Plus CNG,Integrated Antenna,YES
+TATA,NEXON,Nexon Pure Plus CNG,Cornering Foglamps,NO
+TATA,NEXON,Nexon Pure Plus CNG,Roof Rails,NO
+TATA,NEXON,Nexon Pure Plus CNG,Automatic Headlamps,NO
+TATA,NEXON,Nexon Pure Plus CNG,Fog Lights,NO
+TATA,NEXON,Nexon Pure Plus CNG,Antenna,Shark Fin
+TATA,NEXON,Nexon Pure Plus CNG,Sunroof,NO
+TATA,NEXON,Nexon Pure Plus CNG,Outside Rear View Mirror (ORVM),Powered & Folding
+TATA,NEXON,Nexon Pure Plus CNG,Tyre Size,195/60 R16
+TATA,NEXON,Nexon Pure Plus CNG,Tyre Type,Radial Tubeless
+TATA,NEXON,Nexon Pure Plus CNG,Wheel Size,16 Inch
+TATA,NEXON,Nexon Pure Plus CNG,LED DRLs,YES
+TATA,NEXON,Nexon Pure Plus CNG,LED Headlamps,YES
+TATA,NEXON,Nexon Pure Plus CNG,LED Taillights,YES
+TATA,NEXON,Nexon Pure Plus CNG,LED Fog Lamps,NO
+TATA,NEXON,Nexon Pure Plus CNG,Anti-lock Braking System (ABS),YES
+TATA,NEXON,Nexon Pure Plus CNG,Central Locking,YES
+TATA,NEXON,Nexon Pure Plus CNG,Child Safety Locks,YES
+TATA,NEXON,Nexon Pure Plus CNG,No. of Airbags,6
+TATA,NEXON,Nexon Pure Plus CNG,Driver Airbag,YES
+TATA,NEXON,Nexon Pure Plus CNG,Passenger Airbag,YES
+TATA,NEXON,Nexon Pure Plus CNG,Side Airbag,YES
+TATA,NEXON,Nexon Pure Plus CNG,Side Airbag-Rear,NO
+TATA,NEXON,Nexon Pure Plus CNG,Day & Night Rear View Mirror,YES
+TATA,NEXON,Nexon Pure Plus CNG,Curtain Airbag,YES
+TATA,NEXON,Nexon Pure Plus CNG,Electronic Brakeforce Distribution (EBD),YES
+TATA,NEXON,Nexon Pure Plus CNG,Seat Belt Warning,YES
+TATA,NEXON,Nexon Pure Plus CNG,Door Ajar Warning,YES
+TATA,NEXON,Nexon Pure Plus CNG,Tyre Pressure Monitoring System (TPMS),NO
+TATA,NEXON,Nexon Pure Plus CNG,Engine Immobilizer,YES
+TATA,NEXON,Nexon Pure Plus CNG,Electronic Stability Control (ESC),YES
+TATA,NEXON,Nexon Pure Plus CNG,Rear Camera,With Guidedlines
+TATA,NEXON,Nexon Pure Plus CNG,Speed Alert,YES
+TATA,NEXON,Nexon Pure Plus CNG,Speed Sensing Auto Door Lock,YES
+TATA,NEXON,Nexon Pure Plus CNG,ISOFIX Child Seat Mounts,YES
+TATA,NEXON,Nexon Pure Plus CNG,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+TATA,NEXON,Nexon Pure Plus CNG,Impact Sensing Auto Door Unlock,YES
+TATA,NEXON,Nexon Pure Plus CNG,360 View Camera,NO
+TATA,NEXON,Nexon Pure Plus CNG,Global NCAP Safety Rating,5 Star
+TATA,NEXON,Nexon Pure Plus CNG,Global NCAP Child Safety Rating,5 Star
+TATA,NEXON,Nexon Pure Plus CNG,Bharat NCAP Safety Rating,5 Star
+TATA,NEXON,Nexon Pure Plus CNG,Bharat NCAP Child Safety Rating,5 Star
+TATA,NEXON,Nexon Pure Plus CNG,Radio,YES
+TATA,NEXON,Nexon Pure Plus CNG,Wireless Phone Charging,NO
+TATA,NEXON,Nexon Pure Plus CNG,Bluetooth Connectivity,YES
+TATA,NEXON,Nexon Pure Plus CNG,Touchscreen,YES
+TATA,NEXON,Nexon Pure Plus CNG,Touchscreen Size,10.24 inch
+TATA,NEXON,Nexon Pure Plus CNG,Connectivity,"Android Auto, Apple CarPlay"
+TATA,NEXON,Nexon Pure Plus CNG,Android Auto,YES
+TATA,NEXON,Nexon Pure Plus CNG,Apple CarPlay,YES
+TATA,NEXON,Nexon Pure Plus CNG,No. of Speakers,4
+TATA,NEXON,Nexon Pure Plus CNG,Usb Ports,YES
+TATA,NEXON,Nexon Pure Plus CNG,Additional Features,Wireless Android Auto & Apple Car Play
+TATA,NEXON,Nexon Pure Plus CNG,Speakers,Front & Rear

@@ -1,0 +1,80 @@
+date,company,model,monthly_sales,total_sales
+Jun-21,Citroen,C5 Aircross,41.0,41.0
+Jun-21,Fiat,COMPASS,789.0,789.0
+Jun-21,Ford,FREESTYLE,413.0,413.0
+Jun-21,Ford,Aspire,120.0,120.0
+Jun-21,Ford,Ecosport,3.5K,3.5K
+Jun-21,Ford,Endeavour,892.0,892.0
+Jun-21,Honda,Amaze,1.5K,1.5K
+Jun-21,Honda,Jazz,243.0,243.0
+Jun-21,Honda,City,2.6K,2.6K
+Jun-21,Honda,WRV,466.0,466.0
+Jun-21,Hyundai,Santro,2.0K,2.0K
+Jun-21,Hyundai,Grand i10,8.8K,8.8K
+Jun-21,Hyundai,i20 Elite,6.3K,6.3K
+Jun-21,Hyundai,Xcent/Aura,3.1K,3.1K
+Jun-21,Hyundai,Venue,4.9K,4.9K
+Jun-21,Hyundai,Creta,9.9K,9.9K
+Jun-21,Hyundai,Verna,2.2K,2.2K
+Jun-21,Hyundai,ALCAZAR,3.1K,3.1K
+Jun-21,Hyundai,Elantra,29.0,29.0
+Jun-21,Hyundai,Tucson,85.0,85.0
+Jun-21,Hyundai,KONA,7.0,7.0
+Jun-21,Kia,SELTOS,8.5K,8.5K
+Jun-21,Kia,SONET,6.0K,6.0K
+Jun-21,Kia,CARNIVAL,503.0,503.0
+Jun-21,Mahindra,KUV 100,1.0,1.0
+Jun-21,Mahindra,Bolero,5.7K,5.7K
+Jun-21,Mahindra,Thar,1.1K,1.1K
+Jun-21,Mahindra,XUV 300,4.6K,4.6K
+Jun-21,Mahindra,Marazzo,402.0,402.0
+Jun-21,Mahindra,Alturas G4,16.0,16.0
+Jun-21,Mahindra,Scorpio,4.2K,4.2K
+Jun-21,Mahindra,XUV 500,633.0,633.0
+Jun-21,Maruti,Alto,12.5K,12.5K
+Jun-21,Maruti,Eeco,9.2K,9.2K
+Jun-21,Maruti,S Presso,4.9K,4.9K
+Jun-21,Maruti,Wagon R,19.4K,19.4K
+Jun-21,Maruti,IGNIS,3.6K,3.6K
+Jun-21,Maruti,Ertiga,9.9K,9.9K
+Jun-21,Maruti,XL6,4.0K,4.0K
+Jun-21,Maruti,CELERIO,752.0,752.0
+Jun-21,Maruti,Vitara Brezza,12.8K,12.8K
+Jun-21,Maruti,Swift,17.7K,17.7K
+Jun-21,Maruti,Baleno,14.7K,14.7K
+Jun-21,Maruti,DZIRE,12.6K,12.6K
+Jun-21,Maruti,S-Cross,1.4K,1.4K
+Jun-21,Maruti,Ciaz,602.0,602.0
+Jun-21,Morris Garage,Hector,3.0K,3.0K
+Jun-21,Morris Garage,Gloster,306.0,306.0
+Jun-21,Morris Garage,ZS EV,250.0,250.0
+Jun-21,Nissan,Redi-GO,149.0,149.0
+Jun-21,Nissan,GO,6.0,6.0
+Jun-21,Nissan,GO+,12.0,12.0
+Jun-21,Nissan,MAGNITE,3.3K,3.3K
+Jun-21,Nissan,KICKS,84.0,84.0
+Jun-21,Renault,KWID,2.2K,2.2K
+Jun-21,Renault,KIGER,2.0K,2.0K
+Jun-21,Renault,TRIBER,1.8K,1.8K
+Jun-21,Renault,Duster,114.0,114.0
+Jun-21,Skoda,Octavia,162.0,162.0
+Jun-21,Skoda,Rapid,454.0,454.0
+Jun-21,Skoda,Karoq,1.0,1.0
+Jun-21,Skoda,SUPERB,117.0,117.0
+Jun-21,Tata,Tiago,4.9K,4.9K
+Jun-21,Tata,ALTROZ,6.3K,6.3K
+Jun-21,Tata,TIGOR,1.1K,1.1K
+Jun-21,Tata,NEXON,8.0K,8.0K
+Jun-21,Tata,SAFARI,1.7K,1.7K
+Jun-21,Tata,HARRIER,2.0K,2.0K
+Jun-21,Toyota,Innova + Hycross,3.0K,3.0K
+Jun-21,Toyota,YARIS,5.0,5.0
+Jun-21,Toyota,URBAN CRUISER,2.6K,2.6K
+Jun-21,Toyota,GLANZA,2.6K,2.6K
+Jun-21,Toyota,Fortuner,549.0,549.0
+Jun-21,Toyota,Camry,38.0,38.0
+Jun-21,Toyota,VELLFIRE,63.0,63.0
+Jun-21,Volkswagen,Polo,1.3K,1.3K
+Jun-21,Volkswagen,Vento,178.0,178.0
+Jun-21,Volkswagen,T-ROC,152.0,152.0
+Jun-21,Grand Total,Grand Total,2.6L,2.6L

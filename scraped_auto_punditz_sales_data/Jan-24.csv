@@ -1,0 +1,79 @@
+date,company,model,monthly_sales,total_sales
+Jan-24,Citroen,C3,234.0,234.0
+Jan-24,Citroen,Ë C3,184.0,184.0
+Jan-24,Citroen,C3 Aircross,231.0,231.0
+Jan-24,Citroen,C5 Aircross,1.0,1.0
+Jan-24,Fiat,COMPASS,286.0,286.0
+Jan-24,Fiat,Meridian,110.0,110.0
+Jan-24,Honda,Amaze,3.0K,3.0K
+Jan-24,Honda,City,1.1K,1.1K
+Jan-24,Honda,ELEVATE,4.6K,4.6K
+Jan-24,Hyundai,Grand i10,6.9K,6.9K
+Jan-24,Hyundai,i20 Elite,7.1K,7.1K
+Jan-24,Hyundai,Xcent/Aura,5.5K,5.5K
+Jan-24,Hyundai,EXTER,8.2K,8.2K
+Jan-24,Hyundai,Venue,11.8K,11.8K
+Jan-24,Hyundai,Creta,13.2K,13.2K
+Jan-24,Hyundai,Verna,2.2K,2.2K
+Jan-24,Hyundai,ALCAZAR,1.8K,1.8K
+Jan-24,Hyundai,Tucson,183.0,183.0
+Jan-24,Hyundai,KONA,102.0,102.0
+Jan-24,Hyundai,IONIQ 5,95.0,95.0
+Jan-24,Kia,SELTOS,6.4K,6.4K
+Jan-24,Kia,SONET,11.5K,11.5K
+Jan-24,Kia,CARENS,5.8K,5.8K
+Jan-24,Mahindra,XUV 700,7.2K,7.2K
+Jan-24,Mahindra,Bolero,10.0K,10.0K
+Jan-24,Mahindra,Thar,6.1K,6.1K
+Jan-24,Mahindra,XUV 300,4.8K,4.8K
+Jan-24,Mahindra,XUV 400,697.0,697.0
+Jan-24,Mahindra,Marazzo,32.0,32.0
+Jan-24,Mahindra,Scorpio,14.3K,14.3K
+Jan-24,Maruti,Alto,12.4K,12.4K
+Jan-24,Maruti,Eeco,12.0K,12.0K
+Jan-24,Maruti,S Presso,3.5K,3.5K
+Jan-24,Maruti,Wagon R,17.8K,17.8K
+Jan-24,Maruti,IGNIS,2.6K,2.6K
+Jan-24,Maruti,Ertiga,14.6K,14.6K
+Jan-24,Maruti,XL6,4.4K,4.4K
+Jan-24,Maruti,CELERIO,4.4K,4.4K
+Jan-24,Maruti,Vitara Brezza,15.3K,15.3K
+Jan-24,Maruti,Swift,15.4K,15.4K
+Jan-24,Maruti,Baleno,19.6K,19.6K
+Jan-24,Maruti,FRONX,13.6K,13.6K
+Jan-24,Maruti,JIMNY,163.0,163.0
+Jan-24,Maruti,INVICTO,496.0,496.0
+Jan-24,Maruti,DZIRE,16.8K,16.8K
+Jan-24,Maruti,Ciaz,363.0,363.0
+Jan-24,Maruti,Grand Vitara,13.4K,13.4K
+Jan-24,Morris Garage,Hector,1.8K,1.8K
+Jan-24,Morris Garage,Gloster,139.0,139.0
+Jan-24,Morris Garage,Astor,966.0,966.0
+Jan-24,Morris Garage,COMET,505.0,505.0
+Jan-24,Morris Garage,ZS EV,398.0,398.0
+Jan-24,Nissan,MAGNITE,2.9K,2.9K
+Jan-24,Renault,KWID,856.0,856.0
+Jan-24,Renault,KIGER,750.0,750.0
+Jan-24,Renault,TRIBER,2.2K,2.2K
+Jan-24,Skoda,KUSHAQ,1.1K,1.1K
+Jan-24,Skoda,SLAVIA,1.2K,1.2K
+Jan-24,Skoda,KODIAQ,53.0,53.0
+Jan-24,Tata,Tiago,6.5K,6.5K
+Jan-24,Tata,PUNCH,18.0K,18.0K
+Jan-24,Tata,ALTROZ,4.9K,4.9K
+Jan-24,Tata,TIGOR,1.5K,1.5K
+Jan-24,Tata,NEXON,17.2K,17.2K
+Jan-24,Tata,SAFARI,2.9K,2.9K
+Jan-24,Tata,HARRIER,2.6K,2.6K
+Jan-24,Toyota,Innova + Hycross,9.4K,9.4K
+Jan-24,Toyota,GLANZA,3.7K,3.7K
+Jan-24,Toyota,Fortuner,3.2K,3.2K
+Jan-24,Toyota,Camry,312.0,312.0
+Jan-24,Toyota,RUMION,639.0,639.0
+Jan-24,Toyota,HYRYDER,5.5K,5.5K
+Jan-24,Toyota,HILUX,289.0,289.0
+Jan-24,Toyota,VELLFIRE,61.0,61.0
+Jan-24,Volkswagen,VIRTUS,1.9K,1.9K
+Jan-24,Volkswagen,TAIGUN,1.3K,1.3K
+Jan-24,Volkswagen,TIGUAN,113.0,113.0
+Jan-24,Grand Total,Grand Total,3.9L,3.9L

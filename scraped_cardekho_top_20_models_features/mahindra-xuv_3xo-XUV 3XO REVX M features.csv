@@ -1,0 +1,140 @@
+company,model,variant,feature_name,feature_details
+mahindra,xuv-3xo,XUV 3XO REVX M,Engine Type,mStallion (TCMPFi) engine
+mahindra,xuv-3xo,XUV 3XO REVX M,Displacement,1197 cc
+mahindra,xuv-3xo,XUV 3XO REVX M,Max Power,109.96bhp@5000rpm
+mahindra,xuv-3xo,XUV 3XO REVX M,Max Torque,200Nm@1500-3500rpm
+mahindra,xuv-3xo,XUV 3XO REVX M,No. of Cylinders,3
+mahindra,xuv-3xo,XUV 3XO REVX M,Valves Per Cylinder,4
+mahindra,xuv-3xo,XUV 3XO REVX M,Turbo Charger,YES
+mahindra,xuv-3xo,XUV 3XO REVX M,Transmission Type,Manual
+mahindra,xuv-3xo,XUV 3XO REVX M,Gearbox,6-Speed
+mahindra,xuv-3xo,XUV 3XO REVX M,Drive Type,FWD
+mahindra,xuv-3xo,XUV 3XO REVX M,Fuel Type,Petrol
+mahindra,xuv-3xo,XUV 3XO REVX M,Petrol Mileage ARAI,18.89 kmpl
+mahindra,xuv-3xo,XUV 3XO REVX M,Emission Norm Compliance,BS VI 2.0
+mahindra,xuv-3xo,XUV 3XO REVX M,Front Suspension,MacPherson Strut suspension
+mahindra,xuv-3xo,XUV 3XO REVX M,Rear Suspension,Rear twist beam
+mahindra,xuv-3xo,XUV 3XO REVX M,Steering Type,Electric
+mahindra,xuv-3xo,XUV 3XO REVX M,Turning Radius,5.3 m
+mahindra,xuv-3xo,XUV 3XO REVX M,Front Brake Type,Disc
+mahindra,xuv-3xo,XUV 3XO REVX M,Rear Brake Type,Disc
+mahindra,xuv-3xo,XUV 3XO REVX M,Length,3990 mm
+mahindra,xuv-3xo,XUV 3XO REVX M,Width,1821 mm
+mahindra,xuv-3xo,XUV 3XO REVX M,Height,1647 mm
+mahindra,xuv-3xo,XUV 3XO REVX M,Boot Space,364 Litres
+mahindra,xuv-3xo,XUV 3XO REVX M,Seating Capacity,5
+mahindra,xuv-3xo,XUV 3XO REVX M,Wheel Base,2600 mm
+mahindra,xuv-3xo,XUV 3XO REVX M,No. of Doors,5
+mahindra,xuv-3xo,XUV 3XO REVX M,Power Steering,YES
+mahindra,xuv-3xo,XUV 3XO REVX M,Air Conditioner,YES
+mahindra,xuv-3xo,XUV 3XO REVX M,Heater,YES
+mahindra,xuv-3xo,XUV 3XO REVX M,Height Adjustable Driver Seat,YES
+mahindra,xuv-3xo,XUV 3XO REVX M,Ventilated Seats,NO
+mahindra,xuv-3xo,XUV 3XO REVX M,Electric Adjustable Seats,NO
+mahindra,xuv-3xo,XUV 3XO REVX M,Automatic Climate Control,NO
+mahindra,xuv-3xo,XUV 3XO REVX M,Accessory Power Outlet,YES
+mahindra,xuv-3xo,XUV 3XO REVX M,Rear Reading Lamp,YES
+mahindra,xuv-3xo,XUV 3XO REVX M,Adjustable Headrest,YES
+mahindra,xuv-3xo,XUV 3XO REVX M,Rear Seat Centre Arm Rest,YES
+mahindra,xuv-3xo,XUV 3XO REVX M,Height Adjustable Front Seat Belts,YES
+mahindra,xuv-3xo,XUV 3XO REVX M,Rear AC Vents,YES
+mahindra,xuv-3xo,XUV 3XO REVX M,Cruise Control,NO
+mahindra,xuv-3xo,XUV 3XO REVX M,Parking Sensors,Rear
+mahindra,xuv-3xo,XUV 3XO REVX M,Real-Time Vehicle Tracking,NO
+mahindra,xuv-3xo,XUV 3XO REVX M,Foldable Rear Seat,60:40 Split
+mahindra,xuv-3xo,XUV 3XO REVX M,KeyLess Entry,YES
+mahindra,xuv-3xo,XUV 3XO REVX M,Engine Start/Stop Button,YES
+mahindra,xuv-3xo,XUV 3XO REVX M,Cooled Glovebox,NO
+mahindra,xuv-3xo,XUV 3XO REVX M,Paddle Shifters,NO
+mahindra,xuv-3xo,XUV 3XO REVX M,USB Charger,Front & Rear
+mahindra,xuv-3xo,XUV 3XO REVX M,Central Console Armrest,With Storage
+mahindra,xuv-3xo,XUV 3XO REVX M,Hands-Free Tailgate,NO
+mahindra,xuv-3xo,XUV 3XO REVX M,Rear Curtain,NO
+mahindra,xuv-3xo,XUV 3XO REVX M,Glove Box light,NO
+mahindra,xuv-3xo,XUV 3XO REVX M,Idle Start-Stop System,YES
+mahindra,xuv-3xo,XUV 3XO REVX M,Rear Window Sunblind,NO
+mahindra,xuv-3xo,XUV 3XO REVX M,Rear Windscreen Sunblind,NO
+mahindra,xuv-3xo,XUV 3XO REVX M,Automatic Headlamps,NO
+mahindra,xuv-3xo,XUV 3XO REVX M,Follow Me Home Headlamps,YES
+mahindra,xuv-3xo,XUV 3XO REVX M,Power Windows,Front & Rear
+mahindra,xuv-3xo,XUV 3XO REVX M,Cup Holders,Front & Rear
+mahindra,xuv-3xo,XUV 3XO REVX M,Tachometer,YES
+mahindra,xuv-3xo,XUV 3XO REVX M,Leather Wrapped Steering Wheel,NO
+mahindra,xuv-3xo,XUV 3XO REVX M,Leather wrap gear-shift selector,NO
+mahindra,xuv-3xo,XUV 3XO REVX M,Glove Box,YES
+mahindra,xuv-3xo,XUV 3XO REVX M,Cigarette Lighter,NO
+mahindra,xuv-3xo,XUV 3XO REVX M,Folding Table in The Rear,NO
+mahindra,xuv-3xo,XUV 3XO REVX M,Digital Cluster,NO
+mahindra,xuv-3xo,XUV 3XO REVX M,Digital Cluster Size,NO
+mahindra,xuv-3xo,XUV 3XO REVX M,Upholstery,Leatherette
+mahindra,xuv-3xo,XUV 3XO REVX M,Adjustable Headlamps,YES
+mahindra,xuv-3xo,XUV 3XO REVX M,Headlamp Washers,NO
+mahindra,xuv-3xo,XUV 3XO REVX M,Rear Window Wiper,NO
+mahindra,xuv-3xo,XUV 3XO REVX M,Rear Window Washer,NO
+mahindra,xuv-3xo,XUV 3XO REVX M,Rear Window Defogger,NO
+mahindra,xuv-3xo,XUV 3XO REVX M,Wheel Covers,YES
+mahindra,xuv-3xo,XUV 3XO REVX M,Alloy Wheels,NO
+mahindra,xuv-3xo,XUV 3XO REVX M,Rear Spoiler,NO
+mahindra,xuv-3xo,XUV 3XO REVX M,Side Stepper,NO
+mahindra,xuv-3xo,XUV 3XO REVX M,Outside Rear View Mirror Turn Indicators,YES
+mahindra,xuv-3xo,XUV 3XO REVX M,Integrated Antenna,YES
+mahindra,xuv-3xo,XUV 3XO REVX M,Projector Headlamps,YES
+mahindra,xuv-3xo,XUV 3XO REVX M,Halogen Headlamps,YES
+mahindra,xuv-3xo,XUV 3XO REVX M,Cornering Foglamps,NO
+mahindra,xuv-3xo,XUV 3XO REVX M,Roof Rails,NO
+mahindra,xuv-3xo,XUV 3XO REVX M,Fog Lights,NO
+mahindra,xuv-3xo,XUV 3XO REVX M,Convertible Top,NO
+mahindra,xuv-3xo,XUV 3XO REVX M,Sunroof,NO
+mahindra,xuv-3xo,XUV 3XO REVX M,Boot Opening,Manual
+mahindra,xuv-3xo,XUV 3XO REVX M,Heated Outside Rear View Mirror,NO
+mahindra,xuv-3xo,XUV 3XO REVX M,Outside Rear View Mirror (ORVM),Powered
+mahindra,xuv-3xo,XUV 3XO REVX M,Tyre Size,205/65 R16
+mahindra,xuv-3xo,XUV 3XO REVX M,Tyre Type,"Tubeless,Radial"
+mahindra,xuv-3xo,XUV 3XO REVX M,Wheel Size,16 Inch
+mahindra,xuv-3xo,XUV 3XO REVX M,LED DRLs,YES
+mahindra,xuv-3xo,XUV 3XO REVX M,LED Headlamps,NO
+mahindra,xuv-3xo,XUV 3XO REVX M,LED Taillights,YES
+mahindra,xuv-3xo,XUV 3XO REVX M,LED Fog Lamps,NO
+mahindra,xuv-3xo,XUV 3XO REVX M,Additional Features,Electronic Trumpet Horn
+mahindra,xuv-3xo,XUV 3XO REVX M,Anti-lock Braking System (ABS),YES
+mahindra,xuv-3xo,XUV 3XO REVX M,Central Locking,YES
+mahindra,xuv-3xo,XUV 3XO REVX M,Child Safety Locks,YES
+mahindra,xuv-3xo,XUV 3XO REVX M,No. of Airbags,6
+mahindra,xuv-3xo,XUV 3XO REVX M,Driver Airbag,YES
+mahindra,xuv-3xo,XUV 3XO REVX M,Passenger Airbag,YES
+mahindra,xuv-3xo,XUV 3XO REVX M,Side Airbag,YES
+mahindra,xuv-3xo,XUV 3XO REVX M,Side Airbag-Rear,NO
+mahindra,xuv-3xo,XUV 3XO REVX M,Day & Night Rear View Mirror,YES
+mahindra,xuv-3xo,XUV 3XO REVX M,Xenon Headlamps,NO
+mahindra,xuv-3xo,XUV 3XO REVX M,Curtain Airbag,YES
+mahindra,xuv-3xo,XUV 3XO REVX M,Electronic Brakeforce Distribution (EBD),YES
+mahindra,xuv-3xo,XUV 3XO REVX M,Seat Belt Warning,YES
+mahindra,xuv-3xo,XUV 3XO REVX M,Door Ajar Warning,YES
+mahindra,xuv-3xo,XUV 3XO REVX M,Tyre Pressure Monitoring System (TPMS),NO
+mahindra,xuv-3xo,XUV 3XO REVX M,Engine Immobilizer,YES
+mahindra,xuv-3xo,XUV 3XO REVX M,Electronic Stability Control (ESC),YES
+mahindra,xuv-3xo,XUV 3XO REVX M,Rear Camera,NO
+mahindra,xuv-3xo,XUV 3XO REVX M,Speed Alert,YES
+mahindra,xuv-3xo,XUV 3XO REVX M,Speed Sensing Auto Door Lock,YES
+mahindra,xuv-3xo,XUV 3XO REVX M,Knee Airbags,NO
+mahindra,xuv-3xo,XUV 3XO REVX M,ISOFIX Child Seat Mounts,YES
+mahindra,xuv-3xo,XUV 3XO REVX M,Heads-Up Display (HUD),NO
+mahindra,xuv-3xo,XUV 3XO REVX M,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+mahindra,xuv-3xo,XUV 3XO REVX M,Impact Sensing Auto Door Unlock,YES
+mahindra,xuv-3xo,XUV 3XO REVX M,360 View Camera,NO
+mahindra,xuv-3xo,XUV 3XO REVX M,Global NCAP Safety Rating,5 Star
+mahindra,xuv-3xo,XUV 3XO REVX M,Global NCAP Child Safety Rating,5 Star
+mahindra,xuv-3xo,XUV 3XO REVX M,Bharat NCAP Safety Rating,5 Star
+mahindra,xuv-3xo,XUV 3XO REVX M,Bharat NCAP Child Safety Rating,5 Star
+mahindra,xuv-3xo,XUV 3XO REVX M,Radio,YES
+mahindra,xuv-3xo,XUV 3XO REVX M,Integrated 2DIN Audio,YES
+mahindra,xuv-3xo,XUV 3XO REVX M,Wireless Phone Charging,NO
+mahindra,xuv-3xo,XUV 3XO REVX M,Bluetooth Connectivity,YES
+mahindra,xuv-3xo,XUV 3XO REVX M,Touchscreen,YES
+mahindra,xuv-3xo,XUV 3XO REVX M,Touchscreen Size,10.25 inch
+mahindra,xuv-3xo,XUV 3XO REVX M,Connectivity,"Android Auto, Apple CarPlay"
+mahindra,xuv-3xo,XUV 3XO REVX M,Android Auto,NO
+mahindra,xuv-3xo,XUV 3XO REVX M,Apple CarPlay,NO
+mahindra,xuv-3xo,XUV 3XO REVX M,No. of Speakers,4
+mahindra,xuv-3xo,XUV 3XO REVX M,Usb Ports,YES
+mahindra,xuv-3xo,XUV 3XO REVX M,Speakers,Front & Rear

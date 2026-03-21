@@ -1,0 +1,142 @@
+company,model,variant,feature_name,feature_details
+HYUNDAI,CRETA,Creta King,Engine Type,1.5L MPi
+HYUNDAI,CRETA,Creta King,Displacement,1497 cc
+HYUNDAI,CRETA,Creta King,Max Power,113.18bhp@6300rpm
+HYUNDAI,CRETA,Creta King,Max Torque,143.8Nm@4500rpm
+HYUNDAI,CRETA,Creta King,No. of Cylinders,4
+HYUNDAI,CRETA,Creta King,Valves Per Cylinder,4
+HYUNDAI,CRETA,Creta King,Valve Configuration,DOHC
+HYUNDAI,CRETA,Creta King,Fuel Supply System,MPi
+HYUNDAI,CRETA,Creta King,Turbo Charger,NO
+HYUNDAI,CRETA,Creta King,Transmission Type,Manual
+HYUNDAI,CRETA,Creta King,Gearbox,6-Speed
+HYUNDAI,CRETA,Creta King,Drive Type,FWD
+HYUNDAI,CRETA,Creta King,Fuel Type,Petrol
+HYUNDAI,CRETA,Creta King,Petrol Mileage ARAI,17.4 kmpl
+HYUNDAI,CRETA,Creta King,Petrol Fuel Tank Capacity,50 Litres
+HYUNDAI,CRETA,Creta King,Emission Norm Compliance,BS VI 2.0
+HYUNDAI,CRETA,Creta King,Front Suspension,MacPherson Strut suspension
+HYUNDAI,CRETA,Creta King,Rear Suspension,Rear twist beam
+HYUNDAI,CRETA,Creta King,Steering Type,Electric
+HYUNDAI,CRETA,Creta King,Steering Column,Tilt & Telescopic
+HYUNDAI,CRETA,Creta King,Turning Radius,5.3 m
+HYUNDAI,CRETA,Creta King,Front Brake Type,Disc
+HYUNDAI,CRETA,Creta King,Rear Brake Type,Disc
+HYUNDAI,CRETA,Creta King,Alloy Wheel Size Front,18 Inch
+HYUNDAI,CRETA,Creta King,Alloy Wheel Size Rear,18 Inch
+HYUNDAI,CRETA,Creta King,Length,4330 mm
+HYUNDAI,CRETA,Creta King,Width,1790 mm
+HYUNDAI,CRETA,Creta King,Height,1635 mm
+HYUNDAI,CRETA,Creta King,Seating Capacity,5
+HYUNDAI,CRETA,Creta King,Ground Clearance Unladen,190 mm
+HYUNDAI,CRETA,Creta King,Wheel Base,2610 mm
+HYUNDAI,CRETA,Creta King,No. of Doors,5
+HYUNDAI,CRETA,Creta King,Reported Boot Space,433 Litres
+HYUNDAI,CRETA,Creta King,Power Steering,YES
+HYUNDAI,CRETA,Creta King,Air Conditioner,YES
+HYUNDAI,CRETA,Creta King,Heater,YES
+HYUNDAI,CRETA,Creta King,Height Adjustable Driver Seat,YES
+HYUNDAI,CRETA,Creta King,Ventilated Seats,YES
+HYUNDAI,CRETA,Creta King,Electric Adjustable Seats,Front
+HYUNDAI,CRETA,Creta King,Automatic Climate Control,YES
+HYUNDAI,CRETA,Creta King,Accessory Power Outlet,YES
+HYUNDAI,CRETA,Creta King,Trunk Light,YES
+HYUNDAI,CRETA,Creta King,Vanity Mirror,YES
+HYUNDAI,CRETA,Creta King,Rear Reading Lamp,YES
+HYUNDAI,CRETA,Creta King,Adjustable Headrest,YES
+HYUNDAI,CRETA,Creta King,Rear Seat Centre Arm Rest,YES
+HYUNDAI,CRETA,Creta King,Height Adjustable Front Seat Belts,YES
+HYUNDAI,CRETA,Creta King,Rear AC Vents,YES
+HYUNDAI,CRETA,Creta King,Cruise Control,YES
+HYUNDAI,CRETA,Creta King,Parking Sensors,Front & Rear
+HYUNDAI,CRETA,Creta King,Foldable Rear Seat,60:40 Split
+HYUNDAI,CRETA,Creta King,KeyLess Entry,YES
+HYUNDAI,CRETA,Creta King,Engine Start/Stop Button,YES
+HYUNDAI,CRETA,Creta King,Cooled Glovebox,YES
+HYUNDAI,CRETA,Creta King,Voice Commands,YES
+HYUNDAI,CRETA,Creta King,Paddle Shifters,NO
+HYUNDAI,CRETA,Creta King,USB Charger,Front & Rear
+HYUNDAI,CRETA,Creta King,Central Console Armrest,With Storage
+HYUNDAI,CRETA,Creta King,Hands-Free Tailgate,NO
+HYUNDAI,CRETA,Creta King,Idle Start-Stop System,YES
+HYUNDAI,CRETA,Creta King,Rear Window Sunblind,YES
+HYUNDAI,CRETA,Creta King,Automatic Headlamps,YES
+HYUNDAI,CRETA,Creta King,Follow Me Home Headlamps,YES
+HYUNDAI,CRETA,Creta King,Additional Features,Sunglass holder
+HYUNDAI,CRETA,Creta King,Voice assisted sunroof,YES
+HYUNDAI,CRETA,Creta King,Drive Mode Types,NA
+HYUNDAI,CRETA,Creta King,Power Windows,Front & Rear
+HYUNDAI,CRETA,Creta King,Cup Holders,Front & Rear
+HYUNDAI,CRETA,Creta King,Tachometer,YES
+HYUNDAI,CRETA,Creta King,Glove Box,YES
+HYUNDAI,CRETA,Creta King,Digital Odometer,YES
+HYUNDAI,CRETA,Creta King,Dual Tone Dashboard,YES
+HYUNDAI,CRETA,Creta King,Additional Features,Rear parcel tray
+HYUNDAI,CRETA,Creta King,Digital Cluster,Full
+HYUNDAI,CRETA,Creta King,Digital Cluster Size,10.25 Inch
+HYUNDAI,CRETA,Creta King,Upholstery,Leatherette
+HYUNDAI,CRETA,Creta King,Rear Window Wiper,YES
+HYUNDAI,CRETA,Creta King,Rear Window Washer,YES
+HYUNDAI,CRETA,Creta King,Rear Window Defogger,YES
+HYUNDAI,CRETA,Creta King,Wheel Covers,NO
+HYUNDAI,CRETA,Creta King,Alloy Wheels,YES
+HYUNDAI,CRETA,Creta King,Rear Spoiler,YES
+HYUNDAI,CRETA,Creta King,Outside Rear View Mirror Turn Indicators,YES
+HYUNDAI,CRETA,Creta King,Integrated Antenna,YES
+HYUNDAI,CRETA,Creta King,Projector Headlamps,NO
+HYUNDAI,CRETA,Creta King,Roof Rails,YES
+HYUNDAI,CRETA,Creta King,Antenna,Shark Fin
+HYUNDAI,CRETA,Creta King,Sunroof,Panoramic
+HYUNDAI,CRETA,Creta King,Boot Opening,Electronic
+HYUNDAI,CRETA,Creta King,Puddle Lamps,YES
+HYUNDAI,CRETA,Creta King,Outside Rear View Mirror (ORVM),Powered & Folding
+HYUNDAI,CRETA,Creta King,Tyre Size,215/55 R18
+HYUNDAI,CRETA,Creta King,Tyre Type,Radial Tubeless
+HYUNDAI,CRETA,Creta King,LED DRLs,YES
+HYUNDAI,CRETA,Creta King,LED Headlamps,YES
+HYUNDAI,CRETA,Creta King,LED Taillights,YES
+HYUNDAI,CRETA,Creta King,Anti-lock Braking System (ABS),YES
+HYUNDAI,CRETA,Creta King,Central Locking,YES
+HYUNDAI,CRETA,Creta King,Child Safety Locks,YES
+HYUNDAI,CRETA,Creta King,Anti-Theft Alarm,YES
+HYUNDAI,CRETA,Creta King,No. of Airbags,6
+HYUNDAI,CRETA,Creta King,Driver Airbag,YES
+HYUNDAI,CRETA,Creta King,Passenger Airbag,YES
+HYUNDAI,CRETA,Creta King,Side Airbag,YES
+HYUNDAI,CRETA,Creta King,Side Airbag-Rear,NO
+HYUNDAI,CRETA,Creta King,Day & Night Rear View Mirror,YES
+HYUNDAI,CRETA,Creta King,Curtain Airbag,YES
+HYUNDAI,CRETA,Creta King,Electronic Brakeforce Distribution (EBD),YES
+HYUNDAI,CRETA,Creta King,Seat Belt Warning,YES
+HYUNDAI,CRETA,Creta King,Door Ajar Warning,YES
+HYUNDAI,CRETA,Creta King,Traction Control,NO
+HYUNDAI,CRETA,Creta King,Tyre Pressure Monitoring System (TPMS),YES
+HYUNDAI,CRETA,Creta King,Engine Immobilizer,YES
+HYUNDAI,CRETA,Creta King,Electronic Stability Control (ESC),YES
+HYUNDAI,CRETA,Creta King,Rear Camera,With Guidedlines
+HYUNDAI,CRETA,Creta King,Anti-Theft Device,YES
+HYUNDAI,CRETA,Creta King,Anti-Pinch Power Windows,Driver's Window
+HYUNDAI,CRETA,Creta King,Speed Alert,YES
+HYUNDAI,CRETA,Creta King,Speed Sensing Auto Door Lock,YES
+HYUNDAI,CRETA,Creta King,Knee Airbags,NO
+HYUNDAI,CRETA,Creta King,ISOFIX Child Seat Mounts,YES
+HYUNDAI,CRETA,Creta King,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+HYUNDAI,CRETA,Creta King,Hill Assist,YES
+HYUNDAI,CRETA,Creta King,Impact Sensing Auto Door Unlock,YES
+HYUNDAI,CRETA,Creta King,360 View Camera,YES
+HYUNDAI,CRETA,Creta King,Radio,YES
+HYUNDAI,CRETA,Creta King,Integrated 2DIN Audio,YES
+HYUNDAI,CRETA,Creta King,Wireless Phone Charging,YES
+HYUNDAI,CRETA,Creta King,Bluetooth Connectivity,YES
+HYUNDAI,CRETA,Creta King,Touchscreen,YES
+HYUNDAI,CRETA,Creta King,Touchscreen Size,10.25 inch
+HYUNDAI,CRETA,Creta King,Connectivity,Android Auto
+HYUNDAI,CRETA,Creta King,Android Auto,YES
+HYUNDAI,CRETA,Creta King,Apple CarPlay,YES
+HYUNDAI,CRETA,Creta King,No. of Speakers,5
+HYUNDAI,CRETA,Creta King,Usb Ports,YES
+HYUNDAI,CRETA,Creta King,Inbuilt Apps,JioSaavan
+HYUNDAI,CRETA,Creta King,Tweeters,2
+HYUNDAI,CRETA,Creta King,Subwoofer,1
+HYUNDAI,CRETA,Creta King,Additional Features,Bose premium sound 8 speaker system with front central speaker & sub-woofer
+HYUNDAI,CRETA,Creta King,Speakers,Front & Rear

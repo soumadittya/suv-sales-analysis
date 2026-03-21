@@ -1,0 +1,150 @@
+company,model,variant,feature_name,feature_details
+KIA,SONET,Sonet HTE (O),Engine Type,Smartstream G1.2
+KIA,SONET,Sonet HTE (O),Displacement,1197 cc
+KIA,SONET,Sonet HTE (O),Max Power,81.8bhp@6000rpm
+KIA,SONET,Sonet HTE (O),Max Torque,115Nm@4200rpm
+KIA,SONET,Sonet HTE (O),No. of Cylinders,4
+KIA,SONET,Sonet HTE (O),Valves Per Cylinder,4
+KIA,SONET,Sonet HTE (O),Fuel Supply System,MPi
+KIA,SONET,Sonet HTE (O),Turbo Charger,NO
+KIA,SONET,Sonet HTE (O),Transmission Type,Manual
+KIA,SONET,Sonet HTE (O),Gearbox,5-Speed
+KIA,SONET,Sonet HTE (O),Drive Type,FWD
+KIA,SONET,Sonet HTE (O),Fuel Type,Petrol
+KIA,SONET,Sonet HTE (O),Petrol Mileage ARAI,18.4 kmpl
+KIA,SONET,Sonet HTE (O),Petrol Fuel Tank Capacity,45 Litres
+KIA,SONET,Sonet HTE (O),Emission Norm Compliance,BS VI 2.0
+KIA,SONET,Sonet HTE (O),Front Suspension,MacPherson Strut suspension
+KIA,SONET,Sonet HTE (O),Rear Suspension,Rear twist beam
+KIA,SONET,Sonet HTE (O),Steering Type,Electric
+KIA,SONET,Sonet HTE (O),Steering Column,Tilt
+KIA,SONET,Sonet HTE (O),Front Brake Type,Disc
+KIA,SONET,Sonet HTE (O),Rear Brake Type,Drum
+KIA,SONET,Sonet HTE (O),Length,3995 mm
+KIA,SONET,Sonet HTE (O),Width,1790 mm
+KIA,SONET,Sonet HTE (O),Height,1642 mm
+KIA,SONET,Sonet HTE (O),Boot Space,385 Litres
+KIA,SONET,Sonet HTE (O),Seating Capacity,5
+KIA,SONET,Sonet HTE (O),Wheel Base,2500 mm
+KIA,SONET,Sonet HTE (O),No. of Doors,5
+KIA,SONET,Sonet HTE (O),Power Steering,YES
+KIA,SONET,Sonet HTE (O),Air Conditioner,YES
+KIA,SONET,Sonet HTE (O),Heater,YES
+KIA,SONET,Sonet HTE (O),Adjustable Steering,Height only
+KIA,SONET,Sonet HTE (O),Height Adjustable Driver Seat,NO
+KIA,SONET,Sonet HTE (O),Ventilated Seats,NO
+KIA,SONET,Sonet HTE (O),Electric Adjustable Seats,NO
+KIA,SONET,Sonet HTE (O),Automatic Climate Control,NO
+KIA,SONET,Sonet HTE (O),Air Quality Control,NO
+KIA,SONET,Sonet HTE (O),Accessory Power Outlet,YES
+KIA,SONET,Sonet HTE (O),Vanity Mirror,NO
+KIA,SONET,Sonet HTE (O),Rear Reading Lamp,YES
+KIA,SONET,Sonet HTE (O),Rear Seat Headrest,Integrated
+KIA,SONET,Sonet HTE (O),Adjustable Headrest,YES
+KIA,SONET,Sonet HTE (O),Rear Seat Centre Arm Rest,NO
+KIA,SONET,Sonet HTE (O),Rear AC Vents,YES
+KIA,SONET,Sonet HTE (O),Active noise cancellation,NO
+KIA,SONET,Sonet HTE (O),Cruise Control,NO
+KIA,SONET,Sonet HTE (O),Parking Sensors,Rear
+KIA,SONET,Sonet HTE (O),Real-Time Vehicle Tracking,NO
+KIA,SONET,Sonet HTE (O),Foldable Rear Seat,Bench Folding
+KIA,SONET,Sonet HTE (O),KeyLess Entry,NO
+KIA,SONET,Sonet HTE (O),Engine Start/Stop Button,NO
+KIA,SONET,Sonet HTE (O),Voice Commands,NO
+KIA,SONET,Sonet HTE (O),Paddle Shifters,NO
+KIA,SONET,Sonet HTE (O),USB Charger,Front & Rear
+KIA,SONET,Sonet HTE (O),Central Console Armrest,With Storage
+KIA,SONET,Sonet HTE (O),Tailgate Ajar Warning,YES
+KIA,SONET,Sonet HTE (O),Hands-Free Tailgate,NO
+KIA,SONET,Sonet HTE (O),Gear Shift Indicator,YES
+KIA,SONET,Sonet HTE (O),Luggage Hook & Net,YES
+KIA,SONET,Sonet HTE (O),Battery Saver,YES
+KIA,SONET,Sonet HTE (O),Drive Modes,NO
+KIA,SONET,Sonet HTE (O),Idle Start-Stop System,YES
+KIA,SONET,Sonet HTE (O),Rear Window Sunblind,YES
+KIA,SONET,Sonet HTE (O),Automatic Headlamps,YES
+KIA,SONET,Sonet HTE (O),Follow Me Home Headlamps,NO
+KIA,SONET,Sonet HTE (O),Additional Features,Sunglass Holder
+KIA,SONET,Sonet HTE (O),Drive Mode Types,NO
+KIA,SONET,Sonet HTE (O),Power Windows,Front & Rear
+KIA,SONET,Sonet HTE (O),Cup Holders,Front Only
+KIA,SONET,Sonet HTE (O),Tachometer,YES
+KIA,SONET,Sonet HTE (O),Leather Wrapped Steering Wheel,NO
+KIA,SONET,Sonet HTE (O),Leather wrap gear-shift selector,NO
+KIA,SONET,Sonet HTE (O),Glove Box,YES
+KIA,SONET,Sonet HTE (O),Cigarette Lighter,NO
+KIA,SONET,Sonet HTE (O),Folding Table in The Rear,NO
+KIA,SONET,Sonet HTE (O),Dual Tone Dashboard,NO
+KIA,SONET,Sonet HTE (O),Digital Cluster,YES
+KIA,SONET,Sonet HTE (O),Digital Cluster Size,4.2
+KIA,SONET,Sonet HTE (O),Upholstery,Leatherette
+KIA,SONET,Sonet HTE (O),Adjustable Headlamps,YES
+KIA,SONET,Sonet HTE (O),Headlamp Washers,NO
+KIA,SONET,Sonet HTE (O),Rain Sensing Wiper,NO
+KIA,SONET,Sonet HTE (O),Rear Window Wiper,NO
+KIA,SONET,Sonet HTE (O),Rear Window Washer,NO
+KIA,SONET,Sonet HTE (O),Rear Window Defogger,NO
+KIA,SONET,Sonet HTE (O),Wheel Covers,YES
+KIA,SONET,Sonet HTE (O),Alloy Wheels,NO
+KIA,SONET,Sonet HTE (O),Tinted Glass,YES
+KIA,SONET,Sonet HTE (O),Rear Spoiler,NO
+KIA,SONET,Sonet HTE (O),Side Stepper,NO
+KIA,SONET,Sonet HTE (O),Outside Rear View Mirror Turn Indicators,NO
+KIA,SONET,Sonet HTE (O),Integrated Antenna,YES
+KIA,SONET,Sonet HTE (O),Chrome Grille,YES
+KIA,SONET,Sonet HTE (O),Smoke Headlamps,NO
+KIA,SONET,Sonet HTE (O),Roof Rails,NO
+KIA,SONET,Sonet HTE (O),Fog Lights,NO
+KIA,SONET,Sonet HTE (O),Antenna,Pole Type
+KIA,SONET,Sonet HTE (O),Sunroof,Single Pane
+KIA,SONET,Sonet HTE (O),Boot Opening,Manual
+KIA,SONET,Sonet HTE (O),Heated Outside Rear View Mirror,NO
+KIA,SONET,Sonet HTE (O),Outside Rear View Mirror (ORVM),Powered
+KIA,SONET,Sonet HTE (O),Tyre Size,195/65 R15
+KIA,SONET,Sonet HTE (O),Tyre Type,Radial Tubeless
+KIA,SONET,Sonet HTE (O),Wheel Size,15 Inch
+KIA,SONET,Sonet HTE (O),LED DRLs,YES
+KIA,SONET,Sonet HTE (O),LED Headlamps,NO
+KIA,SONET,Sonet HTE (O),LED Taillights,YES
+KIA,SONET,Sonet HTE (O),LED Fog Lamps,YES
+KIA,SONET,Sonet HTE (O),Anti-lock Braking System (ABS),YES
+KIA,SONET,Sonet HTE (O),Brake Assist,YES
+KIA,SONET,Sonet HTE (O),Central Locking,YES
+KIA,SONET,Sonet HTE (O),Child Safety Locks,YES
+KIA,SONET,Sonet HTE (O),Anti-Theft Alarm,NO
+KIA,SONET,Sonet HTE (O),No. of Airbags,6
+KIA,SONET,Sonet HTE (O),Driver Airbag,YES
+KIA,SONET,Sonet HTE (O),Passenger Airbag,YES
+KIA,SONET,Sonet HTE (O),Side Airbag,YES
+KIA,SONET,Sonet HTE (O),Side Airbag-Rear,NO
+KIA,SONET,Sonet HTE (O),Day & Night Rear View Mirror,YES
+KIA,SONET,Sonet HTE (O),Curtain Airbag,YES
+KIA,SONET,Sonet HTE (O),Electronic Brakeforce Distribution (EBD),YES
+KIA,SONET,Sonet HTE (O),Seat Belt Warning,YES
+KIA,SONET,Sonet HTE (O),Door Ajar Warning,YES
+KIA,SONET,Sonet HTE (O),Traction Control,NO
+KIA,SONET,Sonet HTE (O),Tyre Pressure Monitoring System (TPMS),YES
+KIA,SONET,Sonet HTE (O),Engine Immobilizer,YES
+KIA,SONET,Sonet HTE (O),Electronic Stability Control (ESC),YES
+KIA,SONET,Sonet HTE (O),Rear Camera,NO
+KIA,SONET,Sonet HTE (O),Speed Alert,YES
+KIA,SONET,Sonet HTE (O),Speed Sensing Auto Door Lock,YES
+KIA,SONET,Sonet HTE (O),Knee Airbags,NO
+KIA,SONET,Sonet HTE (O),ISOFIX Child Seat Mounts,YES
+KIA,SONET,Sonet HTE (O),Heads-Up Display (HUD),NO
+KIA,SONET,Sonet HTE (O),Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+KIA,SONET,Sonet HTE (O),Hill Descent Control,YES
+KIA,SONET,Sonet HTE (O),Hill Assist,YES
+KIA,SONET,Sonet HTE (O),Impact Sensing Auto Door Unlock,YES
+KIA,SONET,Sonet HTE (O),360 View Camera,NO
+KIA,SONET,Sonet HTE (O),Radio,NO
+KIA,SONET,Sonet HTE (O),Integrated 2DIN Audio,NO
+KIA,SONET,Sonet HTE (O),Wireless Phone Charging,NO
+KIA,SONET,Sonet HTE (O),Bluetooth Connectivity,NO
+KIA,SONET,Sonet HTE (O),Touchscreen,NO
+KIA,SONET,Sonet HTE (O),Android Auto,NO
+KIA,SONET,Sonet HTE (O),Apple CarPlay,NO
+KIA,SONET,Sonet HTE (O),Usb Ports,YES
+KIA,SONET,Sonet HTE (O),Rear Touchscreen,NO
+KIA,SONET,Sonet HTE (O),Additional Features,NO
+KIA,SONET,Sonet HTE (O),Speakers,NO

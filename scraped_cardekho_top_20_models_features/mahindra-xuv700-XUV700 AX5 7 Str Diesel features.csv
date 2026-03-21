@@ -1,0 +1,127 @@
+company,model,variant,feature_name,feature_details
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Engine Type,mHawk
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Displacement,2198 cc
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Max Power,182bhp@3500rpm
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Max Torque,420Nm@1600-2800rpm
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,No. of Cylinders,4
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Valves Per Cylinder,4
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Turbo Charger,YES
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Transmission Type,Manual
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Gearbox,6-Speed
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Drive Type,FWD
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Fuel Type,Diesel
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Diesel Mileage ARAI,17 kmpl
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Diesel Fuel Tank Capacity,60 Litres
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Emission Norm Compliance,BS VI 2.0
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Front Suspension,MacPherson Strut suspension
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Rear Suspension,"Multi-link, Solid Axle"
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Steering Column,Tilt
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Front Brake Type,Ventilated Disc
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Rear Brake Type,Solid Disc
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Alloy Wheel Size Front,17 Inch
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Alloy Wheel Size Rear,17 Inch
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Length,4695 mm
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Width,1890 mm
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Height,1755 mm
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Boot Space,240 Litres
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Seating Capacity,7
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Wheel Base,2750 mm
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,No. of Doors,5
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Reported Boot Space,240 Litres
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Power Steering,YES
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Air Conditioner,YES
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Heater,YES
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Height Adjustable Driver Seat,YES
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Ventilated Seats,NO
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Electric Adjustable Seats,NO
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Automatic Climate Control,NO
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Air Quality Control,NO
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Accessory Power Outlet,YES
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Rear Reading Lamp,YES
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Adjustable Headrest,YES
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Rear Seat Centre Arm Rest,YES
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Height Adjustable Front Seat Belts,YES
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Rear AC Vents,YES
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Cruise Control,YES
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Parking Sensors,Rear
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Foldable Rear Seat,60:40 Split
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Engine Start/Stop Button,YES
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,USB Charger,Front & Rear
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Central Console Armrest,With Storage
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Tailgate Ajar Warning,YES
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Hands-Free Tailgate,NO
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Gear Shift Indicator,YES
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Luggage Hook & Net,YES
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Battery Saver,YES
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Idle Start-Stop System,YES
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Automatic Headlamps,NO
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Follow Me Home Headlamps,YES
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Tachometer,YES
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Leather Wrapped Steering Wheel,NO
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Leather wrap gear-shift selector,NO
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Glove Box,YES
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Cigarette Lighter,NO
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Folding Table in The Rear,NO
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Digital Cluster,YES
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Digital Cluster Size,10.25 inch
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Upholstery,Fabric
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Adjustable Headlamps,YES
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Rain Sensing Wiper,NO
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Rear Window Wiper,YES
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Rear Window Washer,YES
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Rear Window Defogger,YES
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Wheel Covers,NO
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Alloy Wheels,YES
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Rear Spoiler,YES
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Integrated Antenna,YES
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Chrome Grille,YES
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Chrome Garnish,YES
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Halogen Headlamps,NO
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Cornering Headlamps,YES
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Roof Rails,YES
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Fog Lights,Front
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Antenna,Shark Fin
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Convertible Top,NO
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Sunroof,Panoramic
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Tyre Size,235/65 R17
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Tyre Type,"Tubeless, Radial"
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,LED DRLs,YES
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,LED Headlamps,YES
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,LED Taillights,YES
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Anti-lock Braking System (ABS),YES
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Central Locking,YES
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Child Safety Locks,YES
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,No. of Airbags,4
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Driver Airbag,YES
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Passenger Airbag,YES
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Side Airbag,NO
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Side Airbag-Rear,NO
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Curtain Airbag,YES
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Seat Belt Warning,YES
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Door Ajar Warning,YES
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Tyre Pressure Monitoring System (TPMS),NO
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Engine Immobilizer,YES
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Electronic Stability Control (ESC),YES
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Rear Camera,With Guidedlines
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Speed Alert,YES
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Speed Sensing Auto Door Lock,YES
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Knee Airbags,NO
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,ISOFIX Child Seat Mounts,YES
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Heads-Up Display (HUD),NO
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Hill Assist,YES
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,360 View Camera,NO
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Global NCAP Safety Rating,5 Star
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Radio,YES
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Integrated 2DIN Audio,NO
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Wireless Phone Charging,NO
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Bluetooth Connectivity,YES
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Touchscreen,YES
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Touchscreen Size,10.25 inch
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Connectivity,"Android Auto, Apple CarPlay"
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Android Auto,YES
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Apple CarPlay,YES
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,No. of Speakers,6
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Usb Ports,YES
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Additional Features,Wireless Android Auto & Apple CarPlay Compatibility
+mahindra,xuv700,XUV700 AX5 7 Str Diesel,Speakers,Front & Rear

@@ -1,0 +1,141 @@
+company,model,variant,feature_name,feature_details
+mahindra,xuv-3xo,XUV 3XO MX3,Engine Type,mStallion (TCMPFi) engine
+mahindra,xuv-3xo,XUV 3XO MX3,Displacement,1197 cc
+mahindra,xuv-3xo,XUV 3XO MX3,Max Power,109.96bhp@5000rpm
+mahindra,xuv-3xo,XUV 3XO MX3,Max Torque,200Nm@1500-3500rpm
+mahindra,xuv-3xo,XUV 3XO MX3,No. of Cylinders,3
+mahindra,xuv-3xo,XUV 3XO MX3,Valves Per Cylinder,4
+mahindra,xuv-3xo,XUV 3XO MX3,Turbo Charger,YES
+mahindra,xuv-3xo,XUV 3XO MX3,Transmission Type,Manual
+mahindra,xuv-3xo,XUV 3XO MX3,Gearbox,6-Speed
+mahindra,xuv-3xo,XUV 3XO MX3,Drive Type,FWD
+mahindra,xuv-3xo,XUV 3XO MX3,Fuel Type,Petrol
+mahindra,xuv-3xo,XUV 3XO MX3,Petrol Mileage ARAI,18.89 kmpl
+mahindra,xuv-3xo,XUV 3XO MX3,Petrol Fuel Tank Capacity,42 Litres
+mahindra,xuv-3xo,XUV 3XO MX3,Emission Norm Compliance,BS VI 2.0
+mahindra,xuv-3xo,XUV 3XO MX3,Front Suspension,MacPherson Strut suspension
+mahindra,xuv-3xo,XUV 3XO MX3,Rear Suspension,Rear twist beam
+mahindra,xuv-3xo,XUV 3XO MX3,Steering Type,Electric
+mahindra,xuv-3xo,XUV 3XO MX3,Turning Radius,5.3 m
+mahindra,xuv-3xo,XUV 3XO MX3,Front Brake Type,Disc
+mahindra,xuv-3xo,XUV 3XO MX3,Rear Brake Type,Disc
+mahindra,xuv-3xo,XUV 3XO MX3,Length,3990 mm
+mahindra,xuv-3xo,XUV 3XO MX3,Width,1821 mm
+mahindra,xuv-3xo,XUV 3XO MX3,Height,1647 mm
+mahindra,xuv-3xo,XUV 3XO MX3,Boot Space,364 Litres
+mahindra,xuv-3xo,XUV 3XO MX3,Seating Capacity,5
+mahindra,xuv-3xo,XUV 3XO MX3,Wheel Base,2600 mm
+mahindra,xuv-3xo,XUV 3XO MX3,No. of Doors,5
+mahindra,xuv-3xo,XUV 3XO MX3,Power Steering,YES
+mahindra,xuv-3xo,XUV 3XO MX3,Air Conditioner,YES
+mahindra,xuv-3xo,XUV 3XO MX3,Heater,YES
+mahindra,xuv-3xo,XUV 3XO MX3,Height Adjustable Driver Seat,NO
+mahindra,xuv-3xo,XUV 3XO MX3,Ventilated Seats,NO
+mahindra,xuv-3xo,XUV 3XO MX3,Electric Adjustable Seats,NO
+mahindra,xuv-3xo,XUV 3XO MX3,Automatic Climate Control,NO
+mahindra,xuv-3xo,XUV 3XO MX3,Accessory Power Outlet,YES
+mahindra,xuv-3xo,XUV 3XO MX3,Rear Reading Lamp,YES
+mahindra,xuv-3xo,XUV 3XO MX3,Adjustable Headrest,YES
+mahindra,xuv-3xo,XUV 3XO MX3,Rear Seat Centre Arm Rest,NO
+mahindra,xuv-3xo,XUV 3XO MX3,Height Adjustable Front Seat Belts,YES
+mahindra,xuv-3xo,XUV 3XO MX3,Rear AC Vents,YES
+mahindra,xuv-3xo,XUV 3XO MX3,Cruise Control,YES
+mahindra,xuv-3xo,XUV 3XO MX3,Parking Sensors,Rear
+mahindra,xuv-3xo,XUV 3XO MX3,Real-Time Vehicle Tracking,NO
+mahindra,xuv-3xo,XUV 3XO MX3,Foldable Rear Seat,60:40 Split
+mahindra,xuv-3xo,XUV 3XO MX3,KeyLess Entry,YES
+mahindra,xuv-3xo,XUV 3XO MX3,Engine Start/Stop Button,NO
+mahindra,xuv-3xo,XUV 3XO MX3,Cooled Glovebox,NO
+mahindra,xuv-3xo,XUV 3XO MX3,Paddle Shifters,NO
+mahindra,xuv-3xo,XUV 3XO MX3,USB Charger,Front & Rear
+mahindra,xuv-3xo,XUV 3XO MX3,Central Console Armrest,With Storage
+mahindra,xuv-3xo,XUV 3XO MX3,Hands-Free Tailgate,NO
+mahindra,xuv-3xo,XUV 3XO MX3,Rear Curtain,NO
+mahindra,xuv-3xo,XUV 3XO MX3,Luggage Hook & Net,YES
+mahindra,xuv-3xo,XUV 3XO MX3,Glove Box light,NO
+mahindra,xuv-3xo,XUV 3XO MX3,Idle Start-Stop System,YES
+mahindra,xuv-3xo,XUV 3XO MX3,Rear Window Sunblind,NO
+mahindra,xuv-3xo,XUV 3XO MX3,Rear Windscreen Sunblind,NO
+mahindra,xuv-3xo,XUV 3XO MX3,Automatic Headlamps,NO
+mahindra,xuv-3xo,XUV 3XO MX3,Follow Me Home Headlamps,YES
+mahindra,xuv-3xo,XUV 3XO MX3,Power Windows,Front & Rear
+mahindra,xuv-3xo,XUV 3XO MX3,Tachometer,YES
+mahindra,xuv-3xo,XUV 3XO MX3,Leather Wrapped Steering Wheel,NO
+mahindra,xuv-3xo,XUV 3XO MX3,Leather wrap gear-shift selector,NO
+mahindra,xuv-3xo,XUV 3XO MX3,Glove Box,YES
+mahindra,xuv-3xo,XUV 3XO MX3,Cigarette Lighter,NO
+mahindra,xuv-3xo,XUV 3XO MX3,Folding Table in The Rear,NO
+mahindra,xuv-3xo,XUV 3XO MX3,Digital Cluster,NO
+mahindra,xuv-3xo,XUV 3XO MX3,Digital Cluster Size,NO
+mahindra,xuv-3xo,XUV 3XO MX3,Upholstery,Fabric
+mahindra,xuv-3xo,XUV 3XO MX3,Adjustable Headlamps,YES
+mahindra,xuv-3xo,XUV 3XO MX3,Headlamp Washers,NO
+mahindra,xuv-3xo,XUV 3XO MX3,Rear Window Wiper,NO
+mahindra,xuv-3xo,XUV 3XO MX3,Rear Window Washer,NO
+mahindra,xuv-3xo,XUV 3XO MX3,Rear Window Defogger,NO
+mahindra,xuv-3xo,XUV 3XO MX3,Wheel Covers,YES
+mahindra,xuv-3xo,XUV 3XO MX3,Alloy Wheels,NO
+mahindra,xuv-3xo,XUV 3XO MX3,Rear Spoiler,NO
+mahindra,xuv-3xo,XUV 3XO MX3,Side Stepper,NO
+mahindra,xuv-3xo,XUV 3XO MX3,Outside Rear View Mirror Turn Indicators,YES
+mahindra,xuv-3xo,XUV 3XO MX3,Integrated Antenna,YES
+mahindra,xuv-3xo,XUV 3XO MX3,Projector Headlamps,YES
+mahindra,xuv-3xo,XUV 3XO MX3,Halogen Headlamps,YES
+mahindra,xuv-3xo,XUV 3XO MX3,Cornering Foglamps,NO
+mahindra,xuv-3xo,XUV 3XO MX3,Roof Rails,NO
+mahindra,xuv-3xo,XUV 3XO MX3,Fog Lights,NO
+mahindra,xuv-3xo,XUV 3XO MX3,Convertible Top,NO
+mahindra,xuv-3xo,XUV 3XO MX3,Sunroof,Single Pane
+mahindra,xuv-3xo,XUV 3XO MX3,Boot Opening,Electronic
+mahindra,xuv-3xo,XUV 3XO MX3,Heated Outside Rear View Mirror,NO
+mahindra,xuv-3xo,XUV 3XO MX3,Outside Rear View Mirror (ORVM),Powered
+mahindra,xuv-3xo,XUV 3XO MX3,Tyre Size,205/65 R16
+mahindra,xuv-3xo,XUV 3XO MX3,Tyre Type,"Tubeless, Radial"
+mahindra,xuv-3xo,XUV 3XO MX3,Wheel Size,16 Inch
+mahindra,xuv-3xo,XUV 3XO MX3,LED DRLs,NO
+mahindra,xuv-3xo,XUV 3XO MX3,LED Headlamps,NO
+mahindra,xuv-3xo,XUV 3XO MX3,LED Taillights,YES
+mahindra,xuv-3xo,XUV 3XO MX3,LED Fog Lamps,NO
+mahindra,xuv-3xo,XUV 3XO MX3,Additional Features,Electronic Trumpet Horn
+mahindra,xuv-3xo,XUV 3XO MX3,Anti-lock Braking System (ABS),YES
+mahindra,xuv-3xo,XUV 3XO MX3,Central Locking,YES
+mahindra,xuv-3xo,XUV 3XO MX3,Child Safety Locks,YES
+mahindra,xuv-3xo,XUV 3XO MX3,No. of Airbags,6
+mahindra,xuv-3xo,XUV 3XO MX3,Driver Airbag,YES
+mahindra,xuv-3xo,XUV 3XO MX3,Passenger Airbag,YES
+mahindra,xuv-3xo,XUV 3XO MX3,Side Airbag,YES
+mahindra,xuv-3xo,XUV 3XO MX3,Side Airbag-Rear,NO
+mahindra,xuv-3xo,XUV 3XO MX3,Day & Night Rear View Mirror,YES
+mahindra,xuv-3xo,XUV 3XO MX3,Xenon Headlamps,NO
+mahindra,xuv-3xo,XUV 3XO MX3,Curtain Airbag,YES
+mahindra,xuv-3xo,XUV 3XO MX3,Electronic Brakeforce Distribution (EBD),YES
+mahindra,xuv-3xo,XUV 3XO MX3,Seat Belt Warning,YES
+mahindra,xuv-3xo,XUV 3XO MX3,Door Ajar Warning,YES
+mahindra,xuv-3xo,XUV 3XO MX3,Tyre Pressure Monitoring System (TPMS),NO
+mahindra,xuv-3xo,XUV 3XO MX3,Engine Immobilizer,YES
+mahindra,xuv-3xo,XUV 3XO MX3,Electronic Stability Control (ESC),YES
+mahindra,xuv-3xo,XUV 3XO MX3,Rear Camera,NO
+mahindra,xuv-3xo,XUV 3XO MX3,Speed Alert,YES
+mahindra,xuv-3xo,XUV 3XO MX3,Speed Sensing Auto Door Lock,YES
+mahindra,xuv-3xo,XUV 3XO MX3,Knee Airbags,NO
+mahindra,xuv-3xo,XUV 3XO MX3,ISOFIX Child Seat Mounts,YES
+mahindra,xuv-3xo,XUV 3XO MX3,Heads-Up Display (HUD),NO
+mahindra,xuv-3xo,XUV 3XO MX3,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+mahindra,xuv-3xo,XUV 3XO MX3,360 View Camera,NO
+mahindra,xuv-3xo,XUV 3XO MX3,Global NCAP Safety Rating,5 Star
+mahindra,xuv-3xo,XUV 3XO MX3,Global NCAP Child Safety Rating,5 Star
+mahindra,xuv-3xo,XUV 3XO MX3,Bharat NCAP Safety Rating,5 Star
+mahindra,xuv-3xo,XUV 3XO MX3,Bharat NCAP Child Safety Rating,5 Star
+mahindra,xuv-3xo,XUV 3XO MX3,Radio,YES
+mahindra,xuv-3xo,XUV 3XO MX3,Integrated 2DIN Audio,YES
+mahindra,xuv-3xo,XUV 3XO MX3,Wireless Phone Charging,YES
+mahindra,xuv-3xo,XUV 3XO MX3,Bluetooth Connectivity,YES
+mahindra,xuv-3xo,XUV 3XO MX3,Touchscreen,YES
+mahindra,xuv-3xo,XUV 3XO MX3,Touchscreen Size,10.25 inch
+mahindra,xuv-3xo,XUV 3XO MX3,Connectivity,"Android Auto, Apple CarPlay"
+mahindra,xuv-3xo,XUV 3XO MX3,Android Auto,YES
+mahindra,xuv-3xo,XUV 3XO MX3,Apple CarPlay,YES
+mahindra,xuv-3xo,XUV 3XO MX3,No. of Speakers,4
+mahindra,xuv-3xo,XUV 3XO MX3,Usb Ports,YES
+mahindra,xuv-3xo,XUV 3XO MX3,Additional Features,Wireless Android Auto And Wired Apple CarPlay
+mahindra,xuv-3xo,XUV 3XO MX3,Speakers,Front & Rear

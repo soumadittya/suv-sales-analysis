@@ -1,0 +1,119 @@
+company,model,variant,feature_name,feature_details
+MARUTI,FRONX,FRONX Delta,Engine Type,"1.2L Dual Jet, Dual VVT"
+MARUTI,FRONX,FRONX Delta,Displacement,1197 cc
+MARUTI,FRONX,FRONX Delta,Max Power,88.50bhp@6000rpm
+MARUTI,FRONX,FRONX Delta,Max Torque,113Nm@4400rpm
+MARUTI,FRONX,FRONX Delta,No. of Cylinders,4
+MARUTI,FRONX,FRONX Delta,Valves Per Cylinder,4
+MARUTI,FRONX,FRONX Delta,Turbo Charger,NO
+MARUTI,FRONX,FRONX Delta,Transmission Type,Manual
+MARUTI,FRONX,FRONX Delta,Gearbox,5-Speed
+MARUTI,FRONX,FRONX Delta,Drive Type,FWD
+MARUTI,FRONX,FRONX Delta,Fuel Type,Petrol
+MARUTI,FRONX,FRONX Delta,Petrol Mileage ARAI,21.79 kmpl
+MARUTI,FRONX,FRONX Delta,Petrol Fuel Tank Capacity,37 Litres
+MARUTI,FRONX,FRONX Delta,Emission Norm Compliance,BS VI 2.0
+MARUTI,FRONX,FRONX Delta,Top Speed,180 kmph
+MARUTI,FRONX,FRONX Delta,Front Suspension,MacPherson Strut suspension
+MARUTI,FRONX,FRONX Delta,Rear Suspension,Rear twist beam
+MARUTI,FRONX,FRONX Delta,Steering Type,Electric
+MARUTI,FRONX,FRONX Delta,Steering Column,Tilt
+MARUTI,FRONX,FRONX Delta,Turning Radius,4.9 m
+MARUTI,FRONX,FRONX Delta,Front Brake Type,Disc
+MARUTI,FRONX,FRONX Delta,Rear Brake Type,Drum
+MARUTI,FRONX,FRONX Delta,Length,3995 mm
+MARUTI,FRONX,FRONX Delta,Width,1765 mm
+MARUTI,FRONX,FRONX Delta,Height,1550 mm
+MARUTI,FRONX,FRONX Delta,Boot Space,308 Litres
+MARUTI,FRONX,FRONX Delta,Seating Capacity,5
+MARUTI,FRONX,FRONX Delta,Wheel Base,2520 mm
+MARUTI,FRONX,FRONX Delta,Front Tread,1632 mm
+MARUTI,FRONX,FRONX Delta,Kerb Weight,960-970 kg
+MARUTI,FRONX,FRONX Delta,Gross Weight,1450 kg
+MARUTI,FRONX,FRONX Delta,No. of Doors,5
+MARUTI,FRONX,FRONX Delta,Power Steering,YES
+MARUTI,FRONX,FRONX Delta,Air Conditioner,YES
+MARUTI,FRONX,FRONX Delta,Heater,YES
+MARUTI,FRONX,FRONX Delta,Height Adjustable Driver Seat,NO
+MARUTI,FRONX,FRONX Delta,Automatic Climate Control,YES
+MARUTI,FRONX,FRONX Delta,Rear Reading Lamp,YES
+MARUTI,FRONX,FRONX Delta,Adjustable Headrest,YES
+MARUTI,FRONX,FRONX Delta,Rear AC Vents,NO
+MARUTI,FRONX,FRONX Delta,Cruise Control,NO
+MARUTI,FRONX,FRONX Delta,Parking Sensors,Rear
+MARUTI,FRONX,FRONX Delta,Real-Time Vehicle Tracking,NO
+MARUTI,FRONX,FRONX Delta,Foldable Rear Seat,60:40 Split
+MARUTI,FRONX,FRONX Delta,KeyLess Entry,YES
+MARUTI,FRONX,FRONX Delta,Engine Start/Stop Button,NO
+MARUTI,FRONX,FRONX Delta,Voice Commands,YES
+MARUTI,FRONX,FRONX Delta,Paddle Shifters,NO
+MARUTI,FRONX,FRONX Delta,USB Charger,Front
+MARUTI,FRONX,FRONX Delta,Central Console Armrest,NO
+MARUTI,FRONX,FRONX Delta,Gear Shift Indicator,YES
+MARUTI,FRONX,FRONX Delta,Idle Start-Stop System,YES
+MARUTI,FRONX,FRONX Delta,Automatic Headlamps,NO
+MARUTI,FRONX,FRONX Delta,Follow Me Home Headlamps,NO
+MARUTI,FRONX,FRONX Delta,Power Windows,Front & Rear
+MARUTI,FRONX,FRONX Delta,Tachometer,YES
+MARUTI,FRONX,FRONX Delta,Glove Box,YES
+MARUTI,FRONX,FRONX Delta,Dual Tone Dashboard,YES
+MARUTI,FRONX,FRONX Delta,Additional Features,Rear Parcel Tray
+MARUTI,FRONX,FRONX Delta,Digital Cluster,NO
+MARUTI,FRONX,FRONX Delta,Upholstery,Fabric
+MARUTI,FRONX,FRONX Delta,Rear Window Wiper,NO
+MARUTI,FRONX,FRONX Delta,Rear Window Washer,NO
+MARUTI,FRONX,FRONX Delta,Rear Window Defogger,YES
+MARUTI,FRONX,FRONX Delta,Wheel Covers,YES
+MARUTI,FRONX,FRONX Delta,Alloy Wheels,NO
+MARUTI,FRONX,FRONX Delta,Rear Spoiler,YES
+MARUTI,FRONX,FRONX Delta,Outside Rear View Mirror Turn Indicators,YES
+MARUTI,FRONX,FRONX Delta,Integrated Antenna,YES
+MARUTI,FRONX,FRONX Delta,Chrome Grille,YES
+MARUTI,FRONX,FRONX Delta,Projector Headlamps,YES
+MARUTI,FRONX,FRONX Delta,Halogen Headlamps,YES
+MARUTI,FRONX,FRONX Delta,Antenna,Shark Fin
+MARUTI,FRONX,FRONX Delta,Outside Rear View Mirror (ORVM),"Powered,Powered & Folding"
+MARUTI,FRONX,FRONX Delta,Tyre Size,195/60 R16
+MARUTI,FRONX,FRONX Delta,Tyre Type,Radial Tubeless
+MARUTI,FRONX,FRONX Delta,Wheel Size,16 Inch
+MARUTI,FRONX,FRONX Delta,LED DRLs,NO
+MARUTI,FRONX,FRONX Delta,LED Headlamps,NO
+MARUTI,FRONX,FRONX Delta,LED Taillights,YES
+MARUTI,FRONX,FRONX Delta,Anti-lock Braking System (ABS),YES
+MARUTI,FRONX,FRONX Delta,Central Locking,YES
+MARUTI,FRONX,FRONX Delta,Anti-Theft Alarm,YES
+MARUTI,FRONX,FRONX Delta,No. of Airbags,6
+MARUTI,FRONX,FRONX Delta,Driver Airbag,YES
+MARUTI,FRONX,FRONX Delta,Passenger Airbag,YES
+MARUTI,FRONX,FRONX Delta,Side Airbag,YES
+MARUTI,FRONX,FRONX Delta,Side Airbag-Rear,NO
+MARUTI,FRONX,FRONX Delta,Day & Night Rear View Mirror,YES
+MARUTI,FRONX,FRONX Delta,Curtain Airbag,YES
+MARUTI,FRONX,FRONX Delta,Electronic Brakeforce Distribution (EBD),YES
+MARUTI,FRONX,FRONX Delta,Seat Belt Warning,YES
+MARUTI,FRONX,FRONX Delta,Door Ajar Warning,YES
+MARUTI,FRONX,FRONX Delta,Engine Immobilizer,YES
+MARUTI,FRONX,FRONX Delta,Electronic Stability Control (ESC),YES
+MARUTI,FRONX,FRONX Delta,Rear Camera,NO
+MARUTI,FRONX,FRONX Delta,Anti-Theft Device,YES
+MARUTI,FRONX,FRONX Delta,Speed Alert,YES
+MARUTI,FRONX,FRONX Delta,Speed Sensing Auto Door Lock,YES
+MARUTI,FRONX,FRONX Delta,ISOFIX Child Seat Mounts,YES
+MARUTI,FRONX,FRONX Delta,Heads-Up Display (HUD),NO
+MARUTI,FRONX,FRONX Delta,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+MARUTI,FRONX,FRONX Delta,Hill Assist,YES
+MARUTI,FRONX,FRONX Delta,Impact Sensing Auto Door Unlock,YES
+MARUTI,FRONX,FRONX Delta,360 View Camera,NO
+MARUTI,FRONX,FRONX Delta,Radio,YES
+MARUTI,FRONX,FRONX Delta,Integrated 2DIN Audio,YES
+MARUTI,FRONX,FRONX Delta,Wireless Phone Charging,NO
+MARUTI,FRONX,FRONX Delta,Bluetooth Connectivity,YES
+MARUTI,FRONX,FRONX Delta,Touchscreen,YES
+MARUTI,FRONX,FRONX Delta,Touchscreen Size,7 inch
+MARUTI,FRONX,FRONX Delta,Connectivity,"Android Auto, Apple CarPlay"
+MARUTI,FRONX,FRONX Delta,Android Auto,YES
+MARUTI,FRONX,FRONX Delta,Apple CarPlay,YES
+MARUTI,FRONX,FRONX Delta,No. of Speakers,4
+MARUTI,FRONX,FRONX Delta,Usb Ports,YES
+MARUTI,FRONX,FRONX Delta,Additional Features,Android Auto and Apple CarPlay (Wireless)
+MARUTI,FRONX,FRONX Delta,Speakers,Front & Rear

@@ -1,0 +1,95 @@
+company,model,variant,feature_name,feature_details
+MAHINDRA,THAR,Thar AXT RWD Diesel,Engine Type,D117 CRDe
+MAHINDRA,THAR,Thar AXT RWD Diesel,Displacement,1497 cc
+MAHINDRA,THAR,Thar AXT RWD Diesel,Max Power,116.93bhp@3500rpm
+MAHINDRA,THAR,Thar AXT RWD Diesel,Max Torque,300Nm@1750-2500rpm
+MAHINDRA,THAR,Thar AXT RWD Diesel,No. of Cylinders,4
+MAHINDRA,THAR,Thar AXT RWD Diesel,Valves Per Cylinder,4
+MAHINDRA,THAR,Thar AXT RWD Diesel,Turbo Charger,YES
+MAHINDRA,THAR,Thar AXT RWD Diesel,Transmission Type,Manual
+MAHINDRA,THAR,Thar AXT RWD Diesel,Gearbox,6-Speed
+MAHINDRA,THAR,Thar AXT RWD Diesel,Drive Type,RWD
+MAHINDRA,THAR,Thar AXT RWD Diesel,Fuel Type,Diesel
+MAHINDRA,THAR,Thar AXT RWD Diesel,Diesel Fuel Tank Capacity,45 Litres
+MAHINDRA,THAR,Thar AXT RWD Diesel,Diesel Highway Mileage,11 kmpl
+MAHINDRA,THAR,Thar AXT RWD Diesel,Emission Norm Compliance,BS VI 2.0
+MAHINDRA,THAR,Thar AXT RWD Diesel,Front Suspension,Double wishbone suspension
+MAHINDRA,THAR,Thar AXT RWD Diesel,Rear Suspension,"Multi-link, Solid Axle"
+MAHINDRA,THAR,Thar AXT RWD Diesel,Steering Column,Tilt
+MAHINDRA,THAR,Thar AXT RWD Diesel,Steering Gear Type,Rack & Pinion
+MAHINDRA,THAR,Thar AXT RWD Diesel,Front Brake Type,Disc
+MAHINDRA,THAR,Thar AXT RWD Diesel,Rear Brake Type,Drum
+MAHINDRA,THAR,Thar AXT RWD Diesel,Length,3985 mm
+MAHINDRA,THAR,Thar AXT RWD Diesel,Width,1820 mm
+MAHINDRA,THAR,Thar AXT RWD Diesel,Height,1850 mm
+MAHINDRA,THAR,Thar AXT RWD Diesel,Seating Capacity,4
+MAHINDRA,THAR,Thar AXT RWD Diesel,Ground Clearance Unladen,226 mm
+MAHINDRA,THAR,Thar AXT RWD Diesel,Wheel Base,2450 mm
+MAHINDRA,THAR,Thar AXT RWD Diesel,Rear Tread,1520 mm
+MAHINDRA,THAR,Thar AXT RWD Diesel,Approach Angle,41.2°
+MAHINDRA,THAR,Thar AXT RWD Diesel,Break-over Angle,26.2°
+MAHINDRA,THAR,Thar AXT RWD Diesel,Departure Angle,36°
+MAHINDRA,THAR,Thar AXT RWD Diesel,No. of Doors,3
+MAHINDRA,THAR,Thar AXT RWD Diesel,Power Steering,YES
+MAHINDRA,THAR,Thar AXT RWD Diesel,Air Conditioner,YES
+MAHINDRA,THAR,Thar AXT RWD Diesel,Heater,YES
+MAHINDRA,THAR,Thar AXT RWD Diesel,Height Adjustable Driver Seat,YES
+MAHINDRA,THAR,Thar AXT RWD Diesel,Accessory Power Outlet,YES
+MAHINDRA,THAR,Thar AXT RWD Diesel,Rear Reading Lamp,YES
+MAHINDRA,THAR,Thar AXT RWD Diesel,Adjustable Headrest,YES
+MAHINDRA,THAR,Thar AXT RWD Diesel,Rear AC Vents,YES
+MAHINDRA,THAR,Thar AXT RWD Diesel,Cruise Control,NO
+MAHINDRA,THAR,Thar AXT RWD Diesel,Parking Sensors,Rear
+MAHINDRA,THAR,Thar AXT RWD Diesel,Foldable Rear Seat,50:50 Split
+MAHINDRA,THAR,Thar AXT RWD Diesel,KeyLess Entry,YES
+MAHINDRA,THAR,Thar AXT RWD Diesel,Voice Commands,NO
+MAHINDRA,THAR,Thar AXT RWD Diesel,Lane Change Indicator,YES
+MAHINDRA,THAR,Thar AXT RWD Diesel,Follow Me Home Headlamps,NO
+MAHINDRA,THAR,Thar AXT RWD Diesel,Power Windows,Front Only
+MAHINDRA,THAR,Thar AXT RWD Diesel,Tachometer,YES
+MAHINDRA,THAR,Thar AXT RWD Diesel,Glove Box,YES
+MAHINDRA,THAR,Thar AXT RWD Diesel,Digital Cluster,Sami (Monochrome)
+MAHINDRA,THAR,Thar AXT RWD Diesel,Digital Cluster Size,4.2 inch
+MAHINDRA,THAR,Thar AXT RWD Diesel,Rear Window Wiper,YES
+MAHINDRA,THAR,Thar AXT RWD Diesel,Rear Window Washer,YES
+MAHINDRA,THAR,Thar AXT RWD Diesel,Rear Window Defogger,YES
+MAHINDRA,THAR,Thar AXT RWD Diesel,Alloy Wheels,NO
+MAHINDRA,THAR,Thar AXT RWD Diesel,Side Stepper,YES
+MAHINDRA,THAR,Thar AXT RWD Diesel,Integrated Antenna,NO
+MAHINDRA,THAR,Thar AXT RWD Diesel,Fog Lights,NO
+MAHINDRA,THAR,Thar AXT RWD Diesel,Boot Opening,Manual
+MAHINDRA,THAR,Thar AXT RWD Diesel,Outside Rear View Mirror (ORVM),Manual
+MAHINDRA,THAR,Thar AXT RWD Diesel,Tyre Size,245/75 R16
+MAHINDRA,THAR,Thar AXT RWD Diesel,Tyre Type,Tubeless All-Terrain
+MAHINDRA,THAR,Thar AXT RWD Diesel,Wheel Size,16 Inch
+MAHINDRA,THAR,Thar AXT RWD Diesel,LED DRLs,YES
+MAHINDRA,THAR,Thar AXT RWD Diesel,LED Headlamps,YES
+MAHINDRA,THAR,Thar AXT RWD Diesel,LED Taillights,YES
+MAHINDRA,THAR,Thar AXT RWD Diesel,Anti-lock Braking System (ABS),YES
+MAHINDRA,THAR,Thar AXT RWD Diesel,Brake Assist,YES
+MAHINDRA,THAR,Thar AXT RWD Diesel,Central Locking,YES
+MAHINDRA,THAR,Thar AXT RWD Diesel,No. of Airbags,2
+MAHINDRA,THAR,Thar AXT RWD Diesel,Driver Airbag,YES
+MAHINDRA,THAR,Thar AXT RWD Diesel,Passenger Airbag,YES
+MAHINDRA,THAR,Thar AXT RWD Diesel,Side Airbag,NO
+MAHINDRA,THAR,Thar AXT RWD Diesel,Side Airbag-Rear,NO
+MAHINDRA,THAR,Thar AXT RWD Diesel,Day & Night Rear View Mirror,YES
+MAHINDRA,THAR,Thar AXT RWD Diesel,Electronic Brakeforce Distribution (EBD),YES
+MAHINDRA,THAR,Thar AXT RWD Diesel,Seat Belt Warning,YES
+MAHINDRA,THAR,Thar AXT RWD Diesel,Tyre Pressure Monitoring System (TPMS),NO
+MAHINDRA,THAR,Thar AXT RWD Diesel,Electronic Stability Control (ESC),YES
+MAHINDRA,THAR,Thar AXT RWD Diesel,Speed Alert,YES
+MAHINDRA,THAR,Thar AXT RWD Diesel,Speed Sensing Auto Door Lock,NO
+MAHINDRA,THAR,Thar AXT RWD Diesel,ISOFIX Child Seat Mounts,YES
+MAHINDRA,THAR,Thar AXT RWD Diesel,Hill Descent Control,YES
+MAHINDRA,THAR,Thar AXT RWD Diesel,Hill Assist,YES
+MAHINDRA,THAR,Thar AXT RWD Diesel,Global NCAP Safety Rating,4 Star
+MAHINDRA,THAR,Thar AXT RWD Diesel,Global NCAP Child Safety Rating,4 Star
+MAHINDRA,THAR,Thar AXT RWD Diesel,Radio,NO
+MAHINDRA,THAR,Thar AXT RWD Diesel,Integrated 2DIN Audio,NO
+MAHINDRA,THAR,Thar AXT RWD Diesel,Bluetooth Connectivity,NO
+MAHINDRA,THAR,Thar AXT RWD Diesel,Touchscreen,NO
+MAHINDRA,THAR,Thar AXT RWD Diesel,Android Auto,NO
+MAHINDRA,THAR,Thar AXT RWD Diesel,Apple CarPlay,NO
+MAHINDRA,THAR,Thar AXT RWD Diesel,Usb Ports,NO
+MAHINDRA,THAR,Thar AXT RWD Diesel,Speakers,NO

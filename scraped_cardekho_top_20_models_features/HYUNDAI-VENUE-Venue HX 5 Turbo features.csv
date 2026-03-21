@@ -1,0 +1,128 @@
+company,model,variant,feature_name,feature_details
+HYUNDAI,VENUE,Venue HX 5 Turbo,Engine Type,1.0 l Kappa Turbo
+HYUNDAI,VENUE,Venue HX 5 Turbo,Displacement,998 cc
+HYUNDAI,VENUE,Venue HX 5 Turbo,Max Power,118bhp@6000rpm
+HYUNDAI,VENUE,Venue HX 5 Turbo,Max Torque,172Nm@1500-4000rpm
+HYUNDAI,VENUE,Venue HX 5 Turbo,No. of Cylinders,3
+HYUNDAI,VENUE,Venue HX 5 Turbo,Valves Per Cylinder,4
+HYUNDAI,VENUE,Venue HX 5 Turbo,Fuel Supply System,GDi
+HYUNDAI,VENUE,Venue HX 5 Turbo,Turbo Charger,YES
+HYUNDAI,VENUE,Venue HX 5 Turbo,Transmission Type,Manual
+HYUNDAI,VENUE,Venue HX 5 Turbo,Gearbox,6 - Speed
+HYUNDAI,VENUE,Venue HX 5 Turbo,Drive Type,FWD
+HYUNDAI,VENUE,Venue HX 5 Turbo,Fuel Type,Petrol
+HYUNDAI,VENUE,Venue HX 5 Turbo,Petrol Mileage ARAI,18.74 kmpl
+HYUNDAI,VENUE,Venue HX 5 Turbo,Petrol Fuel Tank Capacity,45 Litres
+HYUNDAI,VENUE,Venue HX 5 Turbo,Emission Norm Compliance,BS VI 2.0
+HYUNDAI,VENUE,Venue HX 5 Turbo,Front Suspension,MacPherson Strut suspension
+HYUNDAI,VENUE,Venue HX 5 Turbo,Rear Suspension,Rear twist beam
+HYUNDAI,VENUE,Venue HX 5 Turbo,Steering Type,Electric
+HYUNDAI,VENUE,Venue HX 5 Turbo,Steering Column,Tilt
+HYUNDAI,VENUE,Venue HX 5 Turbo,Front Brake Type,Disc
+HYUNDAI,VENUE,Venue HX 5 Turbo,Rear Brake Type,Drum
+HYUNDAI,VENUE,Venue HX 5 Turbo,Length,3995 mm
+HYUNDAI,VENUE,Venue HX 5 Turbo,Width,1800 mm
+HYUNDAI,VENUE,Venue HX 5 Turbo,Height,1665 mm
+HYUNDAI,VENUE,Venue HX 5 Turbo,Boot Space,375 Litres
+HYUNDAI,VENUE,Venue HX 5 Turbo,Seating Capacity,5
+HYUNDAI,VENUE,Venue HX 5 Turbo,Wheel Base,2520 mm
+HYUNDAI,VENUE,Venue HX 5 Turbo,No. of Doors,5
+HYUNDAI,VENUE,Venue HX 5 Turbo,Power Steering,YES
+HYUNDAI,VENUE,Venue HX 5 Turbo,Air Conditioner,YES
+HYUNDAI,VENUE,Venue HX 5 Turbo,Heater,YES
+HYUNDAI,VENUE,Venue HX 5 Turbo,Adjustable Steering,Height only
+HYUNDAI,VENUE,Venue HX 5 Turbo,Height Adjustable Driver Seat,YES
+HYUNDAI,VENUE,Venue HX 5 Turbo,Ventilated Seats,NO
+HYUNDAI,VENUE,Venue HX 5 Turbo,Electric Adjustable Seats,NO
+HYUNDAI,VENUE,Venue HX 5 Turbo,Automatic Climate Control,NO
+HYUNDAI,VENUE,Venue HX 5 Turbo,Accessory Power Outlet,YES
+HYUNDAI,VENUE,Venue HX 5 Turbo,Trunk Light,NO
+HYUNDAI,VENUE,Venue HX 5 Turbo,Vanity Mirror,NO
+HYUNDAI,VENUE,Venue HX 5 Turbo,Rear Seat Headrest,Integrated
+HYUNDAI,VENUE,Venue HX 5 Turbo,Adjustable Headrest,YES
+HYUNDAI,VENUE,Venue HX 5 Turbo,Rear Seat Centre Arm Rest,NO
+HYUNDAI,VENUE,Venue HX 5 Turbo,Rear AC Vents,YES
+HYUNDAI,VENUE,Venue HX 5 Turbo,Cruise Control,YES
+HYUNDAI,VENUE,Venue HX 5 Turbo,Parking Sensors,Rear
+HYUNDAI,VENUE,Venue HX 5 Turbo,Foldable Rear Seat,Bench Folding
+HYUNDAI,VENUE,Venue HX 5 Turbo,Smart Access Card Entry,YES
+HYUNDAI,VENUE,Venue HX 5 Turbo,KeyLess Entry,YES
+HYUNDAI,VENUE,Venue HX 5 Turbo,Engine Start/Stop Button,YES
+HYUNDAI,VENUE,Venue HX 5 Turbo,Cooled Glovebox,NO
+HYUNDAI,VENUE,Venue HX 5 Turbo,Voice Commands,YES
+HYUNDAI,VENUE,Venue HX 5 Turbo,Paddle Shifters,NO
+HYUNDAI,VENUE,Venue HX 5 Turbo,USB Charger,Front & Rear
+HYUNDAI,VENUE,Venue HX 5 Turbo,Central Console Armrest,NO
+HYUNDAI,VENUE,Venue HX 5 Turbo,Luggage Hook & Net,YES
+HYUNDAI,VENUE,Venue HX 5 Turbo,Drive Modes,NO
+HYUNDAI,VENUE,Venue HX 5 Turbo,Idle Start-Stop System,NO
+HYUNDAI,VENUE,Venue HX 5 Turbo,Rear Window Sunblind,NO
+HYUNDAI,VENUE,Venue HX 5 Turbo,Automatic Headlamps,NO
+HYUNDAI,VENUE,Venue HX 5 Turbo,Follow Me Home Headlamps,YES
+HYUNDAI,VENUE,Venue HX 5 Turbo,Voice assisted sunroof,NO
+HYUNDAI,VENUE,Venue HX 5 Turbo,Drive Mode Types,NO
+HYUNDAI,VENUE,Venue HX 5 Turbo,Power Windows,Front & Rear
+HYUNDAI,VENUE,Venue HX 5 Turbo,Cup Holders,Front Only
+HYUNDAI,VENUE,Venue HX 5 Turbo,Tachometer,YES
+HYUNDAI,VENUE,Venue HX 5 Turbo,Glove Box,YES
+HYUNDAI,VENUE,Venue HX 5 Turbo,Digital Cluster,YES
+HYUNDAI,VENUE,Venue HX 5 Turbo,Digital Cluster Size,10.66
+HYUNDAI,VENUE,Venue HX 5 Turbo,Upholstery,Fabric
+HYUNDAI,VENUE,Venue HX 5 Turbo,Rear Window Wiper,NO
+HYUNDAI,VENUE,Venue HX 5 Turbo,Rear Window Washer,NO
+HYUNDAI,VENUE,Venue HX 5 Turbo,Rear Window Defogger,YES
+HYUNDAI,VENUE,Venue HX 5 Turbo,Wheel Covers,YES
+HYUNDAI,VENUE,Venue HX 5 Turbo,Alloy Wheels,NO
+HYUNDAI,VENUE,Venue HX 5 Turbo,Rear Spoiler,YES
+HYUNDAI,VENUE,Venue HX 5 Turbo,Outside Rear View Mirror Turn Indicators,YES
+HYUNDAI,VENUE,Venue HX 5 Turbo,Chrome Grille,YES
+HYUNDAI,VENUE,Venue HX 5 Turbo,Projector Headlamps,YES
+HYUNDAI,VENUE,Venue HX 5 Turbo,Roof Rails,NO
+HYUNDAI,VENUE,Venue HX 5 Turbo,Automatic Headlamps,NO
+HYUNDAI,VENUE,Venue HX 5 Turbo,Antenna,Shark Fin
+HYUNDAI,VENUE,Venue HX 5 Turbo,Sunroof,Single Pane
+HYUNDAI,VENUE,Venue HX 5 Turbo,Puddle Lamps,NO
+HYUNDAI,VENUE,Venue HX 5 Turbo,Outside Rear View Mirror (ORVM),Powered & Folding
+HYUNDAI,VENUE,Venue HX 5 Turbo,Tyre Size,215/60 R16
+HYUNDAI,VENUE,Venue HX 5 Turbo,Tyre Type,Radial Tubeless
+HYUNDAI,VENUE,Venue HX 5 Turbo,Wheel Size,16 Inch
+HYUNDAI,VENUE,Venue HX 5 Turbo,LED DRLs,YES
+HYUNDAI,VENUE,Venue HX 5 Turbo,LED Taillights,YES
+HYUNDAI,VENUE,Venue HX 5 Turbo,Anti-lock Braking System (ABS),YES
+HYUNDAI,VENUE,Venue HX 5 Turbo,Central Locking,YES
+HYUNDAI,VENUE,Venue HX 5 Turbo,Child Safety Locks,YES
+HYUNDAI,VENUE,Venue HX 5 Turbo,Anti-Theft Alarm,YES
+HYUNDAI,VENUE,Venue HX 5 Turbo,No. of Airbags,6
+HYUNDAI,VENUE,Venue HX 5 Turbo,Driver Airbag,YES
+HYUNDAI,VENUE,Venue HX 5 Turbo,Passenger Airbag,YES
+HYUNDAI,VENUE,Venue HX 5 Turbo,Side Airbag,YES
+HYUNDAI,VENUE,Venue HX 5 Turbo,Side Airbag-Rear,NO
+HYUNDAI,VENUE,Venue HX 5 Turbo,Day & Night Rear View Mirror,YES
+HYUNDAI,VENUE,Venue HX 5 Turbo,Curtain Airbag,YES
+HYUNDAI,VENUE,Venue HX 5 Turbo,Electronic Brakeforce Distribution (EBD),YES
+HYUNDAI,VENUE,Venue HX 5 Turbo,Seat Belt Warning,YES
+HYUNDAI,VENUE,Venue HX 5 Turbo,Door Ajar Warning,YES
+HYUNDAI,VENUE,Venue HX 5 Turbo,Traction Control,NO
+HYUNDAI,VENUE,Venue HX 5 Turbo,Tyre Pressure Monitoring System (TPMS),YES
+HYUNDAI,VENUE,Venue HX 5 Turbo,Engine Immobilizer,YES
+HYUNDAI,VENUE,Venue HX 5 Turbo,Electronic Stability Control (ESC),YES
+HYUNDAI,VENUE,Venue HX 5 Turbo,Rear Camera,With Guidedlines
+HYUNDAI,VENUE,Venue HX 5 Turbo,Speed Alert,YES
+HYUNDAI,VENUE,Venue HX 5 Turbo,Speed Sensing Auto Door Lock,YES
+HYUNDAI,VENUE,Venue HX 5 Turbo,ISOFIX Child Seat Mounts,YES
+HYUNDAI,VENUE,Venue HX 5 Turbo,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+HYUNDAI,VENUE,Venue HX 5 Turbo,Blind Spot Camera,NO
+HYUNDAI,VENUE,Venue HX 5 Turbo,Hill Assist,YES
+HYUNDAI,VENUE,Venue HX 5 Turbo,Impact Sensing Auto Door Unlock,YES
+HYUNDAI,VENUE,Venue HX 5 Turbo,360 View Camera,NO
+HYUNDAI,VENUE,Venue HX 5 Turbo,Radio,YES
+HYUNDAI,VENUE,Venue HX 5 Turbo,Wireless Phone Charging,NO
+HYUNDAI,VENUE,Venue HX 5 Turbo,Bluetooth Connectivity,YES
+HYUNDAI,VENUE,Venue HX 5 Turbo,Touchscreen,YES
+HYUNDAI,VENUE,Venue HX 5 Turbo,Touchscreen Size,10.25 inch
+HYUNDAI,VENUE,Venue HX 5 Turbo,Android Auto,YES
+HYUNDAI,VENUE,Venue HX 5 Turbo,Apple CarPlay,YES
+HYUNDAI,VENUE,Venue HX 5 Turbo,No. of Speakers,4
+HYUNDAI,VENUE,Venue HX 5 Turbo,Usb Ports,YES
+HYUNDAI,VENUE,Venue HX 5 Turbo,Additional Features,Wireless Android Auto and Apple Carplay
+HYUNDAI,VENUE,Venue HX 5 Turbo,Speakers,Front & Rear

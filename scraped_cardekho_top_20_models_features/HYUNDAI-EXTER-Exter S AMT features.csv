@@ -1,0 +1,120 @@
+company,model,variant,feature_name,feature_details
+HYUNDAI,EXTER,Exter S AMT,Engine Type,1.2 l Kappa
+HYUNDAI,EXTER,Exter S AMT,Displacement,1197 cc
+HYUNDAI,EXTER,Exter S AMT,Max Power,81.8bhp@6000rpm
+HYUNDAI,EXTER,Exter S AMT,Max Torque,113.8Nm@4000rpm
+HYUNDAI,EXTER,Exter S AMT,No. of Cylinders,4
+HYUNDAI,EXTER,Exter S AMT,Valves Per Cylinder,4
+HYUNDAI,EXTER,Exter S AMT,Transmission Type,Automatic
+HYUNDAI,EXTER,Exter S AMT,Gearbox,5 Speed AMT
+HYUNDAI,EXTER,Exter S AMT,Drive Type,FWD
+HYUNDAI,EXTER,Exter S AMT,Fuel Type,Petrol
+HYUNDAI,EXTER,Exter S AMT,Petrol Mileage ARAI,19.2 kmpl
+HYUNDAI,EXTER,Exter S AMT,Petrol Fuel Tank Capacity,37 Litres
+HYUNDAI,EXTER,Exter S AMT,Emission Norm Compliance,BS VI 2.0
+HYUNDAI,EXTER,Exter S AMT,Front Suspension,MacPherson Strut suspension
+HYUNDAI,EXTER,Exter S AMT,Rear Suspension,Rear twist beam
+HYUNDAI,EXTER,Exter S AMT,Shock Absorbers Type,Gas Type
+HYUNDAI,EXTER,Exter S AMT,Steering Type,Electric
+HYUNDAI,EXTER,Exter S AMT,Steering Column,NO
+HYUNDAI,EXTER,Exter S AMT,Front Brake Type,Disc
+HYUNDAI,EXTER,Exter S AMT,Rear Brake Type,Drum
+HYUNDAI,EXTER,Exter S AMT,Length,3815 mm
+HYUNDAI,EXTER,Exter S AMT,Width,1710 mm
+HYUNDAI,EXTER,Exter S AMT,Height,1631 mm
+HYUNDAI,EXTER,Exter S AMT,Seating Capacity,5
+HYUNDAI,EXTER,Exter S AMT,Wheel Base,2450 mm
+HYUNDAI,EXTER,Exter S AMT,No. of Doors,5
+HYUNDAI,EXTER,Exter S AMT,Reported Boot Space,391 Litres
+HYUNDAI,EXTER,Exter S AMT,Power Steering,YES
+HYUNDAI,EXTER,Exter S AMT,Air Conditioner,YES
+HYUNDAI,EXTER,Exter S AMT,Heater,YES
+HYUNDAI,EXTER,Exter S AMT,Adjustable Steering,NO
+HYUNDAI,EXTER,Exter S AMT,Height Adjustable Driver Seat,YES
+HYUNDAI,EXTER,Exter S AMT,Automatic Climate Control,NO
+HYUNDAI,EXTER,Exter S AMT,Accessory Power Outlet,YES
+HYUNDAI,EXTER,Exter S AMT,Trunk Light,NO
+HYUNDAI,EXTER,Exter S AMT,Vanity Mirror,YES
+HYUNDAI,EXTER,Exter S AMT,Rear Reading Lamp,YES
+HYUNDAI,EXTER,Exter S AMT,Rear Seat Headrest,Adjustable
+HYUNDAI,EXTER,Exter S AMT,Rear AC Vents,YES
+HYUNDAI,EXTER,Exter S AMT,Cruise Control,NO
+HYUNDAI,EXTER,Exter S AMT,Parking Sensors,Rear
+HYUNDAI,EXTER,Exter S AMT,Foldable Rear Seat,Bench Folding
+HYUNDAI,EXTER,Exter S AMT,KeyLess Entry,YES
+HYUNDAI,EXTER,Exter S AMT,Engine Start/Stop Button,NO
+HYUNDAI,EXTER,Exter S AMT,Cooled Glovebox,NO
+HYUNDAI,EXTER,Exter S AMT,Voice Commands,YES
+HYUNDAI,EXTER,Exter S AMT,Paddle Shifters,NO
+HYUNDAI,EXTER,Exter S AMT,USB Charger,Front
+HYUNDAI,EXTER,Exter S AMT,Tailgate Ajar Warning,YES
+HYUNDAI,EXTER,Exter S AMT,Luggage Hook & Net,YES
+HYUNDAI,EXTER,Exter S AMT,Battery Saver,YES
+HYUNDAI,EXTER,Exter S AMT,Idle Start-Stop System,YES
+HYUNDAI,EXTER,Exter S AMT,Rear Window Sunblind,NO
+HYUNDAI,EXTER,Exter S AMT,Rear Windscreen Sunblind,NO
+HYUNDAI,EXTER,Exter S AMT,Automatic Headlamps,NO
+HYUNDAI,EXTER,Exter S AMT,Follow Me Home Headlamps,YES
+HYUNDAI,EXTER,Exter S AMT,Additional Features,Rear parcel tray
+HYUNDAI,EXTER,Exter S AMT,Voice assisted sunroof,NO
+HYUNDAI,EXTER,Exter S AMT,Power Windows,Front & Rear
+HYUNDAI,EXTER,Exter S AMT,Tachometer,YES
+HYUNDAI,EXTER,Exter S AMT,Glove Box,YES
+HYUNDAI,EXTER,Exter S AMT,Digital Cluster,YES
+HYUNDAI,EXTER,Exter S AMT,Upholstery,Fabric
+HYUNDAI,EXTER,Exter S AMT,Adjustable Headlamps,YES
+HYUNDAI,EXTER,Exter S AMT,Rear Window Wiper,NO
+HYUNDAI,EXTER,Exter S AMT,Rear Window Washer,NO
+HYUNDAI,EXTER,Exter S AMT,Rear Window Defogger,NO
+HYUNDAI,EXTER,Exter S AMT,Wheel Covers,YES
+HYUNDAI,EXTER,Exter S AMT,Alloy Wheels,NO
+HYUNDAI,EXTER,Exter S AMT,Rear Spoiler,NO
+HYUNDAI,EXTER,Exter S AMT,Outside Rear View Mirror Turn Indicators,YES
+HYUNDAI,EXTER,Exter S AMT,Projector Headlamps,NO
+HYUNDAI,EXTER,Exter S AMT,Halogen Headlamps,YES
+HYUNDAI,EXTER,Exter S AMT,Roof Rails,NO
+HYUNDAI,EXTER,Exter S AMT,Antenna,Micro pole
+HYUNDAI,EXTER,Exter S AMT,Sunroof,NO
+HYUNDAI,EXTER,Exter S AMT,Boot Opening,Electronic
+HYUNDAI,EXTER,Exter S AMT,Outside Rear View Mirror (ORVM),Powered & Folding
+HYUNDAI,EXTER,Exter S AMT,Tyre Size,165/70 R14
+HYUNDAI,EXTER,Exter S AMT,Tyre Type,Radial Tubeless
+HYUNDAI,EXTER,Exter S AMT,Wheel Size,14 Inch
+HYUNDAI,EXTER,Exter S AMT,LED DRLs,YES
+HYUNDAI,EXTER,Exter S AMT,LED Taillights,YES
+HYUNDAI,EXTER,Exter S AMT,Anti-lock Braking System (ABS),YES
+HYUNDAI,EXTER,Exter S AMT,Central Locking,YES
+HYUNDAI,EXTER,Exter S AMT,Child Safety Locks,YES
+HYUNDAI,EXTER,Exter S AMT,Anti-Theft Alarm,YES
+HYUNDAI,EXTER,Exter S AMT,No. of Airbags,6
+HYUNDAI,EXTER,Exter S AMT,Driver Airbag,YES
+HYUNDAI,EXTER,Exter S AMT,Passenger Airbag,YES
+HYUNDAI,EXTER,Exter S AMT,Side Airbag,YES
+HYUNDAI,EXTER,Exter S AMT,Side Airbag-Rear,NO
+HYUNDAI,EXTER,Exter S AMT,Day & Night Rear View Mirror,YES
+HYUNDAI,EXTER,Exter S AMT,Curtain Airbag,YES
+HYUNDAI,EXTER,Exter S AMT,Electronic Brakeforce Distribution (EBD),YES
+HYUNDAI,EXTER,Exter S AMT,Seat Belt Warning,YES
+HYUNDAI,EXTER,Exter S AMT,Door Ajar Warning,YES
+HYUNDAI,EXTER,Exter S AMT,Tyre Pressure Monitoring System (TPMS),YES
+HYUNDAI,EXTER,Exter S AMT,Engine Immobilizer,YES
+HYUNDAI,EXTER,Exter S AMT,Electronic Stability Control (ESC),YES
+HYUNDAI,EXTER,Exter S AMT,Rear Camera,NO
+HYUNDAI,EXTER,Exter S AMT,Anti-Theft Device,YES
+HYUNDAI,EXTER,Exter S AMT,Speed Alert,YES
+HYUNDAI,EXTER,Exter S AMT,Speed Sensing Auto Door Lock,YES
+HYUNDAI,EXTER,Exter S AMT,ISOFIX Child Seat Mounts,YES
+HYUNDAI,EXTER,Exter S AMT,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+HYUNDAI,EXTER,Exter S AMT,Hill Assist,YES
+HYUNDAI,EXTER,Exter S AMT,Impact Sensing Auto Door Unlock,YES
+HYUNDAI,EXTER,Exter S AMT,Radio,YES
+HYUNDAI,EXTER,Exter S AMT,Wireless Phone Charging,NO
+HYUNDAI,EXTER,Exter S AMT,Bluetooth Connectivity,YES
+HYUNDAI,EXTER,Exter S AMT,Touchscreen,YES
+HYUNDAI,EXTER,Exter S AMT,Touchscreen Size,8 inch
+HYUNDAI,EXTER,Exter S AMT,Connectivity,"Android Auto, Apple CarPlay"
+HYUNDAI,EXTER,Exter S AMT,Android Auto,YES
+HYUNDAI,EXTER,Exter S AMT,Apple CarPlay,YES
+HYUNDAI,EXTER,Exter S AMT,Usb Ports,YES
+HYUNDAI,EXTER,Exter S AMT,Inbuilt Apps,NO
+HYUNDAI,EXTER,Exter S AMT,Speakers,Front & Rear

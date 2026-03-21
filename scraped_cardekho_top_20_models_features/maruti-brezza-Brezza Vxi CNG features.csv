@@ -1,0 +1,128 @@
+company,model,variant,feature_name,feature_details
+maruti,brezza,Brezza Vxi CNG,Engine Type,K15C
+maruti,brezza,Brezza Vxi CNG,Displacement,1462 cc
+maruti,brezza,Brezza Vxi CNG,Max Power,86.63bhp@5500rpm
+maruti,brezza,Brezza Vxi CNG,Max Torque,121.5Nm@4200rpm
+maruti,brezza,Brezza Vxi CNG,No. of Cylinders,4
+maruti,brezza,Brezza Vxi CNG,Valves Per Cylinder,4
+maruti,brezza,Brezza Vxi CNG,Valve Configuration,DOHC
+maruti,brezza,Brezza Vxi CNG,Transmission Type,Manual
+maruti,brezza,Brezza Vxi CNG,Gearbox,5-Speed
+maruti,brezza,Brezza Vxi CNG,Drive Type,FWD
+maruti,brezza,Brezza Vxi CNG,Fuel Type,CNG
+maruti,brezza,Brezza Vxi CNG,CNG Fuel Tank Capacity,55 Litres
+maruti,brezza,Brezza Vxi CNG,CNG Highway Mileage,25.51 km/kg
+maruti,brezza,Brezza Vxi CNG,Secondary Fuel Type,Petrol
+maruti,brezza,Brezza Vxi CNG,Emission Norm Compliance,BS VI 2.0
+maruti,brezza,Brezza Vxi CNG,Top Speed,159 kmph
+maruti,brezza,Brezza Vxi CNG,Front Suspension,MacPherson Strut suspension
+maruti,brezza,Brezza Vxi CNG,Rear Suspension,Rear twist beam
+maruti,brezza,Brezza Vxi CNG,Steering Type,Electric
+maruti,brezza,Brezza Vxi CNG,Steering Column,Tilt
+maruti,brezza,Brezza Vxi CNG,Front Brake Type,Ventilated Disc
+maruti,brezza,Brezza Vxi CNG,Rear Brake Type,Drum
+maruti,brezza,Brezza Vxi CNG,Length,3995 mm
+maruti,brezza,Brezza Vxi CNG,Width,1790 mm
+maruti,brezza,Brezza Vxi CNG,Height,1685 mm
+maruti,brezza,Brezza Vxi CNG,Seating Capacity,5
+maruti,brezza,Brezza Vxi CNG,Ground Clearance Unladen,198 mm
+maruti,brezza,Brezza Vxi CNG,Wheel Base,2500 mm
+maruti,brezza,Brezza Vxi CNG,No. of Doors,5
+maruti,brezza,Brezza Vxi CNG,Reported Boot Space,328 Litres
+maruti,brezza,Brezza Vxi CNG,Power Steering,YES
+maruti,brezza,Brezza Vxi CNG,Air Conditioner,YES
+maruti,brezza,Brezza Vxi CNG,Heater,YES
+maruti,brezza,Brezza Vxi CNG,Height Adjustable Driver Seat,YES
+maruti,brezza,Brezza Vxi CNG,Automatic Climate Control,YES
+maruti,brezza,Brezza Vxi CNG,Accessory Power Outlet,YES
+maruti,brezza,Brezza Vxi CNG,Trunk Light,NO
+maruti,brezza,Brezza Vxi CNG,Vanity Mirror,NO
+maruti,brezza,Brezza Vxi CNG,Rear Reading Lamp,YES
+maruti,brezza,Brezza Vxi CNG,Adjustable Headrest,YES
+maruti,brezza,Brezza Vxi CNG,Rear Seat Centre Arm Rest,NO
+maruti,brezza,Brezza Vxi CNG,Height Adjustable Front Seat Belts,YES
+maruti,brezza,Brezza Vxi CNG,Rear AC Vents,YES
+maruti,brezza,Brezza Vxi CNG,Cruise Control,NO
+maruti,brezza,Brezza Vxi CNG,Parking Sensors,Rear
+maruti,brezza,Brezza Vxi CNG,Foldable Rear Seat,Bench Folding
+maruti,brezza,Brezza Vxi CNG,KeyLess Entry,YES
+maruti,brezza,Brezza Vxi CNG,Engine Start/Stop Button,NO
+maruti,brezza,Brezza Vxi CNG,Cooled Glovebox,NO
+maruti,brezza,Brezza Vxi CNG,USB Charger,Front
+maruti,brezza,Brezza Vxi CNG,Central Console Armrest,NO
+maruti,brezza,Brezza Vxi CNG,Gear Shift Indicator,YES
+maruti,brezza,Brezza Vxi CNG,Luggage Hook & Net,YES
+maruti,brezza,Brezza Vxi CNG,Glove Box light,NO
+maruti,brezza,Brezza Vxi CNG,Idle Start-Stop System,NO
+maruti,brezza,Brezza Vxi CNG,Automatic Headlamps,NO
+maruti,brezza,Brezza Vxi CNG,Follow Me Home Headlamps,NO
+maruti,brezza,Brezza Vxi CNG,Power Windows,Front & Rear
+maruti,brezza,Brezza Vxi CNG,Cup Holders,Front Only
+maruti,brezza,Brezza Vxi CNG,Tachometer,YES
+maruti,brezza,Brezza Vxi CNG,Leather Wrapped Steering Wheel,NO
+maruti,brezza,Brezza Vxi CNG,Glove Box,YES
+maruti,brezza,Brezza Vxi CNG,Digital Odometer,YES
+maruti,brezza,Brezza Vxi CNG,Digital Cluster,Semi
+maruti,brezza,Brezza Vxi CNG,Upholstery,Fabric
+maruti,brezza,Brezza Vxi CNG,Rear Window Wiper,NO
+maruti,brezza,Brezza Vxi CNG,Rear Window Washer,NO
+maruti,brezza,Brezza Vxi CNG,Rear Window Defogger,YES
+maruti,brezza,Brezza Vxi CNG,Wheel Covers,YES
+maruti,brezza,Brezza Vxi CNG,Alloy Wheels,NO
+maruti,brezza,Brezza Vxi CNG,Rear Spoiler,YES
+maruti,brezza,Brezza Vxi CNG,Integrated Antenna,YES
+maruti,brezza,Brezza Vxi CNG,Chrome Grille,YES
+maruti,brezza,Brezza Vxi CNG,Projector Headlamps,YES
+maruti,brezza,Brezza Vxi CNG,Halogen Headlamps,YES
+maruti,brezza,Brezza Vxi CNG,Roof Rails,NO
+maruti,brezza,Brezza Vxi CNG,Fog Lights,NO
+maruti,brezza,Brezza Vxi CNG,Antenna,Shark Fin
+maruti,brezza,Brezza Vxi CNG,Sunroof,NO
+maruti,brezza,Brezza Vxi CNG,Boot Opening,Manual
+maruti,brezza,Brezza Vxi CNG,Outside Rear View Mirror (ORVM),Powered
+maruti,brezza,Brezza Vxi CNG,Tyre Size,215/60 R16
+maruti,brezza,Brezza Vxi CNG,Tyre Type,"Tubeless, Radial"
+maruti,brezza,Brezza Vxi CNG,Wheel Size,16 Inch
+maruti,brezza,Brezza Vxi CNG,LED DRLs,NO
+maruti,brezza,Brezza Vxi CNG,LED Headlamps,NO
+maruti,brezza,Brezza Vxi CNG,LED Taillights,YES
+maruti,brezza,Brezza Vxi CNG,LED Fog Lamps,NO
+maruti,brezza,Brezza Vxi CNG,Anti-lock Braking System (ABS),YES
+maruti,brezza,Brezza Vxi CNG,Central Locking,YES
+maruti,brezza,Brezza Vxi CNG,Anti-Theft Alarm,YES
+maruti,brezza,Brezza Vxi CNG,No. of Airbags,6
+maruti,brezza,Brezza Vxi CNG,Driver Airbag,YES
+maruti,brezza,Brezza Vxi CNG,Passenger Airbag,YES
+maruti,brezza,Brezza Vxi CNG,Side Airbag,YES
+maruti,brezza,Brezza Vxi CNG,Side Airbag-Rear,NO
+maruti,brezza,Brezza Vxi CNG,Day & Night Rear View Mirror,YES
+maruti,brezza,Brezza Vxi CNG,Curtain Airbag,YES
+maruti,brezza,Brezza Vxi CNG,Electronic Brakeforce Distribution (EBD),YES
+maruti,brezza,Brezza Vxi CNG,Seat Belt Warning,YES
+maruti,brezza,Brezza Vxi CNG,Door Ajar Warning,YES
+maruti,brezza,Brezza Vxi CNG,Engine Immobilizer,YES
+maruti,brezza,Brezza Vxi CNG,Electronic Stability Control (ESC),YES
+maruti,brezza,Brezza Vxi CNG,Rear Camera,NO
+maruti,brezza,Brezza Vxi CNG,Anti-Theft Device,YES
+maruti,brezza,Brezza Vxi CNG,Speed Alert,YES
+maruti,brezza,Brezza Vxi CNG,Speed Sensing Auto Door Lock,YES
+maruti,brezza,Brezza Vxi CNG,ISOFIX Child Seat Mounts,YES
+maruti,brezza,Brezza Vxi CNG,Heads-Up Display (HUD),NO
+maruti,brezza,Brezza Vxi CNG,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+maruti,brezza,Brezza Vxi CNG,Hill Assist,YES
+maruti,brezza,Brezza Vxi CNG,Impact Sensing Auto Door Unlock,YES
+maruti,brezza,Brezza Vxi CNG,360 View Camera,NO
+maruti,brezza,Brezza Vxi CNG,Global NCAP Safety Rating,4 Star
+maruti,brezza,Brezza Vxi CNG,Radio,YES
+maruti,brezza,Brezza Vxi CNG,Integrated 2DIN Audio,YES
+maruti,brezza,Brezza Vxi CNG,Wireless Phone Charging,NO
+maruti,brezza,Brezza Vxi CNG,Bluetooth Connectivity,YES
+maruti,brezza,Brezza Vxi CNG,Touchscreen,YES
+maruti,brezza,Brezza Vxi CNG,Touchscreen Size,7 inch
+maruti,brezza,Brezza Vxi CNG,Connectivity,"Android Auto, Apple CarPlay"
+maruti,brezza,Brezza Vxi CNG,Android Auto,YES
+maruti,brezza,Brezza Vxi CNG,Apple CarPlay,YES
+maruti,brezza,Brezza Vxi CNG,No. of Speakers,4
+maruti,brezza,Brezza Vxi CNG,Usb Ports,YES
+maruti,brezza,Brezza Vxi CNG,Additional Features,Smart Play Studio
+maruti,brezza,Brezza Vxi CNG,Speakers,Front & Rear

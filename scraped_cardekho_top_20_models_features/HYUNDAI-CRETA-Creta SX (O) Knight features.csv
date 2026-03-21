@@ -1,0 +1,142 @@
+company,model,variant,feature_name,feature_details
+HYUNDAI,CRETA,Creta SX (O) Knight,Engine Type,1.5L MPi
+HYUNDAI,CRETA,Creta SX (O) Knight,Displacement,1497 cc
+HYUNDAI,CRETA,Creta SX (O) Knight,Max Power,113.18bhp@6300rpm
+HYUNDAI,CRETA,Creta SX (O) Knight,Max Torque,143.8Nm@4500rpm
+HYUNDAI,CRETA,Creta SX (O) Knight,No. of Cylinders,4
+HYUNDAI,CRETA,Creta SX (O) Knight,Valves Per Cylinder,4
+HYUNDAI,CRETA,Creta SX (O) Knight,Valve Configuration,DOHC
+HYUNDAI,CRETA,Creta SX (O) Knight,Fuel Supply System,MPi
+HYUNDAI,CRETA,Creta SX (O) Knight,Turbo Charger,NO
+HYUNDAI,CRETA,Creta SX (O) Knight,Transmission Type,Manual
+HYUNDAI,CRETA,Creta SX (O) Knight,Gearbox,6-Speed
+HYUNDAI,CRETA,Creta SX (O) Knight,Drive Type,FWD
+HYUNDAI,CRETA,Creta SX (O) Knight,Fuel Type,Petrol
+HYUNDAI,CRETA,Creta SX (O) Knight,Petrol Mileage ARAI,17.4 kmpl
+HYUNDAI,CRETA,Creta SX (O) Knight,Petrol Fuel Tank Capacity,50 Litres
+HYUNDAI,CRETA,Creta SX (O) Knight,Emission Norm Compliance,BS VI 2.0
+HYUNDAI,CRETA,Creta SX (O) Knight,Front Suspension,MacPherson Strut suspension
+HYUNDAI,CRETA,Creta SX (O) Knight,Rear Suspension,Rear twist beam
+HYUNDAI,CRETA,Creta SX (O) Knight,Steering Type,Electric
+HYUNDAI,CRETA,Creta SX (O) Knight,Steering Column,Tilt & Telescopic
+HYUNDAI,CRETA,Creta SX (O) Knight,Turning Radius,5.3 m
+HYUNDAI,CRETA,Creta SX (O) Knight,Front Brake Type,Disc
+HYUNDAI,CRETA,Creta SX (O) Knight,Rear Brake Type,Disc
+HYUNDAI,CRETA,Creta SX (O) Knight,Alloy Wheel Size Front,18 Inch
+HYUNDAI,CRETA,Creta SX (O) Knight,Alloy Wheel Size Rear,18 Inch
+HYUNDAI,CRETA,Creta SX (O) Knight,Length,4330 mm
+HYUNDAI,CRETA,Creta SX (O) Knight,Width,1790 mm
+HYUNDAI,CRETA,Creta SX (O) Knight,Height,1635 mm
+HYUNDAI,CRETA,Creta SX (O) Knight,Seating Capacity,5
+HYUNDAI,CRETA,Creta SX (O) Knight,Ground Clearance Unladen,190 mm
+HYUNDAI,CRETA,Creta SX (O) Knight,Wheel Base,2610 mm
+HYUNDAI,CRETA,Creta SX (O) Knight,No. of Doors,5
+HYUNDAI,CRETA,Creta SX (O) Knight,Reported Boot Space,433 Litres
+HYUNDAI,CRETA,Creta SX (O) Knight,Power Steering,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Air Conditioner,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Heater,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Height Adjustable Driver Seat,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Ventilated Seats,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Electric Adjustable Seats,Front
+HYUNDAI,CRETA,Creta SX (O) Knight,Automatic Climate Control,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Accessory Power Outlet,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Trunk Light,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Vanity Mirror,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Rear Reading Lamp,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Adjustable Headrest,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Rear Seat Centre Arm Rest,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Height Adjustable Front Seat Belts,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Rear AC Vents,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Cruise Control,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Parking Sensors,Front & Rear
+HYUNDAI,CRETA,Creta SX (O) Knight,Foldable Rear Seat,60:40 Split
+HYUNDAI,CRETA,Creta SX (O) Knight,KeyLess Entry,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Engine Start/Stop Button,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Cooled Glovebox,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Voice Commands,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Paddle Shifters,NO
+HYUNDAI,CRETA,Creta SX (O) Knight,USB Charger,Front & Rear
+HYUNDAI,CRETA,Creta SX (O) Knight,Central Console Armrest,With Storage
+HYUNDAI,CRETA,Creta SX (O) Knight,Hands-Free Tailgate,NO
+HYUNDAI,CRETA,Creta SX (O) Knight,Idle Start-Stop System,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Rear Window Sunblind,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Automatic Headlamps,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Follow Me Home Headlamps,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Additional Features,Sunglass holder
+HYUNDAI,CRETA,Creta SX (O) Knight,Voice assisted sunroof,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Drive Mode Types,NA
+HYUNDAI,CRETA,Creta SX (O) Knight,Power Windows,Front & Rear
+HYUNDAI,CRETA,Creta SX (O) Knight,Cup Holders,Front & Rear
+HYUNDAI,CRETA,Creta SX (O) Knight,Tachometer,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Glove Box,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Digital Odometer,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Dual Tone Dashboard,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Additional Features,Rear parcel tray
+HYUNDAI,CRETA,Creta SX (O) Knight,Digital Cluster,Full
+HYUNDAI,CRETA,Creta SX (O) Knight,Digital Cluster Size,10.25 Inch
+HYUNDAI,CRETA,Creta SX (O) Knight,Upholstery,Leatherette
+HYUNDAI,CRETA,Creta SX (O) Knight,Rear Window Wiper,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Rear Window Washer,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Rear Window Defogger,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Wheel Covers,NO
+HYUNDAI,CRETA,Creta SX (O) Knight,Alloy Wheels,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Rear Spoiler,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Outside Rear View Mirror Turn Indicators,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Integrated Antenna,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Projector Headlamps,NO
+HYUNDAI,CRETA,Creta SX (O) Knight,Roof Rails,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Antenna,Shark Fin
+HYUNDAI,CRETA,Creta SX (O) Knight,Sunroof,Panoramic
+HYUNDAI,CRETA,Creta SX (O) Knight,Boot Opening,Electronic
+HYUNDAI,CRETA,Creta SX (O) Knight,Puddle Lamps,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Outside Rear View Mirror (ORVM),Powered & Folding
+HYUNDAI,CRETA,Creta SX (O) Knight,Tyre Size,215/55 R18
+HYUNDAI,CRETA,Creta SX (O) Knight,Tyre Type,Radial Tubeless
+HYUNDAI,CRETA,Creta SX (O) Knight,LED DRLs,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,LED Headlamps,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,LED Taillights,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Anti-lock Braking System (ABS),YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Central Locking,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Child Safety Locks,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Anti-Theft Alarm,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,No. of Airbags,6
+HYUNDAI,CRETA,Creta SX (O) Knight,Driver Airbag,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Passenger Airbag,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Side Airbag,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Side Airbag-Rear,NO
+HYUNDAI,CRETA,Creta SX (O) Knight,Day & Night Rear View Mirror,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Curtain Airbag,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Electronic Brakeforce Distribution (EBD),YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Seat Belt Warning,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Door Ajar Warning,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Traction Control,NO
+HYUNDAI,CRETA,Creta SX (O) Knight,Tyre Pressure Monitoring System (TPMS),YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Engine Immobilizer,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Electronic Stability Control (ESC),YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Rear Camera,With Guidedlines
+HYUNDAI,CRETA,Creta SX (O) Knight,Anti-Theft Device,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Anti-Pinch Power Windows,Driver's Window
+HYUNDAI,CRETA,Creta SX (O) Knight,Speed Alert,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Speed Sensing Auto Door Lock,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Knee Airbags,NO
+HYUNDAI,CRETA,Creta SX (O) Knight,ISOFIX Child Seat Mounts,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+HYUNDAI,CRETA,Creta SX (O) Knight,Hill Assist,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Impact Sensing Auto Door Unlock,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,360 View Camera,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Radio,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Integrated 2DIN Audio,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Wireless Phone Charging,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Bluetooth Connectivity,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Touchscreen,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Touchscreen Size,10.25 inch
+HYUNDAI,CRETA,Creta SX (O) Knight,Connectivity,Android Auto
+HYUNDAI,CRETA,Creta SX (O) Knight,Android Auto,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Apple CarPlay,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,No. of Speakers,5
+HYUNDAI,CRETA,Creta SX (O) Knight,Usb Ports,YES
+HYUNDAI,CRETA,Creta SX (O) Knight,Inbuilt Apps,JioSaavan
+HYUNDAI,CRETA,Creta SX (O) Knight,Tweeters,2
+HYUNDAI,CRETA,Creta SX (O) Knight,Subwoofer,1
+HYUNDAI,CRETA,Creta SX (O) Knight,Additional Features,Bose premium sound 8 speaker system with front central speaker & sub-woofer
+HYUNDAI,CRETA,Creta SX (O) Knight,Speakers,Front & Rear

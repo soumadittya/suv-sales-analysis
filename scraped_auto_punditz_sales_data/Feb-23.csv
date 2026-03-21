@@ -1,0 +1,71 @@
+date,company,model,monthly_sales,total_sales
+Feb-23,Citroen,C3,111.0,111.0
+Feb-23,Citroen,Ë C3,213.0,213.0
+Feb-23,Citroen,C5 Aircross,4.0,4.0
+Feb-23,Fiat,COMPASS,406.0,406.0
+Feb-23,Fiat,Meridian,313.0,313.0
+Feb-23,Honda,Amaze,4.1K,4.1K
+Feb-23,Honda,City,2.0K,2.0K
+Feb-23,Hyundai,Grand i10,9.6K,9.6K
+Feb-23,Hyundai,i20 Elite,9.3K,9.3K
+Feb-23,Hyundai,Xcent/Aura,5.5K,5.5K
+Feb-23,Hyundai,Venue,10.0K,10.0K
+Feb-23,Hyundai,Creta,10.4K,10.4K
+Feb-23,Hyundai,Verna,47.0,47.0
+Feb-23,Hyundai,ALCAZAR,1.6K,1.6K
+Feb-23,Hyundai,Tucson,498.0,498.0
+Feb-23,Kia,SELTOS,8.0K,8.0K
+Feb-23,Kia,SONET,9.8K,9.8K
+Feb-23,Kia,CARENS,6.2K,6.2K
+Feb-23,Kia,CARNIVAL,504.0,504.0
+Feb-23,Mahindra,XUV 700,4.5K,4.5K
+Feb-23,Mahindra,Bolero,9.8K,9.8K
+Feb-23,Mahindra,Thar,5.0K,5.0K
+Feb-23,Mahindra,XUV 300,3.8K,3.8K
+Feb-23,Mahindra,Marazzo,171.0,171.0
+Feb-23,Mahindra,Scorpio,7.0K,7.0K
+Feb-23,Maruti,Alto,18.1K,18.1K
+Feb-23,Maruti,Eeco,11.4K,11.4K
+Feb-23,Maruti,S Presso,3.8K,3.8K
+Feb-23,Maruti,Wagon R,16.9K,16.9K
+Feb-23,Maruti,IGNIS,4.7K,4.7K
+Feb-23,Maruti,Ertiga,6.5K,6.5K
+Feb-23,Maruti,XL6,2.1K,2.1K
+Feb-23,Maruti,CELERIO,4.5K,4.5K
+Feb-23,Maruti,Vitara Brezza,15.8K,15.8K
+Feb-23,Maruti,Swift,18.4K,18.4K
+Feb-23,Maruti,Baleno,18.6K,18.6K
+Feb-23,Maruti,DZIRE,16.8K,16.8K
+Feb-23,Maruti,Ciaz,792.0,792.0
+Feb-23,Maruti,Grand Vitara,9.2K,9.2K
+Feb-23,Morris Garage,Hector,2.6K,2.6K
+Feb-23,Morris Garage,Gloster,101.0,101.0
+Feb-23,Morris Garage,Astor,1.0K,1.0K
+Feb-23,Morris Garage,ZS EV,514.0,514.0
+Feb-23,Nissan,MAGNITE,2.2K,2.2K
+Feb-23,Renault,KWID,1.8K,1.8K
+Feb-23,Renault,KIGER,1.8K,1.8K
+Feb-23,Renault,TRIBER,3.1K,3.1K
+Feb-23,Skoda,Octavia,82.0,82.0
+Feb-23,Skoda,KUSHAQ,1.8K,1.8K
+Feb-23,Skoda,SLAVIA,1.3K,1.3K
+Feb-23,Skoda,KODIAQ,189.0,189.0
+Feb-23,Skoda,SUPERB,90.0,90.0
+Feb-23,Tata,Tiago,7.5K,7.5K
+Feb-23,Tata,PUNCH,11.2K,11.2K
+Feb-23,Tata,ALTROZ,4.0K,4.0K
+Feb-23,Tata,TIGOR,3.1K,3.1K
+Feb-23,Tata,NEXON,13.9K,13.9K
+Feb-23,Tata,SAFARI,1.3K,1.3K
+Feb-23,Tata,HARRIER,2.1K,2.1K
+Feb-23,Toyota,Innova + Hycross,4.2K,4.2K
+Feb-23,Toyota,GLANZA,4.2K,4.2K
+Feb-23,Toyota,Fortuner,3.4K,3.4K
+Feb-23,Toyota,Camry,67.0,67.0
+Feb-23,Toyota,HYRYDER,3.3K,3.3K
+Feb-23,Toyota,HILUX,15.0,15.0
+Feb-23,Toyota,VELLFIRE,60.0,60.0
+Feb-23,Volkswagen,VIRTUS,1.6K,1.6K
+Feb-23,Volkswagen,TAIGUN,1.7K,1.7K
+Feb-23,Volkswagen,TIGUAN,93.0,93.0
+Feb-23,Grand Total,Grand Total,3.3L,3.3L

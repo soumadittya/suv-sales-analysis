@@ -1,0 +1,143 @@
+company,model,variant,feature_name,feature_details
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Engine Type,mStallion (TGDi) engine
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Displacement,1197 cc
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Max Power,128.73bhp@5000rpm
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Max Torque,230Nm@1500-3750rpm
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,No. of Cylinders,3
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Valves Per Cylinder,4
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Turbo Charger,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Transmission Type,Manual
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Gearbox,6-Speed
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Drive Type,FWD
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Fuel Type,Petrol
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Petrol Mileage ARAI,20.1 kmpl
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Petrol Fuel Tank Capacity,42 Litres
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Emission Norm Compliance,BS VI 2.0
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Front Suspension,MacPherson Strut suspension
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Rear Suspension,Rear twist beam
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Steering Type,Electric
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Turning Radius,5.3 m
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Front Brake Type,Disc
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Rear Brake Type,Disc
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Alloy Wheel Size Front,17 Inch
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Alloy Wheel Size Rear,17 Inch
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Length,3990 mm
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Width,1821 mm
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Height,1647 mm
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Boot Space,364 Litres
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Seating Capacity,5
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Wheel Base,2600 mm
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,No. of Doors,5
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Power Steering,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Air Conditioner,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Heater,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Height Adjustable Driver Seat,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Ventilated Seats,NO
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Electric Adjustable Seats,NO
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Automatic Climate Control,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Accessory Power Outlet,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Rear Reading Lamp,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Adjustable Headrest,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Rear Seat Centre Arm Rest,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Height Adjustable Front Seat Belts,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Rear AC Vents,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Cruise Control,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Parking Sensors,Front & Rear
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Real-Time Vehicle Tracking,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Foldable Rear Seat,60:40 Split
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,KeyLess Entry,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Engine Start/Stop Button,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Cooled Glovebox,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Paddle Shifters,NO
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,USB Charger,Front & Rear
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Central Console Armrest,With Storage
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Hands-Free Tailgate,NO
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Rear Curtain,NO
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Glove Box light,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Idle Start-Stop System,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Rear Window Sunblind,NO
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Rear Windscreen Sunblind,NO
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Automatic Headlamps,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Follow Me Home Headlamps,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Power Windows,Front & Rear
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Cup Holders,Front & Rear
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Tachometer,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Leather Wrapped Steering Wheel,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Leather wrap gear-shift selector,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Glove Box,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Cigarette Lighter,NO
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Folding Table in The Rear,NO
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Digital Cluster,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Digital Cluster Size,10.25 Inch
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Upholstery,Leatherette
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Adjustable Headlamps,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Headlamp Washers,NO
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Rear Window Wiper,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Rear Window Washer,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Rear Window Defogger,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Wheel Covers,NO
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Alloy Wheels,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Rear Spoiler,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Side Stepper,NO
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Outside Rear View Mirror Turn Indicators,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Integrated Antenna,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Projector Headlamps,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Halogen Headlamps,NO
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Cornering Foglamps,NO
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Roof Rails,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Fog Lights,Front
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Convertible Top,NO
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Sunroof,Panoramic
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Boot Opening,Electronic
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Heated Outside Rear View Mirror,NO
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Outside Rear View Mirror (ORVM),Powered & Folding
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Tyre Size,215/55 R17
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Tyre Type,"Tubeless, Radial"
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,LED DRLs,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,LED Headlamps,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,LED Taillights,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,LED Fog Lamps,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Additional Features,Electronic Trumpet Horn
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Anti-lock Braking System (ABS),YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Central Locking,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Child Safety Locks,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,No. of Airbags,6
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Driver Airbag,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Passenger Airbag,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Side Airbag,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Side Airbag-Rear,NO
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Day & Night Rear View Mirror,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Xenon Headlamps,NO
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Curtain Airbag,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Electronic Brakeforce Distribution (EBD),YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Seat Belt Warning,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Door Ajar Warning,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Tyre Pressure Monitoring System (TPMS),YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Engine Immobilizer,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Electronic Stability Control (ESC),YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Rear Camera,With Guidedlines
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Speed Alert,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Speed Sensing Auto Door Lock,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Knee Airbags,NO
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,ISOFIX Child Seat Mounts,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Heads-Up Display (HUD),NO
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,360 View Camera,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Global NCAP Safety Rating,5 Star
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Global NCAP Child Safety Rating,5 Star
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Bharat NCAP Safety Rating,5 Star
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Bharat NCAP Child Safety Rating,5 Star
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Radio,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Integrated 2DIN Audio,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Wireless Phone Charging,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Bluetooth Connectivity,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Touchscreen,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Touchscreen Size,10.25 inch
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Connectivity,"Android Auto, Apple CarPlay"
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Android Auto,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Apple CarPlay,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,No. of Speakers,4
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Usb Ports,YES
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Tweeters,2
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Additional Features,"Harman Kardon Premium Audio with Amplifier & Sub-woofer, Wireless Android Auto And Apple CarPlay"
+mahindra,xuv-3xo,XUV 3XO AX7 L Turbo,Speakers,Front & Rear

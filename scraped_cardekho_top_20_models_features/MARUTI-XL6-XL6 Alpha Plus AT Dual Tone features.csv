@@ -1,0 +1,115 @@
+company,model,variant,feature_name,feature_details
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Engine Type,K15C Smart Hybrid
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Displacement,1462 cc
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Max Power,101.64bhp@6000rpm
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Max Torque,136.8Nm@4400rpm
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,No. of Cylinders,4
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Valves Per Cylinder,4
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Transmission Type,Automatic
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Gearbox,6-Speed AT
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Drive Type,FWD
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Fuel Type,Petrol
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Petrol Mileage ARAI,20.27 kmpl
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Petrol Fuel Tank Capacity,45 Litres
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Emission Norm Compliance,BS VI 2.0
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Top Speed,170 kmph
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Front Suspension,MacPherson Strut suspension
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Rear Suspension,Rear twist beam
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Steering Column,Tilt and Telescopic
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Turning Radius,5.2 m
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Front Brake Type,Disc
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Rear Brake Type,Drum
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Alloy Wheel Size Front,16 Inch
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Alloy Wheel Size Rear,16 Inch
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Length,4445 mm
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Width,1775 mm
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Height,1755 mm
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Boot Space,209 Litres
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Seating Capacity,6
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Wheel Base,2740 mm
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Kerb Weight,1225 kg
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Gross Weight,1765 kg
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,No. of Doors,5
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Power Steering,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Air Conditioner,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Heater,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Height Adjustable Driver Seat,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Ventilated Seats,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Automatic Climate Control,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Accessory Power Outlet,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Vanity Mirror,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Rear Reading Lamp,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Rear Seat Centre Arm Rest,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Height Adjustable Front Seat Belts,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Rear AC Vents,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Cruise Control,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Parking Sensors,Rear
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Real-Time Vehicle Tracking,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Foldable Rear Seat,3rd Row 50:50 Split
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,KeyLess Entry,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Engine Start/Stop Button,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Voice Commands,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,USB Charger,Front
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Central Console Armrest,With Storage
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Tailgate Ajar Warning,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Gear Shift Indicator,NO
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Idle Start-Stop System,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Automatic Headlamps,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Follow Me Home Headlamps,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Tachometer,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Leather Wrapped Steering Wheel,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Glove Box,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Digital Cluster,Semi
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Upholstery,Leatherette
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Adjustable Headlamps,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Rear Window Wiper,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Rear Window Washer,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Rear Window Defogger,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Alloy Wheels,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Rear Spoiler,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Outside Rear View Mirror Turn Indicators,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Integrated Antenna,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Fog Lights,Front
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Antenna,Shark Fin
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Boot Opening,Manual
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Tyre Size,195/60 R16
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Tyre Type,"Tubeless, Radial"
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,LED DRLs,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,LED Headlamps,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,LED Taillights,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,LED Fog Lamps,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Anti-lock Braking System (ABS),YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Central Locking,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Child Safety Locks,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Anti-Theft Alarm,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,No. of Airbags,6
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Driver Airbag,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Passenger Airbag,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Side Airbag,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Day & Night Rear View Mirror,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Curtain Airbag,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Electronic Brakeforce Distribution (EBD),YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Seat Belt Warning,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Door Ajar Warning,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Tyre Pressure Monitoring System (TPMS),YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Engine Immobilizer,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Anti-Theft Device,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Anti-Pinch Power Windows,Driver
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Speed Alert,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Speed Sensing Auto Door Lock,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,ISOFIX Child Seat Mounts,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,360 View Camera,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Radio,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Integrated 2DIN Audio,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Bluetooth Connectivity,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Touchscreen,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Touchscreen Size,7 inch
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Connectivity,"Android Auto, Apple CarPlay"
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Android Auto,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Apple CarPlay,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,No. of Speakers,4
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Usb Ports,YES
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Tweeters,2
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Additional Features,"Wireless, Android Auto, Apple CarPlay"
+MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,Speakers,Front & Rear

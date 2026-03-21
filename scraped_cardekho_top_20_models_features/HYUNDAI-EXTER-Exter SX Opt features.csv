@@ -1,0 +1,116 @@
+company,model,variant,feature_name,feature_details
+HYUNDAI,EXTER,Exter SX Opt,Engine Type,1.2 l Kappa
+HYUNDAI,EXTER,Exter SX Opt,Displacement,1197 cc
+HYUNDAI,EXTER,Exter SX Opt,Max Power,81.8bhp@6000rpm
+HYUNDAI,EXTER,Exter SX Opt,Max Torque,113.8Nm@4000rpm
+HYUNDAI,EXTER,Exter SX Opt,No. of Cylinders,4
+HYUNDAI,EXTER,Exter SX Opt,Valves Per Cylinder,4
+HYUNDAI,EXTER,Exter SX Opt,Transmission Type,Manual
+HYUNDAI,EXTER,Exter SX Opt,Gearbox,5-Speed
+HYUNDAI,EXTER,Exter SX Opt,Drive Type,FWD
+HYUNDAI,EXTER,Exter SX Opt,Fuel Type,Petrol
+HYUNDAI,EXTER,Exter SX Opt,Petrol Mileage ARAI,19.4 kmpl
+HYUNDAI,EXTER,Exter SX Opt,Petrol Fuel Tank Capacity,37 Litres
+HYUNDAI,EXTER,Exter SX Opt,Emission Norm Compliance,BS VI 2.0
+HYUNDAI,EXTER,Exter SX Opt,Front Suspension,MacPherson Strut suspension
+HYUNDAI,EXTER,Exter SX Opt,Rear Suspension,Rear twist beam
+HYUNDAI,EXTER,Exter SX Opt,Shock Absorbers Type,Gas Type
+HYUNDAI,EXTER,Exter SX Opt,Steering Type,Electric
+HYUNDAI,EXTER,Exter SX Opt,Steering Column,Tilt
+HYUNDAI,EXTER,Exter SX Opt,Front Brake Type,Disc
+HYUNDAI,EXTER,Exter SX Opt,Rear Brake Type,Drum
+HYUNDAI,EXTER,Exter SX Opt,Alloy Wheel Size Front,15 Inch
+HYUNDAI,EXTER,Exter SX Opt,Alloy Wheel Size Rear,15 Inch
+HYUNDAI,EXTER,Exter SX Opt,Length,3815 mm
+HYUNDAI,EXTER,Exter SX Opt,Width,1710 mm
+HYUNDAI,EXTER,Exter SX Opt,Height,1631 mm
+HYUNDAI,EXTER,Exter SX Opt,Seating Capacity,5
+HYUNDAI,EXTER,Exter SX Opt,Wheel Base,2450 mm
+HYUNDAI,EXTER,Exter SX Opt,No. of Doors,5
+HYUNDAI,EXTER,Exter SX Opt,Reported Boot Space,391 Litres
+HYUNDAI,EXTER,Exter SX Opt,Power Steering,YES
+HYUNDAI,EXTER,Exter SX Opt,Air Conditioner,YES
+HYUNDAI,EXTER,Exter SX Opt,Heater,YES
+HYUNDAI,EXTER,Exter SX Opt,Height Adjustable Driver Seat,YES
+HYUNDAI,EXTER,Exter SX Opt,Automatic Climate Control,YES
+HYUNDAI,EXTER,Exter SX Opt,Accessory Power Outlet,YES
+HYUNDAI,EXTER,Exter SX Opt,Trunk Light,YES
+HYUNDAI,EXTER,Exter SX Opt,Vanity Mirror,YES
+HYUNDAI,EXTER,Exter SX Opt,Rear Reading Lamp,YES
+HYUNDAI,EXTER,Exter SX Opt,Rear Seat Headrest,Adjustable
+HYUNDAI,EXTER,Exter SX Opt,Rear AC Vents,YES
+HYUNDAI,EXTER,Exter SX Opt,Cruise Control,YES
+HYUNDAI,EXTER,Exter SX Opt,Parking Sensors,Rear
+HYUNDAI,EXTER,Exter SX Opt,Foldable Rear Seat,Bench Folding
+HYUNDAI,EXTER,Exter SX Opt,KeyLess Entry,YES
+HYUNDAI,EXTER,Exter SX Opt,Engine Start/Stop Button,YES
+HYUNDAI,EXTER,Exter SX Opt,Cooled Glovebox,YES
+HYUNDAI,EXTER,Exter SX Opt,Voice Commands,YES
+HYUNDAI,EXTER,Exter SX Opt,Paddle Shifters,NO
+HYUNDAI,EXTER,Exter SX Opt,USB Charger,Front
+HYUNDAI,EXTER,Exter SX Opt,Tailgate Ajar Warning,YES
+HYUNDAI,EXTER,Exter SX Opt,Luggage Hook & Net,YES
+HYUNDAI,EXTER,Exter SX Opt,Idle Start-Stop System,YES
+HYUNDAI,EXTER,Exter SX Opt,Automatic Headlamps,YES
+HYUNDAI,EXTER,Exter SX Opt,Follow Me Home Headlamps,YES
+HYUNDAI,EXTER,Exter SX Opt,Additional Features,Rear parcel tray
+HYUNDAI,EXTER,Exter SX Opt,Voice assisted sunroof,NO
+HYUNDAI,EXTER,Exter SX Opt,Power Windows,Front & Rear
+HYUNDAI,EXTER,Exter SX Opt,Tachometer,YES
+HYUNDAI,EXTER,Exter SX Opt,Glove Box,YES
+HYUNDAI,EXTER,Exter SX Opt,Digital Cluster,YES
+HYUNDAI,EXTER,Exter SX Opt,Upholstery,Leatherette
+HYUNDAI,EXTER,Exter SX Opt,Adjustable Headlamps,YES
+HYUNDAI,EXTER,Exter SX Opt,Rear Window Wiper,YES
+HYUNDAI,EXTER,Exter SX Opt,Rear Window Washer,YES
+HYUNDAI,EXTER,Exter SX Opt,Rear Window Defogger,YES
+HYUNDAI,EXTER,Exter SX Opt,Wheel Covers,NO
+HYUNDAI,EXTER,Exter SX Opt,Alloy Wheels,YES
+HYUNDAI,EXTER,Exter SX Opt,Rear Spoiler,YES
+HYUNDAI,EXTER,Exter SX Opt,Outside Rear View Mirror Turn Indicators,YES
+HYUNDAI,EXTER,Exter SX Opt,Projector Headlamps,YES
+HYUNDAI,EXTER,Exter SX Opt,Halogen Headlamps,NO
+HYUNDAI,EXTER,Exter SX Opt,Roof Rails,YES
+HYUNDAI,EXTER,Exter SX Opt,Antenna,Shark fin
+HYUNDAI,EXTER,Exter SX Opt,Sunroof,Single Pane
+HYUNDAI,EXTER,Exter SX Opt,Boot Opening,Electronic
+HYUNDAI,EXTER,Exter SX Opt,Outside Rear View Mirror (ORVM),Powered & Folding
+HYUNDAI,EXTER,Exter SX Opt,Tyre Size,175/65 R15
+HYUNDAI,EXTER,Exter SX Opt,Tyre Type,Radial Tubeless
+HYUNDAI,EXTER,Exter SX Opt,LED DRLs,YES
+HYUNDAI,EXTER,Exter SX Opt,LED Taillights,YES
+HYUNDAI,EXTER,Exter SX Opt,Anti-lock Braking System (ABS),YES
+HYUNDAI,EXTER,Exter SX Opt,Central Locking,YES
+HYUNDAI,EXTER,Exter SX Opt,Child Safety Locks,YES
+HYUNDAI,EXTER,Exter SX Opt,Anti-Theft Alarm,YES
+HYUNDAI,EXTER,Exter SX Opt,No. of Airbags,6
+HYUNDAI,EXTER,Exter SX Opt,Driver Airbag,YES
+HYUNDAI,EXTER,Exter SX Opt,Passenger Airbag,YES
+HYUNDAI,EXTER,Exter SX Opt,Side Airbag,YES
+HYUNDAI,EXTER,Exter SX Opt,Side Airbag-Rear,NO
+HYUNDAI,EXTER,Exter SX Opt,Day & Night Rear View Mirror,YES
+HYUNDAI,EXTER,Exter SX Opt,Curtain Airbag,YES
+HYUNDAI,EXTER,Exter SX Opt,Electronic Brakeforce Distribution (EBD),YES
+HYUNDAI,EXTER,Exter SX Opt,Seat Belt Warning,YES
+HYUNDAI,EXTER,Exter SX Opt,Door Ajar Warning,YES
+HYUNDAI,EXTER,Exter SX Opt,Tyre Pressure Monitoring System (TPMS),YES
+HYUNDAI,EXTER,Exter SX Opt,Engine Immobilizer,YES
+HYUNDAI,EXTER,Exter SX Opt,Electronic Stability Control (ESC),YES
+HYUNDAI,EXTER,Exter SX Opt,Rear Camera,With Guidedlines
+HYUNDAI,EXTER,Exter SX Opt,Anti-Theft Device,YES
+HYUNDAI,EXTER,Exter SX Opt,Speed Alert,YES
+HYUNDAI,EXTER,Exter SX Opt,Speed Sensing Auto Door Lock,YES
+HYUNDAI,EXTER,Exter SX Opt,ISOFIX Child Seat Mounts,YES
+HYUNDAI,EXTER,Exter SX Opt,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+HYUNDAI,EXTER,Exter SX Opt,Hill Assist,YES
+HYUNDAI,EXTER,Exter SX Opt,Impact Sensing Auto Door Unlock,YES
+HYUNDAI,EXTER,Exter SX Opt,Radio,YES
+HYUNDAI,EXTER,Exter SX Opt,Wireless Phone Charging,YES
+HYUNDAI,EXTER,Exter SX Opt,Bluetooth Connectivity,YES
+HYUNDAI,EXTER,Exter SX Opt,Touchscreen,YES
+HYUNDAI,EXTER,Exter SX Opt,Touchscreen Size,8 inch
+HYUNDAI,EXTER,Exter SX Opt,Android Auto,YES
+HYUNDAI,EXTER,Exter SX Opt,Apple CarPlay,YES
+HYUNDAI,EXTER,Exter SX Opt,Usb Ports,YES
+HYUNDAI,EXTER,Exter SX Opt,Inbuilt Apps,NO
+HYUNDAI,EXTER,Exter SX Opt,Speakers,Front & Rear

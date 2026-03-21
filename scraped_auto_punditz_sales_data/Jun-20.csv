@@ -1,0 +1,72 @@
+date,company,model,monthly_sales,total_sales
+Jun-20,Fiat,COMPASS,246.0,246.0
+Jun-20,Fiat,WRANGLER,10.0,10.0
+Jun-20,Ford,Figo,174.0,174.0
+Jun-20,Ford,FREESTYLE,506.0,506.0
+Jun-20,Ford,Aspire,381.0,381.0
+Jun-20,Ford,Ecosport,1.2K,1.2K
+Jun-20,Ford,Endeavour,366.0,366.0
+Jun-20,Honda,Amaze,139.0,139.0
+Jun-20,Honda,City,585.0,585.0
+Jun-20,Honda,WRV,658.0,658.0
+Jun-20,Honda,Civic,14.0,14.0
+Jun-20,Honda,CR-V,2.0,2.0
+Jun-20,Hyundai,Santro,1.5K,1.5K
+Jun-20,Hyundai,Grand i10,3.6K,3.6K
+Jun-20,Hyundai,i20 Elite,2.7K,2.7K
+Jun-20,Hyundai,Xcent/Aura,1.0K,1.0K
+Jun-20,Hyundai,Venue,4.1K,4.1K
+Jun-20,Hyundai,Creta,7.2K,7.2K
+Jun-20,Hyundai,Verna,1.1K,1.1K
+Jun-20,Hyundai,Elantra,15.0,15.0
+Jun-20,Hyundai,Tucson,30.0,30.0
+Jun-20,Hyundai,KONA,16.0,16.0
+Jun-20,Kia,SELTOS,7.1K,7.1K
+Jun-20,Kia,CARNIVAL,161.0,161.0
+Jun-20,Mahindra,Verito,1.0,1.0
+Jun-20,Mahindra,KUV 100,49.0,49.0
+Jun-20,Mahindra,Bolero,3.3K,3.3K
+Jun-20,Mahindra,XUV 300,1.8K,1.8K
+Jun-20,Mahindra,Scorpio,2.6K,2.6K
+Jun-20,Mahindra,XUV 500,231.0,231.0
+Jun-20,Maruti,Alto,7.3K,7.3K
+Jun-20,Maruti,Eeco,3.8K,3.8K
+Jun-20,Maruti,S Presso,3.2K,3.2K
+Jun-20,Maruti,Wagon R,7.0K,7.0K
+Jun-20,Maruti,IGNIS,1.4K,1.4K
+Jun-20,Maruti,Ertiga,3.3K,3.3K
+Jun-20,Maruti,XL6,1.2K,1.2K
+Jun-20,Maruti,CELERIO,4.1K,4.1K
+Jun-20,Maruti,Vitara Brezza,4.5K,4.5K
+Jun-20,Maruti,Swift,4.0K,4.0K
+Jun-20,Maruti,Baleno,4.3K,4.3K
+Jun-20,Maruti,DZIRE,5.8K,5.8K
+Jun-20,Maruti,Ciaz,553.0,553.0
+Jun-20,Maruti,Gypsy,718.0,718.0
+Jun-20,Morris Garage,Hector,1.9K,1.9K
+Jun-20,Morris Garage,ZS EV,145.0,145.0
+Jun-20,Nissan,Redi-GO,404.0,404.0
+Jun-20,Nissan,GO,51.0,51.0
+Jun-20,Nissan,GO+,51.0,51.0
+Jun-20,Nissan,KICKS,70.0,70.0
+Jun-20,Renault,KWID,2.4K,2.4K
+Jun-20,Renault,TRIBER,2.1K,2.1K
+Jun-20,Renault,Duster,129.0,129.0
+Jun-20,Skoda,Octavia,21.0,21.0
+Jun-20,Skoda,Rapid,577.0,577.0
+Jun-20,Skoda,Karoq,151.0,151.0
+Jun-20,Skoda,SUPERB,41.0,41.0
+Jun-20,Tata,Tiago,4.1K,4.1K
+Jun-20,Tata,ALTROZ,3.1K,3.1K
+Jun-20,Tata,TIGOR,553.0,553.0
+Jun-20,Tata,NEXON,3.0K,3.0K
+Jun-20,Tata,HARRIER,653.0,653.0
+Jun-20,Toyota,Innova + Hycross,2.1K,2.1K
+Jun-20,Toyota,YARIS,79.0,79.0
+Jun-20,Toyota,GLANZA,914.0,914.0
+Jun-20,Toyota,Fortuner,713.0,713.0
+Jun-20,Toyota,Camry,26.0,26.0
+Jun-20,Toyota,VELLFIRE,49.0,49.0
+Jun-20,Volkswagen,Polo,1.2K,1.2K
+Jun-20,Volkswagen,Vento,282.0,282.0
+Jun-20,Grand Total,Grand Total,1.2L,1.2L

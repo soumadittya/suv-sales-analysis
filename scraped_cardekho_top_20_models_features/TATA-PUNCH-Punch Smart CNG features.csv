@@ -1,0 +1,115 @@
+company,model,variant,feature_name,feature_details
+TATA,PUNCH,Punch Smart CNG,Engine Type,1.2 l Revotron
+TATA,PUNCH,Punch Smart CNG,Displacement,1199 cc
+TATA,PUNCH,Punch Smart CNG,Max Power,72bhp@6000rpm
+TATA,PUNCH,Punch Smart CNG,Max Torque,103Nm@3500rpm
+TATA,PUNCH,Punch Smart CNG,No. of Cylinders,3
+TATA,PUNCH,Punch Smart CNG,Valves Per Cylinder,4
+TATA,PUNCH,Punch Smart CNG,Turbo Charger,NO
+TATA,PUNCH,Punch Smart CNG,Transmission Type,Manual
+TATA,PUNCH,Punch Smart CNG,Gearbox,5-Speed
+TATA,PUNCH,Punch Smart CNG,Drive Type,FWD
+TATA,PUNCH,Punch Smart CNG,Fuel Type,CNG
+TATA,PUNCH,Punch Smart CNG,CNG Fuel Tank Capacity,60 Litres
+TATA,PUNCH,Punch Smart CNG,Emission Norm Compliance,BS VI 2.0
+TATA,PUNCH,Punch Smart CNG,Top Speed,150 kmph
+TATA,PUNCH,Punch Smart CNG,Front Suspension,MacPherson Strut suspension
+TATA,PUNCH,Punch Smart CNG,Rear Suspension,Rear twist beam
+TATA,PUNCH,Punch Smart CNG,Steering Type,Electric
+TATA,PUNCH,Punch Smart CNG,Steering Column,Tilt
+TATA,PUNCH,Punch Smart CNG,Front Brake Type,Disc
+TATA,PUNCH,Punch Smart CNG,Rear Brake Type,Drum
+TATA,PUNCH,Punch Smart CNG,Length,3876 mm
+TATA,PUNCH,Punch Smart CNG,Width,1742 mm
+TATA,PUNCH,Punch Smart CNG,Height,1615 mm
+TATA,PUNCH,Punch Smart CNG,Boot Space,210 Litres
+TATA,PUNCH,Punch Smart CNG,Seating Capacity,5
+TATA,PUNCH,Punch Smart CNG,Ground Clearance Unladen,193 mm
+TATA,PUNCH,Punch Smart CNG,Wheel Base,2445 mm
+TATA,PUNCH,Punch Smart CNG,No. of Doors,5
+TATA,PUNCH,Punch Smart CNG,Power Steering,YES
+TATA,PUNCH,Punch Smart CNG,Air Conditioner,YES
+TATA,PUNCH,Punch Smart CNG,Heater,YES
+TATA,PUNCH,Punch Smart CNG,Adjustable Steering,Height only
+TATA,PUNCH,Punch Smart CNG,Height Adjustable Driver Seat,NO
+TATA,PUNCH,Punch Smart CNG,Automatic Climate Control,NO
+TATA,PUNCH,Punch Smart CNG,Air Quality Control,NO
+TATA,PUNCH,Punch Smart CNG,Accessory Power Outlet,YES
+TATA,PUNCH,Punch Smart CNG,Vanity Mirror,NO
+TATA,PUNCH,Punch Smart CNG,Rear Seat Headrest,Integrated
+TATA,PUNCH,Punch Smart CNG,Adjustable Headrest,YES
+TATA,PUNCH,Punch Smart CNG,Rear Seat Centre Arm Rest,NO
+TATA,PUNCH,Punch Smart CNG,Rear AC Vents,NO
+TATA,PUNCH,Punch Smart CNG,Cruise Control,NO
+TATA,PUNCH,Punch Smart CNG,Parking Sensors,NO
+TATA,PUNCH,Punch Smart CNG,Real-Time Vehicle Tracking,NO
+TATA,PUNCH,Punch Smart CNG,KeyLess Entry,YES
+TATA,PUNCH,Punch Smart CNG,Engine Start/Stop Button,NO
+TATA,PUNCH,Punch Smart CNG,Cooled Glovebox,NO
+TATA,PUNCH,Punch Smart CNG,Paddle Shifters,NO
+TATA,PUNCH,Punch Smart CNG,USB Charger,NO
+TATA,PUNCH,Punch Smart CNG,Central Console Armrest,NO
+TATA,PUNCH,Punch Smart CNG,Drive Modes,2
+TATA,PUNCH,Punch Smart CNG,Idle Start-Stop System,YES
+TATA,PUNCH,Punch Smart CNG,Follow Me Home Headlamps,YES
+TATA,PUNCH,Punch Smart CNG,Voice assisted sunroof,NO
+TATA,PUNCH,Punch Smart CNG,Power Windows,Front Only
+TATA,PUNCH,Punch Smart CNG,Tachometer,YES
+TATA,PUNCH,Punch Smart CNG,Leather Wrapped Steering Wheel,NO
+TATA,PUNCH,Punch Smart CNG,Leather wrap gear-shift selector,NO
+TATA,PUNCH,Punch Smart CNG,Glove Box,YES
+TATA,PUNCH,Punch Smart CNG,Digital Cluster,YES
+TATA,PUNCH,Punch Smart CNG,Digital Cluster Size,4
+TATA,PUNCH,Punch Smart CNG,Rain Sensing Wiper,NO
+TATA,PUNCH,Punch Smart CNG,Rear Window Wiper,NO
+TATA,PUNCH,Punch Smart CNG,Rear Window Washer,NO
+TATA,PUNCH,Punch Smart CNG,Rear Window Defogger,NO
+TATA,PUNCH,Punch Smart CNG,Wheel Covers,YES
+TATA,PUNCH,Punch Smart CNG,Alloy Wheels,NO
+TATA,PUNCH,Punch Smart CNG,Rear Spoiler,NO
+TATA,PUNCH,Punch Smart CNG,Outside Rear View Mirror Turn Indicators,YES
+TATA,PUNCH,Punch Smart CNG,Integrated Antenna,YES
+TATA,PUNCH,Punch Smart CNG,Cornering Foglamps,NO
+TATA,PUNCH,Punch Smart CNG,Roof Rails,NO
+TATA,PUNCH,Punch Smart CNG,Automatic Headlamps,NO
+TATA,PUNCH,Punch Smart CNG,Antenna,Pole Type
+TATA,PUNCH,Punch Smart CNG,Sunroof,NO
+TATA,PUNCH,Punch Smart CNG,Puddle Lamps,NO
+TATA,PUNCH,Punch Smart CNG,Outside Rear View Mirror (ORVM),Powered
+TATA,PUNCH,Punch Smart CNG,Tyre Size,185/70 R15
+TATA,PUNCH,Punch Smart CNG,Tyre Type,Radial Tubeless
+TATA,PUNCH,Punch Smart CNG,Wheel Size,15 Inch
+TATA,PUNCH,Punch Smart CNG,LED DRLs,NO
+TATA,PUNCH,Punch Smart CNG,LED Headlamps,YES
+TATA,PUNCH,Punch Smart CNG,LED Taillights,NO
+TATA,PUNCH,Punch Smart CNG,LED Fog Lamps,NO
+TATA,PUNCH,Punch Smart CNG,Anti-lock Braking System (ABS),YES
+TATA,PUNCH,Punch Smart CNG,Central Locking,YES
+TATA,PUNCH,Punch Smart CNG,Child Safety Locks,YES
+TATA,PUNCH,Punch Smart CNG,No. of Airbags,6
+TATA,PUNCH,Punch Smart CNG,Driver Airbag,YES
+TATA,PUNCH,Punch Smart CNG,Passenger Airbag,YES
+TATA,PUNCH,Punch Smart CNG,Side Airbag,YES
+TATA,PUNCH,Punch Smart CNG,Day & Night Rear View Mirror,YES
+TATA,PUNCH,Punch Smart CNG,Curtain Airbag,YES
+TATA,PUNCH,Punch Smart CNG,Electronic Brakeforce Distribution (EBD),YES
+TATA,PUNCH,Punch Smart CNG,Seat Belt Warning,YES
+TATA,PUNCH,Punch Smart CNG,Door Ajar Warning,YES
+TATA,PUNCH,Punch Smart CNG,Tyre Pressure Monitoring System (TPMS),YES
+TATA,PUNCH,Punch Smart CNG,Engine Immobilizer,YES
+TATA,PUNCH,Punch Smart CNG,Electronic Stability Control (ESC),YES
+TATA,PUNCH,Punch Smart CNG,Rear Camera,NO
+TATA,PUNCH,Punch Smart CNG,Speed Sensing Auto Door Lock,YES
+TATA,PUNCH,Punch Smart CNG,ISOFIX Child Seat Mounts,YES
+TATA,PUNCH,Punch Smart CNG,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+TATA,PUNCH,Punch Smart CNG,Hill Descent Control,NO
+TATA,PUNCH,Punch Smart CNG,Hill Assist,YES
+TATA,PUNCH,Punch Smart CNG,360 View Camera,NO
+TATA,PUNCH,Punch Smart CNG,Radio,NO
+TATA,PUNCH,Punch Smart CNG,Wireless Phone Charging,NO
+TATA,PUNCH,Punch Smart CNG,Bluetooth Connectivity,NO
+TATA,PUNCH,Punch Smart CNG,Touchscreen,NO
+TATA,PUNCH,Punch Smart CNG,Android Auto,NO
+TATA,PUNCH,Punch Smart CNG,Apple CarPlay,NO
+TATA,PUNCH,Punch Smart CNG,Usb Ports,NO
+TATA,PUNCH,Punch Smart CNG,Speakers,NO

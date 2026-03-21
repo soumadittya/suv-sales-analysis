@@ -1,0 +1,129 @@
+company,model,variant,feature_name,feature_details
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Engine Type,K15C
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Displacement,1462 cc
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Max Power,87bhp@5500rpm
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Max Torque,121.5Nm@4200rpm
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,No. of Cylinders,4
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Valves Per Cylinder,4
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Transmission Type,Manual
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Gearbox,5-Speed
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Drive Type,FWD
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Fuel Type,CNG
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,CNG Mileage ARAI,26.6 km/kg
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Emission Norm Compliance,BS VI 2.0
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Top Speed,135 kmph
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Front Suspension,MacPherson Strut suspension
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Rear Suspension,Rear twist beam
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Steering Type,Electric
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Steering Column,Tilt & Telescopic
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Steering Gear Type,Rack & Pinion
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Turning Radius,5.4 m
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Front Brake Type,Ventilated Disc
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Rear Brake Type,Solid Disc
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Alloy Wheel Size Front,17 Inch
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Alloy Wheel Size Rear,17 Inch
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Length,4345 mm
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Width,1795 mm
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Height,1645 mm
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Seating Capacity,5
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Ground Clearance Unladen,210 mm
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Wheel Base,2600 mm
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,No. of Doors,5
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Reported Boot Space,373 Litres
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Power Steering,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Air Conditioner,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Heater,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Height Adjustable Driver Seat,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Ventilated Seats,NO
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Automatic Climate Control,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Accessory Power Outlet,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Trunk Light,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Vanity Mirror,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Rear Reading Lamp,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Adjustable Headrest,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Rear Seat Centre Arm Rest,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Height Adjustable Front Seat Belts,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Rear AC Vents,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Cruise Control,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Parking Sensors,Rear
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Real-Time Vehicle Tracking,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Foldable Rear Seat,60:40 Split
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,KeyLess Entry,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Engine Start/Stop Button,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Voice Commands,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Paddle Shifters,NO
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,USB Charger,Rear
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Central Console Armrest,With Storage
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Gear Shift Indicator,NO
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Glove Box light,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Idle Start-Stop System,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Automatic Headlamps,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Follow Me Home Headlamps,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Additional Features,Sunglass Holder
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Tachometer,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Glove Box,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Digital Odometer,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Dual Tone Dashboard,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Digital Cluster,Semi
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Digital Cluster Size,4.2 inch
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Upholstery,Fabric
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Adjustable Headlamps,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Rear Window Wiper,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Rear Window Washer,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Wheel Covers,NO
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Alloy Wheels,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Rear Spoiler,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Outside Rear View Mirror Turn Indicators,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Integrated Antenna,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Projector Headlamps,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Halogen Headlamps,NO
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Roof Rails,NO
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Antenna,Shark Fin
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Sunroof,NO
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Boot Opening,Manual
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Puddle Lamps,NO
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Tyre Size,215/60 R17
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Tyre Type,"Tubeless, Radial"
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,LED Headlamps,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,LED Taillights,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Anti-lock Braking System (ABS),YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Brake Assist,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Central Locking,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Child Safety Locks,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Anti-Theft Alarm,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,No. of Airbags,6
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Driver Airbag,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Passenger Airbag,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Side Airbag,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Side Airbag-Rear,NO
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Day & Night Rear View Mirror,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Curtain Airbag,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Electronic Brakeforce Distribution (EBD),YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Seat Belt Warning,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Door Ajar Warning,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Tyre Pressure Monitoring System (TPMS),NO
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Engine Immobilizer,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Electronic Stability Control (ESC),YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Rear Camera,With Guidedlines
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Anti-Theft Device,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Speed Alert,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Speed Sensing Auto Door Lock,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,ISOFIX Child Seat Mounts,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Heads-Up Display (HUD),NO
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Hill Descent Control,NO
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Hill Assist,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Impact Sensing Auto Door Unlock,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,360 View Camera,NO
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Radio,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Integrated 2DIN Audio,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Wireless Phone Charging,NO
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Bluetooth Connectivity,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Touchscreen,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Connectivity,"Android Auto, Apple CarPlay"
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Android Auto,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Apple CarPlay,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Usb Ports,YES
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Tweeters,2
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Additional Features,"SmartPlay Pro+, Arkamys Sound Tuning"
+MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,Speakers,Front & Rear

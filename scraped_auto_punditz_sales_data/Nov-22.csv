@@ -1,0 +1,78 @@
+date,company,model,monthly_sales,total_sales
+Nov-22,Citroen,C3,804.0,804.0
+Nov-22,Citroen,C5 Aircross,21.0,21.0
+Nov-22,Fiat,COMPASS,550.0,550.0
+Nov-22,Fiat,Meridian,344.0,344.0
+Nov-22,Honda,Amaze,3.9K,3.9K
+Nov-22,Honda,Jazz,20.0,20.0
+Nov-22,Honda,City,2.7K,2.7K
+Nov-22,Honda,WRV,430.0,430.0
+Nov-22,Hyundai,Grand i10,8.0K,8.0K
+Nov-22,Hyundai,i20 Elite,7.2K,7.2K
+Nov-22,Hyundai,Xcent/Aura,3.8K,3.8K
+Nov-22,Hyundai,Venue,10.7K,10.7K
+Nov-22,Hyundai,Creta,13.3K,13.3K
+Nov-22,Hyundai,Verna,2.0K,2.0K
+Nov-22,Hyundai,ALCAZAR,2.6K,2.6K
+Nov-22,Hyundai,Tucson,247.0,247.0
+Nov-22,Hyundai,KONA,95.0,95.0
+Nov-22,Kia,SELTOS,9.3K,9.3K
+Nov-22,Kia,SONET,7.8K,7.8K
+Nov-22,Kia,CARENS,6.4K,6.4K
+Nov-22,Kia,EV6,128.0,128.0
+Nov-22,Kia,CARNIVAL,419.0,419.0
+Nov-22,Mahindra,Verito,28.0,28.0
+Nov-22,Mahindra,KUV 100,2.0,2.0
+Nov-22,Mahindra,XUV 700,5.7K,5.7K
+Nov-22,Mahindra,Bolero,8.0K,8.0K
+Nov-22,Mahindra,Thar,4.0K,4.0K
+Nov-22,Mahindra,XUV 300,5.9K,5.9K
+Nov-22,Mahindra,Marazzo,201.0,201.0
+Nov-22,Mahindra,Alturas G4,5.0,5.0
+Nov-22,Mahindra,Scorpio,6.5K,6.5K
+Nov-22,Maruti,Alto,15.7K,15.7K
+Nov-22,Maruti,Eeco,7.2K,7.2K
+Nov-22,Maruti,S Presso,2.6K,2.6K
+Nov-22,Maruti,Wagon R,14.7K,14.7K
+Nov-22,Maruti,IGNIS,5.1K,5.1K
+Nov-22,Maruti,Ertiga,13.8K,13.8K
+Nov-22,Maruti,XL6,3.0K,3.0K
+Nov-22,Maruti,CELERIO,2.5K,2.5K
+Nov-22,Maruti,Vitara Brezza,11.3K,11.3K
+Nov-22,Maruti,Swift,15.2K,15.2K
+Nov-22,Maruti,Baleno,20.9K,20.9K
+Nov-22,Maruti,DZIRE,14.5K,14.5K
+Nov-22,Maruti,Ciaz,1.6K,1.6K
+Nov-22,Maruti,Grand Vitara,4.4K,4.4K
+Nov-22,Morris Garage,Hector,1.8K,1.8K
+Nov-22,Morris Garage,Gloster,106.0,106.0
+Nov-22,Morris Garage,Astor,1.4K,1.4K
+Nov-22,Morris Garage,ZS EV,766.0,766.0
+Nov-22,Nissan,MAGNITE,2.4K,2.4K
+Nov-22,Nissan,KICKS,3.0,3.0
+Nov-22,Renault,KWID,1.5K,1.5K
+Nov-22,Renault,KIGER,2.3K,2.3K
+Nov-22,Renault,TRIBER,2.5K,2.5K
+Nov-22,Skoda,Octavia,104.0,104.0
+Nov-22,Skoda,KUSHAQ,2.0K,2.0K
+Nov-22,Skoda,SLAVIA,2.0K,2.0K
+Nov-22,Skoda,KODIAQ,138.0,138.0
+Nov-22,Skoda,SUPERB,160.0,160.0
+Nov-22,Tata,Tiago,5.1K,5.1K
+Nov-22,Tata,PUNCH,12.1K,12.1K
+Nov-22,Tata,ALTROZ,5.1K,5.1K
+Nov-22,Tata,TIGOR,4.3K,4.3K
+Nov-22,Tata,NEXON,15.9K,15.9K
+Nov-22,Tata,SAFARI,1.4K,1.4K
+Nov-22,Tata,HARRIER,2.1K,2.1K
+Nov-22,Toyota,Innova + Hycross,2.0K,2.0K
+Nov-22,Toyota,GLANZA,4.4K,4.4K
+Nov-22,Toyota,Fortuner,2.0K,2.0K
+Nov-22,Toyota,Camry,118.0,118.0
+Nov-22,Toyota,HYRYDER,3.1K,3.1K
+Nov-22,Toyota,HILUX,37.0,37.0
+Nov-22,Toyota,VELLFIRE,109.0,109.0
+Nov-22,Volkswagen,VIRTUS,1.5K,1.5K
+Nov-22,Volkswagen,TAIGUN,2.0K,2.0K
+Nov-22,Volkswagen,TIGUAN,76.0,76.0
+Nov-22,Grand Total,Grand Total,3.2L,3.2L

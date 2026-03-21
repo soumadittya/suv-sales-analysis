@@ -1,0 +1,125 @@
+company,model,variant,feature_name,feature_details
+TOYOTA,HYRYDER,Hyryder V AWD AT,Engine Type,K15B
+TOYOTA,HYRYDER,Hyryder V AWD AT,Displacement,1462 cc
+TOYOTA,HYRYDER,Hyryder V AWD AT,Max Power,101.64bhp@6000rpm
+TOYOTA,HYRYDER,Hyryder V AWD AT,Max Torque,136.8Nm@4400rpm
+TOYOTA,HYRYDER,Hyryder V AWD AT,No. of Cylinders,4
+TOYOTA,HYRYDER,Hyryder V AWD AT,Valves Per Cylinder,4
+TOYOTA,HYRYDER,Hyryder V AWD AT,Transmission Type,Automatic
+TOYOTA,HYRYDER,Hyryder V AWD AT,Gearbox,5-Speed
+TOYOTA,HYRYDER,Hyryder V AWD AT,Drive Type,AWD
+TOYOTA,HYRYDER,Hyryder V AWD AT,Fuel Type,Petrol
+TOYOTA,HYRYDER,Hyryder V AWD AT,Petrol Mileage ARAI,19.39 kmpl
+TOYOTA,HYRYDER,Hyryder V AWD AT,Petrol Fuel Tank Capacity,45 Litres
+TOYOTA,HYRYDER,Hyryder V AWD AT,Emission Norm Compliance,BS VI 2.0
+TOYOTA,HYRYDER,Hyryder V AWD AT,Top Speed,180 kmph
+TOYOTA,HYRYDER,Hyryder V AWD AT,Front Suspension,MacPherson Strut suspension
+TOYOTA,HYRYDER,Hyryder V AWD AT,Rear Suspension,Rear twist beam
+TOYOTA,HYRYDER,Hyryder V AWD AT,Steering Type,Electric
+TOYOTA,HYRYDER,Hyryder V AWD AT,Steering Column,Tilt & Telescopic
+TOYOTA,HYRYDER,Hyryder V AWD AT,Turning Radius,5.4 m
+TOYOTA,HYRYDER,Hyryder V AWD AT,Front Brake Type,Ventilated Disc
+TOYOTA,HYRYDER,Hyryder V AWD AT,Rear Brake Type,Solid Disc
+TOYOTA,HYRYDER,Hyryder V AWD AT,Alloy Wheel Size Front,17 Inch
+TOYOTA,HYRYDER,Hyryder V AWD AT,Alloy Wheel Size Rear,17 Inch
+TOYOTA,HYRYDER,Hyryder V AWD AT,Length,4365 mm
+TOYOTA,HYRYDER,Hyryder V AWD AT,Width,1795 mm
+TOYOTA,HYRYDER,Hyryder V AWD AT,Height,1645 mm
+TOYOTA,HYRYDER,Hyryder V AWD AT,Boot Space,373 Litres
+TOYOTA,HYRYDER,Hyryder V AWD AT,Seating Capacity,5
+TOYOTA,HYRYDER,Hyryder V AWD AT,Wheel Base,2600 mm
+TOYOTA,HYRYDER,Hyryder V AWD AT,Kerb Weight,1255 kg
+TOYOTA,HYRYDER,Hyryder V AWD AT,Gross Weight,1715 kg
+TOYOTA,HYRYDER,Hyryder V AWD AT,No. of Doors,5
+TOYOTA,HYRYDER,Hyryder V AWD AT,Reported Boot Space,373 Litres
+TOYOTA,HYRYDER,Hyryder V AWD AT,Power Steering,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Air Conditioner,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Heater,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Height Adjustable Driver Seat,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Ventilated Seats,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Automatic Climate Control,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Air Quality Control,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Accessory Power Outlet,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Trunk Light,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Vanity Mirror,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Rear Reading Lamp,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Adjustable Headrest,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Rear Seat Centre Arm Rest,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Height Adjustable Front Seat Belts,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Rear AC Vents,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Cruise Control,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Parking Sensors,Rear
+TOYOTA,HYRYDER,Hyryder V AWD AT,Foldable Rear Seat,60:40 Split
+TOYOTA,HYRYDER,Hyryder V AWD AT,KeyLess Entry,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Engine Start/Stop Button,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Paddle Shifters,NO
+TOYOTA,HYRYDER,Hyryder V AWD AT,USB Charger,Front & Rear
+TOYOTA,HYRYDER,Hyryder V AWD AT,Central Console Armrest,With Storage
+TOYOTA,HYRYDER,Hyryder V AWD AT,Tailgate Ajar Warning,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Gear Shift Indicator,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Glove Box light,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Automatic Headlamps,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Follow Me Home Headlamps,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Tachometer,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Leather Wrapped Steering Wheel,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Glove Box,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Digital Cluster,Semi
+TOYOTA,HYRYDER,Hyryder V AWD AT,Digital Cluster Size,4.2 inch
+TOYOTA,HYRYDER,Hyryder V AWD AT,Upholstery,Fabric
+TOYOTA,HYRYDER,Hyryder V AWD AT,Adjustable Headlamps,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Rear Window Wiper,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Rear Window Washer,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Wheel Covers,NO
+TOYOTA,HYRYDER,Hyryder V AWD AT,Alloy Wheels,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Rear Spoiler,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Outside Rear View Mirror Turn Indicators,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Integrated Antenna,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Projector Headlamps,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Halogen Headlamps,NO
+TOYOTA,HYRYDER,Hyryder V AWD AT,Roof Rails,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Antenna,Shark Fin
+TOYOTA,HYRYDER,Hyryder V AWD AT,Sunroof,Panoramic
+TOYOTA,HYRYDER,Hyryder V AWD AT,Boot Opening,Manual
+TOYOTA,HYRYDER,Hyryder V AWD AT,Tyre Size,215/60 R17
+TOYOTA,HYRYDER,Hyryder V AWD AT,Tyre Type,"Tubeless, Radial"
+TOYOTA,HYRYDER,Hyryder V AWD AT,LED DRLs,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,LED Headlamps,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,LED Taillights,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Anti-lock Braking System (ABS),YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Central Locking,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Child Safety Locks,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,No. of Airbags,6
+TOYOTA,HYRYDER,Hyryder V AWD AT,Driver Airbag,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Passenger Airbag,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Side Airbag,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Day & Night Rear View Mirror,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Curtain Airbag,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Electronic Brakeforce Distribution (EBD),YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Seat Belt Warning,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Door Ajar Warning,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Tyre Pressure Monitoring System (TPMS),YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Engine Immobilizer,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Electronic Stability Control (ESC),YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Rear Camera,With Guidedlines
+TOYOTA,HYRYDER,Hyryder V AWD AT,Speed Alert,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Speed Sensing Auto Door Lock,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,ISOFIX Child Seat Mounts,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Heads-Up Display (HUD),YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+TOYOTA,HYRYDER,Hyryder V AWD AT,Hill Descent Control,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Hill Assist,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Impact Sensing Auto Door Unlock,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,360 View Camera,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Radio,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Integrated 2DIN Audio,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Wireless Phone Charging,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Bluetooth Connectivity,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Touchscreen,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Touchscreen Size,9 inch
+TOYOTA,HYRYDER,Hyryder V AWD AT,Connectivity,"Android Auto, Apple CarPlay"
+TOYOTA,HYRYDER,Hyryder V AWD AT,Android Auto,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Apple CarPlay,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,No. of Speakers,4
+TOYOTA,HYRYDER,Hyryder V AWD AT,Usb Ports,YES
+TOYOTA,HYRYDER,Hyryder V AWD AT,Tweeters,2
+TOYOTA,HYRYDER,Hyryder V AWD AT,Speakers,Front & Rear

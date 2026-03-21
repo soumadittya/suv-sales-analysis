@@ -1,0 +1,132 @@
+company,model,variant,feature_name,feature_details
+TATA,NEXON,Nexon Creative AMT,Engine Type,1.2L Turbocharged Revotron
+TATA,NEXON,Nexon Creative AMT,Displacement,1199 cc
+TATA,NEXON,Nexon Creative AMT,Max Power,118.27bhp@5500rpm
+TATA,NEXON,Nexon Creative AMT,Max Torque,170Nm@1750-4000rpm
+TATA,NEXON,Nexon Creative AMT,No. of Cylinders,3
+TATA,NEXON,Nexon Creative AMT,Valves Per Cylinder,4
+TATA,NEXON,Nexon Creative AMT,Turbo Charger,YES
+TATA,NEXON,Nexon Creative AMT,Transmission Type,Automatic
+TATA,NEXON,Nexon Creative AMT,Gearbox,6-Speed AMT
+TATA,NEXON,Nexon Creative AMT,Drive Type,FWD
+TATA,NEXON,Nexon Creative AMT,Fuel Type,Petrol
+TATA,NEXON,Nexon Creative AMT,Petrol Mileage ARAI,17.18 kmpl
+TATA,NEXON,Nexon Creative AMT,Petrol Fuel Tank Capacity,44 Litres
+TATA,NEXON,Nexon Creative AMT,Emission Norm Compliance,BS VI 2.0
+TATA,NEXON,Nexon Creative AMT,Top Speed,180 kmph
+TATA,NEXON,Nexon Creative AMT,Front Suspension,MacPherson Strut suspension
+TATA,NEXON,Nexon Creative AMT,Rear Suspension,Rear twist beam
+TATA,NEXON,Nexon Creative AMT,Steering Type,Electric
+TATA,NEXON,Nexon Creative AMT,Steering Column,Tilt
+TATA,NEXON,Nexon Creative AMT,Front Brake Type,Disc
+TATA,NEXON,Nexon Creative AMT,Rear Brake Type,Drum
+TATA,NEXON,Nexon Creative AMT,Alloy Wheel Size Front,16 Inch
+TATA,NEXON,Nexon Creative AMT,Alloy Wheel Size Rear,16 Inch
+TATA,NEXON,Nexon Creative AMT,Length,3995 mm
+TATA,NEXON,Nexon Creative AMT,Width,1804 mm
+TATA,NEXON,Nexon Creative AMT,Height,1620 mm
+TATA,NEXON,Nexon Creative AMT,Boot Space,382 Litres
+TATA,NEXON,Nexon Creative AMT,Seating Capacity,5
+TATA,NEXON,Nexon Creative AMT,Ground Clearance Unladen,208 mm
+TATA,NEXON,Nexon Creative AMT,Wheel Base,2498 mm
+TATA,NEXON,Nexon Creative AMT,No. of Doors,5
+TATA,NEXON,Nexon Creative AMT,Power Steering,YES
+TATA,NEXON,Nexon Creative AMT,Air Conditioner,YES
+TATA,NEXON,Nexon Creative AMT,Heater,YES
+TATA,NEXON,Nexon Creative AMT,Adjustable Steering,Height only
+TATA,NEXON,Nexon Creative AMT,Height Adjustable Driver Seat,YES
+TATA,NEXON,Nexon Creative AMT,Ventilated Seats,NO
+TATA,NEXON,Nexon Creative AMT,Automatic Climate Control,YES
+TATA,NEXON,Nexon Creative AMT,Air Quality Control,NO
+TATA,NEXON,Nexon Creative AMT,Accessory Power Outlet,YES
+TATA,NEXON,Nexon Creative AMT,Trunk Light,NO
+TATA,NEXON,Nexon Creative AMT,Rear Seat Headrest,Adjustable
+TATA,NEXON,Nexon Creative AMT,Adjustable Headrest,YES
+TATA,NEXON,Nexon Creative AMT,Rear Seat Centre Arm Rest,NO
+TATA,NEXON,Nexon Creative AMT,Height Adjustable Front Seat Belts,NO
+TATA,NEXON,Nexon Creative AMT,Rear AC Vents,YES
+TATA,NEXON,Nexon Creative AMT,Cruise Control,YES
+TATA,NEXON,Nexon Creative AMT,Parking Sensors,Rear
+TATA,NEXON,Nexon Creative AMT,Foldable Rear Seat,Bench Folding
+TATA,NEXON,Nexon Creative AMT,KeyLess Entry,YES
+TATA,NEXON,Nexon Creative AMT,Engine Start/Stop Button,YES
+TATA,NEXON,Nexon Creative AMT,Cooled Glovebox,YES
+TATA,NEXON,Nexon Creative AMT,Voice Commands,NO
+TATA,NEXON,Nexon Creative AMT,Paddle Shifters,YES
+TATA,NEXON,Nexon Creative AMT,USB Charger,Front
+TATA,NEXON,Nexon Creative AMT,Central Console Armrest,YES
+TATA,NEXON,Nexon Creative AMT,Drive Modes,3
+TATA,NEXON,Nexon Creative AMT,Rear Window Sunblind,NO
+TATA,NEXON,Nexon Creative AMT,Automatic Headlamps,NO
+TATA,NEXON,Nexon Creative AMT,Follow Me Home Headlamps,YES
+TATA,NEXON,Nexon Creative AMT,Voice assisted sunroof,NO
+TATA,NEXON,Nexon Creative AMT,Drive Mode Types,Eco|City|Sports
+TATA,NEXON,Nexon Creative AMT,Power Windows,Front & Rear
+TATA,NEXON,Nexon Creative AMT,Tachometer,YES
+TATA,NEXON,Nexon Creative AMT,Leather Wrapped Steering Wheel,NO
+TATA,NEXON,Nexon Creative AMT,Glove Box,YES
+TATA,NEXON,Nexon Creative AMT,Digital Cluster,YES
+TATA,NEXON,Nexon Creative AMT,Digital Cluster Size,4
+TATA,NEXON,Nexon Creative AMT,Upholstery,Fabric
+TATA,NEXON,Nexon Creative AMT,Adjustable Headlamps,YES
+TATA,NEXON,Nexon Creative AMT,Rain Sensing Wiper,NO
+TATA,NEXON,Nexon Creative AMT,Rear Window Wiper,YES
+TATA,NEXON,Nexon Creative AMT,Rear Window Washer,YES
+TATA,NEXON,Nexon Creative AMT,Rear Window Defogger,NO
+TATA,NEXON,Nexon Creative AMT,Wheel Covers,NO
+TATA,NEXON,Nexon Creative AMT,Alloy Wheels,YES
+TATA,NEXON,Nexon Creative AMT,Rear Spoiler,YES
+TATA,NEXON,Nexon Creative AMT,Outside Rear View Mirror Turn Indicators,YES
+TATA,NEXON,Nexon Creative AMT,Integrated Antenna,YES
+TATA,NEXON,Nexon Creative AMT,Cornering Foglamps,NO
+TATA,NEXON,Nexon Creative AMT,Roof Rails,NO
+TATA,NEXON,Nexon Creative AMT,Automatic Headlamps,NO
+TATA,NEXON,Nexon Creative AMT,Fog Lights,NO
+TATA,NEXON,Nexon Creative AMT,Antenna,Shark Fin
+TATA,NEXON,Nexon Creative AMT,Sunroof,NO
+TATA,NEXON,Nexon Creative AMT,Outside Rear View Mirror (ORVM),Powered & Folding
+TATA,NEXON,Nexon Creative AMT,Tyre Size,215/60 R16
+TATA,NEXON,Nexon Creative AMT,Tyre Type,Radial Tubeless
+TATA,NEXON,Nexon Creative AMT,LED DRLs,YES
+TATA,NEXON,Nexon Creative AMT,LED Headlamps,YES
+TATA,NEXON,Nexon Creative AMT,LED Taillights,YES
+TATA,NEXON,Nexon Creative AMT,LED Fog Lamps,NO
+TATA,NEXON,Nexon Creative AMT,Anti-lock Braking System (ABS),YES
+TATA,NEXON,Nexon Creative AMT,Central Locking,YES
+TATA,NEXON,Nexon Creative AMT,Child Safety Locks,YES
+TATA,NEXON,Nexon Creative AMT,No. of Airbags,6
+TATA,NEXON,Nexon Creative AMT,Driver Airbag,YES
+TATA,NEXON,Nexon Creative AMT,Passenger Airbag,YES
+TATA,NEXON,Nexon Creative AMT,Side Airbag,YES
+TATA,NEXON,Nexon Creative AMT,Side Airbag-Rear,NO
+TATA,NEXON,Nexon Creative AMT,Day & Night Rear View Mirror,YES
+TATA,NEXON,Nexon Creative AMT,Curtain Airbag,YES
+TATA,NEXON,Nexon Creative AMT,Electronic Brakeforce Distribution (EBD),YES
+TATA,NEXON,Nexon Creative AMT,Seat Belt Warning,YES
+TATA,NEXON,Nexon Creative AMT,Door Ajar Warning,YES
+TATA,NEXON,Nexon Creative AMT,Tyre Pressure Monitoring System (TPMS),NO
+TATA,NEXON,Nexon Creative AMT,Engine Immobilizer,YES
+TATA,NEXON,Nexon Creative AMT,Electronic Stability Control (ESC),YES
+TATA,NEXON,Nexon Creative AMT,Rear Camera,With Guidedlines
+TATA,NEXON,Nexon Creative AMT,Speed Alert,YES
+TATA,NEXON,Nexon Creative AMT,Speed Sensing Auto Door Lock,YES
+TATA,NEXON,Nexon Creative AMT,ISOFIX Child Seat Mounts,YES
+TATA,NEXON,Nexon Creative AMT,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+TATA,NEXON,Nexon Creative AMT,Impact Sensing Auto Door Unlock,YES
+TATA,NEXON,Nexon Creative AMT,360 View Camera,YES
+TATA,NEXON,Nexon Creative AMT,Global NCAP Safety Rating,5 Star
+TATA,NEXON,Nexon Creative AMT,Global NCAP Child Safety Rating,5 Star
+TATA,NEXON,Nexon Creative AMT,Bharat NCAP Safety Rating,5 Star
+TATA,NEXON,Nexon Creative AMT,Bharat NCAP Child Safety Rating,5 Star
+TATA,NEXON,Nexon Creative AMT,Radio,YES
+TATA,NEXON,Nexon Creative AMT,Wireless Phone Charging,NO
+TATA,NEXON,Nexon Creative AMT,Bluetooth Connectivity,YES
+TATA,NEXON,Nexon Creative AMT,Touchscreen,YES
+TATA,NEXON,Nexon Creative AMT,Touchscreen Size,10.24 inch
+TATA,NEXON,Nexon Creative AMT,Connectivity,"Android Auto, Apple CarPlay"
+TATA,NEXON,Nexon Creative AMT,Android Auto,YES
+TATA,NEXON,Nexon Creative AMT,Apple CarPlay,YES
+TATA,NEXON,Nexon Creative AMT,No. of Speakers,4
+TATA,NEXON,Nexon Creative AMT,Usb Ports,YES
+TATA,NEXON,Nexon Creative AMT,Additional Features,Wireless Android Auto & Apple CarPlay
+TATA,NEXON,Nexon Creative AMT,Speakers,Front & Rear

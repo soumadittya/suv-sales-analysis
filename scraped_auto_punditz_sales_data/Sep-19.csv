@@ -1,0 +1,91 @@
+date,company,model,monthly_sales,total_sales
+Sep-19,Fiat,COMPASS,603.0,603.0
+Sep-19,Ford,Figo,944.0,944.0
+Sep-19,Ford,FREESTYLE,422.0,422.0
+Sep-19,Ford,Aspire,483.0,483.0
+Sep-19,Ford,Ecosport,3.1K,3.1K
+Sep-19,Ford,Endeavour,568.0,568.0
+Sep-19,Honda,Amaze,4.8K,4.8K
+Sep-19,Honda,Jazz,649.0,649.0
+Sep-19,Honda,City,1.8K,1.8K
+Sep-19,Honda,WRV,1.3K,1.3K
+Sep-19,Honda,Civic,336.0,336.0
+Sep-19,Honda,BR-V,168.0,168.0
+Sep-19,Honda,CR-V,165.0,165.0
+Sep-19,Hyundai,Santro,3.5K,3.5K
+Sep-19,Hyundai,Grand i10,9.4K,9.4K
+Sep-19,Hyundai,i20 Elite,10.1K,10.1K
+Sep-19,Hyundai,Xcent/Aura,1.2K,1.2K
+Sep-19,Hyundai,Venue,7.9K,7.9K
+Sep-19,Hyundai,Creta,6.6K,6.6K
+Sep-19,Hyundai,Verna,1.7K,1.7K
+Sep-19,Hyundai,Elantra,94.0,94.0
+Sep-19,Hyundai,Tucson,78.0,78.0
+Sep-19,Hyundai,KONA,47.0,47.0
+Sep-19,Kia,SELTOS,7.8K,7.8K
+Sep-19,Mahindra,Verito,109.0,109.0
+Sep-19,Mahindra,KUV 100,184.0,184.0
+Sep-19,Mahindra,Bolero,4.2K,4.2K
+Sep-19,Mahindra,Thar,262.0,262.0
+Sep-19,Mahindra,NuvoSport,4.0,4.0
+Sep-19,Mahindra,XUV 300,2.5K,2.5K
+Sep-19,Mahindra,Marazzo,892.0,892.0
+Sep-19,Mahindra,Alturas G4,75.0,75.0
+Sep-19,Mahindra,Xylo,55.0,55.0
+Sep-19,Mahindra,Scorpio,3.6K,3.6K
+Sep-19,Mahindra,TUV 300,995.0,995.0
+Sep-19,Mahindra,XUV 500,1.1K,1.1K
+Sep-19,Maruti,Alto,15.1K,15.1K
+Sep-19,Maruti,Eeco,9.9K,9.9K
+Sep-19,Maruti,S Presso,5.0K,5.0K
+Sep-19,Maruti,Wagon R,11.8K,11.8K
+Sep-19,Maruti,IGNIS,1.3K,1.3K
+Sep-19,Maruti,Ertiga,6.3K,6.3K
+Sep-19,Maruti,XL6,3.8K,3.8K
+Sep-19,Maruti,CELERIO,4.1K,4.1K
+Sep-19,Maruti,Vitara Brezza,10.4K,10.4K
+Sep-19,Maruti,Swift,12.9K,12.9K
+Sep-19,Maruti,Baleno,11.4K,11.4K
+Sep-19,Maruti,DZIRE,15.7K,15.7K
+Sep-19,Maruti,S-Cross,1.0K,1.0K
+Sep-19,Maruti,Ciaz,1.7K,1.7K
+Sep-19,Morris Garage,Hector,2.6K,2.6K
+Sep-19,Nissan,Micra,37.0,37.0
+Sep-19,Nissan,Sunny,53.0,53.0
+Sep-19,Nissan,Redi-GO,842.0,842.0
+Sep-19,Nissan,GO,136.0,136.0
+Sep-19,Nissan,Terrano,1.0,1.0
+Sep-19,Nissan,GO+,160.0,160.0
+Sep-19,Nissan,KICKS,204.0,204.0
+Sep-19,Renault,KWID,3.0K,3.0K
+Sep-19,Renault,Lodgy,78.0,78.0
+Sep-19,Renault,TRIBER,4.7K,4.7K
+Sep-19,Renault,Duster,544.0,544.0
+Sep-19,Renault,CAPTUR,18.0,18.0
+Sep-19,Skoda,Octavia,165.0,165.0
+Sep-19,Skoda,Rapid,816.0,816.0
+Sep-19,Skoda,KODIAQ,150.0,150.0
+Sep-19,Skoda,SUPERB,102.0,102.0
+Sep-19,Tata,Tiago,3.1K,3.1K
+Sep-19,Tata,Bolt,12.0,12.0
+Sep-19,Tata,Zest,270.0,270.0
+Sep-19,Tata,TIGOR,737.0,737.0
+Sep-19,Tata,NEXON,2.8K,2.8K
+Sep-19,Tata,Safari+Storme,79.0,79.0
+Sep-19,Tata,HEXA,148.0,148.0
+Sep-19,Tata,HARRIER,941.0,941.0
+Sep-19,Toyota,Liva + Cross,670.0,670.0
+Sep-19,Toyota,Etios,1.3K,1.3K
+Sep-19,Toyota,Innova + Hycross,4.2K,4.2K
+Sep-19,Toyota,YARIS,232.0,232.0
+Sep-19,Toyota,Corolla,84.0,84.0
+Sep-19,Toyota,GLANZA,2.8K,2.8K
+Sep-19,Toyota,Fortuner,920.0,920.0
+Sep-19,Toyota,Camry,34.0,34.0
+Sep-19,Toyota,VELLFIRE,2.0,2.0
+Sep-19,Toyota,Landcruiser,11.0,11.0
+Sep-19,Volkswagen,Polo,1.6K,1.6K
+Sep-19,Volkswagen,AMEO,344.0,344.0
+Sep-19,Volkswagen,Vento,455.0,455.0
+Sep-19,Volkswagen,TIGUAN,108.0,108.0
+Sep-19,Grand Total,Grand Total,2.2L,2.2L

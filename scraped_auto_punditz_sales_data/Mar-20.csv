@@ -1,0 +1,77 @@
+date,company,model,monthly_sales,total_sales
+Mar-20,Fiat,COMPASS,163.0,163.0
+Mar-20,Ford,Figo,170.0,170.0
+Mar-20,Ford,FREESTYLE,340.0,340.0
+Mar-20,Ford,Aspire,431.0,431.0
+Mar-20,Ford,Ecosport,2.2K,2.2K
+Mar-20,Ford,Endeavour,381.0,381.0
+Mar-20,Honda,Amaze,2.7K,2.7K
+Mar-20,Honda,City,786.0,786.0
+Mar-20,Honda,WRV,86.0,86.0
+Mar-20,Honda,Civic,67.0,67.0
+Mar-20,Honda,CR-V,14.0,14.0
+Mar-20,Hyundai,Santro,2.2K,2.2K
+Mar-20,Hyundai,Grand i10,4.3K,4.3K
+Mar-20,Hyundai,i20 Elite,3.5K,3.5K
+Mar-20,Hyundai,Xcent/Aura,2.6K,2.6K
+Mar-20,Hyundai,Venue,6.1K,6.1K
+Mar-20,Hyundai,Creta,6.7K,6.7K
+Mar-20,Hyundai,Verna,893.0,893.0
+Mar-20,Hyundai,Elantra,28.0,28.0
+Mar-20,Hyundai,KONA,14.0,14.0
+Mar-20,Kia,SELTOS,7.5K,7.5K
+Mar-20,Kia,CARNIVAL,1.1K,1.1K
+Mar-20,Mahindra,Verito,60.0,60.0
+Mar-20,Mahindra,KUV 100,31.0,31.0
+Mar-20,Mahindra,Bolero,2.1K,2.1K
+Mar-20,Mahindra,XUV 300,814.0,814.0
+Mar-20,Mahindra,Marazzo,23.0,23.0
+Mar-20,Mahindra,Xylo,6.0,6.0
+Mar-20,Mahindra,Scorpio,40.0,40.0
+Mar-20,Mahindra,TUV 300,108.0,108.0
+Mar-20,Mahindra,XUV 500,9.0,9.0
+Mar-20,Maruti,Alto,10.8K,10.8K
+Mar-20,Maruti,Eeco,6.0K,6.0K
+Mar-20,Maruti,S Presso,5.2K,5.2K
+Mar-20,Maruti,Wagon R,9.2K,9.2K
+Mar-20,Maruti,IGNIS,1.9K,1.9K
+Mar-20,Maruti,Ertiga,4.0K,4.0K
+Mar-20,Maruti,XL6,2.2K,2.2K
+Mar-20,Maruti,CELERIO,4.0K,4.0K
+Mar-20,Maruti,Vitara Brezza,5.5K,5.5K
+Mar-20,Maruti,Swift,8.6K,8.6K
+Mar-20,Maruti,Baleno,11.4K,11.4K
+Mar-20,Maruti,DZIRE,5.5K,5.5K
+Mar-20,Maruti,Ciaz,1.9K,1.9K
+Mar-20,Maruti,Gypsy,201.0,201.0
+Mar-20,Morris Garage,Hector,1.4K,1.4K
+Mar-20,Morris Garage,ZS EV,116.0,116.0
+Mar-20,Nissan,Micra,66.0,66.0
+Mar-20,Nissan,Sunny,87.0,87.0
+Mar-20,Nissan,Redi-GO,139.0,139.0
+Mar-20,Nissan,GO,2.0,2.0
+Mar-20,Nissan,GO+,12.0,12.0
+Mar-20,Nissan,KICKS,519.0,519.0
+Mar-20,Renault,KWID,1.5K,1.5K
+Mar-20,Renault,TRIBER,1.6K,1.6K
+Mar-20,Renault,Duster,150.0,150.0
+Mar-20,Skoda,Octavia,89.0,89.0
+Mar-20,Skoda,Rapid,180.0,180.0
+Mar-20,Skoda,KODIAQ,59.0,59.0
+Mar-20,Skoda,SUPERB,123.0,123.0
+Mar-20,Tata,Tiago,1.1K,1.1K
+Mar-20,Tata,ALTROZ,1.1K,1.1K
+Mar-20,Tata,TIGOR,124.0,124.0
+Mar-20,Tata,NEXON,2.6K,2.6K
+Mar-20,Tata,HARRIER,632.0,632.0
+Mar-20,Toyota,Innova + Hycross,3.8K,3.8K
+Mar-20,Toyota,YARIS,424.0,424.0
+Mar-20,Toyota,GLANZA,1.5K,1.5K
+Mar-20,Toyota,Fortuner,1.1K,1.1K
+Mar-20,Toyota,Camry,60.0,60.0
+Mar-20,Toyota,VELLFIRE,96.0,96.0
+Mar-20,Volkswagen,Polo,105.0,105.0
+Mar-20,Volkswagen,AMEO,3.0,3.0
+Mar-20,Volkswagen,Vento,19.0,19.0
+Mar-20,Volkswagen,TIGUAN,4.0,4.0
+Mar-20,Grand Total,Grand Total,1.4L,1.4L

@@ -1,0 +1,132 @@
+company,model,variant,feature_name,feature_details
+TATA,NEXON,Nexon Creative DCA,Engine Type,1.2L Turbocharged Revotron
+TATA,NEXON,Nexon Creative DCA,Displacement,1199 cc
+TATA,NEXON,Nexon Creative DCA,Max Power,118.27bhp@5500rpm
+TATA,NEXON,Nexon Creative DCA,Max Torque,170Nm@1750-4000rpm
+TATA,NEXON,Nexon Creative DCA,No. of Cylinders,3
+TATA,NEXON,Nexon Creative DCA,Valves Per Cylinder,4
+TATA,NEXON,Nexon Creative DCA,Turbo Charger,YES
+TATA,NEXON,Nexon Creative DCA,Transmission Type,Automatic
+TATA,NEXON,Nexon Creative DCA,Gearbox,7-Speed DCA
+TATA,NEXON,Nexon Creative DCA,Drive Type,FWD
+TATA,NEXON,Nexon Creative DCA,Fuel Type,Petrol
+TATA,NEXON,Nexon Creative DCA,Petrol Mileage ARAI,17.01 kmpl
+TATA,NEXON,Nexon Creative DCA,Petrol Fuel Tank Capacity,44 Litres
+TATA,NEXON,Nexon Creative DCA,Emission Norm Compliance,BS VI 2.0
+TATA,NEXON,Nexon Creative DCA,Top Speed,180 kmph
+TATA,NEXON,Nexon Creative DCA,Front Suspension,MacPherson Strut suspension
+TATA,NEXON,Nexon Creative DCA,Rear Suspension,Rear twist beam
+TATA,NEXON,Nexon Creative DCA,Steering Type,Electric
+TATA,NEXON,Nexon Creative DCA,Steering Column,Tilt
+TATA,NEXON,Nexon Creative DCA,Front Brake Type,Disc
+TATA,NEXON,Nexon Creative DCA,Rear Brake Type,Drum
+TATA,NEXON,Nexon Creative DCA,Alloy Wheel Size Front,16 Inch
+TATA,NEXON,Nexon Creative DCA,Alloy Wheel Size Rear,16 Inch
+TATA,NEXON,Nexon Creative DCA,Length,3995 mm
+TATA,NEXON,Nexon Creative DCA,Width,1804 mm
+TATA,NEXON,Nexon Creative DCA,Height,1620 mm
+TATA,NEXON,Nexon Creative DCA,Boot Space,382 Litres
+TATA,NEXON,Nexon Creative DCA,Seating Capacity,5
+TATA,NEXON,Nexon Creative DCA,Ground Clearance Unladen,208 mm
+TATA,NEXON,Nexon Creative DCA,Wheel Base,2498 mm
+TATA,NEXON,Nexon Creative DCA,No. of Doors,5
+TATA,NEXON,Nexon Creative DCA,Power Steering,YES
+TATA,NEXON,Nexon Creative DCA,Air Conditioner,YES
+TATA,NEXON,Nexon Creative DCA,Heater,YES
+TATA,NEXON,Nexon Creative DCA,Adjustable Steering,Height only
+TATA,NEXON,Nexon Creative DCA,Height Adjustable Driver Seat,YES
+TATA,NEXON,Nexon Creative DCA,Ventilated Seats,NO
+TATA,NEXON,Nexon Creative DCA,Automatic Climate Control,YES
+TATA,NEXON,Nexon Creative DCA,Air Quality Control,NO
+TATA,NEXON,Nexon Creative DCA,Accessory Power Outlet,YES
+TATA,NEXON,Nexon Creative DCA,Trunk Light,NO
+TATA,NEXON,Nexon Creative DCA,Rear Seat Headrest,Adjustable
+TATA,NEXON,Nexon Creative DCA,Adjustable Headrest,YES
+TATA,NEXON,Nexon Creative DCA,Rear Seat Centre Arm Rest,NO
+TATA,NEXON,Nexon Creative DCA,Height Adjustable Front Seat Belts,NO
+TATA,NEXON,Nexon Creative DCA,Rear AC Vents,YES
+TATA,NEXON,Nexon Creative DCA,Cruise Control,YES
+TATA,NEXON,Nexon Creative DCA,Parking Sensors,Rear
+TATA,NEXON,Nexon Creative DCA,Foldable Rear Seat,Bench Folding
+TATA,NEXON,Nexon Creative DCA,KeyLess Entry,YES
+TATA,NEXON,Nexon Creative DCA,Engine Start/Stop Button,YES
+TATA,NEXON,Nexon Creative DCA,Cooled Glovebox,YES
+TATA,NEXON,Nexon Creative DCA,Voice Commands,NO
+TATA,NEXON,Nexon Creative DCA,Paddle Shifters,YES
+TATA,NEXON,Nexon Creative DCA,USB Charger,Front
+TATA,NEXON,Nexon Creative DCA,Central Console Armrest,YES
+TATA,NEXON,Nexon Creative DCA,Drive Modes,3
+TATA,NEXON,Nexon Creative DCA,Rear Window Sunblind,NO
+TATA,NEXON,Nexon Creative DCA,Automatic Headlamps,NO
+TATA,NEXON,Nexon Creative DCA,Follow Me Home Headlamps,YES
+TATA,NEXON,Nexon Creative DCA,Voice assisted sunroof,NO
+TATA,NEXON,Nexon Creative DCA,Drive Mode Types,Eco|City|Sports
+TATA,NEXON,Nexon Creative DCA,Power Windows,Front & Rear
+TATA,NEXON,Nexon Creative DCA,Tachometer,YES
+TATA,NEXON,Nexon Creative DCA,Leather Wrapped Steering Wheel,NO
+TATA,NEXON,Nexon Creative DCA,Glove Box,YES
+TATA,NEXON,Nexon Creative DCA,Digital Cluster,YES
+TATA,NEXON,Nexon Creative DCA,Digital Cluster Size,4
+TATA,NEXON,Nexon Creative DCA,Upholstery,Fabric
+TATA,NEXON,Nexon Creative DCA,Adjustable Headlamps,YES
+TATA,NEXON,Nexon Creative DCA,Rain Sensing Wiper,NO
+TATA,NEXON,Nexon Creative DCA,Rear Window Wiper,YES
+TATA,NEXON,Nexon Creative DCA,Rear Window Washer,YES
+TATA,NEXON,Nexon Creative DCA,Rear Window Defogger,NO
+TATA,NEXON,Nexon Creative DCA,Wheel Covers,NO
+TATA,NEXON,Nexon Creative DCA,Alloy Wheels,YES
+TATA,NEXON,Nexon Creative DCA,Rear Spoiler,YES
+TATA,NEXON,Nexon Creative DCA,Outside Rear View Mirror Turn Indicators,YES
+TATA,NEXON,Nexon Creative DCA,Integrated Antenna,YES
+TATA,NEXON,Nexon Creative DCA,Cornering Foglamps,NO
+TATA,NEXON,Nexon Creative DCA,Roof Rails,NO
+TATA,NEXON,Nexon Creative DCA,Automatic Headlamps,NO
+TATA,NEXON,Nexon Creative DCA,Fog Lights,NO
+TATA,NEXON,Nexon Creative DCA,Antenna,Shark Fin
+TATA,NEXON,Nexon Creative DCA,Sunroof,NO
+TATA,NEXON,Nexon Creative DCA,Outside Rear View Mirror (ORVM),Powered & Folding
+TATA,NEXON,Nexon Creative DCA,Tyre Size,215/60 R16
+TATA,NEXON,Nexon Creative DCA,Tyre Type,Radial Tubeless
+TATA,NEXON,Nexon Creative DCA,LED DRLs,YES
+TATA,NEXON,Nexon Creative DCA,LED Headlamps,YES
+TATA,NEXON,Nexon Creative DCA,LED Taillights,YES
+TATA,NEXON,Nexon Creative DCA,LED Fog Lamps,NO
+TATA,NEXON,Nexon Creative DCA,Anti-lock Braking System (ABS),YES
+TATA,NEXON,Nexon Creative DCA,Central Locking,YES
+TATA,NEXON,Nexon Creative DCA,Child Safety Locks,YES
+TATA,NEXON,Nexon Creative DCA,No. of Airbags,6
+TATA,NEXON,Nexon Creative DCA,Driver Airbag,YES
+TATA,NEXON,Nexon Creative DCA,Passenger Airbag,YES
+TATA,NEXON,Nexon Creative DCA,Side Airbag,YES
+TATA,NEXON,Nexon Creative DCA,Side Airbag-Rear,NO
+TATA,NEXON,Nexon Creative DCA,Day & Night Rear View Mirror,YES
+TATA,NEXON,Nexon Creative DCA,Curtain Airbag,YES
+TATA,NEXON,Nexon Creative DCA,Electronic Brakeforce Distribution (EBD),YES
+TATA,NEXON,Nexon Creative DCA,Seat Belt Warning,YES
+TATA,NEXON,Nexon Creative DCA,Door Ajar Warning,YES
+TATA,NEXON,Nexon Creative DCA,Tyre Pressure Monitoring System (TPMS),NO
+TATA,NEXON,Nexon Creative DCA,Engine Immobilizer,YES
+TATA,NEXON,Nexon Creative DCA,Electronic Stability Control (ESC),YES
+TATA,NEXON,Nexon Creative DCA,Rear Camera,With Guidedlines
+TATA,NEXON,Nexon Creative DCA,Speed Alert,YES
+TATA,NEXON,Nexon Creative DCA,Speed Sensing Auto Door Lock,YES
+TATA,NEXON,Nexon Creative DCA,ISOFIX Child Seat Mounts,YES
+TATA,NEXON,Nexon Creative DCA,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+TATA,NEXON,Nexon Creative DCA,Impact Sensing Auto Door Unlock,YES
+TATA,NEXON,Nexon Creative DCA,360 View Camera,YES
+TATA,NEXON,Nexon Creative DCA,Global NCAP Safety Rating,5 Star
+TATA,NEXON,Nexon Creative DCA,Global NCAP Child Safety Rating,5 Star
+TATA,NEXON,Nexon Creative DCA,Bharat NCAP Safety Rating,5 Star
+TATA,NEXON,Nexon Creative DCA,Bharat NCAP Child Safety Rating,5 Star
+TATA,NEXON,Nexon Creative DCA,Radio,YES
+TATA,NEXON,Nexon Creative DCA,Wireless Phone Charging,NO
+TATA,NEXON,Nexon Creative DCA,Bluetooth Connectivity,YES
+TATA,NEXON,Nexon Creative DCA,Touchscreen,YES
+TATA,NEXON,Nexon Creative DCA,Touchscreen Size,10.24 inch
+TATA,NEXON,Nexon Creative DCA,Connectivity,"Android Auto, Apple CarPlay"
+TATA,NEXON,Nexon Creative DCA,Android Auto,YES
+TATA,NEXON,Nexon Creative DCA,Apple CarPlay,YES
+TATA,NEXON,Nexon Creative DCA,No. of Speakers,4
+TATA,NEXON,Nexon Creative DCA,Usb Ports,YES
+TATA,NEXON,Nexon Creative DCA,Additional Features,Wireless Android Auto & Apple CarPlay
+TATA,NEXON,Nexon Creative DCA,Speakers,Front & Rear

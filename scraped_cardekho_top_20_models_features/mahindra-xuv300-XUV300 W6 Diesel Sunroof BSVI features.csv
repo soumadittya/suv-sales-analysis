@@ -1,0 +1,201 @@
+company,model,variant,feature_name,feature_details
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Engine Type,1.5L Turbo Diesel
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Displacement,1497 cc
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Max Power,115bhp@3750rpm
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Max Torque,300Nm@1500-2500rpm
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,No. of Cylinders,4
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Valves Per Cylinder,4
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Valve Configuration,DOHC
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Fuel Supply System,CRDi
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Turbo Charger,YES
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Transmission Type,Manual
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Gearbox,6 Speed
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Drive Type,FWD
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Fuel Type,Diesel
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Diesel Mileage ARAI,20 kmpl
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Diesel Fuel Tank Capacity,42 Litres
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Diesel Highway Mileage,22 kmpl
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Emission Norm Compliance,BS VI
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Front Suspension,MacPherson Strut with anti-roll bar
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Rear Suspension,Twist beam suspension with Coil Spring
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Steering Type,Power
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Steering Column,Collapsible
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Turning Radius,5.3 m
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Front Brake Type,Disc
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Rear Brake Type,Disc
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Braking (100-0kmph),39.41m
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,0-100Kmph (Tested),12.21s
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,3rd Gear (30-80kmph),06.97s
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,4th Gear (40-100kmph),11.07s
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Quarter Mile (Tested),18.30s@123.82kmph
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Braking (80-0 kmph),25.16m
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Length,3995 mm
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Width,1821 mm
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Height,1627 mm
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Seating Capacity,5
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Ground Clearance Unladen,180 mm
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Wheel Base,2600 mm
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Kerb Weight,1375 kg
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,No. of Doors,5
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Power Steering,YES
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Power Boot,YES
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Air Conditioner,YES
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Heater,YES
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Adjustable Steering,YES
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Height Adjustable Driver Seat,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Ventilated Seats,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Electric Adjustable Seats,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Automatic Climate Control,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Air Quality Control,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Remote Climate Control (A/C),NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Remote Trunk Opener,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Remote Fuel Lid Opener,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Low Fuel Warning Light,YES
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Accessory Power Outlet,YES
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Trunk Light,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Vanity Mirror,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Rear Reading Lamp,YES
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Rear Seat Headrest,YES
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Adjustable Headrest,YES
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Rear Seat Centre Arm Rest,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Height Adjustable Front Seat Belts,YES
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Rear AC Vents,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Lumbar Support,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Active noise cancellation,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Cruise Control,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Parking Sensors,Rear
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Find My Car location,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Real-Time Vehicle Tracking,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Foldable Rear Seat,60:40 Split
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Smart Access Card Entry,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Smart Key Band,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,KeyLess Entry,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Engine Start/Stop Button,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Cooled Glovebox,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Voice Commands,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Paddle Shifters,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,USB Charger,Front
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Central Console Armrest,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Tailgate Ajar Warning,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Hands-Free Tailgate,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Gear Shift Indicator,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Rear Curtain,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Luggage Hook & Net,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Battery Saver,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Lane Change Indicator,YES
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Drive Modes,0
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Automatic Headlamps,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Follow Me Home Headlamps,YES
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Additional Features,"Adjustable Boot Floor, Console Roof Lamp, Sunglass Holder, Electrically-operated HVAC, Smart Steering System, Extended Power Window Operation"
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Tachometer,YES
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Electronic Multi-Tripmeter,YES
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Leather Seats,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Fabric Upholstery,YES
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Leather Wrapped Steering Wheel,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Leather wrap gear-shift selector,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Glove Box,YES
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Digital Clock,YES
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Outside Temperature Display,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Cigarette Lighter,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Digital Odometer,YES
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Driving Experience Control Eco,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Folding Table in The Rear,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Dual Tone Dashboard,YES
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Adjustable Headlamps,YES
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Fog Lights - Front,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Fog Lights - Rear,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Headlamp Washers,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Rain Sensing Wiper,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Rear Window Wiper,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Rear Window Washer,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Rear Window Defogger,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Wheel Covers,YES
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Alloy Wheels,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Power Antenna,YES
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Tinted Glass,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Rear Spoiler,YES
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Roof Carrier,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Side Stepper,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Outside Rear View Mirror Turn Indicators,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Integrated Antenna,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Chrome Grille,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Chrome Garnish,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Dual Tone Body Colour,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Smoke Headlamps,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Projector Headlamps,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Halogen Headlamps,YES
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Cornering Headlamps,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Cornering Foglamps,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Roof Rails,YES
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Automatic Headlamps,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Heated Wing Mirror,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Sun Roof,YES
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Tyre Size,205/65 R16
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Tyre Type,"Tubeless,Radial"
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Wheel Size,R16 Inch
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,LED DRLs,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,LED Headlamps,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,LED Taillights,YES
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,LED Fog Lamps,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Additional Features,"Upper Grille Silver Lower Grille Black, Body Coloured Door Handles & ORVMs, Sill & Wheel Arch Cladding, Black Inside Door Handles, Black Front Scuff Plate"
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Anti-lock Braking System (ABS),YES
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Brake Assist,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Central Locking,YES
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Power Door Locks,YES
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Child Safety Locks,YES
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Anti-Theft Alarm,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,No. of Airbags,2
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Driver Airbag,YES
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Passenger Airbag,YES
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Side Airbag,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Side Airbag-Rear,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Day & Night Rear View Mirror,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Passenger Side Rear View Mirror,YES
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Xenon Headlamps,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Rear Seat Belts,YES
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Seat Belt Warning,YES
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Door Ajar Warning,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Side Impact Beams,YES
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Front Impact Beams,YES
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Traction Control,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Adjustable Seats,YES
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Tyre Pressure Monitoring System (TPMS),NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Vehicle Stability Control System,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Engine Immobilizer,YES
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Crash Sensor,YES
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Centrally Mounted Fuel Tank,YES
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Engine Check Warning,YES
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Clutch Lock,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,EBD,YES
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Electronic Stability Control (ESC),NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Rear Camera,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Anti-Theft Device,YES
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Anti-Pinch Power Windows,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Speed Alert,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Speed Sensing Auto Door Lock,YES
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Knee Airbags,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,ISOFIX Child Seat Mounts,YES
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Heads-Up Display (HUD),NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Pretensioners & Force Limiter Seatbelts,YES
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Blind Spot Camera,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Hill Descent Control,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Hill Assist,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Impact Sensing Auto Door Unlock,YES
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,360 View Camera,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Radio,YES
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Audio System Remote Control,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,MirrorLink,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Integrated 2DIN Audio,YES
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Wireless Phone Charging,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,USB & Auxiliary input,YES
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Bluetooth Connectivity,YES
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Wi-Fi Connectivity,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Compass,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Touchscreen,YES
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Touchscreen Size,7 Inch.
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Android Auto,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Apple CarPlay,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Internal Storage,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,No. of Speakers,4
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Rear Entertainment System,NO
+mahindra,xuv300,XUV300 W6 Diesel Sunroof BSVI,Additional Features,Smart Watch Connectivity

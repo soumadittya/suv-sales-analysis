@@ -1,0 +1,91 @@
+date,company,model,monthly_sales,total_sales
+Mar-25,Citroen,C3,120.0,120.0
+Mar-25,Citroen,Ë C3,118.0,118.0
+Mar-25,Citroen,C3 Aircross,69.0,69.0
+Mar-25,Citroen,Basalt,100.0,100.0
+Mar-25,Fiat,COMPASS,142.0,142.0
+Mar-25,Fiat,Meridian,112.0,112.0
+Mar-25,Fiat,Grand Cherokee,8.0,8.0
+Mar-25,Fiat,WRANGLER,32.0,32.0
+Mar-25,Honda,Amaze,3.6K,3.6K
+Mar-25,Honda,City,1.2K,1.2K
+Mar-25,Honda,ELEVATE,2.5K,2.5K
+Mar-25,Hyundai,Grand i10,5.0K,5.0K
+Mar-25,Hyundai,i20 Elite,4.5K,4.5K
+Mar-25,Hyundai,Xcent/Aura,5.1K,5.1K
+Mar-25,Hyundai,EXTER,5.9K,5.9K
+Mar-25,Hyundai,Venue,10.4K,10.4K
+Mar-25,Hyundai,Creta,18.1K,18.1K
+Mar-25,Hyundai,Verna,1.4K,1.4K
+Mar-25,Hyundai,ALCAZAR,1.4K,1.4K
+Mar-25,Hyundai,Tucson,89.0,89.0
+Mar-25,Hyundai,IONIQ 5,19.0,19.0
+Mar-25,Kia,SELTOS,6.5K,6.5K
+Mar-25,Kia,SONET,7.7K,7.7K
+Mar-25,Kia,CARENS,5.5K,5.5K
+Mar-25,Kia,SYROS,5.0K,5.0K
+Mar-25,Kia,EV6,520.0,520.0
+Mar-25,Kia,EV9,18.0,18.0
+Mar-25,Kia,CARNIVAL,230.0,230.0
+Mar-25,Mahindra,XUV 700,6.9K,6.9K
+Mar-25,Mahindra,Bolero,8.0K,8.0K
+Mar-25,Mahindra,Thar,8.9K,8.9K
+Mar-25,Mahindra,XUV 300,7.1K,7.1K
+Mar-25,Mahindra,XUV 400,238.0,238.0
+Mar-25,Mahindra,Marazzo,10.0,10.0
+Mar-25,Mahindra,Scorpio,13.9K,13.9K
+Mar-25,Mahindra,BE 6,934.0,934.0
+Mar-25,Mahindra,XEV 9e,2.1K,2.1K
+Mar-25,Maruti,Alto,9.9K,9.9K
+Mar-25,Maruti,Eeco,10.4K,10.4K
+Mar-25,Maruti,S Presso,1.8K,1.8K
+Mar-25,Maruti,Wagon R,17.2K,17.2K
+Mar-25,Maruti,IGNIS,1.9K,1.9K
+Mar-25,Maruti,Ertiga,16.8K,16.8K
+Mar-25,Maruti,XL6,3.1K,3.1K
+Mar-25,Maruti,CELERIO,2.3K,2.3K
+Mar-25,Maruti,Vitara Brezza,16.5K,16.5K
+Mar-25,Maruti,Swift,17.7K,17.7K
+Mar-25,Maruti,Baleno,12.4K,12.4K
+Mar-25,Maruti,FRONX,13.7K,13.7K
+Mar-25,Maruti,JIMNY,261.0,261.0
+Mar-25,Maruti,INVICTO,294.0,294.0
+Mar-25,Maruti,DZIRE,15.5K,15.5K
+Mar-25,Maruti,Ciaz,676.0,676.0
+Mar-25,Maruti,Grand Vitara,10.4K,10.4K
+Mar-25,Morris Garage,Hector,547.0,547.0
+Mar-25,Morris Garage,Gloster,100.0,100.0
+Mar-25,Morris Garage,Astor,184.0,184.0
+Mar-25,Morris Garage,COMET,173.0,173.0
+Mar-25,Morris Garage,WINDSOR,3.6K,3.6K
+Mar-25,Morris Garage,ZS EV,856.0,856.0
+Mar-25,Nissan,X-Trail,15.0,15.0
+Mar-25,Nissan,MAGNITE,2.5K,2.5K
+Mar-25,Renault,KWID,532.0,532.0
+Mar-25,Renault,KIGER,762.0,762.0
+Mar-25,Renault,TRIBER,1.6K,1.6K
+Mar-25,Skoda,KYLAQ,5.3K,5.3K
+Mar-25,Skoda,KUSHAQ,897.0,897.0
+Mar-25,Skoda,SLAVIA,1.2K,1.2K
+Mar-25,Skoda,KODIAQ,13.0,13.0
+Mar-25,Tata,Tiago,7.9K,7.9K
+Mar-25,Tata,PUNCH,17.7K,17.7K
+Mar-25,Tata,ALTROZ,1.7K,1.7K
+Mar-25,Tata,TIGOR,1.5K,1.5K
+Mar-25,Tata,NEXON,16.4K,16.4K
+Mar-25,Tata,SAFARI,1.4K,1.4K
+Mar-25,Tata,HARRIER,1.3K,1.3K
+Mar-25,Tata,CURVV,3.8K,3.8K
+Mar-25,Toyota,Innova + Hycross,9.9K,9.9K
+Mar-25,Toyota,Taisor,3.5K,3.5K
+Mar-25,Toyota,GLANZA,3.5K,3.5K
+Mar-25,Toyota,Fortuner,3.4K,3.4K
+Mar-25,Toyota,Camry,203.0,203.0
+Mar-25,Toyota,RUMION,1.8K,1.8K
+Mar-25,Toyota,HYRYDER,5.3K,5.3K
+Mar-25,Toyota,HILUX,528.0,528.0
+Mar-25,Toyota,VELLFIRE,346.0,346.0
+Mar-25,Volkswagen,VIRTUS,1.9K,1.9K
+Mar-25,Volkswagen,TAIGUN,1.6K,1.6K
+Mar-25,Volkswagen,TIGUAN,1.0,1.0
+Mar-25,Grand Total,Grand Total,3.9L,3.9L

@@ -1,0 +1,135 @@
+company,model,variant,feature_name,feature_details
+HYUNDAI,CRETA,Creta S,Engine Type,1.5L MPi
+HYUNDAI,CRETA,Creta S,Displacement,1497 cc
+HYUNDAI,CRETA,Creta S,Max Power,113.18bhp@6300rpm
+HYUNDAI,CRETA,Creta S,Max Torque,143.8Nm@4500rpm
+HYUNDAI,CRETA,Creta S,No. of Cylinders,4
+HYUNDAI,CRETA,Creta S,Valves Per Cylinder,4
+HYUNDAI,CRETA,Creta S,Valve Configuration,DOHC
+HYUNDAI,CRETA,Creta S,Fuel Supply System,MPi
+HYUNDAI,CRETA,Creta S,Turbo Charger,NO
+HYUNDAI,CRETA,Creta S,Transmission Type,Manual
+HYUNDAI,CRETA,Creta S,Gearbox,6-Speed
+HYUNDAI,CRETA,Creta S,Drive Type,FWD
+HYUNDAI,CRETA,Creta S,Fuel Type,Petrol
+HYUNDAI,CRETA,Creta S,Petrol Mileage ARAI,17.4 kmpl
+HYUNDAI,CRETA,Creta S,Petrol Fuel Tank Capacity,50 Litres
+HYUNDAI,CRETA,Creta S,Emission Norm Compliance,BS VI 2.0
+HYUNDAI,CRETA,Creta S,Front Suspension,MacPherson Strut suspension
+HYUNDAI,CRETA,Creta S,Rear Suspension,Rear twist beam
+HYUNDAI,CRETA,Creta S,Steering Type,Electric
+HYUNDAI,CRETA,Creta S,Steering Column,Tilt & Telescopic
+HYUNDAI,CRETA,Creta S,Turning Radius,5.3 m
+HYUNDAI,CRETA,Creta S,Front Brake Type,Disc
+HYUNDAI,CRETA,Creta S,Rear Brake Type,Disc
+HYUNDAI,CRETA,Creta S,Alloy Wheel Size Front,16 Inch
+HYUNDAI,CRETA,Creta S,Alloy Wheel Size Rear,16 Inch
+HYUNDAI,CRETA,Creta S,Length,4330 mm
+HYUNDAI,CRETA,Creta S,Width,1790 mm
+HYUNDAI,CRETA,Creta S,Height,1635 mm
+HYUNDAI,CRETA,Creta S,Seating Capacity,5
+HYUNDAI,CRETA,Creta S,Ground Clearance Unladen,190 mm
+HYUNDAI,CRETA,Creta S,Wheel Base,2610 mm
+HYUNDAI,CRETA,Creta S,No. of Doors,5
+HYUNDAI,CRETA,Creta S,Reported Boot Space,433 Litres
+HYUNDAI,CRETA,Creta S,Power Steering,YES
+HYUNDAI,CRETA,Creta S,Air Conditioner,YES
+HYUNDAI,CRETA,Creta S,Heater,YES
+HYUNDAI,CRETA,Creta S,Height Adjustable Driver Seat,YES
+HYUNDAI,CRETA,Creta S,Ventilated Seats,NO
+HYUNDAI,CRETA,Creta S,Electric Adjustable Seats,NO
+HYUNDAI,CRETA,Creta S,Automatic Climate Control,NO
+HYUNDAI,CRETA,Creta S,Accessory Power Outlet,YES
+HYUNDAI,CRETA,Creta S,Trunk Light,YES
+HYUNDAI,CRETA,Creta S,Vanity Mirror,YES
+HYUNDAI,CRETA,Creta S,Rear Reading Lamp,YES
+HYUNDAI,CRETA,Creta S,Adjustable Headrest,YES
+HYUNDAI,CRETA,Creta S,Rear Seat Centre Arm Rest,YES
+HYUNDAI,CRETA,Creta S,Height Adjustable Front Seat Belts,YES
+HYUNDAI,CRETA,Creta S,Rear AC Vents,YES
+HYUNDAI,CRETA,Creta S,Cruise Control,YES
+HYUNDAI,CRETA,Creta S,Parking Sensors,Rear
+HYUNDAI,CRETA,Creta S,Foldable Rear Seat,60:40 Split
+HYUNDAI,CRETA,Creta S,KeyLess Entry,YES
+HYUNDAI,CRETA,Creta S,Engine Start/Stop Button,NO
+HYUNDAI,CRETA,Creta S,Cooled Glovebox,YES
+HYUNDAI,CRETA,Creta S,Voice Commands,YES
+HYUNDAI,CRETA,Creta S,Paddle Shifters,NO
+HYUNDAI,CRETA,Creta S,USB Charger,Front & Rear
+HYUNDAI,CRETA,Creta S,Central Console Armrest,With Storage
+HYUNDAI,CRETA,Creta S,Hands-Free Tailgate,NO
+HYUNDAI,CRETA,Creta S,Idle Start-Stop System,YES
+HYUNDAI,CRETA,Creta S,Rear Window Sunblind,YES
+HYUNDAI,CRETA,Creta S,Automatic Headlamps,YES
+HYUNDAI,CRETA,Creta S,Follow Me Home Headlamps,YES
+HYUNDAI,CRETA,Creta S,Additional Features,Sunglass holder
+HYUNDAI,CRETA,Creta S,Power Windows,Front & Rear
+HYUNDAI,CRETA,Creta S,Tachometer,YES
+HYUNDAI,CRETA,Creta S,Glove Box,YES
+HYUNDAI,CRETA,Creta S,Digital Odometer,YES
+HYUNDAI,CRETA,Creta S,Dual Tone Dashboard,YES
+HYUNDAI,CRETA,Creta S,Additional Features,Rear parcel tray
+HYUNDAI,CRETA,Creta S,Digital Cluster,YES
+HYUNDAI,CRETA,Creta S,Upholstery,Fabric
+HYUNDAI,CRETA,Creta S,Rear Window Wiper,YES
+HYUNDAI,CRETA,Creta S,Rear Window Washer,YES
+HYUNDAI,CRETA,Creta S,Rear Window Defogger,YES
+HYUNDAI,CRETA,Creta S,Wheel Covers,NO
+HYUNDAI,CRETA,Creta S,Alloy Wheels,YES
+HYUNDAI,CRETA,Creta S,Rear Spoiler,YES
+HYUNDAI,CRETA,Creta S,Outside Rear View Mirror Turn Indicators,YES
+HYUNDAI,CRETA,Creta S,Integrated Antenna,YES
+HYUNDAI,CRETA,Creta S,Projector Headlamps,NO
+HYUNDAI,CRETA,Creta S,Roof Rails,YES
+HYUNDAI,CRETA,Creta S,Antenna,Shark Fin
+HYUNDAI,CRETA,Creta S,Sunroof,NO
+HYUNDAI,CRETA,Creta S,Boot Opening,Electronic
+HYUNDAI,CRETA,Creta S,Puddle Lamps,NO
+HYUNDAI,CRETA,Creta S,Outside Rear View Mirror (ORVM),Powered & Folding
+HYUNDAI,CRETA,Creta S,Tyre Size,205/65 R16
+HYUNDAI,CRETA,Creta S,Tyre Type,Radial Tubeless
+HYUNDAI,CRETA,Creta S,LED DRLs,YES
+HYUNDAI,CRETA,Creta S,LED Headlamps,YES
+HYUNDAI,CRETA,Creta S,LED Taillights,YES
+HYUNDAI,CRETA,Creta S,Anti-lock Braking System (ABS),YES
+HYUNDAI,CRETA,Creta S,Central Locking,YES
+HYUNDAI,CRETA,Creta S,Child Safety Locks,YES
+HYUNDAI,CRETA,Creta S,Anti-Theft Alarm,YES
+HYUNDAI,CRETA,Creta S,No. of Airbags,6
+HYUNDAI,CRETA,Creta S,Driver Airbag,YES
+HYUNDAI,CRETA,Creta S,Passenger Airbag,YES
+HYUNDAI,CRETA,Creta S,Side Airbag,YES
+HYUNDAI,CRETA,Creta S,Side Airbag-Rear,NO
+HYUNDAI,CRETA,Creta S,Day & Night Rear View Mirror,YES
+HYUNDAI,CRETA,Creta S,Curtain Airbag,YES
+HYUNDAI,CRETA,Creta S,Electronic Brakeforce Distribution (EBD),YES
+HYUNDAI,CRETA,Creta S,Seat Belt Warning,YES
+HYUNDAI,CRETA,Creta S,Door Ajar Warning,YES
+HYUNDAI,CRETA,Creta S,Traction Control,NO
+HYUNDAI,CRETA,Creta S,Tyre Pressure Monitoring System (TPMS),YES
+HYUNDAI,CRETA,Creta S,Engine Immobilizer,YES
+HYUNDAI,CRETA,Creta S,Electronic Stability Control (ESC),YES
+HYUNDAI,CRETA,Creta S,Rear Camera,With Guidedlines
+HYUNDAI,CRETA,Creta S,Anti-Theft Device,YES
+HYUNDAI,CRETA,Creta S,Speed Alert,YES
+HYUNDAI,CRETA,Creta S,Speed Sensing Auto Door Lock,YES
+HYUNDAI,CRETA,Creta S,Knee Airbags,NO
+HYUNDAI,CRETA,Creta S,ISOFIX Child Seat Mounts,YES
+HYUNDAI,CRETA,Creta S,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+HYUNDAI,CRETA,Creta S,Hill Assist,YES
+HYUNDAI,CRETA,Creta S,Impact Sensing Auto Door Unlock,YES
+HYUNDAI,CRETA,Creta S,360 View Camera,NO
+HYUNDAI,CRETA,Creta S,Radio,YES
+HYUNDAI,CRETA,Creta S,Integrated 2DIN Audio,YES
+HYUNDAI,CRETA,Creta S,Wireless Phone Charging,NO
+HYUNDAI,CRETA,Creta S,Bluetooth Connectivity,YES
+HYUNDAI,CRETA,Creta S,Touchscreen,YES
+HYUNDAI,CRETA,Creta S,Touchscreen Size,8 inch
+HYUNDAI,CRETA,Creta S,Connectivity,"Android Auto, Apple CarPlay"
+HYUNDAI,CRETA,Creta S,Android Auto,YES
+HYUNDAI,CRETA,Creta S,Apple CarPlay,YES
+HYUNDAI,CRETA,Creta S,No. of Speakers,4
+HYUNDAI,CRETA,Creta S,Usb Ports,YES
+HYUNDAI,CRETA,Creta S,Inbuilt Apps,NO
+HYUNDAI,CRETA,Creta S,Tweeters,2
+HYUNDAI,CRETA,Creta S,Speakers,Front & Rear

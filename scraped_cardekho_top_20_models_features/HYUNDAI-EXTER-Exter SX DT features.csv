@@ -1,0 +1,118 @@
+company,model,variant,feature_name,feature_details
+HYUNDAI,EXTER,Exter SX DT,Engine Type,1.2 l Kappa
+HYUNDAI,EXTER,Exter SX DT,Displacement,1197 cc
+HYUNDAI,EXTER,Exter SX DT,Max Power,81.8bhp@6000rpm
+HYUNDAI,EXTER,Exter SX DT,Max Torque,113.8Nm@4000rpm
+HYUNDAI,EXTER,Exter SX DT,No. of Cylinders,4
+HYUNDAI,EXTER,Exter SX DT,Valves Per Cylinder,4
+HYUNDAI,EXTER,Exter SX DT,Transmission Type,Manual
+HYUNDAI,EXTER,Exter SX DT,Gearbox,5-Speed
+HYUNDAI,EXTER,Exter SX DT,Drive Type,FWD
+HYUNDAI,EXTER,Exter SX DT,Fuel Type,Petrol
+HYUNDAI,EXTER,Exter SX DT,Petrol Mileage ARAI,19.4 kmpl
+HYUNDAI,EXTER,Exter SX DT,Petrol Fuel Tank Capacity,37 Litres
+HYUNDAI,EXTER,Exter SX DT,Emission Norm Compliance,BS VI 2.0
+HYUNDAI,EXTER,Exter SX DT,Front Suspension,MacPherson Strut suspension
+HYUNDAI,EXTER,Exter SX DT,Rear Suspension,Rear twist beam
+HYUNDAI,EXTER,Exter SX DT,Shock Absorbers Type,Gas Type
+HYUNDAI,EXTER,Exter SX DT,Steering Type,Electric
+HYUNDAI,EXTER,Exter SX DT,Steering Column,Tilt
+HYUNDAI,EXTER,Exter SX DT,Front Brake Type,Disc
+HYUNDAI,EXTER,Exter SX DT,Rear Brake Type,Drum
+HYUNDAI,EXTER,Exter SX DT,Alloy Wheel Size Front,15 Inch
+HYUNDAI,EXTER,Exter SX DT,Alloy Wheel Size Rear,15 Inch
+HYUNDAI,EXTER,Exter SX DT,Length,3815 mm
+HYUNDAI,EXTER,Exter SX DT,Width,1710 mm
+HYUNDAI,EXTER,Exter SX DT,Height,1631 mm
+HYUNDAI,EXTER,Exter SX DT,Seating Capacity,5
+HYUNDAI,EXTER,Exter SX DT,Wheel Base,2450 mm
+HYUNDAI,EXTER,Exter SX DT,No. of Doors,5
+HYUNDAI,EXTER,Exter SX DT,Reported Boot Space,391 Litres
+HYUNDAI,EXTER,Exter SX DT,Power Steering,YES
+HYUNDAI,EXTER,Exter SX DT,Air Conditioner,YES
+HYUNDAI,EXTER,Exter SX DT,Heater,YES
+HYUNDAI,EXTER,Exter SX DT,Height Adjustable Driver Seat,YES
+HYUNDAI,EXTER,Exter SX DT,Automatic Climate Control,YES
+HYUNDAI,EXTER,Exter SX DT,Accessory Power Outlet,YES
+HYUNDAI,EXTER,Exter SX DT,Trunk Light,NO
+HYUNDAI,EXTER,Exter SX DT,Vanity Mirror,YES
+HYUNDAI,EXTER,Exter SX DT,Rear Reading Lamp,YES
+HYUNDAI,EXTER,Exter SX DT,Rear Seat Headrest,Adjustable
+HYUNDAI,EXTER,Exter SX DT,Rear AC Vents,YES
+HYUNDAI,EXTER,Exter SX DT,Cruise Control,YES
+HYUNDAI,EXTER,Exter SX DT,Parking Sensors,Rear
+HYUNDAI,EXTER,Exter SX DT,Foldable Rear Seat,Bench Folding
+HYUNDAI,EXTER,Exter SX DT,KeyLess Entry,YES
+HYUNDAI,EXTER,Exter SX DT,Engine Start/Stop Button,NO
+HYUNDAI,EXTER,Exter SX DT,Cooled Glovebox,NO
+HYUNDAI,EXTER,Exter SX DT,Voice Commands,YES
+HYUNDAI,EXTER,Exter SX DT,Paddle Shifters,NO
+HYUNDAI,EXTER,Exter SX DT,USB Charger,Front
+HYUNDAI,EXTER,Exter SX DT,Tailgate Ajar Warning,YES
+HYUNDAI,EXTER,Exter SX DT,Luggage Hook & Net,YES
+HYUNDAI,EXTER,Exter SX DT,Battery Saver,YES
+HYUNDAI,EXTER,Exter SX DT,Idle Start-Stop System,YES
+HYUNDAI,EXTER,Exter SX DT,Automatic Headlamps,NO
+HYUNDAI,EXTER,Exter SX DT,Follow Me Home Headlamps,YES
+HYUNDAI,EXTER,Exter SX DT,Additional Features,Rear parcel tray
+HYUNDAI,EXTER,Exter SX DT,Voice assisted sunroof,NO
+HYUNDAI,EXTER,Exter SX DT,Power Windows,Front & Rear
+HYUNDAI,EXTER,Exter SX DT,Tachometer,YES
+HYUNDAI,EXTER,Exter SX DT,Glove Box,YES
+HYUNDAI,EXTER,Exter SX DT,Digital Cluster,YES
+HYUNDAI,EXTER,Exter SX DT,Upholstery,Leatherette
+HYUNDAI,EXTER,Exter SX DT,Adjustable Headlamps,YES
+HYUNDAI,EXTER,Exter SX DT,Rear Window Wiper,NO
+HYUNDAI,EXTER,Exter SX DT,Rear Window Washer,NO
+HYUNDAI,EXTER,Exter SX DT,Rear Window Defogger,YES
+HYUNDAI,EXTER,Exter SX DT,Wheel Covers,NO
+HYUNDAI,EXTER,Exter SX DT,Alloy Wheels,YES
+HYUNDAI,EXTER,Exter SX DT,Rear Spoiler,YES
+HYUNDAI,EXTER,Exter SX DT,Outside Rear View Mirror Turn Indicators,YES
+HYUNDAI,EXTER,Exter SX DT,Projector Headlamps,YES
+HYUNDAI,EXTER,Exter SX DT,Halogen Headlamps,NO
+HYUNDAI,EXTER,Exter SX DT,Roof Rails,YES
+HYUNDAI,EXTER,Exter SX DT,Antenna,Shark Fin
+HYUNDAI,EXTER,Exter SX DT,Sunroof,Single Pane
+HYUNDAI,EXTER,Exter SX DT,Boot Opening,Electronic
+HYUNDAI,EXTER,Exter SX DT,Outside Rear View Mirror (ORVM),Powered & Folding
+HYUNDAI,EXTER,Exter SX DT,Tyre Size,175/65 R15
+HYUNDAI,EXTER,Exter SX DT,Tyre Type,Radial Tubeless
+HYUNDAI,EXTER,Exter SX DT,LED DRLs,YES
+HYUNDAI,EXTER,Exter SX DT,LED Taillights,YES
+HYUNDAI,EXTER,Exter SX DT,Anti-lock Braking System (ABS),YES
+HYUNDAI,EXTER,Exter SX DT,Central Locking,YES
+HYUNDAI,EXTER,Exter SX DT,Child Safety Locks,YES
+HYUNDAI,EXTER,Exter SX DT,Anti-Theft Alarm,YES
+HYUNDAI,EXTER,Exter SX DT,No. of Airbags,6
+HYUNDAI,EXTER,Exter SX DT,Driver Airbag,YES
+HYUNDAI,EXTER,Exter SX DT,Passenger Airbag,YES
+HYUNDAI,EXTER,Exter SX DT,Side Airbag,YES
+HYUNDAI,EXTER,Exter SX DT,Side Airbag-Rear,NO
+HYUNDAI,EXTER,Exter SX DT,Day & Night Rear View Mirror,YES
+HYUNDAI,EXTER,Exter SX DT,Curtain Airbag,YES
+HYUNDAI,EXTER,Exter SX DT,Electronic Brakeforce Distribution (EBD),YES
+HYUNDAI,EXTER,Exter SX DT,Seat Belt Warning,YES
+HYUNDAI,EXTER,Exter SX DT,Door Ajar Warning,YES
+HYUNDAI,EXTER,Exter SX DT,Tyre Pressure Monitoring System (TPMS),YES
+HYUNDAI,EXTER,Exter SX DT,Engine Immobilizer,YES
+HYUNDAI,EXTER,Exter SX DT,Electronic Stability Control (ESC),YES
+HYUNDAI,EXTER,Exter SX DT,Rear Camera,With Guidedlines
+HYUNDAI,EXTER,Exter SX DT,Anti-Theft Device,YES
+HYUNDAI,EXTER,Exter SX DT,Speed Alert,YES
+HYUNDAI,EXTER,Exter SX DT,Speed Sensing Auto Door Lock,YES
+HYUNDAI,EXTER,Exter SX DT,ISOFIX Child Seat Mounts,YES
+HYUNDAI,EXTER,Exter SX DT,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+HYUNDAI,EXTER,Exter SX DT,Hill Assist,YES
+HYUNDAI,EXTER,Exter SX DT,Impact Sensing Auto Door Unlock,YES
+HYUNDAI,EXTER,Exter SX DT,Radio,YES
+HYUNDAI,EXTER,Exter SX DT,Wireless Phone Charging,NO
+HYUNDAI,EXTER,Exter SX DT,Bluetooth Connectivity,YES
+HYUNDAI,EXTER,Exter SX DT,Touchscreen,YES
+HYUNDAI,EXTER,Exter SX DT,Touchscreen Size,8 inch
+HYUNDAI,EXTER,Exter SX DT,Connectivity,"Android Auto, Apple CarPlay"
+HYUNDAI,EXTER,Exter SX DT,Android Auto,YES
+HYUNDAI,EXTER,Exter SX DT,Apple CarPlay,YES
+HYUNDAI,EXTER,Exter SX DT,Usb Ports,YES
+HYUNDAI,EXTER,Exter SX DT,Inbuilt Apps,NO
+HYUNDAI,EXTER,Exter SX DT,Speakers,Front & Rear

@@ -1,0 +1,127 @@
+company,model,variant,feature_name,feature_details
+KIA,SELTOS,Seltos HTX,Engine Type,SmartStream G1.5
+KIA,SELTOS,Seltos HTX,Displacement,1497 cc
+KIA,SELTOS,Seltos HTX,Max Power,113bhp@6300rpm
+KIA,SELTOS,Seltos HTX,Max Torque,144Nm@4500rpm
+KIA,SELTOS,Seltos HTX,No. of Cylinders,4
+KIA,SELTOS,Seltos HTX,Valves Per Cylinder,4
+KIA,SELTOS,Seltos HTX,Fuel Supply System,MPi
+KIA,SELTOS,Seltos HTX,Turbo Charger,NO
+KIA,SELTOS,Seltos HTX,Transmission Type,Manual
+KIA,SELTOS,Seltos HTX,Gearbox,6-Speed
+KIA,SELTOS,Seltos HTX,Drive Type,2WD
+KIA,SELTOS,Seltos HTX,Fuel Type,Petrol
+KIA,SELTOS,Seltos HTX,Petrol Fuel Tank Capacity,47 Litres
+KIA,SELTOS,Seltos HTX,Emission Norm Compliance,BS VI 2.0
+KIA,SELTOS,Seltos HTX,Front Suspension,MacPherson Strut suspension
+KIA,SELTOS,Seltos HTX,Rear Suspension,Rear twist beam
+KIA,SELTOS,Seltos HTX,Steering Type,Electric
+KIA,SELTOS,Seltos HTX,Steering Column,Tilt & Telescopic
+KIA,SELTOS,Seltos HTX,Front Brake Type,Disc
+KIA,SELTOS,Seltos HTX,Rear Brake Type,Disc
+KIA,SELTOS,Seltos HTX,Length,4460 mm
+KIA,SELTOS,Seltos HTX,Width,1830 mm
+KIA,SELTOS,Seltos HTX,Height,1635 mm
+KIA,SELTOS,Seltos HTX,Boot Space,447 Litres
+KIA,SELTOS,Seltos HTX,Seating Capacity,5
+KIA,SELTOS,Seltos HTX,Wheel Base,2690 mm
+KIA,SELTOS,Seltos HTX,No. of Doors,5
+KIA,SELTOS,Seltos HTX,Power Steering,YES
+KIA,SELTOS,Seltos HTX,Air Conditioner,YES
+KIA,SELTOS,Seltos HTX,Heater,YES
+KIA,SELTOS,Seltos HTX,Adjustable Steering,Height & Reach
+KIA,SELTOS,Seltos HTX,Height Adjustable Driver Seat,YES
+KIA,SELTOS,Seltos HTX,Ventilated Seats,YES
+KIA,SELTOS,Seltos HTX,Electric Adjustable Seats,NO
+KIA,SELTOS,Seltos HTX,Automatic Climate Control,YES
+KIA,SELTOS,Seltos HTX,Accessory Power Outlet,YES
+KIA,SELTOS,Seltos HTX,Vanity Mirror,YES
+KIA,SELTOS,Seltos HTX,Rear Reading Lamp,YES
+KIA,SELTOS,Seltos HTX,Rear Seat Headrest,Adjustable
+KIA,SELTOS,Seltos HTX,Adjustable Headrest,YES
+KIA,SELTOS,Seltos HTX,Rear Seat Centre Arm Rest,YES
+KIA,SELTOS,Seltos HTX,Rear AC Vents,YES
+KIA,SELTOS,Seltos HTX,Lumbar Support,NO
+KIA,SELTOS,Seltos HTX,Cruise Control,YES
+KIA,SELTOS,Seltos HTX,Parking Sensors,Front & Rear
+KIA,SELTOS,Seltos HTX,Foldable Rear Seat,60:40 Split
+KIA,SELTOS,Seltos HTX,KeyLess Entry,YES
+KIA,SELTOS,Seltos HTX,Engine Start/Stop Button,YES
+KIA,SELTOS,Seltos HTX,Paddle Shifters,NO
+KIA,SELTOS,Seltos HTX,USB Charger,Front & Rear
+KIA,SELTOS,Seltos HTX,Central Console Armrest,YES
+KIA,SELTOS,Seltos HTX,Tailgate Ajar Warning,YES
+KIA,SELTOS,Seltos HTX,Drive Modes,NO
+KIA,SELTOS,Seltos HTX,Rear Window Sunblind,YES
+KIA,SELTOS,Seltos HTX,Additional Features,Sunglass Holder
+KIA,SELTOS,Seltos HTX,Drive Mode Types,NO
+KIA,SELTOS,Seltos HTX,Power Windows,Front & Rear
+KIA,SELTOS,Seltos HTX,Cup Holders,Front & Rear
+KIA,SELTOS,Seltos HTX,Tachometer,YES
+KIA,SELTOS,Seltos HTX,Leather Wrapped Steering Wheel,YES
+KIA,SELTOS,Seltos HTX,Glove Box,YES
+KIA,SELTOS,Seltos HTX,Lighting,Ambient light
+KIA,SELTOS,Seltos HTX,Additional Features,Rear Parcel Shelf
+KIA,SELTOS,Seltos HTX,Digital Cluster,YES
+KIA,SELTOS,Seltos HTX,Digital Cluster Size,4.2
+KIA,SELTOS,Seltos HTX,Upholstery,Leatherette
+KIA,SELTOS,Seltos HTX,Ambient Light Colour (numbers),64
+KIA,SELTOS,Seltos HTX,Rear Window Wiper,YES
+KIA,SELTOS,Seltos HTX,Rear Window Defogger,YES
+KIA,SELTOS,Seltos HTX,Wheel Covers,NO
+KIA,SELTOS,Seltos HTX,Alloy Wheels,YES
+KIA,SELTOS,Seltos HTX,Rear Spoiler,YES
+KIA,SELTOS,Seltos HTX,Outside Rear View Mirror Turn Indicators,YES
+KIA,SELTOS,Seltos HTX,Integrated Antenna,YES
+KIA,SELTOS,Seltos HTX,Projector Headlamps,NO
+KIA,SELTOS,Seltos HTX,Roof Rails,YES
+KIA,SELTOS,Seltos HTX,Automatic Headlamps,YES
+KIA,SELTOS,Seltos HTX,Fog Lights,Front
+KIA,SELTOS,Seltos HTX,Antenna,Shark Fin
+KIA,SELTOS,Seltos HTX,Sunroof,Panoramic
+KIA,SELTOS,Seltos HTX,Outside Rear View Mirror (ORVM),Powered & Folding
+KIA,SELTOS,Seltos HTX,Tyre Size,205/65 R16
+KIA,SELTOS,Seltos HTX,Tyre Type,Radial Tubeless
+KIA,SELTOS,Seltos HTX,Wheel Size,16 Inch
+KIA,SELTOS,Seltos HTX,LED DRLs,YES
+KIA,SELTOS,Seltos HTX,LED Headlamps,YES
+KIA,SELTOS,Seltos HTX,LED Taillights,YES
+KIA,SELTOS,Seltos HTX,LED Fog Lamps,YES
+KIA,SELTOS,Seltos HTX,Anti-lock Braking System (ABS),YES
+KIA,SELTOS,Seltos HTX,Brake Assist,YES
+KIA,SELTOS,Seltos HTX,Central Locking,YES
+KIA,SELTOS,Seltos HTX,Child Safety Locks,YES
+KIA,SELTOS,Seltos HTX,No. of Airbags,6
+KIA,SELTOS,Seltos HTX,Driver Airbag,YES
+KIA,SELTOS,Seltos HTX,Passenger Airbag,YES
+KIA,SELTOS,Seltos HTX,Side Airbag,YES
+KIA,SELTOS,Seltos HTX,Day & Night Rear View Mirror,YES
+KIA,SELTOS,Seltos HTX,Curtain Airbag,YES
+KIA,SELTOS,Seltos HTX,Electronic Brakeforce Distribution (EBD),YES
+KIA,SELTOS,Seltos HTX,Seat Belt Warning,YES
+KIA,SELTOS,Seltos HTX,Door Ajar Warning,YES
+KIA,SELTOS,Seltos HTX,Traction Control,NO
+KIA,SELTOS,Seltos HTX,Tyre Pressure Monitoring System (TPMS),YES
+KIA,SELTOS,Seltos HTX,Engine Immobilizer,YES
+KIA,SELTOS,Seltos HTX,Electronic Stability Control (ESC),YES
+KIA,SELTOS,Seltos HTX,Rear Camera,With Guidedlines
+KIA,SELTOS,Seltos HTX,Anti-Pinch Power Windows,Driver's Window
+KIA,SELTOS,Seltos HTX,Speed Alert,YES
+KIA,SELTOS,Seltos HTX,Speed Sensing Auto Door Lock,YES
+KIA,SELTOS,Seltos HTX,ISOFIX Child Seat Mounts,YES
+KIA,SELTOS,Seltos HTX,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+KIA,SELTOS,Seltos HTX,Hill Descent Control,YES
+KIA,SELTOS,Seltos HTX,Hill Assist,YES
+KIA,SELTOS,Seltos HTX,Impact Sensing Auto Door Unlock,YES
+KIA,SELTOS,Seltos HTX,360 View Camera,NO
+KIA,SELTOS,Seltos HTX,Radio,YES
+KIA,SELTOS,Seltos HTX,Wireless Phone Charging,YES
+KIA,SELTOS,Seltos HTX,Bluetooth Connectivity,YES
+KIA,SELTOS,Seltos HTX,Touchscreen,YES
+KIA,SELTOS,Seltos HTX,Touchscreen Size,12.3 inch
+KIA,SELTOS,Seltos HTX,Android Auto,YES
+KIA,SELTOS,Seltos HTX,Apple CarPlay,YES
+KIA,SELTOS,Seltos HTX,No. of Speakers,8
+KIA,SELTOS,Seltos HTX,Usb Ports,YES
+KIA,SELTOS,Seltos HTX,Additional Features,Wireless Android Auto/Apple CarPlay
+KIA,SELTOS,Seltos HTX,Speakers,Front & Rear

@@ -1,0 +1,188 @@
+company,model,variant,feature_name,feature_details
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Engine Type,1.5 Diesel Engine
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Displacement,1497 cc
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Max Power,115bhp@3750rpm
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Max Torque,300Nm@1500-2500rpm
+mahindra,xuv300,XUV300 W6 Diesel BSIV,No. of Cylinders,4
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Valves Per Cylinder,4
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Valve Configuration,DOHC
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Fuel Supply System,CRDi
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Turbo Charger,YES
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Transmission Type,Manual
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Gearbox,6 Speed
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Drive Type,FWD
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Fuel Type,Diesel
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Diesel Mileage ARAI,20 kmpl
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Diesel Fuel Tank Capacity,42 Litres
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Emission Norm Compliance,BS IV
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Top Speed,175 kmph
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Front Suspension,MacPherson Strut with anti-roll bar
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Rear Suspension,Twist beam suspension with Coil Spring
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Steering Type,Power
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Steering Column,Collapsible
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Turning Radius,5.3 m
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Front Brake Type,Disc
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Rear Brake Type,Disc
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Length,3995 mm
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Width,1821 mm
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Height,1627 mm
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Seating Capacity,5
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Ground Clearance Unladen,180 mm
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Wheel Base,2600 mm
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Kerb Weight,1355 kg
+mahindra,xuv300,XUV300 W6 Diesel BSIV,No. of Doors,5
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Power Steering,YES
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Power Boot,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Air Conditioner,YES
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Heater,YES
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Adjustable Steering,YES
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Height Adjustable Driver Seat,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Ventilated Seats,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Electric Adjustable Seats,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Automatic Climate Control,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Air Quality Control,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Remote Climate Control (A/C),NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Remote Trunk Opener,YES
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Remote Fuel Lid Opener,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Low Fuel Warning Light,YES
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Accessory Power Outlet,YES
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Trunk Light,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Vanity Mirror,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Rear Reading Lamp,YES
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Rear Seat Headrest,YES
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Adjustable Headrest,YES
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Rear Seat Centre Arm Rest,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Height Adjustable Front Seat Belts,YES
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Rear AC Vents,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Lumbar Support,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Active noise cancellation,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Cruise Control,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Parking Sensors,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Navigation System,YES
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Find My Car location,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Real-Time Vehicle Tracking,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Foldable Rear Seat,60:40 Split
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Smart Access Card Entry,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Smart Key Band,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,KeyLess Entry,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Engine Start/Stop Button,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Cooled Glovebox,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Voice Commands,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Paddle Shifters,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,USB Charger,Front
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Central Console Armrest,With Storage
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Tailgate Ajar Warning,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Hands-Free Tailgate,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Gear Shift Indicator,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Rear Curtain,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Luggage Hook & Net,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Battery Saver,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Lane Change Indicator,YES
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Drive Modes,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Automatic Headlamps,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Follow Me Home Headlamps,YES
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Tachometer,YES
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Electronic Multi-Tripmeter,YES
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Leather Seats,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Fabric Upholstery,YES
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Leather Wrapped Steering Wheel,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Glove Box,YES
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Digital Clock,YES
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Outside Temperature Display,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Cigarette Lighter,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Digital Odometer,YES
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Driving Experience Control Eco,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Folding Table in The Rear,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Dual Tone Dashboard,YES
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Additional Features,"Inside Door Handles Black
+Front and Rear Skid Plates Black
+Front Scuff Plate Black
+Key with remote
+black fabric"
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Adjustable Headlamps,YES
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Fog Lights - Front,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Fog Lights - Rear,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Rain Sensing Wiper,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Rear Window Wiper,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Rear Window Washer,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Rear Window Defogger,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Wheel Covers,YES
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Alloy Wheels,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Power Antenna,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Tinted Glass,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Rear Spoiler,YES
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Roof Carrier,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Side Stepper,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Outside Rear View Mirror Turn Indicators,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Integrated Antenna,YES
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Chrome Grille,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Chrome Garnish,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Smoke Headlamps,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Halogen Headlamps,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Roof Rails,YES
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Automatic Headlamps,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Trunk Opener,Remote
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Sun Roof,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Tyre Size,205/65 R16
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Tyre Type,"Tubeless,Radial"
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Wheel Size,16 Inch
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Additional Features,"Side Body Cladding
+High Mount LED Stop Lamp
+Upper Grille Silver
+Lower Grille MIC Black
+Body Coloured Door Handles and ORVMs
+A and C Pillar Glossy Garnish
+Sill and Wheel Arch Cladding
+Door Cladding"
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Anti-lock Braking System (ABS),YES
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Brake Assist,YES
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Central Locking,YES
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Power Door Locks,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Child Safety Locks,YES
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Anti-Theft Alarm,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,No. of Airbags,2
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Driver Airbag,YES
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Passenger Airbag,YES
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Side Airbag,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Side Airbag-Rear,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Day & Night Rear View Mirror,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Passenger Side Rear View Mirror,YES
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Xenon Headlamps,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Rear Seat Belts,YES
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Seat Belt Warning,YES
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Door Ajar Warning,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Side Impact Beams,YES
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Front Impact Beams,YES
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Traction Control,YES
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Adjustable Seats,YES
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Tyre Pressure Monitoring System (TPMS),NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Vehicle Stability Control System,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Engine Immobilizer,YES
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Crash Sensor,YES
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Centrally Mounted Fuel Tank,YES
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Engine Check Warning,YES
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Clutch Lock,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,EBD,YES
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Electronic Stability Control (ESC),YES
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Rear Camera,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Anti-Theft Device,YES
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Speed Alert,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Speed Sensing Auto Door Lock,YES
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Knee Airbags,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,ISOFIX Child Seat Mounts,YES
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Heads-Up Display (HUD),NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Pretensioners & Force Limiter Seatbelts,YES
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Blind Spot Camera,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Hill Descent Control,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Hill Assist,YES
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Impact Sensing Auto Door Unlock,YES
+mahindra,xuv300,XUV300 W6 Diesel BSIV,360 View Camera,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Radio,YES
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Audio System Remote Control,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Integrated 2DIN Audio,YES
+mahindra,xuv300,XUV300 W6 Diesel BSIV,USB & Auxiliary input,YES
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Bluetooth Connectivity,YES
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Touchscreen,YES
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Internal Storage,NO
+mahindra,xuv300,XUV300 W6 Diesel BSIV,No. of Speakers,4
+mahindra,xuv300,XUV300 W6 Diesel BSIV,Rear Entertainment System,NO

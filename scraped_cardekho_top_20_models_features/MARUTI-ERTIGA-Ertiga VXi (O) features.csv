@@ -1,0 +1,112 @@
+company,model,variant,feature_name,feature_details
+MARUTI,ERTIGA,Ertiga VXi (O),Engine Type,K15C Smart Hybrid
+MARUTI,ERTIGA,Ertiga VXi (O),Displacement,1462 cc
+MARUTI,ERTIGA,Ertiga VXi (O),Max Power,101.64bhp@6000rpm
+MARUTI,ERTIGA,Ertiga VXi (O),Max Torque,139Nm@4300rpm
+MARUTI,ERTIGA,Ertiga VXi (O),No. of Cylinders,4
+MARUTI,ERTIGA,Ertiga VXi (O),Valves Per Cylinder,4
+MARUTI,ERTIGA,Ertiga VXi (O),Transmission Type,Manual
+MARUTI,ERTIGA,Ertiga VXi (O),Gearbox,5-Speed
+MARUTI,ERTIGA,Ertiga VXi (O),Drive Type,FWD
+MARUTI,ERTIGA,Ertiga VXi (O),Fuel Type,Petrol
+MARUTI,ERTIGA,Ertiga VXi (O),Petrol Mileage ARAI,20.51 kmpl
+MARUTI,ERTIGA,Ertiga VXi (O),Petrol Fuel Tank Capacity,45 Litres
+MARUTI,ERTIGA,Ertiga VXi (O),Emission Norm Compliance,BS VI 2.0
+MARUTI,ERTIGA,Ertiga VXi (O),Front Suspension,MacPherson Strut suspension
+MARUTI,ERTIGA,Ertiga VXi (O),Rear Suspension,Rear twist beam
+MARUTI,ERTIGA,Ertiga VXi (O),Steering Type,Power
+MARUTI,ERTIGA,Ertiga VXi (O),Steering Column,Tilt
+MARUTI,ERTIGA,Ertiga VXi (O),Turning Radius,5.2 m
+MARUTI,ERTIGA,Ertiga VXi (O),Front Brake Type,Disc
+MARUTI,ERTIGA,Ertiga VXi (O),Rear Brake Type,Drum
+MARUTI,ERTIGA,Ertiga VXi (O),Length,4395 mm
+MARUTI,ERTIGA,Ertiga VXi (O),Width,1735 mm
+MARUTI,ERTIGA,Ertiga VXi (O),Height,1690 mm
+MARUTI,ERTIGA,Ertiga VXi (O),Boot Space,209 Litres
+MARUTI,ERTIGA,Ertiga VXi (O),Seating Capacity,7
+MARUTI,ERTIGA,Ertiga VXi (O),Wheel Base,2740 mm
+MARUTI,ERTIGA,Ertiga VXi (O),Kerb Weight,1150-1205 kg
+MARUTI,ERTIGA,Ertiga VXi (O),Gross Weight,1760 kg
+MARUTI,ERTIGA,Ertiga VXi (O),No. of Doors,5
+MARUTI,ERTIGA,Ertiga VXi (O),Power Steering,YES
+MARUTI,ERTIGA,Ertiga VXi (O),Air Conditioner,YES
+MARUTI,ERTIGA,Ertiga VXi (O),Heater,YES
+MARUTI,ERTIGA,Ertiga VXi (O),Height Adjustable Driver Seat,NO
+MARUTI,ERTIGA,Ertiga VXi (O),Automatic Climate Control,NO
+MARUTI,ERTIGA,Ertiga VXi (O),Accessory Power Outlet,YES
+MARUTI,ERTIGA,Ertiga VXi (O),Vanity Mirror,YES
+MARUTI,ERTIGA,Ertiga VXi (O),Rear Reading Lamp,YES
+MARUTI,ERTIGA,Ertiga VXi (O),Adjustable Headrest,YES
+MARUTI,ERTIGA,Ertiga VXi (O),Rear Seat Centre Arm Rest,YES
+MARUTI,ERTIGA,Ertiga VXi (O),Height Adjustable Front Seat Belts,NO
+MARUTI,ERTIGA,Ertiga VXi (O),Rear AC Vents,YES
+MARUTI,ERTIGA,Ertiga VXi (O),Cruise Control,NO
+MARUTI,ERTIGA,Ertiga VXi (O),Parking Sensors,Rear
+MARUTI,ERTIGA,Ertiga VXi (O),Foldable Rear Seat,60:40 Split
+MARUTI,ERTIGA,Ertiga VXi (O),KeyLess Entry,YES
+MARUTI,ERTIGA,Ertiga VXi (O),Engine Start/Stop Button,NO
+MARUTI,ERTIGA,Ertiga VXi (O),Paddle Shifters,NO
+MARUTI,ERTIGA,Ertiga VXi (O),Central Console Armrest,NO
+MARUTI,ERTIGA,Ertiga VXi (O),Gear Shift Indicator,YES
+MARUTI,ERTIGA,Ertiga VXi (O),Idle Start-Stop System,YES
+MARUTI,ERTIGA,Ertiga VXi (O),Automatic Headlamps,NO
+MARUTI,ERTIGA,Ertiga VXi (O),Follow Me Home Headlamps,NO
+MARUTI,ERTIGA,Ertiga VXi (O),Tachometer,YES
+MARUTI,ERTIGA,Ertiga VXi (O),Leather Wrapped Steering Wheel,NO
+MARUTI,ERTIGA,Ertiga VXi (O),Glove Box,YES
+MARUTI,ERTIGA,Ertiga VXi (O),Digital Odometer,YES
+MARUTI,ERTIGA,Ertiga VXi (O),Dual Tone Dashboard,YES
+MARUTI,ERTIGA,Ertiga VXi (O),Digital Cluster,Semi
+MARUTI,ERTIGA,Ertiga VXi (O),Upholstery,Fabric
+MARUTI,ERTIGA,Ertiga VXi (O),Rear Window Wiper,NO
+MARUTI,ERTIGA,Ertiga VXi (O),Rear Window Washer,NO
+MARUTI,ERTIGA,Ertiga VXi (O),Rear Window Defogger,NO
+MARUTI,ERTIGA,Ertiga VXi (O),Wheel Covers,YES
+MARUTI,ERTIGA,Ertiga VXi (O),Alloy Wheels,NO
+MARUTI,ERTIGA,Ertiga VXi (O),Outside Rear View Mirror Turn Indicators,YES
+MARUTI,ERTIGA,Ertiga VXi (O),Integrated Antenna,YES
+MARUTI,ERTIGA,Ertiga VXi (O),Chrome Grille,YES
+MARUTI,ERTIGA,Ertiga VXi (O),Projector Headlamps,YES
+MARUTI,ERTIGA,Ertiga VXi (O),Halogen Headlamps,YES
+MARUTI,ERTIGA,Ertiga VXi (O),Fog Lights,NO
+MARUTI,ERTIGA,Ertiga VXi (O),Boot Opening,Manual
+MARUTI,ERTIGA,Ertiga VXi (O),Tyre Size,185/65 R15
+MARUTI,ERTIGA,Ertiga VXi (O),Tyre Type,"Tubeless, Radial"
+MARUTI,ERTIGA,Ertiga VXi (O),Wheel Size,15 Inch
+MARUTI,ERTIGA,Ertiga VXi (O),LED Taillights,YES
+MARUTI,ERTIGA,Ertiga VXi (O),Anti-lock Braking System (ABS),YES
+MARUTI,ERTIGA,Ertiga VXi (O),Brake Assist,YES
+MARUTI,ERTIGA,Ertiga VXi (O),Central Locking,YES
+MARUTI,ERTIGA,Ertiga VXi (O),Child Safety Locks,YES
+MARUTI,ERTIGA,Ertiga VXi (O),Anti-Theft Alarm,YES
+MARUTI,ERTIGA,Ertiga VXi (O),No. of Airbags,6
+MARUTI,ERTIGA,Ertiga VXi (O),Driver Airbag,YES
+MARUTI,ERTIGA,Ertiga VXi (O),Passenger Airbag,YES
+MARUTI,ERTIGA,Ertiga VXi (O),Side Airbag,YES
+MARUTI,ERTIGA,Ertiga VXi (O),Side Airbag-Rear,NO
+MARUTI,ERTIGA,Ertiga VXi (O),Day & Night Rear View Mirror,YES
+MARUTI,ERTIGA,Ertiga VXi (O),Curtain Airbag,YES
+MARUTI,ERTIGA,Ertiga VXi (O),Electronic Brakeforce Distribution (EBD),YES
+MARUTI,ERTIGA,Ertiga VXi (O),Seat Belt Warning,YES
+MARUTI,ERTIGA,Ertiga VXi (O),Door Ajar Warning,YES
+MARUTI,ERTIGA,Ertiga VXi (O),Engine Immobilizer,YES
+MARUTI,ERTIGA,Ertiga VXi (O),Electronic Stability Control (ESC),YES
+MARUTI,ERTIGA,Ertiga VXi (O),Rear Camera,NO
+MARUTI,ERTIGA,Ertiga VXi (O),Anti-Theft Device,YES
+MARUTI,ERTIGA,Ertiga VXi (O),Speed Alert,YES
+MARUTI,ERTIGA,Ertiga VXi (O),Speed Sensing Auto Door Lock,YES
+MARUTI,ERTIGA,Ertiga VXi (O),ISOFIX Child Seat Mounts,YES
+MARUTI,ERTIGA,Ertiga VXi (O),Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+MARUTI,ERTIGA,Ertiga VXi (O),Hill Assist,YES
+MARUTI,ERTIGA,Ertiga VXi (O),Global NCAP Safety Rating,3 Star
+MARUTI,ERTIGA,Ertiga VXi (O),Global NCAP Child Safety Rating,3 Star
+MARUTI,ERTIGA,Ertiga VXi (O),Radio,YES
+MARUTI,ERTIGA,Ertiga VXi (O),Integrated 2DIN Audio,YES
+MARUTI,ERTIGA,Ertiga VXi (O),Bluetooth Connectivity,YES
+MARUTI,ERTIGA,Ertiga VXi (O),Touchscreen,NO
+MARUTI,ERTIGA,Ertiga VXi (O),Touchscreen Size,inch
+MARUTI,ERTIGA,Ertiga VXi (O),Android Auto,NO
+MARUTI,ERTIGA,Ertiga VXi (O),Apple CarPlay,NO
+MARUTI,ERTIGA,Ertiga VXi (O),No. of Speakers,4
+MARUTI,ERTIGA,Ertiga VXi (O),Usb Ports,YES
+MARUTI,ERTIGA,Ertiga VXi (O),Speakers,Front & Rear

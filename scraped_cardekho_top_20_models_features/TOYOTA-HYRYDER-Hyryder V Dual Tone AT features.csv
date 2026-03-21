@@ -1,0 +1,125 @@
+company,model,variant,feature_name,feature_details
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Engine Type,K15B
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Displacement,1462 cc
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Max Power,101.64bhp@6000rpm
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Max Torque,136.8Nm@4400rpm
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,No. of Cylinders,4
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Valves Per Cylinder,4
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Transmission Type,Automatic
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Gearbox,6-Speed
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Drive Type,FWD
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Fuel Type,Petrol
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Petrol Mileage ARAI,20.58 kmpl
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Petrol Fuel Tank Capacity,45 Litres
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Emission Norm Compliance,BS VI 2.0
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Top Speed,180 kmph
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Front Suspension,MacPherson Strut suspension
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Rear Suspension,Rear twist beam
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Steering Type,Electric
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Steering Column,Tilt & Telescopic
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Turning Radius,5.4 m
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Front Brake Type,Ventilated Disc
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Rear Brake Type,Solid Disc
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Alloy Wheel Size Front,17 Inch
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Alloy Wheel Size Rear,17 Inch
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Length,4365 mm
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Width,1795 mm
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Height,1645 mm
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Boot Space,373 Litres
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Seating Capacity,5
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Wheel Base,2600 mm
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Kerb Weight,1185-1215 kg
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Gross Weight,1675 kg
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,No. of Doors,5
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Reported Boot Space,373 Litres
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Power Steering,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Air Conditioner,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Heater,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Height Adjustable Driver Seat,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Ventilated Seats,NO
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Automatic Climate Control,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Air Quality Control,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Accessory Power Outlet,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Trunk Light,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Vanity Mirror,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Rear Reading Lamp,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Adjustable Headrest,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Rear Seat Centre Arm Rest,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Height Adjustable Front Seat Belts,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Rear AC Vents,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Cruise Control,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Parking Sensors,Rear
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Foldable Rear Seat,60:40 Split
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,KeyLess Entry,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Engine Start/Stop Button,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Paddle Shifters,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,USB Charger,Front & Rear
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Central Console Armrest,With Storage
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Tailgate Ajar Warning,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Gear Shift Indicator,NO
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Glove Box light,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Automatic Headlamps,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Follow Me Home Headlamps,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Tachometer,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Leather Wrapped Steering Wheel,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Glove Box,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Digital Cluster,Semi
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Digital Cluster Size,4.2 inch
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Upholstery,Fabric
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Adjustable Headlamps,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Rear Window Wiper,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Rear Window Washer,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Wheel Covers,NO
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Alloy Wheels,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Rear Spoiler,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Outside Rear View Mirror Turn Indicators,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Integrated Antenna,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Projector Headlamps,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Halogen Headlamps,NO
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Roof Rails,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Antenna,Shark Fin
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Sunroof,Panoramic
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Boot Opening,Manual
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Tyre Size,215/60 R17
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Tyre Type,"Radial, Tubeless"
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,LED DRLs,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,LED Headlamps,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,LED Taillights,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Anti-lock Braking System (ABS),YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Central Locking,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Child Safety Locks,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,No. of Airbags,6
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Driver Airbag,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Passenger Airbag,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Side Airbag,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Day & Night Rear View Mirror,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Curtain Airbag,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Electronic Brakeforce Distribution (EBD),YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Seat Belt Warning,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Door Ajar Warning,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Tyre Pressure Monitoring System (TPMS),YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Engine Immobilizer,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Electronic Stability Control (ESC),YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Rear Camera,With Guidedlines
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Speed Alert,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Speed Sensing Auto Door Lock,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,ISOFIX Child Seat Mounts,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Heads-Up Display (HUD),NO
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Hill Descent Control,NO
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Hill Assist,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Impact Sensing Auto Door Unlock,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,360 View Camera,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Radio,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Integrated 2DIN Audio,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Wireless Phone Charging,NO
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Bluetooth Connectivity,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Touchscreen,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Touchscreen Size,9 inch
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Connectivity,"Android Auto, Apple CarPlay"
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Android Auto,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Apple CarPlay,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,No. of Speakers,4
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Usb Ports,YES
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Tweeters,2
+TOYOTA,HYRYDER,Hyryder V Dual Tone AT,Speakers,Front & Rear

@@ -1,0 +1,82 @@
+date,company,model,monthly_sales,total_sales
+Jan-20,Fiat,COMPASS,701.0,701.0
+Jan-20,Ford,Figo,13.0,13.0
+Jan-20,Ford,FREESTYLE,331.0,331.0
+Jan-20,Ford,Aspire,518.0,518.0
+Jan-20,Ford,Ecosport,3.9K,3.9K
+Jan-20,Ford,Endeavour,167.0,167.0
+Jan-20,Honda,Amaze,3.2K,3.2K
+Jan-20,Honda,Jazz,46.0,46.0
+Jan-20,Honda,City,1.7K,1.7K
+Jan-20,Honda,WRV,116.0,116.0
+Jan-20,Honda,Civic,146.0,146.0
+Jan-20,Honda,BR-V,60.0,60.0
+Jan-20,Honda,CR-V,37.0,37.0
+Jan-20,Hyundai,Santro,3.7K,3.7K
+Jan-20,Hyundai,Grand i10,8.8K,8.8K
+Jan-20,Hyundai,i20 Elite,8.1K,8.1K
+Jan-20,Hyundai,Xcent/Aura,6.7K,6.7K
+Jan-20,Hyundai,Venue,6.7K,6.7K
+Jan-20,Hyundai,Creta,6.9K,6.9K
+Jan-20,Hyundai,Verna,957.0,957.0
+Jan-20,Hyundai,Elantra,63.0,63.0
+Jan-20,Hyundai,Tucson,37.0,37.0
+Jan-20,Hyundai,KONA,39.0,39.0
+Jan-20,Kia,SELTOS,15.0K,15.0K
+Jan-20,Kia,CARNIVAL,450.0,450.0
+Jan-20,Mahindra,Verito,100.0,100.0
+Jan-20,Mahindra,KUV 100,59.0,59.0
+Jan-20,Mahindra,Bolero,7.2K,7.2K
+Jan-20,Mahindra,XUV 300,3.4K,3.4K
+Jan-20,Mahindra,Marazzo,1.3K,1.3K
+Jan-20,Mahindra,Alturas G4,68.0,68.0
+Jan-20,Mahindra,Xylo,48.0,48.0
+Jan-20,Mahindra,Scorpio,5.3K,5.3K
+Jan-20,Mahindra,TUV 300,649.0,649.0
+Jan-20,Mahindra,XUV 500,1.5K,1.5K
+Jan-20,Maruti,Alto,18.9K,18.9K
+Jan-20,Maruti,Eeco,12.3K,12.3K
+Jan-20,Maruti,S Presso,7.0K,7.0K
+Jan-20,Maruti,Wagon R,15.2K,15.2K
+Jan-20,Maruti,Ertiga,5.0K,5.0K
+Jan-20,Maruti,XL6,770.0,770.0
+Jan-20,Maruti,CELERIO,6.2K,6.2K
+Jan-20,Maruti,Vitara Brezza,10.1K,10.1K
+Jan-20,Maruti,Swift,20.0K,20.0K
+Jan-20,Maruti,Baleno,20.5K,20.5K
+Jan-20,Maruti,DZIRE,22.4K,22.4K
+Jan-20,Maruti,S-Cross,558.0,558.0
+Jan-20,Maruti,Ciaz,835.0,835.0
+Jan-20,Maruti,Gypsy,1.0,1.0
+Jan-20,Morris Garage,Hector,3.1K,3.1K
+Jan-20,Nissan,Micra,39.0,39.0
+Jan-20,Nissan,Sunny,39.0,39.0
+Jan-20,Nissan,Redi-GO,1.0K,1.0K
+Jan-20,Nissan,GO,88.0,88.0
+Jan-20,Nissan,GO+,55.0,55.0
+Jan-20,Nissan,KICKS,172.0,172.0
+Jan-20,Renault,KWID,3.3K,3.3K
+Jan-20,Renault,TRIBER,4.1K,4.1K
+Jan-20,Renault,Duster,405.0,405.0
+Jan-20,Skoda,Octavia,207.0,207.0
+Jan-20,Skoda,Rapid,815.0,815.0
+Jan-20,Skoda,KODIAQ,189.0,189.0
+Jan-20,Skoda,SUPERB,136.0,136.0
+Jan-20,Tata,Tiago,4.3K,4.3K
+Jan-20,Tata,Bolt,14.0,14.0
+Jan-20,Tata,Zest,24.0,24.0
+Jan-20,Tata,ALTROZ,4.5K,4.5K
+Jan-20,Tata,TIGOR,891.0,891.0
+Jan-20,Tata,NEXON,3.4K,3.4K
+Jan-20,Tata,HEXA,46.0,46.0
+Jan-20,Tata,HARRIER,719.0,719.0
+Jan-20,Toyota,Innova + Hycross,2.6K,2.6K
+Jan-20,Toyota,YARIS,725.0,725.0
+Jan-20,Toyota,GLANZA,2.2K,2.2K
+Jan-20,Toyota,Fortuner,228.0,228.0
+Jan-20,Toyota,Camry,85.0,85.0
+Jan-20,Volkswagen,Polo,632.0,632.0
+Jan-20,Volkswagen,AMEO,134.0,134.0
+Jan-20,Volkswagen,Vento,250.0,250.0
+Jan-20,Volkswagen,TIGUAN,86.0,86.0
+Jan-20,Grand Total,Grand Total,2.6L,2.6L

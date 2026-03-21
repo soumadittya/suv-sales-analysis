@@ -1,0 +1,126 @@
+company,model,variant,feature_name,feature_details
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Engine Type,M15D-FXE
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Displacement,1490 cc
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Max Power,91.18bhp@5500rpm
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Max Torque,122Nm@4400-4800rpm
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,No. of Cylinders,3
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Valves Per Cylinder,4
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Transmission Type,Automatic
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Gearbox,5-Speed
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Drive Type,FWD
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Fuel Type,Petrol
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Petrol Mileage ARAI,27.97 kmpl
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Petrol Fuel Tank Capacity,45 Litres
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Secondary Fuel Type,Electric
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Emission Norm Compliance,BS VI 2.0
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Top Speed,180 kmph
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Front Suspension,MacPherson Strut suspension
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Rear Suspension,Rear twist beam
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Steering Type,Electric
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Steering Column,Tilt & Telescopic
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Turning Radius,5.4 m
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Front Brake Type,Ventilated Disc
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Rear Brake Type,Solid Disc
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Alloy Wheel Size Front,17 Inch
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Alloy Wheel Size Rear,17 Inch
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Length,4365 mm
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Width,1795 mm
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Height,1645 mm
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Boot Space,273 Litres
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Seating Capacity,5
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Wheel Base,2600 mm
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Kerb Weight,1265-1295 kg
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Gross Weight,1755 kg
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,No. of Doors,5
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Reported Boot Space,373 Litres
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Power Steering,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Air Conditioner,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Heater,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Height Adjustable Driver Seat,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Ventilated Seats,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Automatic Climate Control,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Air Quality Control,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Accessory Power Outlet,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Trunk Light,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Vanity Mirror,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Rear Reading Lamp,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Adjustable Headrest,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Rear Seat Centre Arm Rest,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Height Adjustable Front Seat Belts,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Rear AC Vents,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Cruise Control,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Parking Sensors,Rear
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Foldable Rear Seat,60:40 Split
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,KeyLess Entry,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Engine Start/Stop Button,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Paddle Shifters,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,USB Charger,Front & Rear
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Central Console Armrest,With Storage
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Tailgate Ajar Warning,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Gear Shift Indicator,NO
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Glove Box light,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Automatic Headlamps,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Follow Me Home Headlamps,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Tachometer,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Leather Wrapped Steering Wheel,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Glove Box,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Digital Cluster,Full
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Digital Cluster Size,7 Inch
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Upholstery,Fabric
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Adjustable Headlamps,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Rear Window Wiper,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Rear Window Washer,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Wheel Covers,NO
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Alloy Wheels,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Rear Spoiler,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Outside Rear View Mirror Turn Indicators,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Integrated Antenna,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Projector Headlamps,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Halogen Headlamps,NO
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Roof Rails,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Antenna,Shark Fin
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Sunroof,Panoramic
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Boot Opening,Manual
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Tyre Size,215/60 R17
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Tyre Type,"Radial, Tubeless"
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,LED DRLs,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,LED Headlamps,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,LED Taillights,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Anti-lock Braking System (ABS),YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Central Locking,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Child Safety Locks,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,No. of Airbags,6
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Driver Airbag,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Passenger Airbag,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Side Airbag,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Day & Night Rear View Mirror,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Curtain Airbag,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Electronic Brakeforce Distribution (EBD),YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Seat Belt Warning,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Door Ajar Warning,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Tyre Pressure Monitoring System (TPMS),YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Engine Immobilizer,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Electronic Stability Control (ESC),YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Rear Camera,With Guidedlines
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Speed Alert,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Speed Sensing Auto Door Lock,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,ISOFIX Child Seat Mounts,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Heads-Up Display (HUD),YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Hill Descent Control,NO
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Hill Assist,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Impact Sensing Auto Door Unlock,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,360 View Camera,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Radio,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Integrated 2DIN Audio,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Wireless Phone Charging,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Bluetooth Connectivity,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Touchscreen,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Touchscreen Size,9 inch
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Connectivity,"Android Auto, Apple CarPlay"
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Android Auto,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Apple CarPlay,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,No. of Speakers,4
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Usb Ports,YES
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Tweeters,2
+TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,Speakers,Front & Rear

@@ -1,0 +1,138 @@
+company,model,variant,feature_name,feature_details
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Engine Type,Turbo with CRDe
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Displacement,1498 cc
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Max Power,115.05bhp@3750rpm
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Max Torque,300Nm@1500-2500rpm
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,No. of Cylinders,4
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Valves Per Cylinder,4
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Turbo Charger,YES
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Transmission Type,Manual
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Gearbox,6-Speed
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Drive Type,FWD
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Fuel Type,Diesel
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Diesel Fuel Tank Capacity,42 Litres
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Diesel Highway Mileage,20.6 kmpl
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Emission Norm Compliance,BS VI 2.0
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Front Suspension,MacPherson Strut suspension
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Rear Suspension,Rear twist beam
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Steering Type,Electric
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Turning Radius,5.3 m
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Front Brake Type,Disc
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Rear Brake Type,Disc
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Length,3990 mm
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Width,1821 mm
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Height,1647 mm
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Boot Space,364 Litres
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Seating Capacity,5
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Wheel Base,2600 mm
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,No. of Doors,5
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Power Steering,YES
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Air Conditioner,YES
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Heater,YES
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Height Adjustable Driver Seat,NO
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Ventilated Seats,NO
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Electric Adjustable Seats,NO
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Automatic Climate Control,NO
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Accessory Power Outlet,YES
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Rear Reading Lamp,YES
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Adjustable Headrest,YES
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Rear Seat Centre Arm Rest,NO
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Height Adjustable Front Seat Belts,YES
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Rear AC Vents,YES
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Cruise Control,NO
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Parking Sensors,Rear
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Real-Time Vehicle Tracking,NO
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Foldable Rear Seat,60:40 Split
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,KeyLess Entry,YES
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Engine Start/Stop Button,NO
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Cooled Glovebox,NO
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Paddle Shifters,NO
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,USB Charger,Front & Rear
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Central Console Armrest,With Storage
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Hands-Free Tailgate,NO
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Rear Curtain,NO
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Glove Box light,NO
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Idle Start-Stop System,YES
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Rear Window Sunblind,NO
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Rear Windscreen Sunblind,NO
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Automatic Headlamps,NO
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Follow Me Home Headlamps,YES
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Power Windows,Front & Rear
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Tachometer,YES
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Leather Wrapped Steering Wheel,NO
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Leather wrap gear-shift selector,NO
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Glove Box,YES
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Cigarette Lighter,NO
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Folding Table in The Rear,NO
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Digital Cluster,NO
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Digital Cluster Size,NO
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Upholstery,Fabric
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Adjustable Headlamps,YES
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Headlamp Washers,NO
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Rear Window Wiper,NO
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Rear Window Washer,NO
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Rear Window Defogger,NO
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Wheel Covers,NO
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Alloy Wheels,NO
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Rear Spoiler,NO
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Side Stepper,NO
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Outside Rear View Mirror Turn Indicators,YES
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Integrated Antenna,YES
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Projector Headlamps,YES
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Halogen Headlamps,YES
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Cornering Foglamps,NO
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Roof Rails,NO
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Fog Lights,NO
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Convertible Top,NO
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Sunroof,NO
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Boot Opening,Electronic
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Heated Outside Rear View Mirror,NO
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Outside Rear View Mirror (ORVM),Powered
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Tyre Size,205/65 R16
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Tyre Type,"Tubeless,Radial"
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Wheel Size,16 Inch
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,LED DRLs,NO
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,LED Headlamps,NO
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,LED Taillights,YES
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,LED Fog Lamps,NO
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Additional Features,Electronic Trumpet Horn
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Anti-lock Braking System (ABS),YES
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Central Locking,YES
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Child Safety Locks,YES
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,No. of Airbags,6
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Driver Airbag,YES
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Passenger Airbag,YES
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Side Airbag,YES
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Side Airbag-Rear,NO
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Day & Night Rear View Mirror,YES
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Xenon Headlamps,NO
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Curtain Airbag,YES
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Electronic Brakeforce Distribution (EBD),YES
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Seat Belt Warning,YES
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Door Ajar Warning,YES
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Tyre Pressure Monitoring System (TPMS),NO
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Engine Immobilizer,YES
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Electronic Stability Control (ESC),YES
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Rear Camera,NO
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Speed Alert,YES
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Speed Sensing Auto Door Lock,YES
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Knee Airbags,NO
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,ISOFIX Child Seat Mounts,YES
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Heads-Up Display (HUD),NO
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,360 View Camera,NO
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Global NCAP Safety Rating,5 Star
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Global NCAP Child Safety Rating,5 Star
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Bharat NCAP Safety Rating,5 Star
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Bharat NCAP Child Safety Rating,5 Star
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Radio,YES
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Integrated 2DIN Audio,YES
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Wireless Phone Charging,NO
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Bluetooth Connectivity,YES
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Touchscreen,YES
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Touchscreen Size,10.25 inch
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Android Auto,NO
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Apple CarPlay,NO
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,No. of Speakers,4
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Usb Ports,YES
+mahindra,xuv-3xo,XUV 3XO MX2 diesel,Speakers,Front & Rear

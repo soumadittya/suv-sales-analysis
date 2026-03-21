@@ -1,0 +1,152 @@
+company,model,variant,feature_name,feature_details
+KIA,SONET,Sonet HTK,Engine Type,Smartstream G1.2
+KIA,SONET,Sonet HTK,Displacement,1197 cc
+KIA,SONET,Sonet HTK,Max Power,81.8bhp@6000rpm
+KIA,SONET,Sonet HTK,Max Torque,115Nm@4200rpm
+KIA,SONET,Sonet HTK,No. of Cylinders,4
+KIA,SONET,Sonet HTK,Valves Per Cylinder,4
+KIA,SONET,Sonet HTK,Fuel Supply System,MPi
+KIA,SONET,Sonet HTK,Turbo Charger,NO
+KIA,SONET,Sonet HTK,Transmission Type,Manual
+KIA,SONET,Sonet HTK,Gearbox,5-Speed
+KIA,SONET,Sonet HTK,Drive Type,FWD
+KIA,SONET,Sonet HTK,Fuel Type,Petrol
+KIA,SONET,Sonet HTK,Petrol Mileage ARAI,18.4 kmpl
+KIA,SONET,Sonet HTK,Petrol Fuel Tank Capacity,45 Litres
+KIA,SONET,Sonet HTK,Emission Norm Compliance,BS VI 2.0
+KIA,SONET,Sonet HTK,Front Suspension,MacPherson Strut suspension
+KIA,SONET,Sonet HTK,Rear Suspension,Rear twist beam
+KIA,SONET,Sonet HTK,Steering Type,Electric
+KIA,SONET,Sonet HTK,Steering Column,Tilt
+KIA,SONET,Sonet HTK,Front Brake Type,Disc
+KIA,SONET,Sonet HTK,Rear Brake Type,Drum
+KIA,SONET,Sonet HTK,Length,3995 mm
+KIA,SONET,Sonet HTK,Width,1790 mm
+KIA,SONET,Sonet HTK,Height,1642 mm
+KIA,SONET,Sonet HTK,Boot Space,385 Litres
+KIA,SONET,Sonet HTK,Seating Capacity,5
+KIA,SONET,Sonet HTK,Wheel Base,2500 mm
+KIA,SONET,Sonet HTK,No. of Doors,5
+KIA,SONET,Sonet HTK,Power Steering,YES
+KIA,SONET,Sonet HTK,Air Conditioner,YES
+KIA,SONET,Sonet HTK,Heater,YES
+KIA,SONET,Sonet HTK,Adjustable Steering,Height only
+KIA,SONET,Sonet HTK,Height Adjustable Driver Seat,YES
+KIA,SONET,Sonet HTK,Ventilated Seats,NO
+KIA,SONET,Sonet HTK,Electric Adjustable Seats,NO
+KIA,SONET,Sonet HTK,Automatic Climate Control,NO
+KIA,SONET,Sonet HTK,Air Quality Control,NO
+KIA,SONET,Sonet HTK,Accessory Power Outlet,YES
+KIA,SONET,Sonet HTK,Vanity Mirror,YES
+KIA,SONET,Sonet HTK,Rear Reading Lamp,YES
+KIA,SONET,Sonet HTK,Rear Seat Headrest,Integrated
+KIA,SONET,Sonet HTK,Adjustable Headrest,YES
+KIA,SONET,Sonet HTK,Rear Seat Centre Arm Rest,NO
+KIA,SONET,Sonet HTK,Rear AC Vents,YES
+KIA,SONET,Sonet HTK,Active noise cancellation,NO
+KIA,SONET,Sonet HTK,Cruise Control,NO
+KIA,SONET,Sonet HTK,Parking Sensors,Front & Rear
+KIA,SONET,Sonet HTK,Real-Time Vehicle Tracking,NO
+KIA,SONET,Sonet HTK,Foldable Rear Seat,Bench Folding
+KIA,SONET,Sonet HTK,KeyLess Entry,YES
+KIA,SONET,Sonet HTK,Engine Start/Stop Button,NO
+KIA,SONET,Sonet HTK,Voice Commands,YES
+KIA,SONET,Sonet HTK,Paddle Shifters,NO
+KIA,SONET,Sonet HTK,USB Charger,Front & Rear
+KIA,SONET,Sonet HTK,Central Console Armrest,With Storage
+KIA,SONET,Sonet HTK,Tailgate Ajar Warning,YES
+KIA,SONET,Sonet HTK,Hands-Free Tailgate,NO
+KIA,SONET,Sonet HTK,Gear Shift Indicator,YES
+KIA,SONET,Sonet HTK,Luggage Hook & Net,YES
+KIA,SONET,Sonet HTK,Battery Saver,YES
+KIA,SONET,Sonet HTK,Drive Modes,NO
+KIA,SONET,Sonet HTK,Idle Start-Stop System,YES
+KIA,SONET,Sonet HTK,Rear Window Sunblind,YES
+KIA,SONET,Sonet HTK,Automatic Headlamps,YES
+KIA,SONET,Sonet HTK,Follow Me Home Headlamps,YES
+KIA,SONET,Sonet HTK,Additional Features,Sunglass Holder
+KIA,SONET,Sonet HTK,Drive Mode Types,NO
+KIA,SONET,Sonet HTK,Power Windows,Front & Rear
+KIA,SONET,Sonet HTK,Cup Holders,Front Only
+KIA,SONET,Sonet HTK,Tachometer,YES
+KIA,SONET,Sonet HTK,Leather Wrapped Steering Wheel,NO
+KIA,SONET,Sonet HTK,Leather wrap gear-shift selector,NO
+KIA,SONET,Sonet HTK,Glove Box,YES
+KIA,SONET,Sonet HTK,Cigarette Lighter,NO
+KIA,SONET,Sonet HTK,Folding Table in The Rear,NO
+KIA,SONET,Sonet HTK,Dual Tone Dashboard,NO
+KIA,SONET,Sonet HTK,Digital Cluster,YES
+KIA,SONET,Sonet HTK,Digital Cluster Size,4.2
+KIA,SONET,Sonet HTK,Upholstery,Leatherette
+KIA,SONET,Sonet HTK,Adjustable Headlamps,YES
+KIA,SONET,Sonet HTK,Headlamp Washers,NO
+KIA,SONET,Sonet HTK,Rain Sensing Wiper,NO
+KIA,SONET,Sonet HTK,Rear Window Wiper,NO
+KIA,SONET,Sonet HTK,Rear Window Washer,NO
+KIA,SONET,Sonet HTK,Rear Window Defogger,NO
+KIA,SONET,Sonet HTK,Wheel Covers,YES
+KIA,SONET,Sonet HTK,Alloy Wheels,NO
+KIA,SONET,Sonet HTK,Tinted Glass,YES
+KIA,SONET,Sonet HTK,Rear Spoiler,NO
+KIA,SONET,Sonet HTK,Side Stepper,NO
+KIA,SONET,Sonet HTK,Outside Rear View Mirror Turn Indicators,NO
+KIA,SONET,Sonet HTK,Integrated Antenna,YES
+KIA,SONET,Sonet HTK,Chrome Grille,YES
+KIA,SONET,Sonet HTK,Smoke Headlamps,NO
+KIA,SONET,Sonet HTK,Roof Rails,YES
+KIA,SONET,Sonet HTK,Fog Lights,NO
+KIA,SONET,Sonet HTK,Antenna,Shark Fin
+KIA,SONET,Sonet HTK,Sunroof,NO
+KIA,SONET,Sonet HTK,Boot Opening,Electronic
+KIA,SONET,Sonet HTK,Heated Outside Rear View Mirror,NO
+KIA,SONET,Sonet HTK,Outside Rear View Mirror (ORVM),Powered
+KIA,SONET,Sonet HTK,Tyre Size,215/60 R16
+KIA,SONET,Sonet HTK,Tyre Type,Radial Tubeless
+KIA,SONET,Sonet HTK,Wheel Size,16 Inch
+KIA,SONET,Sonet HTK,LED DRLs,NO
+KIA,SONET,Sonet HTK,LED Headlamps,NO
+KIA,SONET,Sonet HTK,LED Taillights,YES
+KIA,SONET,Sonet HTK,LED Fog Lamps,NO
+KIA,SONET,Sonet HTK,Anti-lock Braking System (ABS),YES
+KIA,SONET,Sonet HTK,Brake Assist,YES
+KIA,SONET,Sonet HTK,Central Locking,YES
+KIA,SONET,Sonet HTK,Child Safety Locks,YES
+KIA,SONET,Sonet HTK,Anti-Theft Alarm,YES
+KIA,SONET,Sonet HTK,No. of Airbags,6
+KIA,SONET,Sonet HTK,Driver Airbag,YES
+KIA,SONET,Sonet HTK,Passenger Airbag,YES
+KIA,SONET,Sonet HTK,Side Airbag,YES
+KIA,SONET,Sonet HTK,Side Airbag-Rear,NO
+KIA,SONET,Sonet HTK,Day & Night Rear View Mirror,YES
+KIA,SONET,Sonet HTK,Curtain Airbag,YES
+KIA,SONET,Sonet HTK,Electronic Brakeforce Distribution (EBD),YES
+KIA,SONET,Sonet HTK,Seat Belt Warning,YES
+KIA,SONET,Sonet HTK,Door Ajar Warning,YES
+KIA,SONET,Sonet HTK,Traction Control,NO
+KIA,SONET,Sonet HTK,Tyre Pressure Monitoring System (TPMS),YES
+KIA,SONET,Sonet HTK,Engine Immobilizer,YES
+KIA,SONET,Sonet HTK,Electronic Stability Control (ESC),YES
+KIA,SONET,Sonet HTK,Rear Camera,With Guidedlines
+KIA,SONET,Sonet HTK,Speed Alert,YES
+KIA,SONET,Sonet HTK,Speed Sensing Auto Door Lock,YES
+KIA,SONET,Sonet HTK,Knee Airbags,NO
+KIA,SONET,Sonet HTK,ISOFIX Child Seat Mounts,YES
+KIA,SONET,Sonet HTK,Heads-Up Display (HUD),NO
+KIA,SONET,Sonet HTK,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+KIA,SONET,Sonet HTK,Hill Descent Control,YES
+KIA,SONET,Sonet HTK,Hill Assist,YES
+KIA,SONET,Sonet HTK,Impact Sensing Auto Door Unlock,YES
+KIA,SONET,Sonet HTK,360 View Camera,NO
+KIA,SONET,Sonet HTK,Radio,YES
+KIA,SONET,Sonet HTK,Wireless Phone Charging,NO
+KIA,SONET,Sonet HTK,Bluetooth Connectivity,YES
+KIA,SONET,Sonet HTK,Touchscreen,YES
+KIA,SONET,Sonet HTK,Touchscreen Size,8 inch
+KIA,SONET,Sonet HTK,Connectivity,"Android Auto, Apple CarPlay"
+KIA,SONET,Sonet HTK,Android Auto,YES
+KIA,SONET,Sonet HTK,Apple CarPlay,YES
+KIA,SONET,Sonet HTK,No. of Speakers,4
+KIA,SONET,Sonet HTK,Usb Ports,YES
+KIA,SONET,Sonet HTK,Tweeters,2
+KIA,SONET,Sonet HTK,Additional Features,Wireless Android Auto & Apple CarPlay
+KIA,SONET,Sonet HTK,Speakers,Front & Rear

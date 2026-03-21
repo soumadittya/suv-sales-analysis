@@ -1,0 +1,131 @@
+company,model,variant,feature_name,feature_details
+maruti,brezza,Brezza Vxi AT,Engine Type,K15C
+maruti,brezza,Brezza Vxi AT,Displacement,1462 cc
+maruti,brezza,Brezza Vxi AT,Max Power,101.64bhp@6000rpm
+maruti,brezza,Brezza Vxi AT,Max Torque,136.8Nm@4400rpm
+maruti,brezza,Brezza Vxi AT,No. of Cylinders,4
+maruti,brezza,Brezza Vxi AT,Valves Per Cylinder,4
+maruti,brezza,Brezza Vxi AT,Valve Configuration,DOHC
+maruti,brezza,Brezza Vxi AT,Transmission Type,Automatic
+maruti,brezza,Brezza Vxi AT,Gearbox,6-Speed
+maruti,brezza,Brezza Vxi AT,Drive Type,FWD
+maruti,brezza,Brezza Vxi AT,Fuel Type,Petrol
+maruti,brezza,Brezza Vxi AT,Petrol Mileage ARAI,19.8 kmpl
+maruti,brezza,Brezza Vxi AT,Petrol Fuel Tank Capacity,48 Litres
+maruti,brezza,Brezza Vxi AT,Petrol Highway Mileage,20.5 kmpl
+maruti,brezza,Brezza Vxi AT,Emission Norm Compliance,BS VI 2.0
+maruti,brezza,Brezza Vxi AT,Top Speed,159 kmph
+maruti,brezza,Brezza Vxi AT,Front Suspension,MacPherson Strut suspension
+maruti,brezza,Brezza Vxi AT,Rear Suspension,Rear twist beam
+maruti,brezza,Brezza Vxi AT,Steering Type,Electric
+maruti,brezza,Brezza Vxi AT,Steering Column,Tilt
+maruti,brezza,Brezza Vxi AT,Front Brake Type,Ventilated Disc
+maruti,brezza,Brezza Vxi AT,Rear Brake Type,Drum
+maruti,brezza,Brezza Vxi AT,Braking (100-0kmph),43.87 s
+maruti,brezza,Brezza Vxi AT,0-100Kmph (Tested),15.24 s
+maruti,brezza,Brezza Vxi AT,City driveability (20-80kmph),8.58 s
+maruti,brezza,Brezza Vxi AT,Braking (80-0 kmph),29.77 s
+maruti,brezza,Brezza Vxi AT,Length,3995 mm
+maruti,brezza,Brezza Vxi AT,Width,1790 mm
+maruti,brezza,Brezza Vxi AT,Height,1685 mm
+maruti,brezza,Brezza Vxi AT,Boot Space,328 Litres
+maruti,brezza,Brezza Vxi AT,Seating Capacity,5
+maruti,brezza,Brezza Vxi AT,Ground Clearance Unladen,198 mm
+maruti,brezza,Brezza Vxi AT,Wheel Base,2500 mm
+maruti,brezza,Brezza Vxi AT,No. of Doors,5
+maruti,brezza,Brezza Vxi AT,Power Steering,YES
+maruti,brezza,Brezza Vxi AT,Air Conditioner,YES
+maruti,brezza,Brezza Vxi AT,Heater,YES
+maruti,brezza,Brezza Vxi AT,Height Adjustable Driver Seat,YES
+maruti,brezza,Brezza Vxi AT,Automatic Climate Control,YES
+maruti,brezza,Brezza Vxi AT,Accessory Power Outlet,YES
+maruti,brezza,Brezza Vxi AT,Trunk Light,NO
+maruti,brezza,Brezza Vxi AT,Vanity Mirror,NO
+maruti,brezza,Brezza Vxi AT,Rear Reading Lamp,YES
+maruti,brezza,Brezza Vxi AT,Adjustable Headrest,YES
+maruti,brezza,Brezza Vxi AT,Rear Seat Centre Arm Rest,NO
+maruti,brezza,Brezza Vxi AT,Height Adjustable Front Seat Belts,YES
+maruti,brezza,Brezza Vxi AT,Rear AC Vents,YES
+maruti,brezza,Brezza Vxi AT,Cruise Control,NO
+maruti,brezza,Brezza Vxi AT,Parking Sensors,Rear
+maruti,brezza,Brezza Vxi AT,Foldable Rear Seat,60:40 Split
+maruti,brezza,Brezza Vxi AT,KeyLess Entry,YES
+maruti,brezza,Brezza Vxi AT,Engine Start/Stop Button,NO
+maruti,brezza,Brezza Vxi AT,Cooled Glovebox,NO
+maruti,brezza,Brezza Vxi AT,USB Charger,Front
+maruti,brezza,Brezza Vxi AT,Central Console Armrest,NO
+maruti,brezza,Brezza Vxi AT,Gear Shift Indicator,NO
+maruti,brezza,Brezza Vxi AT,Luggage Hook & Net,YES
+maruti,brezza,Brezza Vxi AT,Glove Box light,NO
+maruti,brezza,Brezza Vxi AT,Idle Start-Stop System,YES
+maruti,brezza,Brezza Vxi AT,Automatic Headlamps,NO
+maruti,brezza,Brezza Vxi AT,Follow Me Home Headlamps,NO
+maruti,brezza,Brezza Vxi AT,Power Windows,Front & Rear
+maruti,brezza,Brezza Vxi AT,Cup Holders,Front Only
+maruti,brezza,Brezza Vxi AT,Tachometer,YES
+maruti,brezza,Brezza Vxi AT,Leather Wrapped Steering Wheel,NO
+maruti,brezza,Brezza Vxi AT,Glove Box,YES
+maruti,brezza,Brezza Vxi AT,Digital Odometer,YES
+maruti,brezza,Brezza Vxi AT,Digital Cluster,Semi
+maruti,brezza,Brezza Vxi AT,Upholstery,Fabric
+maruti,brezza,Brezza Vxi AT,Rear Window Wiper,NO
+maruti,brezza,Brezza Vxi AT,Rear Window Washer,NO
+maruti,brezza,Brezza Vxi AT,Rear Window Defogger,YES
+maruti,brezza,Brezza Vxi AT,Wheel Covers,YES
+maruti,brezza,Brezza Vxi AT,Alloy Wheels,NO
+maruti,brezza,Brezza Vxi AT,Rear Spoiler,YES
+maruti,brezza,Brezza Vxi AT,Integrated Antenna,YES
+maruti,brezza,Brezza Vxi AT,Chrome Grille,YES
+maruti,brezza,Brezza Vxi AT,Projector Headlamps,YES
+maruti,brezza,Brezza Vxi AT,Halogen Headlamps,YES
+maruti,brezza,Brezza Vxi AT,Roof Rails,NO
+maruti,brezza,Brezza Vxi AT,Fog Lights,NO
+maruti,brezza,Brezza Vxi AT,Antenna,Shark Fin
+maruti,brezza,Brezza Vxi AT,Sunroof,NO
+maruti,brezza,Brezza Vxi AT,Boot Opening,Manual
+maruti,brezza,Brezza Vxi AT,Outside Rear View Mirror (ORVM),Powered
+maruti,brezza,Brezza Vxi AT,Tyre Size,215/60 R16
+maruti,brezza,Brezza Vxi AT,Tyre Type,"Tubeless, Radial"
+maruti,brezza,Brezza Vxi AT,LED DRLs,NO
+maruti,brezza,Brezza Vxi AT,LED Headlamps,NO
+maruti,brezza,Brezza Vxi AT,LED Taillights,YES
+maruti,brezza,Brezza Vxi AT,LED Fog Lamps,NO
+maruti,brezza,Brezza Vxi AT,Anti-lock Braking System (ABS),YES
+maruti,brezza,Brezza Vxi AT,Central Locking,YES
+maruti,brezza,Brezza Vxi AT,Anti-Theft Alarm,YES
+maruti,brezza,Brezza Vxi AT,No. of Airbags,6
+maruti,brezza,Brezza Vxi AT,Driver Airbag,YES
+maruti,brezza,Brezza Vxi AT,Passenger Airbag,YES
+maruti,brezza,Brezza Vxi AT,Side Airbag,YES
+maruti,brezza,Brezza Vxi AT,Side Airbag-Rear,NO
+maruti,brezza,Brezza Vxi AT,Day & Night Rear View Mirror,YES
+maruti,brezza,Brezza Vxi AT,Curtain Airbag,YES
+maruti,brezza,Brezza Vxi AT,Electronic Brakeforce Distribution (EBD),YES
+maruti,brezza,Brezza Vxi AT,Seat Belt Warning,YES
+maruti,brezza,Brezza Vxi AT,Door Ajar Warning,YES
+maruti,brezza,Brezza Vxi AT,Engine Immobilizer,YES
+maruti,brezza,Brezza Vxi AT,Electronic Stability Control (ESC),YES
+maruti,brezza,Brezza Vxi AT,Rear Camera,NO
+maruti,brezza,Brezza Vxi AT,Anti-Theft Device,YES
+maruti,brezza,Brezza Vxi AT,Speed Alert,YES
+maruti,brezza,Brezza Vxi AT,Speed Sensing Auto Door Lock,YES
+maruti,brezza,Brezza Vxi AT,ISOFIX Child Seat Mounts,YES
+maruti,brezza,Brezza Vxi AT,Heads-Up Display (HUD),NO
+maruti,brezza,Brezza Vxi AT,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+maruti,brezza,Brezza Vxi AT,Hill Assist,YES
+maruti,brezza,Brezza Vxi AT,Impact Sensing Auto Door Unlock,YES
+maruti,brezza,Brezza Vxi AT,360 View Camera,NO
+maruti,brezza,Brezza Vxi AT,Global NCAP Safety Rating,4 Star
+maruti,brezza,Brezza Vxi AT,Radio,YES
+maruti,brezza,Brezza Vxi AT,Integrated 2DIN Audio,YES
+maruti,brezza,Brezza Vxi AT,Wireless Phone Charging,NO
+maruti,brezza,Brezza Vxi AT,Bluetooth Connectivity,YES
+maruti,brezza,Brezza Vxi AT,Touchscreen,YES
+maruti,brezza,Brezza Vxi AT,Touchscreen Size,7 inch
+maruti,brezza,Brezza Vxi AT,Connectivity,"Android Auto, Apple CarPlay"
+maruti,brezza,Brezza Vxi AT,Android Auto,YES
+maruti,brezza,Brezza Vxi AT,Apple CarPlay,YES
+maruti,brezza,Brezza Vxi AT,No. of Speakers,4
+maruti,brezza,Brezza Vxi AT,Usb Ports,YES
+maruti,brezza,Brezza Vxi AT,Additional Features,SmartPlay Studio
+maruti,brezza,Brezza Vxi AT,Speakers,Front & Rear

@@ -1,0 +1,135 @@
+company,model,variant,feature_name,feature_details
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Engine Type,K15C With Mild Hybrid System
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Displacement,1462 cc
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Max Power,101.64bhp@6000rpm
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Max Torque,139Nm@4300rpm
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,No. of Cylinders,4
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Valves Per Cylinder,4
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Transmission Type,Manual
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Gearbox,5-Speed
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Drive Type,FWD
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Fuel Type,Petrol
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Petrol Mileage ARAI,21.11 kmpl
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Petrol Fuel Tank Capacity,45 Litres
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Emission Norm Compliance,BS VI 2.0
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Top Speed,135 kmph
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Front Suspension,MacPherson Strut suspension
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Rear Suspension,Rear twist beam
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Steering Type,Electric
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Steering Column,Tilt & Telescopic
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Steering Gear Type,Rack & Pinion
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Turning Radius,5.4 m
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Front Brake Type,Disc
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Rear Brake Type,Disc
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Alloy Wheel Size Front,17 Inch
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Alloy Wheel Size Rear,17 Inch
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Length,4345 mm
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Width,1795 mm
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Height,1645 mm
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Boot Space,373 Litres
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Seating Capacity,5
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Ground Clearance Unladen,210 mm
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Wheel Base,2600 mm
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Kerb Weight,1150-1185 kg
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Gross Weight,1645 kg
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,No. of Doors,5
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Power Steering,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Air Conditioner,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Heater,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Height Adjustable Driver Seat,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Ventilated Seats,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Automatic Climate Control,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Accessory Power Outlet,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Trunk Light,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Vanity Mirror,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Rear Reading Lamp,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Adjustable Headrest,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Rear Seat Centre Arm Rest,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Height Adjustable Front Seat Belts,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Rear AC Vents,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Cruise Control,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Parking Sensors,Rear
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Real-Time Vehicle Tracking,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Foldable Rear Seat,60:40 Split
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,KeyLess Entry,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Engine Start/Stop Button,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Voice Commands,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Paddle Shifters,NO
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,USB Charger,Rear
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Central Console Armrest,With Storage
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Gear Shift Indicator,NO
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Glove Box light,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Idle Start-Stop System,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Automatic Headlamps,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Follow Me Home Headlamps,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Additional Features,Sunglass Holder
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Tachometer,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Glove Box,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Digital Odometer,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Dual Tone Dashboard,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Digital Cluster,Semi
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Digital Cluster Size,7
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Upholstery,Leatherette
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Adjustable Headlamps,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Rear Window Wiper,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Rear Window Washer,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Wheel Covers,NO
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Alloy Wheels,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Rear Spoiler,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Outside Rear View Mirror Turn Indicators,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Integrated Antenna,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Projector Headlamps,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Halogen Headlamps,NO
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Roof Rails,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Antenna,Shark Fin
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Sunroof,Panoramic
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Boot Opening,Manual
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Puddle Lamps,NO
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Tyre Size,215/60 R17
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Tyre Type,"Tubeless, Radial"
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,LED DRLs,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,LED Headlamps,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,LED Taillights,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Anti-lock Braking System (ABS),YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Brake Assist,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Central Locking,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Child Safety Locks,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Anti-Theft Alarm,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,No. of Airbags,6
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Driver Airbag,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Passenger Airbag,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Side Airbag,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Side Airbag-Rear,NO
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Day & Night Rear View Mirror,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Curtain Airbag,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Electronic Brakeforce Distribution (EBD),YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Seat Belt Warning,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Door Ajar Warning,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Tyre Pressure Monitoring System (TPMS),NO
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Engine Immobilizer,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Electronic Stability Control (ESC),YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Rear Camera,With Guidedlines
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Anti-Theft Device,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Speed Alert,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Speed Sensing Auto Door Lock,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,ISOFIX Child Seat Mounts,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Heads-Up Display (HUD),NO
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Hill Descent Control,NO
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Hill Assist,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Impact Sensing Auto Door Unlock,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,360 View Camera,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Radio,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Integrated 2DIN Audio,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Wireless Phone Charging,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Bluetooth Connectivity,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Touchscreen,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Touchscreen Size,9 inch
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Connectivity,"Android Auto, Apple CarPlay"
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Android Auto,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Apple CarPlay,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,No. of Speakers,4
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Usb Ports,YES
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Tweeters,2
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Additional Features,"SmartPlay Pro+, Arkamys Sound Tuning"
+MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,Speakers,Front & Rear

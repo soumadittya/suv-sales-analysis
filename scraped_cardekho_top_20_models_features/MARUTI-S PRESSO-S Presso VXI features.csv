@@ -1,0 +1,74 @@
+company,model,variant,feature_name,feature_details
+MARUTI,S PRESSO,S-Presso VXI,Engine Type,K10C
+MARUTI,S PRESSO,S-Presso VXI,Displacement,998 cc
+MARUTI,S PRESSO,S-Presso VXI,Max Power,65.71bhp@5500rpm
+MARUTI,S PRESSO,S-Presso VXI,Max Torque,89Nm@3500rpm
+MARUTI,S PRESSO,S-Presso VXI,No. of Cylinders,3
+MARUTI,S PRESSO,S-Presso VXI,Valves Per Cylinder,4
+MARUTI,S PRESSO,S-Presso VXI,Transmission Type,Manual
+MARUTI,S PRESSO,S-Presso VXI,Gearbox,5-Speed
+MARUTI,S PRESSO,S-Presso VXI,Drive Type,FWD
+MARUTI,S PRESSO,S-Presso VXI,Fuel Type,Petrol
+MARUTI,S PRESSO,S-Presso VXI,Petrol Mileage ARAI,24.76 kmpl
+MARUTI,S PRESSO,S-Presso VXI,Petrol Fuel Tank Capacity,27 Litres
+MARUTI,S PRESSO,S-Presso VXI,Emission Norm Compliance,BS VI 2.0
+MARUTI,S PRESSO,S-Presso VXI,Top Speed,148 kmph
+MARUTI,S PRESSO,S-Presso VXI,Front Suspension,MacPherson Strut suspension
+MARUTI,S PRESSO,S-Presso VXI,Rear Suspension,Rear twist beam
+MARUTI,S PRESSO,S-Presso VXI,Turning Radius,4.5 m
+MARUTI,S PRESSO,S-Presso VXI,Front Brake Type,Ventilated Disc
+MARUTI,S PRESSO,S-Presso VXI,Rear Brake Type,Drum
+MARUTI,S PRESSO,S-Presso VXI,Length,3565 mm
+MARUTI,S PRESSO,S-Presso VXI,Width,1520 mm
+MARUTI,S PRESSO,S-Presso VXI,Height,1567 mm
+MARUTI,S PRESSO,S-Presso VXI,Boot Space,240 Litres
+MARUTI,S PRESSO,S-Presso VXI,Seating Capacity,5
+MARUTI,S PRESSO,S-Presso VXI,Wheel Base,2380 mm
+MARUTI,S PRESSO,S-Presso VXI,Kerb Weight,736-775 kg
+MARUTI,S PRESSO,S-Presso VXI,Gross Weight,1170 kg
+MARUTI,S PRESSO,S-Presso VXI,No. of Doors,5
+MARUTI,S PRESSO,S-Presso VXI,Power Steering,YES
+MARUTI,S PRESSO,S-Presso VXI,Air Conditioner,YES
+MARUTI,S PRESSO,S-Presso VXI,Heater,YES
+MARUTI,S PRESSO,S-Presso VXI,Accessory Power Outlet,YES
+MARUTI,S PRESSO,S-Presso VXI,Parking Sensors,Rear
+MARUTI,S PRESSO,S-Presso VXI,KeyLess Entry,YES
+MARUTI,S PRESSO,S-Presso VXI,Gear Shift Indicator,YES
+MARUTI,S PRESSO,S-Presso VXI,Idle Start-Stop System,YES
+MARUTI,S PRESSO,S-Presso VXI,Glove Box,YES
+MARUTI,S PRESSO,S-Presso VXI,Digital Cluster,YES
+MARUTI,S PRESSO,S-Presso VXI,Adjustable Headlamps,YES
+MARUTI,S PRESSO,S-Presso VXI,Wheel Covers,YES
+MARUTI,S PRESSO,S-Presso VXI,Integrated Antenna,YES
+MARUTI,S PRESSO,S-Presso VXI,Halogen Headlamps,YES
+MARUTI,S PRESSO,S-Presso VXI,Boot Opening,Manual
+MARUTI,S PRESSO,S-Presso VXI,Tyre Size,165/70 R14
+MARUTI,S PRESSO,S-Presso VXI,Tyre Type,"Tubeless, Radial"
+MARUTI,S PRESSO,S-Presso VXI,Wheel Size,14 Inch
+MARUTI,S PRESSO,S-Presso VXI,LED Taillights,YES
+MARUTI,S PRESSO,S-Presso VXI,Anti-lock Braking System (ABS),YES
+MARUTI,S PRESSO,S-Presso VXI,Central Locking,YES
+MARUTI,S PRESSO,S-Presso VXI,Child Safety Locks,YES
+MARUTI,S PRESSO,S-Presso VXI,No. of Airbags,2
+MARUTI,S PRESSO,S-Presso VXI,Driver Airbag,YES
+MARUTI,S PRESSO,S-Presso VXI,Passenger Airbag,YES
+MARUTI,S PRESSO,S-Presso VXI,Electronic Brakeforce Distribution (EBD),YES
+MARUTI,S PRESSO,S-Presso VXI,Seat Belt Warning,YES
+MARUTI,S PRESSO,S-Presso VXI,Door Ajar Warning,YES
+MARUTI,S PRESSO,S-Presso VXI,Engine Immobilizer,YES
+MARUTI,S PRESSO,S-Presso VXI,Electronic Stability Control (ESC),YES
+MARUTI,S PRESSO,S-Presso VXI,Speed Alert,YES
+MARUTI,S PRESSO,S-Presso VXI,Speed Sensing Auto Door Lock,YES
+MARUTI,S PRESSO,S-Presso VXI,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+MARUTI,S PRESSO,S-Presso VXI,Hill Assist,NO
+MARUTI,S PRESSO,S-Presso VXI,Global NCAP Safety Rating,1 Star
+MARUTI,S PRESSO,S-Presso VXI,Radio,YES
+MARUTI,S PRESSO,S-Presso VXI,Integrated 2DIN Audio,YES
+MARUTI,S PRESSO,S-Presso VXI,Bluetooth Connectivity,YES
+MARUTI,S PRESSO,S-Presso VXI,Touchscreen,NO
+MARUTI,S PRESSO,S-Presso VXI,Touchscreen Size,inch
+MARUTI,S PRESSO,S-Presso VXI,Android Auto,NO
+MARUTI,S PRESSO,S-Presso VXI,Apple CarPlay,NO
+MARUTI,S PRESSO,S-Presso VXI,No. of Speakers,2
+MARUTI,S PRESSO,S-Presso VXI,Rear Touchscreen,NO
+MARUTI,S PRESSO,S-Presso VXI,Additional Features,SmartPlay Dock

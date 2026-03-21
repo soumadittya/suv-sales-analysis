@@ -1,0 +1,133 @@
+company,model,variant,feature_name,feature_details
+HYUNDAI,CRETA,Creta E,Engine Type,1.5L MPi
+HYUNDAI,CRETA,Creta E,Displacement,1497 cc
+HYUNDAI,CRETA,Creta E,Max Power,113.18bhp@6300rpm
+HYUNDAI,CRETA,Creta E,Max Torque,143.8Nm@4500rpm
+HYUNDAI,CRETA,Creta E,No. of Cylinders,4
+HYUNDAI,CRETA,Creta E,Valves Per Cylinder,4
+HYUNDAI,CRETA,Creta E,Valve Configuration,DOHC
+HYUNDAI,CRETA,Creta E,Fuel Supply System,MPi
+HYUNDAI,CRETA,Creta E,Turbo Charger,NO
+HYUNDAI,CRETA,Creta E,Transmission Type,Manual
+HYUNDAI,CRETA,Creta E,Gearbox,6-Speed
+HYUNDAI,CRETA,Creta E,Drive Type,FWD
+HYUNDAI,CRETA,Creta E,Fuel Type,Petrol
+HYUNDAI,CRETA,Creta E,Petrol Mileage ARAI,17.4 kmpl
+HYUNDAI,CRETA,Creta E,Petrol Fuel Tank Capacity,50 Litres
+HYUNDAI,CRETA,Creta E,Emission Norm Compliance,BS VI 2.0
+HYUNDAI,CRETA,Creta E,Front Suspension,MacPherson Strut suspension
+HYUNDAI,CRETA,Creta E,Rear Suspension,Rear twist beam
+HYUNDAI,CRETA,Creta E,Steering Type,Electric
+HYUNDAI,CRETA,Creta E,Steering Column,Tilt & Telescopic
+HYUNDAI,CRETA,Creta E,Turning Radius,5.3 m
+HYUNDAI,CRETA,Creta E,Front Brake Type,Disc
+HYUNDAI,CRETA,Creta E,Rear Brake Type,Disc
+HYUNDAI,CRETA,Creta E,Length,4330 mm
+HYUNDAI,CRETA,Creta E,Width,1790 mm
+HYUNDAI,CRETA,Creta E,Height,1635 mm
+HYUNDAI,CRETA,Creta E,Seating Capacity,5
+HYUNDAI,CRETA,Creta E,Ground Clearance Unladen,190 mm
+HYUNDAI,CRETA,Creta E,Wheel Base,2610 mm
+HYUNDAI,CRETA,Creta E,Front Tread,1536 mm
+HYUNDAI,CRETA,Creta E,No. of Doors,5
+HYUNDAI,CRETA,Creta E,Reported Boot Space,433 Litres
+HYUNDAI,CRETA,Creta E,Power Steering,YES
+HYUNDAI,CRETA,Creta E,Air Conditioner,YES
+HYUNDAI,CRETA,Creta E,Heater,YES
+HYUNDAI,CRETA,Creta E,Height Adjustable Driver Seat,YES
+HYUNDAI,CRETA,Creta E,Ventilated Seats,NO
+HYUNDAI,CRETA,Creta E,Electric Adjustable Seats,NO
+HYUNDAI,CRETA,Creta E,Automatic Climate Control,NO
+HYUNDAI,CRETA,Creta E,Accessory Power Outlet,YES
+HYUNDAI,CRETA,Creta E,Trunk Light,NO
+HYUNDAI,CRETA,Creta E,Vanity Mirror,YES
+HYUNDAI,CRETA,Creta E,Rear Reading Lamp,NO
+HYUNDAI,CRETA,Creta E,Adjustable Headrest,YES
+HYUNDAI,CRETA,Creta E,Rear Seat Centre Arm Rest,YES
+HYUNDAI,CRETA,Creta E,Height Adjustable Front Seat Belts,YES
+HYUNDAI,CRETA,Creta E,Rear AC Vents,YES
+HYUNDAI,CRETA,Creta E,Cruise Control,NO
+HYUNDAI,CRETA,Creta E,Parking Sensors,Rear
+HYUNDAI,CRETA,Creta E,Foldable Rear Seat,60:40 Split
+HYUNDAI,CRETA,Creta E,KeyLess Entry,YES
+HYUNDAI,CRETA,Creta E,Engine Start/Stop Button,NO
+HYUNDAI,CRETA,Creta E,Cooled Glovebox,NO
+HYUNDAI,CRETA,Creta E,Voice Commands,NO
+HYUNDAI,CRETA,Creta E,Paddle Shifters,NO
+HYUNDAI,CRETA,Creta E,USB Charger,Front & Rear
+HYUNDAI,CRETA,Creta E,Central Console Armrest,With Storage
+HYUNDAI,CRETA,Creta E,Hands-Free Tailgate,NO
+HYUNDAI,CRETA,Creta E,Idle Start-Stop System,YES
+HYUNDAI,CRETA,Creta E,Rear Window Sunblind,NO
+HYUNDAI,CRETA,Creta E,Automatic Headlamps,NO
+HYUNDAI,CRETA,Creta E,Follow Me Home Headlamps,YES
+HYUNDAI,CRETA,Creta E,Additional Features,NO
+HYUNDAI,CRETA,Creta E,Voice assisted sunroof,NO
+HYUNDAI,CRETA,Creta E,Drive Mode Types,NA
+HYUNDAI,CRETA,Creta E,Power Windows,Front & Rear
+HYUNDAI,CRETA,Creta E,Tachometer,YES
+HYUNDAI,CRETA,Creta E,Glove Box,YES
+HYUNDAI,CRETA,Creta E,Digital Odometer,YES
+HYUNDAI,CRETA,Creta E,Dual Tone Dashboard,YES
+HYUNDAI,CRETA,Creta E,Digital Cluster,YES
+HYUNDAI,CRETA,Creta E,Upholstery,Fabric
+HYUNDAI,CRETA,Creta E,Rear Window Wiper,NO
+HYUNDAI,CRETA,Creta E,Rear Window Washer,NO
+HYUNDAI,CRETA,Creta E,Rear Window Defogger,NO
+HYUNDAI,CRETA,Creta E,Wheel Covers,YES
+HYUNDAI,CRETA,Creta E,Alloy Wheels,NO
+HYUNDAI,CRETA,Creta E,Rear Spoiler,YES
+HYUNDAI,CRETA,Creta E,Outside Rear View Mirror Turn Indicators,NO
+HYUNDAI,CRETA,Creta E,Integrated Antenna,YES
+HYUNDAI,CRETA,Creta E,Projector Headlamps,YES
+HYUNDAI,CRETA,Creta E,Roof Rails,NO
+HYUNDAI,CRETA,Creta E,Antenna,Micro Roof
+HYUNDAI,CRETA,Creta E,Sunroof,NO
+HYUNDAI,CRETA,Creta E,Boot Opening,Electronic
+HYUNDAI,CRETA,Creta E,Puddle Lamps,NO
+HYUNDAI,CRETA,Creta E,Tyre Size,205/65 R16
+HYUNDAI,CRETA,Creta E,Tyre Type,Radial Tubeless
+HYUNDAI,CRETA,Creta E,Wheel Size,16 Inch
+HYUNDAI,CRETA,Creta E,LED DRLs,NO
+HYUNDAI,CRETA,Creta E,LED Headlamps,YES
+HYUNDAI,CRETA,Creta E,LED Taillights,YES
+HYUNDAI,CRETA,Creta E,Anti-lock Braking System (ABS),YES
+HYUNDAI,CRETA,Creta E,Central Locking,YES
+HYUNDAI,CRETA,Creta E,Child Safety Locks,YES
+HYUNDAI,CRETA,Creta E,Anti-Theft Alarm,YES
+HYUNDAI,CRETA,Creta E,No. of Airbags,6
+HYUNDAI,CRETA,Creta E,Driver Airbag,YES
+HYUNDAI,CRETA,Creta E,Passenger Airbag,YES
+HYUNDAI,CRETA,Creta E,Side Airbag,YES
+HYUNDAI,CRETA,Creta E,Side Airbag-Rear,NO
+HYUNDAI,CRETA,Creta E,Day & Night Rear View Mirror,YES
+HYUNDAI,CRETA,Creta E,Curtain Airbag,YES
+HYUNDAI,CRETA,Creta E,Electronic Brakeforce Distribution (EBD),YES
+HYUNDAI,CRETA,Creta E,Seat Belt Warning,YES
+HYUNDAI,CRETA,Creta E,Door Ajar Warning,YES
+HYUNDAI,CRETA,Creta E,Traction Control,NO
+HYUNDAI,CRETA,Creta E,Tyre Pressure Monitoring System (TPMS),YES
+HYUNDAI,CRETA,Creta E,Engine Immobilizer,YES
+HYUNDAI,CRETA,Creta E,Electronic Stability Control (ESC),YES
+HYUNDAI,CRETA,Creta E,Rear Camera,NO
+HYUNDAI,CRETA,Creta E,Anti-Theft Device,YES
+HYUNDAI,CRETA,Creta E,Speed Alert,YES
+HYUNDAI,CRETA,Creta E,Speed Sensing Auto Door Lock,YES
+HYUNDAI,CRETA,Creta E,Knee Airbags,NO
+HYUNDAI,CRETA,Creta E,ISOFIX Child Seat Mounts,YES
+HYUNDAI,CRETA,Creta E,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+HYUNDAI,CRETA,Creta E,Hill Assist,YES
+HYUNDAI,CRETA,Creta E,Impact Sensing Auto Door Unlock,YES
+HYUNDAI,CRETA,Creta E,360 View Camera,NO
+HYUNDAI,CRETA,Creta E,Global NCAP Safety Rating,4 Star
+HYUNDAI,CRETA,Creta E,Global NCAP Child Safety Rating,3 Star
+HYUNDAI,CRETA,Creta E,Radio,NO
+HYUNDAI,CRETA,Creta E,Integrated 2DIN Audio,NO
+HYUNDAI,CRETA,Creta E,Wireless Phone Charging,NO
+HYUNDAI,CRETA,Creta E,Bluetooth Connectivity,NO
+HYUNDAI,CRETA,Creta E,Touchscreen,NO
+HYUNDAI,CRETA,Creta E,Android Auto,NO
+HYUNDAI,CRETA,Creta E,Apple CarPlay,NO
+HYUNDAI,CRETA,Creta E,Usb Ports,NO
+HYUNDAI,CRETA,Creta E,Inbuilt Apps,NO
+HYUNDAI,CRETA,Creta E,Speakers,NO

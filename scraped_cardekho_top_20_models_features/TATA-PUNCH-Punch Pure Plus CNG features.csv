@@ -1,0 +1,121 @@
+company,model,variant,feature_name,feature_details
+TATA,PUNCH,Punch Pure Plus CNG,Engine Type,1.2 l Revotron
+TATA,PUNCH,Punch Pure Plus CNG,Displacement,1199 cc
+TATA,PUNCH,Punch Pure Plus CNG,Max Power,72bhp@6000rpm
+TATA,PUNCH,Punch Pure Plus CNG,Max Torque,103Nm@3500rpm
+TATA,PUNCH,Punch Pure Plus CNG,No. of Cylinders,3
+TATA,PUNCH,Punch Pure Plus CNG,Valves Per Cylinder,4
+TATA,PUNCH,Punch Pure Plus CNG,Turbo Charger,NO
+TATA,PUNCH,Punch Pure Plus CNG,Transmission Type,Manual
+TATA,PUNCH,Punch Pure Plus CNG,Gearbox,5-Speed
+TATA,PUNCH,Punch Pure Plus CNG,Drive Type,FWD
+TATA,PUNCH,Punch Pure Plus CNG,Fuel Type,CNG
+TATA,PUNCH,Punch Pure Plus CNG,CNG Fuel Tank Capacity,60 Litres
+TATA,PUNCH,Punch Pure Plus CNG,Emission Norm Compliance,BS VI 2.0
+TATA,PUNCH,Punch Pure Plus CNG,Top Speed,150 kmph
+TATA,PUNCH,Punch Pure Plus CNG,Front Suspension,MacPherson Strut suspension
+TATA,PUNCH,Punch Pure Plus CNG,Rear Suspension,Rear twist beam
+TATA,PUNCH,Punch Pure Plus CNG,Steering Type,Electric
+TATA,PUNCH,Punch Pure Plus CNG,Steering Column,Tilt
+TATA,PUNCH,Punch Pure Plus CNG,Front Brake Type,Disc
+TATA,PUNCH,Punch Pure Plus CNG,Rear Brake Type,Drum
+TATA,PUNCH,Punch Pure Plus CNG,Length,3876 mm
+TATA,PUNCH,Punch Pure Plus CNG,Width,1742 mm
+TATA,PUNCH,Punch Pure Plus CNG,Height,1615 mm
+TATA,PUNCH,Punch Pure Plus CNG,Boot Space,210 Litres
+TATA,PUNCH,Punch Pure Plus CNG,Seating Capacity,5
+TATA,PUNCH,Punch Pure Plus CNG,Ground Clearance Unladen,193 mm
+TATA,PUNCH,Punch Pure Plus CNG,Wheel Base,2445 mm
+TATA,PUNCH,Punch Pure Plus CNG,No. of Doors,5
+TATA,PUNCH,Punch Pure Plus CNG,Power Steering,YES
+TATA,PUNCH,Punch Pure Plus CNG,Air Conditioner,YES
+TATA,PUNCH,Punch Pure Plus CNG,Heater,YES
+TATA,PUNCH,Punch Pure Plus CNG,Adjustable Steering,Height only
+TATA,PUNCH,Punch Pure Plus CNG,Height Adjustable Driver Seat,YES
+TATA,PUNCH,Punch Pure Plus CNG,Automatic Climate Control,NO
+TATA,PUNCH,Punch Pure Plus CNG,Air Quality Control,NO
+TATA,PUNCH,Punch Pure Plus CNG,Accessory Power Outlet,YES
+TATA,PUNCH,Punch Pure Plus CNG,Vanity Mirror,YES
+TATA,PUNCH,Punch Pure Plus CNG,Rear Seat Headrest,Integrated
+TATA,PUNCH,Punch Pure Plus CNG,Adjustable Headrest,YES
+TATA,PUNCH,Punch Pure Plus CNG,Rear Seat Centre Arm Rest,NO
+TATA,PUNCH,Punch Pure Plus CNG,Rear AC Vents,YES
+TATA,PUNCH,Punch Pure Plus CNG,Cruise Control,YES
+TATA,PUNCH,Punch Pure Plus CNG,Parking Sensors,Rear
+TATA,PUNCH,Punch Pure Plus CNG,Real-Time Vehicle Tracking,NO
+TATA,PUNCH,Punch Pure Plus CNG,KeyLess Entry,YES
+TATA,PUNCH,Punch Pure Plus CNG,Engine Start/Stop Button,NO
+TATA,PUNCH,Punch Pure Plus CNG,Cooled Glovebox,NO
+TATA,PUNCH,Punch Pure Plus CNG,Paddle Shifters,NO
+TATA,PUNCH,Punch Pure Plus CNG,USB Charger,Front & Rear
+TATA,PUNCH,Punch Pure Plus CNG,Central Console Armrest,YES
+TATA,PUNCH,Punch Pure Plus CNG,Drive Modes,2
+TATA,PUNCH,Punch Pure Plus CNG,Idle Start-Stop System,YES
+TATA,PUNCH,Punch Pure Plus CNG,Follow Me Home Headlamps,YES
+TATA,PUNCH,Punch Pure Plus CNG,Voice assisted sunroof,NO
+TATA,PUNCH,Punch Pure Plus CNG,Power Windows,Front & Rear
+TATA,PUNCH,Punch Pure Plus CNG,Tachometer,YES
+TATA,PUNCH,Punch Pure Plus CNG,Leather Wrapped Steering Wheel,NO
+TATA,PUNCH,Punch Pure Plus CNG,Leather wrap gear-shift selector,NO
+TATA,PUNCH,Punch Pure Plus CNG,Glove Box,YES
+TATA,PUNCH,Punch Pure Plus CNG,Digital Cluster,YES
+TATA,PUNCH,Punch Pure Plus CNG,Digital Cluster Size,4
+TATA,PUNCH,Punch Pure Plus CNG,Rain Sensing Wiper,NO
+TATA,PUNCH,Punch Pure Plus CNG,Rear Window Wiper,NO
+TATA,PUNCH,Punch Pure Plus CNG,Rear Window Washer,NO
+TATA,PUNCH,Punch Pure Plus CNG,Rear Window Defogger,YES
+TATA,PUNCH,Punch Pure Plus CNG,Wheel Covers,YES
+TATA,PUNCH,Punch Pure Plus CNG,Alloy Wheels,NO
+TATA,PUNCH,Punch Pure Plus CNG,Rear Spoiler,NO
+TATA,PUNCH,Punch Pure Plus CNG,Outside Rear View Mirror Turn Indicators,YES
+TATA,PUNCH,Punch Pure Plus CNG,Integrated Antenna,YES
+TATA,PUNCH,Punch Pure Plus CNG,Cornering Foglamps,NO
+TATA,PUNCH,Punch Pure Plus CNG,Roof Rails,NO
+TATA,PUNCH,Punch Pure Plus CNG,Automatic Headlamps,NO
+TATA,PUNCH,Punch Pure Plus CNG,Antenna,Shark Fin
+TATA,PUNCH,Punch Pure Plus CNG,Sunroof,NO
+TATA,PUNCH,Punch Pure Plus CNG,Puddle Lamps,NO
+TATA,PUNCH,Punch Pure Plus CNG,Outside Rear View Mirror (ORVM),Powered
+TATA,PUNCH,Punch Pure Plus CNG,Tyre Size,185/70 R15
+TATA,PUNCH,Punch Pure Plus CNG,Tyre Type,Radial Tubeless
+TATA,PUNCH,Punch Pure Plus CNG,Wheel Size,15 Inch
+TATA,PUNCH,Punch Pure Plus CNG,LED DRLs,NO
+TATA,PUNCH,Punch Pure Plus CNG,LED Headlamps,YES
+TATA,PUNCH,Punch Pure Plus CNG,LED Taillights,NO
+TATA,PUNCH,Punch Pure Plus CNG,LED Fog Lamps,NO
+TATA,PUNCH,Punch Pure Plus CNG,Anti-lock Braking System (ABS),YES
+TATA,PUNCH,Punch Pure Plus CNG,Central Locking,YES
+TATA,PUNCH,Punch Pure Plus CNG,Child Safety Locks,YES
+TATA,PUNCH,Punch Pure Plus CNG,No. of Airbags,6
+TATA,PUNCH,Punch Pure Plus CNG,Driver Airbag,YES
+TATA,PUNCH,Punch Pure Plus CNG,Passenger Airbag,YES
+TATA,PUNCH,Punch Pure Plus CNG,Side Airbag,YES
+TATA,PUNCH,Punch Pure Plus CNG,Day & Night Rear View Mirror,YES
+TATA,PUNCH,Punch Pure Plus CNG,Curtain Airbag,YES
+TATA,PUNCH,Punch Pure Plus CNG,Electronic Brakeforce Distribution (EBD),YES
+TATA,PUNCH,Punch Pure Plus CNG,Seat Belt Warning,YES
+TATA,PUNCH,Punch Pure Plus CNG,Door Ajar Warning,YES
+TATA,PUNCH,Punch Pure Plus CNG,Tyre Pressure Monitoring System (TPMS),YES
+TATA,PUNCH,Punch Pure Plus CNG,Engine Immobilizer,YES
+TATA,PUNCH,Punch Pure Plus CNG,Electronic Stability Control (ESC),YES
+TATA,PUNCH,Punch Pure Plus CNG,Rear Camera,With Guidedlines
+TATA,PUNCH,Punch Pure Plus CNG,Speed Alert,YES
+TATA,PUNCH,Punch Pure Plus CNG,Speed Sensing Auto Door Lock,YES
+TATA,PUNCH,Punch Pure Plus CNG,ISOFIX Child Seat Mounts,YES
+TATA,PUNCH,Punch Pure Plus CNG,Pretensioners & Force Limiter Seatbelts,Driver and Passenger
+TATA,PUNCH,Punch Pure Plus CNG,Hill Descent Control,NO
+TATA,PUNCH,Punch Pure Plus CNG,Hill Assist,YES
+TATA,PUNCH,Punch Pure Plus CNG,360 View Camera,NO
+TATA,PUNCH,Punch Pure Plus CNG,Bharat NCAP Safety Rating,5 Star
+TATA,PUNCH,Punch Pure Plus CNG,Bharat NCAP Child Safety Rating,5 Star
+TATA,PUNCH,Punch Pure Plus CNG,Radio,YES
+TATA,PUNCH,Punch Pure Plus CNG,Wireless Phone Charging,NO
+TATA,PUNCH,Punch Pure Plus CNG,Bluetooth Connectivity,YES
+TATA,PUNCH,Punch Pure Plus CNG,Touchscreen,YES
+TATA,PUNCH,Punch Pure Plus CNG,Touchscreen Size,8 inch
+TATA,PUNCH,Punch Pure Plus CNG,Android Auto,YES
+TATA,PUNCH,Punch Pure Plus CNG,Apple CarPlay,YES
+TATA,PUNCH,Punch Pure Plus CNG,No. of Speakers,4
+TATA,PUNCH,Punch Pure Plus CNG,Usb Ports,YES
+TATA,PUNCH,Punch Pure Plus CNG,Additional Features,Wireless Android Auto & Apple CarPlay
+TATA,PUNCH,Punch Pure Plus CNG,Speakers,Front & Rear
