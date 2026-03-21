@@ -104,8 +104,4 @@ It visualizes which essential features appear most frequently among top sellers.
 
 📘 others.ipynb
 
-Includes analysis of all remaining features that don’t fall into specifications, safety, or essentials.
-This can include:
-    • Interior/exterior design elements
-    • Miscellaneous convenience features
-    • Variant-specific differences
+Includes analysis of all remaining features which people might like to have but are not essential such as sunroof, etc.
