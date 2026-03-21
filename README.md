@@ -1,4 +1,4 @@
-📊 Decoding India’s SUV Market: A Full Data Scraping & Analysis Project (2020–2025)
+<h1> 📊 Decoding India’s SUV Market: A Full Data Scraping & Analysis Project (2020–2025)</h1>
 
 This project presents a complete analysis of the Indian SUV market, focusing on the top 20 most-sold SUVs between 2020 and 2025. It studies each vehicle’s sales performance alongside its key specifications to understand which characteristics customers value the most—such as size, engine displacement, pricing, and feature set. By combining sales insights with technical attributes, the project highlights which SUVs dominate the market, which price segments attract buyers, and what patterns emerge across the highest-selling models, offering a clear, data-driven picture of India’s evolving SUV preferences.
 
@@ -8,11 +8,11 @@ From a technical standpoint, the project is built entirely from scratch, includi
 
 This analysis is valuable for anyone interested in the automotive landscape—buyers looking for clarity, automobile enthusiasts exploring market trends, industry analysts studying consumer behaviour, and manufacturers seeking insights into customer preferences. It also serves as a learning resource for data analysts and data science practitioners, as it demonstrates how to build a complete end-to-end workflow: data scraping, dataset creation, cleaning, modeling, and visualization. With the entire codebase and dataset made publicly available, the project empowers others to extend the analysis, validate findings, or explore new dimensions of the Indian SUV market on their own.
 
-🔧 Getting Started: How to Run, Explore, and Modify the Code
+<h2>🔧 Getting Started: How to Run, Explore, and Modify the Code</h2>
 
 Before running the project, it’s important to understand how the repository is organized and what each script or notebook is responsible for. The workflow follows a very logical sequence—from scraping raw data, to cleaning and merging it, to analyzing and visualizing it. Below is a clear breakdown of every major component.
 
-📁 Key Folders
+<h3> 📁 Key Folders </h3>
     • scraped_auto_punditz_sales_data/
       Stores all raw sales data scraped from AutoPunditz across the selected years.
     • scraped_cardekho_top_20_models_features/
@@ -20,14 +20,14 @@ Before running the project, it’s important to understand how the repository is
 
 
 
-🧩 Scripts & Notebooks Explained (in execution order)
+<h3> 🧩 Scripts & Notebooks Explained (in execution order) </h3>
 
-1️⃣ checkbox_id_generator.py
+**1️⃣ checkbox_id_generator.py**
 
 This script dynamically generates the file checkbox_id.json, which contains the checkbox IDs corresponding to year filters on the AutoPunditz website.
 This JSON file is required by auto_punditz_sales_data_scraper.py to automatically select the years when scraping sales data.
 
-2️⃣ auto_punditz_sales_data_scraper.py
+**2️⃣ auto_punditz_sales_data_scraper.py**
 
 This script performs the actual scraping of monthly and yearly SUV sales data from AutoPunditz.com.
 It uses Selenium to:
@@ -36,7 +36,7 @@ It uses Selenium to:
     • Extract sales numbers
     • Save the results inside scraped_auto_punditz_sales_data/.
 
-3️⃣ filter_top_20_highest_selling_SUVs.ipynb
+**3️⃣ filter_top_20_highest_selling_SUVs.ipynb**
 
 After scraping, this notebook processes the raw sales data to:
     • Aggregate sales
@@ -46,7 +46,7 @@ After scraping, this notebook processes the raw sales data to:
 
 This filtered output becomes the input for the next scraping step.
 
-4️⃣ cardekho_features_data_scraper.py
+**4️⃣ cardekho_features_data_scraper.py**
 
 Using the top 20 SUV list produced earlier, this script goes to CarDekho.com and automatically extracts:
     • Technical specifications
@@ -56,7 +56,7 @@ Using the top 20 SUV list produced earlier, this script goes to CarDekho.com and
 
 All scraped details are stored inside scraped_cardekho_top_20_models_features/.
 
-5️⃣ filter_top_20_highest_selling_SUVs.ipynb (Data Preparation Stage)
+**5️⃣ filter_top_20_highest_selling_SUVs.ipynb (Data Preparation Stage)**
 
 This notebook now combines:
     • Sales data
@@ -68,9 +68,9 @@ This notebook now combines:
 It produces four new CSV files (specifications, safety, essentials, others).
 These CSVs are individually analyzed in the corresponding notebooks below.
 
-📊 Analysis Notebooks
+<h3>📊 Analysis Notebooks</h3>
 
-📘 specifications.ipynb
+**📘 specifications.ipynb**
 
 Analyzes core vehicle specifications such as:
     • Length
@@ -82,7 +82,7 @@ Analyzes core vehicle specifications such as:
 
 Includes comparison charts and pattern visualizations to understand what specifications top-selling SUVs share.
 
-📘 safety.ipynb
+**📘 safety.ipynb**
 
 Focuses on safety-related data such as:
     • Number of airbags
@@ -92,7 +92,7 @@ Focuses on safety-related data such as:
 
 This notebook helps identify whether safety contributes meaningfully to higher sales.
 
-📘 essentials.ipynb
+**📘 essentials.ipynb**
 
 Covers customer-essential features like:
     • Infotainment
@@ -104,6 +104,6 @@ Covers customer-essential features like:
 
 It visualizes which essential features appear most frequently among top sellers.
 
-📘 others.ipynb
+**📘 others.ipynb**
 
 Includes analysis of all remaining features which people might like to have but are not essential such as sunroof, etc.
