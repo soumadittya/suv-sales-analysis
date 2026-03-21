@@ -5,8 +5,8 @@ import json
 import pandas as pd
 import os
 
-input_data_path = './top_20_models.csv'
-output_data_directory = './output_cardekho_top_20_models'
+input_data_path = './remaining_cars.csv'
+output_data_directory = './remaining_cars_2'
 car_list = (pd.read_csv(input_data_path)).values.tolist()
 root_url_model = 'https://www.cardekho.com/'
 root_url_variant = 'https://www.cardekho.com/overview/' # '/' at the end is mandatory
@@ -53,13 +53,13 @@ for model in car_list:
             variant_list.append(variant_name)
         print(variant_list)
     except:
-        failure_list.append(full_car_name + ': ' + 'extractedvariant list not ')
+        failure_list.append(full_car_name + ': ' + 'variant list not extracted')
 
     # extracting features
     try:
         print('EXTRACTING FEATURES FOR', )
         for variant in variant_list:
-            full_car_name = model[0] + '-' + model[1] + '-' + variant
+            full_car_name = model[0].replace('-', '_') + '-' + model[1].replace('-', '_') + '-' + variant.replace('-', '_')
             print('CURRENT CAR:', full_car_name)
             variant_url = root_url_variant + model[0].replace(' ', '_') + '_' + model[1].replace(' ', '_') + '/' + model[0].replace(' ', '_') + '_' + variant.replace(' ', '_') + '.htm'
             print("CURRENT VARIANT URL:", variant_url)
@@ -115,12 +115,3 @@ print('TASK COMPLETED')
 
 # df = pd.Dataframe(complete_data)
 # df.to_csv('demo.csv')
-            
-
-
-
-
-
-
-
-
