@@ -56,7 +56,7 @@ Using the top 20 SUV list produced earlier, this script goes to CarDekho.com and
 
 All scraped details are stored inside scraped_cardekho_top_20_models_features/.
 
-**5️⃣ filter_top_20_highest_selling_SUVs.ipynb (Data Preparation Stage)**
+**5️⃣ process_features_and_prices.ipynb (Data Preparation Phase)**
 
 This notebook now combines:
     • Sales data
