@@ -1,0 +1,110 @@
+company,model,variant,category,feature_name,feature_details
+Skoda,Kodiaq,Selection L&K,Engine & Transmission,Engine Type,Turbocharged Petrol
+Skoda,Kodiaq,Selection L&K,Engine & Transmission,Displacement,1984 cc
+Skoda,Kodiaq,Selection L&K,Engine & Transmission,Max Power,201bhp@4500 - 6000rpm
+Skoda,Kodiaq,Selection L&K,Engine & Transmission,Max Torque,320Nm@1500-4400rpm
+Skoda,Kodiaq,Selection L&K,Engine & Transmission,No. of Cylinders,4
+Skoda,Kodiaq,Selection L&K,Engine & Transmission,Valves Per Cylinder,4
+Skoda,Kodiaq,Selection L&K,Engine & Transmission,Turbo Charger,YES
+Skoda,Kodiaq,Selection L&K,Engine & Transmission,Transmission Type,Automatic
+Skoda,Kodiaq,Selection L&K,Engine & Transmission,Gearbox,7-speed DSG
+Skoda,Kodiaq,Selection L&K,Engine & Transmission,Drive Type,4x4
+Skoda,Kodiaq,Selection L&K,Fuel & Performance,Fuel Type,Petrol
+Skoda,Kodiaq,Selection L&K,Fuel & Performance,Petrol Mileage ARAI,14.86 kmpl
+Skoda,Kodiaq,Selection L&K,Fuel & Performance,Petrol Fuel Tank Capacity,62 Litres
+Skoda,Kodiaq,Selection L&K,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Skoda,Kodiaq,Selection L&K,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Skoda,Kodiaq,Selection L&K,"Suspension, Steering & Brakes",Rear Suspension,Multi-link suspension
+Skoda,Kodiaq,Selection L&K,"Suspension, Steering & Brakes",Steering Type,Electric
+Skoda,Kodiaq,Selection L&K,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Skoda,Kodiaq,Selection L&K,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Skoda,Kodiaq,Selection L&K,"Suspension, Steering & Brakes",Boot Space Rear Seat Folding,786 Litres
+Skoda,Kodiaq,Selection L&K,Dimensions & Capacity,Length,4758 mm
+Skoda,Kodiaq,Selection L&K,Dimensions & Capacity,Width,1864 mm
+Skoda,Kodiaq,Selection L&K,Dimensions & Capacity,Height,1679 mm
+Skoda,Kodiaq,Selection L&K,Dimensions & Capacity,Boot Space,281 Litres
+Skoda,Kodiaq,Selection L&K,Dimensions & Capacity,Seating Capacity,7
+Skoda,Kodiaq,Selection L&K,Dimensions & Capacity,Ground Clearance (Laden),155 mm
+Skoda,Kodiaq,Selection L&K,Dimensions & Capacity,Wheel Base,2791 mm
+Skoda,Kodiaq,Selection L&K,Dimensions & Capacity,Kerb Weight,1825 kg
+Skoda,Kodiaq,Selection L&K,Dimensions & Capacity,Gross Weight,2420 kg
+Skoda,Kodiaq,Selection L&K,Comfort & Convenience,Power Steering,YES
+Skoda,Kodiaq,Selection L&K,Comfort & Convenience,Air Conditioner,YES
+Skoda,Kodiaq,Selection L&K,Comfort & Convenience,Heater,YES
+Skoda,Kodiaq,Selection L&K,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Skoda,Kodiaq,Selection L&K,Comfort & Convenience,Ventilated Seats,NO
+Skoda,Kodiaq,Selection L&K,Comfort & Convenience,Electric Adjustable Seats,NO
+Skoda,Kodiaq,Selection L&K,Comfort & Convenience,Automatic Climate Control,YES
+Skoda,Kodiaq,Selection L&K,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Skoda,Kodiaq,Selection L&K,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Skoda,Kodiaq,Selection L&K,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Skoda,Kodiaq,Selection L&K,Comfort & Convenience,Cruise Control,YES
+Skoda,Kodiaq,Selection L&K,Comfort & Convenience,Parking Sensors,Front & Rear
+Skoda,Kodiaq,Selection L&K,Comfort & Convenience,Foldable Rear Seat,40:20:40 Split
+Skoda,Kodiaq,Selection L&K,Comfort & Convenience,KeyLess Entry,YES
+Skoda,Kodiaq,Selection L&K,Comfort & Convenience,Paddle Shifters,YES
+Skoda,Kodiaq,Selection L&K,Comfort & Convenience,USB Charger,Front & Rear
+Skoda,Kodiaq,Selection L&K,Comfort & Convenience,Central Console Armrest,With Storage
+Skoda,Kodiaq,Selection L&K,Comfort & Convenience,Drive Modes,6
+Skoda,Kodiaq,Selection L&K,Comfort & Convenience,Power Windows,Front & Rear
+Skoda,Kodiaq,Selection L&K,Comfort & Convenience,Cup Holders,Front & Rear
+Skoda,Kodiaq,Selection L&K,Comfort & Convenience,Heated Seats,NO
+Skoda,Kodiaq,Selection L&K,Interior,Leather Wrapped Steering Wheel,YES
+Skoda,Kodiaq,Selection L&K,Interior,Glove Box,YES
+Skoda,Kodiaq,Selection L&K,Interior,Lighting,Ambient light
+Skoda,Kodiaq,Selection L&K,Interior,Additional Features,IRVM with auto-dimming
+Skoda,Kodiaq,Selection L&K,Interior,Digital Cluster,YES
+Skoda,Kodiaq,Selection L&K,Interior,Digital Cluster Size,10.24
+Skoda,Kodiaq,Selection L&K,Interior,Upholstery,Fabric
+Skoda,Kodiaq,Selection L&K,Exterior,Alloy Wheels,YES
+Skoda,Kodiaq,Selection L&K,Exterior,Tinted Glass,YES
+Skoda,Kodiaq,Selection L&K,Exterior,Rear Spoiler,YES
+Skoda,Kodiaq,Selection L&K,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Skoda,Kodiaq,Selection L&K,Exterior,Roof Rails,YES
+Skoda,Kodiaq,Selection L&K,Exterior,Sunroof,Panoramic
+Skoda,Kodiaq,Selection L&K,Exterior,Heated Outside Rear View Mirror,YES
+Skoda,Kodiaq,Selection L&K,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Skoda,Kodiaq,Selection L&K,Exterior,Tyre Size,235/55 R18
+Skoda,Kodiaq,Selection L&K,Exterior,Tyre Type,"Tubeless,Radial"
+Skoda,Kodiaq,Selection L&K,Exterior,LED Headlamps,YES
+Skoda,Kodiaq,Selection L&K,Safety,Anti-lock Braking System (ABS),YES
+Skoda,Kodiaq,Selection L&K,Safety,Brake Assist,YES
+Skoda,Kodiaq,Selection L&K,Safety,Central Locking,YES
+Skoda,Kodiaq,Selection L&K,Safety,Child Safety Locks,YES
+Skoda,Kodiaq,Selection L&K,Safety,Anti-Theft Alarm,YES
+Skoda,Kodiaq,Selection L&K,Safety,No. of Airbags,9
+Skoda,Kodiaq,Selection L&K,Safety,Driver Airbag,YES
+Skoda,Kodiaq,Selection L&K,Safety,Passenger Airbag,YES
+Skoda,Kodiaq,Selection L&K,Safety,Side Airbag,YES
+Skoda,Kodiaq,Selection L&K,Safety,Side Airbag-Rear,YES
+Skoda,Kodiaq,Selection L&K,Safety,Day & Night Rear View Mirror,YES
+Skoda,Kodiaq,Selection L&K,Safety,Electronic Brakeforce Distribution (EBD),YES
+Skoda,Kodiaq,Selection L&K,Safety,Traction Control,YES
+Skoda,Kodiaq,Selection L&K,Safety,Electronic Stability Control (ESC),YES
+Skoda,Kodiaq,Selection L&K,Safety,Rear Camera,With Guidedlines
+Skoda,Kodiaq,Selection L&K,Safety,Anti-Theft Device,YES
+Skoda,Kodiaq,Selection L&K,Safety,Anti-Pinch Power Windows,All Windows
+Skoda,Kodiaq,Selection L&K,Safety,ISOFIX Child Seat Mounts,YES
+Skoda,Kodiaq,Selection L&K,Safety,Hill Descent Control,YES
+Skoda,Kodiaq,Selection L&K,Safety,Hill Assist,YES
+Skoda,Kodiaq,Selection L&K,Safety,360 View Camera,YES
+Skoda,Kodiaq,Selection L&K,Entertainment & Communication,Wireless Phone Charging,YES
+Skoda,Kodiaq,Selection L&K,Entertainment & Communication,Bluetooth Connectivity,YES
+Skoda,Kodiaq,Selection L&K,Entertainment & Communication,Touchscreen,YES
+Skoda,Kodiaq,Selection L&K,Entertainment & Communication,Touchscreen Size,13 inch
+Skoda,Kodiaq,Selection L&K,Entertainment & Communication,Android Auto,YES
+Skoda,Kodiaq,Selection L&K,Entertainment & Communication,Apple CarPlay,YES
+Skoda,Kodiaq,Selection L&K,Entertainment & Communication,No. of Speakers,13
+Skoda,Kodiaq,Selection L&K,Entertainment & Communication,Inbuilt Apps,MyŠkoda Plus
+Skoda,Kodiaq,Selection L&K,Entertainment & Communication,Subwoofer,1
+Skoda,Kodiaq,Selection L&K,Entertainment & Communication,Additional Features,Wireless Android Auto & Apple CarPlay Compatibility
+Skoda,Kodiaq,Selection L&K,Entertainment & Communication,Speakers,Front & Rear
+Skoda,Kodiaq,Selection L&K,ADAS Feature,Forward Collision Warning,YES
+Skoda,Kodiaq,Selection L&K,ADAS Feature,Automatic Emergency Braking,YES
+Skoda,Kodiaq,Selection L&K,ADAS Feature,Blind Spot Collision Avoidance Assist,YES
+Skoda,Kodiaq,Selection L&K,ADAS Feature,Lane Keep Assist,YES
+Skoda,Kodiaq,Selection L&K,ADAS Feature,Driver Attention Warning,YES
+Skoda,Kodiaq,Selection L&K,ADAS Feature,Adaptive Cruise Control,YES
+Skoda,Kodiaq,Selection L&K,ADAS Feature,Adaptive High Beam Assist,YES
+Skoda,Kodiaq,Selection L&K,ADAS Feature,Rear Cross Traffic Alert,YES
+Skoda,Kodiaq,Selection L&K,ADAS Feature,Autonomous Parking,Full

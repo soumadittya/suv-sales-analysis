@@ -1,0 +1,114 @@
+company,model,variant,category,feature_name,feature_details
+Skoda,Kylaq,Signature AT,Engine & Transmission,Engine Type,1.0 TSI
+Skoda,Kylaq,Signature AT,Engine & Transmission,Displacement,999 cc
+Skoda,Kylaq,Signature AT,Engine & Transmission,Max Power,114bhp@5000-5500rpm
+Skoda,Kylaq,Signature AT,Engine & Transmission,Max Torque,178Nm@1750-4000rpm
+Skoda,Kylaq,Signature AT,Engine & Transmission,No. of Cylinders,3
+Skoda,Kylaq,Signature AT,Engine & Transmission,Valves Per Cylinder,4
+Skoda,Kylaq,Signature AT,Engine & Transmission,Turbo Charger,YES
+Skoda,Kylaq,Signature AT,Engine & Transmission,Transmission Type,Automatic
+Skoda,Kylaq,Signature AT,Engine & Transmission,Gearbox,6-Speed AT
+Skoda,Kylaq,Signature AT,Engine & Transmission,Drive Type,FWD
+Skoda,Kylaq,Signature AT,Fuel & Performance,Fuel Type,Petrol
+Skoda,Kylaq,Signature AT,Fuel & Performance,Petrol Mileage ARAI,19.05 kmpl
+Skoda,Kylaq,Signature AT,Fuel & Performance,Petrol Fuel Tank Capacity,45 Litres
+Skoda,Kylaq,Signature AT,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Skoda,Kylaq,Signature AT,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Skoda,Kylaq,Signature AT,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Skoda,Kylaq,Signature AT,"Suspension, Steering & Brakes",Steering Type,Electric
+Skoda,Kylaq,Signature AT,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Skoda,Kylaq,Signature AT,"Suspension, Steering & Brakes",Steering Gear Type,Rack&Pinion
+Skoda,Kylaq,Signature AT,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Skoda,Kylaq,Signature AT,"Suspension, Steering & Brakes",Rear Brake Type,Drum
+Skoda,Kylaq,Signature AT,"Suspension, Steering & Brakes",Boot Space Rear Seat Folding,1265 Litres
+Skoda,Kylaq,Signature AT,Dimensions & Capacity,Length,3995 mm
+Skoda,Kylaq,Signature AT,Dimensions & Capacity,Width,1783 mm
+Skoda,Kylaq,Signature AT,Dimensions & Capacity,Height,1619 mm
+Skoda,Kylaq,Signature AT,Dimensions & Capacity,Boot Space,446 Litres
+Skoda,Kylaq,Signature AT,Dimensions & Capacity,Seating Capacity,5
+Skoda,Kylaq,Signature AT,Dimensions & Capacity,Ground Clearance Unladen,189 mm
+Skoda,Kylaq,Signature AT,Dimensions & Capacity,Wheel Base,2566 mm
+Skoda,Kylaq,Signature AT,Dimensions & Capacity,Kerb Weight,1213-1255 kg
+Skoda,Kylaq,Signature AT,Dimensions & Capacity,Gross Weight,1660 kg
+Skoda,Kylaq,Signature AT,Comfort & Convenience,Power Steering,YES
+Skoda,Kylaq,Signature AT,Comfort & Convenience,Air Conditioner,YES
+Skoda,Kylaq,Signature AT,Comfort & Convenience,Heater,YES
+Skoda,Kylaq,Signature AT,Comfort & Convenience,Adjustable Steering,Height & Reach
+Skoda,Kylaq,Signature AT,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Skoda,Kylaq,Signature AT,Comfort & Convenience,Ventilated Seats,NO
+Skoda,Kylaq,Signature AT,Comfort & Convenience,Electric Adjustable Seats,NO
+Skoda,Kylaq,Signature AT,Comfort & Convenience,Automatic Climate Control,YES
+Skoda,Kylaq,Signature AT,Comfort & Convenience,Air Quality Control,YES
+Skoda,Kylaq,Signature AT,Comfort & Convenience,Accessory Power Outlet,YES
+Skoda,Kylaq,Signature AT,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Skoda,Kylaq,Signature AT,Comfort & Convenience,Adjustable Headrest,YES
+Skoda,Kylaq,Signature AT,Comfort & Convenience,Rear Seat Centre Arm Rest,NO
+Skoda,Kylaq,Signature AT,Comfort & Convenience,Rear AC Vents,YES
+Skoda,Kylaq,Signature AT,Comfort & Convenience,Cruise Control,YES
+Skoda,Kylaq,Signature AT,Comfort & Convenience,Parking Sensors,Rear
+Skoda,Kylaq,Signature AT,Comfort & Convenience,Foldable Rear Seat,Bench Folding
+Skoda,Kylaq,Signature AT,Comfort & Convenience,KeyLess Entry,YES
+Skoda,Kylaq,Signature AT,Comfort & Convenience,Engine Start/Stop Button,NO
+Skoda,Kylaq,Signature AT,Comfort & Convenience,Paddle Shifters,YES
+Skoda,Kylaq,Signature AT,Comfort & Convenience,USB Charger,Rear
+Skoda,Kylaq,Signature AT,Comfort & Convenience,Central Console Armrest,With Storage
+Skoda,Kylaq,Signature AT,Comfort & Convenience,Gear Shift Indicator,NO
+Skoda,Kylaq,Signature AT,Comfort & Convenience,Idle Start-Stop System,YES
+Skoda,Kylaq,Signature AT,Comfort & Convenience,Power Windows,Front & Rear
+Skoda,Kylaq,Signature AT,Interior,Glove Box,YES
+Skoda,Kylaq,Signature AT,Interior,Digital Cluster,ANALOG WITH MID
+Skoda,Kylaq,Signature AT,Interior,Digital Cluster Size,3.5
+Skoda,Kylaq,Signature AT,Interior,Upholstery,Fabric
+Skoda,Kylaq,Signature AT,Exterior,Adjustable Headlamps,YES
+Skoda,Kylaq,Signature AT,Exterior,Rain Sensing Wiper,YES
+Skoda,Kylaq,Signature AT,Exterior,Rear Window Wiper,YES
+Skoda,Kylaq,Signature AT,Exterior,Rear Window Washer,YES
+Skoda,Kylaq,Signature AT,Exterior,Rear Window Defogger,YES
+Skoda,Kylaq,Signature AT,Exterior,Rear Spoiler,YES
+Skoda,Kylaq,Signature AT,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Skoda,Kylaq,Signature AT,Exterior,Projector Headlamps,NO
+Skoda,Kylaq,Signature AT,Exterior,Cornering Foglamps,NO
+Skoda,Kylaq,Signature AT,Exterior,Roof Rails,YES
+Skoda,Kylaq,Signature AT,Exterior,Automatic Headlamps,NO
+Skoda,Kylaq,Signature AT,Exterior,Fog Lights,NO
+Skoda,Kylaq,Signature AT,Exterior,Antenna,Rod roof
+Skoda,Kylaq,Signature AT,Exterior,Sunroof,Single Pane
+Skoda,Kylaq,Signature AT,Exterior,Outside Rear View Mirror (ORVM),Powered
+Skoda,Kylaq,Signature AT,Exterior,Tyre Size,205/60 R16
+Skoda,Kylaq,Signature AT,Exterior,Tyre Type,Radial Tubeless
+Skoda,Kylaq,Signature AT,Exterior,Wheel Size,16 Inch
+Skoda,Kylaq,Signature AT,Exterior,LED DRLs,YES
+Skoda,Kylaq,Signature AT,Exterior,LED Headlamps,YES
+Skoda,Kylaq,Signature AT,Exterior,LED Taillights,YES
+Skoda,Kylaq,Signature AT,Exterior,LED Fog Lamps,NO
+Skoda,Kylaq,Signature AT,Safety,Anti-lock Braking System (ABS),YES
+Skoda,Kylaq,Signature AT,Safety,Brake Assist,YES
+Skoda,Kylaq,Signature AT,Safety,Central Locking,YES
+Skoda,Kylaq,Signature AT,Safety,Child Safety Locks,YES
+Skoda,Kylaq,Signature AT,Safety,Anti-Theft Alarm,NO
+Skoda,Kylaq,Signature AT,Safety,No. of Airbags,6
+Skoda,Kylaq,Signature AT,Safety,Driver Airbag,YES
+Skoda,Kylaq,Signature AT,Safety,Passenger Airbag,YES
+Skoda,Kylaq,Signature AT,Safety,Side Airbag,YES
+Skoda,Kylaq,Signature AT,Safety,Side Airbag-Rear,NO
+Skoda,Kylaq,Signature AT,Safety,Day & Night Rear View Mirror,YES
+Skoda,Kylaq,Signature AT,Safety,Electronic Brakeforce Distribution (EBD),YES
+Skoda,Kylaq,Signature AT,Safety,Traction Control,YES
+Skoda,Kylaq,Signature AT,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Skoda,Kylaq,Signature AT,Safety,Engine Immobilizer,YES
+Skoda,Kylaq,Signature AT,Safety,Electronic Stability Control (ESC),YES
+Skoda,Kylaq,Signature AT,Safety,Rear Camera,NO
+Skoda,Kylaq,Signature AT,Safety,Anti-Pinch Power Windows,Driver's Window
+Skoda,Kylaq,Signature AT,Safety,ISOFIX Child Seat Mounts,YES
+Skoda,Kylaq,Signature AT,Safety,Hill Assist,NO
+Skoda,Kylaq,Signature AT,Entertainment & Communication,Radio,YES
+Skoda,Kylaq,Signature AT,Entertainment & Communication,Wireless Phone Charging,NO
+Skoda,Kylaq,Signature AT,Entertainment & Communication,Bluetooth Connectivity,YES
+Skoda,Kylaq,Signature AT,Entertainment & Communication,Touchscreen,YES
+Skoda,Kylaq,Signature AT,Entertainment & Communication,Touchscreen Size,7 inch
+Skoda,Kylaq,Signature AT,Entertainment & Communication,Android Auto,YES
+Skoda,Kylaq,Signature AT,Entertainment & Communication,Apple CarPlay,YES
+Skoda,Kylaq,Signature AT,Entertainment & Communication,No. of Speakers,4
+Skoda,Kylaq,Signature AT,Entertainment & Communication,Usb Ports,YES
+Skoda,Kylaq,Signature AT,Entertainment & Communication,Tweeters,2
+Skoda,Kylaq,Signature AT,Entertainment & Communication,Speakers,Front & Rear

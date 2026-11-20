@@ -1,0 +1,142 @@
+company,model,variant,category,feature_name,feature_details
+MG,Majestor,Savvy 4x4,Engine & Transmission,Displacement,1996 cc
+MG,Majestor,Savvy 4x4,Engine & Transmission,Max Power,211.88bhp
+MG,Majestor,Savvy 4x4,Engine & Transmission,Max Torque,478Nm
+MG,Majestor,Savvy 4x4,Engine & Transmission,No. of Cylinders,4
+MG,Majestor,Savvy 4x4,Engine & Transmission,Valves Per Cylinder,4
+MG,Majestor,Savvy 4x4,Engine & Transmission,Turbo Charger,YES
+MG,Majestor,Savvy 4x4,Engine & Transmission,Transmission Type,Automatic
+MG,Majestor,Savvy 4x4,Engine & Transmission,Gearbox,8-Speed
+MG,Majestor,Savvy 4x4,Engine & Transmission,Drive Type,4WD
+MG,Majestor,Savvy 4x4,Fuel & Performance,Fuel Type,Diesel
+MG,Majestor,Savvy 4x4,Fuel & Performance,Diesel Fuel Tank Capacity,75 Litres
+MG,Majestor,Savvy 4x4,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+MG,Majestor,Savvy 4x4,"Suspension, Steering & Brakes",Front Suspension,Double wishbone suspension
+MG,Majestor,Savvy 4x4,"Suspension, Steering & Brakes",Rear Suspension,Multi-link suspension
+MG,Majestor,Savvy 4x4,"Suspension, Steering & Brakes",Steering Type,Electric
+MG,Majestor,Savvy 4x4,"Suspension, Steering & Brakes",Steering Column,Tilt &Telescopic
+MG,Majestor,Savvy 4x4,"Suspension, Steering & Brakes",Steering Gear Type,Electric
+MG,Majestor,Savvy 4x4,"Suspension, Steering & Brakes",Turning Radius,6 m
+MG,Majestor,Savvy 4x4,"Suspension, Steering & Brakes",Front Brake Type,Disc
+MG,Majestor,Savvy 4x4,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+MG,Majestor,Savvy 4x4,"Suspension, Steering & Brakes",Boot Space Rear Seat Folding,1350 Litres
+MG,Majestor,Savvy 4x4,Dimensions & Capacity,Length,5046 mm
+MG,Majestor,Savvy 4x4,Dimensions & Capacity,Width,2016 mm
+MG,Majestor,Savvy 4x4,Dimensions & Capacity,Height,1870 mm
+MG,Majestor,Savvy 4x4,Dimensions & Capacity,Boot Space,343 Litres
+MG,Majestor,Savvy 4x4,Dimensions & Capacity,Seating Capacity,7
+MG,Majestor,Savvy 4x4,Dimensions & Capacity,Wheel Base,2950 mm
+MG,Majestor,Savvy 4x4,Comfort & Convenience,Boot Opening,Powered
+MG,Majestor,Savvy 4x4,Comfort & Convenience,Power Steering,YES
+MG,Majestor,Savvy 4x4,Comfort & Convenience,Air Conditioner,YES
+MG,Majestor,Savvy 4x4,Comfort & Convenience,Heater,YES
+MG,Majestor,Savvy 4x4,Comfort & Convenience,Adjustable Steering,Height & Reach
+MG,Majestor,Savvy 4x4,Comfort & Convenience,Height Adjustable Driver Seat,YES
+MG,Majestor,Savvy 4x4,Comfort & Convenience,Ventilated Seats,YES
+MG,Majestor,Savvy 4x4,Comfort & Convenience,Electric Adjustable Seats,Front
+MG,Majestor,Savvy 4x4,Comfort & Convenience,Automatic Climate Control,YES
+MG,Majestor,Savvy 4x4,Comfort & Convenience,Air Quality Control,YES
+MG,Majestor,Savvy 4x4,Comfort & Convenience,Accessory Power Outlet,YES
+MG,Majestor,Savvy 4x4,Comfort & Convenience,Rear Seat Headrest,Adjustable
+MG,Majestor,Savvy 4x4,Comfort & Convenience,Adjustable Headrest,YES
+MG,Majestor,Savvy 4x4,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+MG,Majestor,Savvy 4x4,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+MG,Majestor,Savvy 4x4,Comfort & Convenience,Rear AC Vents,YES
+MG,Majestor,Savvy 4x4,Comfort & Convenience,Lumbar Support,YES
+MG,Majestor,Savvy 4x4,Comfort & Convenience,Cruise Control,YES
+MG,Majestor,Savvy 4x4,Comfort & Convenience,Parking Sensors,Front & Rear
+MG,Majestor,Savvy 4x4,Comfort & Convenience,Foldable Rear Seat,2nd Row 60:40 Split
+MG,Majestor,Savvy 4x4,Comfort & Convenience,KeyLess Entry,YES
+MG,Majestor,Savvy 4x4,Comfort & Convenience,Engine Start/Stop Button,YES
+MG,Majestor,Savvy 4x4,Comfort & Convenience,Voice Commands,YES
+MG,Majestor,Savvy 4x4,Comfort & Convenience,Paddle Shifters,YES
+MG,Majestor,Savvy 4x4,Comfort & Convenience,USB Charger,Front & Rear
+MG,Majestor,Savvy 4x4,Comfort & Convenience,Central Console Armrest,YES
+MG,Majestor,Savvy 4x4,Comfort & Convenience,Drive Modes,3
+MG,Majestor,Savvy 4x4,Comfort & Convenience,Follow Me Home Headlamps,YES
+MG,Majestor,Savvy 4x4,Comfort & Convenience,Additional Features,Sunglass Holder
+MG,Majestor,Savvy 4x4,Comfort & Convenience,Drive Mode Types,Eco-Normal-Sport
+MG,Majestor,Savvy 4x4,Comfort & Convenience,Power Windows,Front & Rear
+MG,Majestor,Savvy 4x4,Comfort & Convenience,Cup Holders,Front & Rear
+MG,Majestor,Savvy 4x4,Interior,Leather Wrapped Steering Wheel,YES
+MG,Majestor,Savvy 4x4,Interior,Glove Box,YES
+MG,Majestor,Savvy 4x4,Interior,Lighting,Ambient light
+MG,Majestor,Savvy 4x4,Interior,Digital Cluster,YES
+MG,Majestor,Savvy 4x4,Interior,Digital Cluster Size,12.3
+MG,Majestor,Savvy 4x4,Interior,Upholstery,Leather
+MG,Majestor,Savvy 4x4,Interior,Ambient Light Colour (numbers),64
+MG,Majestor,Savvy 4x4,Exterior,Adjustable Headlamps,YES
+MG,Majestor,Savvy 4x4,Exterior,Rain Sensing Wiper,YES
+MG,Majestor,Savvy 4x4,Exterior,Rear Window Wiper,YES
+MG,Majestor,Savvy 4x4,Exterior,Rear Window Washer,YES
+MG,Majestor,Savvy 4x4,Exterior,Rear Window Defogger,YES
+MG,Majestor,Savvy 4x4,Exterior,Wheel Covers,NO
+MG,Majestor,Savvy 4x4,Exterior,Alloy Wheels,YES
+MG,Majestor,Savvy 4x4,Exterior,Rear Spoiler,YES
+MG,Majestor,Savvy 4x4,Exterior,Side Stepper,YES
+MG,Majestor,Savvy 4x4,Exterior,Outside Rear View Mirror Turn Indicators,YES
+MG,Majestor,Savvy 4x4,Exterior,Roof Rails,YES
+MG,Majestor,Savvy 4x4,Exterior,Fog Lights,Rear
+MG,Majestor,Savvy 4x4,Exterior,Sunroof,Panoramic
+MG,Majestor,Savvy 4x4,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+MG,Majestor,Savvy 4x4,Exterior,Tyre Size,265/55R19
+MG,Majestor,Savvy 4x4,Exterior,Tyre Type,Radial & Tubeless
+MG,Majestor,Savvy 4x4,Exterior,LED DRLs,YES
+MG,Majestor,Savvy 4x4,Exterior,LED Headlamps,YES
+MG,Majestor,Savvy 4x4,Exterior,LED Taillights,YES
+MG,Majestor,Savvy 4x4,Exterior,LED Fog Lamps,YES
+MG,Majestor,Savvy 4x4,Safety,Anti-lock Braking System (ABS),YES
+MG,Majestor,Savvy 4x4,Safety,Central Locking,YES
+MG,Majestor,Savvy 4x4,Safety,Child Safety Locks,YES
+MG,Majestor,Savvy 4x4,Safety,Anti-Theft Alarm,YES
+MG,Majestor,Savvy 4x4,Safety,No. of Airbags,6
+MG,Majestor,Savvy 4x4,Safety,Driver Airbag,YES
+MG,Majestor,Savvy 4x4,Safety,Passenger Airbag,YES
+MG,Majestor,Savvy 4x4,Safety,Side Airbag,YES
+MG,Majestor,Savvy 4x4,Safety,Day & Night Rear View Mirror,YES
+MG,Majestor,Savvy 4x4,Safety,Electronic Brakeforce Distribution (EBD),YES
+MG,Majestor,Savvy 4x4,Safety,Traction Control,YES
+MG,Majestor,Savvy 4x4,Safety,Tyre Pressure Monitoring System (TPMS),YES
+MG,Majestor,Savvy 4x4,Safety,Engine Immobilizer,YES
+MG,Majestor,Savvy 4x4,Safety,Electronic Stability Control (ESC),YES
+MG,Majestor,Savvy 4x4,Safety,Rear Camera,With Guidedlines
+MG,Majestor,Savvy 4x4,Safety,Anti-Theft Device,YES
+MG,Majestor,Savvy 4x4,Safety,Anti-Pinch Power Windows,All Windows
+MG,Majestor,Savvy 4x4,Safety,ISOFIX Child Seat Mounts,YES
+MG,Majestor,Savvy 4x4,Safety,Hill Descent Control,YES
+MG,Majestor,Savvy 4x4,Safety,Hill Assist,YES
+MG,Majestor,Savvy 4x4,Safety,360 View Camera,YES
+MG,Majestor,Savvy 4x4,Entertainment & Communication,Radio,YES
+MG,Majestor,Savvy 4x4,Entertainment & Communication,Wireless Phone Charging,YES
+MG,Majestor,Savvy 4x4,Entertainment & Communication,Bluetooth Connectivity,YES
+MG,Majestor,Savvy 4x4,Entertainment & Communication,Wi-Fi Connectivity,YES
+MG,Majestor,Savvy 4x4,Entertainment & Communication,Touchscreen,YES
+MG,Majestor,Savvy 4x4,Entertainment & Communication,Touchscreen Size,12.3 inch
+MG,Majestor,Savvy 4x4,Entertainment & Communication,Android Auto,YES
+MG,Majestor,Savvy 4x4,Entertainment & Communication,Apple CarPlay,YES
+MG,Majestor,Savvy 4x4,Entertainment & Communication,No. of Speakers,12
+MG,Majestor,Savvy 4x4,Entertainment & Communication,Usb Ports,YES
+MG,Majestor,Savvy 4x4,Entertainment & Communication,Additional Features,Wireless Android Auto & Apple Carplay
+MG,Majestor,Savvy 4x4,Entertainment & Communication,Speakers,Front & Rear
+MG,Majestor,Savvy 4x4,ADAS Feature,Forward Collision Warning,YES
+MG,Majestor,Savvy 4x4,ADAS Feature,Automatic Emergency Braking,YES
+MG,Majestor,Savvy 4x4,ADAS Feature,Speed Assist System,YES
+MG,Majestor,Savvy 4x4,ADAS Feature,Blind Spot Collision Avoidance Assist,YES
+MG,Majestor,Savvy 4x4,ADAS Feature,Lane Departure Warning,YES
+MG,Majestor,Savvy 4x4,ADAS Feature,Lane Keep Assist,YES
+MG,Majestor,Savvy 4x4,ADAS Feature,Lane Departure Prevention Assist,YES
+MG,Majestor,Savvy 4x4,ADAS Feature,Driver Attention Warning,YES
+MG,Majestor,Savvy 4x4,ADAS Feature,Adaptive Cruise Control,YES
+MG,Majestor,Savvy 4x4,ADAS Feature,Rear Cross Traffic Alert,YES
+MG,Majestor,Savvy 4x4,ADAS Feature,Blind Spot Monitor,YES
+MG,Majestor,Savvy 4x4,Advance Internet Feature,Live Location,YES
+MG,Majestor,Savvy 4x4,Advance Internet Feature,Remote Vehicle Status Check,YES
+MG,Majestor,Savvy 4x4,Advance Internet Feature,E-Call & I-Call,YES
+MG,Majestor,Savvy 4x4,Advance Internet Feature,Over the Air (OTA) Updates,YES
+MG,Majestor,Savvy 4x4,Advance Internet Feature,Over Speeding Alert,YES
+MG,Majestor,Savvy 4x4,Advance Internet Feature,Smartwatch App,YES
+MG,Majestor,Savvy 4x4,Advance Internet Feature,Valet Mode,YES
+MG,Majestor,Savvy 4x4,Advance Internet Feature,Remote AC On/Off,YES
+MG,Majestor,Savvy 4x4,Advance Internet Feature,Remote Door Lock/Unlock,YES
+MG,Majestor,Savvy 4x4,Advance Internet Feature,Geo-fence Alert,YES
+MG,Majestor,Savvy 4x4,Advance Internet Feature,Inbuilt APPs,i-SMART

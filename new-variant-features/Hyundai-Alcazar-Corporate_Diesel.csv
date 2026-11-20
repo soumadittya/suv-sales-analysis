@@ -1,0 +1,136 @@
+company,model,variant,category,feature_name,feature_details
+Hyundai,Alcazar,Corporate Diesel,Engine & Transmission,Engine Type,1.5 l U2 CRDi Diesel
+Hyundai,Alcazar,Corporate Diesel,Engine & Transmission,Displacement,1493 cc
+Hyundai,Alcazar,Corporate Diesel,Engine & Transmission,Max Power,114bhp@4000rpm
+Hyundai,Alcazar,Corporate Diesel,Engine & Transmission,Max Torque,250Nm@1500-2750rpm
+Hyundai,Alcazar,Corporate Diesel,Engine & Transmission,No. of Cylinders,4
+Hyundai,Alcazar,Corporate Diesel,Engine & Transmission,Valves Per Cylinder,4
+Hyundai,Alcazar,Corporate Diesel,Engine & Transmission,Fuel Supply System,CRDI
+Hyundai,Alcazar,Corporate Diesel,Engine & Transmission,Turbo Charger,YES
+Hyundai,Alcazar,Corporate Diesel,Engine & Transmission,Transmission Type,Manual
+Hyundai,Alcazar,Corporate Diesel,Engine & Transmission,Gearbox,6-Speed
+Hyundai,Alcazar,Corporate Diesel,Engine & Transmission,Drive Type,FWD
+Hyundai,Alcazar,Corporate Diesel,Fuel & Performance,Fuel Type,Diesel
+Hyundai,Alcazar,Corporate Diesel,Fuel & Performance,Diesel Mileage ARAI,20.4 kmpl
+Hyundai,Alcazar,Corporate Diesel,Fuel & Performance,Diesel Fuel Tank Capacity,50 Litres
+Hyundai,Alcazar,Corporate Diesel,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Hyundai,Alcazar,Corporate Diesel,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Hyundai,Alcazar,Corporate Diesel,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Hyundai,Alcazar,Corporate Diesel,"Suspension, Steering & Brakes",Steering Type,Electric
+Hyundai,Alcazar,Corporate Diesel,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Hyundai,Alcazar,Corporate Diesel,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Hyundai,Alcazar,Corporate Diesel,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Hyundai,Alcazar,Corporate Diesel,Dimensions & Capacity,Length,4560 mm
+Hyundai,Alcazar,Corporate Diesel,Dimensions & Capacity,Width,1800 mm
+Hyundai,Alcazar,Corporate Diesel,Dimensions & Capacity,Height,1710 mm
+Hyundai,Alcazar,Corporate Diesel,Dimensions & Capacity,Seating Capacity,7
+Hyundai,Alcazar,Corporate Diesel,Dimensions & Capacity,Wheel Base,2760 mm
+Hyundai,Alcazar,Corporate Diesel,Dimensions & Capacity,Reported Boot Space,180 Litres
+Hyundai,Alcazar,Corporate Diesel,Dimensions & Capacity,Reported Ground Clearance (Unladen),200 mm
+Hyundai,Alcazar,Corporate Diesel,Comfort & Convenience,Boot Opening,Electronic
+Hyundai,Alcazar,Corporate Diesel,Comfort & Convenience,Power Steering,YES
+Hyundai,Alcazar,Corporate Diesel,Comfort & Convenience,Air Conditioner,YES
+Hyundai,Alcazar,Corporate Diesel,Comfort & Convenience,Heater,YES
+Hyundai,Alcazar,Corporate Diesel,Comfort & Convenience,Adjustable Steering,Height & Reach
+Hyundai,Alcazar,Corporate Diesel,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Hyundai,Alcazar,Corporate Diesel,Comfort & Convenience,Ventilated Seats,NO
+Hyundai,Alcazar,Corporate Diesel,Comfort & Convenience,Electric Adjustable Seats,NO
+Hyundai,Alcazar,Corporate Diesel,Comfort & Convenience,Automatic Climate Control,YES
+Hyundai,Alcazar,Corporate Diesel,Comfort & Convenience,Accessory Power Outlet,YES
+Hyundai,Alcazar,Corporate Diesel,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Hyundai,Alcazar,Corporate Diesel,Comfort & Convenience,Adjustable Headrest,YES
+Hyundai,Alcazar,Corporate Diesel,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Hyundai,Alcazar,Corporate Diesel,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Hyundai,Alcazar,Corporate Diesel,Comfort & Convenience,Rear AC Vents,YES
+Hyundai,Alcazar,Corporate Diesel,Comfort & Convenience,Cruise Control,YES
+Hyundai,Alcazar,Corporate Diesel,Comfort & Convenience,Parking Sensors,Rear
+Hyundai,Alcazar,Corporate Diesel,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Hyundai,Alcazar,Corporate Diesel,Comfort & Convenience,KeyLess Entry,YES
+Hyundai,Alcazar,Corporate Diesel,Comfort & Convenience,Engine Start/Stop Button,YES
+Hyundai,Alcazar,Corporate Diesel,Comfort & Convenience,Voice Commands,YES
+Hyundai,Alcazar,Corporate Diesel,Comfort & Convenience,Paddle Shifters,NO
+Hyundai,Alcazar,Corporate Diesel,Comfort & Convenience,USB Charger,Front & Rear
+Hyundai,Alcazar,Corporate Diesel,Comfort & Convenience,Central Console Armrest,With Storage
+Hyundai,Alcazar,Corporate Diesel,Comfort & Convenience,Idle Start-Stop System,YES
+Hyundai,Alcazar,Corporate Diesel,Comfort & Convenience,Follow Me Home Headlamps,YES
+Hyundai,Alcazar,Corporate Diesel,Comfort & Convenience,Additional Features,Sunglass Holder
+Hyundai,Alcazar,Corporate Diesel,Comfort & Convenience,Voice assisted sunroof,YES
+Hyundai,Alcazar,Corporate Diesel,Comfort & Convenience,Power Windows,Front & Rear
+Hyundai,Alcazar,Corporate Diesel,Interior,Leather Wrapped Steering Wheel,YES
+Hyundai,Alcazar,Corporate Diesel,Interior,Leather wrap gear-shift selector,YES
+Hyundai,Alcazar,Corporate Diesel,Interior,Glove Box,YES
+Hyundai,Alcazar,Corporate Diesel,Interior,Lighting,Ambient light
+Hyundai,Alcazar,Corporate Diesel,Interior,Digital Cluster,YES
+Hyundai,Alcazar,Corporate Diesel,Interior,Digital Cluster Size,4.5
+Hyundai,Alcazar,Corporate Diesel,Interior,Upholstery,Fabric
+Hyundai,Alcazar,Corporate Diesel,Exterior,Adjustable Headlamps,YES
+Hyundai,Alcazar,Corporate Diesel,Exterior,Rain Sensing Wiper,NO
+Hyundai,Alcazar,Corporate Diesel,Exterior,Rear Window Wiper,YES
+Hyundai,Alcazar,Corporate Diesel,Exterior,Rear Window Washer,YES
+Hyundai,Alcazar,Corporate Diesel,Exterior,Rear Window Defogger,YES
+Hyundai,Alcazar,Corporate Diesel,Exterior,Alloy Wheels,YES
+Hyundai,Alcazar,Corporate Diesel,Exterior,Rear Spoiler,YES
+Hyundai,Alcazar,Corporate Diesel,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Hyundai,Alcazar,Corporate Diesel,Exterior,Roof Rails,YES
+Hyundai,Alcazar,Corporate Diesel,Exterior,Automatic Headlamps,YES
+Hyundai,Alcazar,Corporate Diesel,Exterior,Antenna,Shark fin
+Hyundai,Alcazar,Corporate Diesel,Exterior,Sunroof,Panoramic
+Hyundai,Alcazar,Corporate Diesel,Exterior,Puddle Lamps,NO
+Hyundai,Alcazar,Corporate Diesel,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Hyundai,Alcazar,Corporate Diesel,Exterior,Tyre Size,215/60 R17
+Hyundai,Alcazar,Corporate Diesel,Exterior,Tyre Type,Tubeless Radial
+Hyundai,Alcazar,Corporate Diesel,Exterior,Wheel Size,17 Inch
+Hyundai,Alcazar,Corporate Diesel,Exterior,LED DRLs,YES
+Hyundai,Alcazar,Corporate Diesel,Exterior,LED Headlamps,YES
+Hyundai,Alcazar,Corporate Diesel,Exterior,LED Taillights,YES
+Hyundai,Alcazar,Corporate Diesel,Safety,Anti-lock Braking System (ABS),YES
+Hyundai,Alcazar,Corporate Diesel,Safety,Central Locking,YES
+Hyundai,Alcazar,Corporate Diesel,Safety,Child Safety Locks,YES
+Hyundai,Alcazar,Corporate Diesel,Safety,Anti-Theft Alarm,YES
+Hyundai,Alcazar,Corporate Diesel,Safety,No. of Airbags,6
+Hyundai,Alcazar,Corporate Diesel,Safety,Driver Airbag,YES
+Hyundai,Alcazar,Corporate Diesel,Safety,Passenger Airbag,YES
+Hyundai,Alcazar,Corporate Diesel,Safety,Side Airbag,YES
+Hyundai,Alcazar,Corporate Diesel,Safety,Side Airbag-Rear,NO
+Hyundai,Alcazar,Corporate Diesel,Safety,Day & Night Rear View Mirror,YES
+Hyundai,Alcazar,Corporate Diesel,Safety,Electronic Brakeforce Distribution (EBD),YES
+Hyundai,Alcazar,Corporate Diesel,Safety,Traction Control,NO
+Hyundai,Alcazar,Corporate Diesel,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Hyundai,Alcazar,Corporate Diesel,Safety,Engine Immobilizer,YES
+Hyundai,Alcazar,Corporate Diesel,Safety,Electronic Stability Control (ESC),YES
+Hyundai,Alcazar,Corporate Diesel,Safety,Rear Camera,With Guidedlines
+Hyundai,Alcazar,Corporate Diesel,Safety,Anti-Theft Device,YES
+Hyundai,Alcazar,Corporate Diesel,Safety,Anti-Pinch Power Windows,Driver's Window
+Hyundai,Alcazar,Corporate Diesel,Safety,ISOFIX Child Seat Mounts,YES
+Hyundai,Alcazar,Corporate Diesel,Safety,Hill Descent Control,NO
+Hyundai,Alcazar,Corporate Diesel,Safety,Hill Assist,YES
+Hyundai,Alcazar,Corporate Diesel,Safety,360 View Camera,NO
+Hyundai,Alcazar,Corporate Diesel,Entertainment & Communication,Radio,YES
+Hyundai,Alcazar,Corporate Diesel,Entertainment & Communication,Wireless Phone Charging,YES
+Hyundai,Alcazar,Corporate Diesel,Entertainment & Communication,Bluetooth Connectivity,YES
+Hyundai,Alcazar,Corporate Diesel,Entertainment & Communication,Touchscreen,YES
+Hyundai,Alcazar,Corporate Diesel,Entertainment & Communication,Touchscreen Size,10.25 inch
+Hyundai,Alcazar,Corporate Diesel,Entertainment & Communication,Android Auto,YES
+Hyundai,Alcazar,Corporate Diesel,Entertainment & Communication,Apple CarPlay,YES
+Hyundai,Alcazar,Corporate Diesel,Entertainment & Communication,No. of Speakers,4
+Hyundai,Alcazar,Corporate Diesel,Entertainment & Communication,Usb Ports,YES
+Hyundai,Alcazar,Corporate Diesel,Entertainment & Communication,Inbuilt Apps,"Jio Saavan,Hyundai Bluelink"
+Hyundai,Alcazar,Corporate Diesel,Entertainment & Communication,Tweeters,2
+Hyundai,Alcazar,Corporate Diesel,Entertainment & Communication,Speakers,Front & Rear
+Hyundai,Alcazar,Corporate Diesel,ADAS Feature,Forward Collision Warning,NO
+Hyundai,Alcazar,Corporate Diesel,ADAS Feature,Blind Spot Collision Avoidance Assist,NO
+Hyundai,Alcazar,Corporate Diesel,ADAS Feature,Lane Departure Warning,NO
+Hyundai,Alcazar,Corporate Diesel,ADAS Feature,Lane Keep Assist,NO
+Hyundai,Alcazar,Corporate Diesel,ADAS Feature,Driver Attention Warning,NO
+Hyundai,Alcazar,Corporate Diesel,ADAS Feature,Adaptive Cruise Control,NO
+Hyundai,Alcazar,Corporate Diesel,ADAS Feature,Adaptive High Beam Assist,NO
+Hyundai,Alcazar,Corporate Diesel,ADAS Feature,Rear Cross Traffic Alert,NO
+Hyundai,Alcazar,Corporate Diesel,ADAS Feature,Rear Cross Traffic Collision-Avoidance Assist,NO
+Hyundai,Alcazar,Corporate Diesel,ADAS Feature,Blind Spot Monitor,NO
+Hyundai,Alcazar,Corporate Diesel,Advance Internet Feature,Remote Immobiliser,YES
+Hyundai,Alcazar,Corporate Diesel,Advance Internet Feature,Remote Vehicle Status Check,YES
+Hyundai,Alcazar,Corporate Diesel,Advance Internet Feature,Digital Car Key,NO
+Hyundai,Alcazar,Corporate Diesel,Advance Internet Feature,Over the Air (OTA) Updates,YES
+Hyundai,Alcazar,Corporate Diesel,Advance Internet Feature,Google / Alexa Connectivity,YES
+Hyundai,Alcazar,Corporate Diesel,Advance Internet Feature,Remote Door Lock/Unlock,YES
+Hyundai,Alcazar,Corporate Diesel,Advance Internet Feature,Remote Vehicle Ignition Start/Stop,YES

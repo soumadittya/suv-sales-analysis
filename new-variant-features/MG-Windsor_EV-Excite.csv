@@ -1,0 +1,145 @@
+company,model,variant,category,feature_name,feature_details
+MG,Windsor EV,Excite,Engine & Transmission,Battery Capacity,38 kWh
+MG,Windsor EV,Excite,Engine & Transmission,Motor Power,100 kW
+MG,Windsor EV,Excite,Engine & Transmission,Motor Type,Permanent Magnet Synchronous
+MG,Windsor EV,Excite,Engine & Transmission,Max Power,134bhp
+MG,Windsor EV,Excite,Engine & Transmission,Max Torque,200Nm
+MG,Windsor EV,Excite,Engine & Transmission,Range,332 km
+MG,Windsor EV,Excite,Engine & Transmission,Battery Type,Lithium-ion
+MG,Windsor EV,Excite,Engine & Transmission,Charging Time (A.C),7 H-7.4kW (10-100%)
+MG,Windsor EV,Excite,Engine & Transmission,Charging Time (D.C),45 Min-45kW (20-80%)
+MG,Windsor EV,Excite,Engine & Transmission,Regenerative Braking,YES
+MG,Windsor EV,Excite,Engine & Transmission,Charging Port,CCS-II
+MG,Windsor EV,Excite,Engine & Transmission,Charging Options,3.3 kW portable cable + 3.3 kW AC home charging box; max DC 45 kW
+MG,Windsor EV,Excite,Engine & Transmission,Transmission Type,Automatic
+MG,Windsor EV,Excite,Engine & Transmission,Gearbox,1-Speed
+MG,Windsor EV,Excite,Engine & Transmission,Drive Type,FWD
+MG,Windsor EV,Excite,Fuel & Performance,Fuel Type,Electric
+MG,Windsor EV,Excite,Fuel & Performance,Emission Norm Compliance,ZEV
+MG,Windsor EV,Excite,Charging,Charging Time,45 Min-45kW (20-80%)
+MG,Windsor EV,Excite,Charging,Fast Charging,YES
+MG,Windsor EV,Excite,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+MG,Windsor EV,Excite,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+MG,Windsor EV,Excite,"Suspension, Steering & Brakes",Steering Type,Electric
+MG,Windsor EV,Excite,"Suspension, Steering & Brakes",Steering Column,Tilt & telescopic
+MG,Windsor EV,Excite,"Suspension, Steering & Brakes",Front Brake Type,Disc
+MG,Windsor EV,Excite,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+MG,Windsor EV,Excite,Dimensions & Capacity,Length,4295 mm
+MG,Windsor EV,Excite,Dimensions & Capacity,Width,2126 mm
+MG,Windsor EV,Excite,Dimensions & Capacity,Height,1677 mm
+MG,Windsor EV,Excite,Dimensions & Capacity,Boot Space,604 Litres
+MG,Windsor EV,Excite,Dimensions & Capacity,Seating Capacity,5
+MG,Windsor EV,Excite,Dimensions & Capacity,Ground Clearance Unladen,186 mm
+MG,Windsor EV,Excite,Dimensions & Capacity,Wheel Base,2700 mm
+MG,Windsor EV,Excite,Comfort & Convenience,Boot Opening,Electronic
+MG,Windsor EV,Excite,Comfort & Convenience,Power Steering,YES
+MG,Windsor EV,Excite,Comfort & Convenience,Air Conditioner,YES
+MG,Windsor EV,Excite,Comfort & Convenience,Heater,YES
+MG,Windsor EV,Excite,Comfort & Convenience,Adjustable Steering,Height & Reach
+MG,Windsor EV,Excite,Comfort & Convenience,Height Adjustable Driver Seat,YES
+MG,Windsor EV,Excite,Comfort & Convenience,Ventilated Seats,NO
+MG,Windsor EV,Excite,Comfort & Convenience,Automatic Climate Control,YES
+MG,Windsor EV,Excite,Comfort & Convenience,Air Quality Control,NO
+MG,Windsor EV,Excite,Comfort & Convenience,Accessory Power Outlet,YES
+MG,Windsor EV,Excite,Comfort & Convenience,Rear Seat Headrest,Adjustable
+MG,Windsor EV,Excite,Comfort & Convenience,Adjustable Headrest,YES
+MG,Windsor EV,Excite,Comfort & Convenience,Rear Seat Centre Arm Rest,NO
+MG,Windsor EV,Excite,Comfort & Convenience,Rear AC Vents,YES
+MG,Windsor EV,Excite,Comfort & Convenience,Cruise Control,YES
+MG,Windsor EV,Excite,Comfort & Convenience,Parking Sensors,Rear
+MG,Windsor EV,Excite,Comfort & Convenience,Real-Time Vehicle Tracking,NO
+MG,Windsor EV,Excite,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+MG,Windsor EV,Excite,Comfort & Convenience,KeyLess Entry,YES
+MG,Windsor EV,Excite,Comfort & Convenience,Voice Commands,NO
+MG,Windsor EV,Excite,Comfort & Convenience,USB Charger,Front & Rear
+MG,Windsor EV,Excite,Comfort & Convenience,Central Console Armrest,With Storage
+MG,Windsor EV,Excite,Comfort & Convenience,Drive Modes,4
+MG,Windsor EV,Excite,Comfort & Convenience,Follow Me Home Headlamps,YES
+MG,Windsor EV,Excite,Comfort & Convenience,Voice assisted sunroof,NO
+MG,Windsor EV,Excite,Comfort & Convenience,Drive Mode Types,Eco+|Eco| Normal |Sports
+MG,Windsor EV,Excite,Comfort & Convenience,Power Windows,Front & Rear
+MG,Windsor EV,Excite,Comfort & Convenience,Cup Holders,Front Only
+MG,Windsor EV,Excite,Interior,Leather Wrapped Steering Wheel,NO
+MG,Windsor EV,Excite,Interior,Glove Box,YES
+MG,Windsor EV,Excite,Interior,Digital Cluster,YES
+MG,Windsor EV,Excite,Interior,Digital Cluster Size,7
+MG,Windsor EV,Excite,Interior,Upholstery,Fabric
+MG,Windsor EV,Excite,Interior,Ambient Light Colour (numbers),NO
+MG,Windsor EV,Excite,Exterior,Adjustable Headlamps,YES
+MG,Windsor EV,Excite,Exterior,Rain Sensing Wiper,YES
+MG,Windsor EV,Excite,Exterior,Rear Window Defogger,NO
+MG,Windsor EV,Excite,Exterior,Rear Spoiler,YES
+MG,Windsor EV,Excite,Exterior,Outside Rear View Mirror Turn Indicators,YES
+MG,Windsor EV,Excite,Exterior,Projector Headlamps,YES
+MG,Windsor EV,Excite,Exterior,Cornering Headlamps,NO
+MG,Windsor EV,Excite,Exterior,Roof Rails,YES
+MG,Windsor EV,Excite,Exterior,Automatic Headlamps,YES
+MG,Windsor EV,Excite,Exterior,Fog Lights,Rear
+MG,Windsor EV,Excite,Exterior,Sunroof,NO
+MG,Windsor EV,Excite,Exterior,Outside Rear View Mirror (ORVM),Powered
+MG,Windsor EV,Excite,Exterior,Wheels Type,Steel with Cover
+MG,Windsor EV,Excite,Exterior,Tyre Size,215/60 R17
+MG,Windsor EV,Excite,Exterior,Tyre Type,"Tubeless, Radial"
+MG,Windsor EV,Excite,Exterior,Wheel Size,17 Inch
+MG,Windsor EV,Excite,Exterior,LED DRLs,YES
+MG,Windsor EV,Excite,Exterior,LED Headlamps,YES
+MG,Windsor EV,Excite,Exterior,LED Taillights,YES
+MG,Windsor EV,Excite,Exterior,LED Fog Lamps,YES
+MG,Windsor EV,Excite,Exterior,Additional Features,Flush Door Handles
+MG,Windsor EV,Excite,Safety,Anti-lock Braking System (ABS),YES
+MG,Windsor EV,Excite,Safety,Brake Assist,YES
+MG,Windsor EV,Excite,Safety,Central Locking,YES
+MG,Windsor EV,Excite,Safety,Child Safety Locks,YES
+MG,Windsor EV,Excite,Safety,Anti-Theft Alarm,NO
+MG,Windsor EV,Excite,Safety,No. of Airbags,6
+MG,Windsor EV,Excite,Safety,Driver Airbag,YES
+MG,Windsor EV,Excite,Safety,Passenger Airbag,YES
+MG,Windsor EV,Excite,Safety,Side Airbag,YES
+MG,Windsor EV,Excite,Safety,Side Airbag-Rear,NO
+MG,Windsor EV,Excite,Safety,Day & Night Rear View Mirror,YES
+MG,Windsor EV,Excite,Safety,Electronic Brakeforce Distribution (EBD),YES
+MG,Windsor EV,Excite,Safety,Tyre Pressure Monitoring System (TPMS),YES
+MG,Windsor EV,Excite,Safety,Engine Immobilizer,YES
+MG,Windsor EV,Excite,Safety,Electronic Stability Control (ESC),YES
+MG,Windsor EV,Excite,Safety,Rear Camera,NO
+MG,Windsor EV,Excite,Safety,Anti-Pinch Power Windows,Driver's Window
+MG,Windsor EV,Excite,Safety,ISOFIX Child Seat Mounts,YES
+MG,Windsor EV,Excite,Safety,Hill Descent Control,YES
+MG,Windsor EV,Excite,Safety,Hill Assist,YES
+MG,Windsor EV,Excite,Safety,360 View Camera,NO
+MG,Windsor EV,Excite,Entertainment & Communication,Radio,YES
+MG,Windsor EV,Excite,Entertainment & Communication,Wireless Phone Charging,NO
+MG,Windsor EV,Excite,Entertainment & Communication,Bluetooth Connectivity,YES
+MG,Windsor EV,Excite,Entertainment & Communication,Wi-Fi Connectivity,NO
+MG,Windsor EV,Excite,Entertainment & Communication,Touchscreen,YES
+MG,Windsor EV,Excite,Entertainment & Communication,Touchscreen Size,10.1 inch
+MG,Windsor EV,Excite,Entertainment & Communication,Android Auto,YES
+MG,Windsor EV,Excite,Entertainment & Communication,Apple CarPlay,YES
+MG,Windsor EV,Excite,Entertainment & Communication,No. of Speakers,6
+MG,Windsor EV,Excite,Entertainment & Communication,Usb Ports,YES
+MG,Windsor EV,Excite,Entertainment & Communication,Inbuilt Apps,NO
+MG,Windsor EV,Excite,Entertainment & Communication,Tweeters,2
+MG,Windsor EV,Excite,Entertainment & Communication,Additional Features,Wireless Android Auto & Apple Carplay
+MG,Windsor EV,Excite,Entertainment & Communication,Speakers,Front & Rear
+MG,Windsor EV,Excite,ADAS Feature,Forward Collision Warning,NO
+MG,Windsor EV,Excite,ADAS Feature,Automatic Emergency Braking,NO
+MG,Windsor EV,Excite,ADAS Feature,Lane Departure Warning,NO
+MG,Windsor EV,Excite,ADAS Feature,Lane Keep Assist,NO
+MG,Windsor EV,Excite,ADAS Feature,Lane Departure Prevention Assist,NO
+MG,Windsor EV,Excite,ADAS Feature,Adaptive Cruise Control,NO
+MG,Windsor EV,Excite,ADAS Feature,Adaptive High Beam Assist,NO
+MG,Windsor EV,Excite,ADAS Feature,Rear Cross Traffic Collision-Avoidance Assist,NO
+MG,Windsor EV,Excite,Advance Internet Feature,Live Location,NO
+MG,Windsor EV,Excite,Advance Internet Feature,Engine Start Alarm,NO
+MG,Windsor EV,Excite,Advance Internet Feature,Remote Vehicle Status Check,NO
+MG,Windsor EV,Excite,Advance Internet Feature,Digital Car Key,NO
+MG,Windsor EV,Excite,Advance Internet Feature,Hinglish Voice Commands,NO
+MG,Windsor EV,Excite,Advance Internet Feature,E-Call & I-Call,NO
+MG,Windsor EV,Excite,Advance Internet Feature,Over the Air (OTA) Updates,NO
+MG,Windsor EV,Excite,Advance Internet Feature,Google / Alexa Connectivity,NO
+MG,Windsor EV,Excite,Advance Internet Feature,In Car Remote Control App,NO
+MG,Windsor EV,Excite,Advance Internet Feature,Smartwatch App,NO
+MG,Windsor EV,Excite,Advance Internet Feature,Valet Mode,NO
+MG,Windsor EV,Excite,Advance Internet Feature,Remote AC On/Off,NO
+MG,Windsor EV,Excite,Advance Internet Feature,Remote Door Lock/Unlock,NO
+MG,Windsor EV,Excite,Advance Internet Feature,Geo-fence Alert,NO

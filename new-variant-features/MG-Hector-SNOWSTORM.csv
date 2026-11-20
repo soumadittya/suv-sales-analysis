@@ -1,0 +1,144 @@
+company,model,variant,category,feature_name,feature_details
+MG,Hector,SNOWSTORM,Engine & Transmission,Engine Type,1.5L Turbocharged Intercooled
+MG,Hector,SNOWSTORM,Engine & Transmission,Displacement,1451 cc
+MG,Hector,SNOWSTORM,Engine & Transmission,Max Power,141.04bhp@5200rpm
+MG,Hector,SNOWSTORM,Engine & Transmission,Max Torque,250Nm@3000rpm
+MG,Hector,SNOWSTORM,Engine & Transmission,No. of Cylinders,4
+MG,Hector,SNOWSTORM,Engine & Transmission,Valves Per Cylinder,4
+MG,Hector,SNOWSTORM,Engine & Transmission,Turbo Charger,YES
+MG,Hector,SNOWSTORM,Engine & Transmission,Transmission Type,Automatic
+MG,Hector,SNOWSTORM,Engine & Transmission,Gearbox,CVT
+MG,Hector,SNOWSTORM,Engine & Transmission,Drive Type,FWD
+MG,Hector,SNOWSTORM,Fuel & Performance,Fuel Type,Petrol
+MG,Hector,SNOWSTORM,Fuel & Performance,Petrol Mileage ARAI,12.34 kmpl
+MG,Hector,SNOWSTORM,Fuel & Performance,Petrol Fuel Tank Capacity,60 Litres
+MG,Hector,SNOWSTORM,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+MG,Hector,SNOWSTORM,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+MG,Hector,SNOWSTORM,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+MG,Hector,SNOWSTORM,"Suspension, Steering & Brakes",Steering Type,Electric
+MG,Hector,SNOWSTORM,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+MG,Hector,SNOWSTORM,"Suspension, Steering & Brakes",Front Brake Type,Disc
+MG,Hector,SNOWSTORM,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+MG,Hector,SNOWSTORM,Dimensions & Capacity,Length,4699 mm
+MG,Hector,SNOWSTORM,Dimensions & Capacity,Width,1835 mm
+MG,Hector,SNOWSTORM,Dimensions & Capacity,Height,1760 mm
+MG,Hector,SNOWSTORM,Dimensions & Capacity,Seating Capacity,5
+MG,Hector,SNOWSTORM,Dimensions & Capacity,Wheel Base,2750 mm
+MG,Hector,SNOWSTORM,Dimensions & Capacity,Reported Boot Space,587 Litres
+MG,Hector,SNOWSTORM,Comfort & Convenience,Boot Opening,Powered
+MG,Hector,SNOWSTORM,Comfort & Convenience,Power Steering,YES
+MG,Hector,SNOWSTORM,Comfort & Convenience,Air Conditioner,YES
+MG,Hector,SNOWSTORM,Comfort & Convenience,Heater,YES
+MG,Hector,SNOWSTORM,Comfort & Convenience,Adjustable Steering,Height & Reach
+MG,Hector,SNOWSTORM,Comfort & Convenience,Height Adjustable Driver Seat,YES
+MG,Hector,SNOWSTORM,Comfort & Convenience,Ventilated Seats,YES
+MG,Hector,SNOWSTORM,Comfort & Convenience,Electric Adjustable Seats,Front Only
+MG,Hector,SNOWSTORM,Comfort & Convenience,Automatic Climate Control,YES
+MG,Hector,SNOWSTORM,Comfort & Convenience,Air Quality Control,YES
+MG,Hector,SNOWSTORM,Comfort & Convenience,Accessory Power Outlet,YES
+MG,Hector,SNOWSTORM,Comfort & Convenience,Rear Seat Headrest,Adjustable
+MG,Hector,SNOWSTORM,Comfort & Convenience,Adjustable Headrest,YES
+MG,Hector,SNOWSTORM,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+MG,Hector,SNOWSTORM,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+MG,Hector,SNOWSTORM,Comfort & Convenience,Rear AC Vents,YES
+MG,Hector,SNOWSTORM,Comfort & Convenience,Cruise Control,YES
+MG,Hector,SNOWSTORM,Comfort & Convenience,Parking Sensors,Front & Rear
+MG,Hector,SNOWSTORM,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+MG,Hector,SNOWSTORM,Comfort & Convenience,KeyLess Entry,YES
+MG,Hector,SNOWSTORM,Comfort & Convenience,Engine Start/Stop Button,YES
+MG,Hector,SNOWSTORM,Comfort & Convenience,Voice Commands,YES
+MG,Hector,SNOWSTORM,Comfort & Convenience,USB Charger,Front & Rear
+MG,Hector,SNOWSTORM,Comfort & Convenience,Central Console Armrest,With Storage
+MG,Hector,SNOWSTORM,Comfort & Convenience,Drive Modes,3
+MG,Hector,SNOWSTORM,Comfort & Convenience,Follow Me Home Headlamps,YES
+MG,Hector,SNOWSTORM,Comfort & Convenience,Additional Features,Sunglasses Holder
+MG,Hector,SNOWSTORM,Comfort & Convenience,Voice assisted sunroof,YES
+MG,Hector,SNOWSTORM,Comfort & Convenience,Drive Mode Types,"Eco, Normal, Sports"
+MG,Hector,SNOWSTORM,Comfort & Convenience,Power Windows,Front & Rear
+MG,Hector,SNOWSTORM,Interior,Leather Wrapped Steering Wheel,YES
+MG,Hector,SNOWSTORM,Interior,Glove Box,YES
+MG,Hector,SNOWSTORM,Interior,Lighting,Ambient light
+MG,Hector,SNOWSTORM,Interior,Digital Cluster,YES
+MG,Hector,SNOWSTORM,Interior,Digital Cluster Size,7 Inch
+MG,Hector,SNOWSTORM,Interior,Upholstery,Leatherette
+MG,Hector,SNOWSTORM,Exterior,Rain Sensing Wiper,YES
+MG,Hector,SNOWSTORM,Exterior,Rear Window Wiper,YES
+MG,Hector,SNOWSTORM,Exterior,Rear Window Washer,YES
+MG,Hector,SNOWSTORM,Exterior,Rear Window Defogger,YES
+MG,Hector,SNOWSTORM,Exterior,Wheel Covers,NO
+MG,Hector,SNOWSTORM,Exterior,Alloy Wheels,YES
+MG,Hector,SNOWSTORM,Exterior,Rear Spoiler,YES
+MG,Hector,SNOWSTORM,Exterior,Outside Rear View Mirror Turn Indicators,YES
+MG,Hector,SNOWSTORM,Exterior,Projector Headlamps,YES
+MG,Hector,SNOWSTORM,Exterior,Cornering Foglamps,YES
+MG,Hector,SNOWSTORM,Exterior,Roof Rails,YES
+MG,Hector,SNOWSTORM,Exterior,Automatic Headlamps,YES
+MG,Hector,SNOWSTORM,Exterior,Fog Lights,Front & Rear
+MG,Hector,SNOWSTORM,Exterior,Antenna,Shark Fin
+MG,Hector,SNOWSTORM,Exterior,Sunroof,Dual Pane
+MG,Hector,SNOWSTORM,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+MG,Hector,SNOWSTORM,Exterior,Tyre Size,215/55 R18
+MG,Hector,SNOWSTORM,Exterior,Tyre Type,Tubeless
+MG,Hector,SNOWSTORM,Exterior,Wheel Size,18 Inch
+MG,Hector,SNOWSTORM,Exterior,LED DRLs,YES
+MG,Hector,SNOWSTORM,Exterior,LED Taillights,YES
+MG,Hector,SNOWSTORM,Exterior,LED Fog Lamps,YES
+MG,Hector,SNOWSTORM,Safety,Anti-lock Braking System (ABS),YES
+MG,Hector,SNOWSTORM,Safety,Brake Assist,YES
+MG,Hector,SNOWSTORM,Safety,Central Locking,YES
+MG,Hector,SNOWSTORM,Safety,Child Safety Locks,YES
+MG,Hector,SNOWSTORM,Safety,Anti-Theft Alarm,YES
+MG,Hector,SNOWSTORM,Safety,No. of Airbags,6
+MG,Hector,SNOWSTORM,Safety,Driver Airbag,YES
+MG,Hector,SNOWSTORM,Safety,Passenger Airbag,YES
+MG,Hector,SNOWSTORM,Safety,Side Airbag,YES
+MG,Hector,SNOWSTORM,Safety,Day & Night Rear View Mirror,YES
+MG,Hector,SNOWSTORM,Safety,Electronic Brakeforce Distribution (EBD),YES
+MG,Hector,SNOWSTORM,Safety,Traction Control,YES
+MG,Hector,SNOWSTORM,Safety,Tyre Pressure Monitoring System (TPMS),YES
+MG,Hector,SNOWSTORM,Safety,Engine Immobilizer,YES
+MG,Hector,SNOWSTORM,Safety,Electronic Stability Control (ESC),YES
+MG,Hector,SNOWSTORM,Safety,Rear Camera,With Guidedlines
+MG,Hector,SNOWSTORM,Safety,Anti-Theft Device,YES
+MG,Hector,SNOWSTORM,Safety,Anti-Pinch Power Windows,Driver's Window
+MG,Hector,SNOWSTORM,Safety,ISOFIX Child Seat Mounts,YES
+MG,Hector,SNOWSTORM,Safety,Hill Assist,YES
+MG,Hector,SNOWSTORM,Safety,360 View Camera,YES
+MG,Hector,SNOWSTORM,Safety,Global NCAP Safety Rating,5 Star
+MG,Hector,SNOWSTORM,Safety,Global NCAP Child Safety Rating,5 Star
+MG,Hector,SNOWSTORM,Entertainment & Communication,Radio,YES
+MG,Hector,SNOWSTORM,Entertainment & Communication,Wireless Phone Charging,YES
+MG,Hector,SNOWSTORM,Entertainment & Communication,Bluetooth Connectivity,YES
+MG,Hector,SNOWSTORM,Entertainment & Communication,Wi-Fi Connectivity,YES
+MG,Hector,SNOWSTORM,Entertainment & Communication,Touchscreen,YES
+MG,Hector,SNOWSTORM,Entertainment & Communication,Touchscreen Size,14 inch
+MG,Hector,SNOWSTORM,Entertainment & Communication,Android Auto,YES
+MG,Hector,SNOWSTORM,Entertainment & Communication,Apple CarPlay,YES
+MG,Hector,SNOWSTORM,Entertainment & Communication,No. of Speakers,4
+MG,Hector,SNOWSTORM,Entertainment & Communication,Usb Ports,YES
+MG,Hector,SNOWSTORM,Entertainment & Communication,Tweeters,4
+MG,Hector,SNOWSTORM,Entertainment & Communication,Subwoofer,1
+MG,Hector,SNOWSTORM,Entertainment & Communication,Additional Features,Wireless Android Auto + Apple Carplay
+MG,Hector,SNOWSTORM,Entertainment & Communication,Speakers,Front & Rear
+MG,Hector,SNOWSTORM,ADAS Feature,Forward Collision Warning,YES
+MG,Hector,SNOWSTORM,ADAS Feature,Automatic Emergency Braking,YES
+MG,Hector,SNOWSTORM,ADAS Feature,Traffic Sign Recognition,YES
+MG,Hector,SNOWSTORM,ADAS Feature,Lane Keep Assist,YES
+MG,Hector,SNOWSTORM,ADAS Feature,Adaptive Cruise Control,YES
+MG,Hector,SNOWSTORM,ADAS Feature,Adaptive High Beam Assist,YES
+MG,Hector,SNOWSTORM,Advance Internet Feature,Live Location,YES
+MG,Hector,SNOWSTORM,Advance Internet Feature,Engine Start Alarm,YES
+MG,Hector,SNOWSTORM,Advance Internet Feature,Remote Vehicle Status Check,YES
+MG,Hector,SNOWSTORM,Advance Internet Feature,Hinglish Voice Commands,YES
+MG,Hector,SNOWSTORM,Advance Internet Feature,Navigation with Live Traffic,YES
+MG,Hector,SNOWSTORM,Advance Internet Feature,Live Weather,YES
+MG,Hector,SNOWSTORM,Advance Internet Feature,E-Call & I-Call,YES
+MG,Hector,SNOWSTORM,Advance Internet Feature,Over the Air (OTA) Updates,YES
+MG,Hector,SNOWSTORM,Advance Internet Feature,Over Speeding Alert,YES
+MG,Hector,SNOWSTORM,Advance Internet Feature,In Car Remote Control App,YES
+MG,Hector,SNOWSTORM,Advance Internet Feature,Smartwatch App,YES
+MG,Hector,SNOWSTORM,Advance Internet Feature,Valet Mode,YES
+MG,Hector,SNOWSTORM,Advance Internet Feature,Remote AC On/Off,YES
+MG,Hector,SNOWSTORM,Advance Internet Feature,Remote Door Lock/Unlock,YES
+MG,Hector,SNOWSTORM,Advance Internet Feature,Geo-fence Alert,YES
+MG,Hector,SNOWSTORM,Advance Internet Feature,Inbuilt APPs,"i-Smart app, Jio Saavn"

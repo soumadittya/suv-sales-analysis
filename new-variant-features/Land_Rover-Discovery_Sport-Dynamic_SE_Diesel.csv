@@ -1,0 +1,121 @@
+company,model,variant,category,feature_name,feature_details
+Land Rover,Discovery Sport,Dynamic SE Diesel,Engine & Transmission,Engine Type,2.0L Ingenium Turbocharged I4(Mild Hybri
+Land Rover,Discovery Sport,Dynamic SE Diesel,Engine & Transmission,Displacement,1999 cc
+Land Rover,Discovery Sport,Dynamic SE Diesel,Engine & Transmission,Max Power,201bhp@3750rpm
+Land Rover,Discovery Sport,Dynamic SE Diesel,Engine & Transmission,Max Torque,430Nm@1750rpm
+Land Rover,Discovery Sport,Dynamic SE Diesel,Engine & Transmission,No. of Cylinders,4
+Land Rover,Discovery Sport,Dynamic SE Diesel,Engine & Transmission,Valves Per Cylinder,4
+Land Rover,Discovery Sport,Dynamic SE Diesel,Engine & Transmission,Valve Configuration,DOHC
+Land Rover,Discovery Sport,Dynamic SE Diesel,Engine & Transmission,Turbo Charger,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Engine & Transmission,Transmission Type,Automatic
+Land Rover,Discovery Sport,Dynamic SE Diesel,Engine & Transmission,Gearbox,9-Speed
+Land Rover,Discovery Sport,Dynamic SE Diesel,Engine & Transmission,Drive Type,AWD
+Land Rover,Discovery Sport,Dynamic SE Diesel,Fuel & Performance,Fuel Type,Diesel
+Land Rover,Discovery Sport,Dynamic SE Diesel,Fuel & Performance,Diesel Fuel Tank Capacity,70 Litres
+Land Rover,Discovery Sport,Dynamic SE Diesel,Fuel & Performance,Secondary Fuel Type,Electric
+Land Rover,Discovery Sport,Dynamic SE Diesel,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Land Rover,Discovery Sport,Dynamic SE Diesel,Fuel & Performance,Acceleration,8.9 s
+Land Rover,Discovery Sport,Dynamic SE Diesel,Fuel & Performance,0-100kmph,8.9 s
+Land Rover,Discovery Sport,Dynamic SE Diesel,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Land Rover,Discovery Sport,Dynamic SE Diesel,"Suspension, Steering & Brakes",Rear Suspension,Multi-link suspension
+Land Rover,Discovery Sport,Dynamic SE Diesel,"Suspension, Steering & Brakes",Steering Type,Power
+Land Rover,Discovery Sport,Dynamic SE Diesel,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Land Rover,Discovery Sport,Dynamic SE Diesel,"Suspension, Steering & Brakes",Steering Gear Type,Rack & Pinion
+Land Rover,Discovery Sport,Dynamic SE Diesel,"Suspension, Steering & Brakes",Turning Radius,5.9 m
+Land Rover,Discovery Sport,Dynamic SE Diesel,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Land Rover,Discovery Sport,Dynamic SE Diesel,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Land Rover,Discovery Sport,Dynamic SE Diesel,Dimensions & Capacity,Length,4597 mm
+Land Rover,Discovery Sport,Dynamic SE Diesel,Dimensions & Capacity,Width,2069 mm
+Land Rover,Discovery Sport,Dynamic SE Diesel,Dimensions & Capacity,Height,1727 mm
+Land Rover,Discovery Sport,Dynamic SE Diesel,Dimensions & Capacity,Boot Space,559 Litres
+Land Rover,Discovery Sport,Dynamic SE Diesel,Dimensions & Capacity,Seating Capacity,7
+Land Rover,Discovery Sport,Dynamic SE Diesel,Dimensions & Capacity,Ground Clearance Unladen,167 mm
+Land Rover,Discovery Sport,Dynamic SE Diesel,Dimensions & Capacity,Wheel Base,2741 mm
+Land Rover,Discovery Sport,Dynamic SE Diesel,Comfort & Convenience,Boot Opening,Powered
+Land Rover,Discovery Sport,Dynamic SE Diesel,Comfort & Convenience,Power Steering,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Comfort & Convenience,Air Conditioner,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Comfort & Convenience,Heater,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Comfort & Convenience,Adjustable Steering,Height & Reach
+Land Rover,Discovery Sport,Dynamic SE Diesel,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Comfort & Convenience,Electric Adjustable Seats,Front
+Land Rover,Discovery Sport,Dynamic SE Diesel,Comfort & Convenience,Automatic Climate Control,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Comfort & Convenience,Air Quality Control,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Comfort & Convenience,Accessory Power Outlet,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Land Rover,Discovery Sport,Dynamic SE Diesel,Comfort & Convenience,Adjustable Headrest,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Comfort & Convenience,Rear AC Vents,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Comfort & Convenience,Lumbar Support,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Comfort & Convenience,Cruise Control,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Comfort & Convenience,Parking Sensors,Front & Rear
+Land Rover,Discovery Sport,Dynamic SE Diesel,Comfort & Convenience,Real-Time Vehicle Tracking,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Comfort & Convenience,Foldable Rear Seat,40:20:40 Split
+Land Rover,Discovery Sport,Dynamic SE Diesel,Comfort & Convenience,KeyLess Entry,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Comfort & Convenience,Engine Start/Stop Button,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Comfort & Convenience,Voice Commands,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Comfort & Convenience,Paddle Shifters,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Comfort & Convenience,Idle Start-Stop System,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Comfort & Convenience,Follow Me Home Headlamps,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Comfort & Convenience,Power Windows,Front & Rear
+Land Rover,Discovery Sport,Dynamic SE Diesel,Comfort & Convenience,Cup Holders,Front & Rear
+Land Rover,Discovery Sport,Dynamic SE Diesel,Interior,Leather Wrapped Steering Wheel,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Interior,Glove Box,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Interior,Digital Cluster,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Interior,Upholstery,Leather
+Land Rover,Discovery Sport,Dynamic SE Diesel,Exterior,Adjustable Headlamps,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Exterior,Rain Sensing Wiper,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Exterior,Rear Window Defogger,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Exterior,Alloy Wheels,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Exterior,Fog Lights,Front
+Land Rover,Discovery Sport,Dynamic SE Diesel,Exterior,Antenna,Shark Fin Antenna
+Land Rover,Discovery Sport,Dynamic SE Diesel,Exterior,Sun Roof,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Exterior,Puddle Lamps,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Land Rover,Discovery Sport,Dynamic SE Diesel,Exterior,Tyre Type,"Tubeless, Radial"
+Land Rover,Discovery Sport,Dynamic SE Diesel,Exterior,LED DRLs,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Exterior,LED Headlamps,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Exterior,LED Taillights,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Exterior,LED Fog Lamps,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Safety,Anti-lock Braking System (ABS),YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Safety,Brake Assist,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Safety,Central Locking,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Safety,Child Safety Locks,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Safety,No. of Airbags,6
+Land Rover,Discovery Sport,Dynamic SE Diesel,Safety,Driver Airbag,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Safety,Passenger Airbag,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Safety,Side Airbag,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Safety,Day & Night Rear View Mirror,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Safety,Electronic Brakeforce Distribution (EBD),YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Safety,Traction Control,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Safety,Engine Immobilizer,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Safety,Electronic Stability Control (ESC),YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Safety,Rear Camera,With Guidedlines
+Land Rover,Discovery Sport,Dynamic SE Diesel,Safety,Anti-Pinch Power Windows,All Windows
+Land Rover,Discovery Sport,Dynamic SE Diesel,Safety,ISOFIX Child Seat Mounts,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Safety,Hill Descent Control,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Safety,Hill Assist,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Safety,360 View Camera,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Entertainment & Communication,Radio,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Entertainment & Communication,Wireless Phone Charging,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Entertainment & Communication,Bluetooth Connectivity,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Entertainment & Communication,Touchscreen,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Entertainment & Communication,Android Auto,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Entertainment & Communication,Apple CarPlay,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Entertainment & Communication,No. of Speakers,12
+Land Rover,Discovery Sport,Dynamic SE Diesel,Entertainment & Communication,Usb Ports,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Entertainment & Communication,Speakers,Front & Rear
+Land Rover,Discovery Sport,Dynamic SE Diesel,ADAS Feature,Driver Attention Warning,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,ADAS Feature,Adaptive Cruise Control,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,ADAS Feature,Adaptive High Beam Assist,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Advance Internet Feature,Live Location,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Advance Internet Feature,Remote Vehicle Status Check,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Advance Internet Feature,Live Weather,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Advance Internet Feature,E-Call & I-Call,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Advance Internet Feature,Over the Air (OTA) Updates,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Advance Internet Feature,SOS Button,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Advance Internet Feature,RSA,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Advance Internet Feature,Remote AC On/Off,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Advance Internet Feature,Remote Door Lock/Unlock,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Advance Internet Feature,SOS / Emergency Assistance,YES
+Land Rover,Discovery Sport,Dynamic SE Diesel,Advance Internet Feature,Geo-fence Alert,YES

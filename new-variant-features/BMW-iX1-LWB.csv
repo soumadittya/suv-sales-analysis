@@ -1,0 +1,162 @@
+company,model,variant,category,feature_name,feature_details
+BMW,iX1,LWB,Engine & Transmission,Battery Capacity,66.4 kWh
+BMW,iX1,LWB,Engine & Transmission,Motor Power,150 kW
+BMW,iX1,LWB,Engine & Transmission,Motor Type,2 Permanent magnet synchronous Placed At One motor
+BMW,iX1,LWB,Engine & Transmission,Max Power,204bhp
+BMW,iX1,LWB,Engine & Transmission,Max Torque,250Nm
+BMW,iX1,LWB,Engine & Transmission,Range,531 km
+BMW,iX1,LWB,Engine & Transmission,Battery Warranty,8 Years or 160000 km
+BMW,iX1,LWB,Engine & Transmission,Battery Type,Lithium lon
+BMW,iX1,LWB,Engine & Transmission,Charging Time (A.C),6:30Hrs-11kW-(0-100%)
+BMW,iX1,LWB,Engine & Transmission,Charging Time (D.C),30Min-130kW-(10-80%)
+BMW,iX1,LWB,Engine & Transmission,Regenerative Braking,YES
+BMW,iX1,LWB,Engine & Transmission,Regenerative Braking Levels,4
+BMW,iX1,LWB,Engine & Transmission,Charging Port,CCS-II
+BMW,iX1,LWB,Engine & Transmission,Wireless Charging,NO
+BMW,iX1,LWB,Engine & Transmission,Charging Options,11kW AC & 130kW DC
+BMW,iX1,LWB,Engine & Transmission,Transmission Type,Automatic
+BMW,iX1,LWB,Engine & Transmission,Gearbox,Single Speed
+BMW,iX1,LWB,Engine & Transmission,Drive Type,FWD
+BMW,iX1,LWB,Fuel & Performance,Fuel Type,Electric
+BMW,iX1,LWB,Fuel & Performance,Emission Norm Compliance,ZEV
+BMW,iX1,LWB,Fuel & Performance,Top Speed,175 kmph
+BMW,iX1,LWB,Fuel & Performance,Acceleration 0-100kmph,8.6 s
+BMW,iX1,LWB,Charging,Charging Time,30Min-130kW-(10-80%)
+BMW,iX1,LWB,Charging,Fast Charging,YES
+BMW,iX1,LWB,"Suspension, Steering & Brakes",Front Suspension,Double wishbone suspension
+BMW,iX1,LWB,"Suspension, Steering & Brakes",Rear Suspension,Multi-link suspension
+BMW,iX1,LWB,"Suspension, Steering & Brakes",Steering Type,Electric
+BMW,iX1,LWB,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+BMW,iX1,LWB,"Suspension, Steering & Brakes",Front Brake Type,Ventilated Disc
+BMW,iX1,LWB,"Suspension, Steering & Brakes",Rear Brake Type,Ventilated Disc
+BMW,iX1,LWB,Dimensions & Capacity,Length,4616 mm
+BMW,iX1,LWB,Dimensions & Capacity,Width,1845 mm
+BMW,iX1,LWB,Dimensions & Capacity,Height,1612 mm
+BMW,iX1,LWB,Dimensions & Capacity,Seating Capacity,5
+BMW,iX1,LWB,Dimensions & Capacity,Wheel Base,2800 mm
+BMW,iX1,LWB,Dimensions & Capacity,Reported Ground Clearance (Unladen),170 mm
+BMW,iX1,LWB,Comfort & Convenience,Boot Opening,Powered
+BMW,iX1,LWB,Comfort & Convenience,Power Steering,YES
+BMW,iX1,LWB,Comfort & Convenience,Air Conditioner,YES
+BMW,iX1,LWB,Comfort & Convenience,Heater,YES
+BMW,iX1,LWB,Comfort & Convenience,Height Adjustable Driver Seat,YES
+BMW,iX1,LWB,Comfort & Convenience,Electric Adjustable Seats,Front
+BMW,iX1,LWB,Comfort & Convenience,Automatic Climate Control,YES
+BMW,iX1,LWB,Comfort & Convenience,Air Quality Control,YES
+BMW,iX1,LWB,Comfort & Convenience,Accessory Power Outlet,YES
+BMW,iX1,LWB,Comfort & Convenience,Rear Seat Headrest,Adjustable
+BMW,iX1,LWB,Comfort & Convenience,Adjustable Headrest,YES
+BMW,iX1,LWB,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+BMW,iX1,LWB,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+BMW,iX1,LWB,Comfort & Convenience,Rear AC Vents,YES
+BMW,iX1,LWB,Comfort & Convenience,Lumbar Support,YES
+BMW,iX1,LWB,Comfort & Convenience,Cruise Control,YES
+BMW,iX1,LWB,Comfort & Convenience,Parking Sensors,Front & Rear
+BMW,iX1,LWB,Comfort & Convenience,Real-Time Vehicle Tracking,YES
+BMW,iX1,LWB,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+BMW,iX1,LWB,Comfort & Convenience,KeyLess Entry,YES
+BMW,iX1,LWB,Comfort & Convenience,Voice Commands,YES
+BMW,iX1,LWB,Comfort & Convenience,USB Charger,Front & Rear
+BMW,iX1,LWB,Comfort & Convenience,Central Console Armrest,With Storage
+BMW,iX1,LWB,Comfort & Convenience,Gear Shift Indicator,NO
+BMW,iX1,LWB,Comfort & Convenience,Glove Box light,YES
+BMW,iX1,LWB,Comfort & Convenience,Follow Me Home Headlamps,YES
+BMW,iX1,LWB,Comfort & Convenience,Additional Features,10 way electrically adjustable Driver Seat | 6 way electrically adjustable Front Passenger Seat
+BMW,iX1,LWB,Comfort & Convenience,Power Windows,Front & Rear
+BMW,iX1,LWB,Comfort & Convenience,Cup Holders,Front & Rear
+BMW,iX1,LWB,Interior,Leather Wrapped Steering Wheel,YES
+BMW,iX1,LWB,Interior,Leather wrap gear-shift selector,NO
+BMW,iX1,LWB,Interior,Glove Box,YES
+BMW,iX1,LWB,Interior,Additional Features,Widescreen Curved Display | Chrome Inner Door Handles | Door Pockets Front & Rear | M Sport Interior
+BMW,iX1,LWB,Interior,Digital Cluster,YES
+BMW,iX1,LWB,Interior,Digital Cluster Size,10.25
+BMW,iX1,LWB,Interior,Upholstery,Leatherette
+BMW,iX1,LWB,Exterior,Adjustable Headlamps,YES
+BMW,iX1,LWB,Exterior,Rain Sensing Wiper,YES
+BMW,iX1,LWB,Exterior,Rear Window Wiper,YES
+BMW,iX1,LWB,Exterior,Rear Window Defogger,YES
+BMW,iX1,LWB,Exterior,Wheel Covers,NO
+BMW,iX1,LWB,Exterior,Alloy Wheels,YES
+BMW,iX1,LWB,Exterior,Rear Spoiler,YES
+BMW,iX1,LWB,Exterior,Outside Rear View Mirror Turn Indicators,YES
+BMW,iX1,LWB,Exterior,Projector Headlamps,YES
+BMW,iX1,LWB,Exterior,Halogen Headlamps,NO
+BMW,iX1,LWB,Exterior,Cornering Headlamps,YES
+BMW,iX1,LWB,Exterior,Roof Rails,YES
+BMW,iX1,LWB,Exterior,Automatic Headlamps,YES
+BMW,iX1,LWB,Exterior,Antenna,Shark Fin
+BMW,iX1,LWB,Exterior,Convertible Top,NO
+BMW,iX1,LWB,Exterior,Sun Roof,YES
+BMW,iX1,LWB,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+BMW,iX1,LWB,Exterior,Tyre Size,225/55 R18
+BMW,iX1,LWB,Exterior,Tyre Type,Tubeless
+BMW,iX1,LWB,Exterior,LED DRLs,YES
+BMW,iX1,LWB,Exterior,LED Headlamps,YES
+BMW,iX1,LWB,Exterior,LED Taillights,YES
+BMW,iX1,LWB,Exterior,Additional Features,Body Coloured ORVMs Door Handles And Bumpers | Large Panoramic Glass Roof
+BMW,iX1,LWB,Safety,Anti-lock Braking System (ABS),YES
+BMW,iX1,LWB,Safety,Brake Assist,YES
+BMW,iX1,LWB,Safety,Central Locking,YES
+BMW,iX1,LWB,Safety,Child Safety Locks,YES
+BMW,iX1,LWB,Safety,Anti-Theft Alarm,YES
+BMW,iX1,LWB,Safety,No. of Airbags,8
+BMW,iX1,LWB,Safety,Driver Airbag,YES
+BMW,iX1,LWB,Safety,Passenger Airbag,YES
+BMW,iX1,LWB,Safety,Side Airbag,YES
+BMW,iX1,LWB,Safety,Side Airbag-Rear,YES
+BMW,iX1,LWB,Safety,Day & Night Rear View Mirror,YES
+BMW,iX1,LWB,Safety,Electronic Brakeforce Distribution (EBD),YES
+BMW,iX1,LWB,Safety,Traction Control,YES
+BMW,iX1,LWB,Safety,Tyre Pressure Monitoring System (TPMS),YES
+BMW,iX1,LWB,Safety,Engine Immobilizer,NO
+BMW,iX1,LWB,Safety,Electronic Stability Control (ESC),YES
+BMW,iX1,LWB,Safety,Rear Camera,With Guidedlines
+BMW,iX1,LWB,Safety,Anti-Theft Device,YES
+BMW,iX1,LWB,Safety,Anti-Pinch Power Windows,All Windows
+BMW,iX1,LWB,Safety,ISOFIX Child Seat Mounts,YES
+BMW,iX1,LWB,Safety,Heads-Up Display (HUD),YES
+BMW,iX1,LWB,Safety,Hill Assist,YES
+BMW,iX1,LWB,Safety,360 View Camera,YES
+BMW,iX1,LWB,Entertainment & Communication,Radio,YES
+BMW,iX1,LWB,Entertainment & Communication,Wireless Phone Charging,YES
+BMW,iX1,LWB,Entertainment & Communication,Bluetooth Connectivity,YES
+BMW,iX1,LWB,Entertainment & Communication,Touchscreen,YES
+BMW,iX1,LWB,Entertainment & Communication,Touchscreen Size,10.7 inch
+BMW,iX1,LWB,Entertainment & Communication,Android Auto,YES
+BMW,iX1,LWB,Entertainment & Communication,Apple CarPlay,YES
+BMW,iX1,LWB,Entertainment & Communication,No. of Speakers,12
+BMW,iX1,LWB,Entertainment & Communication,Usb Ports,YES
+BMW,iX1,LWB,Entertainment & Communication,Additional Features,Wireless Apple CarPlay Android Auto | Harmon Kardon Sound System
+BMW,iX1,LWB,Entertainment & Communication,Speakers,Front & Rear
+BMW,iX1,LWB,ADAS Feature,Forward Collision Warning,YES
+BMW,iX1,LWB,ADAS Feature,Speed Assist System,YES
+BMW,iX1,LWB,ADAS Feature,Lane Departure Warning,YES
+BMW,iX1,LWB,ADAS Feature,Lane Departure Prevention Assist,YES
+BMW,iX1,LWB,ADAS Feature,Driver Attention Warning,YES
+BMW,iX1,LWB,ADAS Feature,Adaptive High Beam Assist,YES
+BMW,iX1,LWB,Advance Internet Feature,Live Location,YES
+BMW,iX1,LWB,Advance Internet Feature,Engine Start Alarm,YES
+BMW,iX1,LWB,Advance Internet Feature,Remote Vehicle Status Check,YES
+BMW,iX1,LWB,Advance Internet Feature,Digital Car Key,YES
+BMW,iX1,LWB,Advance Internet Feature,Inbuilt Assistant,YES
+BMW,iX1,LWB,Advance Internet Feature,Hinglish Voice Commands,YES
+BMW,iX1,LWB,Advance Internet Feature,Navigation with Live Traffic,YES
+BMW,iX1,LWB,Advance Internet Feature,Send POI to Vehicle From App,YES
+BMW,iX1,LWB,Advance Internet Feature,Live Weather,YES
+BMW,iX1,LWB,Advance Internet Feature,E-Call & I-Call,YES
+BMW,iX1,LWB,Advance Internet Feature,Over the Air (OTA) Updates,YES
+BMW,iX1,LWB,Advance Internet Feature,Save Route/Place,YES
+BMW,iX1,LWB,Advance Internet Feature,Crash Notification,YES
+BMW,iX1,LWB,Advance Internet Feature,SOS Button,YES
+BMW,iX1,LWB,Advance Internet Feature,RSA,YES
+BMW,iX1,LWB,Advance Internet Feature,Over Speeding Alert,YES
+BMW,iX1,LWB,Advance Internet Feature,Tow Away Alert,YES
+BMW,iX1,LWB,Advance Internet Feature,In Car Remote Control App,YES
+BMW,iX1,LWB,Advance Internet Feature,Smartwatch App,YES
+BMW,iX1,LWB,Advance Internet Feature,Valet Mode,YES
+BMW,iX1,LWB,Advance Internet Feature,Remote AC On/Off,YES
+BMW,iX1,LWB,Advance Internet Feature,Remote Door Lock/Unlock,YES
+BMW,iX1,LWB,Advance Internet Feature,Remote Vehicle Ignition Start/Stop,YES
+BMW,iX1,LWB,Advance Internet Feature,Remote Boot Open,YES
+BMW,iX1,LWB,Advance Internet Feature,SOS / Emergency Assistance,YES
+BMW,iX1,LWB,Advance Internet Feature,Geo-fence Alert,YES

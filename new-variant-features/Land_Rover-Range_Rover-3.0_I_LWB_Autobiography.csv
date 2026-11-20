@@ -1,0 +1,136 @@
+company,model,variant,category,feature_name,feature_details
+Land Rover,Range Rover,3.0 I LWB Autobiography,Engine & Transmission,Engine Type,P400 Ingenium Turbocharged I6 MHEV
+Land Rover,Range Rover,3.0 I LWB Autobiography,Engine & Transmission,Displacement,2996 cc
+Land Rover,Range Rover,3.0 I LWB Autobiography,Engine & Transmission,Max Power,394bhp@5500-6000rpm
+Land Rover,Range Rover,3.0 I LWB Autobiography,Engine & Transmission,Max Torque,550Nm@2000-5000rpm
+Land Rover,Range Rover,3.0 I LWB Autobiography,Engine & Transmission,No. of Cylinders,6
+Land Rover,Range Rover,3.0 I LWB Autobiography,Engine & Transmission,Valves Per Cylinder,4
+Land Rover,Range Rover,3.0 I LWB Autobiography,Engine & Transmission,Fuel Supply System,MPi
+Land Rover,Range Rover,3.0 I LWB Autobiography,Engine & Transmission,Turbo Charger,Twin
+Land Rover,Range Rover,3.0 I LWB Autobiography,Engine & Transmission,Transmission Type,Automatic
+Land Rover,Range Rover,3.0 I LWB Autobiography,Engine & Transmission,Gearbox,8-Speed
+Land Rover,Range Rover,3.0 I LWB Autobiography,Engine & Transmission,Hybrid Type,Mild Hybrid(Electric + Petrol)
+Land Rover,Range Rover,3.0 I LWB Autobiography,Engine & Transmission,Drive Type,AWD
+Land Rover,Range Rover,3.0 I LWB Autobiography,Fuel & Performance,Fuel Type,Petrol
+Land Rover,Range Rover,3.0 I LWB Autobiography,Fuel & Performance,Petrol Fuel Tank Capacity,90 Litres
+Land Rover,Range Rover,3.0 I LWB Autobiography,Fuel & Performance,Secondary Fuel Type,Electric
+Land Rover,Range Rover,3.0 I LWB Autobiography,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Land Rover,Range Rover,3.0 I LWB Autobiography,Fuel & Performance,Top Speed,242 kmph
+Land Rover,Range Rover,3.0 I LWB Autobiography,Fuel & Performance,Acceleration,5.7 s
+Land Rover,Range Rover,3.0 I LWB Autobiography,Fuel & Performance,0-100kmph,5.7 s
+Land Rover,Range Rover,3.0 I LWB Autobiography,"Suspension, Steering & Brakes",Front Suspension,Air suspension
+Land Rover,Range Rover,3.0 I LWB Autobiography,"Suspension, Steering & Brakes",Rear Suspension,Multi-link suspension
+Land Rover,Range Rover,3.0 I LWB Autobiography,"Suspension, Steering & Brakes",Steering Type,Electric
+Land Rover,Range Rover,3.0 I LWB Autobiography,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Land Rover,Range Rover,3.0 I LWB Autobiography,"Suspension, Steering & Brakes",Front Brake Type,Ventilated Disc
+Land Rover,Range Rover,3.0 I LWB Autobiography,"Suspension, Steering & Brakes",Rear Brake Type,Ventilated Disc
+Land Rover,Range Rover,3.0 I LWB Autobiography,Dimensions & Capacity,Length,5252 mm
+Land Rover,Range Rover,3.0 I LWB Autobiography,Dimensions & Capacity,Width,2209 mm
+Land Rover,Range Rover,3.0 I LWB Autobiography,Dimensions & Capacity,Height,1870 mm
+Land Rover,Range Rover,3.0 I LWB Autobiography,Dimensions & Capacity,Boot Space,1050 Litres
+Land Rover,Range Rover,3.0 I LWB Autobiography,Dimensions & Capacity,Seating Capacity,5
+Land Rover,Range Rover,3.0 I LWB Autobiography,Dimensions & Capacity,Ground Clearance Unladen,219 mm
+Land Rover,Range Rover,3.0 I LWB Autobiography,Dimensions & Capacity,Wheel Base,3197 mm
+Land Rover,Range Rover,3.0 I LWB Autobiography,Dimensions & Capacity,Gross Weight,3390 kg
+Land Rover,Range Rover,3.0 I LWB Autobiography,Comfort & Convenience,Boot Opening,Hands-Free
+Land Rover,Range Rover,3.0 I LWB Autobiography,Comfort & Convenience,Power Steering,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Comfort & Convenience,Air Conditioner,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Comfort & Convenience,Heater,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Comfort & Convenience,Electric Adjustable Seats,Front
+Land Rover,Range Rover,3.0 I LWB Autobiography,Comfort & Convenience,Automatic Climate Control,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Comfort & Convenience,Air Quality Control,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Comfort & Convenience,Accessory Power Outlet,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Land Rover,Range Rover,3.0 I LWB Autobiography,Comfort & Convenience,Adjustable Headrest,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Comfort & Convenience,Rear AC Vents,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Comfort & Convenience,Cruise Control,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Comfort & Convenience,Parking Sensors,Front & Rear
+Land Rover,Range Rover,3.0 I LWB Autobiography,Comfort & Convenience,KeyLess Entry,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Comfort & Convenience,Voice Commands,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Comfort & Convenience,Paddle Shifters,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Comfort & Convenience,USB Charger,Front & Rear
+Land Rover,Range Rover,3.0 I LWB Autobiography,Comfort & Convenience,Central Console Armrest,With Storage
+Land Rover,Range Rover,3.0 I LWB Autobiography,Comfort & Convenience,Power Windows,Front & Rear
+Land Rover,Range Rover,3.0 I LWB Autobiography,Comfort & Convenience,Cup Holders,Front & Rear
+Land Rover,Range Rover,3.0 I LWB Autobiography,Comfort & Convenience,Heated Seats,Front Only
+Land Rover,Range Rover,3.0 I LWB Autobiography,Interior,Leather Wrapped Steering Wheel,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Interior,Glove Box,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Interior,Upholstery,Leather
+Land Rover,Range Rover,3.0 I LWB Autobiography,Exterior,Adjustable Headlamps,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Exterior,Rain Sensing Wiper,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Exterior,Rear Window Wiper,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Exterior,Rear Window Washer,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Exterior,Wheel Covers,NO
+Land Rover,Range Rover,3.0 I LWB Autobiography,Exterior,Alloy Wheels,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Exterior,Rear Spoiler,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Exterior,Automatic Headlamps,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Exterior,Fog Lights,Front & Rear
+Land Rover,Range Rover,3.0 I LWB Autobiography,Exterior,Antenna,Shark Fin
+Land Rover,Range Rover,3.0 I LWB Autobiography,Exterior,Sunroof,Panoramic
+Land Rover,Range Rover,3.0 I LWB Autobiography,Exterior,Heated Outside Rear View Mirror,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Exterior,Puddle Lamps,NO
+Land Rover,Range Rover,3.0 I LWB Autobiography,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Land Rover,Range Rover,3.0 I LWB Autobiography,Exterior,Tyre Size,285/45 R22
+Land Rover,Range Rover,3.0 I LWB Autobiography,Exterior,LED DRLs,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Exterior,LED Headlamps,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Exterior,LED Taillights,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Exterior,LED Fog Lamps,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Safety,Anti-lock Braking System (ABS),YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Safety,Central Locking,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Safety,Child Safety Locks,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Safety,Anti-Theft Alarm,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Safety,No. of Airbags,6
+Land Rover,Range Rover,3.0 I LWB Autobiography,Safety,Driver Airbag,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Safety,Passenger Airbag,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Safety,Side Airbag,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Safety,Side Airbag-Rear,NO
+Land Rover,Range Rover,3.0 I LWB Autobiography,Safety,Day & Night Rear View Mirror,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Safety,Electronic Brakeforce Distribution (EBD),YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Safety,Traction Control,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Safety,Engine Immobilizer,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Safety,Electronic Stability Control (ESC),YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Safety,Rear Camera,With Guidedlines
+Land Rover,Range Rover,3.0 I LWB Autobiography,Safety,Anti-Theft Device,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Safety,Anti-Pinch Power Windows,All Windows
+Land Rover,Range Rover,3.0 I LWB Autobiography,Safety,ISOFIX Child Seat Mounts,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Safety,Hill Descent Control,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Safety,Hill Assist,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Safety,360 View Camera,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Entertainment & Communication,Radio,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Entertainment & Communication,Wireless Phone Charging,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Entertainment & Communication,Bluetooth Connectivity,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Entertainment & Communication,Touchscreen,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Entertainment & Communication,Touchscreen Size,13.1 inch
+Land Rover,Range Rover,3.0 I LWB Autobiography,Entertainment & Communication,Android Auto,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Entertainment & Communication,Apple CarPlay,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Entertainment & Communication,No. of Speakers,34
+Land Rover,Range Rover,3.0 I LWB Autobiography,Entertainment & Communication,Usb Ports,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Entertainment & Communication,Subwoofer,2
+Land Rover,Range Rover,3.0 I LWB Autobiography,Entertainment & Communication,Rear Touchscreen,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Entertainment & Communication,Rear Touch Screen size,11.4 inch
+Land Rover,Range Rover,3.0 I LWB Autobiography,Entertainment & Communication,Additional Features,Meridian Signature Sound System
+Land Rover,Range Rover,3.0 I LWB Autobiography,Entertainment & Communication,Speakers,Front & Rear
+Land Rover,Range Rover,3.0 I LWB Autobiography,ADAS Feature,Forward Collision Warning,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,ADAS Feature,Automatic Emergency Braking,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,ADAS Feature,Lane Departure Warning,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,ADAS Feature,Adaptive Cruise Control,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,ADAS Feature,Leading Vehicle Departure Alert,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,ADAS Feature,Adaptive High Beam Assist,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Advance Internet Feature,Live Location,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Advance Internet Feature,Remote Vehicle Status Check,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Advance Internet Feature,Navigation with Live Traffic,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Advance Internet Feature,E-Call & I-Call,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Advance Internet Feature,Crash Notification,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Advance Internet Feature,SOS Button,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Advance Internet Feature,Over Speeding Alert,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Advance Internet Feature,Tow Away Alert,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Advance Internet Feature,In Car Remote Control App,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Advance Internet Feature,Remote AC On/Off,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Advance Internet Feature,Remote Door Lock/Unlock,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Advance Internet Feature,SOS / Emergency Assistance,YES
+Land Rover,Range Rover,3.0 I LWB Autobiography,Advance Internet Feature,Inbuilt APPs,Pivi Pro

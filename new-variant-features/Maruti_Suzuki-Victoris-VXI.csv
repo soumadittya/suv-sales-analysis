@@ -1,0 +1,170 @@
+company,model,variant,category,feature_name,feature_details
+Maruti Suzuki,Victoris,VXI,Engine & Transmission,Engine Type,K15C With Mild Hybrid System
+Maruti Suzuki,Victoris,VXI,Engine & Transmission,Displacement,1462 cc
+Maruti Suzuki,Victoris,VXI,Engine & Transmission,Max Power,101.64bhp@6000rpm
+Maruti Suzuki,Victoris,VXI,Engine & Transmission,Max Torque,139Nm@4300rpm
+Maruti Suzuki,Victoris,VXI,Engine & Transmission,No. of Cylinders,4
+Maruti Suzuki,Victoris,VXI,Engine & Transmission,Valves Per Cylinder,4
+Maruti Suzuki,Victoris,VXI,Engine & Transmission,Transmission Type,Manual
+Maruti Suzuki,Victoris,VXI,Engine & Transmission,Gearbox,5-Speed
+Maruti Suzuki,Victoris,VXI,Engine & Transmission,Drive Type,FWD
+Maruti Suzuki,Victoris,VXI,Fuel & Performance,Fuel Type,Petrol
+Maruti Suzuki,Victoris,VXI,Fuel & Performance,Petrol Mileage ARAI,21.18 kmpl
+Maruti Suzuki,Victoris,VXI,Fuel & Performance,Petrol Fuel Tank Capacity,45 Litres
+Maruti Suzuki,Victoris,VXI,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Maruti Suzuki,Victoris,VXI,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Maruti Suzuki,Victoris,VXI,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Maruti Suzuki,Victoris,VXI,"Suspension, Steering & Brakes",Steering Type,Electric
+Maruti Suzuki,Victoris,VXI,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Maruti Suzuki,Victoris,VXI,"Suspension, Steering & Brakes",Steering Gear Type,Rack & Pinion
+Maruti Suzuki,Victoris,VXI,"Suspension, Steering & Brakes",Turning Radius,5.4 m
+Maruti Suzuki,Victoris,VXI,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Maruti Suzuki,Victoris,VXI,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Maruti Suzuki,Victoris,VXI,Dimensions & Capacity,Length,4360 mm
+Maruti Suzuki,Victoris,VXI,Dimensions & Capacity,Width,1795 mm
+Maruti Suzuki,Victoris,VXI,Dimensions & Capacity,Height,1655 mm
+Maruti Suzuki,Victoris,VXI,Dimensions & Capacity,Seating Capacity,5
+Maruti Suzuki,Victoris,VXI,Dimensions & Capacity,Wheel Base,2600 mm
+Maruti Suzuki,Victoris,VXI,Dimensions & Capacity,Gross Weight,1655 kg
+Maruti Suzuki,Victoris,VXI,Comfort & Convenience,Boot Opening,Manual
+Maruti Suzuki,Victoris,VXI,Comfort & Convenience,Power Steering,YES
+Maruti Suzuki,Victoris,VXI,Comfort & Convenience,Air Conditioner,YES
+Maruti Suzuki,Victoris,VXI,Comfort & Convenience,Heater,YES
+Maruti Suzuki,Victoris,VXI,Comfort & Convenience,Adjustable Steering,Height & Reach
+Maruti Suzuki,Victoris,VXI,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Maruti Suzuki,Victoris,VXI,Comfort & Convenience,Ventilated Seats,NO
+Maruti Suzuki,Victoris,VXI,Comfort & Convenience,Electric Adjustable Seats,NO
+Maruti Suzuki,Victoris,VXI,Comfort & Convenience,Automatic Climate Control,YES
+Maruti Suzuki,Victoris,VXI,Comfort & Convenience,Air Quality Control,YES
+Maruti Suzuki,Victoris,VXI,Comfort & Convenience,Accessory Power Outlet,YES
+Maruti Suzuki,Victoris,VXI,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Maruti Suzuki,Victoris,VXI,Comfort & Convenience,Adjustable Headrest,YES
+Maruti Suzuki,Victoris,VXI,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Maruti Suzuki,Victoris,VXI,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Maruti Suzuki,Victoris,VXI,Comfort & Convenience,Rear AC Vents,YES
+Maruti Suzuki,Victoris,VXI,Comfort & Convenience,Cruise Control,YES
+Maruti Suzuki,Victoris,VXI,Comfort & Convenience,Parking Sensors,Rear
+Maruti Suzuki,Victoris,VXI,Comfort & Convenience,Real-Time Vehicle Tracking,YES
+Maruti Suzuki,Victoris,VXI,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Maruti Suzuki,Victoris,VXI,Comfort & Convenience,KeyLess Entry,YES
+Maruti Suzuki,Victoris,VXI,Comfort & Convenience,Engine Start/Stop Button,YES
+Maruti Suzuki,Victoris,VXI,Comfort & Convenience,Voice Commands,YES
+Maruti Suzuki,Victoris,VXI,Comfort & Convenience,Paddle Shifters,NO
+Maruti Suzuki,Victoris,VXI,Comfort & Convenience,USB Charger,Front & Rear
+Maruti Suzuki,Victoris,VXI,Comfort & Convenience,Central Console Armrest,With Storage
+Maruti Suzuki,Victoris,VXI,Comfort & Convenience,Gear Shift Indicator,YES
+Maruti Suzuki,Victoris,VXI,Comfort & Convenience,Drive Modes,NO
+Maruti Suzuki,Victoris,VXI,Comfort & Convenience,Idle Start-Stop System,YES
+Maruti Suzuki,Victoris,VXI,Comfort & Convenience,Follow Me Home Headlamps,NO
+Maruti Suzuki,Victoris,VXI,Comfort & Convenience,Drive Mode Types,NO
+Maruti Suzuki,Victoris,VXI,Comfort & Convenience,Power Windows,Front & Rear
+Maruti Suzuki,Victoris,VXI,Interior,Glove Box,YES
+Maruti Suzuki,Victoris,VXI,Interior,Lighting,Footwell Lamp
+Maruti Suzuki,Victoris,VXI,Interior,Digital Cluster,YES
+Maruti Suzuki,Victoris,VXI,Interior,Digital Cluster Size,4.2
+Maruti Suzuki,Victoris,VXI,Interior,Upholstery,Fabric
+Maruti Suzuki,Victoris,VXI,Interior,Ambient Light Colour (numbers),NO
+Maruti Suzuki,Victoris,VXI,Exterior,Adjustable Headlamps,YES
+Maruti Suzuki,Victoris,VXI,Exterior,Rear Window Wiper,NO
+Maruti Suzuki,Victoris,VXI,Exterior,Rear Window Washer,NO
+Maruti Suzuki,Victoris,VXI,Exterior,Rear Window Defogger,YES
+Maruti Suzuki,Victoris,VXI,Exterior,Tinted Glass,NO
+Maruti Suzuki,Victoris,VXI,Exterior,Rear Spoiler,YES
+Maruti Suzuki,Victoris,VXI,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Maruti Suzuki,Victoris,VXI,Exterior,Projector Headlamps,YES
+Maruti Suzuki,Victoris,VXI,Exterior,Roof Rails,YES
+Maruti Suzuki,Victoris,VXI,Exterior,Automatic Headlamps,NO
+Maruti Suzuki,Victoris,VXI,Exterior,Fog Lights,NO
+Maruti Suzuki,Victoris,VXI,Exterior,Antenna,Shark Fin
+Maruti Suzuki,Victoris,VXI,Exterior,Sunroof,NO
+Maruti Suzuki,Victoris,VXI,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Maruti Suzuki,Victoris,VXI,Exterior,Tyre Size,215/60 R17
+Maruti Suzuki,Victoris,VXI,Exterior,Tyre Type,Tubeless
+Maruti Suzuki,Victoris,VXI,Exterior,Wheel Size,17 Inch
+Maruti Suzuki,Victoris,VXI,Exterior,LED DRLs,NO
+Maruti Suzuki,Victoris,VXI,Exterior,LED Headlamps,NO
+Maruti Suzuki,Victoris,VXI,Exterior,LED Taillights,YES
+Maruti Suzuki,Victoris,VXI,Exterior,LED Fog Lamps,NO
+Maruti Suzuki,Victoris,VXI,Exterior,Additional Features,Aero Vents & Aero Edges
+Maruti Suzuki,Victoris,VXI,Safety,Anti-lock Braking System (ABS),YES
+Maruti Suzuki,Victoris,VXI,Safety,Brake Assist,YES
+Maruti Suzuki,Victoris,VXI,Safety,Central Locking,YES
+Maruti Suzuki,Victoris,VXI,Safety,Child Safety Locks,YES
+Maruti Suzuki,Victoris,VXI,Safety,Anti-Theft Alarm,YES
+Maruti Suzuki,Victoris,VXI,Safety,No. of Airbags,6
+Maruti Suzuki,Victoris,VXI,Safety,Driver Airbag,YES
+Maruti Suzuki,Victoris,VXI,Safety,Passenger Airbag,YES
+Maruti Suzuki,Victoris,VXI,Safety,Side Airbag,YES
+Maruti Suzuki,Victoris,VXI,Safety,Side Airbag-Rear,NO
+Maruti Suzuki,Victoris,VXI,Safety,Day & Night Rear View Mirror,YES
+Maruti Suzuki,Victoris,VXI,Safety,Electronic Brakeforce Distribution (EBD),YES
+Maruti Suzuki,Victoris,VXI,Safety,Traction Control,YES
+Maruti Suzuki,Victoris,VXI,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Maruti Suzuki,Victoris,VXI,Safety,Engine Immobilizer,YES
+Maruti Suzuki,Victoris,VXI,Safety,Electronic Stability Control (ESC),YES
+Maruti Suzuki,Victoris,VXI,Safety,Rear Camera,With Guidedlines
+Maruti Suzuki,Victoris,VXI,Safety,Anti-Theft Device,YES
+Maruti Suzuki,Victoris,VXI,Safety,ISOFIX Child Seat Mounts,YES
+Maruti Suzuki,Victoris,VXI,Safety,Heads-Up Display (HUD),NO
+Maruti Suzuki,Victoris,VXI,Safety,Blind Spot Camera,NO
+Maruti Suzuki,Victoris,VXI,Safety,Hill Descent Control,NO
+Maruti Suzuki,Victoris,VXI,Safety,Hill Assist,YES
+Maruti Suzuki,Victoris,VXI,Safety,360 View Camera,NO
+Maruti Suzuki,Victoris,VXI,Safety,Global NCAP Safety Rating,5 Star
+Maruti Suzuki,Victoris,VXI,Safety,Global NCAP Child Safety Rating,5 Star
+Maruti Suzuki,Victoris,VXI,Entertainment & Communication,Radio,YES
+Maruti Suzuki,Victoris,VXI,Entertainment & Communication,Wireless Phone Charging,NO
+Maruti Suzuki,Victoris,VXI,Entertainment & Communication,Bluetooth Connectivity,YES
+Maruti Suzuki,Victoris,VXI,Entertainment & Communication,Wi-Fi Connectivity,NO
+Maruti Suzuki,Victoris,VXI,Entertainment & Communication,Touchscreen,YES
+Maruti Suzuki,Victoris,VXI,Entertainment & Communication,Touchscreen Size,7 inch
+Maruti Suzuki,Victoris,VXI,Entertainment & Communication,Android Auto,YES
+Maruti Suzuki,Victoris,VXI,Entertainment & Communication,Apple CarPlay,YES
+Maruti Suzuki,Victoris,VXI,Entertainment & Communication,No. of Speakers,2
+Maruti Suzuki,Victoris,VXI,Entertainment & Communication,Usb Ports,YES
+Maruti Suzuki,Victoris,VXI,Entertainment & Communication,Tweeters,2
+Maruti Suzuki,Victoris,VXI,Entertainment & Communication,Additional Features,SmartPlay Pro | Wireless Android Auto
+Maruti Suzuki,Victoris,VXI,Entertainment & Communication,Speakers,Front Only
+Maruti Suzuki,Victoris,VXI,Entertainment & Communication,Dolby Atmos,NO
+Maruti Suzuki,Victoris,VXI,ADAS Feature,Forward Collision Warning,NO
+Maruti Suzuki,Victoris,VXI,ADAS Feature,Automatic Emergency Braking,NO
+Maruti Suzuki,Victoris,VXI,ADAS Feature,Speed Assist System,NO
+Maruti Suzuki,Victoris,VXI,ADAS Feature,Blind Spot Collision Avoidance Assist,NO
+Maruti Suzuki,Victoris,VXI,ADAS Feature,Lane Departure Warning,NO
+Maruti Suzuki,Victoris,VXI,ADAS Feature,Lane Keep Assist,NO
+Maruti Suzuki,Victoris,VXI,ADAS Feature,Lane Departure Prevention Assist,NO
+Maruti Suzuki,Victoris,VXI,ADAS Feature,Adaptive Cruise Control,NO
+Maruti Suzuki,Victoris,VXI,ADAS Feature,Adaptive High Beam Assist,NO
+Maruti Suzuki,Victoris,VXI,ADAS Feature,Rear Cross Traffic Alert,NO
+Maruti Suzuki,Victoris,VXI,Advance Internet Feature,Live Location,YES
+Maruti Suzuki,Victoris,VXI,Advance Internet Feature,Remote Immobiliser,YES
+Maruti Suzuki,Victoris,VXI,Advance Internet Feature,Unauthorised Vehicle entry,YES
+Maruti Suzuki,Victoris,VXI,Advance Internet Feature,Engine Start Alarm,YES
+Maruti Suzuki,Victoris,VXI,Advance Internet Feature,Remote Vehicle Status Check,YES
+Maruti Suzuki,Victoris,VXI,Advance Internet Feature,PUC Expiry,YES
+Maruti Suzuki,Victoris,VXI,Advance Internet Feature,Insurance Expiry,YES
+Maruti Suzuki,Victoris,VXI,Advance Internet Feature,E-Manual,YES
+Maruti Suzuki,Victoris,VXI,Advance Internet Feature,Digital Car Key,YES
+Maruti Suzuki,Victoris,VXI,Advance Internet Feature,Inbuilt Assistant,YES
+Maruti Suzuki,Victoris,VXI,Advance Internet Feature,Hinglish Voice Commands,YES
+Maruti Suzuki,Victoris,VXI,Advance Internet Feature,Navigation with Live Traffic,NO
+Maruti Suzuki,Victoris,VXI,Advance Internet Feature,Send POI to Vehicle From App,NO
+Maruti Suzuki,Victoris,VXI,Advance Internet Feature,Live Weather,YES
+Maruti Suzuki,Victoris,VXI,Advance Internet Feature,E-Call & I-Call,YES
+Maruti Suzuki,Victoris,VXI,Advance Internet Feature,Over the Air (OTA) Updates,YES
+Maruti Suzuki,Victoris,VXI,Advance Internet Feature,Google / Alexa Connectivity,YES
+Maruti Suzuki,Victoris,VXI,Advance Internet Feature,Save Route/Place,YES
+Maruti Suzuki,Victoris,VXI,Advance Internet Feature,Crash Notification,YES
+Maruti Suzuki,Victoris,VXI,Advance Internet Feature,SOS Button,YES
+Maruti Suzuki,Victoris,VXI,Advance Internet Feature,RSA,YES
+Maruti Suzuki,Victoris,VXI,Advance Internet Feature,Over Speeding Alert,YES
+Maruti Suzuki,Victoris,VXI,Advance Internet Feature,Tow Away Alert,YES
+Maruti Suzuki,Victoris,VXI,Advance Internet Feature,In Car Remote Control App,YES
+Maruti Suzuki,Victoris,VXI,Advance Internet Feature,Smartwatch App,YES
+Maruti Suzuki,Victoris,VXI,Advance Internet Feature,Valet Mode,YES
+Maruti Suzuki,Victoris,VXI,Advance Internet Feature,Remote AC On/Off,NO
+Maruti Suzuki,Victoris,VXI,Advance Internet Feature,Remote Door Lock/Unlock,YES
+Maruti Suzuki,Victoris,VXI,Advance Internet Feature,Remote Vehicle Ignition Start/Stop,YES
+Maruti Suzuki,Victoris,VXI,Advance Internet Feature,Remote Boot Open,YES
+Maruti Suzuki,Victoris,VXI,Advance Internet Feature,SOS / Emergency Assistance,YES
+Maruti Suzuki,Victoris,VXI,Advance Internet Feature,Geo-fence Alert,YES

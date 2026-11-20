@@ -1,0 +1,149 @@
+company,model,variant,category,feature_name,feature_details
+MG,ZS EV,Exclusive Plus DT,Engine & Transmission,Battery Capacity,50.3 kWh
+MG,ZS EV,Exclusive Plus DT,Engine & Transmission,Motor Power,129 kW
+MG,ZS EV,Exclusive Plus DT,Engine & Transmission,Motor Type,Permanent Magnet Synchronous Motor
+MG,ZS EV,Exclusive Plus DT,Engine & Transmission,Max Power,174.33bhp
+MG,ZS EV,Exclusive Plus DT,Engine & Transmission,Max Torque,280Nm
+MG,ZS EV,Exclusive Plus DT,Engine & Transmission,Range,461 km
+MG,ZS EV,Exclusive Plus DT,Engine & Transmission,Battery Warranty,8 Years or 150000 km
+MG,ZS EV,Exclusive Plus DT,Engine & Transmission,Battery Type,Lithium-ion
+MG,ZS EV,Exclusive Plus DT,Engine & Transmission,Charging Time (A.C),Upto 9H 7.4 kW (0-100%)
+MG,ZS EV,Exclusive Plus DT,Engine & Transmission,Charging Time (D.C),60 Min 50 kW (0-80%)
+MG,ZS EV,Exclusive Plus DT,Engine & Transmission,Regenerative Braking,YES
+MG,ZS EV,Exclusive Plus DT,Engine & Transmission,Regenerative Braking Levels,3
+MG,ZS EV,Exclusive Plus DT,Engine & Transmission,Charging Port,CCS-II
+MG,ZS EV,Exclusive Plus DT,Engine & Transmission,Charging Options,7.4 kW AC | 50 kW DC
+MG,ZS EV,Exclusive Plus DT,Engine & Transmission,Charger Type,15 A Wall Box Charger (AC)
+MG,ZS EV,Exclusive Plus DT,Engine & Transmission,Charging Time (15 A Plug Point),upto 19H (0-100%)
+MG,ZS EV,Exclusive Plus DT,Engine & Transmission,Charging Time (7.2 kW AC Fast Charger),upto 9H(0-100%)
+MG,ZS EV,Exclusive Plus DT,Engine & Transmission,Charging Time (50 kW DC Fast Charger),60Min (0-80%)
+MG,ZS EV,Exclusive Plus DT,Engine & Transmission,Transmission Type,Automatic
+MG,ZS EV,Exclusive Plus DT,Engine & Transmission,Gearbox,1-Speed
+MG,ZS EV,Exclusive Plus DT,Engine & Transmission,Drive Type,FWD
+MG,ZS EV,Exclusive Plus DT,Fuel & Performance,Fuel Type,Electric
+MG,ZS EV,Exclusive Plus DT,Fuel & Performance,Emission Norm Compliance,ZEV
+MG,ZS EV,Exclusive Plus DT,Fuel & Performance,Top Speed,175 kmph
+MG,ZS EV,Exclusive Plus DT,Fuel & Performance,Acceleration 0-100kmph,8.5 s
+MG,ZS EV,Exclusive Plus DT,Charging,Charging Time,9H | AC 7.4 kW (0-100%)
+MG,ZS EV,Exclusive Plus DT,Charging,Fast Charging,YES
+MG,ZS EV,Exclusive Plus DT,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+MG,ZS EV,Exclusive Plus DT,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+MG,ZS EV,Exclusive Plus DT,"Suspension, Steering & Brakes",Steering Type,Electric
+MG,ZS EV,Exclusive Plus DT,"Suspension, Steering & Brakes",Steering Column,Tilt
+MG,ZS EV,Exclusive Plus DT,"Suspension, Steering & Brakes",Front Brake Type,Disc
+MG,ZS EV,Exclusive Plus DT,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+MG,ZS EV,Exclusive Plus DT,Dimensions & Capacity,Length,4323 mm
+MG,ZS EV,Exclusive Plus DT,Dimensions & Capacity,Width,1809 mm
+MG,ZS EV,Exclusive Plus DT,Dimensions & Capacity,Height,1649 mm
+MG,ZS EV,Exclusive Plus DT,Dimensions & Capacity,Boot Space,448 Litres
+MG,ZS EV,Exclusive Plus DT,Dimensions & Capacity,Seating Capacity,5
+MG,ZS EV,Exclusive Plus DT,Dimensions & Capacity,Wheel Base,2585 mm
+MG,ZS EV,Exclusive Plus DT,Comfort & Convenience,Boot Opening,Electronic
+MG,ZS EV,Exclusive Plus DT,Comfort & Convenience,Power Steering,YES
+MG,ZS EV,Exclusive Plus DT,Comfort & Convenience,Air Conditioner,YES
+MG,ZS EV,Exclusive Plus DT,Comfort & Convenience,Heater,YES
+MG,ZS EV,Exclusive Plus DT,Comfort & Convenience,Height Adjustable Driver Seat,YES
+MG,ZS EV,Exclusive Plus DT,Comfort & Convenience,Electric Adjustable Seats,Front
+MG,ZS EV,Exclusive Plus DT,Comfort & Convenience,Automatic Climate Control,YES
+MG,ZS EV,Exclusive Plus DT,Comfort & Convenience,Air Quality Control,YES
+MG,ZS EV,Exclusive Plus DT,Comfort & Convenience,Accessory Power Outlet,YES
+MG,ZS EV,Exclusive Plus DT,Comfort & Convenience,Adjustable Headrest,YES
+MG,ZS EV,Exclusive Plus DT,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+MG,ZS EV,Exclusive Plus DT,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+MG,ZS EV,Exclusive Plus DT,Comfort & Convenience,Rear AC Vents,YES
+MG,ZS EV,Exclusive Plus DT,Comfort & Convenience,Lumbar Support,YES
+MG,ZS EV,Exclusive Plus DT,Comfort & Convenience,Cruise Control,YES
+MG,ZS EV,Exclusive Plus DT,Comfort & Convenience,Parking Sensors,Rear
+MG,ZS EV,Exclusive Plus DT,Comfort & Convenience,Real-Time Vehicle Tracking,YES
+MG,ZS EV,Exclusive Plus DT,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+MG,ZS EV,Exclusive Plus DT,Comfort & Convenience,KeyLess Entry,YES
+MG,ZS EV,Exclusive Plus DT,Comfort & Convenience,Engine Start/Stop Button,YES
+MG,ZS EV,Exclusive Plus DT,Comfort & Convenience,USB Charger,Front & Rear
+MG,ZS EV,Exclusive Plus DT,Comfort & Convenience,Central Console Armrest,With Storage
+MG,ZS EV,Exclusive Plus DT,Comfort & Convenience,Drive Modes,3
+MG,ZS EV,Exclusive Plus DT,Comfort & Convenience,Follow Me Home Headlamps,YES
+MG,ZS EV,Exclusive Plus DT,Interior,Leather Wrapped Steering Wheel,YES
+MG,ZS EV,Exclusive Plus DT,Interior,Glove Box,YES
+MG,ZS EV,Exclusive Plus DT,Interior,Additional Features,Parcel Shelf
+MG,ZS EV,Exclusive Plus DT,Interior,Digital Cluster,YES
+MG,ZS EV,Exclusive Plus DT,Interior,Digital Cluster Size,7
+MG,ZS EV,Exclusive Plus DT,Interior,Upholstery,Leather
+MG,ZS EV,Exclusive Plus DT,Exterior,Adjustable Headlamps,YES
+MG,ZS EV,Exclusive Plus DT,Exterior,Rain Sensing Wiper,YES
+MG,ZS EV,Exclusive Plus DT,Exterior,Rear Window Wiper,YES
+MG,ZS EV,Exclusive Plus DT,Exterior,Rear Window Washer,YES
+MG,ZS EV,Exclusive Plus DT,Exterior,Rear Window Defogger,YES
+MG,ZS EV,Exclusive Plus DT,Exterior,Wheel Covers,NO
+MG,ZS EV,Exclusive Plus DT,Exterior,Alloy Wheels,YES
+MG,ZS EV,Exclusive Plus DT,Exterior,Rear Spoiler,YES
+MG,ZS EV,Exclusive Plus DT,Exterior,Outside Rear View Mirror Turn Indicators,YES
+MG,ZS EV,Exclusive Plus DT,Exterior,Roof Rails,YES
+MG,ZS EV,Exclusive Plus DT,Exterior,Fog Lights,Front & Rear
+MG,ZS EV,Exclusive Plus DT,Exterior,Antenna,Shark Fin
+MG,ZS EV,Exclusive Plus DT,Exterior,Sunroof,Panoramic
+MG,ZS EV,Exclusive Plus DT,Exterior,Heated Outside Rear View Mirror,YES
+MG,ZS EV,Exclusive Plus DT,Exterior,Tyre Size,215/55 R17
+MG,ZS EV,Exclusive Plus DT,Exterior,Tyre Type,"Tubeless, Radial"
+MG,ZS EV,Exclusive Plus DT,Exterior,LED DRLs,YES
+MG,ZS EV,Exclusive Plus DT,Exterior,LED Headlamps,YES
+MG,ZS EV,Exclusive Plus DT,Exterior,LED Taillights,YES
+MG,ZS EV,Exclusive Plus DT,Safety,Anti-lock Braking System (ABS),YES
+MG,ZS EV,Exclusive Plus DT,Safety,Brake Assist,YES
+MG,ZS EV,Exclusive Plus DT,Safety,Central Locking,YES
+MG,ZS EV,Exclusive Plus DT,Safety,Child Safety Locks,YES
+MG,ZS EV,Exclusive Plus DT,Safety,Anti-Theft Alarm,YES
+MG,ZS EV,Exclusive Plus DT,Safety,No. of Airbags,6
+MG,ZS EV,Exclusive Plus DT,Safety,Driver Airbag,YES
+MG,ZS EV,Exclusive Plus DT,Safety,Passenger Airbag,YES
+MG,ZS EV,Exclusive Plus DT,Safety,Side Airbag,YES
+MG,ZS EV,Exclusive Plus DT,Safety,Side Airbag-Rear,NO
+MG,ZS EV,Exclusive Plus DT,Safety,Day & Night Rear View Mirror,YES
+MG,ZS EV,Exclusive Plus DT,Safety,Electronic Brakeforce Distribution (EBD),YES
+MG,ZS EV,Exclusive Plus DT,Safety,Tyre Pressure Monitoring System (TPMS),YES
+MG,ZS EV,Exclusive Plus DT,Safety,Engine Immobilizer,YES
+MG,ZS EV,Exclusive Plus DT,Safety,Electronic Stability Control (ESC),YES
+MG,ZS EV,Exclusive Plus DT,Safety,Rear Camera,With Guidedlines
+MG,ZS EV,Exclusive Plus DT,Safety,Anti-Theft Device,YES
+MG,ZS EV,Exclusive Plus DT,Safety,Anti-Pinch Power Windows,Driver
+MG,ZS EV,Exclusive Plus DT,Safety,ISOFIX Child Seat Mounts,YES
+MG,ZS EV,Exclusive Plus DT,Safety,Hill Descent Control,YES
+MG,ZS EV,Exclusive Plus DT,Safety,Hill Assist,YES
+MG,ZS EV,Exclusive Plus DT,Safety,360 View Camera,YES
+MG,ZS EV,Exclusive Plus DT,Entertainment & Communication,Radio,YES
+MG,ZS EV,Exclusive Plus DT,Entertainment & Communication,Wireless Phone Charging,YES
+MG,ZS EV,Exclusive Plus DT,Entertainment & Communication,Bluetooth Connectivity,YES
+MG,ZS EV,Exclusive Plus DT,Entertainment & Communication,Wi-Fi Connectivity,YES
+MG,ZS EV,Exclusive Plus DT,Entertainment & Communication,Touchscreen,YES
+MG,ZS EV,Exclusive Plus DT,Entertainment & Communication,Touchscreen Size,10.11 inch
+MG,ZS EV,Exclusive Plus DT,Entertainment & Communication,Android Auto,YES
+MG,ZS EV,Exclusive Plus DT,Entertainment & Communication,Apple CarPlay,YES
+MG,ZS EV,Exclusive Plus DT,Entertainment & Communication,No. of Speakers,4
+MG,ZS EV,Exclusive Plus DT,Entertainment & Communication,Usb Ports,YES
+MG,ZS EV,Exclusive Plus DT,Entertainment & Communication,Inbuilt Apps,Jio Saavn
+MG,ZS EV,Exclusive Plus DT,Entertainment & Communication,Tweeters,2
+MG,ZS EV,Exclusive Plus DT,Entertainment & Communication,Additional Features,Wireless Android Auto & Apple CarPlay
+MG,ZS EV,Exclusive Plus DT,Entertainment & Communication,Speakers,Front & Rear
+MG,ZS EV,Exclusive Plus DT,ADAS Feature,Forward Collision Warning,NO
+MG,ZS EV,Exclusive Plus DT,ADAS Feature,Automatic Emergency Braking,NO
+MG,ZS EV,Exclusive Plus DT,ADAS Feature,Lane Departure Warning,NO
+MG,ZS EV,Exclusive Plus DT,ADAS Feature,Lane Keep Assist,NO
+MG,ZS EV,Exclusive Plus DT,ADAS Feature,Driver Attention Warning,YES
+MG,ZS EV,Exclusive Plus DT,ADAS Feature,Adaptive Cruise Control,NO
+MG,ZS EV,Exclusive Plus DT,ADAS Feature,Rear Cross Traffic Alert,YES
+MG,ZS EV,Exclusive Plus DT,ADAS Feature,Blind Spot Monitor,YES
+MG,ZS EV,Exclusive Plus DT,Advance Internet Feature,Live Location,YES
+MG,ZS EV,Exclusive Plus DT,Advance Internet Feature,Engine Start Alarm,YES
+MG,ZS EV,Exclusive Plus DT,Advance Internet Feature,Remote Vehicle Status Check,YES
+MG,ZS EV,Exclusive Plus DT,Advance Internet Feature,Digital Car Key,YES
+MG,ZS EV,Exclusive Plus DT,Advance Internet Feature,Hinglish Voice Commands,YES
+MG,ZS EV,Exclusive Plus DT,Advance Internet Feature,Navigation with Live Traffic,YES
+MG,ZS EV,Exclusive Plus DT,Advance Internet Feature,Live Weather,YES
+MG,ZS EV,Exclusive Plus DT,Advance Internet Feature,E-Call & I-Call,YES
+MG,ZS EV,Exclusive Plus DT,Advance Internet Feature,Over the Air (OTA) Updates,YES
+MG,ZS EV,Exclusive Plus DT,Advance Internet Feature,Over Speeding Alert,YES
+MG,ZS EV,Exclusive Plus DT,Advance Internet Feature,Smartwatch App,YES
+MG,ZS EV,Exclusive Plus DT,Advance Internet Feature,Valet Mode,YES
+MG,ZS EV,Exclusive Plus DT,Advance Internet Feature,Remote AC On/Off,YES
+MG,ZS EV,Exclusive Plus DT,Advance Internet Feature,Remote Door Lock/Unlock,YES
+MG,ZS EV,Exclusive Plus DT,Advance Internet Feature,Geo-fence Alert,YES
+MG,ZS EV,Exclusive Plus DT,Advance Internet Feature,Inbuilt APPs,i-SMART

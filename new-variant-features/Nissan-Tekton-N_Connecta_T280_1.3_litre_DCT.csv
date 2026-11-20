@@ -1,0 +1,136 @@
+company,model,variant,category,feature_name,feature_details
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Engine & Transmission,Engine Type,T280
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Engine & Transmission,Displacement,1333 cc
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Engine & Transmission,Max Power,160.77bhp@5250rpm
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Engine & Transmission,Max Torque,280Nm@2000-3500rpm
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Engine & Transmission,No. of Cylinders,4
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Engine & Transmission,Valves Per Cylinder,4
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Engine & Transmission,Fuel Supply System,GDi
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Engine & Transmission,Turbo Charger,YES
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Engine & Transmission,Transmission Type,Automatic
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Engine & Transmission,Gearbox,6-Speed
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Engine & Transmission,Drive Type,FWD
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Fuel & Performance,Fuel Type,Petrol
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Fuel & Performance,Petrol Mileage ARAI,18.5 kmpl
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Fuel & Performance,Petrol Fuel Tank Capacity,50 Litres
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Fuel & Performance,Acceleration,9.89 s
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Fuel & Performance,0-100kmph,9.89 s
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,"Suspension, Steering & Brakes",Shock Absorbers Type,Hydraulic
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,"Suspension, Steering & Brakes",Steering Type,Electric
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,"Suspension, Steering & Brakes",Steering Column,Tilt &Telescopic
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,"Suspension, Steering & Brakes",Steering Gear Type,Rack & Pinion
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,"Suspension, Steering & Brakes",Boot Space Rear Seat Folding,1789 Litres
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Dimensions & Capacity,Length,4349 mm
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Dimensions & Capacity,Width,1815 mm
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Dimensions & Capacity,Height,1674 mm
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Dimensions & Capacity,Boot Space,518 Litres
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Dimensions & Capacity,Seating Capacity,5
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Dimensions & Capacity,Wheel Base,2657 mm
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Dimensions & Capacity,Approach Angle,26.9 °
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Dimensions & Capacity,Departure Angle,34.7 °
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Dimensions & Capacity,Reported Ground Clearance (Unladen),212 mm
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Comfort & Convenience,Boot Opening,Manual
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Comfort & Convenience,Power Steering,YES
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Comfort & Convenience,Air Conditioner,YES
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Comfort & Convenience,Heater,YES
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Comfort & Convenience,Adjustable Steering,Height & Reach
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Comfort & Convenience,Ventilated Seats,NO
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Comfort & Convenience,Electric Adjustable Seats,NO
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Comfort & Convenience,Automatic Climate Control,YES
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Comfort & Convenience,Air Quality Control,NO
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Comfort & Convenience,Accessory Power Outlet,YES
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Comfort & Convenience,Adjustable Headrest,YES
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Comfort & Convenience,Rear AC Vents,YES
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Comfort & Convenience,Cruise Control,YES
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Comfort & Convenience,Parking Sensors,Rear
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Comfort & Convenience,Engine Start/Stop Button,YES
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Comfort & Convenience,Voice Commands,YES
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Comfort & Convenience,Paddle Shifters,YES
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Comfort & Convenience,USB Charger,Front & Rear
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Comfort & Convenience,Central Console Armrest,With Storage
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Comfort & Convenience,Drive Modes,NO
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Comfort & Convenience,Idle Start-Stop System,YES
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Comfort & Convenience,Follow Me Home Headlamps,YES
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Comfort & Convenience,Power Windows,Front & Rear
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Interior,Leather Wrapped Steering Wheel,YES
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Interior,Glove Box,YES
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Interior,Digital Cluster,YES
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Interior,Digital Cluster Size,10.25
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Exterior,Adjustable Headlamps,YES
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Exterior,Rain Sensing Wiper,NO
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Exterior,Rear Window Wiper,YES
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Exterior,Rear Window Washer,YES
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Exterior,Rear Window Defogger,YES
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Exterior,Wheel Covers,NO
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Exterior,Alloy Wheels,YES
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Exterior,Rear Spoiler,YES
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Exterior,Roof Rails,YES
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Exterior,Automatic Headlamps,YES
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Exterior,Fog Lights,Front & Rear
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Exterior,Antenna,Shark Fin
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Exterior,Sunroof,Panoramic
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Exterior,Tyre Size,R18 225/55
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Exterior,Tyre Type,Radial & Tubeless
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Exterior,LED DRLs,YES
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Exterior,LED Headlamps,YES
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Exterior,LED Taillights,YES
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Exterior,LED Fog Lamps,YES
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Safety,Anti-lock Braking System (ABS),YES
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Safety,Central Locking,YES
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Safety,Child Safety Locks,YES
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Safety,No. of Airbags,6
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Safety,Driver Airbag,YES
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Safety,Passenger Airbag,YES
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Safety,Side Airbag,YES
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Safety,Side Airbag-Rear,NO
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Safety,Day & Night Rear View Mirror,YES
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Safety,Electronic Brakeforce Distribution (EBD),YES
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Safety,Traction Control,YES
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Safety,Engine Immobilizer,YES
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Safety,Electronic Stability Control (ESC),YES
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Safety,Rear Camera,With Guidedlines
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Safety,Anti-Pinch Power Windows,All Windows
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Safety,Hill Descent Control,NO
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Safety,Hill Assist,YES
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Safety,360 View Camera,NO
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Safety,Bharat NCAP Safety Rating,5 Star
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Safety,Bharat NCAP Child Safety Rating,5 Star
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Entertainment & Communication,Radio,YES
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Entertainment & Communication,Wireless Phone Charging,YES
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Entertainment & Communication,Bluetooth Connectivity,YES
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Entertainment & Communication,Touchscreen,YES
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Entertainment & Communication,Touchscreen Size,10.1 inch
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Entertainment & Communication,Android Auto,Wireless
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Entertainment & Communication,Apple CarPlay,Wireless
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Entertainment & Communication,No. of Speakers,6
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Entertainment & Communication,Usb Ports,YES
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Entertainment & Communication,Speakers,Front & Rear
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,ADAS Feature,Automatic Emergency Braking,NO
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,ADAS Feature,Speed Assist System,NO
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,ADAS Feature,Traffic Sign Recognition,NO
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,ADAS Feature,Blind Spot Collision Avoidance Assist,NO
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,ADAS Feature,Lane Departure Warning,NO
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,ADAS Feature,Lane Keep Assist,NO
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,ADAS Feature,Driver Attention Warning,NO
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,ADAS Feature,Adaptive Cruise Control,NO
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,ADAS Feature,Adaptive High Beam Assist,NO
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Advance Internet Feature,Live Location,NO
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Advance Internet Feature,Remote Vehicle Status Check,NO
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Advance Internet Feature,Navigation with Live Traffic,NO
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Advance Internet Feature,Live Weather,NO
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Advance Internet Feature,Over the Air (OTA) Updates,NO
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Advance Internet Feature,Google / Alexa Connectivity,NO
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Advance Internet Feature,In Car Remote Control App,NO
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Advance Internet Feature,Remote AC On/Off,NO
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Advance Internet Feature,Remote Door Lock/Unlock,NO
+Nissan,Tekton,N-Connecta T280 1.3-litre DCT,Advance Internet Feature,Inbuilt APPs,NO

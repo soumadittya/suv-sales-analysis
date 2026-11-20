@@ -1,0 +1,113 @@
+company,model,variant,category,feature_name,feature_details
+Audi,SQ8,V8 TFSI,Engine & Transmission,Engine Type,TFSI
+Audi,SQ8,V8 TFSI,Engine & Transmission,Displacement,3996 cc
+Audi,SQ8,V8 TFSI,Engine & Transmission,Max Power,500bhp@5500rpm
+Audi,SQ8,V8 TFSI,Engine & Transmission,Max Torque,770Nm@2000 - 4000rpm
+Audi,SQ8,V8 TFSI,Engine & Transmission,No. of Cylinders,8
+Audi,SQ8,V8 TFSI,Engine & Transmission,Valves Per Cylinder,4
+Audi,SQ8,V8 TFSI,Engine & Transmission,Fuel Supply System,GDI
+Audi,SQ8,V8 TFSI,Engine & Transmission,Transmission Type,Automatic
+Audi,SQ8,V8 TFSI,Engine & Transmission,Gearbox,8-Speed
+Audi,SQ8,V8 TFSI,Engine & Transmission,Drive Type,AWD
+Audi,SQ8,V8 TFSI,Fuel & Performance,Fuel Type,Petrol
+Audi,SQ8,V8 TFSI,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Audi,SQ8,V8 TFSI,Fuel & Performance,Top Speed,250 kmph
+Audi,SQ8,V8 TFSI,Fuel & Performance,Acceleration,4.1 s
+Audi,SQ8,V8 TFSI,Fuel & Performance,0-100kmph,4.1 s
+Audi,SQ8,V8 TFSI,"Suspension, Steering & Brakes",Front Suspension,Air suspension
+Audi,SQ8,V8 TFSI,"Suspension, Steering & Brakes",Rear Suspension,Air suspension
+Audi,SQ8,V8 TFSI,"Suspension, Steering & Brakes",Steering Type,Electric
+Audi,SQ8,V8 TFSI,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Audi,SQ8,V8 TFSI,"Suspension, Steering & Brakes",Steering Gear Type,Rack & Pinion
+Audi,SQ8,V8 TFSI,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Audi,SQ8,V8 TFSI,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Audi,SQ8,V8 TFSI,Dimensions & Capacity,Length,5005 mm
+Audi,SQ8,V8 TFSI,Dimensions & Capacity,Width,2190 mm
+Audi,SQ8,V8 TFSI,Dimensions & Capacity,Height,1695 mm
+Audi,SQ8,V8 TFSI,Dimensions & Capacity,Seating Capacity,5
+Audi,SQ8,V8 TFSI,Dimensions & Capacity,Wheel Base,3000 mm
+Audi,SQ8,V8 TFSI,Comfort & Convenience,Boot Opening,Hands-Free
+Audi,SQ8,V8 TFSI,Comfort & Convenience,Power Steering,YES
+Audi,SQ8,V8 TFSI,Comfort & Convenience,Air Conditioner,YES
+Audi,SQ8,V8 TFSI,Comfort & Convenience,Heater,YES
+Audi,SQ8,V8 TFSI,Comfort & Convenience,Adjustable Steering,Height & Reach
+Audi,SQ8,V8 TFSI,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Audi,SQ8,V8 TFSI,Comfort & Convenience,Electric Adjustable Seats,Front
+Audi,SQ8,V8 TFSI,Comfort & Convenience,Automatic Climate Control,YES
+Audi,SQ8,V8 TFSI,Comfort & Convenience,Accessory Power Outlet,YES
+Audi,SQ8,V8 TFSI,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Audi,SQ8,V8 TFSI,Comfort & Convenience,Adjustable Headrest,YES
+Audi,SQ8,V8 TFSI,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Audi,SQ8,V8 TFSI,Comfort & Convenience,Rear AC Vents,YES
+Audi,SQ8,V8 TFSI,Comfort & Convenience,Lumbar Support,YES
+Audi,SQ8,V8 TFSI,Comfort & Convenience,Cruise Control,YES
+Audi,SQ8,V8 TFSI,Comfort & Convenience,Parking Sensors,Front & Rear
+Audi,SQ8,V8 TFSI,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Audi,SQ8,V8 TFSI,Comfort & Convenience,KeyLess Entry,YES
+Audi,SQ8,V8 TFSI,Comfort & Convenience,Engine Start/Stop Button,YES
+Audi,SQ8,V8 TFSI,Comfort & Convenience,Paddle Shifters,YES
+Audi,SQ8,V8 TFSI,Comfort & Convenience,USB Charger,Front & Rear
+Audi,SQ8,V8 TFSI,Comfort & Convenience,Central Console Armrest,With Storage
+Audi,SQ8,V8 TFSI,Comfort & Convenience,Drive Mode Types,"Auto, Comfort, Dynamic, Efficiency, Individual, Off-road and All-road"
+Audi,SQ8,V8 TFSI,Comfort & Convenience,Power Windows,Front & Rear
+Audi,SQ8,V8 TFSI,Comfort & Convenience,Cup Holders,Front & Rear
+Audi,SQ8,V8 TFSI,Interior,Leather Wrapped Steering Wheel,YES
+Audi,SQ8,V8 TFSI,Interior,Glove Box,YES
+Audi,SQ8,V8 TFSI,Interior,Lighting,Ambient light
+Audi,SQ8,V8 TFSI,Interior,Digital Cluster,YES
+Audi,SQ8,V8 TFSI,Interior,Digital Cluster Size,12.3
+Audi,SQ8,V8 TFSI,Interior,Ambient Light Colour (numbers),30
+Audi,SQ8,V8 TFSI,Exterior,Headlamp Washers,YES
+Audi,SQ8,V8 TFSI,Exterior,Rear Window Wiper,YES
+Audi,SQ8,V8 TFSI,Exterior,Wheel Covers,NO
+Audi,SQ8,V8 TFSI,Exterior,Alloy Wheels,YES
+Audi,SQ8,V8 TFSI,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Audi,SQ8,V8 TFSI,Exterior,Antenna,Shark Fin
+Audi,SQ8,V8 TFSI,Exterior,Sunroof,Panoramic
+Audi,SQ8,V8 TFSI,Exterior,Heated Outside Rear View Mirror,YES
+Audi,SQ8,V8 TFSI,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Audi,SQ8,V8 TFSI,Exterior,LED DRLs,YES
+Audi,SQ8,V8 TFSI,Exterior,LED Headlamps,YES
+Audi,SQ8,V8 TFSI,Exterior,LED Taillights,YES
+Audi,SQ8,V8 TFSI,Safety,Anti-lock Braking System (ABS),YES
+Audi,SQ8,V8 TFSI,Safety,Central Locking,YES
+Audi,SQ8,V8 TFSI,Safety,Anti-Theft Alarm,YES
+Audi,SQ8,V8 TFSI,Safety,No. of Airbags,8
+Audi,SQ8,V8 TFSI,Safety,Driver Airbag,YES
+Audi,SQ8,V8 TFSI,Safety,Passenger Airbag,YES
+Audi,SQ8,V8 TFSI,Safety,Side Airbag,YES
+Audi,SQ8,V8 TFSI,Safety,Side Airbag-Rear,YES
+Audi,SQ8,V8 TFSI,Safety,Day & Night Rear View Mirror,YES
+Audi,SQ8,V8 TFSI,Safety,Electronic Brakeforce Distribution (EBD),YES
+Audi,SQ8,V8 TFSI,Safety,Traction Control,YES
+Audi,SQ8,V8 TFSI,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Audi,SQ8,V8 TFSI,Safety,Electronic Stability Control (ESC),YES
+Audi,SQ8,V8 TFSI,Safety,Rear Camera,With Guidedlines
+Audi,SQ8,V8 TFSI,Safety,Anti-Theft Device,YES
+Audi,SQ8,V8 TFSI,Safety,Heads-Up Display (HUD),YES
+Audi,SQ8,V8 TFSI,Safety,Hill Descent Control,YES
+Audi,SQ8,V8 TFSI,Safety,360 View Camera,YES
+Audi,SQ8,V8 TFSI,Entertainment & Communication,Radio,YES
+Audi,SQ8,V8 TFSI,Entertainment & Communication,Wireless Phone Charging,YES
+Audi,SQ8,V8 TFSI,Entertainment & Communication,Bluetooth Connectivity,YES
+Audi,SQ8,V8 TFSI,Entertainment & Communication,Touchscreen,YES
+Audi,SQ8,V8 TFSI,Entertainment & Communication,Android Auto,YES
+Audi,SQ8,V8 TFSI,Entertainment & Communication,Apple CarPlay,YES
+Audi,SQ8,V8 TFSI,Entertainment & Communication,No. of Speakers,17
+Audi,SQ8,V8 TFSI,Entertainment & Communication,Usb Ports,YES
+Audi,SQ8,V8 TFSI,Entertainment & Communication,Additional Features,Wireless Apple CarPlay and Android Auto
+Audi,SQ8,V8 TFSI,Entertainment & Communication,Speakers,Front & Rear
+Audi,SQ8,V8 TFSI,ADAS Feature,Automatic Emergency Braking,YES
+Audi,SQ8,V8 TFSI,ADAS Feature,Speed Assist System,YES
+Audi,SQ8,V8 TFSI,ADAS Feature,Driver Attention Warning,YES
+Audi,SQ8,V8 TFSI,ADAS Feature,Adaptive High Beam Assist,YES
+Audi,SQ8,V8 TFSI,ADAS Feature,Rear Cross Traffic Alert,YES
+Audi,SQ8,V8 TFSI,Advance Internet Feature,Live Location,YES
+Audi,SQ8,V8 TFSI,Advance Internet Feature,Remote Vehicle Status Check,YES
+Audi,SQ8,V8 TFSI,Advance Internet Feature,Inbuilt Assistant,YES
+Audi,SQ8,V8 TFSI,Advance Internet Feature,Navigation with Live Traffic,YES
+Audi,SQ8,V8 TFSI,Advance Internet Feature,Live Weather,YES
+Audi,SQ8,V8 TFSI,Advance Internet Feature,E-Call & I-Call,YES
+Audi,SQ8,V8 TFSI,Advance Internet Feature,Over Speeding Alert,YES
+Audi,SQ8,V8 TFSI,Advance Internet Feature,Tow Away Alert,YES
+Audi,SQ8,V8 TFSI,Advance Internet Feature,SOS / Emergency Assistance,YES

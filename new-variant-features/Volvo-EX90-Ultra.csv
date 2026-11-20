@@ -1,0 +1,98 @@
+company,model,variant,category,feature_name,feature_details
+Volvo,EX90,Ultra,Engine & Transmission,Battery Capacity,106 kWh
+Volvo,EX90,Ultra,Engine & Transmission,Motor Power,335 kW
+Volvo,EX90,Ultra,Engine & Transmission,Max Power,449bhp
+Volvo,EX90,Ultra,Engine & Transmission,Max Torque,670Nm
+Volvo,EX90,Ultra,Engine & Transmission,Range,625 km
+Volvo,EX90,Ultra,Engine & Transmission,Regenerative Braking,YES
+Volvo,EX90,Ultra,Engine & Transmission,Charging Port,CCS-II
+Volvo,EX90,Ultra,Engine & Transmission,Transmission Type,Automatic
+Volvo,EX90,Ultra,Engine & Transmission,Gearbox,1-Speed
+Volvo,EX90,Ultra,Engine & Transmission,Drive Type,AWD
+Volvo,EX90,Ultra,Fuel & Performance,Fuel Type,Electric
+Volvo,EX90,Ultra,Fuel & Performance,Emission Norm Compliance,ZEV
+Volvo,EX90,Ultra,Fuel & Performance,Top Speed,180 kmph
+Volvo,EX90,Ultra,Fuel & Performance,Acceleration 0-100kmph,5.5 s
+Volvo,EX90,Ultra,Charging,Charging Time,0–100% in 10 hrs
+Volvo,EX90,Ultra,Charging,Fast Charging,YES
+Volvo,EX90,Ultra,"Suspension, Steering & Brakes",Front Suspension,Air suspension
+Volvo,EX90,Ultra,"Suspension, Steering & Brakes",Rear Suspension,Air suspension
+Volvo,EX90,Ultra,"Suspension, Steering & Brakes",Steering Type,Electric
+Volvo,EX90,Ultra,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Volvo,EX90,Ultra,"Suspension, Steering & Brakes",Turning Radius,6 m
+Volvo,EX90,Ultra,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Volvo,EX90,Ultra,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Volvo,EX90,Ultra,"Suspension, Steering & Brakes",Boot Space Rear Seat Folding,1212 Litres
+Volvo,EX90,Ultra,Dimensions & Capacity,Length,5037 mm
+Volvo,EX90,Ultra,Dimensions & Capacity,Width,1964 mm
+Volvo,EX90,Ultra,Dimensions & Capacity,Height,1744 mm
+Volvo,EX90,Ultra,Dimensions & Capacity,Boot Space,324 Litres
+Volvo,EX90,Ultra,Dimensions & Capacity,Seating Capacity,6
+Volvo,EX90,Ultra,Dimensions & Capacity,Ground Clearance (Laden),213 mm
+Volvo,EX90,Ultra,Dimensions & Capacity,Wheel Base,2985 mm
+Volvo,EX90,Ultra,Comfort & Convenience,Boot Opening,Powered
+Volvo,EX90,Ultra,Comfort & Convenience,Power Steering,YES
+Volvo,EX90,Ultra,Comfort & Convenience,Air Conditioner,YES
+Volvo,EX90,Ultra,Comfort & Convenience,Heater,YES
+Volvo,EX90,Ultra,Comfort & Convenience,Adjustable Steering,Powered Adjustment
+Volvo,EX90,Ultra,Comfort & Convenience,Automatic Climate Control,YES
+Volvo,EX90,Ultra,Comfort & Convenience,Air Quality Control,YES
+Volvo,EX90,Ultra,Comfort & Convenience,Accessory Power Outlet,YES
+Volvo,EX90,Ultra,Comfort & Convenience,Rear AC Vents,YES
+Volvo,EX90,Ultra,Comfort & Convenience,Cruise Control,YES
+Volvo,EX90,Ultra,Comfort & Convenience,USB Charger,Front & Rear
+Volvo,EX90,Ultra,Comfort & Convenience,Central Console Armrest,YES
+Volvo,EX90,Ultra,Comfort & Convenience,Follow Me Home Headlamps,YES
+Volvo,EX90,Ultra,Comfort & Convenience,Power Windows,Front & Rear
+Volvo,EX90,Ultra,Interior,Glove Box,YES
+Volvo,EX90,Ultra,Interior,Digital Cluster,YES
+Volvo,EX90,Ultra,Interior,Digital Cluster Size,9
+Volvo,EX90,Ultra,Interior,Upholstery,Leather
+Volvo,EX90,Ultra,Exterior,Adjustable Headlamps,YES
+Volvo,EX90,Ultra,Exterior,Headlamp Washers,YES
+Volvo,EX90,Ultra,Exterior,Rain Sensing Wiper,YES
+Volvo,EX90,Ultra,Exterior,Rear Window Wiper,YES
+Volvo,EX90,Ultra,Exterior,Rear Window Washer,YES
+Volvo,EX90,Ultra,Exterior,Rear Window Defogger,YES
+Volvo,EX90,Ultra,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Volvo,EX90,Ultra,Exterior,Sunroof,Panoramic
+Volvo,EX90,Ultra,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Volvo,EX90,Ultra,Exterior,Wheels Type,Alloy
+Volvo,EX90,Ultra,Exterior,Exterior Camera,360° Camera
+Volvo,EX90,Ultra,Exterior,Tyre Size,265/45 R21
+Volvo,EX90,Ultra,Exterior,Tyre Type,Radial Tubeless
+Volvo,EX90,Ultra,Exterior,Wheel Size,21 Inch
+Volvo,EX90,Ultra,Exterior,LED DRLs,YES
+Volvo,EX90,Ultra,Exterior,LED Headlamps,YES
+Volvo,EX90,Ultra,Exterior,LED Taillights,YES
+Volvo,EX90,Ultra,Safety,Anti-lock Braking System (ABS),YES
+Volvo,EX90,Ultra,Safety,Brake Assist,YES
+Volvo,EX90,Ultra,Safety,Central Locking,YES
+Volvo,EX90,Ultra,Safety,Child Safety Locks,YES
+Volvo,EX90,Ultra,Safety,Anti-Theft Alarm,YES
+Volvo,EX90,Ultra,Safety,No. of Airbags,9
+Volvo,EX90,Ultra,Safety,Day & Night Rear View Mirror,YES
+Volvo,EX90,Ultra,Safety,Electronic Brakeforce Distribution (EBD),YES
+Volvo,EX90,Ultra,Safety,Traction Control,YES
+Volvo,EX90,Ultra,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Volvo,EX90,Ultra,Safety,Electronic Stability Control (ESC),YES
+Volvo,EX90,Ultra,Safety,Anti-Theft Device,YES
+Volvo,EX90,Ultra,Safety,Heads-Up Display (HUD),YES
+Volvo,EX90,Ultra,Safety,Hill Assist,YES
+Volvo,EX90,Ultra,Safety,360 View Camera,YES
+Volvo,EX90,Ultra,Safety,Global NCAP Safety Rating,5 Star
+Volvo,EX90,Ultra,Safety,Global NCAP Child Safety Rating,5 Star
+Volvo,EX90,Ultra,Safety,Bharat NCAP Safety Rating,5 Star
+Volvo,EX90,Ultra,Safety,Bharat NCAP Child Safety Rating,5 Star
+Volvo,EX90,Ultra,Entertainment & Communication,Radio,YES
+Volvo,EX90,Ultra,Entertainment & Communication,Wireless Phone Charging,YES
+Volvo,EX90,Ultra,Entertainment & Communication,Bluetooth Connectivity,YES
+Volvo,EX90,Ultra,Entertainment & Communication,Touchscreen,YES
+Volvo,EX90,Ultra,Entertainment & Communication,Touchscreen Size,14.5 inch
+Volvo,EX90,Ultra,Entertainment & Communication,Android Auto,Wireless
+Volvo,EX90,Ultra,Entertainment & Communication,Apple CarPlay,Wireless
+Volvo,EX90,Ultra,Entertainment & Communication,No. of Speakers,25
+Volvo,EX90,Ultra,Entertainment & Communication,Usb Ports,YES
+Volvo,EX90,Ultra,Entertainment & Communication,Speakers,Front & Rear
+Volvo,EX90,Ultra,Entertainment & Communication,Dolby Atmos,YES
+Volvo,EX90,Ultra,ADAS Feature,Blind Spot Monitor,YES

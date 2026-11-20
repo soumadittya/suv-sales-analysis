@@ -1,0 +1,116 @@
+company,model,variant,category,feature_name,feature_details
+Toyota,Taisor,E CNG,Engine & Transmission,Engine Type,1.2L K-Series Dual Jet
+Toyota,Taisor,E CNG,Engine & Transmission,Displacement,1197 cc
+Toyota,Taisor,E CNG,Engine & Transmission,Max Power,76.43bhp@6000rpm
+Toyota,Taisor,E CNG,Engine & Transmission,Max Torque,98.5Nm@4300rpm
+Toyota,Taisor,E CNG,Engine & Transmission,No. of Cylinders,4
+Toyota,Taisor,E CNG,Engine & Transmission,Valves Per Cylinder,4
+Toyota,Taisor,E CNG,Engine & Transmission,Turbo Charger,NO
+Toyota,Taisor,E CNG,Engine & Transmission,Transmission Type,Manual
+Toyota,Taisor,E CNG,Engine & Transmission,Gearbox,5-Speed
+Toyota,Taisor,E CNG,Engine & Transmission,Drive Type,FWD
+Toyota,Taisor,E CNG,Fuel & Performance,Fuel Type,CNG
+Toyota,Taisor,E CNG,Fuel & Performance,CNG Mileage ARAI,28.5 km/kg
+Toyota,Taisor,E CNG,Fuel & Performance,CNG Fuel Tank Capacity,55 Litres
+Toyota,Taisor,E CNG,Fuel & Performance,Secondary Fuel Type,Petrol
+Toyota,Taisor,E CNG,Fuel & Performance,Petrol Fuel Tank Capacity (Litres),37.0
+Toyota,Taisor,E CNG,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Toyota,Taisor,E CNG,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Toyota,Taisor,E CNG,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Toyota,Taisor,E CNG,"Suspension, Steering & Brakes",Steering Type,Electric
+Toyota,Taisor,E CNG,"Suspension, Steering & Brakes",Steering Column,Tilt
+Toyota,Taisor,E CNG,"Suspension, Steering & Brakes",Turning Radius,4.9 m
+Toyota,Taisor,E CNG,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Toyota,Taisor,E CNG,"Suspension, Steering & Brakes",Rear Brake Type,Drum
+Toyota,Taisor,E CNG,Dimensions & Capacity,Length,3995 mm
+Toyota,Taisor,E CNG,Dimensions & Capacity,Width,1765 mm
+Toyota,Taisor,E CNG,Dimensions & Capacity,Height,1550 mm
+Toyota,Taisor,E CNG,Dimensions & Capacity,Boot Space,308 Litres
+Toyota,Taisor,E CNG,Dimensions & Capacity,Seating Capacity,5
+Toyota,Taisor,E CNG,Dimensions & Capacity,Wheel Base,2520 mm
+Toyota,Taisor,E CNG,Dimensions & Capacity,Kerb Weight,1055-1060 kg
+Toyota,Taisor,E CNG,Dimensions & Capacity,Gross Weight,1480 kg
+Toyota,Taisor,E CNG,Comfort & Convenience,Boot Opening,Manual
+Toyota,Taisor,E CNG,Comfort & Convenience,Power Steering,YES
+Toyota,Taisor,E CNG,Comfort & Convenience,Air Conditioner,YES
+Toyota,Taisor,E CNG,Comfort & Convenience,Heater,YES
+Toyota,Taisor,E CNG,Comfort & Convenience,Height Adjustable Driver Seat,NO
+Toyota,Taisor,E CNG,Comfort & Convenience,Automatic Climate Control,YES
+Toyota,Taisor,E CNG,Comfort & Convenience,Adjustable Headrest,YES
+Toyota,Taisor,E CNG,Comfort & Convenience,Rear AC Vents,NO
+Toyota,Taisor,E CNG,Comfort & Convenience,Cruise Control,NO
+Toyota,Taisor,E CNG,Comfort & Convenience,Parking Sensors,Rear
+Toyota,Taisor,E CNG,Comfort & Convenience,Real-Time Vehicle Tracking,NO
+Toyota,Taisor,E CNG,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Toyota,Taisor,E CNG,Comfort & Convenience,KeyLess Entry,YES
+Toyota,Taisor,E CNG,Comfort & Convenience,Engine Start/Stop Button,NO
+Toyota,Taisor,E CNG,Comfort & Convenience,Paddle Shifters,NO
+Toyota,Taisor,E CNG,Comfort & Convenience,USB Charger,NO
+Toyota,Taisor,E CNG,Comfort & Convenience,Central Console Armrest,NO
+Toyota,Taisor,E CNG,Comfort & Convenience,Gear Shift Indicator,YES
+Toyota,Taisor,E CNG,Comfort & Convenience,Idle Start-Stop System,NO
+Toyota,Taisor,E CNG,Comfort & Convenience,Follow Me Home Headlamps,NO
+Toyota,Taisor,E CNG,Comfort & Convenience,Power Windows,Front & Rear
+Toyota,Taisor,E CNG,Interior,Leather Wrapped Steering Wheel,NO
+Toyota,Taisor,E CNG,Interior,Glove Box,YES
+Toyota,Taisor,E CNG,Interior,Digital Cluster,NO
+Toyota,Taisor,E CNG,Interior,Digital Cluster Size,NO
+Toyota,Taisor,E CNG,Interior,Upholstery,Fabric
+Toyota,Taisor,E CNG,Exterior,Adjustable Headlamps,YES
+Toyota,Taisor,E CNG,Exterior,Rear Window Wiper,NO
+Toyota,Taisor,E CNG,Exterior,Rear Window Washer,NO
+Toyota,Taisor,E CNG,Exterior,Rear Window Defogger,YES
+Toyota,Taisor,E CNG,Exterior,Rear Spoiler,YES
+Toyota,Taisor,E CNG,Exterior,Outside Rear View Mirror Turn Indicators,NO
+Toyota,Taisor,E CNG,Exterior,Halogen Headlamps,YES
+Toyota,Taisor,E CNG,Exterior,Roof Rails,YES
+Toyota,Taisor,E CNG,Exterior,Automatic Headlamps,NO
+Toyota,Taisor,E CNG,Exterior,Antenna,Shark Fin
+Toyota,Taisor,E CNG,Exterior,Outside Rear View Mirror (ORVM),Manual
+Toyota,Taisor,E CNG,Exterior,Tyre Size,195/60 R16
+Toyota,Taisor,E CNG,Exterior,Tyre Type,Tubeless & Radial
+Toyota,Taisor,E CNG,Exterior,Wheel Size,16 Inch
+Toyota,Taisor,E CNG,Exterior,LED DRLs,NO
+Toyota,Taisor,E CNG,Exterior,LED Headlamps,NO
+Toyota,Taisor,E CNG,Safety,Anti-lock Braking System (ABS),YES
+Toyota,Taisor,E CNG,Safety,Central Locking,YES
+Toyota,Taisor,E CNG,Safety,Child Safety Locks,YES
+Toyota,Taisor,E CNG,Safety,Anti-Theft Alarm,NO
+Toyota,Taisor,E CNG,Safety,No. of Airbags,6
+Toyota,Taisor,E CNG,Safety,Driver Airbag,YES
+Toyota,Taisor,E CNG,Safety,Passenger Airbag,YES
+Toyota,Taisor,E CNG,Safety,Side Airbag,YES
+Toyota,Taisor,E CNG,Safety,Day & Night Rear View Mirror,YES
+Toyota,Taisor,E CNG,Safety,Electronic Brakeforce Distribution (EBD),YES
+Toyota,Taisor,E CNG,Safety,Traction Control,YES
+Toyota,Taisor,E CNG,Safety,Engine Immobilizer,YES
+Toyota,Taisor,E CNG,Safety,Electronic Stability Control (ESC),YES
+Toyota,Taisor,E CNG,Safety,Rear Camera,NO
+Toyota,Taisor,E CNG,Safety,Anti-Pinch Power Windows,Driver's Window
+Toyota,Taisor,E CNG,Safety,ISOFIX Child Seat Mounts,YES
+Toyota,Taisor,E CNG,Safety,Heads-Up Display (HUD),NO
+Toyota,Taisor,E CNG,Safety,Hill Assist,YES
+Toyota,Taisor,E CNG,Safety,360 View Camera,NO
+Toyota,Taisor,E CNG,Entertainment & Communication,Radio,NO
+Toyota,Taisor,E CNG,Entertainment & Communication,Wireless Phone Charging,NO
+Toyota,Taisor,E CNG,Entertainment & Communication,Bluetooth Connectivity,NO
+Toyota,Taisor,E CNG,Entertainment & Communication,Touchscreen,NO
+Toyota,Taisor,E CNG,Entertainment & Communication,Android Auto,NO
+Toyota,Taisor,E CNG,Entertainment & Communication,Apple CarPlay,NO
+Toyota,Taisor,E CNG,Entertainment & Communication,Usb Ports,NO
+Toyota,Taisor,E CNG,Entertainment & Communication,Speakers,NO
+Toyota,Taisor,E CNG,Advance Internet Feature,Remote Immobiliser,NO
+Toyota,Taisor,E CNG,Advance Internet Feature,Unauthorised Vehicle entry,NO
+Toyota,Taisor,E CNG,Advance Internet Feature,Remote Vehicle Status Check,NO
+Toyota,Taisor,E CNG,Advance Internet Feature,Over the Air (OTA) Updates,NO
+Toyota,Taisor,E CNG,Advance Internet Feature,Google / Alexa Connectivity,NO
+Toyota,Taisor,E CNG,Advance Internet Feature,Over Speeding Alert,NO
+Toyota,Taisor,E CNG,Advance Internet Feature,Tow Away Alert,NO
+Toyota,Taisor,E CNG,Advance Internet Feature,In Car Remote Control App,NO
+Toyota,Taisor,E CNG,Advance Internet Feature,Smartwatch App,NO
+Toyota,Taisor,E CNG,Advance Internet Feature,Valet Mode,NO
+Toyota,Taisor,E CNG,Advance Internet Feature,Remote AC On/Off,NO
+Toyota,Taisor,E CNG,Advance Internet Feature,Remote Door Lock/Unlock,NO
+Toyota,Taisor,E CNG,Advance Internet Feature,Remote Vehicle Ignition Start/Stop,NO
+Toyota,Taisor,E CNG,Advance Internet Feature,Remote Boot Open,NO
+Toyota,Taisor,E CNG,Advance Internet Feature,Inbuilt APPs,NO

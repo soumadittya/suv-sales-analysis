@@ -1,0 +1,134 @@
+company,model,variant,category,feature_name,feature_details
+Mercedes-Benz,GLE,450d 4Matic,Engine & Transmission,Displacement,2989 cc
+Mercedes-Benz,GLE,450d 4Matic,Engine & Transmission,Max Power,362bhp@4000rpm
+Mercedes-Benz,GLE,450d 4Matic,Engine & Transmission,Max Torque,750Nm@1350-2800rpm
+Mercedes-Benz,GLE,450d 4Matic,Engine & Transmission,No. of Cylinders,6
+Mercedes-Benz,GLE,450d 4Matic,Engine & Transmission,Valves Per Cylinder,4
+Mercedes-Benz,GLE,450d 4Matic,Engine & Transmission,Turbo Charger,YES
+Mercedes-Benz,GLE,450d 4Matic,Engine & Transmission,Transmission Type,Automatic
+Mercedes-Benz,GLE,450d 4Matic,Engine & Transmission,Gearbox,9-Speed TRONIC
+Mercedes-Benz,GLE,450d 4Matic,Engine & Transmission,Drive Type,AWD
+Mercedes-Benz,GLE,450d 4Matic,Fuel & Performance,Fuel Type,Diesel
+Mercedes-Benz,GLE,450d 4Matic,Fuel & Performance,Diesel Highway Mileage,11.17 kmpl
+Mercedes-Benz,GLE,450d 4Matic,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Mercedes-Benz,GLE,450d 4Matic,Fuel & Performance,Top Speed,250 kmph
+Mercedes-Benz,GLE,450d 4Matic,Fuel & Performance,Acceleration,5.6 Sec
+Mercedes-Benz,GLE,450d 4Matic,Fuel & Performance,0-100kmph,5.6 Sec
+Mercedes-Benz,GLE,450d 4Matic,"Suspension, Steering & Brakes",Steering Type,Electric
+Mercedes-Benz,GLE,450d 4Matic,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Mercedes-Benz,GLE,450d 4Matic,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Mercedes-Benz,GLE,450d 4Matic,Dimensions & Capacity,Length,4926 mm
+Mercedes-Benz,GLE,450d 4Matic,Dimensions & Capacity,Width,2157 mm
+Mercedes-Benz,GLE,450d 4Matic,Dimensions & Capacity,Height,1797 mm
+Mercedes-Benz,GLE,450d 4Matic,Dimensions & Capacity,Boot Space,630 Litres
+Mercedes-Benz,GLE,450d 4Matic,Dimensions & Capacity,Seating Capacity,5
+Mercedes-Benz,GLE,450d 4Matic,Dimensions & Capacity,Wheel Base,2995 mm
+Mercedes-Benz,GLE,450d 4Matic,Comfort & Convenience,Boot Opening,Automatic
+Mercedes-Benz,GLE,450d 4Matic,Comfort & Convenience,Power Steering,YES
+Mercedes-Benz,GLE,450d 4Matic,Comfort & Convenience,Air Conditioner,YES
+Mercedes-Benz,GLE,450d 4Matic,Comfort & Convenience,Heater,YES
+Mercedes-Benz,GLE,450d 4Matic,Comfort & Convenience,Adjustable Steering,YES
+Mercedes-Benz,GLE,450d 4Matic,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Mercedes-Benz,GLE,450d 4Matic,Comfort & Convenience,Ventilated Seats,YES
+Mercedes-Benz,GLE,450d 4Matic,Comfort & Convenience,Electric Adjustable Seats,Front & Rear
+Mercedes-Benz,GLE,450d 4Matic,Comfort & Convenience,Automatic Climate Control,YES
+Mercedes-Benz,GLE,450d 4Matic,Comfort & Convenience,Air Quality Control,YES
+Mercedes-Benz,GLE,450d 4Matic,Comfort & Convenience,Accessory Power Outlet,YES
+Mercedes-Benz,GLE,450d 4Matic,Comfort & Convenience,Rear Seat Headrest,YES
+Mercedes-Benz,GLE,450d 4Matic,Comfort & Convenience,Adjustable Headrest,YES
+Mercedes-Benz,GLE,450d 4Matic,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Mercedes-Benz,GLE,450d 4Matic,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Mercedes-Benz,GLE,450d 4Matic,Comfort & Convenience,Rear AC Vents,YES
+Mercedes-Benz,GLE,450d 4Matic,Comfort & Convenience,Lumbar Support,YES
+Mercedes-Benz,GLE,450d 4Matic,Comfort & Convenience,Cruise Control,YES
+Mercedes-Benz,GLE,450d 4Matic,Comfort & Convenience,Parking Sensors,Rear
+Mercedes-Benz,GLE,450d 4Matic,Comfort & Convenience,Real-Time Vehicle Tracking,YES
+Mercedes-Benz,GLE,450d 4Matic,Comfort & Convenience,KeyLess Entry,YES
+Mercedes-Benz,GLE,450d 4Matic,Comfort & Convenience,Engine Start/Stop Button,YES
+Mercedes-Benz,GLE,450d 4Matic,Comfort & Convenience,Voice Commands,YES
+Mercedes-Benz,GLE,450d 4Matic,Comfort & Convenience,Paddle Shifters,YES
+Mercedes-Benz,GLE,450d 4Matic,Comfort & Convenience,USB Charger,Front & Rear
+Mercedes-Benz,GLE,450d 4Matic,Comfort & Convenience,Central Console Armrest,With Storage
+Mercedes-Benz,GLE,450d 4Matic,Comfort & Convenience,Idle Start-Stop System,YES
+Mercedes-Benz,GLE,450d 4Matic,Comfort & Convenience,Follow Me Home Headlamps,YES
+Mercedes-Benz,GLE,450d 4Matic,Comfort & Convenience,Voice assisted sunroof,YES
+Mercedes-Benz,GLE,450d 4Matic,Interior,Leather Wrapped Steering Wheel,YES
+Mercedes-Benz,GLE,450d 4Matic,Interior,Leather wrap gear-shift selector,YES
+Mercedes-Benz,GLE,450d 4Matic,Interior,Glove Box,YES
+Mercedes-Benz,GLE,450d 4Matic,Interior,Digital Cluster,Full
+Mercedes-Benz,GLE,450d 4Matic,Interior,Digital Cluster Size,12.3 Inch
+Mercedes-Benz,GLE,450d 4Matic,Interior,Upholstery,Leather
+Mercedes-Benz,GLE,450d 4Matic,Interior,Ambient Light Colour (numbers),64
+Mercedes-Benz,GLE,450d 4Matic,Exterior,Adjustable Headlamps,YES
+Mercedes-Benz,GLE,450d 4Matic,Exterior,Rear Window Wiper,YES
+Mercedes-Benz,GLE,450d 4Matic,Exterior,Alloy Wheels,YES
+Mercedes-Benz,GLE,450d 4Matic,Exterior,Rear Spoiler,YES
+Mercedes-Benz,GLE,450d 4Matic,Exterior,Side Stepper,YES
+Mercedes-Benz,GLE,450d 4Matic,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Mercedes-Benz,GLE,450d 4Matic,Exterior,Projector Headlamps,YES
+Mercedes-Benz,GLE,450d 4Matic,Exterior,Roof Rails,YES
+Mercedes-Benz,GLE,450d 4Matic,Exterior,Automatic Headlamps,YES
+Mercedes-Benz,GLE,450d 4Matic,Exterior,Sunroof,Panoramic
+Mercedes-Benz,GLE,450d 4Matic,Exterior,Puddle Lamps,YES
+Mercedes-Benz,GLE,450d 4Matic,Exterior,Tyre Type,Radial Tubeless
+Mercedes-Benz,GLE,450d 4Matic,Exterior,LED DRLs,YES
+Mercedes-Benz,GLE,450d 4Matic,Exterior,LED Headlamps,YES
+Mercedes-Benz,GLE,450d 4Matic,Exterior,LED Taillights,YES
+Mercedes-Benz,GLE,450d 4Matic,Safety,Anti-lock Braking System (ABS),YES
+Mercedes-Benz,GLE,450d 4Matic,Safety,Brake Assist,YES
+Mercedes-Benz,GLE,450d 4Matic,Safety,Central Locking,YES
+Mercedes-Benz,GLE,450d 4Matic,Safety,Child Safety Locks,YES
+Mercedes-Benz,GLE,450d 4Matic,Safety,Anti-Theft Alarm,YES
+Mercedes-Benz,GLE,450d 4Matic,Safety,No. of Airbags,9
+Mercedes-Benz,GLE,450d 4Matic,Safety,Driver Airbag,YES
+Mercedes-Benz,GLE,450d 4Matic,Safety,Passenger Airbag,YES
+Mercedes-Benz,GLE,450d 4Matic,Safety,Side Airbag,YES
+Mercedes-Benz,GLE,450d 4Matic,Safety,Side Airbag-Rear,YES
+Mercedes-Benz,GLE,450d 4Matic,Safety,Day & Night Rear View Mirror,YES
+Mercedes-Benz,GLE,450d 4Matic,Safety,Electronic Brakeforce Distribution (EBD),YES
+Mercedes-Benz,GLE,450d 4Matic,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Mercedes-Benz,GLE,450d 4Matic,Safety,Engine Immobilizer,YES
+Mercedes-Benz,GLE,450d 4Matic,Safety,Electronic Stability Control (ESC),YES
+Mercedes-Benz,GLE,450d 4Matic,Safety,Rear Camera,With Guidedlines
+Mercedes-Benz,GLE,450d 4Matic,Safety,Anti-Theft Device,YES
+Mercedes-Benz,GLE,450d 4Matic,Safety,Heads-Up Display (HUD),YES
+Mercedes-Benz,GLE,450d 4Matic,Safety,Hill Assist,YES
+Mercedes-Benz,GLE,450d 4Matic,Safety,360 View Camera,YES
+Mercedes-Benz,GLE,450d 4Matic,Entertainment & Communication,Radio,YES
+Mercedes-Benz,GLE,450d 4Matic,Entertainment & Communication,Wireless Phone Charging,YES
+Mercedes-Benz,GLE,450d 4Matic,Entertainment & Communication,Bluetooth Connectivity,YES
+Mercedes-Benz,GLE,450d 4Matic,Entertainment & Communication,Wi-Fi Connectivity,YES
+Mercedes-Benz,GLE,450d 4Matic,Entertainment & Communication,Touchscreen,YES
+Mercedes-Benz,GLE,450d 4Matic,Entertainment & Communication,Touchscreen Size,12.3 Inch
+Mercedes-Benz,GLE,450d 4Matic,Entertainment & Communication,Android Auto,YES
+Mercedes-Benz,GLE,450d 4Matic,Entertainment & Communication,Apple CarPlay,YES
+Mercedes-Benz,GLE,450d 4Matic,Entertainment & Communication,No. of Speakers,8
+Mercedes-Benz,GLE,450d 4Matic,Entertainment & Communication,Usb Ports,YES
+Mercedes-Benz,GLE,450d 4Matic,Entertainment & Communication,Inbuilt Apps,Amazon Apple Spotfy Tidal Music Apps
+Mercedes-Benz,GLE,450d 4Matic,Entertainment & Communication,Tweeters,4
+Mercedes-Benz,GLE,450d 4Matic,Entertainment & Communication,Subwoofer,1
+Mercedes-Benz,GLE,450d 4Matic,Entertainment & Communication,Speakers,Front & Rear
+Mercedes-Benz,GLE,450d 4Matic,ADAS Feature,Automatic Emergency Braking,YES
+Mercedes-Benz,GLE,450d 4Matic,ADAS Feature,Traffic Sign Recognition,YES
+Mercedes-Benz,GLE,450d 4Matic,ADAS Feature,Blind Spot Collision Avoidance Assist,YES
+Mercedes-Benz,GLE,450d 4Matic,ADAS Feature,Adaptive High Beam Assist,YES
+Mercedes-Benz,GLE,450d 4Matic,ADAS Feature,Rear Cross Traffic Alert,YES
+Mercedes-Benz,GLE,450d 4Matic,ADAS Feature,Rear Cross Traffic Collision-Avoidance Assist,YES
+Mercedes-Benz,GLE,450d 4Matic,ADAS Feature,Blind Spot Monitor,YES
+Mercedes-Benz,GLE,450d 4Matic,Advance Internet Feature,Live Location,YES
+Mercedes-Benz,GLE,450d 4Matic,Advance Internet Feature,Remote Immobiliser,YES
+Mercedes-Benz,GLE,450d 4Matic,Advance Internet Feature,Digital Car Key,YES
+Mercedes-Benz,GLE,450d 4Matic,Advance Internet Feature,Inbuilt Assistant,YES
+Mercedes-Benz,GLE,450d 4Matic,Advance Internet Feature,Hinglish Voice Commands,YES
+Mercedes-Benz,GLE,450d 4Matic,Advance Internet Feature,Navigation with Live Traffic,YES
+Mercedes-Benz,GLE,450d 4Matic,Advance Internet Feature,Send POI to Vehicle From App,YES
+Mercedes-Benz,GLE,450d 4Matic,Advance Internet Feature,Live Weather,YES
+Mercedes-Benz,GLE,450d 4Matic,Advance Internet Feature,Over the Air (OTA) Updates,YES
+Mercedes-Benz,GLE,450d 4Matic,Advance Internet Feature,Save Route/Place,YES
+Mercedes-Benz,GLE,450d 4Matic,Advance Internet Feature,SOS Button,YES
+Mercedes-Benz,GLE,450d 4Matic,Advance Internet Feature,RSA,YES
+Mercedes-Benz,GLE,450d 4Matic,Advance Internet Feature,Over Speeding Alert,YES
+Mercedes-Benz,GLE,450d 4Matic,Advance Internet Feature,Smartwatch App,YES
+Mercedes-Benz,GLE,450d 4Matic,Advance Internet Feature,Remote Boot Open,YES
+Mercedes-Benz,GLE,450d 4Matic,Advance Internet Feature,SOS / Emergency Assistance,YES
+Mercedes-Benz,GLE,450d 4Matic,Advance Internet Feature,Geo-fence Alert,YES

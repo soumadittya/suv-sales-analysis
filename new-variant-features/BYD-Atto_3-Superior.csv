@@ -1,0 +1,120 @@
+company,model,variant,category,feature_name,feature_details
+BYD,Atto 3,Superior,Engine & Transmission,Battery Capacity,60.48 kWh
+BYD,Atto 3,Superior,Engine & Transmission,Motor Power,150 kW
+BYD,Atto 3,Superior,Engine & Transmission,Motor Type,Permanent magnet synchronous motor
+BYD,Atto 3,Superior,Engine & Transmission,Max Power,201bhp
+BYD,Atto 3,Superior,Engine & Transmission,Max Torque,310Nm
+BYD,Atto 3,Superior,Engine & Transmission,Range,521 km
+BYD,Atto 3,Superior,Engine & Transmission,Battery Type,Blade Battery
+BYD,Atto 3,Superior,Engine & Transmission,Charging Time (A.C),9.5-10H (7.2 kW AC)
+BYD,Atto 3,Superior,Engine & Transmission,Charging Time (D.C),50 min (80 kW 0-80%)
+BYD,Atto 3,Superior,Engine & Transmission,Regenerative Braking,YES
+BYD,Atto 3,Superior,Engine & Transmission,Charging Port,CCS-II
+BYD,Atto 3,Superior,Engine & Transmission,Transmission Type,Automatic
+BYD,Atto 3,Superior,Engine & Transmission,Drive Type,FWD
+BYD,Atto 3,Superior,Fuel & Performance,Fuel Type,Electric
+BYD,Atto 3,Superior,Fuel & Performance,Emission Norm Compliance,ZEV
+BYD,Atto 3,Superior,Fuel & Performance,Acceleration 0-100kmph,7.3 s
+BYD,Atto 3,Superior,Charging,Fast Charging,YES
+BYD,Atto 3,Superior,"Suspension, Steering & Brakes",Front Suspension,MacPherson suspension
+BYD,Atto 3,Superior,"Suspension, Steering & Brakes",Rear Suspension,Multi link suspension
+BYD,Atto 3,Superior,"Suspension, Steering & Brakes",Steering Type,Electric
+BYD,Atto 3,Superior,"Suspension, Steering & Brakes",Front Brake Type,Ventilated Disc
+BYD,Atto 3,Superior,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+BYD,Atto 3,Superior,"Suspension, Steering & Brakes",Boot Space Rear Seat Folding,1340 Litres
+BYD,Atto 3,Superior,Dimensions & Capacity,Length,4455 mm
+BYD,Atto 3,Superior,Dimensions & Capacity,Width,1875 mm
+BYD,Atto 3,Superior,Dimensions & Capacity,Height,1615 mm
+BYD,Atto 3,Superior,Dimensions & Capacity,Boot Space,440 Litres
+BYD,Atto 3,Superior,Dimensions & Capacity,Seating Capacity,5
+BYD,Atto 3,Superior,Dimensions & Capacity,Ground Clearance Unladen,175 mm
+BYD,Atto 3,Superior,Dimensions & Capacity,Wheel Base,2720 mm
+BYD,Atto 3,Superior,Dimensions & Capacity,Front Tread,1575 mm
+BYD,Atto 3,Superior,Dimensions & Capacity,Rear Tread,1580 mm
+BYD,Atto 3,Superior,Dimensions & Capacity,Kerb Weight,1750 kg
+BYD,Atto 3,Superior,Dimensions & Capacity,Gross Weight,2160 kg
+BYD,Atto 3,Superior,Comfort & Convenience,Boot Opening,Electronic
+BYD,Atto 3,Superior,Comfort & Convenience,Power Steering,YES
+BYD,Atto 3,Superior,Comfort & Convenience,Air Conditioner,YES
+BYD,Atto 3,Superior,Comfort & Convenience,Heater,YES
+BYD,Atto 3,Superior,Comfort & Convenience,Height Adjustable Driver Seat,YES
+BYD,Atto 3,Superior,Comfort & Convenience,Electric Adjustable Seats,Front
+BYD,Atto 3,Superior,Comfort & Convenience,Automatic Climate Control,YES
+BYD,Atto 3,Superior,Comfort & Convenience,Air Quality Control,YES
+BYD,Atto 3,Superior,Comfort & Convenience,Accessory Power Outlet,YES
+BYD,Atto 3,Superior,Comfort & Convenience,Adjustable Headrest,YES
+BYD,Atto 3,Superior,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+BYD,Atto 3,Superior,Comfort & Convenience,Rear AC Vents,YES
+BYD,Atto 3,Superior,Comfort & Convenience,Cruise Control,YES
+BYD,Atto 3,Superior,Comfort & Convenience,Parking Sensors,Front & Rear
+BYD,Atto 3,Superior,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+BYD,Atto 3,Superior,Comfort & Convenience,KeyLess Entry,YES
+BYD,Atto 3,Superior,Comfort & Convenience,Voice Commands,YES
+BYD,Atto 3,Superior,Comfort & Convenience,USB Charger,Front & Rear
+BYD,Atto 3,Superior,Comfort & Convenience,Central Console Armrest,With Storage
+BYD,Atto 3,Superior,Comfort & Convenience,Follow Me Home Headlamps,YES
+BYD,Atto 3,Superior,Comfort & Convenience,Additional Features,"6-way power adjustment - driver seat,4-way power adjustment - front passenger seat,Portable card key"
+BYD,Atto 3,Superior,Interior,Glove Box,YES
+BYD,Atto 3,Superior,Interior,Additional Features,"Multi-color gradient ambient lighting,Multi-color gradient ambient lighting with music rhythm-door handle"
+BYD,Atto 3,Superior,Interior,Digital Cluster,YES
+BYD,Atto 3,Superior,Interior,Digital Cluster Size,5
+BYD,Atto 3,Superior,Interior,Upholstery,Leatherette
+BYD,Atto 3,Superior,Exterior,Adjustable Headlamps,YES
+BYD,Atto 3,Superior,Exterior,Rear Window Wiper,YES
+BYD,Atto 3,Superior,Exterior,Rear Window Washer,YES
+BYD,Atto 3,Superior,Exterior,Rear Window Defogger,YES
+BYD,Atto 3,Superior,Exterior,Alloy Wheels,YES
+BYD,Atto 3,Superior,Exterior,Outside Rear View Mirror Turn Indicators,YES
+BYD,Atto 3,Superior,Exterior,Roof Rails,YES
+BYD,Atto 3,Superior,Exterior,Antenna,Shark Fin
+BYD,Atto 3,Superior,Exterior,Sunroof,Panoramic
+BYD,Atto 3,Superior,Exterior,Heated Outside Rear View Mirror,YES
+BYD,Atto 3,Superior,Exterior,Tyre Size,215/55 R18
+BYD,Atto 3,Superior,Exterior,Tyre Type,Radial Tubeless
+BYD,Atto 3,Superior,Exterior,LED DRLs,YES
+BYD,Atto 3,Superior,Exterior,LED Headlamps,YES
+BYD,Atto 3,Superior,Exterior,LED Taillights,YES
+BYD,Atto 3,Superior,Exterior,Additional Features,"Electric unlock tailgate,One-touch open / close tailgate"
+BYD,Atto 3,Superior,Safety,Anti-lock Braking System (ABS),YES
+BYD,Atto 3,Superior,Safety,Central Locking,YES
+BYD,Atto 3,Superior,Safety,Child Safety Locks,YES
+BYD,Atto 3,Superior,Safety,No. of Airbags,7
+BYD,Atto 3,Superior,Safety,Driver Airbag,YES
+BYD,Atto 3,Superior,Safety,Passenger Airbag,YES
+BYD,Atto 3,Superior,Safety,Side Airbag,YES
+BYD,Atto 3,Superior,Safety,Side Airbag-Rear,NO
+BYD,Atto 3,Superior,Safety,Day & Night Rear View Mirror,YES
+BYD,Atto 3,Superior,Safety,Electronic Brakeforce Distribution (EBD),YES
+BYD,Atto 3,Superior,Safety,Traction Control,YES
+BYD,Atto 3,Superior,Safety,Tyre Pressure Monitoring System (TPMS),YES
+BYD,Atto 3,Superior,Safety,Engine Immobilizer,YES
+BYD,Atto 3,Superior,Safety,Electronic Stability Control (ESC),YES
+BYD,Atto 3,Superior,Safety,Rear Camera,With Guidedlines
+BYD,Atto 3,Superior,Safety,Anti-Pinch Power Windows,All Windows
+BYD,Atto 3,Superior,Safety,ISOFIX Child Seat Mounts,YES
+BYD,Atto 3,Superior,Safety,Hill Descent Control,YES
+BYD,Atto 3,Superior,Safety,Hill Assist,YES
+BYD,Atto 3,Superior,Safety,360 View Camera,YES
+BYD,Atto 3,Superior,Safety,Global NCAP Safety Rating,5 Star
+BYD,Atto 3,Superior,Entertainment & Communication,Radio,YES
+BYD,Atto 3,Superior,Entertainment & Communication,Wireless Phone Charging,YES
+BYD,Atto 3,Superior,Entertainment & Communication,Bluetooth Connectivity,YES
+BYD,Atto 3,Superior,Entertainment & Communication,Touchscreen,YES
+BYD,Atto 3,Superior,Entertainment & Communication,Touchscreen Size,12.8 inch
+BYD,Atto 3,Superior,Entertainment & Communication,Android Auto,YES
+BYD,Atto 3,Superior,Entertainment & Communication,Apple CarPlay,YES
+BYD,Atto 3,Superior,Entertainment & Communication,No. of Speakers,8
+BYD,Atto 3,Superior,Entertainment & Communication,Usb Ports,YES
+BYD,Atto 3,Superior,Entertainment & Communication,Additional Features,"Dirac HD sound, 8 speakers"
+BYD,Atto 3,Superior,Entertainment & Communication,Speakers,Front & Rear
+BYD,Atto 3,Superior,ADAS Feature,Forward Collision Warning,YES
+BYD,Atto 3,Superior,ADAS Feature,Automatic Emergency Braking,YES
+BYD,Atto 3,Superior,ADAS Feature,Blind Spot Collision Avoidance Assist,YES
+BYD,Atto 3,Superior,ADAS Feature,Lane Departure Warning,YES
+BYD,Atto 3,Superior,ADAS Feature,Lane Keep Assist,YES
+BYD,Atto 3,Superior,ADAS Feature,Adaptive Cruise Control,YES
+BYD,Atto 3,Superior,ADAS Feature,Rear Cross Traffic Alert,YES
+BYD,Atto 3,Superior,ADAS Feature,Rear Cross Traffic Collision-Avoidance Assist,YES
+BYD,Atto 3,Superior,ADAS Feature,Blind Spot Monitor,YES
+BYD,Atto 3,Superior,Advance Internet Feature,Digital Car Key,YES
+BYD,Atto 3,Superior,Advance Internet Feature,Remote Boot Open,YES

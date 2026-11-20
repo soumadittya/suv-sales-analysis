@@ -1,0 +1,102 @@
+company,model,variant,category,feature_name,feature_details
+Skoda,Kodiaq RS,2.0 TSI,Engine & Transmission,Engine Type,Petrol
+Skoda,Kodiaq RS,2.0 TSI,Engine & Transmission,Displacement,1984 cc
+Skoda,Kodiaq RS,2.0 TSI,Engine & Transmission,No. of Cylinders,4
+Skoda,Kodiaq RS,2.0 TSI,Engine & Transmission,Valves Per Cylinder,4
+Skoda,Kodiaq RS,2.0 TSI,Engine & Transmission,Regenerative Braking,NO
+Skoda,Kodiaq RS,2.0 TSI,Engine & Transmission,Transmission Type,Automatic
+Skoda,Kodiaq RS,2.0 TSI,Engine & Transmission,Gearbox,7-speed DSG
+Skoda,Kodiaq RS,2.0 TSI,Engine & Transmission,Drive Type,AWD
+Skoda,Kodiaq RS,2.0 TSI,Fuel & Performance,Fuel Type,Petrol
+Skoda,Kodiaq RS,2.0 TSI,Fuel & Performance,Petrol Fuel Tank Capacity,58 Litres
+Skoda,Kodiaq RS,2.0 TSI,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Skoda,Kodiaq RS,2.0 TSI,"Suspension, Steering & Brakes",Rear Suspension,"Multi-link, Solid Axle"
+Skoda,Kodiaq RS,2.0 TSI,"Suspension, Steering & Brakes",Steering Type,Electric
+Skoda,Kodiaq RS,2.0 TSI,"Suspension, Steering & Brakes",Steering Gear Type,Rack & Pinion
+Skoda,Kodiaq RS,2.0 TSI,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Skoda,Kodiaq RS,2.0 TSI,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Skoda,Kodiaq RS,2.0 TSI,"Suspension, Steering & Brakes",Boot Space Rear Seat Folding,786 Litres
+Skoda,Kodiaq RS,2.0 TSI,Dimensions & Capacity,Length,4761 mm
+Skoda,Kodiaq RS,2.0 TSI,Dimensions & Capacity,Width,1864 mm
+Skoda,Kodiaq RS,2.0 TSI,Dimensions & Capacity,Height,1682 mm
+Skoda,Kodiaq RS,2.0 TSI,Dimensions & Capacity,Boot Space,281 Litres
+Skoda,Kodiaq RS,2.0 TSI,Dimensions & Capacity,Seating Capacity,7
+Skoda,Kodiaq RS,2.0 TSI,Dimensions & Capacity,Ground Clearance Unladen,194 mm
+Skoda,Kodiaq RS,2.0 TSI,Dimensions & Capacity,Wheel Base,2789 mm
+Skoda,Kodiaq RS,2.0 TSI,Dimensions & Capacity,Kerb Weight,1902 kg
+Skoda,Kodiaq RS,2.0 TSI,Dimensions & Capacity,Gross Weight,2500 kg
+Skoda,Kodiaq RS,2.0 TSI,Comfort & Convenience,Boot Opening,Electronic
+Skoda,Kodiaq RS,2.0 TSI,Comfort & Convenience,Power Steering,YES
+Skoda,Kodiaq RS,2.0 TSI,Comfort & Convenience,Air Conditioner,YES
+Skoda,Kodiaq RS,2.0 TSI,Comfort & Convenience,Heater,YES
+Skoda,Kodiaq RS,2.0 TSI,Comfort & Convenience,Ventilated Seats,YES
+Skoda,Kodiaq RS,2.0 TSI,Comfort & Convenience,Electric Adjustable Seats,Front
+Skoda,Kodiaq RS,2.0 TSI,Comfort & Convenience,Automatic Climate Control,YES
+Skoda,Kodiaq RS,2.0 TSI,Comfort & Convenience,Accessory Power Outlet,YES
+Skoda,Kodiaq RS,2.0 TSI,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Skoda,Kodiaq RS,2.0 TSI,Comfort & Convenience,Adjustable Headrest,YES
+Skoda,Kodiaq RS,2.0 TSI,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Skoda,Kodiaq RS,2.0 TSI,Comfort & Convenience,Rear AC Vents,YES
+Skoda,Kodiaq RS,2.0 TSI,Comfort & Convenience,Cruise Control,YES
+Skoda,Kodiaq RS,2.0 TSI,Comfort & Convenience,Parking Sensors,Front & Rear
+Skoda,Kodiaq RS,2.0 TSI,Comfort & Convenience,Foldable Rear Seat,40:20:40 Split
+Skoda,Kodiaq RS,2.0 TSI,Comfort & Convenience,KeyLess Entry,YES
+Skoda,Kodiaq RS,2.0 TSI,Comfort & Convenience,USB Charger,Front & Rear
+Skoda,Kodiaq RS,2.0 TSI,Comfort & Convenience,Central Console Armrest,YES
+Skoda,Kodiaq RS,2.0 TSI,Comfort & Convenience,Power Windows,Front & Rear
+Skoda,Kodiaq RS,2.0 TSI,Comfort & Convenience,Cup Holders,Front & Rear
+Skoda,Kodiaq RS,2.0 TSI,Comfort & Convenience,Heated Seats,Front Only
+Skoda,Kodiaq RS,2.0 TSI,Interior,Leather Wrapped Steering Wheel,YES
+Skoda,Kodiaq RS,2.0 TSI,Interior,Leather wrap gear-shift selector,YES
+Skoda,Kodiaq RS,2.0 TSI,Interior,Glove Box,YES
+Skoda,Kodiaq RS,2.0 TSI,Interior,Lighting,"Ambient light,Footwell Lamp"
+Skoda,Kodiaq RS,2.0 TSI,Interior,Digital Cluster,YES
+Skoda,Kodiaq RS,2.0 TSI,Interior,Digital Cluster Size,10.25
+Skoda,Kodiaq RS,2.0 TSI,Interior,Upholstery,Leather
+Skoda,Kodiaq RS,2.0 TSI,Exterior,Adjustable Headlamps,YES
+Skoda,Kodiaq RS,2.0 TSI,Exterior,Rear Window Wiper,YES
+Skoda,Kodiaq RS,2.0 TSI,Exterior,Rear Window Washer,YES
+Skoda,Kodiaq RS,2.0 TSI,Exterior,Wheel Covers,NO
+Skoda,Kodiaq RS,2.0 TSI,Exterior,Alloy Wheels,YES
+Skoda,Kodiaq RS,2.0 TSI,Exterior,Rear Spoiler,YES
+Skoda,Kodiaq RS,2.0 TSI,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Skoda,Kodiaq RS,2.0 TSI,Exterior,Roof Rails,YES
+Skoda,Kodiaq RS,2.0 TSI,Exterior,Antenna,Shark Fin
+Skoda,Kodiaq RS,2.0 TSI,Exterior,Sunroof,Panoramic
+Skoda,Kodiaq RS,2.0 TSI,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Skoda,Kodiaq RS,2.0 TSI,Exterior,Tyre Size,235/45 R20
+Skoda,Kodiaq RS,2.0 TSI,Exterior,Tyre Type,Radial Tubeless
+Skoda,Kodiaq RS,2.0 TSI,Exterior,LED Headlamps,YES
+Skoda,Kodiaq RS,2.0 TSI,Safety,Anti-lock Braking System (ABS),YES
+Skoda,Kodiaq RS,2.0 TSI,Safety,Brake Assist,YES
+Skoda,Kodiaq RS,2.0 TSI,Safety,Central Locking,YES
+Skoda,Kodiaq RS,2.0 TSI,Safety,Child Safety Locks,YES
+Skoda,Kodiaq RS,2.0 TSI,Safety,No. of Airbags,9
+Skoda,Kodiaq RS,2.0 TSI,Safety,Driver Airbag,YES
+Skoda,Kodiaq RS,2.0 TSI,Safety,Passenger Airbag,YES
+Skoda,Kodiaq RS,2.0 TSI,Safety,Side Airbag,YES
+Skoda,Kodiaq RS,2.0 TSI,Safety,Side Airbag-Rear,YES
+Skoda,Kodiaq RS,2.0 TSI,Safety,Electronic Brakeforce Distribution (EBD),YES
+Skoda,Kodiaq RS,2.0 TSI,Safety,Traction Control,YES
+Skoda,Kodiaq RS,2.0 TSI,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Skoda,Kodiaq RS,2.0 TSI,Safety,Electronic Stability Control (ESC),YES
+Skoda,Kodiaq RS,2.0 TSI,Safety,ISOFIX Child Seat Mounts,YES
+Skoda,Kodiaq RS,2.0 TSI,Safety,Blind Spot Camera,YES
+Skoda,Kodiaq RS,2.0 TSI,Safety,Hill Descent Control,YES
+Skoda,Kodiaq RS,2.0 TSI,Safety,Hill Assist,YES
+Skoda,Kodiaq RS,2.0 TSI,Safety,360 View Camera,YES
+Skoda,Kodiaq RS,2.0 TSI,Entertainment & Communication,Radio,YES
+Skoda,Kodiaq RS,2.0 TSI,Entertainment & Communication,Wireless Phone Charging,YES
+Skoda,Kodiaq RS,2.0 TSI,Entertainment & Communication,Bluetooth Connectivity,YES
+Skoda,Kodiaq RS,2.0 TSI,Entertainment & Communication,Touchscreen,YES
+Skoda,Kodiaq RS,2.0 TSI,Entertainment & Communication,Touchscreen Size,12.90 inch
+Skoda,Kodiaq RS,2.0 TSI,Entertainment & Communication,Android Auto,YES
+Skoda,Kodiaq RS,2.0 TSI,Entertainment & Communication,Apple CarPlay,YES
+Skoda,Kodiaq RS,2.0 TSI,Entertainment & Communication,No. of Speakers,13
+Skoda,Kodiaq RS,2.0 TSI,Entertainment & Communication,Usb Ports,YES
+Skoda,Kodiaq RS,2.0 TSI,Entertainment & Communication,Subwoofer,1
+Skoda,Kodiaq RS,2.0 TSI,Entertainment & Communication,Speakers,Front & Rear
+Skoda,Kodiaq RS,2.0 TSI,ADAS Feature,Lane Keep Assist,YES
+Skoda,Kodiaq RS,2.0 TSI,ADAS Feature,Driver Attention Warning,YES
+Skoda,Kodiaq RS,2.0 TSI,ADAS Feature,Adaptive Cruise Control,YES
+Skoda,Kodiaq RS,2.0 TSI,ADAS Feature,Rear Cross Traffic Alert,YES

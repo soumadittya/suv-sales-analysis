@@ -1,0 +1,141 @@
+company,model,variant,category,feature_name,feature_details
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Engine & Transmission,Engine Type,4.4L Twin-Turbo Mild-Hybrid V8
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Engine & Transmission,Displacement,4395 cc
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Engine & Transmission,Max Power,626bhp@5855-7000rpm
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Engine & Transmission,Max Torque,750Nm@1800-5855rpm
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Engine & Transmission,No. of Cylinders,8
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Engine & Transmission,Valves Per Cylinder,4
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Engine & Transmission,Turbo Charger,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Engine & Transmission,Transmission Type,Automatic
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Engine & Transmission,Gearbox,8-Speed
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Engine & Transmission,Drive Type,AWD
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Fuel & Performance,Fuel Type,Petrol
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Fuel & Performance,Petrol Mileage ARAI,7.3 kmpl
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Fuel & Performance,Top Speed,250 kmph
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Fuel & Performance,Acceleration,4 s
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Fuel & Performance,0-100kmph,4 s
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,"Suspension, Steering & Brakes",Front Suspension,Air suspension
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,"Suspension, Steering & Brakes",Rear Suspension,Air suspension
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,"Suspension, Steering & Brakes",Steering Type,Electric
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,"Suspension, Steering & Brakes",Steering Gear Type,Rack & Pinion
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,"Suspension, Steering & Brakes",Rear Brake Type,Ventilated Disc
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Dimensions & Capacity,Length,5003 mm
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Dimensions & Capacity,Width,2105 mm
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Dimensions & Capacity,Height,1995 mm
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Dimensions & Capacity,Seating Capacity,5
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Dimensions & Capacity,Wheel Base,3023 mm
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Dimensions & Capacity,Gross Weight,3230 kg
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Comfort & Convenience,Boot Opening,Powered
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Comfort & Convenience,Power Steering,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Comfort & Convenience,Air Conditioner,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Comfort & Convenience,Heater,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Comfort & Convenience,Adjustable Steering,Height & Reach
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Comfort & Convenience,Ventilated Seats,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Comfort & Convenience,Electric Adjustable Seats,Front
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Comfort & Convenience,Automatic Climate Control,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Comfort & Convenience,Air Quality Control,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Comfort & Convenience,Accessory Power Outlet,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Comfort & Convenience,Adjustable Headrest,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Comfort & Convenience,Rear AC Vents,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Comfort & Convenience,Cruise Control,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Comfort & Convenience,Parking Sensors,Front & Rear
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Comfort & Convenience,KeyLess Entry,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Comfort & Convenience,Engine Start/Stop Button,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Comfort & Convenience,Voice Commands,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Comfort & Convenience,Paddle Shifters,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Comfort & Convenience,USB Charger,Front & Rear
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Comfort & Convenience,Follow Me Home Headlamps,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Comfort & Convenience,Power Windows,Front & Rear
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Comfort & Convenience,Cup Holders,Front & Rear
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Comfort & Convenience,Heated Seats,Front Only
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Interior,Glove Box,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Interior,Lighting,"Ambient light, Footwell Lamp"
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Interior,Digital Cluster,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Interior,Upholstery,Leather
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Interior,Ambient Light Colour (numbers),64
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Exterior,Adjustable Headlamps,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Exterior,Rain Sensing Wiper,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Exterior,Rear Window Wiper,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Exterior,Rear Window Washer,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Exterior,Rear Window Defogger,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Exterior,Wheel Covers,NO
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Exterior,Alloy Wheels,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Exterior,Roof Rails,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Exterior,Automatic Headlamps,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Exterior,Fog Lights,Front & Rear
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Exterior,Antenna,Shark Fin
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Exterior,Sunroof,Panoramic
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Exterior,Heated Outside Rear View Mirror,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Exterior,Tyre Type,Radial Tubeless
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Exterior,LED DRLs,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Exterior,LED Headlamps,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Exterior,LED Taillights,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Exterior,LED Fog Lamps,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Safety,Anti-lock Braking System (ABS),YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Safety,Brake Assist,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Safety,Central Locking,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Safety,Child Safety Locks,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Safety,Anti-Theft Alarm,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Safety,No. of Airbags,6
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Safety,Driver Airbag,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Safety,Passenger Airbag,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Safety,Side Airbag,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Safety,Side Airbag-Rear,NO
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Safety,Day & Night Rear View Mirror,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Safety,Electronic Brakeforce Distribution (EBD),YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Safety,Traction Control,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Safety,Engine Immobilizer,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Safety,Electronic Stability Control (ESC),YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Safety,Rear Camera,With Guidedlines
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Safety,Anti-Pinch Power Windows,All Windows
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Safety,ISOFIX Child Seat Mounts,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Safety,Hill Descent Control,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Safety,Hill Assist,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Safety,360 View Camera,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Entertainment & Communication,Radio,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Entertainment & Communication,Wireless Phone Charging,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Entertainment & Communication,Bluetooth Connectivity,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Entertainment & Communication,Touchscreen,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Entertainment & Communication,Touchscreen Size,13.1 inch
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Entertainment & Communication,Android Auto,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Entertainment & Communication,Apple CarPlay,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Entertainment & Communication,No. of Speakers,14
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Entertainment & Communication,Usb Ports,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Entertainment & Communication,Subwoofer,1
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Entertainment & Communication,Additional Features,Meridian Surround Sound System
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Entertainment & Communication,Speakers,Front & Rear
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,ADAS Feature,Forward Collision Warning,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,ADAS Feature,Blind Spot Collision Avoidance Assist,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,ADAS Feature,Lane Departure Warning,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,ADAS Feature,Lane Departure Prevention Assist,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,ADAS Feature,Road Departure Mitigation System,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,ADAS Feature,Driver Attention Warning,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,ADAS Feature,Adaptive Cruise Control,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,ADAS Feature,Leading Vehicle Departure Alert,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,ADAS Feature,Adaptive High Beam Assist,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,ADAS Feature,Rear Cross Traffic Alert,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,ADAS Feature,Rear Cross Traffic Collision-Avoidance Assist,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,ADAS Feature,Blind Spot Monitor,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Advance Internet Feature,Remote Vehicle Status Check,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Advance Internet Feature,Navigation with Live Traffic,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Advance Internet Feature,Live Weather,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Advance Internet Feature,E-Call & I-Call,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Advance Internet Feature,Crash Notification,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Advance Internet Feature,SOS Button,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Advance Internet Feature,RSA,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Advance Internet Feature,Over Speeding Alert,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Advance Internet Feature,Tow Away Alert,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Advance Internet Feature,In Car Remote Control App,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Advance Internet Feature,Valet Mode,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Advance Internet Feature,Remote AC On/Off,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Advance Internet Feature,Remote Door Lock/Unlock,YES
+Land Rover,Defender,4.4 l V8 Petrol 110 OCTA,Advance Internet Feature,SOS / Emergency Assistance,YES

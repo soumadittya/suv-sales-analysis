@@ -1,0 +1,95 @@
+company,model,variant,category,feature_name,feature_details
+Porsche,Macan EV,4S,Engine & Transmission,Battery Capacity,100 kWh
+Porsche,Macan EV,4S,Engine & Transmission,Max Power,509bhp
+Porsche,Macan EV,4S,Engine & Transmission,Max Torque,820Nm
+Porsche,Macan EV,4S,Engine & Transmission,Range,619 km
+Porsche,Macan EV,4S,Engine & Transmission,Battery Type,Lithium-ion
+Porsche,Macan EV,4S,Engine & Transmission,Charging Time (A.C),10H-11kW-(0-100%)
+Porsche,Macan EV,4S,Engine & Transmission,Charging Time (D.C),21Min-270kW-(10-80%)
+Porsche,Macan EV,4S,Engine & Transmission,Regenerative Braking,YES
+Porsche,Macan EV,4S,Engine & Transmission,Charging Port,CCS-II
+Porsche,Macan EV,4S,Engine & Transmission,Transmission Type,Automatic
+Porsche,Macan EV,4S,Engine & Transmission,Gearbox,1-Speed
+Porsche,Macan EV,4S,Engine & Transmission,Drive Type,AWD
+Porsche,Macan EV,4S,Fuel & Performance,Fuel Type,Electric
+Porsche,Macan EV,4S,Fuel & Performance,Emission Norm Compliance,ZEV
+Porsche,Macan EV,4S,Fuel & Performance,Acceleration 0-100kmph,5.2
+Porsche,Macan EV,4S,Charging,Charging Time,21Min-270kW-(10-80%)
+Porsche,Macan EV,4S,Charging,Fast Charging,YES
+Porsche,Macan EV,4S,Dimensions & Capacity,Length,4784 mm
+Porsche,Macan EV,4S,Dimensions & Capacity,Width,1938 mm
+Porsche,Macan EV,4S,Dimensions & Capacity,Height,1622 mm
+Porsche,Macan EV,4S,Dimensions & Capacity,Boot Space,540 Litres
+Porsche,Macan EV,4S,Dimensions & Capacity,Seating Capacity,5
+Porsche,Macan EV,4S,Dimensions & Capacity,Reported Ground Clearance (Unladen),224 mm
+Porsche,Macan EV,4S,Comfort & Convenience,Boot Opening,Automatic
+Porsche,Macan EV,4S,Comfort & Convenience,Power Steering,YES
+Porsche,Macan EV,4S,Comfort & Convenience,Air Conditioner,YES
+Porsche,Macan EV,4S,Comfort & Convenience,Heater,YES
+Porsche,Macan EV,4S,Comfort & Convenience,Adjustable Steering,YES
+Porsche,Macan EV,4S,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Porsche,Macan EV,4S,Comfort & Convenience,Air Quality Control,YES
+Porsche,Macan EV,4S,Comfort & Convenience,Accessory Power Outlet,YES
+Porsche,Macan EV,4S,Comfort & Convenience,Rear Seat Headrest,YES
+Porsche,Macan EV,4S,Comfort & Convenience,Adjustable Headrest,YES
+Porsche,Macan EV,4S,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Porsche,Macan EV,4S,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Porsche,Macan EV,4S,Comfort & Convenience,Rear AC Vents,YES
+Porsche,Macan EV,4S,Comfort & Convenience,Lumbar Support,YES
+Porsche,Macan EV,4S,Comfort & Convenience,Cruise Control,YES
+Porsche,Macan EV,4S,Comfort & Convenience,Parking Sensors,Front & Rear
+Porsche,Macan EV,4S,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Porsche,Macan EV,4S,Comfort & Convenience,KeyLess Entry,YES
+Porsche,Macan EV,4S,Comfort & Convenience,Voice Commands,YES
+Porsche,Macan EV,4S,Comfort & Convenience,USB Charger,Front & Rear
+Porsche,Macan EV,4S,Comfort & Convenience,Central Console Armrest,YES
+Porsche,Macan EV,4S,Comfort & Convenience,Gear Shift Indicator,NO
+Porsche,Macan EV,4S,Comfort & Convenience,Glove Box light,YES
+Porsche,Macan EV,4S,Comfort & Convenience,Follow Me Home Headlamps,YES
+Porsche,Macan EV,4S,Interior,Leather Wrapped Steering Wheel,YES
+Porsche,Macan EV,4S,Interior,Glove Box,YES
+Porsche,Macan EV,4S,Exterior,Adjustable Headlamps,YES
+Porsche,Macan EV,4S,Exterior,Rain Sensing Wiper,YES
+Porsche,Macan EV,4S,Exterior,Rear Window Wiper,YES
+Porsche,Macan EV,4S,Exterior,Rear Window Washer,YES
+Porsche,Macan EV,4S,Exterior,Rear Window Defogger,YES
+Porsche,Macan EV,4S,Exterior,Alloy Wheels,YES
+Porsche,Macan EV,4S,Exterior,Rear Spoiler,YES
+Porsche,Macan EV,4S,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Porsche,Macan EV,4S,Exterior,Roof Rails,YES
+Porsche,Macan EV,4S,Exterior,Automatic Headlamps,YES
+Porsche,Macan EV,4S,Exterior,Heated Outside Rear View Mirror,YES
+Porsche,Macan EV,4S,Exterior,LED DRLs,YES
+Porsche,Macan EV,4S,Exterior,LED Headlamps,YES
+Porsche,Macan EV,4S,Exterior,LED Taillights,YES
+Porsche,Macan EV,4S,Exterior,LED Fog Lamps,YES
+Porsche,Macan EV,4S,Safety,Anti-lock Braking System (ABS),YES
+Porsche,Macan EV,4S,Safety,Brake Assist,YES
+Porsche,Macan EV,4S,Safety,Central Locking,YES
+Porsche,Macan EV,4S,Safety,Child Safety Locks,YES
+Porsche,Macan EV,4S,Safety,Anti-Theft Alarm,YES
+Porsche,Macan EV,4S,Safety,No. of Airbags,8
+Porsche,Macan EV,4S,Safety,Driver Airbag,YES
+Porsche,Macan EV,4S,Safety,Passenger Airbag,YES
+Porsche,Macan EV,4S,Safety,Side Airbag,YES
+Porsche,Macan EV,4S,Safety,Side Airbag-Rear,YES
+Porsche,Macan EV,4S,Safety,Day & Night Rear View Mirror,YES
+Porsche,Macan EV,4S,Safety,Electronic Brakeforce Distribution (EBD),YES
+Porsche,Macan EV,4S,Safety,Acoustic Vehicle Alert System,YES
+Porsche,Macan EV,4S,Safety,Traction Control,YES
+Porsche,Macan EV,4S,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Porsche,Macan EV,4S,Safety,Engine Immobilizer,YES
+Porsche,Macan EV,4S,Safety,Electronic Stability Control (ESC),YES
+Porsche,Macan EV,4S,Safety,Rear Camera,With Guidedlines
+Porsche,Macan EV,4S,Safety,Anti-Theft Device,YES
+Porsche,Macan EV,4S,Safety,Anti-Pinch Power Windows,Driver and Passenger
+Porsche,Macan EV,4S,Safety,ISOFIX Child Seat Mounts,YES
+Porsche,Macan EV,4S,Safety,Hill Assist,YES
+Porsche,Macan EV,4S,Safety,360 View Camera,YES
+Porsche,Macan EV,4S,Entertainment & Communication,Radio,YES
+Porsche,Macan EV,4S,Entertainment & Communication,Bluetooth Connectivity,YES
+Porsche,Macan EV,4S,Entertainment & Communication,Touchscreen,YES
+Porsche,Macan EV,4S,Entertainment & Communication,Android Auto,YES
+Porsche,Macan EV,4S,Entertainment & Communication,Apple CarPlay,YES
+Porsche,Macan EV,4S,Entertainment & Communication,Usb Ports,YES
+Porsche,Macan EV,4S,Entertainment & Communication,Speakers,Front & Rear

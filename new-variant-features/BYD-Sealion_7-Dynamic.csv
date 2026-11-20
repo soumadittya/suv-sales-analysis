@@ -1,0 +1,131 @@
+company,model,variant,category,feature_name,feature_details
+BYD,Sealion 7,Dynamic,Engine & Transmission,Battery Capacity,71.8 kWh
+BYD,Sealion 7,Dynamic,Engine & Transmission,Motor Power,170 kW
+BYD,Sealion 7,Dynamic,Engine & Transmission,Motor Type,Permanent Magnet Synchronous
+BYD,Sealion 7,Dynamic,Engine & Transmission,Max Power,228bhp
+BYD,Sealion 7,Dynamic,Engine & Transmission,Max Torque,380Nm
+BYD,Sealion 7,Dynamic,Engine & Transmission,Range,520 km
+BYD,Sealion 7,Dynamic,Engine & Transmission,Battery Type,Blade Battery
+BYD,Sealion 7,Dynamic,Engine & Transmission,Regenerative Braking,YES
+BYD,Sealion 7,Dynamic,Engine & Transmission,Charging Port,CCS-II
+BYD,Sealion 7,Dynamic,Engine & Transmission,Charging Options,"7.2kW, 11kW and 110kW"
+BYD,Sealion 7,Dynamic,Engine & Transmission,Transmission Type,Automatic
+BYD,Sealion 7,Dynamic,Engine & Transmission,Gearbox,1-Speed
+BYD,Sealion 7,Dynamic,Engine & Transmission,Drive Type,RWD
+BYD,Sealion 7,Dynamic,Fuel & Performance,Fuel Type,Electric
+BYD,Sealion 7,Dynamic,Fuel & Performance,Emission Norm Compliance,ZEV
+BYD,Sealion 7,Dynamic,Fuel & Performance,Acceleration 0-100kmph,7.3 s
+BYD,Sealion 7,Dynamic,Charging,Charging Time,24Min-230kW (10-80%)
+BYD,Sealion 7,Dynamic,Charging,Fast Charging,YES
+BYD,Sealion 7,Dynamic,"Suspension, Steering & Brakes",Front Suspension,Double wishbone suspension
+BYD,Sealion 7,Dynamic,"Suspension, Steering & Brakes",Rear Suspension,Multi-link suspension
+BYD,Sealion 7,Dynamic,"Suspension, Steering & Brakes",Shock Absorbers Type,FSD
+BYD,Sealion 7,Dynamic,"Suspension, Steering & Brakes",Steering Type,Electric
+BYD,Sealion 7,Dynamic,"Suspension, Steering & Brakes",Turning Radius,5.85 m
+BYD,Sealion 7,Dynamic,"Suspension, Steering & Brakes",Front Brake Type,Ventilated
+BYD,Sealion 7,Dynamic,"Suspension, Steering & Brakes",Rear Brake Type,Ventilated
+BYD,Sealion 7,Dynamic,Dimensions & Capacity,Length,4830 mm
+BYD,Sealion 7,Dynamic,Dimensions & Capacity,Width,1925 mm
+BYD,Sealion 7,Dynamic,Dimensions & Capacity,Height,1620 mm
+BYD,Sealion 7,Dynamic,Dimensions & Capacity,Boot Space,500 Litres
+BYD,Sealion 7,Dynamic,Dimensions & Capacity,Seating Capacity,5
+BYD,Sealion 7,Dynamic,Dimensions & Capacity,Wheel Base,2930 mm
+BYD,Sealion 7,Dynamic,Dimensions & Capacity,Front Tread,1660 mm
+BYD,Sealion 7,Dynamic,Dimensions & Capacity,Rear Tread,1660 mm
+BYD,Sealion 7,Dynamic,Dimensions & Capacity,Kerb Weight,2160 kg
+BYD,Sealion 7,Dynamic,Dimensions & Capacity,Gross Weight,2700 kg
+BYD,Sealion 7,Dynamic,Comfort & Convenience,Boot Opening,Electronic
+BYD,Sealion 7,Dynamic,Comfort & Convenience,Power Steering,YES
+BYD,Sealion 7,Dynamic,Comfort & Convenience,Air Conditioner,YES
+BYD,Sealion 7,Dynamic,Comfort & Convenience,Heater,YES
+BYD,Sealion 7,Dynamic,Comfort & Convenience,Adjustable Steering,Height & Reach
+BYD,Sealion 7,Dynamic,Comfort & Convenience,Height Adjustable Driver Seat,YES
+BYD,Sealion 7,Dynamic,Comfort & Convenience,Ventilated Seats,YES
+BYD,Sealion 7,Dynamic,Comfort & Convenience,Electric Adjustable Seats,Front Only
+BYD,Sealion 7,Dynamic,Comfort & Convenience,Automatic Climate Control,YES
+BYD,Sealion 7,Dynamic,Comfort & Convenience,Air Quality Control,YES
+BYD,Sealion 7,Dynamic,Comfort & Convenience,Accessory Power Outlet,YES
+BYD,Sealion 7,Dynamic,Comfort & Convenience,Rear Seat Headrest,Adjustable
+BYD,Sealion 7,Dynamic,Comfort & Convenience,Adjustable Headrest,YES
+BYD,Sealion 7,Dynamic,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+BYD,Sealion 7,Dynamic,Comfort & Convenience,Rear AC Vents,YES
+BYD,Sealion 7,Dynamic,Comfort & Convenience,Lumbar Support,NO
+BYD,Sealion 7,Dynamic,Comfort & Convenience,Active noise cancellation,YES
+BYD,Sealion 7,Dynamic,Comfort & Convenience,Cruise Control,YES
+BYD,Sealion 7,Dynamic,Comfort & Convenience,Parking Sensors,Front & Rear
+BYD,Sealion 7,Dynamic,Comfort & Convenience,Real-Time Vehicle Tracking,YES
+BYD,Sealion 7,Dynamic,Comfort & Convenience,KeyLess Entry,YES
+BYD,Sealion 7,Dynamic,Comfort & Convenience,Follow Me Home Headlamps,YES
+BYD,Sealion 7,Dynamic,Comfort & Convenience,Additional Features,Soundproof double glazed glass - windscreen and front door
+BYD,Sealion 7,Dynamic,Comfort & Convenience,Vehicle to Load Charging,YES
+BYD,Sealion 7,Dynamic,Comfort & Convenience,Power Windows,Front & Rear
+BYD,Sealion 7,Dynamic,Comfort & Convenience,Heated Seats,Front Only
+BYD,Sealion 7,Dynamic,Interior,Leather Wrapped Steering Wheel,NO
+BYD,Sealion 7,Dynamic,Interior,Glove Box,YES
+BYD,Sealion 7,Dynamic,Interior,Additional Features,Metal door sill protectors
+BYD,Sealion 7,Dynamic,Interior,Digital Cluster,YES
+BYD,Sealion 7,Dynamic,Interior,Digital Cluster Size,10.25
+BYD,Sealion 7,Dynamic,Interior,Upholstery,Fabric
+BYD,Sealion 7,Dynamic,Exterior,Adjustable Headlamps,YES
+BYD,Sealion 7,Dynamic,Exterior,Rain Sensing Wiper,YES
+BYD,Sealion 7,Dynamic,Exterior,Rear Window Wiper,YES
+BYD,Sealion 7,Dynamic,Exterior,Rear Window Washer,YES
+BYD,Sealion 7,Dynamic,Exterior,Rear Window Defogger,YES
+BYD,Sealion 7,Dynamic,Exterior,Fog Lights,Rear
+BYD,Sealion 7,Dynamic,Exterior,Outside Rear View Mirror (ORVM),"Heated, Powered & Folding"
+BYD,Sealion 7,Dynamic,Exterior,Tyre Size,F 235/50 R19 R 255/45 R19
+BYD,Sealion 7,Dynamic,Exterior,LED DRLs,YES
+BYD,Sealion 7,Dynamic,Exterior,LED Headlamps,YES
+BYD,Sealion 7,Dynamic,Exterior,LED Taillights,YES
+BYD,Sealion 7,Dynamic,Exterior,LED Fog Lamps,YES
+BYD,Sealion 7,Dynamic,Exterior,Additional Features,58L Front Trunk capacity
+BYD,Sealion 7,Dynamic,Safety,Anti-lock Braking System (ABS),YES
+BYD,Sealion 7,Dynamic,Safety,Central Locking,YES
+BYD,Sealion 7,Dynamic,Safety,Child Safety Locks,YES
+BYD,Sealion 7,Dynamic,Safety,No. of Airbags,11
+BYD,Sealion 7,Dynamic,Safety,Driver Airbag,YES
+BYD,Sealion 7,Dynamic,Safety,Passenger Airbag,YES
+BYD,Sealion 7,Dynamic,Safety,Side Airbag,YES
+BYD,Sealion 7,Dynamic,Safety,Side Airbag-Rear,YES
+BYD,Sealion 7,Dynamic,Safety,Day & Night Rear View Mirror,YES
+BYD,Sealion 7,Dynamic,Safety,Electronic Brakeforce Distribution (EBD),YES
+BYD,Sealion 7,Dynamic,Safety,Traction Control,YES
+BYD,Sealion 7,Dynamic,Safety,Tyre Pressure Monitoring System (TPMS),YES
+BYD,Sealion 7,Dynamic,Safety,Electronic Stability Control (ESC),YES
+BYD,Sealion 7,Dynamic,Safety,Rear Camera,With Guidedlines
+BYD,Sealion 7,Dynamic,Safety,ISOFIX Child Seat Mounts,YES
+BYD,Sealion 7,Dynamic,Safety,Heads-Up Display (HUD),NO
+BYD,Sealion 7,Dynamic,Safety,Blind Spot Camera,YES
+BYD,Sealion 7,Dynamic,Safety,Hill Assist,YES
+BYD,Sealion 7,Dynamic,Safety,360 View Camera,YES
+BYD,Sealion 7,Dynamic,Safety,EURO NCAP Safety Rating,5 Star
+BYD,Sealion 7,Dynamic,Entertainment & Communication,Radio,YES
+BYD,Sealion 7,Dynamic,Entertainment & Communication,Wireless Phone Charging,YES
+BYD,Sealion 7,Dynamic,Entertainment & Communication,Bluetooth Connectivity,YES
+BYD,Sealion 7,Dynamic,Entertainment & Communication,Touchscreen,YES
+BYD,Sealion 7,Dynamic,Entertainment & Communication,Touchscreen Size,15.6 inch
+BYD,Sealion 7,Dynamic,Entertainment & Communication,Android Auto,YES
+BYD,Sealion 7,Dynamic,Entertainment & Communication,Apple CarPlay,YES
+BYD,Sealion 7,Dynamic,Entertainment & Communication,No. of Speakers,10
+BYD,Sealion 7,Dynamic,Entertainment & Communication,Speakers,Front & Rear
+BYD,Sealion 7,Dynamic,ADAS Feature,Forward Collision Warning,YES
+BYD,Sealion 7,Dynamic,ADAS Feature,Automatic Emergency Braking,YES
+BYD,Sealion 7,Dynamic,ADAS Feature,Speed Assist System,YES
+BYD,Sealion 7,Dynamic,ADAS Feature,Traffic Sign Recognition,YES
+BYD,Sealion 7,Dynamic,ADAS Feature,Blind Spot Collision Avoidance Assist,YES
+BYD,Sealion 7,Dynamic,ADAS Feature,Lane Departure Warning,YES
+BYD,Sealion 7,Dynamic,ADAS Feature,Lane Keep Assist,YES
+BYD,Sealion 7,Dynamic,ADAS Feature,Lane Departure Prevention Assist,YES
+BYD,Sealion 7,Dynamic,ADAS Feature,Driver Attention Warning,NO
+BYD,Sealion 7,Dynamic,ADAS Feature,Adaptive Cruise Control,YES
+BYD,Sealion 7,Dynamic,ADAS Feature,Adaptive High Beam Assist,YES
+BYD,Sealion 7,Dynamic,ADAS Feature,Blind Spot Monitor,YES
+BYD,Sealion 7,Dynamic,Advance Internet Feature,Live Location,YES
+BYD,Sealion 7,Dynamic,Advance Internet Feature,Digital Car Key,YES
+BYD,Sealion 7,Dynamic,Advance Internet Feature,Navigation with Live Traffic,YES
+BYD,Sealion 7,Dynamic,Advance Internet Feature,Live Weather,YES
+BYD,Sealion 7,Dynamic,Advance Internet Feature,E-Call & I-Call,YES
+BYD,Sealion 7,Dynamic,Advance Internet Feature,SOS Button,YES
+BYD,Sealion 7,Dynamic,Advance Internet Feature,RSA,YES
+BYD,Sealion 7,Dynamic,Advance Internet Feature,Over Speeding Alert,YES
+BYD,Sealion 7,Dynamic,Advance Internet Feature,SOS / Emergency Assistance,YES

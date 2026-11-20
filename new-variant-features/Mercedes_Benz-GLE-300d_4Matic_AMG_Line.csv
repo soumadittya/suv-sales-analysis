@@ -1,0 +1,139 @@
+company,model,variant,category,feature_name,feature_details
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Engine & Transmission,Engine Type,OM654 Turbocharged I4
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Engine & Transmission,Displacement,1993 cc
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Engine & Transmission,Max Power,265.52bhp@4200rpm
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Engine & Transmission,Max Torque,550Nm@1800-2200rpm
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Engine & Transmission,No. of Cylinders,4
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Engine & Transmission,Valves Per Cylinder,4
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Engine & Transmission,Turbo Charger,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Engine & Transmission,Transmission Type,Automatic
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Engine & Transmission,Gearbox,9-Speed TRONIC
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Engine & Transmission,Drive Type,AWD
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Fuel & Performance,Fuel Type,Diesel
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Fuel & Performance,Diesel Highway Mileage,16 kmpl
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Fuel & Performance,Top Speed,230 kmph
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Fuel & Performance,Acceleration,6.9 Sec
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Fuel & Performance,0-100kmph,6.9 Sec
+Mercedes-Benz,GLE,300d 4Matic AMG Line,"Suspension, Steering & Brakes",Front Suspension,NO
+Mercedes-Benz,GLE,300d 4Matic AMG Line,"Suspension, Steering & Brakes",Rear Suspension,NO
+Mercedes-Benz,GLE,300d 4Matic AMG Line,"Suspension, Steering & Brakes",Steering Type,Electric
+Mercedes-Benz,GLE,300d 4Matic AMG Line,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Mercedes-Benz,GLE,300d 4Matic AMG Line,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Dimensions & Capacity,Length,4924 mm
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Dimensions & Capacity,Width,2157 mm
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Dimensions & Capacity,Height,1795 mm
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Dimensions & Capacity,Boot Space,630 Litres
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Dimensions & Capacity,Seating Capacity,5
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Dimensions & Capacity,Wheel Base,2500 mm
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Dimensions & Capacity,Reported Ground Clearance (Unladen),215 mm
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Comfort & Convenience,Boot Opening,Automatic
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Comfort & Convenience,Power Steering,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Comfort & Convenience,Air Conditioner,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Comfort & Convenience,Heater,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Comfort & Convenience,Adjustable Steering,NO
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Comfort & Convenience,Ventilated Seats,NO
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Comfort & Convenience,Electric Adjustable Seats,Front & Rear
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Comfort & Convenience,Automatic Climate Control,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Comfort & Convenience,Air Quality Control,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Comfort & Convenience,Accessory Power Outlet,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Comfort & Convenience,Rear Seat Headrest,Optional
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Comfort & Convenience,Adjustable Headrest,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Comfort & Convenience,Rear AC Vents,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Comfort & Convenience,Lumbar Support,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Comfort & Convenience,Cruise Control,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Comfort & Convenience,Parking Sensors,Rear
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Comfort & Convenience,Real-Time Vehicle Tracking,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Comfort & Convenience,KeyLess Entry,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Comfort & Convenience,Engine Start/Stop Button,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Comfort & Convenience,Voice Commands,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Comfort & Convenience,Paddle Shifters,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Comfort & Convenience,USB Charger,Front & Rear
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Comfort & Convenience,Central Console Armrest,With Storage
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Comfort & Convenience,Gear Shift Indicator,NO
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Comfort & Convenience,Idle Start-Stop System,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Comfort & Convenience,Follow Me Home Headlamps,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Interior,Leather Wrapped Steering Wheel,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Interior,Leather wrap gear-shift selector,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Interior,Glove Box,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Interior,Digital Cluster,Full
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Interior,Digital Cluster Size,12.3 Inch
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Interior,Upholstery,Leather
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Interior,Ambient Light Colour (numbers),64
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Exterior,Adjustable Headlamps,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Exterior,Rear Window Wiper,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Exterior,Alloy Wheels,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Exterior,Rear Spoiler,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Exterior,Side Stepper,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Exterior,Projector Headlamps,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Exterior,Roof Rails,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Exterior,Automatic Headlamps,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Exterior,Sunroof,Panoramic
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Exterior,Puddle Lamps,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Exterior,Tyre Type,Radial Tubeless
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Exterior,LED DRLs,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Exterior,LED Headlamps,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Exterior,LED Taillights,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Safety,Anti-lock Braking System (ABS),YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Safety,Brake Assist,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Safety,Central Locking,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Safety,Child Safety Locks,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Safety,Anti-Theft Alarm,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Safety,No. of Airbags,9
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Safety,Driver Airbag,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Safety,Passenger Airbag,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Safety,Side Airbag,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Safety,Side Airbag-Rear,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Safety,Day & Night Rear View Mirror,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Safety,Electronic Brakeforce Distribution (EBD),YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Safety,Engine Immobilizer,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Safety,Electronic Stability Control (ESC),YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Safety,Rear Camera,With Guidedlines
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Safety,Anti-Theft Device,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Safety,Heads-Up Display (HUD),NO
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Safety,Hill Assist,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Safety,360 View Camera,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Entertainment & Communication,Radio,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Entertainment & Communication,Wireless Phone Charging,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Entertainment & Communication,Bluetooth Connectivity,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Entertainment & Communication,Wi-Fi Connectivity,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Entertainment & Communication,Touchscreen,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Entertainment & Communication,Touchscreen Size,12.3 Inch
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Entertainment & Communication,Android Auto,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Entertainment & Communication,Apple CarPlay,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Entertainment & Communication,No. of Speakers,8
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Entertainment & Communication,Usb Ports,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Entertainment & Communication,Inbuilt Apps,Amazon Apple Spotfy Tidal Music Apps
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Entertainment & Communication,Tweeters,4
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Entertainment & Communication,Subwoofer,1
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Entertainment & Communication,Speakers,Front & Rear
+Mercedes-Benz,GLE,300d 4Matic AMG Line,ADAS Feature,Automatic Emergency Braking,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,ADAS Feature,Traffic Sign Recognition,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,ADAS Feature,Blind Spot Collision Avoidance Assist,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,ADAS Feature,Adaptive High Beam Assist,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,ADAS Feature,Rear Cross Traffic Alert,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,ADAS Feature,Rear Cross Traffic Collision-Avoidance Assist,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,ADAS Feature,Blind Spot Monitor,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Advance Internet Feature,Live Location,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Advance Internet Feature,Remote Immobiliser,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Advance Internet Feature,Digital Car Key,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Advance Internet Feature,Inbuilt Assistant,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Advance Internet Feature,Hinglish Voice Commands,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Advance Internet Feature,Navigation with Live Traffic,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Advance Internet Feature,Send POI to Vehicle From App,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Advance Internet Feature,Live Weather,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Advance Internet Feature,E-Call & I-Call,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Advance Internet Feature,Over the Air (OTA) Updates,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Advance Internet Feature,Save Route/Place,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Advance Internet Feature,SOS Button,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Advance Internet Feature,RSA,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Advance Internet Feature,Over Speeding Alert,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Advance Internet Feature,Smartwatch App,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Advance Internet Feature,Remote Boot Open,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Advance Internet Feature,SOS / Emergency Assistance,YES
+Mercedes-Benz,GLE,300d 4Matic AMG Line,Advance Internet Feature,Geo-fence Alert,YES

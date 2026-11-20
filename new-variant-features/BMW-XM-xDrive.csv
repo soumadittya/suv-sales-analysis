@@ -1,0 +1,104 @@
+company,model,variant,category,feature_name,feature_details
+BMW,XM,xDrive,Engine & Transmission,Engine Type,4.4 L S68 twin-turbo V8
+BMW,XM,xDrive,Engine & Transmission,Displacement,4395 cc
+BMW,XM,xDrive,Engine & Transmission,Max Power,643.69bhp@5400-7200rpm
+BMW,XM,xDrive,Engine & Transmission,Max Torque,800Nm@1600-5000rpm
+BMW,XM,xDrive,Engine & Transmission,No. of Cylinders,8
+BMW,XM,xDrive,Engine & Transmission,Valves Per Cylinder,4
+BMW,XM,xDrive,Engine & Transmission,Transmission Type,Automatic
+BMW,XM,xDrive,Engine & Transmission,Gearbox,8-Speed
+BMW,XM,xDrive,Engine & Transmission,Drive Type,4WD
+BMW,XM,xDrive,Fuel & Performance,Fuel Type,Petrol
+BMW,XM,xDrive,Fuel & Performance,Petrol Mileage WLTP,61.9 kmpl
+BMW,XM,xDrive,Fuel & Performance,Secondary Fuel Type,Electric
+BMW,XM,xDrive,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+BMW,XM,xDrive,Fuel & Performance,Top Speed,270 kmph
+BMW,XM,xDrive,Fuel & Performance,Acceleration,4.3 s
+BMW,XM,xDrive,Fuel & Performance,0-100kmph,4.3 s
+BMW,XM,xDrive,"Suspension, Steering & Brakes",Front Suspension,Multi-link suspension
+BMW,XM,xDrive,"Suspension, Steering & Brakes",Rear Suspension,Multi-link suspension
+BMW,XM,xDrive,"Suspension, Steering & Brakes",Steering Type,Electric
+BMW,XM,xDrive,"Suspension, Steering & Brakes",Front Brake Type,ventilated Disc
+BMW,XM,xDrive,"Suspension, Steering & Brakes",Rear Brake Type,ventilated Disc
+BMW,XM,xDrive,Dimensions & Capacity,Length,5155 mm
+BMW,XM,xDrive,Dimensions & Capacity,Width,2000 mm
+BMW,XM,xDrive,Dimensions & Capacity,Height,1745 mm
+BMW,XM,xDrive,Dimensions & Capacity,Boot Space,390 Litres
+BMW,XM,xDrive,Dimensions & Capacity,Seating Capacity,5
+BMW,XM,xDrive,Dimensions & Capacity,Wheel Base,2651 mm
+BMW,XM,xDrive,Dimensions & Capacity,Kerb Weight,2785 kg
+BMW,XM,xDrive,Dimensions & Capacity,Reported Ground Clearance (Unladen),140 mm
+BMW,XM,xDrive,Comfort & Convenience,Power Steering,YES
+BMW,XM,xDrive,Comfort & Convenience,Power Boot,YES
+BMW,XM,xDrive,Comfort & Convenience,Air Conditioner,YES
+BMW,XM,xDrive,Comfort & Convenience,Heater,YES
+BMW,XM,xDrive,Comfort & Convenience,Adjustable Steering,YES
+BMW,XM,xDrive,Comfort & Convenience,Height Adjustable Driver Seat,YES
+BMW,XM,xDrive,Comfort & Convenience,Ventilated Seats,YES
+BMW,XM,xDrive,Comfort & Convenience,Electric Adjustable Seats,Front
+BMW,XM,xDrive,Comfort & Convenience,Automatic Climate Control,YES
+BMW,XM,xDrive,Comfort & Convenience,Air Quality Control,YES
+BMW,XM,xDrive,Comfort & Convenience,Remote Trunk Opener,YES
+BMW,XM,xDrive,Comfort & Convenience,Low Fuel Warning Light,YES
+BMW,XM,xDrive,Comfort & Convenience,Accessory Power Outlet,YES
+BMW,XM,xDrive,Comfort & Convenience,Rear Seat Headrest,YES
+BMW,XM,xDrive,Comfort & Convenience,Adjustable Headrest,YES
+BMW,XM,xDrive,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+BMW,XM,xDrive,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+BMW,XM,xDrive,Comfort & Convenience,Lumbar Support,YES
+BMW,XM,xDrive,Comfort & Convenience,Cruise Control,YES
+BMW,XM,xDrive,Comfort & Convenience,Parking Sensors,Rear
+BMW,XM,xDrive,Comfort & Convenience,Navigation System,YES
+BMW,XM,xDrive,Comfort & Convenience,Foldable Rear Seat,40:20:40 Split
+BMW,XM,xDrive,Comfort & Convenience,KeyLess Entry,YES
+BMW,XM,xDrive,Comfort & Convenience,Engine Start/Stop Button,YES
+BMW,XM,xDrive,Comfort & Convenience,Voice Commands,YES
+BMW,XM,xDrive,Comfort & Convenience,Paddle Shifters,YES
+BMW,XM,xDrive,Comfort & Convenience,USB Charger,Front
+BMW,XM,xDrive,Comfort & Convenience,Central Console Armrest,With Storage
+BMW,XM,xDrive,Comfort & Convenience,Gear Shift Indicator,NO
+BMW,XM,xDrive,Comfort & Convenience,Drive Modes,3
+BMW,XM,xDrive,Comfort & Convenience,Follow Me Home Headlamps,YES
+BMW,XM,xDrive,Interior,Electronic Multi-Tripmeter,YES
+BMW,XM,xDrive,Interior,Leather Seats,YES
+BMW,XM,xDrive,Interior,Leather Wrapped Steering Wheel,YES
+BMW,XM,xDrive,Interior,Glove Box,YES
+BMW,XM,xDrive,Interior,Digital Clock,YES
+BMW,XM,xDrive,Interior,Additional Features,"M-specific Servotronic Steering with Variable Ratio, Ambient light with 6 pre-defined selectable light designs in various colours with contour and mood lighting, Door sill with illuminated M logo lettering on the front and back, M Seat Belts, M Selector Lever, Floor mats in velour, Frameless interior mirror, Multifunction M leather steering wheel with drive logic buttons, Sculptural headlining in 3D Alcantara prism structure with ambient lighting, BMW Individual instrument panel finished in Leather, BMW Iconic Sounds Electric, Center armrest in the rear (foldable, with 2 cup holders, for 2nd row of seats), BMW ID, BMW Live Cockpit Professional (Widescreen Curved Display, Fully Digital 12.3” Instrument Display, High-resolution (1920x720 pixels) 14.9” Control Display, BMW Operating System 7.0 with variable configurable widgets, Navigation Function with 3D maps, Touch Functionality, iDrive Controller), Augmented View in touch display, Three-point seat belts at all seats, M interior trim finishers ‘Carbon Fibre’, Seats in BMW Individual leather ‘Merino’ with exclusive contents | Deep Lagoon, including (Comfort Cushions for outers rear seats backrest in Alcantara | Deep Lagoon, BMW Individual instrument panel finished in Walknappa Vintage Coffee leather), Seats in BMW Individual leather ‘Merino’ with exclusive contents | Silverstone, including (Comfort Cushions for outers rear seats backrest in Alcantara | Silverstone, BMW Individual instrument panel finished in Walknappa Vintage Coffee leather), Seats in BMW Individual leather ‘Merino’ | Sakhir Orange, including (Comfort Cushions for outers rear seats backrest in Alcantara | Black, BMW Individual instrument panel finished in Walknappa Black leather), Seats in BMW Individual leather ‘Merino’ | Black, including (BMW Individual instrument panel finished in Walknappa Black leather)"
+BMW,XM,xDrive,Exterior,Adjustable Headlamps,YES
+BMW,XM,xDrive,Exterior,Alloy Wheels,YES
+BMW,XM,xDrive,Exterior,Tinted Glass,YES
+BMW,XM,xDrive,Exterior,Rear Spoiler,YES
+BMW,XM,xDrive,Exterior,Sun Roof,YES
+BMW,XM,xDrive,Exterior,Tyre Type,"Radial, Tubeless"
+BMW,XM,xDrive,Exterior,LED DRLs,YES
+BMW,XM,xDrive,Exterior,LED Headlamps,YES
+BMW,XM,xDrive,Exterior,LED Taillights,YES
+BMW,XM,xDrive,Exterior,Additional Features,"M Sport Exhaust System with four exhaust tailpipes, M Sport Differential, M high-gloss Shadowline with extended contents(Two-part radiator grille frame in Black High Gloss, Horizontal radiator grille struts in Black High Gloss, Exterior and central air inlets in front bumper in Black High Gloss,Prism optics door handle insert in Black High Gloss, Rear diffuser in Black High Gloss, Wheel well covers and claddings in Black High Gloss, Roof trim strips in Black High Gloss), Adaptive LED Headlights including High-beam assistant(Accent lighting with turn indicators, low and high-beam in LED Technology, Hexagonally shaped daytime running lights and two-part LED tail lights, High-beam assistance), Illuminated BMW kidney grille ‘Iconic Glow’(BMW radiator grille with contour lighting, Active when the vehicle is at rest and while driving, XM badge in left side radiator grille, Tailgate without BMW logo, 2 lasered BMW logos in upper left and right of rear window), M light-alloy wheels double spoke style 922 M Bicolour with mixed tyres"
+BMW,XM,xDrive,Safety,Anti-lock Braking System (ABS),YES
+BMW,XM,xDrive,Safety,Brake Assist,YES
+BMW,XM,xDrive,Safety,Central Locking,YES
+BMW,XM,xDrive,Safety,Child Safety Locks,YES
+BMW,XM,xDrive,Safety,Anti-Theft Alarm,YES
+BMW,XM,xDrive,Safety,No. of Airbags,6
+BMW,XM,xDrive,Safety,Driver Airbag,YES
+BMW,XM,xDrive,Safety,Passenger Airbag,YES
+BMW,XM,xDrive,Safety,Side Airbag,YES
+BMW,XM,xDrive,Safety,Side Airbag-Rear,NO
+BMW,XM,xDrive,Safety,Day & Night Rear View Mirror,YES
+BMW,XM,xDrive,Safety,Tyre Pressure Monitoring System (TPMS),YES
+BMW,XM,xDrive,Safety,Engine Immobilizer,YES
+BMW,XM,xDrive,Safety,ISOFIX Child Seat Mounts,YES
+BMW,XM,xDrive,Safety,Heads-Up Display (HUD),YES
+BMW,XM,xDrive,Entertainment & Communication,Radio,YES
+BMW,XM,xDrive,Entertainment & Communication,Wireless Phone Charging,YES
+BMW,XM,xDrive,Entertainment & Communication,USB & Auxiliary input,YES
+BMW,XM,xDrive,Entertainment & Communication,Bluetooth Connectivity,YES
+BMW,XM,xDrive,Entertainment & Communication,Touchscreen,YES
+BMW,XM,xDrive,Entertainment & Communication,Touchscreen Size,14.9
+BMW,XM,xDrive,Entertainment & Communication,Android Auto,YES
+BMW,XM,xDrive,Entertainment & Communication,Apple CarPlay,YES
+BMW,XM,xDrive,Entertainment & Communication,No. of Speakers,20
+BMW,XM,xDrive,Entertainment & Communication,Usb Ports,YES
+BMW,XM,xDrive,Entertainment & Communication,Additional Features,"Wireless Smartphone Integration, BMW Head-Up Display with M specific view, Travel and Comfort System (2x USB Type C charging with 3 A in backrests of 1st row of seats, 2x preparations for multifunction bracket in backrests of 1st seat row), Bowers & Wilkins Diamond surround sound system (Surround audio system with studio-quality acoustic technologies, 3D audio via headliner loudspeaker, 20 loudspeakers, 1475 W power, - Illuminated elements )"
+BMW,XM,xDrive,Entertainment & Communication,Speakers,Front & Rear

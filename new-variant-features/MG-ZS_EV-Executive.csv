@@ -1,0 +1,146 @@
+company,model,variant,category,feature_name,feature_details
+MG,ZS EV,Executive,Engine & Transmission,Battery Capacity,50.3 kWh
+MG,ZS EV,Executive,Engine & Transmission,Motor Power,129 kW
+MG,ZS EV,Executive,Engine & Transmission,Motor Type,Permanent Magnet Synchronous Motor
+MG,ZS EV,Executive,Engine & Transmission,Max Power,174.33bhp
+MG,ZS EV,Executive,Engine & Transmission,Max Torque,280Nm
+MG,ZS EV,Executive,Engine & Transmission,Range,461 km
+MG,ZS EV,Executive,Engine & Transmission,Battery Warranty,8 Years or 150000 km
+MG,ZS EV,Executive,Engine & Transmission,Battery Type,Lithium-ion
+MG,ZS EV,Executive,Engine & Transmission,Charging Time (A.C),Upto 9H 7.4 kW (0-100%)
+MG,ZS EV,Executive,Engine & Transmission,Charging Time (D.C),60 Min 50 kW (0-80%)
+MG,ZS EV,Executive,Engine & Transmission,Regenerative Braking,YES
+MG,ZS EV,Executive,Engine & Transmission,Regenerative Braking Levels,3
+MG,ZS EV,Executive,Engine & Transmission,Charging Port,CCS-II
+MG,ZS EV,Executive,Engine & Transmission,Charging Options,7.4 kW AC | 50 kW DC
+MG,ZS EV,Executive,Engine & Transmission,Charger Type,15 A Wall Box Charger (AC)
+MG,ZS EV,Executive,Engine & Transmission,Charging Time (15 A Plug Point),upto 19H (0-100%)
+MG,ZS EV,Executive,Engine & Transmission,Charging Time (7.2 kW AC Fast Charger),upto 9H(0-100%)
+MG,ZS EV,Executive,Engine & Transmission,Charging Time (50 kW DC Fast Charger),60Min (0-80%)
+MG,ZS EV,Executive,Engine & Transmission,Transmission Type,Automatic
+MG,ZS EV,Executive,Engine & Transmission,Gearbox,1-Speed
+MG,ZS EV,Executive,Engine & Transmission,Drive Type,FWD
+MG,ZS EV,Executive,Fuel & Performance,Fuel Type,Electric
+MG,ZS EV,Executive,Fuel & Performance,Emission Norm Compliance,ZEV
+MG,ZS EV,Executive,Fuel & Performance,Top Speed,175 kmph
+MG,ZS EV,Executive,Fuel & Performance,Acceleration 0-100kmph,8.5 s
+MG,ZS EV,Executive,Charging,Charging Time,9H | AC 7.4 kW (0-100%)
+MG,ZS EV,Executive,Charging,Fast Charging,YES
+MG,ZS EV,Executive,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+MG,ZS EV,Executive,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+MG,ZS EV,Executive,"Suspension, Steering & Brakes",Steering Type,Electric
+MG,ZS EV,Executive,"Suspension, Steering & Brakes",Steering Column,Tilt
+MG,ZS EV,Executive,"Suspension, Steering & Brakes",Front Brake Type,Disc
+MG,ZS EV,Executive,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+MG,ZS EV,Executive,Dimensions & Capacity,Length,4323 mm
+MG,ZS EV,Executive,Dimensions & Capacity,Width,1809 mm
+MG,ZS EV,Executive,Dimensions & Capacity,Height,1649 mm
+MG,ZS EV,Executive,Dimensions & Capacity,Boot Space,488 Litres
+MG,ZS EV,Executive,Dimensions & Capacity,Seating Capacity,5
+MG,ZS EV,Executive,Dimensions & Capacity,Wheel Base,2585 mm
+MG,ZS EV,Executive,Comfort & Convenience,Boot Opening,Electronic
+MG,ZS EV,Executive,Comfort & Convenience,Power Steering,YES
+MG,ZS EV,Executive,Comfort & Convenience,Air Conditioner,YES
+MG,ZS EV,Executive,Comfort & Convenience,Heater,YES
+MG,ZS EV,Executive,Comfort & Convenience,Height Adjustable Driver Seat,NO
+MG,ZS EV,Executive,Comfort & Convenience,Electric Adjustable Seats,NO
+MG,ZS EV,Executive,Comfort & Convenience,Automatic Climate Control,YES
+MG,ZS EV,Executive,Comfort & Convenience,Air Quality Control,YES
+MG,ZS EV,Executive,Comfort & Convenience,Accessory Power Outlet,YES
+MG,ZS EV,Executive,Comfort & Convenience,Adjustable Headrest,YES
+MG,ZS EV,Executive,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+MG,ZS EV,Executive,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+MG,ZS EV,Executive,Comfort & Convenience,Rear AC Vents,YES
+MG,ZS EV,Executive,Comfort & Convenience,Lumbar Support,YES
+MG,ZS EV,Executive,Comfort & Convenience,Cruise Control,YES
+MG,ZS EV,Executive,Comfort & Convenience,Parking Sensors,Rear
+MG,ZS EV,Executive,Comfort & Convenience,Real-Time Vehicle Tracking,YES
+MG,ZS EV,Executive,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+MG,ZS EV,Executive,Comfort & Convenience,KeyLess Entry,YES
+MG,ZS EV,Executive,Comfort & Convenience,Engine Start/Stop Button,YES
+MG,ZS EV,Executive,Comfort & Convenience,USB Charger,Front & Rear
+MG,ZS EV,Executive,Comfort & Convenience,Central Console Armrest,With Storage
+MG,ZS EV,Executive,Comfort & Convenience,Drive Modes,3
+MG,ZS EV,Executive,Comfort & Convenience,Follow Me Home Headlamps,YES
+MG,ZS EV,Executive,Interior,Leather Wrapped Steering Wheel,YES
+MG,ZS EV,Executive,Interior,Glove Box,YES
+MG,ZS EV,Executive,Interior,Digital Cluster,YES
+MG,ZS EV,Executive,Interior,Digital Cluster Size,7
+MG,ZS EV,Executive,Interior,Upholstery,Fabric
+MG,ZS EV,Executive,Exterior,Adjustable Headlamps,YES
+MG,ZS EV,Executive,Exterior,Rain Sensing Wiper,YES
+MG,ZS EV,Executive,Exterior,Rear Window Wiper,YES
+MG,ZS EV,Executive,Exterior,Rear Window Washer,YES
+MG,ZS EV,Executive,Exterior,Rear Window Defogger,YES
+MG,ZS EV,Executive,Exterior,Wheel Covers,NO
+MG,ZS EV,Executive,Exterior,Alloy Wheels,YES
+MG,ZS EV,Executive,Exterior,Rear Spoiler,YES
+MG,ZS EV,Executive,Exterior,Outside Rear View Mirror Turn Indicators,YES
+MG,ZS EV,Executive,Exterior,Roof Rails,NO
+MG,ZS EV,Executive,Exterior,Fog Lights,Front & Rear
+MG,ZS EV,Executive,Exterior,Antenna,Shark Fin
+MG,ZS EV,Executive,Exterior,Sunroof,NO
+MG,ZS EV,Executive,Exterior,Heated Outside Rear View Mirror,NO
+MG,ZS EV,Executive,Exterior,Tyre Size,215/55 R17
+MG,ZS EV,Executive,Exterior,Tyre Type,"Tubeless, Radial"
+MG,ZS EV,Executive,Exterior,LED DRLs,YES
+MG,ZS EV,Executive,Exterior,LED Headlamps,YES
+MG,ZS EV,Executive,Exterior,LED Taillights,YES
+MG,ZS EV,Executive,Safety,Anti-lock Braking System (ABS),YES
+MG,ZS EV,Executive,Safety,Brake Assist,YES
+MG,ZS EV,Executive,Safety,Central Locking,YES
+MG,ZS EV,Executive,Safety,Child Safety Locks,YES
+MG,ZS EV,Executive,Safety,Anti-Theft Alarm,YES
+MG,ZS EV,Executive,Safety,No. of Airbags,6
+MG,ZS EV,Executive,Safety,Driver Airbag,YES
+MG,ZS EV,Executive,Safety,Passenger Airbag,YES
+MG,ZS EV,Executive,Safety,Side Airbag,YES
+MG,ZS EV,Executive,Safety,Side Airbag-Rear,NO
+MG,ZS EV,Executive,Safety,Day & Night Rear View Mirror,YES
+MG,ZS EV,Executive,Safety,Electronic Brakeforce Distribution (EBD),YES
+MG,ZS EV,Executive,Safety,Tyre Pressure Monitoring System (TPMS),YES
+MG,ZS EV,Executive,Safety,Engine Immobilizer,YES
+MG,ZS EV,Executive,Safety,Electronic Stability Control (ESC),YES
+MG,ZS EV,Executive,Safety,Rear Camera,With Guidedlines
+MG,ZS EV,Executive,Safety,Anti-Theft Device,YES
+MG,ZS EV,Executive,Safety,Anti-Pinch Power Windows,Driver
+MG,ZS EV,Executive,Safety,ISOFIX Child Seat Mounts,YES
+MG,ZS EV,Executive,Safety,Hill Descent Control,YES
+MG,ZS EV,Executive,Safety,Hill Assist,YES
+MG,ZS EV,Executive,Safety,360 View Camera,NO
+MG,ZS EV,Executive,Entertainment & Communication,Radio,YES
+MG,ZS EV,Executive,Entertainment & Communication,Wireless Phone Charging,NO
+MG,ZS EV,Executive,Entertainment & Communication,Bluetooth Connectivity,YES
+MG,ZS EV,Executive,Entertainment & Communication,Wi-Fi Connectivity,YES
+MG,ZS EV,Executive,Entertainment & Communication,Touchscreen,YES
+MG,ZS EV,Executive,Entertainment & Communication,Touchscreen Size,10.11 inch
+MG,ZS EV,Executive,Entertainment & Communication,Android Auto,YES
+MG,ZS EV,Executive,Entertainment & Communication,Apple CarPlay,YES
+MG,ZS EV,Executive,Entertainment & Communication,Usb Ports,YES
+MG,ZS EV,Executive,Entertainment & Communication,Inbuilt Apps,Jio Saavn
+MG,ZS EV,Executive,Entertainment & Communication,Tweeters,2
+MG,ZS EV,Executive,Entertainment & Communication,Speakers,Front Only
+MG,ZS EV,Executive,ADAS Feature,Forward Collision Warning,NO
+MG,ZS EV,Executive,ADAS Feature,Automatic Emergency Braking,NO
+MG,ZS EV,Executive,ADAS Feature,Lane Departure Warning,NO
+MG,ZS EV,Executive,ADAS Feature,Lane Keep Assist,NO
+MG,ZS EV,Executive,ADAS Feature,Driver Attention Warning,YES
+MG,ZS EV,Executive,ADAS Feature,Adaptive Cruise Control,NO
+MG,ZS EV,Executive,ADAS Feature,Rear Cross Traffic Alert,NO
+MG,ZS EV,Executive,ADAS Feature,Blind Spot Monitor,NO
+MG,ZS EV,Executive,Advance Internet Feature,Live Location,YES
+MG,ZS EV,Executive,Advance Internet Feature,Engine Start Alarm,YES
+MG,ZS EV,Executive,Advance Internet Feature,Remote Vehicle Status Check,YES
+MG,ZS EV,Executive,Advance Internet Feature,Digital Car Key,YES
+MG,ZS EV,Executive,Advance Internet Feature,Hinglish Voice Commands,YES
+MG,ZS EV,Executive,Advance Internet Feature,Navigation with Live Traffic,YES
+MG,ZS EV,Executive,Advance Internet Feature,Live Weather,YES
+MG,ZS EV,Executive,Advance Internet Feature,E-Call & I-Call,YES
+MG,ZS EV,Executive,Advance Internet Feature,Over the Air (OTA) Updates,YES
+MG,ZS EV,Executive,Advance Internet Feature,Over Speeding Alert,YES
+MG,ZS EV,Executive,Advance Internet Feature,Smartwatch App,YES
+MG,ZS EV,Executive,Advance Internet Feature,Valet Mode,NO
+MG,ZS EV,Executive,Advance Internet Feature,Remote AC On/Off,YES
+MG,ZS EV,Executive,Advance Internet Feature,Remote Door Lock/Unlock,YES
+MG,ZS EV,Executive,Advance Internet Feature,Geo-fence Alert,YES
+MG,ZS EV,Executive,Advance Internet Feature,Inbuilt APPs,i-SMART

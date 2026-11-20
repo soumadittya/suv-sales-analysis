@@ -1,0 +1,86 @@
+company,model,variant,category,feature_name,feature_details
+Mercedes-Benz,GLA,220d 4MATIC,Engine & Transmission,Engine Type,OM 651 DE 22 LA
+Mercedes-Benz,GLA,220d 4MATIC,Engine & Transmission,Displacement,1950 cc
+Mercedes-Benz,GLA,220d 4MATIC,Engine & Transmission,Max Power,187.74bhp@3800rpm
+Mercedes-Benz,GLA,220d 4MATIC,Engine & Transmission,Max Torque,400Nm@1600-2600rpm
+Mercedes-Benz,GLA,220d 4MATIC,Engine & Transmission,No. of Cylinders,4
+Mercedes-Benz,GLA,220d 4MATIC,Engine & Transmission,Valves Per Cylinder,4
+Mercedes-Benz,GLA,220d 4MATIC,Engine & Transmission,Turbo Charger,YES
+Mercedes-Benz,GLA,220d 4MATIC,Engine & Transmission,Transmission Type,Automatic
+Mercedes-Benz,GLA,220d 4MATIC,Engine & Transmission,Gearbox,8-Speed DCT
+Mercedes-Benz,GLA,220d 4MATIC,Engine & Transmission,Drive Type,AWD
+Mercedes-Benz,GLA,220d 4MATIC,Fuel & Performance,Fuel Type,Diesel
+Mercedes-Benz,GLA,220d 4MATIC,Fuel & Performance,Diesel Mileage ARAI,18.9 kmpl
+Mercedes-Benz,GLA,220d 4MATIC,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Mercedes-Benz,GLA,220d 4MATIC,Fuel & Performance,Top Speed,219 kmph
+Mercedes-Benz,GLA,220d 4MATIC,Fuel & Performance,Acceleration,7.5 s
+Mercedes-Benz,GLA,220d 4MATIC,Fuel & Performance,0-100kmph,7.5 s
+Mercedes-Benz,GLA,220d 4MATIC,"Suspension, Steering & Brakes",Front Suspension,Air suspension
+Mercedes-Benz,GLA,220d 4MATIC,"Suspension, Steering & Brakes",Rear Suspension,Air suspension
+Mercedes-Benz,GLA,220d 4MATIC,"Suspension, Steering & Brakes",Steering Type,Electric
+Mercedes-Benz,GLA,220d 4MATIC,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Mercedes-Benz,GLA,220d 4MATIC,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Mercedes-Benz,GLA,220d 4MATIC,"Suspension, Steering & Brakes",Boot Space Rear Seat Folding,1422 Litres
+Mercedes-Benz,GLA,220d 4MATIC,Dimensions & Capacity,Length,4412 mm
+Mercedes-Benz,GLA,220d 4MATIC,Dimensions & Capacity,Width,2020 mm
+Mercedes-Benz,GLA,220d 4MATIC,Dimensions & Capacity,Height,1616 mm
+Mercedes-Benz,GLA,220d 4MATIC,Dimensions & Capacity,Boot Space,427 Litres
+Mercedes-Benz,GLA,220d 4MATIC,Dimensions & Capacity,Seating Capacity,5
+Mercedes-Benz,GLA,220d 4MATIC,Dimensions & Capacity,Rear Tread,1606 mm
+Mercedes-Benz,GLA,220d 4MATIC,Dimensions & Capacity,Kerb Weight,1570 kg
+Mercedes-Benz,GLA,220d 4MATIC,Dimensions & Capacity,Gross Weight,2225 kg
+Mercedes-Benz,GLA,220d 4MATIC,Comfort & Convenience,Boot Opening,Automatic
+Mercedes-Benz,GLA,220d 4MATIC,Comfort & Convenience,Power Steering,YES
+Mercedes-Benz,GLA,220d 4MATIC,Comfort & Convenience,Air Conditioner,YES
+Mercedes-Benz,GLA,220d 4MATIC,Comfort & Convenience,Heater,YES
+Mercedes-Benz,GLA,220d 4MATIC,Comfort & Convenience,Adjustable Steering,YES
+Mercedes-Benz,GLA,220d 4MATIC,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Mercedes-Benz,GLA,220d 4MATIC,Comfort & Convenience,Accessory Power Outlet,YES
+Mercedes-Benz,GLA,220d 4MATIC,Comfort & Convenience,Rear Seat Headrest,YES
+Mercedes-Benz,GLA,220d 4MATIC,Comfort & Convenience,Adjustable Headrest,YES
+Mercedes-Benz,GLA,220d 4MATIC,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Mercedes-Benz,GLA,220d 4MATIC,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Mercedes-Benz,GLA,220d 4MATIC,Comfort & Convenience,Cruise Control,YES
+Mercedes-Benz,GLA,220d 4MATIC,Comfort & Convenience,Parking Sensors,Rear
+Mercedes-Benz,GLA,220d 4MATIC,Comfort & Convenience,KeyLess Entry,YES
+Mercedes-Benz,GLA,220d 4MATIC,Comfort & Convenience,Engine Start/Stop Button,YES
+Mercedes-Benz,GLA,220d 4MATIC,Comfort & Convenience,Paddle Shifters,YES
+Mercedes-Benz,GLA,220d 4MATIC,Comfort & Convenience,USB Charger,Front
+Mercedes-Benz,GLA,220d 4MATIC,Comfort & Convenience,Follow Me Home Headlamps,YES
+Mercedes-Benz,GLA,220d 4MATIC,Comfort & Convenience,Additional Features,Digital Key Handover
+Mercedes-Benz,GLA,220d 4MATIC,Interior,Leather Wrapped Steering Wheel,YES
+Mercedes-Benz,GLA,220d 4MATIC,Interior,Glove Box,YES
+Mercedes-Benz,GLA,220d 4MATIC,Interior,Digital Cluster,YES
+Mercedes-Benz,GLA,220d 4MATIC,Interior,Upholstery,Leatherette
+Mercedes-Benz,GLA,220d 4MATIC,Exterior,Alloy Wheels,YES
+Mercedes-Benz,GLA,220d 4MATIC,Exterior,Rear Spoiler,YES
+Mercedes-Benz,GLA,220d 4MATIC,Exterior,Projector Headlamps,YES
+Mercedes-Benz,GLA,220d 4MATIC,Exterior,Sunroof,Panoramic
+Mercedes-Benz,GLA,220d 4MATIC,Exterior,Tyre Type,Radial Tubeless
+Mercedes-Benz,GLA,220d 4MATIC,Exterior,LED DRLs,YES
+Mercedes-Benz,GLA,220d 4MATIC,Exterior,LED Headlamps,YES
+Mercedes-Benz,GLA,220d 4MATIC,Exterior,LED Taillights,YES
+Mercedes-Benz,GLA,220d 4MATIC,Safety,Anti-lock Braking System (ABS),YES
+Mercedes-Benz,GLA,220d 4MATIC,Safety,Brake Assist,YES
+Mercedes-Benz,GLA,220d 4MATIC,Safety,Central Locking,YES
+Mercedes-Benz,GLA,220d 4MATIC,Safety,Child Safety Locks,YES
+Mercedes-Benz,GLA,220d 4MATIC,Safety,No. of Airbags,7
+Mercedes-Benz,GLA,220d 4MATIC,Safety,Driver Airbag,YES
+Mercedes-Benz,GLA,220d 4MATIC,Safety,Passenger Airbag,YES
+Mercedes-Benz,GLA,220d 4MATIC,Safety,Side Airbag,YES
+Mercedes-Benz,GLA,220d 4MATIC,Safety,Day & Night Rear View Mirror,YES
+Mercedes-Benz,GLA,220d 4MATIC,Safety,Electronic Brakeforce Distribution (EBD),YES
+Mercedes-Benz,GLA,220d 4MATIC,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Mercedes-Benz,GLA,220d 4MATIC,Safety,Engine Immobilizer,YES
+Mercedes-Benz,GLA,220d 4MATIC,Safety,Electronic Stability Control (ESC),YES
+Mercedes-Benz,GLA,220d 4MATIC,Safety,Rear Camera,With Guidedlines
+Mercedes-Benz,GLA,220d 4MATIC,Safety,Hill Assist,YES
+Mercedes-Benz,GLA,220d 4MATIC,Safety,360 View Camera,YES
+Mercedes-Benz,GLA,220d 4MATIC,Entertainment & Communication,Radio,YES
+Mercedes-Benz,GLA,220d 4MATIC,Entertainment & Communication,Bluetooth Connectivity,YES
+Mercedes-Benz,GLA,220d 4MATIC,Entertainment & Communication,Touchscreen,YES
+Mercedes-Benz,GLA,220d 4MATIC,Entertainment & Communication,Android Auto,YES
+Mercedes-Benz,GLA,220d 4MATIC,Entertainment & Communication,Apple CarPlay,YES
+Mercedes-Benz,GLA,220d 4MATIC,Entertainment & Communication,Usb Ports,YES
+Mercedes-Benz,GLA,220d 4MATIC,Entertainment & Communication,Speakers,Front & Rear
+Mercedes-Benz,GLA,220d 4MATIC,ADAS Feature,Blind Spot Monitor,YES

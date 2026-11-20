@@ -1,0 +1,103 @@
+company,model,variant,category,feature_name,feature_details
+Citroen,C5 Aircross,Shine,Engine & Transmission,Engine Type,DW10 FC
+Citroen,C5 Aircross,Shine,Engine & Transmission,Displacement,1997 cc
+Citroen,C5 Aircross,Shine,Engine & Transmission,Max Power,174.33bhp@3750rpm
+Citroen,C5 Aircross,Shine,Engine & Transmission,Max Torque,400Nm@2000rpm
+Citroen,C5 Aircross,Shine,Engine & Transmission,No. of Cylinders,4
+Citroen,C5 Aircross,Shine,Engine & Transmission,Valves Per Cylinder,4
+Citroen,C5 Aircross,Shine,Engine & Transmission,Transmission Type,Automatic
+Citroen,C5 Aircross,Shine,Engine & Transmission,Gearbox,8-Speed
+Citroen,C5 Aircross,Shine,Engine & Transmission,Drive Type,FWD
+Citroen,C5 Aircross,Shine,Fuel & Performance,Fuel Type,Diesel
+Citroen,C5 Aircross,Shine,Fuel & Performance,Diesel Mileage ARAI,17.5 kmpl
+Citroen,C5 Aircross,Shine,Fuel & Performance,Diesel Fuel Tank Capacity,52.5 Litres
+Citroen,C5 Aircross,Shine,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Citroen,C5 Aircross,Shine,"Suspension, Steering & Brakes",Front Suspension,MacPherson suspension
+Citroen,C5 Aircross,Shine,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Citroen,C5 Aircross,Shine,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Citroen,C5 Aircross,Shine,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Citroen,C5 Aircross,Shine,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Citroen,C5 Aircross,Shine,Dimensions & Capacity,Length,4500 mm
+Citroen,C5 Aircross,Shine,Dimensions & Capacity,Width,1969 mm
+Citroen,C5 Aircross,Shine,Dimensions & Capacity,Height,1710 mm
+Citroen,C5 Aircross,Shine,Dimensions & Capacity,Boot Space,580 Litres
+Citroen,C5 Aircross,Shine,Dimensions & Capacity,Seating Capacity,5
+Citroen,C5 Aircross,Shine,Dimensions & Capacity,Wheel Base,2730 mm
+Citroen,C5 Aircross,Shine,Dimensions & Capacity,Kerb Weight,1685 kg
+Citroen,C5 Aircross,Shine,Dimensions & Capacity,Gross Weight,2060 kg
+Citroen,C5 Aircross,Shine,Comfort & Convenience,Boot Opening,Electronic
+Citroen,C5 Aircross,Shine,Comfort & Convenience,Power Steering,YES
+Citroen,C5 Aircross,Shine,Comfort & Convenience,Air Conditioner,YES
+Citroen,C5 Aircross,Shine,Comfort & Convenience,Heater,YES
+Citroen,C5 Aircross,Shine,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Citroen,C5 Aircross,Shine,Comfort & Convenience,Electric Adjustable Seats,Driver Seat Only
+Citroen,C5 Aircross,Shine,Comfort & Convenience,Automatic Climate Control,YES
+Citroen,C5 Aircross,Shine,Comfort & Convenience,Air Quality Control,YES
+Citroen,C5 Aircross,Shine,Comfort & Convenience,Accessory Power Outlet,YES
+Citroen,C5 Aircross,Shine,Comfort & Convenience,Adjustable Headrest,YES
+Citroen,C5 Aircross,Shine,Comfort & Convenience,Rear AC Vents,YES
+Citroen,C5 Aircross,Shine,Comfort & Convenience,Lumbar Support,YES
+Citroen,C5 Aircross,Shine,Comfort & Convenience,Cruise Control,YES
+Citroen,C5 Aircross,Shine,Comfort & Convenience,Parking Sensors,Front & Rear
+Citroen,C5 Aircross,Shine,Comfort & Convenience,KeyLess Entry,YES
+Citroen,C5 Aircross,Shine,Comfort & Convenience,Engine Start/Stop Button,YES
+Citroen,C5 Aircross,Shine,Comfort & Convenience,USB Charger,Front & Rear
+Citroen,C5 Aircross,Shine,Comfort & Convenience,Central Console Armrest,YES
+Citroen,C5 Aircross,Shine,Comfort & Convenience,Drive Modes,2
+Citroen,C5 Aircross,Shine,Comfort & Convenience,Glove Box light,YES
+Citroen,C5 Aircross,Shine,Comfort & Convenience,Follow Me Home Headlamps,YES
+Citroen,C5 Aircross,Shine,Comfort & Convenience,Additional Features,Gear Shift Positions Indicator
+Citroen,C5 Aircross,Shine,Comfort & Convenience,Drive Mode Types,Eco & Sport
+Citroen,C5 Aircross,Shine,Interior,Leather Wrapped Steering Wheel,YES
+Citroen,C5 Aircross,Shine,Interior,Glove Box,YES
+Citroen,C5 Aircross,Shine,Interior,Digital Cluster,YES
+Citroen,C5 Aircross,Shine,Interior,Digital Cluster Size,12.29
+Citroen,C5 Aircross,Shine,Interior,Upholstery,Fabric
+Citroen,C5 Aircross,Shine,Exterior,Rain Sensing Wiper,YES
+Citroen,C5 Aircross,Shine,Exterior,Rear Window Wiper,YES
+Citroen,C5 Aircross,Shine,Exterior,Rear Window Washer,YES
+Citroen,C5 Aircross,Shine,Exterior,Rear Window Defogger,YES
+Citroen,C5 Aircross,Shine,Exterior,Alloy Wheels,YES
+Citroen,C5 Aircross,Shine,Exterior,Rear Spoiler,YES
+Citroen,C5 Aircross,Shine,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Citroen,C5 Aircross,Shine,Exterior,Roof Rails,YES
+Citroen,C5 Aircross,Shine,Exterior,Fog Lights,Front & Rear
+Citroen,C5 Aircross,Shine,Exterior,Sunroof,Panoramic
+Citroen,C5 Aircross,Shine,Exterior,Heated Outside Rear View Mirror,YES
+Citroen,C5 Aircross,Shine,Exterior,Puddle Lamps,YES
+Citroen,C5 Aircross,Shine,Exterior,Tyre Size,235/55 R18
+Citroen,C5 Aircross,Shine,Exterior,Tyre Type,"Tubeless,Radial"
+Citroen,C5 Aircross,Shine,Exterior,LED DRLs,YES
+Citroen,C5 Aircross,Shine,Exterior,LED Headlamps,YES
+Citroen,C5 Aircross,Shine,Exterior,LED Taillights,YES
+Citroen,C5 Aircross,Shine,Exterior,LED Fog Lamps,YES
+Citroen,C5 Aircross,Shine,Safety,Anti-lock Braking System (ABS),YES
+Citroen,C5 Aircross,Shine,Safety,Central Locking,YES
+Citroen,C5 Aircross,Shine,Safety,Child Safety Locks,YES
+Citroen,C5 Aircross,Shine,Safety,Anti-Theft Alarm,YES
+Citroen,C5 Aircross,Shine,Safety,No. of Airbags,6
+Citroen,C5 Aircross,Shine,Safety,Driver Airbag,YES
+Citroen,C5 Aircross,Shine,Safety,Passenger Airbag,YES
+Citroen,C5 Aircross,Shine,Safety,Side Airbag,YES
+Citroen,C5 Aircross,Shine,Safety,Electronic Brakeforce Distribution (EBD),YES
+Citroen,C5 Aircross,Shine,Safety,Traction Control,YES
+Citroen,C5 Aircross,Shine,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Citroen,C5 Aircross,Shine,Safety,Engine Immobilizer,YES
+Citroen,C5 Aircross,Shine,Safety,Electronic Stability Control (ESC),YES
+Citroen,C5 Aircross,Shine,Safety,Rear Camera,With Guidedlines
+Citroen,C5 Aircross,Shine,Safety,Anti-Theft Device,YES
+Citroen,C5 Aircross,Shine,Safety,Anti-Pinch Power Windows,All Windows
+Citroen,C5 Aircross,Shine,Safety,ISOFIX Child Seat Mounts,YES
+Citroen,C5 Aircross,Shine,Safety,Hill Descent Control,YES
+Citroen,C5 Aircross,Shine,Safety,Hill Assist,YES
+Citroen,C5 Aircross,Shine,Entertainment & Communication,Radio,YES
+Citroen,C5 Aircross,Shine,Entertainment & Communication,Bluetooth Connectivity,YES
+Citroen,C5 Aircross,Shine,Entertainment & Communication,Touchscreen,YES
+Citroen,C5 Aircross,Shine,Entertainment & Communication,Touchscreen Size,10 inch
+Citroen,C5 Aircross,Shine,Entertainment & Communication,Android Auto,YES
+Citroen,C5 Aircross,Shine,Entertainment & Communication,Apple CarPlay,YES
+Citroen,C5 Aircross,Shine,Entertainment & Communication,No. of Speakers,6
+Citroen,C5 Aircross,Shine,Entertainment & Communication,Usb Ports,YES
+Citroen,C5 Aircross,Shine,Entertainment & Communication,Additional Features,Mirror Screen (Apple Carplay™ And Android Auto) - Smartphone Connectivity
+Citroen,C5 Aircross,Shine,Entertainment & Communication,Speakers,Front & Rear
+Citroen,C5 Aircross,Shine,ADAS Feature,Blind Spot Monitor,YES

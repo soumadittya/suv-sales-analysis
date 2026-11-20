@@ -1,0 +1,126 @@
+company,model,variant,category,feature_name,feature_details
+Tata,Punch,Pure,Engine & Transmission,Engine Type,1.2 l Revotron
+Tata,Punch,Pure,Engine & Transmission,Displacement,1199 cc
+Tata,Punch,Pure,Engine & Transmission,Max Power,87bhp@6000rpm
+Tata,Punch,Pure,Engine & Transmission,Max Torque,115Nm@3250rpm
+Tata,Punch,Pure,Engine & Transmission,No. of Cylinders,3
+Tata,Punch,Pure,Engine & Transmission,Valves Per Cylinder,4
+Tata,Punch,Pure,Engine & Transmission,Turbo Charger,NO
+Tata,Punch,Pure,Engine & Transmission,Transmission Type,Manual
+Tata,Punch,Pure,Engine & Transmission,Gearbox,5-Speed
+Tata,Punch,Pure,Engine & Transmission,Drive Type,FWD
+Tata,Punch,Pure,Fuel & Performance,Fuel Type,Petrol
+Tata,Punch,Pure,Fuel & Performance,Petrol Fuel Tank Capacity,37 Litres
+Tata,Punch,Pure,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Tata,Punch,Pure,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Tata,Punch,Pure,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Tata,Punch,Pure,"Suspension, Steering & Brakes",Steering Type,Electric
+Tata,Punch,Pure,"Suspension, Steering & Brakes",Steering Column,Tilt
+Tata,Punch,Pure,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Tata,Punch,Pure,"Suspension, Steering & Brakes",Rear Brake Type,Drum
+Tata,Punch,Pure,Dimensions & Capacity,Length,3876 mm
+Tata,Punch,Pure,Dimensions & Capacity,Width,1742 mm
+Tata,Punch,Pure,Dimensions & Capacity,Height,1615 mm
+Tata,Punch,Pure,Dimensions & Capacity,Boot Space,366 Litres
+Tata,Punch,Pure,Dimensions & Capacity,Seating Capacity,5
+Tata,Punch,Pure,Dimensions & Capacity,Ground Clearance Unladen,193 mm
+Tata,Punch,Pure,Dimensions & Capacity,Wheel Base,2445 mm
+Tata,Punch,Pure,Comfort & Convenience,Power Steering,YES
+Tata,Punch,Pure,Comfort & Convenience,Air Conditioner,YES
+Tata,Punch,Pure,Comfort & Convenience,Heater,YES
+Tata,Punch,Pure,Comfort & Convenience,Adjustable Steering,Height only
+Tata,Punch,Pure,Comfort & Convenience,Height Adjustable Driver Seat,NO
+Tata,Punch,Pure,Comfort & Convenience,Automatic Climate Control,NO
+Tata,Punch,Pure,Comfort & Convenience,Air Quality Control,NO
+Tata,Punch,Pure,Comfort & Convenience,Accessory Power Outlet,YES
+Tata,Punch,Pure,Comfort & Convenience,Rear Seat Headrest,Integrated
+Tata,Punch,Pure,Comfort & Convenience,Adjustable Headrest,YES
+Tata,Punch,Pure,Comfort & Convenience,Rear Seat Centre Arm Rest,NO
+Tata,Punch,Pure,Comfort & Convenience,Rear AC Vents,YES
+Tata,Punch,Pure,Comfort & Convenience,Cruise Control,NO
+Tata,Punch,Pure,Comfort & Convenience,Parking Sensors,Rear
+Tata,Punch,Pure,Comfort & Convenience,Real-Time Vehicle Tracking,NO
+Tata,Punch,Pure,Comfort & Convenience,KeyLess Entry,YES
+Tata,Punch,Pure,Comfort & Convenience,Engine Start/Stop Button,NO
+Tata,Punch,Pure,Comfort & Convenience,Paddle Shifters,NO
+Tata,Punch,Pure,Comfort & Convenience,USB Charger,Front
+Tata,Punch,Pure,Comfort & Convenience,Central Console Armrest,YES
+Tata,Punch,Pure,Comfort & Convenience,Drive Modes,2
+Tata,Punch,Pure,Comfort & Convenience,Idle Start-Stop System,YES
+Tata,Punch,Pure,Comfort & Convenience,Follow Me Home Headlamps,YES
+Tata,Punch,Pure,Comfort & Convenience,Voice assisted sunroof,NO
+Tata,Punch,Pure,Comfort & Convenience,Drive Mode Types,ECO | CITY
+Tata,Punch,Pure,Comfort & Convenience,Power Windows,Front & Rear
+Tata,Punch,Pure,Interior,Leather Wrapped Steering Wheel,NO
+Tata,Punch,Pure,Interior,Leather wrap gear-shift selector,NO
+Tata,Punch,Pure,Interior,Glove Box,YES
+Tata,Punch,Pure,Interior,Digital Cluster,YES
+Tata,Punch,Pure,Interior,Digital Cluster Size,4
+Tata,Punch,Pure,Exterior,Adjustable Headlamps,YES
+Tata,Punch,Pure,Exterior,Rain Sensing Wiper,NO
+Tata,Punch,Pure,Exterior,Rear Window Wiper,NO
+Tata,Punch,Pure,Exterior,Rear Window Washer,NO
+Tata,Punch,Pure,Exterior,Rear Window Defogger,YES
+Tata,Punch,Pure,Exterior,Rear Spoiler,NO
+Tata,Punch,Pure,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Tata,Punch,Pure,Exterior,Cornering Foglamps,NO
+Tata,Punch,Pure,Exterior,Roof Rails,NO
+Tata,Punch,Pure,Exterior,Automatic Headlamps,NO
+Tata,Punch,Pure,Exterior,Antenna,Pole Type
+Tata,Punch,Pure,Exterior,Sunroof,NO
+Tata,Punch,Pure,Exterior,Puddle Lamps,NO
+Tata,Punch,Pure,Exterior,Outside Rear View Mirror (ORVM),Powered
+Tata,Punch,Pure,Exterior,Wheels Type,Steel without Cover
+Tata,Punch,Pure,Exterior,Tyre Size,185/70 R15
+Tata,Punch,Pure,Exterior,Tyre Type,Radial Tubeless
+Tata,Punch,Pure,Exterior,Wheel Size,15 Inch
+Tata,Punch,Pure,Exterior,LED DRLs,NO
+Tata,Punch,Pure,Exterior,LED Headlamps,YES
+Tata,Punch,Pure,Exterior,LED Taillights,NO
+Tata,Punch,Pure,Exterior,LED Fog Lamps,NO
+Tata,Punch,Pure,Safety,Anti-lock Braking System (ABS),YES
+Tata,Punch,Pure,Safety,Central Locking,YES
+Tata,Punch,Pure,Safety,Child Safety Locks,YES
+Tata,Punch,Pure,Safety,No. of Airbags,6
+Tata,Punch,Pure,Safety,Driver Airbag,YES
+Tata,Punch,Pure,Safety,Passenger Airbag,YES
+Tata,Punch,Pure,Safety,Side Airbag,YES
+Tata,Punch,Pure,Safety,Day & Night Rear View Mirror,YES
+Tata,Punch,Pure,Safety,Electronic Brakeforce Distribution (EBD),YES
+Tata,Punch,Pure,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Tata,Punch,Pure,Safety,Engine Immobilizer,YES
+Tata,Punch,Pure,Safety,Electronic Stability Control (ESC),YES
+Tata,Punch,Pure,Safety,Rear Camera,NO
+Tata,Punch,Pure,Safety,ISOFIX Child Seat Mounts,YES
+Tata,Punch,Pure,Safety,Hill Descent Control,NO
+Tata,Punch,Pure,Safety,Hill Assist,YES
+Tata,Punch,Pure,Safety,360 View Camera,NO
+Tata,Punch,Pure,Safety,Bharat NCAP Safety Rating,5 Star
+Tata,Punch,Pure,Safety,Bharat NCAP Child Safety Rating,5 Star
+Tata,Punch,Pure,Entertainment & Communication,Radio,NO
+Tata,Punch,Pure,Entertainment & Communication,Wireless Phone Charging,NO
+Tata,Punch,Pure,Entertainment & Communication,Bluetooth Connectivity,NO
+Tata,Punch,Pure,Entertainment & Communication,Touchscreen,NO
+Tata,Punch,Pure,Entertainment & Communication,Android Auto,NO
+Tata,Punch,Pure,Entertainment & Communication,Apple CarPlay,NO
+Tata,Punch,Pure,Entertainment & Communication,No. of Speakers,4
+Tata,Punch,Pure,Entertainment & Communication,Usb Ports,YES
+Tata,Punch,Pure,Entertainment & Communication,Speakers,Front & Rear
+Tata,Punch,Pure,ADAS Feature,Blind Spot Monitor,NO
+Tata,Punch,Pure,Advance Internet Feature,Live Location,NO
+Tata,Punch,Pure,Advance Internet Feature,Remote Immobiliser,NO
+Tata,Punch,Pure,Advance Internet Feature,Unauthorised Vehicle entry,NO
+Tata,Punch,Pure,Advance Internet Feature,Engine Start Alarm,NO
+Tata,Punch,Pure,Advance Internet Feature,Remote Vehicle Status Check,NO
+Tata,Punch,Pure,Advance Internet Feature,PUC Expiry,NO
+Tata,Punch,Pure,Advance Internet Feature,Navigation with Live Traffic,NO
+Tata,Punch,Pure,Advance Internet Feature,E-Call & I-Call,NO
+Tata,Punch,Pure,Advance Internet Feature,Over the Air (OTA) Updates,NO
+Tata,Punch,Pure,Advance Internet Feature,Google / Alexa Connectivity,NO
+Tata,Punch,Pure,Advance Internet Feature,Crash Notification,NO
+Tata,Punch,Pure,Advance Internet Feature,SOS Button,NO
+Tata,Punch,Pure,Advance Internet Feature,RSA,NO
+Tata,Punch,Pure,Advance Internet Feature,Over Speeding Alert,NO
+Tata,Punch,Pure,Advance Internet Feature,In Car Remote Control App,NO
+Tata,Punch,Pure,Advance Internet Feature,Remote Door Lock/Unlock,NO
+Tata,Punch,Pure,Advance Internet Feature,Remote Vehicle Ignition Start/Stop,NO

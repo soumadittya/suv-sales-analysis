@@ -1,0 +1,167 @@
+company,model,variant,category,feature_name,feature_details
+Hyundai,Creta Electric,Premium,Engine & Transmission,Battery Capacity,42 kWh
+Hyundai,Creta Electric,Premium,Engine & Transmission,Motor Power,99 kW
+Hyundai,Creta Electric,Premium,Engine & Transmission,Motor Type,Permanent Magnet Synchronous
+Hyundai,Creta Electric,Premium,Engine & Transmission,Max Power,133bhp
+Hyundai,Creta Electric,Premium,Engine & Transmission,Max Torque,255Nm
+Hyundai,Creta Electric,Premium,Engine & Transmission,Range,420 km
+Hyundai,Creta Electric,Premium,Engine & Transmission,Battery Type,Lithium-ion
+Hyundai,Creta Electric,Premium,Engine & Transmission,Charging Time (A.C),4Hrs-11kW (10-100%)
+Hyundai,Creta Electric,Premium,Engine & Transmission,Charging Time (D.C),58Min-50kW(10-80%)
+Hyundai,Creta Electric,Premium,Engine & Transmission,Regenerative Braking,YES
+Hyundai,Creta Electric,Premium,Engine & Transmission,Regenerative Braking Levels,4
+Hyundai,Creta Electric,Premium,Engine & Transmission,Charging Port,CCS-II
+Hyundai,Creta Electric,Premium,Engine & Transmission,Charging Options,Portable charging 11kW AC & 50kW DC
+Hyundai,Creta Electric,Premium,Engine & Transmission,Transmission Type,Automatic
+Hyundai,Creta Electric,Premium,Engine & Transmission,Gearbox,Single Speed
+Hyundai,Creta Electric,Premium,Engine & Transmission,Drive Type,FWD
+Hyundai,Creta Electric,Premium,Fuel & Performance,Fuel Type,Electric
+Hyundai,Creta Electric,Premium,Fuel & Performance,Emission Norm Compliance,ZEV
+Hyundai,Creta Electric,Premium,Fuel & Performance,Acceleration 0-100kmph,7.9 s
+Hyundai,Creta Electric,Premium,Charging,Charging Time,39Min-100kW(10-80%)
+Hyundai,Creta Electric,Premium,Charging,Fast Charging,YES
+Hyundai,Creta Electric,Premium,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Hyundai,Creta Electric,Premium,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Hyundai,Creta Electric,Premium,"Suspension, Steering & Brakes",Steering Type,Electric
+Hyundai,Creta Electric,Premium,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Hyundai,Creta Electric,Premium,"Suspension, Steering & Brakes",Turning Radius,5.3 m
+Hyundai,Creta Electric,Premium,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Hyundai,Creta Electric,Premium,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Hyundai,Creta Electric,Premium,Dimensions & Capacity,Length,4340 mm
+Hyundai,Creta Electric,Premium,Dimensions & Capacity,Width,1790 mm
+Hyundai,Creta Electric,Premium,Dimensions & Capacity,Height,1655 mm
+Hyundai,Creta Electric,Premium,Dimensions & Capacity,Boot Space,433 Litres
+Hyundai,Creta Electric,Premium,Dimensions & Capacity,Seating Capacity,5
+Hyundai,Creta Electric,Premium,Dimensions & Capacity,Ground Clearance Unladen,190 mm
+Hyundai,Creta Electric,Premium,Dimensions & Capacity,Wheel Base,2610 mm
+Hyundai,Creta Electric,Premium,Dimensions & Capacity,Reported Boot Space,433 Litres
+Hyundai,Creta Electric,Premium,Comfort & Convenience,Boot Opening,Electronic
+Hyundai,Creta Electric,Premium,Comfort & Convenience,Power Steering,YES
+Hyundai,Creta Electric,Premium,Comfort & Convenience,Air Conditioner,YES
+Hyundai,Creta Electric,Premium,Comfort & Convenience,Heater,YES
+Hyundai,Creta Electric,Premium,Comfort & Convenience,Adjustable Steering,Height & Reach
+Hyundai,Creta Electric,Premium,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Hyundai,Creta Electric,Premium,Comfort & Convenience,Ventilated Seats,YES
+Hyundai,Creta Electric,Premium,Comfort & Convenience,Electric Adjustable Seats,Front
+Hyundai,Creta Electric,Premium,Comfort & Convenience,Automatic Climate Control,YES
+Hyundai,Creta Electric,Premium,Comfort & Convenience,Accessory Power Outlet,YES
+Hyundai,Creta Electric,Premium,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Hyundai,Creta Electric,Premium,Comfort & Convenience,Adjustable Headrest,YES
+Hyundai,Creta Electric,Premium,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Hyundai,Creta Electric,Premium,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Hyundai,Creta Electric,Premium,Comfort & Convenience,Rear AC Vents,YES
+Hyundai,Creta Electric,Premium,Comfort & Convenience,Cruise Control,YES
+Hyundai,Creta Electric,Premium,Comfort & Convenience,Parking Sensors,Rear
+Hyundai,Creta Electric,Premium,Comfort & Convenience,Real-Time Vehicle Tracking,YES
+Hyundai,Creta Electric,Premium,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Hyundai,Creta Electric,Premium,Comfort & Convenience,KeyLess Entry,YES
+Hyundai,Creta Electric,Premium,Comfort & Convenience,Engine Start/Stop Button,YES
+Hyundai,Creta Electric,Premium,Comfort & Convenience,Voice Commands,YES
+Hyundai,Creta Electric,Premium,Comfort & Convenience,Paddle Shifters,YES
+Hyundai,Creta Electric,Premium,Comfort & Convenience,USB Charger,Front & Rear
+Hyundai,Creta Electric,Premium,Comfort & Convenience,Central Console Armrest,With Storage
+Hyundai,Creta Electric,Premium,Comfort & Convenience,Drive Modes,3
+Hyundai,Creta Electric,Premium,Comfort & Convenience,Follow Me Home Headlamps,YES
+Hyundai,Creta Electric,Premium,Comfort & Convenience,Voice assisted sunroof,YES
+Hyundai,Creta Electric,Premium,Comfort & Convenience,Vehicle to Load Charging,YES
+Hyundai,Creta Electric,Premium,Comfort & Convenience,Drive Mode Types,ECO | NORMAL | SPORT
+Hyundai,Creta Electric,Premium,Comfort & Convenience,Power Windows,Front & Rear
+Hyundai,Creta Electric,Premium,Comfort & Convenience,Cup Holders,Front & Rear
+Hyundai,Creta Electric,Premium,Interior,Glove Box,YES
+Hyundai,Creta Electric,Premium,Interior,Folding Table in The Rear,NO
+Hyundai,Creta Electric,Premium,Interior,Lighting,Ambient light
+Hyundai,Creta Electric,Premium,Interior,Additional Features,"Rear parcel tray, Sunglass holder"
+Hyundai,Creta Electric,Premium,Interior,Digital Cluster,YES
+Hyundai,Creta Electric,Premium,Interior,Digital Cluster Size,10.25
+Hyundai,Creta Electric,Premium,Interior,Upholstery,Fabric
+Hyundai,Creta Electric,Premium,Exterior,Adjustable Headlamps,YES
+Hyundai,Creta Electric,Premium,Exterior,Rain Sensing Wiper,NO
+Hyundai,Creta Electric,Premium,Exterior,Rear Window Wiper,YES
+Hyundai,Creta Electric,Premium,Exterior,Rear Window Washer,YES
+Hyundai,Creta Electric,Premium,Exterior,Rear Window Defogger,YES
+Hyundai,Creta Electric,Premium,Exterior,Alloy Wheels,YES
+Hyundai,Creta Electric,Premium,Exterior,Rear Spoiler,YES
+Hyundai,Creta Electric,Premium,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Hyundai,Creta Electric,Premium,Exterior,Roof Rails,YES
+Hyundai,Creta Electric,Premium,Exterior,Automatic Headlamps,YES
+Hyundai,Creta Electric,Premium,Exterior,Antenna,Shark Fin
+Hyundai,Creta Electric,Premium,Exterior,Sunroof,Panoramic
+Hyundai,Creta Electric,Premium,Exterior,Puddle Lamps,YES
+Hyundai,Creta Electric,Premium,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Hyundai,Creta Electric,Premium,Exterior,Tyre Size,215/60 R17
+Hyundai,Creta Electric,Premium,Exterior,Tyre Type,Low Rolling Resistance
+Hyundai,Creta Electric,Premium,Exterior,LED DRLs,YES
+Hyundai,Creta Electric,Premium,Exterior,LED Headlamps,YES
+Hyundai,Creta Electric,Premium,Exterior,LED Taillights,YES
+Hyundai,Creta Electric,Premium,Exterior,Additional Features,Active air flaps
+Hyundai,Creta Electric,Premium,Safety,Anti-lock Braking System (ABS),YES
+Hyundai,Creta Electric,Premium,Safety,Central Locking,YES
+Hyundai,Creta Electric,Premium,Safety,Child Safety Locks,YES
+Hyundai,Creta Electric,Premium,Safety,Anti-Theft Alarm,YES
+Hyundai,Creta Electric,Premium,Safety,No. of Airbags,6
+Hyundai,Creta Electric,Premium,Safety,Driver Airbag,YES
+Hyundai,Creta Electric,Premium,Safety,Passenger Airbag,YES
+Hyundai,Creta Electric,Premium,Safety,Side Airbag,YES
+Hyundai,Creta Electric,Premium,Safety,Side Airbag-Rear,NO
+Hyundai,Creta Electric,Premium,Safety,Day & Night Rear View Mirror,YES
+Hyundai,Creta Electric,Premium,Safety,Electronic Brakeforce Distribution (EBD),YES
+Hyundai,Creta Electric,Premium,Safety,Acoustic Vehicle Alert System,NO
+Hyundai,Creta Electric,Premium,Safety,Traction Control,YES
+Hyundai,Creta Electric,Premium,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Hyundai,Creta Electric,Premium,Safety,Engine Immobilizer,YES
+Hyundai,Creta Electric,Premium,Safety,Electronic Stability Control (ESC),YES
+Hyundai,Creta Electric,Premium,Safety,Rear Camera,With Guidedlines
+Hyundai,Creta Electric,Premium,Safety,Anti-Theft Device,YES
+Hyundai,Creta Electric,Premium,Safety,Anti-Pinch Power Windows,Driver's Window
+Hyundai,Creta Electric,Premium,Safety,ISOFIX Child Seat Mounts,YES
+Hyundai,Creta Electric,Premium,Safety,Blind Spot Camera,NO
+Hyundai,Creta Electric,Premium,Safety,Hill Descent Control,YES
+Hyundai,Creta Electric,Premium,Safety,Hill Assist,YES
+Hyundai,Creta Electric,Premium,Safety,360 View Camera,NO
+Hyundai,Creta Electric,Premium,Entertainment & Communication,Radio,YES
+Hyundai,Creta Electric,Premium,Entertainment & Communication,Wireless Phone Charging,YES
+Hyundai,Creta Electric,Premium,Entertainment & Communication,Bluetooth Connectivity,YES
+Hyundai,Creta Electric,Premium,Entertainment & Communication,Touchscreen,YES
+Hyundai,Creta Electric,Premium,Entertainment & Communication,Touchscreen Size,10.25 inch
+Hyundai,Creta Electric,Premium,Entertainment & Communication,Android Auto,YES
+Hyundai,Creta Electric,Premium,Entertainment & Communication,Apple CarPlay,YES
+Hyundai,Creta Electric,Premium,Entertainment & Communication,No. of Speakers,5
+Hyundai,Creta Electric,Premium,Entertainment & Communication,Usb Ports,Type-C: 3
+Hyundai,Creta Electric,Premium,Entertainment & Communication,Inbuilt Apps,JioSaavn
+Hyundai,Creta Electric,Premium,Entertainment & Communication,Tweeters,2
+Hyundai,Creta Electric,Premium,Entertainment & Communication,Subwoofer,1
+Hyundai,Creta Electric,Premium,Entertainment & Communication,Additional Features,Bose premium sound 8 speaker system with front central speaker & sub-woofer
+Hyundai,Creta Electric,Premium,Entertainment & Communication,Speakers,Front & Rear
+Hyundai,Creta Electric,Premium,ADAS Feature,Forward Collision Warning,NO
+Hyundai,Creta Electric,Premium,ADAS Feature,Automatic Emergency Braking,NO
+Hyundai,Creta Electric,Premium,ADAS Feature,Blind Spot Collision Avoidance Assist,NO
+Hyundai,Creta Electric,Premium,ADAS Feature,Lane Departure Warning,NO
+Hyundai,Creta Electric,Premium,ADAS Feature,Lane Keep Assist,NO
+Hyundai,Creta Electric,Premium,ADAS Feature,Driver Attention Warning,NO
+Hyundai,Creta Electric,Premium,ADAS Feature,Adaptive Cruise Control,NO
+Hyundai,Creta Electric,Premium,ADAS Feature,Leading Vehicle Departure Alert,NO
+Hyundai,Creta Electric,Premium,ADAS Feature,Adaptive High Beam Assist,NO
+Hyundai,Creta Electric,Premium,ADAS Feature,Rear Cross Traffic Alert,NO
+Hyundai,Creta Electric,Premium,ADAS Feature,Rear Cross Traffic Collision-Avoidance Assist,NO
+Hyundai,Creta Electric,Premium,ADAS Feature,Blind Spot Monitor,NO
+Hyundai,Creta Electric,Premium,Advance Internet Feature,Live Location,YES
+Hyundai,Creta Electric,Premium,Advance Internet Feature,Remote Immobiliser,YES
+Hyundai,Creta Electric,Premium,Advance Internet Feature,Remote Vehicle Status Check,YES
+Hyundai,Creta Electric,Premium,Advance Internet Feature,Digital Car Key,NO
+Hyundai,Creta Electric,Premium,Advance Internet Feature,Inbuilt Assistant,YES
+Hyundai,Creta Electric,Premium,Advance Internet Feature,Hinglish Voice Commands,YES
+Hyundai,Creta Electric,Premium,Advance Internet Feature,Send POI to Vehicle From App,YES
+Hyundai,Creta Electric,Premium,Advance Internet Feature,Live Weather,YES
+Hyundai,Creta Electric,Premium,Advance Internet Feature,E-Call & I-Call,YES
+Hyundai,Creta Electric,Premium,Advance Internet Feature,Over the Air (OTA) Updates,YES
+Hyundai,Creta Electric,Premium,Advance Internet Feature,Google / Alexa Connectivity,YES
+Hyundai,Creta Electric,Premium,Advance Internet Feature,Save Route/Place,YES
+Hyundai,Creta Electric,Premium,Advance Internet Feature,SOS Button,YES
+Hyundai,Creta Electric,Premium,Advance Internet Feature,RSA,YES
+Hyundai,Creta Electric,Premium,Advance Internet Feature,Over Speeding Alert,YES
+Hyundai,Creta Electric,Premium,Advance Internet Feature,In Car Remote Control App,YES
+Hyundai,Creta Electric,Premium,Advance Internet Feature,Smartwatch App,YES
+Hyundai,Creta Electric,Premium,Advance Internet Feature,Remote AC On/Off,YES
+Hyundai,Creta Electric,Premium,Advance Internet Feature,Remote Door Lock/Unlock,YES
+Hyundai,Creta Electric,Premium,Advance Internet Feature,Remote Vehicle Ignition Start/Stop,YES
+Hyundai,Creta Electric,Premium,Advance Internet Feature,SOS / Emergency Assistance,YES

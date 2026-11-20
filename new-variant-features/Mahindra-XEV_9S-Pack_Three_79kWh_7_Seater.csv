@@ -1,0 +1,133 @@
+company,model,variant,category,feature_name,feature_details
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Engine & Transmission,Battery Capacity,79 kWh
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Engine & Transmission,Motor Power,210 kW
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Engine & Transmission,Max Power,282bhp
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Engine & Transmission,Max Torque,380Nm
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Engine & Transmission,Range,679 km
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Engine & Transmission,Charging Time (A.C),8 / 11.7 h (11 .2kW / 7.2 kW Charger)
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Engine & Transmission,Charging Time (D.C),20Min with 180 kW / 400A Charger Input
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Engine & Transmission,Regenerative Braking,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Engine & Transmission,Regenerative Braking Levels,4
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Engine & Transmission,Charging Port,CCS-II
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Engine & Transmission,Transmission Type,Automatic
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Engine & Transmission,Gearbox,Single Speed
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Engine & Transmission,Drive Type,RWD
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Fuel & Performance,Fuel Type,Electric
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Fuel & Performance,Emission Norm Compliance,ZEV
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Fuel & Performance,Top Speed,202 kmph
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Fuel & Performance,Acceleration 0-100kmph,7
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Charging,Fast Charging,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,"Suspension, Steering & Brakes",Rear Suspension,Multi-link suspension
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,"Suspension, Steering & Brakes",Steering Type,Electric
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,"Suspension, Steering & Brakes",Steering Column,Tilt &Telescopic
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,"Suspension, Steering & Brakes",Turning Radius,5
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,"Suspension, Steering & Brakes",Boot Space Rear Seat Folding,527 Litres
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Dimensions & Capacity,Length,4737 mm
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Dimensions & Capacity,Width,1900 mm
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Dimensions & Capacity,Height,1747 mm
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Dimensions & Capacity,Seating Capacity,7
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Dimensions & Capacity,Ground Clearance Unladen,201 mm
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Dimensions & Capacity,Wheel Base,2762 mm
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Comfort & Convenience,Boot Opening,Electronic
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Comfort & Convenience,Power Steering,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Comfort & Convenience,Air Conditioner,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Comfort & Convenience,Heater,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Comfort & Convenience,Adjustable Steering,Height & Reach
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Comfort & Convenience,Ventilated Seats,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Comfort & Convenience,Electric Adjustable Seats,Front
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Comfort & Convenience,Automatic Climate Control,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Comfort & Convenience,Air Quality Control,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Comfort & Convenience,Accessory Power Outlet,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Comfort & Convenience,Adjustable Headrest,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Comfort & Convenience,Rear AC Vents,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Comfort & Convenience,Cruise Control,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Comfort & Convenience,Parking Sensors,Front & Rear
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Comfort & Convenience,KeyLess Entry,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Comfort & Convenience,Engine Start/Stop Button,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Comfort & Convenience,Voice Commands,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Comfort & Convenience,USB Charger,Front & Rear
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Comfort & Convenience,Central Console Armrest,With Storage
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Comfort & Convenience,Drive Modes,5
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Comfort & Convenience,Drive Mode Types,"Default, Range, Everyday, Race, Snow"
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Comfort & Convenience,Power Windows,Front & Rear
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Interior,Glove Box,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Interior,Lighting,Ambient light
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Interior,Digital Cluster,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Interior,Digital Cluster Size,12.3
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Interior,Upholstery,Leatherette
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Exterior,Adjustable Headlamps,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Exterior,Rain Sensing Wiper,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Exterior,Rear Window Wiper,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Exterior,Rear Window Washer,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Exterior,Rear Window Defogger,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Exterior,Rear Spoiler,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Exterior,Projector Headlamps,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Exterior,Cornering Headlamps,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Exterior,Automatic Headlamps,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Exterior,Fog Lights,Front
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Exterior,Antenna,Shark Fin
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Exterior,Sunroof,Panoramic
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Exterior,Tyre Size,235/60 R18
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Exterior,Tyre Type,Radial & Tubeless
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Exterior,LED DRLs,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Exterior,LED Headlamps,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Exterior,LED Taillights,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Exterior,LED Fog Lamps,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Safety,Anti-lock Braking System (ABS),YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Safety,Brake Assist,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Safety,Child Safety Locks,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Safety,No. of Airbags,7
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Safety,Driver Airbag,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Safety,Passenger Airbag,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Safety,Side Airbag,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Safety,Day & Night Rear View Mirror,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Safety,Electronic Brakeforce Distribution (EBD),YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Safety,Traction Control,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Safety,Electronic Stability Control (ESC),YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Safety,Rear Camera,NO
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Safety,ISOFIX Child Seat Mounts,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Safety,Heads-Up Display (HUD),NO
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Safety,360 View Camera,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Safety,Bharat NCAP Safety Rating,5 Star
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Safety,Bharat NCAP Child Safety Rating,5 Star
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Entertainment & Communication,Radio,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Entertainment & Communication,Wireless Phone Charging,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Entertainment & Communication,Bluetooth Connectivity,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Entertainment & Communication,Touchscreen,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Entertainment & Communication,Touchscreen Size,12.3 inch
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Entertainment & Communication,Android Auto,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Entertainment & Communication,Apple CarPlay,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Entertainment & Communication,No. of Speakers,16
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Entertainment & Communication,Usb Ports,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Entertainment & Communication,Additional Features,Wireless Android Auto & CarPlay I Harman Kardon 16 speaker immersive audio
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Entertainment & Communication,Speakers,Front & Rear
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Entertainment & Communication,Dolby Atmos,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,ADAS Feature,Forward Collision Warning,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,ADAS Feature,Automatic Emergency Braking,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,ADAS Feature,Traffic Sign Recognition,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,ADAS Feature,Blind Spot Collision Avoidance Assist,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,ADAS Feature,Lane Departure Warning,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,ADAS Feature,Lane Keep Assist,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,ADAS Feature,Driver Attention Warning,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,ADAS Feature,Adaptive Cruise Control,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,ADAS Feature,Adaptive High Beam Assist,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,ADAS Feature,Rear Cross Traffic Alert,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,ADAS Feature,Rear Cross Traffic Collision-Avoidance Assist,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,ADAS Feature,Blind Spot Monitor,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Advance Internet Feature,Live Location,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Advance Internet Feature,Remote Vehicle Status Check,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Advance Internet Feature,Over the Air (OTA) Updates,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Advance Internet Feature,Google / Alexa Connectivity,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Advance Internet Feature,In Car Remote Control App,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Advance Internet Feature,Remote AC On/Off,YES
+Mahindra,XEV 9S,Pack Three 79kWh 7-Seater,Advance Internet Feature,Remote Door Lock/Unlock,YES

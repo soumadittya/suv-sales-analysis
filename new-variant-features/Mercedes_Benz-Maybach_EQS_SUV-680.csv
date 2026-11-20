@@ -1,0 +1,110 @@
+company,model,variant,category,feature_name,feature_details
+Mercedes-Benz,Maybach EQS SUV,680,Engine & Transmission,Battery Capacity,122 kWh
+Mercedes-Benz,Maybach EQS SUV,680,Engine & Transmission,Motor Power,484 kW
+Mercedes-Benz,Maybach EQS SUV,680,Engine & Transmission,Motor Type,Permanent Magnet Synchronous
+Mercedes-Benz,Maybach EQS SUV,680,Engine & Transmission,Max Power,649bhp
+Mercedes-Benz,Maybach EQS SUV,680,Engine & Transmission,Max Torque,955Nm
+Mercedes-Benz,Maybach EQS SUV,680,Engine & Transmission,Range,611 km
+Mercedes-Benz,Maybach EQS SUV,680,Engine & Transmission,Battery Type,Lithium-ion
+Mercedes-Benz,Maybach EQS SUV,680,Engine & Transmission,Charging Time (A.C),6.25min | 22 kW (0-100%)
+Mercedes-Benz,Maybach EQS SUV,680,Engine & Transmission,Charging Time (D.C),31 min| DC-200 kW(10-80%)
+Mercedes-Benz,Maybach EQS SUV,680,Engine & Transmission,Regenerative Braking,YES
+Mercedes-Benz,Maybach EQS SUV,680,Engine & Transmission,Charging Port,CCS-II
+Mercedes-Benz,Maybach EQS SUV,680,Engine & Transmission,Transmission Type,Automatic
+Mercedes-Benz,Maybach EQS SUV,680,Engine & Transmission,Drive Type,AWD
+Mercedes-Benz,Maybach EQS SUV,680,Fuel & Performance,Fuel Type,Electric
+Mercedes-Benz,Maybach EQS SUV,680,Fuel & Performance,Emission Norm Compliance,ZEV
+Mercedes-Benz,Maybach EQS SUV,680,Fuel & Performance,Top Speed,210 kmph
+Mercedes-Benz,Maybach EQS SUV,680,Fuel & Performance,Acceleration 0-100kmph,4.4 s
+Mercedes-Benz,Maybach EQS SUV,680,Charging,Charging Time,31 min| DC-200 kW(10-80%)
+Mercedes-Benz,Maybach EQS SUV,680,"Suspension, Steering & Brakes",Front Suspension,Air suspension
+Mercedes-Benz,Maybach EQS SUV,680,"Suspension, Steering & Brakes",Rear Suspension,Air suspension
+Mercedes-Benz,Maybach EQS SUV,680,"Suspension, Steering & Brakes",Steering Type,Electric
+Mercedes-Benz,Maybach EQS SUV,680,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Mercedes-Benz,Maybach EQS SUV,680,"Suspension, Steering & Brakes",Turning Radius,11.9 m
+Mercedes-Benz,Maybach EQS SUV,680,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Mercedes-Benz,Maybach EQS SUV,680,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Mercedes-Benz,Maybach EQS SUV,680,Dimensions & Capacity,Length,5125 mm
+Mercedes-Benz,Maybach EQS SUV,680,Dimensions & Capacity,Width,2157 mm
+Mercedes-Benz,Maybach EQS SUV,680,Dimensions & Capacity,Height,1721 mm
+Mercedes-Benz,Maybach EQS SUV,680,Dimensions & Capacity,Boot Space,440 Litres
+Mercedes-Benz,Maybach EQS SUV,680,Dimensions & Capacity,Seating Capacity,4
+Mercedes-Benz,Maybach EQS SUV,680,Dimensions & Capacity,Wheel Base,3210 mm
+Mercedes-Benz,Maybach EQS SUV,680,Dimensions & Capacity,Kerb Weight,3075 kg
+Mercedes-Benz,Maybach EQS SUV,680,Comfort & Convenience,Power Steering,YES
+Mercedes-Benz,Maybach EQS SUV,680,Comfort & Convenience,Air Conditioner,YES
+Mercedes-Benz,Maybach EQS SUV,680,Comfort & Convenience,Heater,YES
+Mercedes-Benz,Maybach EQS SUV,680,Comfort & Convenience,Adjustable Steering,Powered Adjustment
+Mercedes-Benz,Maybach EQS SUV,680,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Mercedes-Benz,Maybach EQS SUV,680,Comfort & Convenience,Automatic Climate Control,YES
+Mercedes-Benz,Maybach EQS SUV,680,Comfort & Convenience,Air Quality Control,YES
+Mercedes-Benz,Maybach EQS SUV,680,Comfort & Convenience,Accessory Power Outlet,YES
+Mercedes-Benz,Maybach EQS SUV,680,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Mercedes-Benz,Maybach EQS SUV,680,Comfort & Convenience,Adjustable Headrest,YES
+Mercedes-Benz,Maybach EQS SUV,680,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Mercedes-Benz,Maybach EQS SUV,680,Comfort & Convenience,Rear AC Vents,YES
+Mercedes-Benz,Maybach EQS SUV,680,Comfort & Convenience,Lumbar Support,YES
+Mercedes-Benz,Maybach EQS SUV,680,Comfort & Convenience,Cruise Control,YES
+Mercedes-Benz,Maybach EQS SUV,680,Comfort & Convenience,Parking Sensors,Front & Rear
+Mercedes-Benz,Maybach EQS SUV,680,Comfort & Convenience,Real-Time Vehicle Tracking,YES
+Mercedes-Benz,Maybach EQS SUV,680,Comfort & Convenience,KeyLess Entry,YES
+Mercedes-Benz,Maybach EQS SUV,680,Comfort & Convenience,Engine Start/Stop Button,YES
+Mercedes-Benz,Maybach EQS SUV,680,Comfort & Convenience,Voice Commands,YES
+Mercedes-Benz,Maybach EQS SUV,680,Comfort & Convenience,USB Charger,Front & Rear
+Mercedes-Benz,Maybach EQS SUV,680,Comfort & Convenience,Glove Box light,YES
+Mercedes-Benz,Maybach EQS SUV,680,Comfort & Convenience,Follow Me Home Headlamps,YES
+Mercedes-Benz,Maybach EQS SUV,680,Comfort & Convenience,Power Windows,Front & Rear
+Mercedes-Benz,Maybach EQS SUV,680,Comfort & Convenience,Cup Holders,Front & Rear
+Mercedes-Benz,Maybach EQS SUV,680,Interior,Leather Wrapped Steering Wheel,YES
+Mercedes-Benz,Maybach EQS SUV,680,Interior,Glove Box,YES
+Mercedes-Benz,Maybach EQS SUV,680,Interior,Digital Cluster,YES
+Mercedes-Benz,Maybach EQS SUV,680,Interior,Upholstery,Leather
+Mercedes-Benz,Maybach EQS SUV,680,Exterior,Adjustable Headlamps,YES
+Mercedes-Benz,Maybach EQS SUV,680,Exterior,Rain Sensing Wiper,YES
+Mercedes-Benz,Maybach EQS SUV,680,Exterior,Rear Window Wiper,YES
+Mercedes-Benz,Maybach EQS SUV,680,Exterior,Rear Window Washer,YES
+Mercedes-Benz,Maybach EQS SUV,680,Exterior,Rear Window Defogger,YES
+Mercedes-Benz,Maybach EQS SUV,680,Exterior,Wheel Covers,NO
+Mercedes-Benz,Maybach EQS SUV,680,Exterior,Alloy Wheels,YES
+Mercedes-Benz,Maybach EQS SUV,680,Exterior,Rear Spoiler,YES
+Mercedes-Benz,Maybach EQS SUV,680,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Mercedes-Benz,Maybach EQS SUV,680,Exterior,Projector Headlamps,YES
+Mercedes-Benz,Maybach EQS SUV,680,Exterior,Automatic Headlamps,YES
+Mercedes-Benz,Maybach EQS SUV,680,Exterior,Sunroof,Panoramic
+Mercedes-Benz,Maybach EQS SUV,680,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Mercedes-Benz,Maybach EQS SUV,680,Exterior,Tyre Type,Radial Tubeless
+Mercedes-Benz,Maybach EQS SUV,680,Exterior,LED DRLs,YES
+Mercedes-Benz,Maybach EQS SUV,680,Exterior,LED Headlamps,YES
+Mercedes-Benz,Maybach EQS SUV,680,Exterior,LED Taillights,YES
+Mercedes-Benz,Maybach EQS SUV,680,Exterior,LED Fog Lamps,YES
+Mercedes-Benz,Maybach EQS SUV,680,Safety,Anti-lock Braking System (ABS),YES
+Mercedes-Benz,Maybach EQS SUV,680,Safety,Brake Assist,YES
+Mercedes-Benz,Maybach EQS SUV,680,Safety,Central Locking,YES
+Mercedes-Benz,Maybach EQS SUV,680,Safety,Child Safety Locks,YES
+Mercedes-Benz,Maybach EQS SUV,680,Safety,Anti-Theft Alarm,YES
+Mercedes-Benz,Maybach EQS SUV,680,Safety,No. of Airbags,11
+Mercedes-Benz,Maybach EQS SUV,680,Safety,Driver Airbag,YES
+Mercedes-Benz,Maybach EQS SUV,680,Safety,Passenger Airbag,YES
+Mercedes-Benz,Maybach EQS SUV,680,Safety,Side Airbag,YES
+Mercedes-Benz,Maybach EQS SUV,680,Safety,Side Airbag-Rear,YES
+Mercedes-Benz,Maybach EQS SUV,680,Safety,Day & Night Rear View Mirror,YES
+Mercedes-Benz,Maybach EQS SUV,680,Safety,Electronic Brakeforce Distribution (EBD),YES
+Mercedes-Benz,Maybach EQS SUV,680,Safety,Traction Control,YES
+Mercedes-Benz,Maybach EQS SUV,680,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Mercedes-Benz,Maybach EQS SUV,680,Safety,Electronic Stability Control (ESC),YES
+Mercedes-Benz,Maybach EQS SUV,680,Safety,Rear Camera,With Guidedlines
+Mercedes-Benz,Maybach EQS SUV,680,Safety,Anti-Theft Device,YES
+Mercedes-Benz,Maybach EQS SUV,680,Safety,Anti-Pinch Power Windows,All Windows
+Mercedes-Benz,Maybach EQS SUV,680,Safety,ISOFIX Child Seat Mounts,YES
+Mercedes-Benz,Maybach EQS SUV,680,Safety,Hill Descent Control,YES
+Mercedes-Benz,Maybach EQS SUV,680,Safety,Hill Assist,YES
+Mercedes-Benz,Maybach EQS SUV,680,Safety,360 View Camera,YES
+Mercedes-Benz,Maybach EQS SUV,680,Entertainment & Communication,Radio,YES
+Mercedes-Benz,Maybach EQS SUV,680,Entertainment & Communication,Wireless Phone Charging,YES
+Mercedes-Benz,Maybach EQS SUV,680,Entertainment & Communication,Bluetooth Connectivity,YES
+Mercedes-Benz,Maybach EQS SUV,680,Entertainment & Communication,Touchscreen,YES
+Mercedes-Benz,Maybach EQS SUV,680,Entertainment & Communication,Android Auto,YES
+Mercedes-Benz,Maybach EQS SUV,680,Entertainment & Communication,Apple CarPlay,YES
+Mercedes-Benz,Maybach EQS SUV,680,Entertainment & Communication,Usb Ports,YES
+Mercedes-Benz,Maybach EQS SUV,680,Entertainment & Communication,Speakers,Front & Rear
+Mercedes-Benz,Maybach EQS SUV,680,ADAS Feature,Autonomous Parking,Full

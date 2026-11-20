@@ -1,0 +1,158 @@
+company,model,variant,category,feature_name,feature_details
+Kia,EV9,GT Line,Engine & Transmission,Battery Capacity,99.8 kWh
+Kia,EV9,GT Line,Engine & Transmission,Motor Power,283 kW
+Kia,EV9,GT Line,Engine & Transmission,Motor Type,Permanent Magnet Synchronous
+Kia,EV9,GT Line,Engine & Transmission,Max Power,379bhp
+Kia,EV9,GT Line,Engine & Transmission,Max Torque,700Nm
+Kia,EV9,GT Line,Engine & Transmission,Range,561 km
+Kia,EV9,GT Line,Engine & Transmission,Battery Type,Lithium lon
+Kia,EV9,GT Line,Engine & Transmission,Charging Time (D.C),24Min-(10-80%)-350kW
+Kia,EV9,GT Line,Engine & Transmission,Regenerative Braking,YES
+Kia,EV9,GT Line,Engine & Transmission,Regenerative Braking Levels,4
+Kia,EV9,GT Line,Engine & Transmission,Charging Port,CCS-II
+Kia,EV9,GT Line,Engine & Transmission,Transmission Type,Automatic
+Kia,EV9,GT Line,Engine & Transmission,Gearbox,1-Speed
+Kia,EV9,GT Line,Engine & Transmission,Drive Type,AWD
+Kia,EV9,GT Line,Fuel & Performance,Fuel Type,Electric
+Kia,EV9,GT Line,Fuel & Performance,Emission Norm Compliance,ZEV
+Kia,EV9,GT Line,Fuel & Performance,Top Speed,200 kmph
+Kia,EV9,GT Line,Fuel & Performance,Acceleration 0-100kmph,5.3 s
+Kia,EV9,GT Line,Charging,Charging Time,24Min-(10-80%)-350kW
+Kia,EV9,GT Line,Charging,Fast Charging,YES
+Kia,EV9,GT Line,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Kia,EV9,GT Line,"Suspension, Steering & Brakes",Rear Suspension,Multi-link suspension
+Kia,EV9,GT Line,"Suspension, Steering & Brakes",Steering Type,Electric
+Kia,EV9,GT Line,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Kia,EV9,GT Line,"Suspension, Steering & Brakes",Steering Gear Type,Rack & Pinion
+Kia,EV9,GT Line,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Kia,EV9,GT Line,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Kia,EV9,GT Line,Dimensions & Capacity,Length,5015 mm
+Kia,EV9,GT Line,Dimensions & Capacity,Width,1980 mm
+Kia,EV9,GT Line,Dimensions & Capacity,Height,1780 mm
+Kia,EV9,GT Line,Dimensions & Capacity,Boot Space,333 Litres
+Kia,EV9,GT Line,Dimensions & Capacity,Seating Capacity,6
+Kia,EV9,GT Line,Dimensions & Capacity,Wheel Base,3100 mm
+Kia,EV9,GT Line,Dimensions & Capacity,Reported Boot Space,239 Litres
+Kia,EV9,GT Line,Dimensions & Capacity,Reported Ground Clearance (Unladen),198 mm
+Kia,EV9,GT Line,Comfort & Convenience,Boot Opening,Hands-Free
+Kia,EV9,GT Line,Comfort & Convenience,Power Steering,YES
+Kia,EV9,GT Line,Comfort & Convenience,Air Conditioner,YES
+Kia,EV9,GT Line,Comfort & Convenience,Heater,YES
+Kia,EV9,GT Line,Comfort & Convenience,Adjustable Steering,Height & Reach
+Kia,EV9,GT Line,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Kia,EV9,GT Line,Comfort & Convenience,Ventilated Seats,YES
+Kia,EV9,GT Line,Comfort & Convenience,Electric Adjustable Seats,Front
+Kia,EV9,GT Line,Comfort & Convenience,Automatic Climate Control,YES
+Kia,EV9,GT Line,Comfort & Convenience,Air Quality Control,YES
+Kia,EV9,GT Line,Comfort & Convenience,Accessory Power Outlet,YES
+Kia,EV9,GT Line,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Kia,EV9,GT Line,Comfort & Convenience,Adjustable Headrest,YES
+Kia,EV9,GT Line,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Kia,EV9,GT Line,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Kia,EV9,GT Line,Comfort & Convenience,Rear AC Vents,YES
+Kia,EV9,GT Line,Comfort & Convenience,Cruise Control,YES
+Kia,EV9,GT Line,Comfort & Convenience,Parking Sensors,Front & Rear
+Kia,EV9,GT Line,Comfort & Convenience,Real-Time Vehicle Tracking,YES
+Kia,EV9,GT Line,Comfort & Convenience,Foldable Rear Seat,3rd Row 50:50 Split
+Kia,EV9,GT Line,Comfort & Convenience,KeyLess Entry,YES
+Kia,EV9,GT Line,Comfort & Convenience,Engine Start/Stop Button,YES
+Kia,EV9,GT Line,Comfort & Convenience,Voice Commands,YES
+Kia,EV9,GT Line,Comfort & Convenience,Paddle Shifters,YES
+Kia,EV9,GT Line,Comfort & Convenience,USB Charger,Front & Rear
+Kia,EV9,GT Line,Comfort & Convenience,Central Console Armrest,With Storage
+Kia,EV9,GT Line,Comfort & Convenience,Glove Box light,YES
+Kia,EV9,GT Line,Comfort & Convenience,Follow Me Home Headlamps,YES
+Kia,EV9,GT Line,Comfort & Convenience,Voice assisted sunroof,YES
+Kia,EV9,GT Line,Comfort & Convenience,Vechicle to Vehicle Charging,YES
+Kia,EV9,GT Line,Comfort & Convenience,Vehicle to Load Charging,YES
+Kia,EV9,GT Line,Comfort & Convenience,Drive Mode Types,ECO | NORMAL | SPORT
+Kia,EV9,GT Line,Comfort & Convenience,Power Windows,Front & Rear
+Kia,EV9,GT Line,Comfort & Convenience,Cup Holders,Front Only
+Kia,EV9,GT Line,Comfort & Convenience,Heated Seats,Front & Rear
+Kia,EV9,GT Line,Interior,Leather Wrapped Steering Wheel,YES
+Kia,EV9,GT Line,Interior,Glove Box,YES
+Kia,EV9,GT Line,Interior,Lighting,Ambient light
+Kia,EV9,GT Line,Interior,Digital Cluster,YES
+Kia,EV9,GT Line,Interior,Digital Cluster Size,12.3
+Kia,EV9,GT Line,Interior,Upholstery,Leatherette
+Kia,EV9,GT Line,Interior,Ambient Light Colour (numbers),64
+Kia,EV9,GT Line,Exterior,Adjustable Headlamps,YES
+Kia,EV9,GT Line,Exterior,Rain Sensing Wiper,YES
+Kia,EV9,GT Line,Exterior,Rear Window Wiper,YES
+Kia,EV9,GT Line,Exterior,Rear Window Defogger,YES
+Kia,EV9,GT Line,Exterior,Wheel Covers,NO
+Kia,EV9,GT Line,Exterior,Alloy Wheels,YES
+Kia,EV9,GT Line,Exterior,Rear Spoiler,YES
+Kia,EV9,GT Line,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Kia,EV9,GT Line,Exterior,Projector Headlamps,YES
+Kia,EV9,GT Line,Exterior,Roof Rails,YES
+Kia,EV9,GT Line,Exterior,Automatic Headlamps,YES
+Kia,EV9,GT Line,Exterior,Fog Lights,Rear
+Kia,EV9,GT Line,Exterior,Antenna,Shark Fin
+Kia,EV9,GT Line,Exterior,Sunroof,Dual Sunroof
+Kia,EV9,GT Line,Exterior,Heated Outside Rear View Mirror,YES
+Kia,EV9,GT Line,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Kia,EV9,GT Line,Exterior,Tyre Size,275/ 50 R20
+Kia,EV9,GT Line,Exterior,Tyre Type,Tubeless Radial
+Kia,EV9,GT Line,Exterior,LED DRLs,YES
+Kia,EV9,GT Line,Exterior,LED Headlamps,YES
+Kia,EV9,GT Line,Exterior,LED Taillights,YES
+Kia,EV9,GT Line,Exterior,LED Fog Lamps,YES
+Kia,EV9,GT Line,Safety,Anti-lock Braking System (ABS),YES
+Kia,EV9,GT Line,Safety,Brake Assist,YES
+Kia,EV9,GT Line,Safety,Central Locking,YES
+Kia,EV9,GT Line,Safety,Child Safety Locks,YES
+Kia,EV9,GT Line,Safety,Anti-Theft Alarm,YES
+Kia,EV9,GT Line,Safety,No. of Airbags,10
+Kia,EV9,GT Line,Safety,Driver Airbag,YES
+Kia,EV9,GT Line,Safety,Passenger Airbag,YES
+Kia,EV9,GT Line,Safety,Side Airbag,YES
+Kia,EV9,GT Line,Safety,Side Airbag-Rear,YES
+Kia,EV9,GT Line,Safety,Day & Night Rear View Mirror,YES
+Kia,EV9,GT Line,Safety,Electronic Brakeforce Distribution (EBD),YES
+Kia,EV9,GT Line,Safety,Traction Control,YES
+Kia,EV9,GT Line,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Kia,EV9,GT Line,Safety,Engine Immobilizer,YES
+Kia,EV9,GT Line,Safety,Electronic Stability Control (ESC),YES
+Kia,EV9,GT Line,Safety,Rear Camera,With Guidedlines
+Kia,EV9,GT Line,Safety,Anti-Pinch Power Windows,Driver and Passenger
+Kia,EV9,GT Line,Safety,ISOFIX Child Seat Mounts,YES
+Kia,EV9,GT Line,Safety,Heads-Up Display (HUD),YES
+Kia,EV9,GT Line,Safety,Hill Descent Control,YES
+Kia,EV9,GT Line,Safety,Hill Assist,YES
+Kia,EV9,GT Line,Safety,360 View Camera,YES
+Kia,EV9,GT Line,Entertainment & Communication,Radio,YES
+Kia,EV9,GT Line,Entertainment & Communication,Wireless Phone Charging,YES
+Kia,EV9,GT Line,Entertainment & Communication,Bluetooth Connectivity,YES
+Kia,EV9,GT Line,Entertainment & Communication,Touchscreen,YES
+Kia,EV9,GT Line,Entertainment & Communication,Touchscreen Size,12.3 inch
+Kia,EV9,GT Line,Entertainment & Communication,Android Auto,YES
+Kia,EV9,GT Line,Entertainment & Communication,Apple CarPlay,YES
+Kia,EV9,GT Line,Entertainment & Communication,No. of Speakers,14
+Kia,EV9,GT Line,Entertainment & Communication,Usb Ports,YES
+Kia,EV9,GT Line,Entertainment & Communication,Additional Features,"Wireless Android Auto and Apple CarPlay,Meridian Premium Sound System with 14 Speakers"
+Kia,EV9,GT Line,Entertainment & Communication,Speakers,Front & Rear
+Kia,EV9,GT Line,ADAS Feature,Forward Collision Warning,YES
+Kia,EV9,GT Line,ADAS Feature,Automatic Emergency Braking,YES
+Kia,EV9,GT Line,ADAS Feature,Oncoming Lane Mitigation,YES
+Kia,EV9,GT Line,ADAS Feature,Speed Assist System,YES
+Kia,EV9,GT Line,ADAS Feature,Blind Spot Collision Avoidance Assist,YES
+Kia,EV9,GT Line,ADAS Feature,Lane Departure Warning,YES
+Kia,EV9,GT Line,ADAS Feature,Lane Keep Assist,YES
+Kia,EV9,GT Line,ADAS Feature,Lane Departure Prevention Assist,YES
+Kia,EV9,GT Line,ADAS Feature,Driver Attention Warning,YES
+Kia,EV9,GT Line,ADAS Feature,Adaptive Cruise Control,YES
+Kia,EV9,GT Line,ADAS Feature,Adaptive High Beam Assist,YES
+Kia,EV9,GT Line,ADAS Feature,Rear Cross Traffic Alert,YES
+Kia,EV9,GT Line,ADAS Feature,Rear Cross Traffic Collision-Avoidance Assist,YES
+Kia,EV9,GT Line,ADAS Feature,Blind Spot Monitor,YES
+Kia,EV9,GT Line,Advance Internet Feature,Live Location,YES
+Kia,EV9,GT Line,Advance Internet Feature,Digital Car Key,YES
+Kia,EV9,GT Line,Advance Internet Feature,Navigation with Live Traffic,YES
+Kia,EV9,GT Line,Advance Internet Feature,Live Weather,YES
+Kia,EV9,GT Line,Advance Internet Feature,E-Call & I-Call,YES
+Kia,EV9,GT Line,Advance Internet Feature,Over the Air (OTA) Updates,YES
+Kia,EV9,GT Line,Advance Internet Feature,SOS Button,YES
+Kia,EV9,GT Line,Advance Internet Feature,RSA,YES
+Kia,EV9,GT Line,Advance Internet Feature,Remote Door Lock/Unlock,YES
+Kia,EV9,GT Line,Advance Internet Feature,SOS / Emergency Assistance,YES

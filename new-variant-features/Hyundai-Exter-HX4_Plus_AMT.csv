@@ -1,0 +1,109 @@
+company,model,variant,category,feature_name,feature_details
+Hyundai,Exter,HX4 Plus AMT,Engine & Transmission,Engine Type,1.2 l Kappa
+Hyundai,Exter,HX4 Plus AMT,Engine & Transmission,Displacement,1197 cc
+Hyundai,Exter,HX4 Plus AMT,Engine & Transmission,Max Power,82bhp@6000rpm
+Hyundai,Exter,HX4 Plus AMT,Engine & Transmission,Max Torque,113.8Nm@4000rpm
+Hyundai,Exter,HX4 Plus AMT,Engine & Transmission,No. of Cylinders,4
+Hyundai,Exter,HX4 Plus AMT,Engine & Transmission,Valves Per Cylinder,4
+Hyundai,Exter,HX4 Plus AMT,Engine & Transmission,Transmission Type,Automatic
+Hyundai,Exter,HX4 Plus AMT,Engine & Transmission,Gearbox,Smart auto AMT
+Hyundai,Exter,HX4 Plus AMT,Engine & Transmission,Drive Type,FWD
+Hyundai,Exter,HX4 Plus AMT,Fuel & Performance,Fuel Type,Petrol
+Hyundai,Exter,HX4 Plus AMT,Fuel & Performance,Petrol Fuel Tank Capacity,37 Litres
+Hyundai,Exter,HX4 Plus AMT,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Hyundai,Exter,HX4 Plus AMT,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Hyundai,Exter,HX4 Plus AMT,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Hyundai,Exter,HX4 Plus AMT,"Suspension, Steering & Brakes",Shock Absorbers Type,Gas Type
+Hyundai,Exter,HX4 Plus AMT,"Suspension, Steering & Brakes",Steering Type,Electric
+Hyundai,Exter,HX4 Plus AMT,"Suspension, Steering & Brakes",Steering Column,Tilt
+Hyundai,Exter,HX4 Plus AMT,"Suspension, Steering & Brakes",Steering Gear Type,Rack & Pinion
+Hyundai,Exter,HX4 Plus AMT,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Hyundai,Exter,HX4 Plus AMT,"Suspension, Steering & Brakes",Rear Brake Type,Drum
+Hyundai,Exter,HX4 Plus AMT,Dimensions & Capacity,Length,3830 mm
+Hyundai,Exter,HX4 Plus AMT,Dimensions & Capacity,Width,1723 mm
+Hyundai,Exter,HX4 Plus AMT,Dimensions & Capacity,Height,1643 mm
+Hyundai,Exter,HX4 Plus AMT,Dimensions & Capacity,Boot Space,391 Litres
+Hyundai,Exter,HX4 Plus AMT,Dimensions & Capacity,Seating Capacity,5
+Hyundai,Exter,HX4 Plus AMT,Dimensions & Capacity,Wheel Base,2450 mm
+Hyundai,Exter,HX4 Plus AMT,Comfort & Convenience,Boot Opening,Manual
+Hyundai,Exter,HX4 Plus AMT,Comfort & Convenience,Power Steering,YES
+Hyundai,Exter,HX4 Plus AMT,Comfort & Convenience,Air Conditioner,YES
+Hyundai,Exter,HX4 Plus AMT,Comfort & Convenience,Heater,YES
+Hyundai,Exter,HX4 Plus AMT,Comfort & Convenience,Adjustable Steering,Height only
+Hyundai,Exter,HX4 Plus AMT,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Hyundai,Exter,HX4 Plus AMT,Comfort & Convenience,Automatic Climate Control,NO
+Hyundai,Exter,HX4 Plus AMT,Comfort & Convenience,Accessory Power Outlet,YES
+Hyundai,Exter,HX4 Plus AMT,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Hyundai,Exter,HX4 Plus AMT,Comfort & Convenience,Adjustable Headrest,YES
+Hyundai,Exter,HX4 Plus AMT,Comfort & Convenience,Rear AC Vents,YES
+Hyundai,Exter,HX4 Plus AMT,Comfort & Convenience,Cruise Control,NO
+Hyundai,Exter,HX4 Plus AMT,Comfort & Convenience,Parking Sensors,Rear
+Hyundai,Exter,HX4 Plus AMT,Comfort & Convenience,KeyLess Entry,YES
+Hyundai,Exter,HX4 Plus AMT,Comfort & Convenience,Engine Start/Stop Button,NO
+Hyundai,Exter,HX4 Plus AMT,Comfort & Convenience,Paddle Shifters,NO
+Hyundai,Exter,HX4 Plus AMT,Comfort & Convenience,USB Charger,Front & Rear
+Hyundai,Exter,HX4 Plus AMT,Comfort & Convenience,Central Console Armrest,NO
+Hyundai,Exter,HX4 Plus AMT,Comfort & Convenience,Gear Shift Indicator,NO
+Hyundai,Exter,HX4 Plus AMT,Comfort & Convenience,Additional Features,Rear Parcel Tray
+Hyundai,Exter,HX4 Plus AMT,Comfort & Convenience,Power Windows,Front & Rear
+Hyundai,Exter,HX4 Plus AMT,Interior,Leather Wrapped Steering Wheel,NO
+Hyundai,Exter,HX4 Plus AMT,Interior,Glove Box,YES
+Hyundai,Exter,HX4 Plus AMT,Interior,Digital Cluster,YES
+Hyundai,Exter,HX4 Plus AMT,Interior,Upholstery,Fabric
+Hyundai,Exter,HX4 Plus AMT,Exterior,Adjustable Headlamps,YES
+Hyundai,Exter,HX4 Plus AMT,Exterior,Rear Window Wiper,NO
+Hyundai,Exter,HX4 Plus AMT,Exterior,Rear Window Washer,NO
+Hyundai,Exter,HX4 Plus AMT,Exterior,Rear Window Defogger,NO
+Hyundai,Exter,HX4 Plus AMT,Exterior,Rear Spoiler,NO
+Hyundai,Exter,HX4 Plus AMT,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Hyundai,Exter,HX4 Plus AMT,Exterior,Projector Headlamps,NO
+Hyundai,Exter,HX4 Plus AMT,Exterior,Roof Rails,NO
+Hyundai,Exter,HX4 Plus AMT,Exterior,Automatic Headlamps,NO
+Hyundai,Exter,HX4 Plus AMT,Exterior,Antenna,Micro pole
+Hyundai,Exter,HX4 Plus AMT,Exterior,Sunroof,Single Pane
+Hyundai,Exter,HX4 Plus AMT,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Hyundai,Exter,HX4 Plus AMT,Exterior,Wheels Type,Steel with Cover
+Hyundai,Exter,HX4 Plus AMT,Exterior,Tyre Size,175/65 R15
+Hyundai,Exter,HX4 Plus AMT,Exterior,Tyre Type,Radial Tubeless
+Hyundai,Exter,HX4 Plus AMT,Exterior,Wheel Size,15 Inch
+Hyundai,Exter,HX4 Plus AMT,Exterior,LED DRLs,YES
+Hyundai,Exter,HX4 Plus AMT,Exterior,LED Taillights,YES
+Hyundai,Exter,HX4 Plus AMT,Safety,Anti-lock Braking System (ABS),YES
+Hyundai,Exter,HX4 Plus AMT,Safety,Central Locking,YES
+Hyundai,Exter,HX4 Plus AMT,Safety,Child Safety Locks,YES
+Hyundai,Exter,HX4 Plus AMT,Safety,Anti-Theft Alarm,YES
+Hyundai,Exter,HX4 Plus AMT,Safety,No. of Airbags,6
+Hyundai,Exter,HX4 Plus AMT,Safety,Driver Airbag,YES
+Hyundai,Exter,HX4 Plus AMT,Safety,Passenger Airbag,YES
+Hyundai,Exter,HX4 Plus AMT,Safety,Side Airbag,YES
+Hyundai,Exter,HX4 Plus AMT,Safety,Side Airbag-Rear,NO
+Hyundai,Exter,HX4 Plus AMT,Safety,Day & Night Rear View Mirror,YES
+Hyundai,Exter,HX4 Plus AMT,Safety,Electronic Brakeforce Distribution (EBD),YES
+Hyundai,Exter,HX4 Plus AMT,Safety,Traction Control,YES
+Hyundai,Exter,HX4 Plus AMT,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Hyundai,Exter,HX4 Plus AMT,Safety,Engine Immobilizer,YES
+Hyundai,Exter,HX4 Plus AMT,Safety,Electronic Stability Control (ESC),YES
+Hyundai,Exter,HX4 Plus AMT,Safety,Rear Camera,With Guidedlines
+Hyundai,Exter,HX4 Plus AMT,Safety,Anti-Theft Device,YES
+Hyundai,Exter,HX4 Plus AMT,Safety,ISOFIX Child Seat Mounts,YES
+Hyundai,Exter,HX4 Plus AMT,Safety,Hill Assist,YES
+Hyundai,Exter,HX4 Plus AMT,Entertainment & Communication,Radio,YES
+Hyundai,Exter,HX4 Plus AMT,Entertainment & Communication,Wireless Phone Charging,NO
+Hyundai,Exter,HX4 Plus AMT,Entertainment & Communication,Bluetooth Connectivity,YES
+Hyundai,Exter,HX4 Plus AMT,Entertainment & Communication,Touchscreen,YES
+Hyundai,Exter,HX4 Plus AMT,Entertainment & Communication,Touchscreen Size,8 inch
+Hyundai,Exter,HX4 Plus AMT,Entertainment & Communication,Android Auto,YES
+Hyundai,Exter,HX4 Plus AMT,Entertainment & Communication,Apple CarPlay,YES
+Hyundai,Exter,HX4 Plus AMT,Entertainment & Communication,Usb Ports,YES
+Hyundai,Exter,HX4 Plus AMT,Entertainment & Communication,Additional Features,Wireless Android Auto & Apple CarPlay
+Hyundai,Exter,HX4 Plus AMT,Entertainment & Communication,Speakers,Front & Rear
+Hyundai,Exter,HX4 Plus AMT,Advance Internet Feature,Live Location,NO
+Hyundai,Exter,HX4 Plus AMT,Advance Internet Feature,Remote Vehicle Status Check,NO
+Hyundai,Exter,HX4 Plus AMT,Advance Internet Feature,Live Weather,NO
+Hyundai,Exter,HX4 Plus AMT,Advance Internet Feature,Over the Air (OTA) Updates,NO
+Hyundai,Exter,HX4 Plus AMT,Advance Internet Feature,Crash Notification,NO
+Hyundai,Exter,HX4 Plus AMT,Advance Internet Feature,SOS Button,NO
+Hyundai,Exter,HX4 Plus AMT,Advance Internet Feature,In Car Remote Control App,NO
+Hyundai,Exter,HX4 Plus AMT,Advance Internet Feature,Valet Mode,NO
+Hyundai,Exter,HX4 Plus AMT,Advance Internet Feature,Remote Door Lock/Unlock,NO
+Hyundai,Exter,HX4 Plus AMT,Advance Internet Feature,SOS / Emergency Assistance,NO

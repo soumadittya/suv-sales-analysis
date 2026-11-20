@@ -1,0 +1,65 @@
+company,model,variant,category,feature_name,feature_details
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Engine & Transmission,Engine Type,3.0 L 6-cylinder
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Engine & Transmission,Displacement,2998 cc
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Engine & Transmission,Max Power,345.98bhp@4000rpm
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Engine & Transmission,Max Torque,700Nm@1500-3000rpm
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Engine & Transmission,No. of Cylinders,6
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Engine & Transmission,Valves Per Cylinder,4
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Engine & Transmission,Transmission Type,Automatic
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Engine & Transmission,Gearbox,8-Speed
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Engine & Transmission,Drive Type,AWD
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Fuel & Performance,Fuel Type,Petrol
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Fuel & Performance,Petrol Fuel Tank Capacity,86 Litres
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Fuel & Performance,Emission Norm Compliance,BS VI
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Fuel & Performance,Top Speed,234 kmph
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Fuel & Performance,Acceleration,5.9 s
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Fuel & Performance,0-100kmph,5.9 s
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,"Suspension, Steering & Brakes",Turning Radius,12.53 m
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Dimensions & Capacity,Length,4946 mm
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Dimensions & Capacity,Width,2209 mm
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Dimensions & Capacity,Height,1820 mm
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Dimensions & Capacity,Boot Space,530 Litres
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Dimensions & Capacity,Seating Capacity,5
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Dimensions & Capacity,Wheel Base,2750 mm
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Dimensions & Capacity,Kerb Weight,2360 kg
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Dimensions & Capacity,Gross Weight,3220 kg
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Comfort & Convenience,Power Steering,YES
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Comfort & Convenience,Air Conditioner,YES
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Comfort & Convenience,Heater,YES
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Comfort & Convenience,Ventilated Seats,YES
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Comfort & Convenience,Electric Adjustable Seats,Front & Rear
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Comfort & Convenience,Air Quality Control,YES
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Comfort & Convenience,Accessory Power Outlet,YES
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Comfort & Convenience,Adjustable Headrest,YES
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Comfort & Convenience,Rear AC Vents,YES
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Comfort & Convenience,Lumbar Support,YES
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Comfort & Convenience,Active noise cancellation,YES
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Comfort & Convenience,Cruise Control,YES
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Comfort & Convenience,Parking Sensors,Front & Rear
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Comfort & Convenience,Real-Time Vehicle Tracking,YES
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Comfort & Convenience,Engine Start/Stop Button,YES
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Comfort & Convenience,Voice Commands,YES
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Comfort & Convenience,USB Charger,Front & Rear
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Comfort & Convenience,Central Console Armrest,YES
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Comfort & Convenience,Gear Shift Indicator,YES
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Interior,Leather Wrapped Steering Wheel,YES
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Interior,Leather wrap gear-shift selector,YES
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Exterior,Adjustable Headlamps,YES
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Exterior,Rain Sensing Wiper,YES
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Exterior,Rear Window Wiper,YES
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Exterior,Rear Window Washer,YES
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Exterior,Rear Window Defogger,YES
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Exterior,Alloy Wheels,YES
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Exterior,Rear Spoiler,YES
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Exterior,Cornering Foglamps,YES
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Exterior,Roof Rails,YES
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Exterior,Automatic Headlamps,YES
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Exterior,Sun Roof,YES
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Exterior,LED DRLs,YES
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Exterior,LED Headlamps,YES
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Exterior,LED Taillights,YES
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Safety,Driver Airbag,YES
+Land Rover,Range Rover Sport,3.0 l Petrol Dynamic HSE,Safety,Day & Night Rear View Mirror,YES

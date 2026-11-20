@@ -1,0 +1,132 @@
+company,model,variant,category,feature_name,feature_details
+Volkswagen,Taigun,Highline Plus,Engine & Transmission,Engine Type,1.0L TSI
+Volkswagen,Taigun,Highline Plus,Engine & Transmission,Displacement,999 cc
+Volkswagen,Taigun,Highline Plus,Engine & Transmission,Max Power,114bhp@5000-5500rpm
+Volkswagen,Taigun,Highline Plus,Engine & Transmission,Max Torque,178Nm@1850-4000rpm
+Volkswagen,Taigun,Highline Plus,Engine & Transmission,No. of Cylinders,3
+Volkswagen,Taigun,Highline Plus,Engine & Transmission,Valves Per Cylinder,4
+Volkswagen,Taigun,Highline Plus,Engine & Transmission,Fuel Supply System,TSI
+Volkswagen,Taigun,Highline Plus,Engine & Transmission,Turbo Charger,YES
+Volkswagen,Taigun,Highline Plus,Engine & Transmission,Transmission Type,Manual
+Volkswagen,Taigun,Highline Plus,Engine & Transmission,Gearbox,6-Speed
+Volkswagen,Taigun,Highline Plus,Engine & Transmission,Drive Type,FWD
+Volkswagen,Taigun,Highline Plus,Fuel & Performance,Fuel Type,Petrol
+Volkswagen,Taigun,Highline Plus,Fuel & Performance,Petrol Mileage ARAI,19.98 kmpl
+Volkswagen,Taigun,Highline Plus,Fuel & Performance,Petrol Fuel Tank Capacity,50 Litres
+Volkswagen,Taigun,Highline Plus,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Volkswagen,Taigun,Highline Plus,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Volkswagen,Taigun,Highline Plus,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Volkswagen,Taigun,Highline Plus,"Suspension, Steering & Brakes",Steering Type,Electric
+Volkswagen,Taigun,Highline Plus,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Volkswagen,Taigun,Highline Plus,"Suspension, Steering & Brakes",Steering Gear Type,Rack & Pinion
+Volkswagen,Taigun,Highline Plus,"Suspension, Steering & Brakes",Turning Radius,5.05 m
+Volkswagen,Taigun,Highline Plus,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Volkswagen,Taigun,Highline Plus,"Suspension, Steering & Brakes",Rear Brake Type,Drum
+Volkswagen,Taigun,Highline Plus,"Suspension, Steering & Brakes",Boot Space Rear Seat Folding,1405 Litres
+Volkswagen,Taigun,Highline Plus,Dimensions & Capacity,Length,4221 mm
+Volkswagen,Taigun,Highline Plus,Dimensions & Capacity,Width,1760 mm
+Volkswagen,Taigun,Highline Plus,Dimensions & Capacity,Height,1612 mm
+Volkswagen,Taigun,Highline Plus,Dimensions & Capacity,Boot Space,385 Litres
+Volkswagen,Taigun,Highline Plus,Dimensions & Capacity,Seating Capacity,5
+Volkswagen,Taigun,Highline Plus,Dimensions & Capacity,Wheel Base,2651 mm
+Volkswagen,Taigun,Highline Plus,Dimensions & Capacity,Kerb Weight,1238 kg
+Volkswagen,Taigun,Highline Plus,Dimensions & Capacity,Gross Weight,1643 kg
+Volkswagen,Taigun,Highline Plus,Comfort & Convenience,Power Steering,YES
+Volkswagen,Taigun,Highline Plus,Comfort & Convenience,Air Conditioner,YES
+Volkswagen,Taigun,Highline Plus,Comfort & Convenience,Heater,YES
+Volkswagen,Taigun,Highline Plus,Comfort & Convenience,Adjustable Steering,Height & Reach
+Volkswagen,Taigun,Highline Plus,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Volkswagen,Taigun,Highline Plus,Comfort & Convenience,Ventilated Seats,NO
+Volkswagen,Taigun,Highline Plus,Comfort & Convenience,Electric Adjustable Seats,NO
+Volkswagen,Taigun,Highline Plus,Comfort & Convenience,Automatic Climate Control,YES
+Volkswagen,Taigun,Highline Plus,Comfort & Convenience,Accessory Power Outlet,YES
+Volkswagen,Taigun,Highline Plus,Comfort & Convenience,Adjustable Headrest,YES
+Volkswagen,Taigun,Highline Plus,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Volkswagen,Taigun,Highline Plus,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Volkswagen,Taigun,Highline Plus,Comfort & Convenience,Rear AC Vents,YES
+Volkswagen,Taigun,Highline Plus,Comfort & Convenience,Cruise Control,NO
+Volkswagen,Taigun,Highline Plus,Comfort & Convenience,Parking Sensors,Front & Rear
+Volkswagen,Taigun,Highline Plus,Comfort & Convenience,Real-Time Vehicle Tracking,NO
+Volkswagen,Taigun,Highline Plus,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Volkswagen,Taigun,Highline Plus,Comfort & Convenience,KeyLess Entry,YES
+Volkswagen,Taigun,Highline Plus,Comfort & Convenience,Engine Start/Stop Button,YES
+Volkswagen,Taigun,Highline Plus,Comfort & Convenience,Voice Commands,YES
+Volkswagen,Taigun,Highline Plus,Comfort & Convenience,Paddle Shifters,NO
+Volkswagen,Taigun,Highline Plus,Comfort & Convenience,USB Charger,Front & Rear
+Volkswagen,Taigun,Highline Plus,Comfort & Convenience,Central Console Armrest,With Storage
+Volkswagen,Taigun,Highline Plus,Comfort & Convenience,Gear Shift Indicator,YES
+Volkswagen,Taigun,Highline Plus,Comfort & Convenience,Idle Start-Stop System,YES
+Volkswagen,Taigun,Highline Plus,Comfort & Convenience,Follow Me Home Headlamps,YES
+Volkswagen,Taigun,Highline Plus,Comfort & Convenience,Additional Features,Rear parcel tray
+Volkswagen,Taigun,Highline Plus,Comfort & Convenience,Power Windows,Front & Rear
+Volkswagen,Taigun,Highline Plus,Interior,Glove Box,YES
+Volkswagen,Taigun,Highline Plus,Interior,Lighting,Ambient light
+Volkswagen,Taigun,Highline Plus,Interior,Digital Cluster,YES
+Volkswagen,Taigun,Highline Plus,Interior,Digital Cluster Size,8
+Volkswagen,Taigun,Highline Plus,Interior,Upholstery,Fabric
+Volkswagen,Taigun,Highline Plus,Exterior,Adjustable Headlamps,YES
+Volkswagen,Taigun,Highline Plus,Exterior,Rain Sensing Wiper,YES
+Volkswagen,Taigun,Highline Plus,Exterior,Rear Window Wiper,YES
+Volkswagen,Taigun,Highline Plus,Exterior,Rear Window Washer,YES
+Volkswagen,Taigun,Highline Plus,Exterior,Rear Window Defogger,YES
+Volkswagen,Taigun,Highline Plus,Exterior,Wheel Covers,NO
+Volkswagen,Taigun,Highline Plus,Exterior,Alloy Wheels,YES
+Volkswagen,Taigun,Highline Plus,Exterior,Rear Spoiler,YES
+Volkswagen,Taigun,Highline Plus,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Volkswagen,Taigun,Highline Plus,Exterior,Cornering Headlamps,YES
+Volkswagen,Taigun,Highline Plus,Exterior,Roof Rails,YES
+Volkswagen,Taigun,Highline Plus,Exterior,Automatic Headlamps,YES
+Volkswagen,Taigun,Highline Plus,Exterior,Fog Lights,Rear
+Volkswagen,Taigun,Highline Plus,Exterior,Antenna,Shark Fin
+Volkswagen,Taigun,Highline Plus,Exterior,Sunroof,Single Pane
+Volkswagen,Taigun,Highline Plus,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Volkswagen,Taigun,Highline Plus,Exterior,Tyre Size,205/60 R16
+Volkswagen,Taigun,Highline Plus,Exterior,Tyre Type,Radial Tubeless
+Volkswagen,Taigun,Highline Plus,Exterior,Wheel Size,16 Inch
+Volkswagen,Taigun,Highline Plus,Exterior,LED DRLs,YES
+Volkswagen,Taigun,Highline Plus,Exterior,LED Headlamps,YES
+Volkswagen,Taigun,Highline Plus,Exterior,LED Taillights,YES
+Volkswagen,Taigun,Highline Plus,Safety,Anti-lock Braking System (ABS),YES
+Volkswagen,Taigun,Highline Plus,Safety,Brake Assist,YES
+Volkswagen,Taigun,Highline Plus,Safety,Central Locking,YES
+Volkswagen,Taigun,Highline Plus,Safety,Child Safety Locks,YES
+Volkswagen,Taigun,Highline Plus,Safety,No. of Airbags,6
+Volkswagen,Taigun,Highline Plus,Safety,Driver Airbag,YES
+Volkswagen,Taigun,Highline Plus,Safety,Passenger Airbag,YES
+Volkswagen,Taigun,Highline Plus,Safety,Side Airbag,YES
+Volkswagen,Taigun,Highline Plus,Safety,Side Airbag-Rear,NO
+Volkswagen,Taigun,Highline Plus,Safety,Day & Night Rear View Mirror,YES
+Volkswagen,Taigun,Highline Plus,Safety,Electronic Brakeforce Distribution (EBD),YES
+Volkswagen,Taigun,Highline Plus,Safety,Traction Control,YES
+Volkswagen,Taigun,Highline Plus,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Volkswagen,Taigun,Highline Plus,Safety,Engine Immobilizer,YES
+Volkswagen,Taigun,Highline Plus,Safety,Electronic Stability Control (ESC),YES
+Volkswagen,Taigun,Highline Plus,Safety,Rear Camera,With Guidedlines
+Volkswagen,Taigun,Highline Plus,Safety,Anti-Pinch Power Windows,Driver's Window
+Volkswagen,Taigun,Highline Plus,Safety,ISOFIX Child Seat Mounts,YES
+Volkswagen,Taigun,Highline Plus,Safety,Hill Assist,NO
+Volkswagen,Taigun,Highline Plus,Safety,Global NCAP Safety Rating,5 Star
+Volkswagen,Taigun,Highline Plus,Safety,Global NCAP Child Safety Rating,5 Star
+Volkswagen,Taigun,Highline Plus,Entertainment & Communication,Radio,YES
+Volkswagen,Taigun,Highline Plus,Entertainment & Communication,Wireless Phone Charging,YES
+Volkswagen,Taigun,Highline Plus,Entertainment & Communication,Bluetooth Connectivity,YES
+Volkswagen,Taigun,Highline Plus,Entertainment & Communication,Touchscreen,YES
+Volkswagen,Taigun,Highline Plus,Entertainment & Communication,Touchscreen Size,10.1 inch
+Volkswagen,Taigun,Highline Plus,Entertainment & Communication,Android Auto,YES
+Volkswagen,Taigun,Highline Plus,Entertainment & Communication,Apple CarPlay,YES
+Volkswagen,Taigun,Highline Plus,Entertainment & Communication,No. of Speakers,6
+Volkswagen,Taigun,Highline Plus,Entertainment & Communication,Usb Ports,YES
+Volkswagen,Taigun,Highline Plus,Entertainment & Communication,Inbuilt Apps,YouTube | Amazon Music | Spotify
+Volkswagen,Taigun,Highline Plus,Entertainment & Communication,Additional Features,Wireless1) App-Connect with Android AutoTM
+Volkswagen,Taigun,Highline Plus,Entertainment & Communication,Speakers,Front & Rear
+Volkswagen,Taigun,Highline Plus,Advance Internet Feature,Live Location,NO
+Volkswagen,Taigun,Highline Plus,Advance Internet Feature,PUC Expiry,NO
+Volkswagen,Taigun,Highline Plus,Advance Internet Feature,Insurance Expiry,NO
+Volkswagen,Taigun,Highline Plus,Advance Internet Feature,Inbuilt Assistant,NO
+Volkswagen,Taigun,Highline Plus,Advance Internet Feature,E-Call & I-Call,NO
+Volkswagen,Taigun,Highline Plus,Advance Internet Feature,Save Route/Place,NO
+Volkswagen,Taigun,Highline Plus,Advance Internet Feature,SOS Button,NO
+Volkswagen,Taigun,Highline Plus,Advance Internet Feature,Valet Mode,YES
+Volkswagen,Taigun,Highline Plus,Advance Internet Feature,SOS / Emergency Assistance,NO
+Volkswagen,Taigun,Highline Plus,Advance Internet Feature,Geo-fence Alert,NO
+Volkswagen,Taigun,Highline Plus,Advance Internet Feature,Inbuilt APPs,NO

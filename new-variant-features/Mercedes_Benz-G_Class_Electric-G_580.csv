@@ -1,0 +1,110 @@
+company,model,variant,category,feature_name,feature_details
+Mercedes-Benz,G-Class Electric,G 580,Engine & Transmission,Battery Capacity,116 kWh
+Mercedes-Benz,G-Class Electric,G 580,Engine & Transmission,Motor Power,432 kW
+Mercedes-Benz,G-Class Electric,G 580,Engine & Transmission,Motor Type,Permanent Magnet Synchronous
+Mercedes-Benz,G-Class Electric,G 580,Engine & Transmission,Max Power,579bhp
+Mercedes-Benz,G-Class Electric,G 580,Engine & Transmission,Max Torque,1164Nm
+Mercedes-Benz,G-Class Electric,G 580,Engine & Transmission,Range,473 km
+Mercedes-Benz,G-Class Electric,G 580,Engine & Transmission,Battery Type,Lithium-ion
+Mercedes-Benz,G-Class Electric,G 580,Engine & Transmission,Charging Time (A.C),11.7Hrs-11kW (0-100%)
+Mercedes-Benz,G-Class Electric,G 580,Engine & Transmission,Charging Time (D.C),32 Min-200kW (10-80%)
+Mercedes-Benz,G-Class Electric,G 580,Engine & Transmission,Regenerative Braking,YES
+Mercedes-Benz,G-Class Electric,G 580,Engine & Transmission,Charging Port,CCS-II
+Mercedes-Benz,G-Class Electric,G 580,Engine & Transmission,Charging Options,"11 kW AC Wall Box, DC Fast Charger"
+Mercedes-Benz,G-Class Electric,G 580,Engine & Transmission,Charger Type,11 kW AC Wall Box
+Mercedes-Benz,G-Class Electric,G 580,Engine & Transmission,Transmission Type,Automatic
+Mercedes-Benz,G-Class Electric,G 580,Engine & Transmission,Drive Type,4WD
+Mercedes-Benz,G-Class Electric,G 580,Fuel & Performance,Fuel Type,Electric
+Mercedes-Benz,G-Class Electric,G 580,Fuel & Performance,Emission Norm Compliance,ZEV
+Mercedes-Benz,G-Class Electric,G 580,Fuel & Performance,Top Speed,180 kmph
+Mercedes-Benz,G-Class Electric,G 580,Charging,Charging Time,32 Min-200kW (10-80%)
+Mercedes-Benz,G-Class Electric,G 580,Charging,Fast Charging,YES
+Mercedes-Benz,G-Class Electric,G 580,"Suspension, Steering & Brakes",Front Suspension,Double wishbone suspension
+Mercedes-Benz,G-Class Electric,G 580,"Suspension, Steering & Brakes",Rear Suspension,"Multi-link, Solid Axle"
+Mercedes-Benz,G-Class Electric,G 580,"Suspension, Steering & Brakes",Steering Type,Electric
+Mercedes-Benz,G-Class Electric,G 580,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Mercedes-Benz,G-Class Electric,G 580,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Mercedes-Benz,G-Class Electric,G 580,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Mercedes-Benz,G-Class Electric,G 580,Dimensions & Capacity,Length,4863 mm
+Mercedes-Benz,G-Class Electric,G 580,Dimensions & Capacity,Width,2187 mm
+Mercedes-Benz,G-Class Electric,G 580,Dimensions & Capacity,Height,1983 mm
+Mercedes-Benz,G-Class Electric,G 580,Dimensions & Capacity,Boot Space,620 Litres
+Mercedes-Benz,G-Class Electric,G 580,Dimensions & Capacity,Seating Capacity,5
+Mercedes-Benz,G-Class Electric,G 580,Dimensions & Capacity,Wheel Base,2890 mm
+Mercedes-Benz,G-Class Electric,G 580,Dimensions & Capacity,Front Tread,1637 mm
+Mercedes-Benz,G-Class Electric,G 580,Dimensions & Capacity,Rear Tread,1659 mm
+Mercedes-Benz,G-Class Electric,G 580,Dimensions & Capacity,Kerb Weight,3085 kg
+Mercedes-Benz,G-Class Electric,G 580,Dimensions & Capacity,Reported Ground Clearance (Unladen),250 mm
+Mercedes-Benz,G-Class Electric,G 580,Comfort & Convenience,Power Steering,YES
+Mercedes-Benz,G-Class Electric,G 580,Comfort & Convenience,Air Conditioner,YES
+Mercedes-Benz,G-Class Electric,G 580,Comfort & Convenience,Heater,YES
+Mercedes-Benz,G-Class Electric,G 580,Comfort & Convenience,Adjustable Steering,Powered Adjustment
+Mercedes-Benz,G-Class Electric,G 580,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Mercedes-Benz,G-Class Electric,G 580,Comfort & Convenience,Automatic Climate Control,YES
+Mercedes-Benz,G-Class Electric,G 580,Comfort & Convenience,Air Quality Control,YES
+Mercedes-Benz,G-Class Electric,G 580,Comfort & Convenience,Accessory Power Outlet,YES
+Mercedes-Benz,G-Class Electric,G 580,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Mercedes-Benz,G-Class Electric,G 580,Comfort & Convenience,Adjustable Headrest,YES
+Mercedes-Benz,G-Class Electric,G 580,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Mercedes-Benz,G-Class Electric,G 580,Comfort & Convenience,Cruise Control,YES
+Mercedes-Benz,G-Class Electric,G 580,Comfort & Convenience,Parking Sensors,Front & Rear
+Mercedes-Benz,G-Class Electric,G 580,Comfort & Convenience,Real-Time Vehicle Tracking,YES
+Mercedes-Benz,G-Class Electric,G 580,Comfort & Convenience,KeyLess Entry,YES
+Mercedes-Benz,G-Class Electric,G 580,Comfort & Convenience,Engine Start/Stop Button,YES
+Mercedes-Benz,G-Class Electric,G 580,Comfort & Convenience,Voice Commands,YES
+Mercedes-Benz,G-Class Electric,G 580,Comfort & Convenience,USB Charger,Front & Rear
+Mercedes-Benz,G-Class Electric,G 580,Comfort & Convenience,Central Console Armrest,YES
+Mercedes-Benz,G-Class Electric,G 580,Comfort & Convenience,Follow Me Home Headlamps,YES
+Mercedes-Benz,G-Class Electric,G 580,Comfort & Convenience,Power Windows,Front & Rear
+Mercedes-Benz,G-Class Electric,G 580,Comfort & Convenience,Cup Holders,Front & Rear
+Mercedes-Benz,G-Class Electric,G 580,Interior,Leather Wrapped Steering Wheel,YES
+Mercedes-Benz,G-Class Electric,G 580,Interior,Glove Box,YES
+Mercedes-Benz,G-Class Electric,G 580,Interior,Digital Cluster,YES
+Mercedes-Benz,G-Class Electric,G 580,Interior,Upholstery,Leather
+Mercedes-Benz,G-Class Electric,G 580,Exterior,Adjustable Headlamps,YES
+Mercedes-Benz,G-Class Electric,G 580,Exterior,Rain Sensing Wiper,YES
+Mercedes-Benz,G-Class Electric,G 580,Exterior,Rear Window Wiper,YES
+Mercedes-Benz,G-Class Electric,G 580,Exterior,Rear Window Washer,YES
+Mercedes-Benz,G-Class Electric,G 580,Exterior,Rear Window Defogger,YES
+Mercedes-Benz,G-Class Electric,G 580,Exterior,Wheel Covers,NO
+Mercedes-Benz,G-Class Electric,G 580,Exterior,Alloy Wheels,YES
+Mercedes-Benz,G-Class Electric,G 580,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Mercedes-Benz,G-Class Electric,G 580,Exterior,Automatic Headlamps,YES
+Mercedes-Benz,G-Class Electric,G 580,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Mercedes-Benz,G-Class Electric,G 580,Exterior,Tyre Type,Radial Tubeless
+Mercedes-Benz,G-Class Electric,G 580,Exterior,LED DRLs,YES
+Mercedes-Benz,G-Class Electric,G 580,Exterior,LED Headlamps,YES
+Mercedes-Benz,G-Class Electric,G 580,Exterior,LED Taillights,YES
+Mercedes-Benz,G-Class Electric,G 580,Exterior,LED Fog Lamps,YES
+Mercedes-Benz,G-Class Electric,G 580,Safety,Anti-lock Braking System (ABS),YES
+Mercedes-Benz,G-Class Electric,G 580,Safety,Brake Assist,YES
+Mercedes-Benz,G-Class Electric,G 580,Safety,Central Locking,YES
+Mercedes-Benz,G-Class Electric,G 580,Safety,Child Safety Locks,YES
+Mercedes-Benz,G-Class Electric,G 580,Safety,Anti-Theft Alarm,YES
+Mercedes-Benz,G-Class Electric,G 580,Safety,No. of Airbags,9
+Mercedes-Benz,G-Class Electric,G 580,Safety,Driver Airbag,YES
+Mercedes-Benz,G-Class Electric,G 580,Safety,Passenger Airbag,YES
+Mercedes-Benz,G-Class Electric,G 580,Safety,Side Airbag,YES
+Mercedes-Benz,G-Class Electric,G 580,Safety,Side Airbag-Rear,YES
+Mercedes-Benz,G-Class Electric,G 580,Safety,Day & Night Rear View Mirror,YES
+Mercedes-Benz,G-Class Electric,G 580,Safety,Electronic Brakeforce Distribution (EBD),YES
+Mercedes-Benz,G-Class Electric,G 580,Safety,Traction Control,YES
+Mercedes-Benz,G-Class Electric,G 580,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Mercedes-Benz,G-Class Electric,G 580,Safety,Engine Immobilizer,YES
+Mercedes-Benz,G-Class Electric,G 580,Safety,Electronic Stability Control (ESC),YES
+Mercedes-Benz,G-Class Electric,G 580,Safety,Rear Camera,With Guidedlines
+Mercedes-Benz,G-Class Electric,G 580,Safety,Anti-Theft Device,YES
+Mercedes-Benz,G-Class Electric,G 580,Safety,Anti-Pinch Power Windows,Driver's Window
+Mercedes-Benz,G-Class Electric,G 580,Safety,ISOFIX Child Seat Mounts,YES
+Mercedes-Benz,G-Class Electric,G 580,Safety,Hill Descent Control,YES
+Mercedes-Benz,G-Class Electric,G 580,Safety,Hill Assist,YES
+Mercedes-Benz,G-Class Electric,G 580,Safety,360 View Camera,YES
+Mercedes-Benz,G-Class Electric,G 580,Entertainment & Communication,Radio,YES
+Mercedes-Benz,G-Class Electric,G 580,Entertainment & Communication,Wireless Phone Charging,YES
+Mercedes-Benz,G-Class Electric,G 580,Entertainment & Communication,Bluetooth Connectivity,YES
+Mercedes-Benz,G-Class Electric,G 580,Entertainment & Communication,Wi-Fi Connectivity,YES
+Mercedes-Benz,G-Class Electric,G 580,Entertainment & Communication,Touchscreen,YES
+Mercedes-Benz,G-Class Electric,G 580,Entertainment & Communication,Android Auto,YES
+Mercedes-Benz,G-Class Electric,G 580,Entertainment & Communication,Apple CarPlay,YES
+Mercedes-Benz,G-Class Electric,G 580,Entertainment & Communication,Usb Ports,YES
+Mercedes-Benz,G-Class Electric,G 580,Entertainment & Communication,Speakers,Front & Rear

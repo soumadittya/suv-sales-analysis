@@ -1,0 +1,105 @@
+company,model,variant,category,feature_name,feature_details
+Audi,Q8,Quattro,Engine & Transmission,Engine Type,V6
+Audi,Q8,Quattro,Engine & Transmission,Displacement,2995 cc
+Audi,Q8,Quattro,Engine & Transmission,Max Power,335bhp@5200 - 6400rpm
+Audi,Q8,Quattro,Engine & Transmission,Max Torque,500Nm@1370 - 4500rpm
+Audi,Q8,Quattro,Engine & Transmission,No. of Cylinders,6
+Audi,Q8,Quattro,Engine & Transmission,Valves Per Cylinder,4
+Audi,Q8,Quattro,Engine & Transmission,Transmission Type,Automatic
+Audi,Q8,Quattro,Engine & Transmission,Gearbox,8-speed
+Audi,Q8,Quattro,Engine & Transmission,Drive Type,AWD
+Audi,Q8,Quattro,Fuel & Performance,Fuel Type,Petrol
+Audi,Q8,Quattro,Fuel & Performance,Petrol Highway Mileage,10 kmpl
+Audi,Q8,Quattro,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Audi,Q8,Quattro,Fuel & Performance,Top Speed,250 kmph
+Audi,Q8,Quattro,Fuel & Performance,Acceleration,5.6 s
+Audi,Q8,Quattro,Fuel & Performance,0-100kmph,5.6 s
+Audi,Q8,Quattro,"Suspension, Steering & Brakes",Steering Type,Electric
+Audi,Q8,Quattro,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Audi,Q8,Quattro,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Audi,Q8,Quattro,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Audi,Q8,Quattro,Dimensions & Capacity,Length,4995 mm
+Audi,Q8,Quattro,Dimensions & Capacity,Width,1995 mm
+Audi,Q8,Quattro,Dimensions & Capacity,Height,1705 mm
+Audi,Q8,Quattro,Dimensions & Capacity,Boot Space,605 Litres
+Audi,Q8,Quattro,Dimensions & Capacity,Seating Capacity,5
+Audi,Q8,Quattro,Dimensions & Capacity,Wheel Base,2995 mm
+Audi,Q8,Quattro,Dimensions & Capacity,Reported Ground Clearance (Unladen),254 mm
+Audi,Q8,Quattro,Comfort & Convenience,Boot Opening,Powered
+Audi,Q8,Quattro,Comfort & Convenience,Power Steering,YES
+Audi,Q8,Quattro,Comfort & Convenience,Air Conditioner,YES
+Audi,Q8,Quattro,Comfort & Convenience,Heater,YES
+Audi,Q8,Quattro,Comfort & Convenience,Adjustable Steering,Powered Adjustment
+Audi,Q8,Quattro,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Audi,Q8,Quattro,Comfort & Convenience,Electric Adjustable Seats,Front
+Audi,Q8,Quattro,Comfort & Convenience,Automatic Climate Control,YES
+Audi,Q8,Quattro,Comfort & Convenience,Air Quality Control,YES
+Audi,Q8,Quattro,Comfort & Convenience,Accessory Power Outlet,YES
+Audi,Q8,Quattro,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Audi,Q8,Quattro,Comfort & Convenience,Adjustable Headrest,YES
+Audi,Q8,Quattro,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Audi,Q8,Quattro,Comfort & Convenience,Rear AC Vents,YES
+Audi,Q8,Quattro,Comfort & Convenience,Lumbar Support,YES
+Audi,Q8,Quattro,Comfort & Convenience,Cruise Control,YES
+Audi,Q8,Quattro,Comfort & Convenience,Parking Sensors,Front & Rear
+Audi,Q8,Quattro,Comfort & Convenience,Real-Time Vehicle Tracking,YES
+Audi,Q8,Quattro,Comfort & Convenience,Foldable Rear Seat,40:20:40 Split
+Audi,Q8,Quattro,Comfort & Convenience,KeyLess Entry,YES
+Audi,Q8,Quattro,Comfort & Convenience,Engine Start/Stop Button,YES
+Audi,Q8,Quattro,Comfort & Convenience,Voice Commands,YES
+Audi,Q8,Quattro,Comfort & Convenience,USB Charger,Front & Rear
+Audi,Q8,Quattro,Comfort & Convenience,Central Console Armrest,YES
+Audi,Q8,Quattro,Comfort & Convenience,Glove Box light,YES
+Audi,Q8,Quattro,Comfort & Convenience,Idle Start-Stop System,YES
+Audi,Q8,Quattro,Comfort & Convenience,Follow Me Home Headlamps,YES
+Audi,Q8,Quattro,Comfort & Convenience,Power Windows,Front & Rear
+Audi,Q8,Quattro,Comfort & Convenience,Cup Holders,Front & Rear
+Audi,Q8,Quattro,Interior,Leather Wrapped Steering Wheel,YES
+Audi,Q8,Quattro,Interior,Glove Box,YES
+Audi,Q8,Quattro,Interior,Digital Cluster,YES
+Audi,Q8,Quattro,Interior,Digital Cluster Size,12.29
+Audi,Q8,Quattro,Exterior,Adjustable Headlamps,YES
+Audi,Q8,Quattro,Exterior,Rain Sensing Wiper,YES
+Audi,Q8,Quattro,Exterior,Rear Window Wiper,YES
+Audi,Q8,Quattro,Exterior,Rear Window Washer,YES
+Audi,Q8,Quattro,Exterior,Rear Window Defogger,YES
+Audi,Q8,Quattro,Exterior,Alloy Wheels,YES
+Audi,Q8,Quattro,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Audi,Q8,Quattro,Exterior,Antenna,Shark Fin
+Audi,Q8,Quattro,Exterior,Sunroof,Panoramic
+Audi,Q8,Quattro,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Audi,Q8,Quattro,Exterior,LED DRLs,YES
+Audi,Q8,Quattro,Exterior,LED Headlamps,YES
+Audi,Q8,Quattro,Exterior,LED Taillights,YES
+Audi,Q8,Quattro,Safety,Anti-lock Braking System (ABS),YES
+Audi,Q8,Quattro,Safety,Brake Assist,YES
+Audi,Q8,Quattro,Safety,Central Locking,YES
+Audi,Q8,Quattro,Safety,Child Safety Locks,YES
+Audi,Q8,Quattro,Safety,Anti-Theft Alarm,YES
+Audi,Q8,Quattro,Safety,No. of Airbags,8
+Audi,Q8,Quattro,Safety,Driver Airbag,YES
+Audi,Q8,Quattro,Safety,Passenger Airbag,YES
+Audi,Q8,Quattro,Safety,Side Airbag,YES
+Audi,Q8,Quattro,Safety,Side Airbag-Rear,YES
+Audi,Q8,Quattro,Safety,Day & Night Rear View Mirror,YES
+Audi,Q8,Quattro,Safety,Electronic Brakeforce Distribution (EBD),YES
+Audi,Q8,Quattro,Safety,Traction Control,YES
+Audi,Q8,Quattro,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Audi,Q8,Quattro,Safety,Engine Immobilizer,YES
+Audi,Q8,Quattro,Safety,Electronic Stability Control (ESC),YES
+Audi,Q8,Quattro,Safety,Rear Camera,With Guidedlines
+Audi,Q8,Quattro,Safety,Anti-Theft Device,YES
+Audi,Q8,Quattro,Safety,Anti-Pinch Power Windows,All Windows
+Audi,Q8,Quattro,Safety,Hill Assist,YES
+Audi,Q8,Quattro,Safety,360 View Camera,YES
+Audi,Q8,Quattro,Safety,Global NCAP Safety Rating,5 Star
+Audi,Q8,Quattro,Safety,Global NCAP Child Safety Rating,5 Star
+Audi,Q8,Quattro,Entertainment & Communication,Radio,YES
+Audi,Q8,Quattro,Entertainment & Communication,Wireless Phone Charging,YES
+Audi,Q8,Quattro,Entertainment & Communication,Bluetooth Connectivity,YES
+Audi,Q8,Quattro,Entertainment & Communication,Touchscreen,YES
+Audi,Q8,Quattro,Entertainment & Communication,Android Auto,YES
+Audi,Q8,Quattro,Entertainment & Communication,Apple CarPlay,YES
+Audi,Q8,Quattro,Entertainment & Communication,No. of Speakers,17
+Audi,Q8,Quattro,Entertainment & Communication,Usb Ports,YES
+Audi,Q8,Quattro,Entertainment & Communication,Speakers,Front & Rear

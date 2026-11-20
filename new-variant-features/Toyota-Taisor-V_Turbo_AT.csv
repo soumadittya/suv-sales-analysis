@@ -1,0 +1,119 @@
+company,model,variant,category,feature_name,feature_details
+Toyota,Taisor,V Turbo AT,Engine & Transmission,Engine Type,1.0L K-Series Turbo
+Toyota,Taisor,V Turbo AT,Engine & Transmission,Displacement,998 cc
+Toyota,Taisor,V Turbo AT,Engine & Transmission,Max Power,98.69bhp@5500rpm
+Toyota,Taisor,V Turbo AT,Engine & Transmission,Max Torque,147.6Nm@2000-4500rpm
+Toyota,Taisor,V Turbo AT,Engine & Transmission,No. of Cylinders,3
+Toyota,Taisor,V Turbo AT,Engine & Transmission,Valves Per Cylinder,4
+Toyota,Taisor,V Turbo AT,Engine & Transmission,Turbo Charger,YES
+Toyota,Taisor,V Turbo AT,Engine & Transmission,Transmission Type,Automatic
+Toyota,Taisor,V Turbo AT,Engine & Transmission,Gearbox,6-Speed AT
+Toyota,Taisor,V Turbo AT,Engine & Transmission,Drive Type,FWD
+Toyota,Taisor,V Turbo AT,Fuel & Performance,Fuel Type,Petrol
+Toyota,Taisor,V Turbo AT,Fuel & Performance,Petrol Mileage ARAI,19.86 kmpl
+Toyota,Taisor,V Turbo AT,Fuel & Performance,Petrol Fuel Tank Capacity,37 Litres
+Toyota,Taisor,V Turbo AT,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Toyota,Taisor,V Turbo AT,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Toyota,Taisor,V Turbo AT,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Toyota,Taisor,V Turbo AT,"Suspension, Steering & Brakes",Steering Type,Electric
+Toyota,Taisor,V Turbo AT,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Toyota,Taisor,V Turbo AT,"Suspension, Steering & Brakes",Turning Radius,4.9 m
+Toyota,Taisor,V Turbo AT,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Toyota,Taisor,V Turbo AT,"Suspension, Steering & Brakes",Rear Brake Type,Drum
+Toyota,Taisor,V Turbo AT,Dimensions & Capacity,Length,3995 mm
+Toyota,Taisor,V Turbo AT,Dimensions & Capacity,Width,1765 mm
+Toyota,Taisor,V Turbo AT,Dimensions & Capacity,Height,1550 mm
+Toyota,Taisor,V Turbo AT,Dimensions & Capacity,Boot Space,308 Litres
+Toyota,Taisor,V Turbo AT,Dimensions & Capacity,Seating Capacity,5
+Toyota,Taisor,V Turbo AT,Dimensions & Capacity,Wheel Base,2520 mm
+Toyota,Taisor,V Turbo AT,Dimensions & Capacity,Kerb Weight,1055-1060 kg
+Toyota,Taisor,V Turbo AT,Dimensions & Capacity,Gross Weight,1480 kg
+Toyota,Taisor,V Turbo AT,Comfort & Convenience,Boot Opening,Manual
+Toyota,Taisor,V Turbo AT,Comfort & Convenience,Power Steering,YES
+Toyota,Taisor,V Turbo AT,Comfort & Convenience,Air Conditioner,YES
+Toyota,Taisor,V Turbo AT,Comfort & Convenience,Heater,YES
+Toyota,Taisor,V Turbo AT,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Toyota,Taisor,V Turbo AT,Comfort & Convenience,Automatic Climate Control,YES
+Toyota,Taisor,V Turbo AT,Comfort & Convenience,Adjustable Headrest,YES
+Toyota,Taisor,V Turbo AT,Comfort & Convenience,Rear AC Vents,YES
+Toyota,Taisor,V Turbo AT,Comfort & Convenience,Cruise Control,YES
+Toyota,Taisor,V Turbo AT,Comfort & Convenience,Parking Sensors,Rear
+Toyota,Taisor,V Turbo AT,Comfort & Convenience,Real-Time Vehicle Tracking,YES
+Toyota,Taisor,V Turbo AT,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Toyota,Taisor,V Turbo AT,Comfort & Convenience,KeyLess Entry,YES
+Toyota,Taisor,V Turbo AT,Comfort & Convenience,Engine Start/Stop Button,YES
+Toyota,Taisor,V Turbo AT,Comfort & Convenience,Paddle Shifters,YES
+Toyota,Taisor,V Turbo AT,Comfort & Convenience,USB Charger,Front & Rear
+Toyota,Taisor,V Turbo AT,Comfort & Convenience,Central Console Armrest,With Storage
+Toyota,Taisor,V Turbo AT,Comfort & Convenience,Gear Shift Indicator,NO
+Toyota,Taisor,V Turbo AT,Comfort & Convenience,Idle Start-Stop System,YES
+Toyota,Taisor,V Turbo AT,Comfort & Convenience,Follow Me Home Headlamps,YES
+Toyota,Taisor,V Turbo AT,Comfort & Convenience,Power Windows,Front & Rear
+Toyota,Taisor,V Turbo AT,Interior,Leather Wrapped Steering Wheel,YES
+Toyota,Taisor,V Turbo AT,Interior,Glove Box,YES
+Toyota,Taisor,V Turbo AT,Interior,Additional Features,Rear Parcel Tray
+Toyota,Taisor,V Turbo AT,Interior,Digital Cluster,YES
+Toyota,Taisor,V Turbo AT,Interior,Digital Cluster Size,4.2 Inch
+Toyota,Taisor,V Turbo AT,Interior,Upholstery,Fabric
+Toyota,Taisor,V Turbo AT,Exterior,Adjustable Headlamps,YES
+Toyota,Taisor,V Turbo AT,Exterior,Rear Window Wiper,YES
+Toyota,Taisor,V Turbo AT,Exterior,Rear Window Washer,YES
+Toyota,Taisor,V Turbo AT,Exterior,Rear Window Defogger,YES
+Toyota,Taisor,V Turbo AT,Exterior,Rear Spoiler,YES
+Toyota,Taisor,V Turbo AT,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Toyota,Taisor,V Turbo AT,Exterior,Halogen Headlamps,NO
+Toyota,Taisor,V Turbo AT,Exterior,Roof Rails,YES
+Toyota,Taisor,V Turbo AT,Exterior,Automatic Headlamps,YES
+Toyota,Taisor,V Turbo AT,Exterior,Antenna,Shark Fin
+Toyota,Taisor,V Turbo AT,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Toyota,Taisor,V Turbo AT,Exterior,Tyre Size,195/60 R16
+Toyota,Taisor,V Turbo AT,Exterior,Tyre Type,Tubeless & Radial
+Toyota,Taisor,V Turbo AT,Exterior,Wheel Size,16 Inch
+Toyota,Taisor,V Turbo AT,Exterior,LED DRLs,YES
+Toyota,Taisor,V Turbo AT,Exterior,LED Headlamps,YES
+Toyota,Taisor,V Turbo AT,Safety,Anti-lock Braking System (ABS),YES
+Toyota,Taisor,V Turbo AT,Safety,Central Locking,YES
+Toyota,Taisor,V Turbo AT,Safety,Child Safety Locks,YES
+Toyota,Taisor,V Turbo AT,Safety,Anti-Theft Alarm,YES
+Toyota,Taisor,V Turbo AT,Safety,No. of Airbags,6
+Toyota,Taisor,V Turbo AT,Safety,Driver Airbag,YES
+Toyota,Taisor,V Turbo AT,Safety,Passenger Airbag,YES
+Toyota,Taisor,V Turbo AT,Safety,Side Airbag,YES
+Toyota,Taisor,V Turbo AT,Safety,Day & Night Rear View Mirror,YES
+Toyota,Taisor,V Turbo AT,Safety,Electronic Brakeforce Distribution (EBD),YES
+Toyota,Taisor,V Turbo AT,Safety,Traction Control,YES
+Toyota,Taisor,V Turbo AT,Safety,Engine Immobilizer,YES
+Toyota,Taisor,V Turbo AT,Safety,Electronic Stability Control (ESC),YES
+Toyota,Taisor,V Turbo AT,Safety,Rear Camera,With Guidedlines
+Toyota,Taisor,V Turbo AT,Safety,Anti-Pinch Power Windows,Driver's Window
+Toyota,Taisor,V Turbo AT,Safety,ISOFIX Child Seat Mounts,YES
+Toyota,Taisor,V Turbo AT,Safety,Heads-Up Display (HUD),YES
+Toyota,Taisor,V Turbo AT,Safety,Hill Assist,YES
+Toyota,Taisor,V Turbo AT,Safety,360 View Camera,YES
+Toyota,Taisor,V Turbo AT,Entertainment & Communication,Radio,YES
+Toyota,Taisor,V Turbo AT,Entertainment & Communication,Wireless Phone Charging,YES
+Toyota,Taisor,V Turbo AT,Entertainment & Communication,Bluetooth Connectivity,YES
+Toyota,Taisor,V Turbo AT,Entertainment & Communication,Touchscreen,YES
+Toyota,Taisor,V Turbo AT,Entertainment & Communication,Touchscreen Size,9 inch
+Toyota,Taisor,V Turbo AT,Entertainment & Communication,Android Auto,YES
+Toyota,Taisor,V Turbo AT,Entertainment & Communication,Apple CarPlay,YES
+Toyota,Taisor,V Turbo AT,Entertainment & Communication,No. of Speakers,4
+Toyota,Taisor,V Turbo AT,Entertainment & Communication,Usb Ports,YES
+Toyota,Taisor,V Turbo AT,Entertainment & Communication,Tweeters,2
+Toyota,Taisor,V Turbo AT,Entertainment & Communication,Additional Features,Android Auto & Apple CarPlay (Wireless)
+Toyota,Taisor,V Turbo AT,Entertainment & Communication,Speakers,Front & Rear
+Toyota,Taisor,V Turbo AT,Advance Internet Feature,Remote Immobiliser,YES
+Toyota,Taisor,V Turbo AT,Advance Internet Feature,Unauthorised Vehicle entry,YES
+Toyota,Taisor,V Turbo AT,Advance Internet Feature,Remote Vehicle Status Check,YES
+Toyota,Taisor,V Turbo AT,Advance Internet Feature,Over the Air (OTA) Updates,YES
+Toyota,Taisor,V Turbo AT,Advance Internet Feature,Google / Alexa Connectivity,YES
+Toyota,Taisor,V Turbo AT,Advance Internet Feature,Over Speeding Alert,YES
+Toyota,Taisor,V Turbo AT,Advance Internet Feature,Tow Away Alert,YES
+Toyota,Taisor,V Turbo AT,Advance Internet Feature,In Car Remote Control App,YES
+Toyota,Taisor,V Turbo AT,Advance Internet Feature,Smartwatch App,YES
+Toyota,Taisor,V Turbo AT,Advance Internet Feature,Valet Mode,YES
+Toyota,Taisor,V Turbo AT,Advance Internet Feature,Remote AC On/Off,YES
+Toyota,Taisor,V Turbo AT,Advance Internet Feature,Remote Door Lock/Unlock,YES
+Toyota,Taisor,V Turbo AT,Advance Internet Feature,Remote Vehicle Ignition Start/Stop,YES
+Toyota,Taisor,V Turbo AT,Advance Internet Feature,Remote Boot Open,YES
+Toyota,Taisor,V Turbo AT,Advance Internet Feature,Inbuilt APPs,Toyota iCONNECT

@@ -1,0 +1,133 @@
+company,model,variant,category,feature_name,feature_details
+MG,Astor,Sprint,Engine & Transmission,Engine Type,VTi-TECH
+MG,Astor,Sprint,Engine & Transmission,Displacement,1498 cc
+MG,Astor,Sprint,Engine & Transmission,Max Power,108.49bhp@6000rpm
+MG,Astor,Sprint,Engine & Transmission,Max Torque,144Nm@4400rpm
+MG,Astor,Sprint,Engine & Transmission,No. of Cylinders,4
+MG,Astor,Sprint,Engine & Transmission,Valves Per Cylinder,4
+MG,Astor,Sprint,Engine & Transmission,Turbo Charger,NO
+MG,Astor,Sprint,Engine & Transmission,Transmission Type,Manual
+MG,Astor,Sprint,Engine & Transmission,Gearbox,5-Speed
+MG,Astor,Sprint,Engine & Transmission,Drive Type,FWD
+MG,Astor,Sprint,Fuel & Performance,Fuel Type,Petrol
+MG,Astor,Sprint,Fuel & Performance,Petrol Mileage ARAI,15.43 kmpl
+MG,Astor,Sprint,Fuel & Performance,Petrol Fuel Tank Capacity,48 Litres
+MG,Astor,Sprint,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+MG,Astor,Sprint,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+MG,Astor,Sprint,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+MG,Astor,Sprint,"Suspension, Steering & Brakes",Steering Type,Electric
+MG,Astor,Sprint,"Suspension, Steering & Brakes",Steering Column,Tilt
+MG,Astor,Sprint,"Suspension, Steering & Brakes",Front Brake Type,Disc
+MG,Astor,Sprint,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+MG,Astor,Sprint,Dimensions & Capacity,Length,4323 mm
+MG,Astor,Sprint,Dimensions & Capacity,Width,1809 mm
+MG,Astor,Sprint,Dimensions & Capacity,Height,1650 mm
+MG,Astor,Sprint,Dimensions & Capacity,Seating Capacity,5
+MG,Astor,Sprint,Dimensions & Capacity,Wheel Base,2585 mm
+MG,Astor,Sprint,Dimensions & Capacity,Reported Boot Space,488 Litres
+MG,Astor,Sprint,Comfort & Convenience,Power Steering,YES
+MG,Astor,Sprint,Comfort & Convenience,Air Conditioner,YES
+MG,Astor,Sprint,Comfort & Convenience,Heater,YES
+MG,Astor,Sprint,Comfort & Convenience,Height Adjustable Driver Seat,YES
+MG,Astor,Sprint,Comfort & Convenience,Ventilated Seats,NO
+MG,Astor,Sprint,Comfort & Convenience,Electric Adjustable Seats,NO
+MG,Astor,Sprint,Comfort & Convenience,Automatic Climate Control,YES
+MG,Astor,Sprint,Comfort & Convenience,Air Quality Control,YES
+MG,Astor,Sprint,Comfort & Convenience,Accessory Power Outlet,YES
+MG,Astor,Sprint,Comfort & Convenience,Adjustable Headrest,YES
+MG,Astor,Sprint,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+MG,Astor,Sprint,Comfort & Convenience,Rear AC Vents,YES
+MG,Astor,Sprint,Comfort & Convenience,Cruise Control,NO
+MG,Astor,Sprint,Comfort & Convenience,Parking Sensors,Rear
+MG,Astor,Sprint,Comfort & Convenience,Real-Time Vehicle Tracking,NO
+MG,Astor,Sprint,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+MG,Astor,Sprint,Comfort & Convenience,KeyLess Entry,YES
+MG,Astor,Sprint,Comfort & Convenience,Engine Start/Stop Button,NO
+MG,Astor,Sprint,Comfort & Convenience,USB Charger,Front & Rear
+MG,Astor,Sprint,Comfort & Convenience,Follow Me Home Headlamps,YES
+MG,Astor,Sprint,Comfort & Convenience,Voice assisted sunroof,NO
+MG,Astor,Sprint,Comfort & Convenience,Power Windows,Front & Rear
+MG,Astor,Sprint,Comfort & Convenience,Cup Holders,Front & Rear
+MG,Astor,Sprint,Interior,Leather Wrapped Steering Wheel,NO
+MG,Astor,Sprint,Interior,Glove Box,YES
+MG,Astor,Sprint,Interior,Digital Cluster,YES
+MG,Astor,Sprint,Interior,Digital Cluster Size,3.5 inch
+MG,Astor,Sprint,Interior,Upholstery,Fabric
+MG,Astor,Sprint,Exterior,Adjustable Headlamps,YES
+MG,Astor,Sprint,Exterior,Rain Sensing Wiper,NO
+MG,Astor,Sprint,Exterior,Rear Window Wiper,YES
+MG,Astor,Sprint,Exterior,Rear Window Washer,YES
+MG,Astor,Sprint,Exterior,Rear Window Defogger,YES
+MG,Astor,Sprint,Exterior,Wheel Covers,YES
+MG,Astor,Sprint,Exterior,Alloy Wheels,NO
+MG,Astor,Sprint,Exterior,Rear Spoiler,YES
+MG,Astor,Sprint,Exterior,Outside Rear View Mirror Turn Indicators,YES
+MG,Astor,Sprint,Exterior,Cornering Foglamps,NO
+MG,Astor,Sprint,Exterior,Roof Rails,NO
+MG,Astor,Sprint,Exterior,Fog Lights,Rear
+MG,Astor,Sprint,Exterior,Antenna,Shark Fin
+MG,Astor,Sprint,Exterior,Sunroof,NO
+MG,Astor,Sprint,Exterior,Heated Outside Rear View Mirror,NO
+MG,Astor,Sprint,Exterior,Outside Rear View Mirror (ORVM),Powered
+MG,Astor,Sprint,Exterior,Tyre Size,215/55 R16
+MG,Astor,Sprint,Exterior,Tyre Type,Radial Tubeless
+MG,Astor,Sprint,Exterior,Wheel Size,16 Inch
+MG,Astor,Sprint,Exterior,LED DRLs,YES
+MG,Astor,Sprint,Exterior,LED Headlamps,YES
+MG,Astor,Sprint,Exterior,LED Taillights,NO
+MG,Astor,Sprint,Safety,Anti-lock Braking System (ABS),YES
+MG,Astor,Sprint,Safety,Brake Assist,YES
+MG,Astor,Sprint,Safety,Central Locking,YES
+MG,Astor,Sprint,Safety,Child Safety Locks,YES
+MG,Astor,Sprint,Safety,Anti-Theft Alarm,YES
+MG,Astor,Sprint,Safety,No. of Airbags,2
+MG,Astor,Sprint,Safety,Day & Night Rear View Mirror,YES
+MG,Astor,Sprint,Safety,Electronic Brakeforce Distribution (EBD),YES
+MG,Astor,Sprint,Safety,Traction Control,YES
+MG,Astor,Sprint,Safety,Tyre Pressure Monitoring System (TPMS),NO
+MG,Astor,Sprint,Safety,Engine Immobilizer,YES
+MG,Astor,Sprint,Safety,Electronic Stability Control (ESC),YES
+MG,Astor,Sprint,Safety,Rear Camera,NO
+MG,Astor,Sprint,Safety,Anti-Theft Device,YES
+MG,Astor,Sprint,Safety,ISOFIX Child Seat Mounts,YES
+MG,Astor,Sprint,Safety,Hill Descent Control,YES
+MG,Astor,Sprint,Safety,Hill Assist,YES
+MG,Astor,Sprint,Safety,360 View Camera,NO
+MG,Astor,Sprint,Safety,Safety Airbags,Driver & Passenger
+MG,Astor,Sprint,Entertainment & Communication,Radio,YES
+MG,Astor,Sprint,Entertainment & Communication,Wireless Phone Charging,NO
+MG,Astor,Sprint,Entertainment & Communication,Bluetooth Connectivity,YES
+MG,Astor,Sprint,Entertainment & Communication,Wi-Fi Connectivity,NO
+MG,Astor,Sprint,Entertainment & Communication,Touchscreen,YES
+MG,Astor,Sprint,Entertainment & Communication,Touchscreen Size,10.1 inch
+MG,Astor,Sprint,Entertainment & Communication,Android Auto,YES
+MG,Astor,Sprint,Entertainment & Communication,Apple CarPlay,YES
+MG,Astor,Sprint,Entertainment & Communication,No. of Speakers,4
+MG,Astor,Sprint,Entertainment & Communication,Usb Ports,YES
+MG,Astor,Sprint,Entertainment & Communication,Inbuilt Apps,NA
+MG,Astor,Sprint,Entertainment & Communication,Speakers,Front & Rear
+MG,Astor,Sprint,ADAS Feature,Forward Collision Warning,NO
+MG,Astor,Sprint,ADAS Feature,Automatic Emergency Braking,NO
+MG,Astor,Sprint,ADAS Feature,Blind Spot Collision Avoidance Assist,NO
+MG,Astor,Sprint,ADAS Feature,Lane Departure Warning,NO
+MG,Astor,Sprint,ADAS Feature,Lane Keep Assist,NO
+MG,Astor,Sprint,ADAS Feature,Lane Departure Prevention Assist,NO
+MG,Astor,Sprint,ADAS Feature,Adaptive Cruise Control,NO
+MG,Astor,Sprint,ADAS Feature,Rear Cross Traffic Alert,NO
+MG,Astor,Sprint,ADAS Feature,Blind Spot Monitor,NO
+MG,Astor,Sprint,Advance Internet Feature,Live Location,NO
+MG,Astor,Sprint,Advance Internet Feature,Remote Immobiliser,NO
+MG,Astor,Sprint,Advance Internet Feature,Engine Start Alarm,NO
+MG,Astor,Sprint,Advance Internet Feature,Remote Vehicle Status Check,NO
+MG,Astor,Sprint,Advance Internet Feature,Digital Car Key,NO
+MG,Astor,Sprint,Advance Internet Feature,Inbuilt Assistant,NO
+MG,Astor,Sprint,Advance Internet Feature,Hinglish Voice Commands,NO
+MG,Astor,Sprint,Advance Internet Feature,Navigation with Live Traffic,NO
+MG,Astor,Sprint,Advance Internet Feature,E-Call & I-Call,NO
+MG,Astor,Sprint,Advance Internet Feature,Over the Air (OTA) Updates,NO
+MG,Astor,Sprint,Advance Internet Feature,Over Speeding Alert,NO
+MG,Astor,Sprint,Advance Internet Feature,In Car Remote Control App,NO
+MG,Astor,Sprint,Advance Internet Feature,Smartwatch App,NO
+MG,Astor,Sprint,Advance Internet Feature,Remote AC On/Off,NO
+MG,Astor,Sprint,Advance Internet Feature,Remote Door Lock/Unlock,NO
+MG,Astor,Sprint,Advance Internet Feature,Geo-fence Alert,NO

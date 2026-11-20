@@ -1,0 +1,124 @@
+company,model,variant,category,feature_name,feature_details
+Hyundai,Venue,HX 6T,Engine & Transmission,Engine Type,1.2 l Kappa MPi
+Hyundai,Venue,HX 6T,Engine & Transmission,Displacement,1197 cc
+Hyundai,Venue,HX 6T,Engine & Transmission,Max Power,82bhp@6000rpm
+Hyundai,Venue,HX 6T,Engine & Transmission,Max Torque,114.7Nm@4200rpm
+Hyundai,Venue,HX 6T,Engine & Transmission,No. of Cylinders,4
+Hyundai,Venue,HX 6T,Engine & Transmission,Valves Per Cylinder,4
+Hyundai,Venue,HX 6T,Engine & Transmission,Fuel Supply System,MPi
+Hyundai,Venue,HX 6T,Engine & Transmission,Turbo Charger,NO
+Hyundai,Venue,HX 6T,Engine & Transmission,Transmission Type,Manual
+Hyundai,Venue,HX 6T,Engine & Transmission,Gearbox,5-speed
+Hyundai,Venue,HX 6T,Engine & Transmission,Drive Type,FWD
+Hyundai,Venue,HX 6T,Fuel & Performance,Fuel Type,Petrol
+Hyundai,Venue,HX 6T,Fuel & Performance,Petrol Mileage ARAI,18.5 kmpl
+Hyundai,Venue,HX 6T,Fuel & Performance,Petrol Fuel Tank Capacity,45 Litres
+Hyundai,Venue,HX 6T,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Hyundai,Venue,HX 6T,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Hyundai,Venue,HX 6T,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Hyundai,Venue,HX 6T,"Suspension, Steering & Brakes",Steering Type,Electric
+Hyundai,Venue,HX 6T,"Suspension, Steering & Brakes",Steering Column,Tilt
+Hyundai,Venue,HX 6T,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Hyundai,Venue,HX 6T,"Suspension, Steering & Brakes",Rear Brake Type,Drum
+Hyundai,Venue,HX 6T,Dimensions & Capacity,Length,3995 mm
+Hyundai,Venue,HX 6T,Dimensions & Capacity,Width,1800 mm
+Hyundai,Venue,HX 6T,Dimensions & Capacity,Height,1650 mm
+Hyundai,Venue,HX 6T,Dimensions & Capacity,Boot Space,375 Litres
+Hyundai,Venue,HX 6T,Dimensions & Capacity,Seating Capacity,5
+Hyundai,Venue,HX 6T,Dimensions & Capacity,Wheel Base,2520 mm
+Hyundai,Venue,HX 6T,Comfort & Convenience,Power Steering,YES
+Hyundai,Venue,HX 6T,Comfort & Convenience,Air Conditioner,YES
+Hyundai,Venue,HX 6T,Comfort & Convenience,Heater,YES
+Hyundai,Venue,HX 6T,Comfort & Convenience,Adjustable Steering,Height only
+Hyundai,Venue,HX 6T,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Hyundai,Venue,HX 6T,Comfort & Convenience,Ventilated Seats,NO
+Hyundai,Venue,HX 6T,Comfort & Convenience,Electric Adjustable Seats,NO
+Hyundai,Venue,HX 6T,Comfort & Convenience,Automatic Climate Control,YES
+Hyundai,Venue,HX 6T,Comfort & Convenience,Accessory Power Outlet,YES
+Hyundai,Venue,HX 6T,Comfort & Convenience,Rear Seat Headrest,Integrated
+Hyundai,Venue,HX 6T,Comfort & Convenience,Adjustable Headrest,YES
+Hyundai,Venue,HX 6T,Comfort & Convenience,Rear Seat Centre Arm Rest,NO
+Hyundai,Venue,HX 6T,Comfort & Convenience,Rear AC Vents,YES
+Hyundai,Venue,HX 6T,Comfort & Convenience,Cruise Control,NO
+Hyundai,Venue,HX 6T,Comfort & Convenience,Parking Sensors,Rear
+Hyundai,Venue,HX 6T,Comfort & Convenience,Foldable Rear Seat,Bench Folding
+Hyundai,Venue,HX 6T,Comfort & Convenience,KeyLess Entry,YES
+Hyundai,Venue,HX 6T,Comfort & Convenience,Engine Start/Stop Button,YES
+Hyundai,Venue,HX 6T,Comfort & Convenience,Voice Commands,YES
+Hyundai,Venue,HX 6T,Comfort & Convenience,Paddle Shifters,NO
+Hyundai,Venue,HX 6T,Comfort & Convenience,USB Charger,Front & Rear
+Hyundai,Venue,HX 6T,Comfort & Convenience,Central Console Armrest,With Storage
+Hyundai,Venue,HX 6T,Comfort & Convenience,Drive Modes,NO
+Hyundai,Venue,HX 6T,Comfort & Convenience,Idle Start-Stop System,NO
+Hyundai,Venue,HX 6T,Comfort & Convenience,Follow Me Home Headlamps,YES
+Hyundai,Venue,HX 6T,Comfort & Convenience,Additional Features,Dashcam
+Hyundai,Venue,HX 6T,Comfort & Convenience,Voice assisted sunroof,NO
+Hyundai,Venue,HX 6T,Comfort & Convenience,Power Windows,Front & Rear
+Hyundai,Venue,HX 6T,Comfort & Convenience,Cup Holders,Front Only
+Hyundai,Venue,HX 6T,Interior,Glove Box,YES
+Hyundai,Venue,HX 6T,Interior,Additional Features,Rear parcel tray
+Hyundai,Venue,HX 6T,Interior,Digital Cluster,YES
+Hyundai,Venue,HX 6T,Interior,Digital Cluster Size,10.66
+Hyundai,Venue,HX 6T,Interior,Upholstery,Fabric
+Hyundai,Venue,HX 6T,Exterior,Rear Window Wiper,YES
+Hyundai,Venue,HX 6T,Exterior,Rear Window Washer,YES
+Hyundai,Venue,HX 6T,Exterior,Rear Window Defogger,YES
+Hyundai,Venue,HX 6T,Exterior,Rear Spoiler,YES
+Hyundai,Venue,HX 6T,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Hyundai,Venue,HX 6T,Exterior,Projector Headlamps,NO
+Hyundai,Venue,HX 6T,Exterior,Roof Rails,YES
+Hyundai,Venue,HX 6T,Exterior,Automatic Headlamps,YES
+Hyundai,Venue,HX 6T,Exterior,Antenna,Shark Fin
+Hyundai,Venue,HX 6T,Exterior,Sunroof,Single Pane
+Hyundai,Venue,HX 6T,Exterior,Puddle Lamps,NO
+Hyundai,Venue,HX 6T,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Hyundai,Venue,HX 6T,Exterior,Wheels Type,Steel with Cover
+Hyundai,Venue,HX 6T,Exterior,Tyre Size,195/65 R15
+Hyundai,Venue,HX 6T,Exterior,Tyre Type,Tubeless Radial
+Hyundai,Venue,HX 6T,Exterior,Wheel Size,15 Inch
+Hyundai,Venue,HX 6T,Exterior,LED DRLs,YES
+Hyundai,Venue,HX 6T,Exterior,LED Headlamps,YES
+Hyundai,Venue,HX 6T,Exterior,LED Taillights,YES
+Hyundai,Venue,HX 6T,Safety,Anti-lock Braking System (ABS),YES
+Hyundai,Venue,HX 6T,Safety,Central Locking,YES
+Hyundai,Venue,HX 6T,Safety,Child Safety Locks,YES
+Hyundai,Venue,HX 6T,Safety,Anti-Theft Alarm,YES
+Hyundai,Venue,HX 6T,Safety,No. of Airbags,6
+Hyundai,Venue,HX 6T,Safety,Driver Airbag,YES
+Hyundai,Venue,HX 6T,Safety,Passenger Airbag,YES
+Hyundai,Venue,HX 6T,Safety,Side Airbag,YES
+Hyundai,Venue,HX 6T,Safety,Side Airbag-Rear,NO
+Hyundai,Venue,HX 6T,Safety,Day & Night Rear View Mirror,YES
+Hyundai,Venue,HX 6T,Safety,Electronic Brakeforce Distribution (EBD),YES
+Hyundai,Venue,HX 6T,Safety,Traction Control,NO
+Hyundai,Venue,HX 6T,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Hyundai,Venue,HX 6T,Safety,Engine Immobilizer,YES
+Hyundai,Venue,HX 6T,Safety,Electronic Stability Control (ESC),YES
+Hyundai,Venue,HX 6T,Safety,Rear Camera,With Guidedlines
+Hyundai,Venue,HX 6T,Safety,Anti-Pinch Power Windows,Driver's Window
+Hyundai,Venue,HX 6T,Safety,ISOFIX Child Seat Mounts,YES
+Hyundai,Venue,HX 6T,Safety,Blind Spot Camera,NO
+Hyundai,Venue,HX 6T,Safety,Hill Assist,YES
+Hyundai,Venue,HX 6T,Safety,360 View Camera,NO
+Hyundai,Venue,HX 6T,Safety,Bharat NCAP Safety Rating,5 Star
+Hyundai,Venue,HX 6T,Safety,Bharat NCAP Child Safety Rating,5 Star
+Hyundai,Venue,HX 6T,Entertainment & Communication,Radio,YES
+Hyundai,Venue,HX 6T,Entertainment & Communication,Wireless Phone Charging,YES
+Hyundai,Venue,HX 6T,Entertainment & Communication,Bluetooth Connectivity,YES
+Hyundai,Venue,HX 6T,Entertainment & Communication,Touchscreen,YES
+Hyundai,Venue,HX 6T,Entertainment & Communication,Touchscreen Size,10.25 inch
+Hyundai,Venue,HX 6T,Entertainment & Communication,Android Auto,YES
+Hyundai,Venue,HX 6T,Entertainment & Communication,Apple CarPlay,YES
+Hyundai,Venue,HX 6T,Entertainment & Communication,No. of Speakers,4
+Hyundai,Venue,HX 6T,Entertainment & Communication,Usb Ports,YES
+Hyundai,Venue,HX 6T,Entertainment & Communication,Tweeters,2
+Hyundai,Venue,HX 6T,Entertainment & Communication,Additional Features,Wireless Android Auto and Apple Carplay
+Hyundai,Venue,HX 6T,Entertainment & Communication,Speakers,Front & Rear
+Hyundai,Venue,HX 6T,ADAS Feature,Forward Collision Warning,NO
+Hyundai,Venue,HX 6T,ADAS Feature,Lane Departure Warning,NO
+Hyundai,Venue,HX 6T,ADAS Feature,Lane Keep Assist,NO
+Hyundai,Venue,HX 6T,ADAS Feature,Driver Attention Warning,NO
+Hyundai,Venue,HX 6T,ADAS Feature,Leading Vehicle Departure Alert,NO
+Hyundai,Venue,HX 6T,ADAS Feature,Adaptive High Beam Assist,NO
+Hyundai,Venue,HX 6T,Advance Internet Feature,Over the Air (OTA) Updates,YES
+Hyundai,Venue,HX 6T,Advance Internet Feature,Inbuilt APPs,Hyundai Bluelink

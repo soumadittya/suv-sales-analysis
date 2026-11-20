@@ -1,0 +1,87 @@
+company,model,variant,category,feature_name,feature_details
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Engine & Transmission,Engine Type,D22 mHawk
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Engine & Transmission,Displacement,2184 cc
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Engine & Transmission,Max Power,150bhp@3750rpm
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Engine & Transmission,Max Torque,330Nm@1500-3000rpm
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Engine & Transmission,No. of Cylinders,4
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Engine & Transmission,Valves Per Cylinder,4
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Engine & Transmission,Turbo Charger,YES
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Engine & Transmission,Transmission Type,Manual
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Engine & Transmission,Gearbox,6-Speed
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Engine & Transmission,Drive Type,4WD
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Fuel & Performance,Fuel Type,Diesel
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Fuel & Performance,Diesel Fuel Tank Capacity,55 Litres
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,"Suspension, Steering & Brakes",Front Suspension,Double wishbone suspension
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,"Suspension, Steering & Brakes",Rear Suspension,"Multi-link, Solid Axle"
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,"Suspension, Steering & Brakes",Steering Type,Electric
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,"Suspension, Steering & Brakes",Steering Column,Tilt
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,"Suspension, Steering & Brakes",Steering Gear Type,Rack & Pinion
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Dimensions & Capacity,Length,3995 mm
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Dimensions & Capacity,Width,1870 mm
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Dimensions & Capacity,Height,1855 mm
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Dimensions & Capacity,Seating Capacity,4
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Dimensions & Capacity,Ground Clearance Unladen,232 mm
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Dimensions & Capacity,Wheel Base,2450 mm
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Dimensions & Capacity,Approach Angle,40 °
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Dimensions & Capacity,Break-over Angle,26.4 °
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Dimensions & Capacity,Departure Angle,36 °
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Comfort & Convenience,Boot Opening,Manual
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Comfort & Convenience,Power Steering,YES
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Comfort & Convenience,Air Conditioner,YES
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Comfort & Convenience,Heater,YES
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Comfort & Convenience,Accessory Power Outlet,YES
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Comfort & Convenience,Adjustable Headrest,YES
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Comfort & Convenience,Rear AC Vents,YES
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Comfort & Convenience,Cruise Control,YES
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Comfort & Convenience,Parking Sensors,Front & Rear
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Comfort & Convenience,Foldable Rear Seat,50:50 Split
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Comfort & Convenience,KeyLess Entry,YES
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Comfort & Convenience,Voice Commands,YES
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Comfort & Convenience,Follow Me Home Headlamps,YES
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Comfort & Convenience,Additional Features,Electronic Locking Differential
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Comfort & Convenience,Power Windows,Front Only
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Interior,Glove Box,YES
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Interior,Digital Cluster,Analog with MID
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Interior,Upholstery,Leatherette
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Exterior,Rear Window Wiper,YES
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Exterior,Rear Window Washer,YES
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Exterior,Rear Window Defogger,YES
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Exterior,Alloy Wheels,YES
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Exterior,Side Stepper,YES
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Exterior,Fog Lights,Front
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Exterior,Antenna,Fender-mounted
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Exterior,Outside Rear View Mirror (ORVM),Powered
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Exterior,Tyre Size,255/60 R19
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Exterior,Tyre Type,Tubeless All-Terrain
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Exterior,Wheel Size,19 Inch
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Exterior,LED DRLs,YES
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Exterior,LED Headlamps,YES
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Exterior,LED Taillights,YES
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Safety,Anti-lock Braking System (ABS),YES
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Safety,Brake Assist,YES
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Safety,Central Locking,YES
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Safety,Child Safety Locks,YES
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Safety,No. of Airbags,6
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Safety,Day & Night Rear View Mirror,YES
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Safety,Electronic Brakeforce Distribution (EBD),YES
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Safety,Electronic Stability Control (ESC),YES
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Safety,Rear Camera,With Guidedlines
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Safety,ISOFIX Child Seat Mounts,YES
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Safety,Hill Descent Control,YES
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Safety,Hill Assist,YES
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Safety,Safety Airbags,"Driver & Passenger, Front Side, Rear Side"
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Entertainment & Communication,Radio,YES
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Entertainment & Communication,Bluetooth Connectivity,YES
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Entertainment & Communication,Touchscreen,YES
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Entertainment & Communication,Touchscreen Size,10.25 inch
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Entertainment & Communication,Android Auto,Wireless
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Entertainment & Communication,Apple CarPlay,Wired
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Entertainment & Communication,No. of Speakers,4
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Entertainment & Communication,Usb Ports,YES
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Entertainment & Communication,Tweeters,2
+Mahindra,Thar OG,Thar 2.2L ZXT 4WD Diesel,Entertainment & Communication,Speakers,Front & Rear

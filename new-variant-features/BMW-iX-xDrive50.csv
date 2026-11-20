@@ -1,0 +1,142 @@
+company,model,variant,category,feature_name,feature_details
+BMW,iX,xDrive50,Engine & Transmission,Battery Capacity,111.5 kWh
+BMW,iX,xDrive50,Engine & Transmission,Motor Power,240
+BMW,iX,xDrive50,Engine & Transmission,Motor Type,synchronous motor
+BMW,iX,xDrive50,Engine & Transmission,Max Power,516.29bhp
+BMW,iX,xDrive50,Engine & Transmission,Max Torque,765Nm
+BMW,iX,xDrive50,Engine & Transmission,Range,575 km
+BMW,iX,xDrive50,Engine & Transmission,Battery Type,Lithium-ion
+BMW,iX,xDrive50,Engine & Transmission,Charging Time (A.C),5.5H- 22kW(100%)
+BMW,iX,xDrive50,Engine & Transmission,Charging Time (D.C),35 min-195kW(10%-80%)
+BMW,iX,xDrive50,Engine & Transmission,Regenerative Braking,YES
+BMW,iX,xDrive50,Engine & Transmission,Charging Port,CCS-II
+BMW,iX,xDrive50,Engine & Transmission,Transmission Type,Automatic
+BMW,iX,xDrive50,Engine & Transmission,Drive Type,AWD
+BMW,iX,xDrive50,Fuel & Performance,Fuel Type,Electric
+BMW,iX,xDrive50,Fuel & Performance,Emission Norm Compliance,ZEV
+BMW,iX,xDrive50,Fuel & Performance,Top Speed,200 kmph
+BMW,iX,xDrive50,Fuel & Performance,Drag Coefficient,0.25
+BMW,iX,xDrive50,Fuel & Performance,Acceleration 0-100kmph,6.1 s
+BMW,iX,xDrive50,Charging,Charging Time,35 min-195kW(10%-80%)
+BMW,iX,xDrive50,Charging,Fast Charging,YES
+BMW,iX,xDrive50,"Suspension, Steering & Brakes",Front Suspension,Air suspension
+BMW,iX,xDrive50,"Suspension, Steering & Brakes",Rear Suspension,Air suspension
+BMW,iX,xDrive50,"Suspension, Steering & Brakes",Steering Type,electric
+BMW,iX,xDrive50,"Suspension, Steering & Brakes",Steering Column,Adjustable
+BMW,iX,xDrive50,"Suspension, Steering & Brakes",Steering Gear Type,Rack & Pinion
+BMW,iX,xDrive50,"Suspension, Steering & Brakes",Front Brake Type,ventilated disc
+BMW,iX,xDrive50,"Suspension, Steering & Brakes",Rear Brake Type,ventilated disc
+BMW,iX,xDrive50,Dimensions & Capacity,Length,4953 mm
+BMW,iX,xDrive50,Dimensions & Capacity,Width,2230 mm
+BMW,iX,xDrive50,Dimensions & Capacity,Height,1695 mm
+BMW,iX,xDrive50,Dimensions & Capacity,Boot Space,500 Litres
+BMW,iX,xDrive50,Dimensions & Capacity,Seating Capacity,5
+BMW,iX,xDrive50,Dimensions & Capacity,Wheel Base,3014 mm
+BMW,iX,xDrive50,Dimensions & Capacity,Front Tread,1395 mm
+BMW,iX,xDrive50,Dimensions & Capacity,Kerb Weight,2285 kg
+BMW,iX,xDrive50,Dimensions & Capacity,Reported Ground Clearance (Unladen),202 mm
+BMW,iX,xDrive50,Comfort & Convenience,Power Steering,YES
+BMW,iX,xDrive50,Comfort & Convenience,Power Boot,YES
+BMW,iX,xDrive50,Comfort & Convenience,Air Conditioner,YES
+BMW,iX,xDrive50,Comfort & Convenience,Heater,YES
+BMW,iX,xDrive50,Comfort & Convenience,Adjustable Steering,YES
+BMW,iX,xDrive50,Comfort & Convenience,Height Adjustable Driver Seat,YES
+BMW,iX,xDrive50,Comfort & Convenience,Electric Adjustable Seats,Front
+BMW,iX,xDrive50,Comfort & Convenience,Automatic Climate Control,YES
+BMW,iX,xDrive50,Comfort & Convenience,Air Quality Control,YES
+BMW,iX,xDrive50,Comfort & Convenience,Accessory Power Outlet,YES
+BMW,iX,xDrive50,Comfort & Convenience,Rear Seat Headrest,YES
+BMW,iX,xDrive50,Comfort & Convenience,Adjustable Headrest,YES
+BMW,iX,xDrive50,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+BMW,iX,xDrive50,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+BMW,iX,xDrive50,Comfort & Convenience,Rear AC Vents,YES
+BMW,iX,xDrive50,Comfort & Convenience,Lumbar Support,YES
+BMW,iX,xDrive50,Comfort & Convenience,Cruise Control,YES
+BMW,iX,xDrive50,Comfort & Convenience,Parking Sensors,Front & Rear
+BMW,iX,xDrive50,Comfort & Convenience,Navigation System,YES
+BMW,iX,xDrive50,Comfort & Convenience,Real-Time Vehicle Tracking,YES
+BMW,iX,xDrive50,Comfort & Convenience,Foldable Rear Seat,40:20:40 Split
+BMW,iX,xDrive50,Comfort & Convenience,Smart Key Band,YES
+BMW,iX,xDrive50,Comfort & Convenience,KeyLess Entry,YES
+BMW,iX,xDrive50,Comfort & Convenience,Engine Start/Stop Button,YES
+BMW,iX,xDrive50,Comfort & Convenience,Voice Commands,YES
+BMW,iX,xDrive50,Comfort & Convenience,USB Charger,Front & Rear
+BMW,iX,xDrive50,Comfort & Convenience,Central Console Armrest,YES
+BMW,iX,xDrive50,Comfort & Convenience,Gear Shift Indicator,NO
+BMW,iX,xDrive50,Comfort & Convenience,Drive Modes,3
+BMW,iX,xDrive50,Comfort & Convenience,Follow Me Home Headlamps,YES
+BMW,iX,xDrive50,Interior,Electronic Multi-Tripmeter,YES
+BMW,iX,xDrive50,Interior,Leather Seats,YES
+BMW,iX,xDrive50,Interior,Leather Wrapped Steering Wheel,YES
+BMW,iX,xDrive50,Interior,Leather wrap gear-shift selector,YES
+BMW,iX,xDrive50,Interior,Glove Box,YES
+BMW,iX,xDrive50,Interior,Digital Clock,YES
+BMW,iX,xDrive50,Interior,Outside Temperature Display,YES
+BMW,iX,xDrive50,Interior,Driving Experience Control Eco,YES
+BMW,iX,xDrive50,Interior,Additional Features,"Steering column adjustment (Length & Height), 2-spoke design polygonal shape steering wheel, Ambient Interior Lighting extended with mood lights, Frameless Interior mirror with automatic anti-dazzle function, BMW Iconic Sounds, for interior and exterior, controlled by Driving Experience Switch modes: - Personal: Balanced acoustic comfort - Sport: Pronounced load feedback - Efficient: High acoustic comfort,"
+BMW,iX,xDrive50,Exterior,Adjustable Headlamps,YES
+BMW,iX,xDrive50,Exterior,Fog Lights - Front,NO
+BMW,iX,xDrive50,Exterior,Headlamp Washers,YES
+BMW,iX,xDrive50,Exterior,Rain Sensing Wiper,YES
+BMW,iX,xDrive50,Exterior,Rear Window Wiper,YES
+BMW,iX,xDrive50,Exterior,Rear Window Washer,YES
+BMW,iX,xDrive50,Exterior,Rear Window Defogger,YES
+BMW,iX,xDrive50,Exterior,Alloy Wheels,YES
+BMW,iX,xDrive50,Exterior,Power Antenna,NO
+BMW,iX,xDrive50,Exterior,Rear Spoiler,YES
+BMW,iX,xDrive50,Exterior,Outside Rear View Mirror Turn Indicators,YES
+BMW,iX,xDrive50,Exterior,Dual Tone Body Colour,YES
+BMW,iX,xDrive50,Exterior,Roof Rails,YES
+BMW,iX,xDrive50,Exterior,Trunk Opener,Smart
+BMW,iX,xDrive50,Exterior,Heated Wing Mirror,YES
+BMW,iX,xDrive50,Exterior,Sun Roof,YES
+BMW,iX,xDrive50,Exterior,Tyre Size,255/50 R21(FandR)
+BMW,iX,xDrive50,Exterior,Tyre Type,"Tubeless,Radial"
+BMW,iX,xDrive50,Exterior,LED DRLs,YES
+BMW,iX,xDrive50,Exterior,LED Headlamps,YES
+BMW,iX,xDrive50,Exterior,LED Taillights,YES
+BMW,iX,xDrive50,Exterior,LED Fog Lamps,YES
+BMW,iX,xDrive50,Exterior,Additional Features,"BMW Wallbox with integrated cable management and LED bars to indicate charging status (Max output -11 kW/3-phase), Charging flap - In rear right side panel with LED for charging status, Automatic operation of tailgate, LED headlights:- (Low-beam and high-beam headlights (LED technology) (Licence plate illumination (LED technology) (Automatic beam-throw control) High-beam assistant, Daytime driving lights (LED technology), LED rear lights, Welcome Light Carpet, Follow-me-home function, Comfort access system, incl:- (Keyless access to the vehicle) (Welcome light setting when approaching the vehicle) (Automatic unlocking when approaching the vehicle) (Automatic locking when moving away from the vehicle) Exterior mirrors foldable with automatic anti-dazzle function on driver side, mirror heating, automatic parking function, Intelligence panel in the BMW kidney grille, Thermally insulated windscreen, Power socket (12 V):- (1x in the centre console, front: illuminated, with bimetallic spring) (1x in the luggage compartment: with cover flap), Rain sensor and automatic driving lights, Soft-Close function for side doors, Door handles flush with the door surface, Windscreen wipers with integrated washing nozzles, Rear-view camera with cleaning system integrated into the BMW badge, BMW Headliner anthracite,"
+BMW,iX,xDrive50,Safety,Anti-lock Braking System (ABS),YES
+BMW,iX,xDrive50,Safety,Brake Assist,YES
+BMW,iX,xDrive50,Safety,Central Locking,YES
+BMW,iX,xDrive50,Safety,Child Safety Locks,YES
+BMW,iX,xDrive50,Safety,Anti-Theft Alarm,YES
+BMW,iX,xDrive50,Safety,No. of Airbags,8
+BMW,iX,xDrive50,Safety,Driver Airbag,YES
+BMW,iX,xDrive50,Safety,Passenger Airbag,YES
+BMW,iX,xDrive50,Safety,Side Airbag,YES
+BMW,iX,xDrive50,Safety,Side Airbag-Rear,YES
+BMW,iX,xDrive50,Safety,Day & Night Rear View Mirror,YES
+BMW,iX,xDrive50,Safety,Electronic Brakeforce Distribution (EBD),YES
+BMW,iX,xDrive50,Safety,Traction Control,YES
+BMW,iX,xDrive50,Safety,Tyre Pressure Monitoring System (TPMS),YES
+BMW,iX,xDrive50,Safety,Engine Immobilizer,YES
+BMW,iX,xDrive50,Safety,Electronic Stability Control (ESC),YES
+BMW,iX,xDrive50,Safety,Rear Camera,Without Guidedlines
+BMW,iX,xDrive50,Safety,Anti-Theft Device,YES
+BMW,iX,xDrive50,Safety,ISOFIX Child Seat Mounts,YES
+BMW,iX,xDrive50,Safety,Heads-Up Display (HUD),YES
+BMW,iX,xDrive50,Safety,360 View Camera,YES
+BMW,iX,xDrive50,Safety,Global NCAP Safety Rating,5 Star
+BMW,iX,xDrive50,Entertainment & Communication,Radio,YES
+BMW,iX,xDrive50,Entertainment & Communication,Wireless Phone Charging,YES
+BMW,iX,xDrive50,Entertainment & Communication,Bluetooth Connectivity,YES
+BMW,iX,xDrive50,Entertainment & Communication,Wi-Fi Connectivity,NO
+BMW,iX,xDrive50,Entertainment & Communication,Touchscreen,YES
+BMW,iX,xDrive50,Entertainment & Communication,Touchscreen Size,14.9 Inch
+BMW,iX,xDrive50,Entertainment & Communication,Android Auto,YES
+BMW,iX,xDrive50,Entertainment & Communication,Apple CarPlay,YES
+BMW,iX,xDrive50,Entertainment & Communication,No. of Speakers,18
+BMW,iX,xDrive50,Entertainment & Communication,Rear Entertainment System,YES
+BMW,iX,xDrive50,Entertainment & Communication,Usb Ports,YES
+BMW,iX,xDrive50,Entertainment & Communication,Additional Features,"BMW Virtual Assistant,10.9-inch central display, 10.9-inch front passenger display including Cockpit tile,BMW Live Cockpit Professional,"
+BMW,iX,xDrive50,Entertainment & Communication,Speakers,Front & Rear
+BMW,iX,xDrive50,ADAS Feature,Traffic Sign Recognition,YES
+BMW,iX,xDrive50,ADAS Feature,Lane Departure Warning,YES
+BMW,iX,xDrive50,ADAS Feature,Lane Keep Assist,YES
+BMW,iX,xDrive50,ADAS Feature,Lane Departure Prevention Assist,YES
+BMW,iX,xDrive50,ADAS Feature,Blind Spot Monitor,YES
+BMW,iX,xDrive50,Advance Internet Feature,E-Call & I-Call,NO
+BMW,iX,xDrive50,Advance Internet Feature,SOS / Emergency Assistance,YES
+BMW,iX,xDrive50,Advance Internet Feature,Geo-fence Alert,YES

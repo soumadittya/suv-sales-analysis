@@ -1,0 +1,105 @@
+company,model,variant,category,feature_name,feature_details
+Isuzu,MU-X,4x4 AT,Engine & Transmission,Engine Type,1.9L Ddi Diesel
+Isuzu,MU-X,4x4 AT,Engine & Transmission,Displacement,1898 cc
+Isuzu,MU-X,4x4 AT,Engine & Transmission,Max Power,160.92bhp@3600rpm
+Isuzu,MU-X,4x4 AT,Engine & Transmission,Max Torque,360Nm@2000-2500rpm
+Isuzu,MU-X,4x4 AT,Engine & Transmission,No. of Cylinders,4
+Isuzu,MU-X,4x4 AT,Engine & Transmission,Valves Per Cylinder,4
+Isuzu,MU-X,4x4 AT,Engine & Transmission,Valve Configuration,DOHC
+Isuzu,MU-X,4x4 AT,Engine & Transmission,Turbo Charger,YES
+Isuzu,MU-X,4x4 AT,Engine & Transmission,Transmission Type,Automatic
+Isuzu,MU-X,4x4 AT,Engine & Transmission,Gearbox,6-Speed AT
+Isuzu,MU-X,4x4 AT,Engine & Transmission,Drive Type,4WD
+Isuzu,MU-X,4x4 AT,Fuel & Performance,Fuel Type,Diesel
+Isuzu,MU-X,4x4 AT,Fuel & Performance,Diesel Mileage ARAI,12.31 kmpl
+Isuzu,MU-X,4x4 AT,Fuel & Performance,Diesel Fuel Tank Capacity,55 Litres
+Isuzu,MU-X,4x4 AT,Fuel & Performance,Diesel Highway Mileage,14 kmpl
+Isuzu,MU-X,4x4 AT,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Isuzu,MU-X,4x4 AT,"Suspension, Steering & Brakes",Front Suspension,Double wishbone suspension
+Isuzu,MU-X,4x4 AT,"Suspension, Steering & Brakes",Rear Suspension,Multi-link suspension
+Isuzu,MU-X,4x4 AT,"Suspension, Steering & Brakes",Shock Absorbers Type,Gas Filled
+Isuzu,MU-X,4x4 AT,"Suspension, Steering & Brakes",Steering Type,Electric
+Isuzu,MU-X,4x4 AT,"Suspension, Steering & Brakes",Steering Column,Tilt
+Isuzu,MU-X,4x4 AT,"Suspension, Steering & Brakes",Turning Radius,5.8 m
+Isuzu,MU-X,4x4 AT,"Suspension, Steering & Brakes",Front Brake Type,Ventilated Disc
+Isuzu,MU-X,4x4 AT,"Suspension, Steering & Brakes",Rear Brake Type,Ventilated Disc
+Isuzu,MU-X,4x4 AT,Dimensions & Capacity,Length,4825 mm
+Isuzu,MU-X,4x4 AT,Dimensions & Capacity,Width,1860 mm
+Isuzu,MU-X,4x4 AT,Dimensions & Capacity,Height,1860 mm
+Isuzu,MU-X,4x4 AT,Dimensions & Capacity,Boot Space,878 Litres
+Isuzu,MU-X,4x4 AT,Dimensions & Capacity,Seating Capacity,7
+Isuzu,MU-X,4x4 AT,Dimensions & Capacity,Ground Clearance Unladen,230 mm
+Isuzu,MU-X,4x4 AT,Dimensions & Capacity,Wheel Base,2845 mm
+Isuzu,MU-X,4x4 AT,Dimensions & Capacity,Rear Tread,1570 mm
+Isuzu,MU-X,4x4 AT,Comfort & Convenience,Boot Opening,Manual
+Isuzu,MU-X,4x4 AT,Comfort & Convenience,Power Steering,YES
+Isuzu,MU-X,4x4 AT,Comfort & Convenience,Air Conditioner,YES
+Isuzu,MU-X,4x4 AT,Comfort & Convenience,Heater,YES
+Isuzu,MU-X,4x4 AT,Comfort & Convenience,Adjustable Steering,YES
+Isuzu,MU-X,4x4 AT,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Isuzu,MU-X,4x4 AT,Comfort & Convenience,Electric Adjustable Seats,Front
+Isuzu,MU-X,4x4 AT,Comfort & Convenience,Automatic Climate Control,YES
+Isuzu,MU-X,4x4 AT,Comfort & Convenience,Air Quality Control,YES
+Isuzu,MU-X,4x4 AT,Comfort & Convenience,Accessory Power Outlet,YES
+Isuzu,MU-X,4x4 AT,Comfort & Convenience,Rear Seat Headrest,YES
+Isuzu,MU-X,4x4 AT,Comfort & Convenience,Adjustable Headrest,YES
+Isuzu,MU-X,4x4 AT,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Isuzu,MU-X,4x4 AT,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Isuzu,MU-X,4x4 AT,Comfort & Convenience,Rear AC Vents,YES
+Isuzu,MU-X,4x4 AT,Comfort & Convenience,Cruise Control,YES
+Isuzu,MU-X,4x4 AT,Comfort & Convenience,Parking Sensors,Rear
+Isuzu,MU-X,4x4 AT,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Isuzu,MU-X,4x4 AT,Comfort & Convenience,KeyLess Entry,YES
+Isuzu,MU-X,4x4 AT,Comfort & Convenience,Engine Start/Stop Button,YES
+Isuzu,MU-X,4x4 AT,Comfort & Convenience,USB Charger,Front & Rear
+Isuzu,MU-X,4x4 AT,Comfort & Convenience,Central Console Armrest,With Storage
+Isuzu,MU-X,4x4 AT,Comfort & Convenience,Glove Box light,YES
+Isuzu,MU-X,4x4 AT,Comfort & Convenience,Idle Start-Stop System,YES
+Isuzu,MU-X,4x4 AT,Comfort & Convenience,Additional Features,"Cabin cooling vents for all 3 rows of seats,Separate blower control for rear seats"
+Isuzu,MU-X,4x4 AT,Interior,Leather Wrapped Steering Wheel,YES
+Isuzu,MU-X,4x4 AT,Interior,Glove Box,YES
+Isuzu,MU-X,4x4 AT,Interior,Additional Features,"Twin-cockpit ergonomic interior design,Sporty lava black interior with silver highlights,Luxurious quilted soft leather seats,Soft pad on all side door armrests, door trims,Premium finish dashboard with soft-touch panels,Piano black finish on gear shift bezel,Chrome finish on side doors inner levers,gear shift bezel,air vent knobs,Bright silver finish on shift-on-the-fly 4x4 knob,auto AC console & IP center console,Premium Barleycorn Guilloche finish on door inserts,Front anatomically designed bucket seats,6 -way power adjustable driver seat,One-touch fold & tumble 2nd row seats,50:50 split-fold 3rd row seats,One-touch fold 3rd row seats,Flat-fold 2nd & 3rd row seats,Upper utility box on IP,3 Power outlets- IP centre console, upper utility box & rear cargo area,3 USB ports- IP centre console, entertainment system & 2nd row floor console,Dual-purpose driver and front passenger cup holder tray,IP with two retractable cup holders-cum-utility boxes,Overhead console with twin map lights & flip-down sunglasses holder,Front floor console with two cup holders,3rd row trims with cup holders,3rd row floor console with cubby hole,Coat hooks on 2nd row assist grips,Cargo net hooks in cargo area,Cargo net hooks in cargo area,3D Electro-luminescent meters with Multi - Information 3D Electro-luminescent Display (MID) & meters chrome with ring Mul,Sun visors with vanity mirror (co-driver side) and ticket retaining strap (driver side) fixed,A-pillar assist-grips for 1st rowRoof mounted retractable door assist-grips for 1st & 2nd rows,Fixed C-pillar assist-grips for 3rd row"
+Isuzu,MU-X,4x4 AT,Interior,Digital Cluster,YES
+Isuzu,MU-X,4x4 AT,Interior,Upholstery,Leather
+Isuzu,MU-X,4x4 AT,Exterior,Adjustable Headlamps,YES
+Isuzu,MU-X,4x4 AT,Exterior,Rear Window Wiper,YES
+Isuzu,MU-X,4x4 AT,Exterior,Rear Window Defogger,YES
+Isuzu,MU-X,4x4 AT,Exterior,Alloy Wheels,YES
+Isuzu,MU-X,4x4 AT,Exterior,Rear Spoiler,YES
+Isuzu,MU-X,4x4 AT,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Isuzu,MU-X,4x4 AT,Exterior,Projector Headlamps,YES
+Isuzu,MU-X,4x4 AT,Exterior,Roof Rails,YES
+Isuzu,MU-X,4x4 AT,Exterior,Fog Lights,Front
+Isuzu,MU-X,4x4 AT,Exterior,Antenna,Shark Fin
+Isuzu,MU-X,4x4 AT,Exterior,Tyre Size,255/60 R18
+Isuzu,MU-X,4x4 AT,Exterior,Tyre Type,"Tubeless, Radial"
+Isuzu,MU-X,4x4 AT,Exterior,LED DRLs,YES
+Isuzu,MU-X,4x4 AT,Exterior,LED Taillights,YES
+Isuzu,MU-X,4x4 AT,Exterior,Additional Features,"Centre high mount LED stop lamp,Under-front steel plate skid/splash shield,Steel plate sump guards,Steel plate transfer protector,Steel plate on leading edge of fuel tank,Fuel tank fire protector,Eagle-inspired sharp & muscular exterior design,Bi-LED projector headlamps with auto-levelling,LED rear position lamps,Sharp & sleek headlamp & taillamp design,Recessed front fog lamps with chrome garnish,LED Day-time Running Lights (DRL) & light guide integrated in headlamps,Two-tone metallic grey-body coloured front & rear bumpers,Double slat chrome radiator grille,Chrome door handles,Chrome tailgate garnish,Chrome fold-in power door mirrors with integrated turn indicators,Aluminium side steps,Shark-fin antenna with gun-metal finish,Wrap-around rear glass - quarter glass & rear windshield,Roof rails (max. load capacity 60 kg),Dual-tone rear spoiler,Windscreen wipers with variable intermittent sweep modes"
+Isuzu,MU-X,4x4 AT,Safety,Anti-lock Braking System (ABS),YES
+Isuzu,MU-X,4x4 AT,Safety,Brake Assist,YES
+Isuzu,MU-X,4x4 AT,Safety,Central Locking,YES
+Isuzu,MU-X,4x4 AT,Safety,Child Safety Locks,YES
+Isuzu,MU-X,4x4 AT,Safety,Anti-Theft Alarm,YES
+Isuzu,MU-X,4x4 AT,Safety,No. of Airbags,6
+Isuzu,MU-X,4x4 AT,Safety,Driver Airbag,YES
+Isuzu,MU-X,4x4 AT,Safety,Passenger Airbag,YES
+Isuzu,MU-X,4x4 AT,Safety,Side Airbag,YES
+Isuzu,MU-X,4x4 AT,Safety,Day & Night Rear View Mirror,YES
+Isuzu,MU-X,4x4 AT,Safety,Electronic Brakeforce Distribution (EBD),YES
+Isuzu,MU-X,4x4 AT,Safety,Traction Control,YES
+Isuzu,MU-X,4x4 AT,Safety,Engine Immobilizer,YES
+Isuzu,MU-X,4x4 AT,Safety,Electronic Stability Control (ESC),YES
+Isuzu,MU-X,4x4 AT,Safety,Rear Camera,With Guidedlines
+Isuzu,MU-X,4x4 AT,Safety,ISOFIX Child Seat Mounts,YES
+Isuzu,MU-X,4x4 AT,Safety,Hill Descent Control,YES
+Isuzu,MU-X,4x4 AT,Safety,Hill Assist,YES
+Isuzu,MU-X,4x4 AT,Entertainment & Communication,Radio,YES
+Isuzu,MU-X,4x4 AT,Entertainment & Communication,Bluetooth Connectivity,YES
+Isuzu,MU-X,4x4 AT,Entertainment & Communication,Touchscreen,YES
+Isuzu,MU-X,4x4 AT,Entertainment & Communication,Touchscreen Size,9 Inch
+Isuzu,MU-X,4x4 AT,Entertainment & Communication,Android Auto,YES
+Isuzu,MU-X,4x4 AT,Entertainment & Communication,Apple CarPlay,YES
+Isuzu,MU-X,4x4 AT,Entertainment & Communication,No. of Speakers,8
+Isuzu,MU-X,4x4 AT,Entertainment & Communication,Usb Ports,YES
+Isuzu,MU-X,4x4 AT,Entertainment & Communication,Speakers,Front & Rear

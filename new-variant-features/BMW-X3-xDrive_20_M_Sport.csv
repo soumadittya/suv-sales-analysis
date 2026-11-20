@@ -1,0 +1,116 @@
+company,model,variant,category,feature_name,feature_details
+BMW,X3,xDrive 20 M Sport,Engine & Transmission,Engine Type,2-litre turbo-petrol
+BMW,X3,xDrive 20 M Sport,Engine & Transmission,Displacement,1998 cc
+BMW,X3,xDrive 20 M Sport,Engine & Transmission,Max Power,187bhp@5000rpm
+BMW,X3,xDrive 20 M Sport,Engine & Transmission,Max Torque,310Nm@1500-4000rpm
+BMW,X3,xDrive 20 M Sport,Engine & Transmission,No. of Cylinders,4
+BMW,X3,xDrive 20 M Sport,Engine & Transmission,Valves Per Cylinder,4
+BMW,X3,xDrive 20 M Sport,Engine & Transmission,Turbo Charger,YES
+BMW,X3,xDrive 20 M Sport,Engine & Transmission,Transmission Type,Automatic
+BMW,X3,xDrive 20 M Sport,Engine & Transmission,Gearbox,8-Speed
+BMW,X3,xDrive 20 M Sport,Engine & Transmission,Drive Type,AWD
+BMW,X3,xDrive 20 M Sport,Fuel & Performance,Fuel Type,Petrol
+BMW,X3,xDrive 20 M Sport,Fuel & Performance,Petrol Mileage ARAI,13.38 kmpl
+BMW,X3,xDrive 20 M Sport,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+BMW,X3,xDrive 20 M Sport,Fuel & Performance,Acceleration,7.8 s
+BMW,X3,xDrive 20 M Sport,Fuel & Performance,0-100kmph,7.8 s
+BMW,X3,xDrive 20 M Sport,"Suspension, Steering & Brakes",Front Suspension,Air suspension
+BMW,X3,xDrive 20 M Sport,"Suspension, Steering & Brakes",Rear Suspension,Air suspension
+BMW,X3,xDrive 20 M Sport,"Suspension, Steering & Brakes",Steering Type,Electric
+BMW,X3,xDrive 20 M Sport,"Suspension, Steering & Brakes",Front Brake Type,Disc
+BMW,X3,xDrive 20 M Sport,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+BMW,X3,xDrive 20 M Sport,Dimensions & Capacity,Length,4755 mm
+BMW,X3,xDrive 20 M Sport,Dimensions & Capacity,Seating Capacity,5
+BMW,X3,xDrive 20 M Sport,Dimensions & Capacity,Reported Ground Clearance (Unladen),204 mm
+BMW,X3,xDrive 20 M Sport,Comfort & Convenience,Boot Opening,Hands-Free
+BMW,X3,xDrive 20 M Sport,Comfort & Convenience,Power Steering,YES
+BMW,X3,xDrive 20 M Sport,Comfort & Convenience,Air Conditioner,YES
+BMW,X3,xDrive 20 M Sport,Comfort & Convenience,Heater,YES
+BMW,X3,xDrive 20 M Sport,Comfort & Convenience,Adjustable Steering,Height & Reach
+BMW,X3,xDrive 20 M Sport,Comfort & Convenience,Height Adjustable Driver Seat,YES
+BMW,X3,xDrive 20 M Sport,Comfort & Convenience,Ventilated Seats,YES
+BMW,X3,xDrive 20 M Sport,Comfort & Convenience,Electric Adjustable Seats,Front
+BMW,X3,xDrive 20 M Sport,Comfort & Convenience,Automatic Climate Control,YES
+BMW,X3,xDrive 20 M Sport,Comfort & Convenience,Air Quality Control,YES
+BMW,X3,xDrive 20 M Sport,Comfort & Convenience,Accessory Power Outlet,YES
+BMW,X3,xDrive 20 M Sport,Comfort & Convenience,Rear Seat Headrest,Adjustable
+BMW,X3,xDrive 20 M Sport,Comfort & Convenience,Adjustable Headrest,YES
+BMW,X3,xDrive 20 M Sport,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+BMW,X3,xDrive 20 M Sport,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+BMW,X3,xDrive 20 M Sport,Comfort & Convenience,Rear AC Vents,YES
+BMW,X3,xDrive 20 M Sport,Comfort & Convenience,Lumbar Support,YES
+BMW,X3,xDrive 20 M Sport,Comfort & Convenience,Cruise Control,YES
+BMW,X3,xDrive 20 M Sport,Comfort & Convenience,Parking Sensors,Rear
+BMW,X3,xDrive 20 M Sport,Comfort & Convenience,Real-Time Vehicle Tracking,YES
+BMW,X3,xDrive 20 M Sport,Comfort & Convenience,Foldable Rear Seat,40:20:40 Split
+BMW,X3,xDrive 20 M Sport,Comfort & Convenience,KeyLess Entry,YES
+BMW,X3,xDrive 20 M Sport,Comfort & Convenience,Engine Start/Stop Button,YES
+BMW,X3,xDrive 20 M Sport,Comfort & Convenience,Paddle Shifters,YES
+BMW,X3,xDrive 20 M Sport,Comfort & Convenience,USB Charger,Front & Rear
+BMW,X3,xDrive 20 M Sport,Comfort & Convenience,Central Console Armrest,YES
+BMW,X3,xDrive 20 M Sport,Comfort & Convenience,Idle Start-Stop System,YES
+BMW,X3,xDrive 20 M Sport,Comfort & Convenience,Follow Me Home Headlamps,YES
+BMW,X3,xDrive 20 M Sport,Comfort & Convenience,Voice assisted sunroof,YES
+BMW,X3,xDrive 20 M Sport,Comfort & Convenience,Power Windows,Front & Rear
+BMW,X3,xDrive 20 M Sport,Comfort & Convenience,Cup Holders,Front & Rear
+BMW,X3,xDrive 20 M Sport,Interior,Glove Box,YES
+BMW,X3,xDrive 20 M Sport,Interior,Digital Cluster,YES
+BMW,X3,xDrive 20 M Sport,Interior,Digital Cluster Size,12.3
+BMW,X3,xDrive 20 M Sport,Exterior,Adjustable Headlamps,YES
+BMW,X3,xDrive 20 M Sport,Exterior,Rain Sensing Wiper,YES
+BMW,X3,xDrive 20 M Sport,Exterior,Rear Window Defogger,YES
+BMW,X3,xDrive 20 M Sport,Exterior,Alloy Wheels,YES
+BMW,X3,xDrive 20 M Sport,Exterior,Rear Spoiler,YES
+BMW,X3,xDrive 20 M Sport,Exterior,Outside Rear View Mirror Turn Indicators,YES
+BMW,X3,xDrive 20 M Sport,Exterior,Automatic Headlamps,YES
+BMW,X3,xDrive 20 M Sport,Exterior,Antenna,Shark Fin
+BMW,X3,xDrive 20 M Sport,Exterior,Sunroof,Panoramic
+BMW,X3,xDrive 20 M Sport,Exterior,Puddle Lamps,YES
+BMW,X3,xDrive 20 M Sport,Exterior,Outside Rear View Mirror (ORVM),Powered
+BMW,X3,xDrive 20 M Sport,Exterior,Tyre Size,245/50 R19
+BMW,X3,xDrive 20 M Sport,Exterior,LED DRLs,YES
+BMW,X3,xDrive 20 M Sport,Exterior,LED Headlamps,YES
+BMW,X3,xDrive 20 M Sport,Exterior,LED Taillights,YES
+BMW,X3,xDrive 20 M Sport,Safety,Anti-lock Braking System (ABS),YES
+BMW,X3,xDrive 20 M Sport,Safety,Brake Assist,YES
+BMW,X3,xDrive 20 M Sport,Safety,Central Locking,YES
+BMW,X3,xDrive 20 M Sport,Safety,Child Safety Locks,YES
+BMW,X3,xDrive 20 M Sport,Safety,No. of Airbags,6
+BMW,X3,xDrive 20 M Sport,Safety,Driver Airbag,YES
+BMW,X3,xDrive 20 M Sport,Safety,Passenger Airbag,YES
+BMW,X3,xDrive 20 M Sport,Safety,Side Airbag,YES
+BMW,X3,xDrive 20 M Sport,Safety,Day & Night Rear View Mirror,YES
+BMW,X3,xDrive 20 M Sport,Safety,Electronic Brakeforce Distribution (EBD),YES
+BMW,X3,xDrive 20 M Sport,Safety,Traction Control,YES
+BMW,X3,xDrive 20 M Sport,Safety,Tyre Pressure Monitoring System (TPMS),YES
+BMW,X3,xDrive 20 M Sport,Safety,Engine Immobilizer,YES
+BMW,X3,xDrive 20 M Sport,Safety,Electronic Stability Control (ESC),YES
+BMW,X3,xDrive 20 M Sport,Safety,Rear Camera,With Guidedlines
+BMW,X3,xDrive 20 M Sport,Safety,Anti-Pinch Power Windows,Driver's Window
+BMW,X3,xDrive 20 M Sport,Safety,ISOFIX Child Seat Mounts,YES
+BMW,X3,xDrive 20 M Sport,Safety,Heads-Up Display (HUD),YES
+BMW,X3,xDrive 20 M Sport,Safety,Hill Descent Control,YES
+BMW,X3,xDrive 20 M Sport,Safety,Hill Assist,YES
+BMW,X3,xDrive 20 M Sport,Safety,360 View Camera,YES
+BMW,X3,xDrive 20 M Sport,Entertainment & Communication,Radio,YES
+BMW,X3,xDrive 20 M Sport,Entertainment & Communication,Wireless Phone Charging,YES
+BMW,X3,xDrive 20 M Sport,Entertainment & Communication,Bluetooth Connectivity,YES
+BMW,X3,xDrive 20 M Sport,Entertainment & Communication,Touchscreen,YES
+BMW,X3,xDrive 20 M Sport,Entertainment & Communication,Touchscreen Size,14.9 inch
+BMW,X3,xDrive 20 M Sport,Entertainment & Communication,Android Auto,YES
+BMW,X3,xDrive 20 M Sport,Entertainment & Communication,Apple CarPlay,YES
+BMW,X3,xDrive 20 M Sport,Entertainment & Communication,No. of Speakers,15
+BMW,X3,xDrive 20 M Sport,Entertainment & Communication,Usb Ports,YES
+BMW,X3,xDrive 20 M Sport,Entertainment & Communication,Speakers,Front & Rear
+BMW,X3,xDrive 20 M Sport,Advance Internet Feature,Live Location,YES
+BMW,X3,xDrive 20 M Sport,Advance Internet Feature,Remote Vehicle Status Check,YES
+BMW,X3,xDrive 20 M Sport,Advance Internet Feature,Digital Car Key,YES
+BMW,X3,xDrive 20 M Sport,Advance Internet Feature,Live Weather,YES
+BMW,X3,xDrive 20 M Sport,Advance Internet Feature,E-Call & I-Call,YES
+BMW,X3,xDrive 20 M Sport,Advance Internet Feature,Over the Air (OTA) Updates,YES
+BMW,X3,xDrive 20 M Sport,Advance Internet Feature,Save Route/Place,YES
+BMW,X3,xDrive 20 M Sport,Advance Internet Feature,SOS Button,YES
+BMW,X3,xDrive 20 M Sport,Advance Internet Feature,RSA,YES
+BMW,X3,xDrive 20 M Sport,Advance Internet Feature,Over Speeding Alert,YES
+BMW,X3,xDrive 20 M Sport,Advance Internet Feature,Smartwatch App,YES
+BMW,X3,xDrive 20 M Sport,Advance Internet Feature,SOS / Emergency Assistance,YES

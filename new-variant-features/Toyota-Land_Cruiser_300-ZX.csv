@@ -1,0 +1,100 @@
+company,model,variant,category,feature_name,feature_details
+Toyota,Land Cruiser 300,ZX,Engine & Transmission,Engine Type,F33A-FTV
+Toyota,Land Cruiser 300,ZX,Engine & Transmission,Displacement,3346 cc
+Toyota,Land Cruiser 300,ZX,Engine & Transmission,Max Power,304.41bhp@4000rpm
+Toyota,Land Cruiser 300,ZX,Engine & Transmission,Max Torque,700Nm@1600-2600rpm
+Toyota,Land Cruiser 300,ZX,Engine & Transmission,No. of Cylinders,6
+Toyota,Land Cruiser 300,ZX,Engine & Transmission,Valves Per Cylinder,4
+Toyota,Land Cruiser 300,ZX,Engine & Transmission,Turbo Charger,Twin
+Toyota,Land Cruiser 300,ZX,Engine & Transmission,Transmission Type,Automatic
+Toyota,Land Cruiser 300,ZX,Engine & Transmission,Gearbox,10-Speed AT
+Toyota,Land Cruiser 300,ZX,Engine & Transmission,Drive Type,4WD
+Toyota,Land Cruiser 300,ZX,Fuel & Performance,Fuel Type,Diesel
+Toyota,Land Cruiser 300,ZX,Fuel & Performance,Diesel Mileage ARAI,11 kmpl
+Toyota,Land Cruiser 300,ZX,Fuel & Performance,Diesel Fuel Tank Capacity,110 Litres
+Toyota,Land Cruiser 300,ZX,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Toyota,Land Cruiser 300,ZX,Fuel & Performance,Top Speed,165 kmph
+Toyota,Land Cruiser 300,ZX,"Suspension, Steering & Brakes",Front Suspension,Double wishbone suspension
+Toyota,Land Cruiser 300,ZX,"Suspension, Steering & Brakes",Rear Suspension,"Multi-link, Solid Axle"
+Toyota,Land Cruiser 300,ZX,"Suspension, Steering & Brakes",Steering Type,Power
+Toyota,Land Cruiser 300,ZX,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Toyota,Land Cruiser 300,ZX,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Toyota,Land Cruiser 300,ZX,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Toyota,Land Cruiser 300,ZX,Dimensions & Capacity,Length,4985 mm
+Toyota,Land Cruiser 300,ZX,Dimensions & Capacity,Width,1980 mm
+Toyota,Land Cruiser 300,ZX,Dimensions & Capacity,Height,1945 mm
+Toyota,Land Cruiser 300,ZX,Dimensions & Capacity,Boot Space,1131 Litres
+Toyota,Land Cruiser 300,ZX,Dimensions & Capacity,Seating Capacity,5
+Toyota,Land Cruiser 300,ZX,Dimensions & Capacity,Wheel Base,2850 mm
+Toyota,Land Cruiser 300,ZX,Dimensions & Capacity,Front Tread,1536 mm
+Toyota,Land Cruiser 300,ZX,Dimensions & Capacity,Kerb Weight,2900 kg
+Toyota,Land Cruiser 300,ZX,Comfort & Convenience,Power Steering,YES
+Toyota,Land Cruiser 300,ZX,Comfort & Convenience,Air Conditioner,YES
+Toyota,Land Cruiser 300,ZX,Comfort & Convenience,Heater,YES
+Toyota,Land Cruiser 300,ZX,Comfort & Convenience,Adjustable Steering,Powered Adjustment
+Toyota,Land Cruiser 300,ZX,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Toyota,Land Cruiser 300,ZX,Comfort & Convenience,Ventilated Seats,YES
+Toyota,Land Cruiser 300,ZX,Comfort & Convenience,Automatic Climate Control,YES
+Toyota,Land Cruiser 300,ZX,Comfort & Convenience,Accessory Power Outlet,YES
+Toyota,Land Cruiser 300,ZX,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Toyota,Land Cruiser 300,ZX,Comfort & Convenience,Adjustable Headrest,YES
+Toyota,Land Cruiser 300,ZX,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Toyota,Land Cruiser 300,ZX,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Toyota,Land Cruiser 300,ZX,Comfort & Convenience,Rear AC Vents,YES
+Toyota,Land Cruiser 300,ZX,Comfort & Convenience,Lumbar Support,YES
+Toyota,Land Cruiser 300,ZX,Comfort & Convenience,Active noise cancellation,YES
+Toyota,Land Cruiser 300,ZX,Comfort & Convenience,Cruise Control,YES
+Toyota,Land Cruiser 300,ZX,Comfort & Convenience,Parking Sensors,Front & Rear
+Toyota,Land Cruiser 300,ZX,Comfort & Convenience,Foldable Rear Seat,40:20:40 Split
+Toyota,Land Cruiser 300,ZX,Comfort & Convenience,KeyLess Entry,YES
+Toyota,Land Cruiser 300,ZX,Comfort & Convenience,Engine Start/Stop Button,YES
+Toyota,Land Cruiser 300,ZX,Comfort & Convenience,USB Charger,Front & Rear
+Toyota,Land Cruiser 300,ZX,Comfort & Convenience,Central Console Armrest,YES
+Toyota,Land Cruiser 300,ZX,Comfort & Convenience,Drive Modes,6
+Toyota,Land Cruiser 300,ZX,Interior,Leather Wrapped Steering Wheel,YES
+Toyota,Land Cruiser 300,ZX,Interior,Glove Box,YES
+Toyota,Land Cruiser 300,ZX,Interior,Lighting,Ambient light
+Toyota,Land Cruiser 300,ZX,Exterior,Adjustable Headlamps,YES
+Toyota,Land Cruiser 300,ZX,Exterior,Rear Window Defogger,YES
+Toyota,Land Cruiser 300,ZX,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Toyota,Land Cruiser 300,ZX,Exterior,Roof Rails,YES
+Toyota,Land Cruiser 300,ZX,Exterior,Automatic Headlamps,YES
+Toyota,Land Cruiser 300,ZX,Exterior,Fog Lights,Front & Rear
+Toyota,Land Cruiser 300,ZX,Exterior,Sun Roof,YES
+Toyota,Land Cruiser 300,ZX,Exterior,Tyre Size,265/55 R20
+Toyota,Land Cruiser 300,ZX,Exterior,LED DRLs,YES
+Toyota,Land Cruiser 300,ZX,Exterior,LED Headlamps,YES
+Toyota,Land Cruiser 300,ZX,Exterior,LED Taillights,YES
+Toyota,Land Cruiser 300,ZX,Exterior,LED Fog Lamps,YES
+Toyota,Land Cruiser 300,ZX,Safety,Anti-lock Braking System (ABS),YES
+Toyota,Land Cruiser 300,ZX,Safety,Brake Assist,YES
+Toyota,Land Cruiser 300,ZX,Safety,Central Locking,YES
+Toyota,Land Cruiser 300,ZX,Safety,Child Safety Locks,YES
+Toyota,Land Cruiser 300,ZX,Safety,Anti-Theft Alarm,YES
+Toyota,Land Cruiser 300,ZX,Safety,No. of Airbags,10
+Toyota,Land Cruiser 300,ZX,Safety,Driver Airbag,YES
+Toyota,Land Cruiser 300,ZX,Safety,Passenger Airbag,YES
+Toyota,Land Cruiser 300,ZX,Safety,Side Airbag,YES
+Toyota,Land Cruiser 300,ZX,Safety,Side Airbag-Rear,YES
+Toyota,Land Cruiser 300,ZX,Safety,Day & Night Rear View Mirror,YES
+Toyota,Land Cruiser 300,ZX,Safety,Traction Control,YES
+Toyota,Land Cruiser 300,ZX,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Toyota,Land Cruiser 300,ZX,Safety,Engine Immobilizer,YES
+Toyota,Land Cruiser 300,ZX,Safety,Electronic Stability Control (ESC),YES
+Toyota,Land Cruiser 300,ZX,Safety,Anti-Theft Device,YES
+Toyota,Land Cruiser 300,ZX,Safety,ISOFIX Child Seat Mounts,YES
+Toyota,Land Cruiser 300,ZX,Safety,Heads-Up Display (HUD),YES
+Toyota,Land Cruiser 300,ZX,Safety,Hill Descent Control,YES
+Toyota,Land Cruiser 300,ZX,Safety,360 View Camera,YES
+Toyota,Land Cruiser 300,ZX,Safety,Global NCAP Safety Rating,5 Star
+Toyota,Land Cruiser 300,ZX,Entertainment & Communication,Radio,YES
+Toyota,Land Cruiser 300,ZX,Entertainment & Communication,Wireless Phone Charging,YES
+Toyota,Land Cruiser 300,ZX,Entertainment & Communication,Bluetooth Connectivity,YES
+Toyota,Land Cruiser 300,ZX,Entertainment & Communication,Touchscreen,YES
+Toyota,Land Cruiser 300,ZX,Entertainment & Communication,Touchscreen Size,12.29 inch
+Toyota,Land Cruiser 300,ZX,Entertainment & Communication,Android Auto,YES
+Toyota,Land Cruiser 300,ZX,Entertainment & Communication,Apple CarPlay,YES
+Toyota,Land Cruiser 300,ZX,Entertainment & Communication,No. of Speakers,14
+Toyota,Land Cruiser 300,ZX,Entertainment & Communication,Usb Ports,YES
+Toyota,Land Cruiser 300,ZX,Entertainment & Communication,Additional Features,Audio System with 14U JBL Speakers
+Toyota,Land Cruiser 300,ZX,Entertainment & Communication,Speakers,Front & Rear

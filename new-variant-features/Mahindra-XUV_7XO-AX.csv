@@ -1,0 +1,137 @@
+company,model,variant,category,feature_name,feature_details
+Mahindra,XUV 7XO,AX,Engine & Transmission,Engine Type,mStallion TGDi
+Mahindra,XUV 7XO,AX,Engine & Transmission,Displacement,1997 cc
+Mahindra,XUV 7XO,AX,Engine & Transmission,Max Power,200bhp@5000rpm
+Mahindra,XUV 7XO,AX,Engine & Transmission,Max Torque,380Nm@1750-3000rpm
+Mahindra,XUV 7XO,AX,Engine & Transmission,No. of Cylinders,4
+Mahindra,XUV 7XO,AX,Engine & Transmission,Valves Per Cylinder,4
+Mahindra,XUV 7XO,AX,Engine & Transmission,Fuel Supply System,TGDI
+Mahindra,XUV 7XO,AX,Engine & Transmission,Turbo Charger,YES
+Mahindra,XUV 7XO,AX,Engine & Transmission,Transmission Type,Manual
+Mahindra,XUV 7XO,AX,Engine & Transmission,Gearbox,6-Speed
+Mahindra,XUV 7XO,AX,Engine & Transmission,Drive Type,FWD
+Mahindra,XUV 7XO,AX,Fuel & Performance,Fuel Type,Petrol
+Mahindra,XUV 7XO,AX,Fuel & Performance,Petrol Fuel Tank Capacity,60 Litres
+Mahindra,XUV 7XO,AX,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Mahindra,XUV 7XO,AX,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Mahindra,XUV 7XO,AX,"Suspension, Steering & Brakes",Rear Suspension,"Multi-link, Solid Axle"
+Mahindra,XUV 7XO,AX,"Suspension, Steering & Brakes",Steering Type,Electric
+Mahindra,XUV 7XO,AX,"Suspension, Steering & Brakes",Steering Column,Tilt
+Mahindra,XUV 7XO,AX,"Suspension, Steering & Brakes",Front Brake Type,Ventilated Disc
+Mahindra,XUV 7XO,AX,"Suspension, Steering & Brakes",Rear Brake Type,Solid Disc
+Mahindra,XUV 7XO,AX,Dimensions & Capacity,Length,4695 mm
+Mahindra,XUV 7XO,AX,Dimensions & Capacity,Width,1890 mm
+Mahindra,XUV 7XO,AX,Dimensions & Capacity,Height,1755 mm
+Mahindra,XUV 7XO,AX,Dimensions & Capacity,Seating Capacity,7
+Mahindra,XUV 7XO,AX,Dimensions & Capacity,Wheel Base,2750 mm
+Mahindra,XUV 7XO,AX,Comfort & Convenience,Boot Opening,Electronic
+Mahindra,XUV 7XO,AX,Comfort & Convenience,Power Steering,YES
+Mahindra,XUV 7XO,AX,Comfort & Convenience,Air Conditioner,YES
+Mahindra,XUV 7XO,AX,Comfort & Convenience,Heater,YES
+Mahindra,XUV 7XO,AX,Comfort & Convenience,Adjustable Steering,Height only
+Mahindra,XUV 7XO,AX,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Mahindra,XUV 7XO,AX,Comfort & Convenience,Ventilated Seats,NO
+Mahindra,XUV 7XO,AX,Comfort & Convenience,Electric Adjustable Seats,NO
+Mahindra,XUV 7XO,AX,Comfort & Convenience,Automatic Climate Control,NO
+Mahindra,XUV 7XO,AX,Comfort & Convenience,Air Quality Control,NO
+Mahindra,XUV 7XO,AX,Comfort & Convenience,Accessory Power Outlet,YES
+Mahindra,XUV 7XO,AX,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Mahindra,XUV 7XO,AX,Comfort & Convenience,Adjustable Headrest,YES
+Mahindra,XUV 7XO,AX,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Mahindra,XUV 7XO,AX,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Mahindra,XUV 7XO,AX,Comfort & Convenience,Rear AC Vents,YES
+Mahindra,XUV 7XO,AX,Comfort & Convenience,Active noise cancellation,NO
+Mahindra,XUV 7XO,AX,Comfort & Convenience,Cruise Control,YES
+Mahindra,XUV 7XO,AX,Comfort & Convenience,Parking Sensors,Rear
+Mahindra,XUV 7XO,AX,Comfort & Convenience,Real-Time Vehicle Tracking,YES
+Mahindra,XUV 7XO,AX,Comfort & Convenience,KeyLess Entry,YES
+Mahindra,XUV 7XO,AX,Comfort & Convenience,Engine Start/Stop Button,YES
+Mahindra,XUV 7XO,AX,Comfort & Convenience,Voice Commands,YES
+Mahindra,XUV 7XO,AX,Comfort & Convenience,USB Charger,Front & Rear
+Mahindra,XUV 7XO,AX,Comfort & Convenience,Central Console Armrest,With Storage
+Mahindra,XUV 7XO,AX,Comfort & Convenience,Drive Modes,NO
+Mahindra,XUV 7XO,AX,Comfort & Convenience,Follow Me Home Headlamps,YES
+Mahindra,XUV 7XO,AX,Comfort & Convenience,Drive Mode Types,NO
+Mahindra,XUV 7XO,AX,Comfort & Convenience,Power Windows,Front & Rear
+Mahindra,XUV 7XO,AX,Interior,Leather Wrapped Steering Wheel,NO
+Mahindra,XUV 7XO,AX,Interior,Leather wrap gear-shift selector,NO
+Mahindra,XUV 7XO,AX,Interior,Glove Box,YES
+Mahindra,XUV 7XO,AX,Interior,Digital Cluster,YES
+Mahindra,XUV 7XO,AX,Interior,Digital Cluster Size,12.29
+Mahindra,XUV 7XO,AX,Interior,Upholstery,Fabric
+Mahindra,XUV 7XO,AX,Exterior,Adjustable Headlamps,YES
+Mahindra,XUV 7XO,AX,Exterior,Rain Sensing Wiper,NO
+Mahindra,XUV 7XO,AX,Exterior,Rear Window Wiper,NO
+Mahindra,XUV 7XO,AX,Exterior,Rear Window Washer,NO
+Mahindra,XUV 7XO,AX,Exterior,Rear Window Defogger,NO
+Mahindra,XUV 7XO,AX,Exterior,Rear Spoiler,YES
+Mahindra,XUV 7XO,AX,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Mahindra,XUV 7XO,AX,Exterior,Projector Headlamps,YES
+Mahindra,XUV 7XO,AX,Exterior,Cornering Foglamps,NO
+Mahindra,XUV 7XO,AX,Exterior,Roof Rails,YES
+Mahindra,XUV 7XO,AX,Exterior,Automatic Headlamps,NO
+Mahindra,XUV 7XO,AX,Exterior,Antenna,Shark Fin
+Mahindra,XUV 7XO,AX,Exterior,Sunroof,NO
+Mahindra,XUV 7XO,AX,Exterior,Outside Rear View Mirror (ORVM),Powered
+Mahindra,XUV 7XO,AX,Exterior,Wheels Type,Steel with Cover
+Mahindra,XUV 7XO,AX,Exterior,Tyre Size,235/65 R17
+Mahindra,XUV 7XO,AX,Exterior,Tyre Type,Radial Tubeless
+Mahindra,XUV 7XO,AX,Exterior,Wheel Size,17 Inch
+Mahindra,XUV 7XO,AX,Exterior,LED DRLs,YES
+Mahindra,XUV 7XO,AX,Exterior,LED Headlamps,YES
+Mahindra,XUV 7XO,AX,Exterior,LED Taillights,YES
+Mahindra,XUV 7XO,AX,Exterior,LED Fog Lamps,NO
+Mahindra,XUV 7XO,AX,Safety,Anti-lock Braking System (ABS),YES
+Mahindra,XUV 7XO,AX,Safety,Brake Assist,YES
+Mahindra,XUV 7XO,AX,Safety,Central Locking,YES
+Mahindra,XUV 7XO,AX,Safety,Child Safety Locks,YES
+Mahindra,XUV 7XO,AX,Safety,No. of Airbags,6
+Mahindra,XUV 7XO,AX,Safety,Driver Airbag,YES
+Mahindra,XUV 7XO,AX,Safety,Passenger Airbag,YES
+Mahindra,XUV 7XO,AX,Safety,Side Airbag,YES
+Mahindra,XUV 7XO,AX,Safety,Side Airbag-Rear,NO
+Mahindra,XUV 7XO,AX,Safety,Day & Night Rear View Mirror,YES
+Mahindra,XUV 7XO,AX,Safety,Electronic Brakeforce Distribution (EBD),YES
+Mahindra,XUV 7XO,AX,Safety,Traction Control,YES
+Mahindra,XUV 7XO,AX,Safety,Tyre Pressure Monitoring System (TPMS),NO
+Mahindra,XUV 7XO,AX,Safety,Engine Immobilizer,YES
+Mahindra,XUV 7XO,AX,Safety,Electronic Stability Control (ESC),YES
+Mahindra,XUV 7XO,AX,Safety,Rear Camera,NO
+Mahindra,XUV 7XO,AX,Safety,ISOFIX Child Seat Mounts,YES
+Mahindra,XUV 7XO,AX,Safety,Hill Descent Control,YES
+Mahindra,XUV 7XO,AX,Safety,Hill Assist,YES
+Mahindra,XUV 7XO,AX,Safety,Bharat NCAP Safety Rating,5 Star
+Mahindra,XUV 7XO,AX,Safety,Bharat NCAP Child Safety Rating,5 Star
+Mahindra,XUV 7XO,AX,Entertainment & Communication,Radio,YES
+Mahindra,XUV 7XO,AX,Entertainment & Communication,Wireless Phone Charging,NO
+Mahindra,XUV 7XO,AX,Entertainment & Communication,Bluetooth Connectivity,YES
+Mahindra,XUV 7XO,AX,Entertainment & Communication,Touchscreen,YES
+Mahindra,XUV 7XO,AX,Entertainment & Communication,Touchscreen Size,12.29 inch
+Mahindra,XUV 7XO,AX,Entertainment & Communication,Android Auto,YES
+Mahindra,XUV 7XO,AX,Entertainment & Communication,Apple CarPlay,YES
+Mahindra,XUV 7XO,AX,Entertainment & Communication,No. of Speakers,6
+Mahindra,XUV 7XO,AX,Entertainment & Communication,Usb Ports,YES
+Mahindra,XUV 7XO,AX,Entertainment & Communication,Additional Features,Wireless Android Auto & AppleCarPlayI Alexa Built-IN With ChatGPT I Coast to Coast Triple Screen
+Mahindra,XUV 7XO,AX,Entertainment & Communication,Speakers,Front & Rear
+Mahindra,XUV 7XO,AX,ADAS Feature,Forward Collision Warning,NO
+Mahindra,XUV 7XO,AX,ADAS Feature,Automatic Emergency Braking,NO
+Mahindra,XUV 7XO,AX,ADAS Feature,Speed Assist System,NO
+Mahindra,XUV 7XO,AX,ADAS Feature,Traffic Sign Recognition,NO
+Mahindra,XUV 7XO,AX,ADAS Feature,Lane Departure Warning,NO
+Mahindra,XUV 7XO,AX,ADAS Feature,Lane Keep Assist,NO
+Mahindra,XUV 7XO,AX,ADAS Feature,Driver Attention Warning,NO
+Mahindra,XUV 7XO,AX,ADAS Feature,Adaptive Cruise Control,NO
+Mahindra,XUV 7XO,AX,ADAS Feature,Blind Spot Monitor,NO
+Mahindra,XUV 7XO,AX,Advance Internet Feature,Live Location,YES
+Mahindra,XUV 7XO,AX,Advance Internet Feature,Remote Vehicle Status Check,YES
+Mahindra,XUV 7XO,AX,Advance Internet Feature,Navigation with Live Traffic,YES
+Mahindra,XUV 7XO,AX,Advance Internet Feature,Live Weather,YES
+Mahindra,XUV 7XO,AX,Advance Internet Feature,E-Call & I-Call,YES
+Mahindra,XUV 7XO,AX,Advance Internet Feature,Over the Air (OTA) Updates,YES
+Mahindra,XUV 7XO,AX,Advance Internet Feature,Google / Alexa Connectivity,YES
+Mahindra,XUV 7XO,AX,Advance Internet Feature,SOS Button,YES
+Mahindra,XUV 7XO,AX,Advance Internet Feature,RSA,YES
+Mahindra,XUV 7XO,AX,Advance Internet Feature,In Car Remote Control App,YES
+Mahindra,XUV 7XO,AX,Advance Internet Feature,Smartwatch App,YES
+Mahindra,XUV 7XO,AX,Advance Internet Feature,Valet Mode,YES
+Mahindra,XUV 7XO,AX,Advance Internet Feature,Inbuilt APPs,Intelligent ADRENOX

@@ -1,0 +1,153 @@
+company,model,variant,category,feature_name,feature_details
+Tata,Safari,Accomplished X Dark,Engine & Transmission,Engine Type,Kryotec 2.0L
+Tata,Safari,Accomplished X Dark,Engine & Transmission,Displacement,1956 cc
+Tata,Safari,Accomplished X Dark,Engine & Transmission,Max Power,167.62bhp@3750rpm
+Tata,Safari,Accomplished X Dark,Engine & Transmission,Max Torque,350Nm@1750-2500rpm
+Tata,Safari,Accomplished X Dark,Engine & Transmission,No. of Cylinders,4
+Tata,Safari,Accomplished X Dark,Engine & Transmission,Valves Per Cylinder,4
+Tata,Safari,Accomplished X Dark,Engine & Transmission,Turbo Charger,YES
+Tata,Safari,Accomplished X Dark,Engine & Transmission,Transmission Type,Manual
+Tata,Safari,Accomplished X Dark,Engine & Transmission,Gearbox,6-Speed
+Tata,Safari,Accomplished X Dark,Engine & Transmission,Drive Type,FWD
+Tata,Safari,Accomplished X Dark,Fuel & Performance,Fuel Type,Diesel
+Tata,Safari,Accomplished X Dark,Fuel & Performance,Diesel Fuel Tank Capacity,50 Litres
+Tata,Safari,Accomplished X Dark,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Tata,Safari,Accomplished X Dark,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Tata,Safari,Accomplished X Dark,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Tata,Safari,Accomplished X Dark,"Suspension, Steering & Brakes",Steering Type,Electric
+Tata,Safari,Accomplished X Dark,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Tata,Safari,Accomplished X Dark,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Tata,Safari,Accomplished X Dark,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Tata,Safari,Accomplished X Dark,Dimensions & Capacity,Length,4668 mm
+Tata,Safari,Accomplished X Dark,Dimensions & Capacity,Width,1922 mm
+Tata,Safari,Accomplished X Dark,Dimensions & Capacity,Height,1795 mm
+Tata,Safari,Accomplished X Dark,Dimensions & Capacity,Boot Space,680 Litres
+Tata,Safari,Accomplished X Dark,Dimensions & Capacity,Seating Capacity,7
+Tata,Safari,Accomplished X Dark,Dimensions & Capacity,Wheel Base,2741 mm
+Tata,Safari,Accomplished X Dark,Comfort & Convenience,Boot Opening,Hands-Free
+Tata,Safari,Accomplished X Dark,Comfort & Convenience,Power Steering,YES
+Tata,Safari,Accomplished X Dark,Comfort & Convenience,Air Conditioner,YES
+Tata,Safari,Accomplished X Dark,Comfort & Convenience,Heater,YES
+Tata,Safari,Accomplished X Dark,Comfort & Convenience,Adjustable Steering,Height & Reach
+Tata,Safari,Accomplished X Dark,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Tata,Safari,Accomplished X Dark,Comfort & Convenience,Ventilated Seats,YES
+Tata,Safari,Accomplished X Dark,Comfort & Convenience,Electric Adjustable Seats,Front
+Tata,Safari,Accomplished X Dark,Comfort & Convenience,Automatic Climate Control,YES
+Tata,Safari,Accomplished X Dark,Comfort & Convenience,Air Quality Control,NO
+Tata,Safari,Accomplished X Dark,Comfort & Convenience,Accessory Power Outlet,YES
+Tata,Safari,Accomplished X Dark,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Tata,Safari,Accomplished X Dark,Comfort & Convenience,Adjustable Headrest,YES
+Tata,Safari,Accomplished X Dark,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Tata,Safari,Accomplished X Dark,Comfort & Convenience,Rear AC Vents,YES
+Tata,Safari,Accomplished X Dark,Comfort & Convenience,Cruise Control,YES
+Tata,Safari,Accomplished X Dark,Comfort & Convenience,Parking Sensors,Rear
+Tata,Safari,Accomplished X Dark,Comfort & Convenience,Real-Time Vehicle Tracking,NO
+Tata,Safari,Accomplished X Dark,Comfort & Convenience,Foldable Rear Seat,2nd Row 60:40 Split
+Tata,Safari,Accomplished X Dark,Comfort & Convenience,KeyLess Entry,YES
+Tata,Safari,Accomplished X Dark,Comfort & Convenience,Engine Start/Stop Button,YES
+Tata,Safari,Accomplished X Dark,Comfort & Convenience,Voice Commands,YES
+Tata,Safari,Accomplished X Dark,Comfort & Convenience,Paddle Shifters,NO
+Tata,Safari,Accomplished X Dark,Comfort & Convenience,USB Charger,Front & Rear
+Tata,Safari,Accomplished X Dark,Comfort & Convenience,Central Console Armrest,With Storage
+Tata,Safari,Accomplished X Dark,Comfort & Convenience,Drive Modes,3
+Tata,Safari,Accomplished X Dark,Comfort & Convenience,Glove Box light,YES
+Tata,Safari,Accomplished X Dark,Comfort & Convenience,Follow Me Home Headlamps,YES
+Tata,Safari,Accomplished X Dark,Comfort & Convenience,Voice assisted sunroof,YES
+Tata,Safari,Accomplished X Dark,Comfort & Convenience,Drive Mode Types,ECO|CITY|SPORT
+Tata,Safari,Accomplished X Dark,Comfort & Convenience,Power Windows,Front & Rear
+Tata,Safari,Accomplished X Dark,Interior,Leather Wrapped Steering Wheel,YES
+Tata,Safari,Accomplished X Dark,Interior,Glove Box,YES
+Tata,Safari,Accomplished X Dark,Interior,Lighting,Ambient light
+Tata,Safari,Accomplished X Dark,Interior,Digital Cluster,YES
+Tata,Safari,Accomplished X Dark,Interior,Digital Cluster Size,10.24
+Tata,Safari,Accomplished X Dark,Interior,Upholstery,Leatherette
+Tata,Safari,Accomplished X Dark,Exterior,Rain Sensing Wiper,YES
+Tata,Safari,Accomplished X Dark,Exterior,Rear Window Wiper,YES
+Tata,Safari,Accomplished X Dark,Exterior,Rear Window Washer,YES
+Tata,Safari,Accomplished X Dark,Exterior,Rear Window Defogger,YES
+Tata,Safari,Accomplished X Dark,Exterior,Wheel Covers,NO
+Tata,Safari,Accomplished X Dark,Exterior,Alloy Wheels,YES
+Tata,Safari,Accomplished X Dark,Exterior,Rear Spoiler,YES
+Tata,Safari,Accomplished X Dark,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Tata,Safari,Accomplished X Dark,Exterior,Projector Headlamps,YES
+Tata,Safari,Accomplished X Dark,Exterior,Cornering Headlamps,NO
+Tata,Safari,Accomplished X Dark,Exterior,Cornering Foglamps,NO
+Tata,Safari,Accomplished X Dark,Exterior,Roof Rails,YES
+Tata,Safari,Accomplished X Dark,Exterior,Automatic Headlamps,YES
+Tata,Safari,Accomplished X Dark,Exterior,Fog Lights,NO
+Tata,Safari,Accomplished X Dark,Exterior,Antenna,Shark Fin
+Tata,Safari,Accomplished X Dark,Exterior,Sunroof,Panoramic
+Tata,Safari,Accomplished X Dark,Exterior,Heated Outside Rear View Mirror,NO
+Tata,Safari,Accomplished X Dark,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Tata,Safari,Accomplished X Dark,Exterior,Tyre Size,245/55/R19
+Tata,Safari,Accomplished X Dark,Exterior,Tyre Type,Radial Tubeless
+Tata,Safari,Accomplished X Dark,Exterior,LED DRLs,YES
+Tata,Safari,Accomplished X Dark,Exterior,LED Taillights,YES
+Tata,Safari,Accomplished X Dark,Exterior,LED Fog Lamps,NO
+Tata,Safari,Accomplished X Dark,Safety,Anti-lock Braking System (ABS),YES
+Tata,Safari,Accomplished X Dark,Safety,Brake Assist,YES
+Tata,Safari,Accomplished X Dark,Safety,Central Locking,YES
+Tata,Safari,Accomplished X Dark,Safety,Anti-Theft Alarm,YES
+Tata,Safari,Accomplished X Dark,Safety,No. of Airbags,6
+Tata,Safari,Accomplished X Dark,Safety,Driver Airbag,YES
+Tata,Safari,Accomplished X Dark,Safety,Passenger Airbag,YES
+Tata,Safari,Accomplished X Dark,Safety,Side Airbag,YES
+Tata,Safari,Accomplished X Dark,Safety,Side Airbag-Rear,NO
+Tata,Safari,Accomplished X Dark,Safety,Day & Night Rear View Mirror,YES
+Tata,Safari,Accomplished X Dark,Safety,Electronic Brakeforce Distribution (EBD),YES
+Tata,Safari,Accomplished X Dark,Safety,Traction Control,YES
+Tata,Safari,Accomplished X Dark,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Tata,Safari,Accomplished X Dark,Safety,Engine Immobilizer,YES
+Tata,Safari,Accomplished X Dark,Safety,Electronic Stability Control (ESC),YES
+Tata,Safari,Accomplished X Dark,Safety,Rear Camera,With Guidedlines
+Tata,Safari,Accomplished X Dark,Safety,Anti-Theft Device,YES
+Tata,Safari,Accomplished X Dark,Safety,Anti-Pinch Power Windows,Driver's Window
+Tata,Safari,Accomplished X Dark,Safety,ISOFIX Child Seat Mounts,YES
+Tata,Safari,Accomplished X Dark,Safety,Heads-Up Display (HUD),NO
+Tata,Safari,Accomplished X Dark,Safety,Hill Descent Control,NO
+Tata,Safari,Accomplished X Dark,Safety,Hill Assist,YES
+Tata,Safari,Accomplished X Dark,Safety,360 View Camera,YES
+Tata,Safari,Accomplished X Dark,Safety,Global NCAP Safety Rating,5 Star
+Tata,Safari,Accomplished X Dark,Safety,Global NCAP Child Safety Rating,5 Star
+Tata,Safari,Accomplished X Dark,Safety,Bharat NCAP Safety Rating,5 Star
+Tata,Safari,Accomplished X Dark,Safety,Bharat NCAP Child Safety Rating,5 Star
+Tata,Safari,Accomplished X Dark,Entertainment & Communication,Radio,YES
+Tata,Safari,Accomplished X Dark,Entertainment & Communication,Wireless Phone Charging,YES
+Tata,Safari,Accomplished X Dark,Entertainment & Communication,Bluetooth Connectivity,YES
+Tata,Safari,Accomplished X Dark,Entertainment & Communication,Touchscreen,YES
+Tata,Safari,Accomplished X Dark,Entertainment & Communication,Touchscreen Size,12.29 inch
+Tata,Safari,Accomplished X Dark,Entertainment & Communication,Android Auto,YES
+Tata,Safari,Accomplished X Dark,Entertainment & Communication,Apple CarPlay,YES
+Tata,Safari,Accomplished X Dark,Entertainment & Communication,No. of Speakers,9
+Tata,Safari,Accomplished X Dark,Entertainment & Communication,Usb Ports,YES
+Tata,Safari,Accomplished X Dark,Entertainment & Communication,Subwoofer,1
+Tata,Safari,Accomplished X Dark,Entertainment & Communication,Additional Features,Wireless Android Auto & Apple Carplay
+Tata,Safari,Accomplished X Dark,Entertainment & Communication,Speakers,Front & Rear
+Tata,Safari,Accomplished X Dark,ADAS Feature,Forward Collision Warning,NO
+Tata,Safari,Accomplished X Dark,ADAS Feature,Automatic Emergency Braking,NO
+Tata,Safari,Accomplished X Dark,ADAS Feature,Speed Assist System,NO
+Tata,Safari,Accomplished X Dark,ADAS Feature,Traffic Sign Recognition,NO
+Tata,Safari,Accomplished X Dark,ADAS Feature,Blind Spot Collision Avoidance Assist,NO
+Tata,Safari,Accomplished X Dark,ADAS Feature,Lane Departure Warning,NO
+Tata,Safari,Accomplished X Dark,ADAS Feature,Lane Keep Assist,NO
+Tata,Safari,Accomplished X Dark,ADAS Feature,Driver Attention Warning,YES
+Tata,Safari,Accomplished X Dark,ADAS Feature,Adaptive Cruise Control,NO
+Tata,Safari,Accomplished X Dark,ADAS Feature,Adaptive High Beam Assist,NO
+Tata,Safari,Accomplished X Dark,ADAS Feature,Rear Cross Traffic Alert,NO
+Tata,Safari,Accomplished X Dark,ADAS Feature,Blind Spot Monitor,NO
+Tata,Safari,Accomplished X Dark,Advance Internet Feature,Live Location,NO
+Tata,Safari,Accomplished X Dark,Advance Internet Feature,Remote Immobiliser,NO
+Tata,Safari,Accomplished X Dark,Advance Internet Feature,Unauthorised Vehicle entry,YES
+Tata,Safari,Accomplished X Dark,Advance Internet Feature,Remote Vehicle Status Check,NO
+Tata,Safari,Accomplished X Dark,Advance Internet Feature,Navigation with Live Traffic,NO
+Tata,Safari,Accomplished X Dark,Advance Internet Feature,Live Weather,NO
+Tata,Safari,Accomplished X Dark,Advance Internet Feature,E-Call & I-Call,NO
+Tata,Safari,Accomplished X Dark,Advance Internet Feature,Over the Air (OTA) Updates,NO
+Tata,Safari,Accomplished X Dark,Advance Internet Feature,Google / Alexa Connectivity,NO
+Tata,Safari,Accomplished X Dark,Advance Internet Feature,Save Route/Place,NO
+Tata,Safari,Accomplished X Dark,Advance Internet Feature,SOS Button,NO
+Tata,Safari,Accomplished X Dark,Advance Internet Feature,RSA,NO
+Tata,Safari,Accomplished X Dark,Advance Internet Feature,Over Speeding Alert,NO
+Tata,Safari,Accomplished X Dark,Advance Internet Feature,In Car Remote Control App,NO
+Tata,Safari,Accomplished X Dark,Advance Internet Feature,Valet Mode,NO
+Tata,Safari,Accomplished X Dark,Advance Internet Feature,Geo-fence Alert,NO

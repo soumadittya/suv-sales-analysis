@@ -1,0 +1,113 @@
+company,model,variant,category,feature_name,feature_details
+Skoda,Kylaq,Classic,Engine & Transmission,Engine Type,1.0 TSI
+Skoda,Kylaq,Classic,Engine & Transmission,Displacement,999 cc
+Skoda,Kylaq,Classic,Engine & Transmission,Max Power,114bhp@5000-5500rpm
+Skoda,Kylaq,Classic,Engine & Transmission,Max Torque,178Nm@1750-4000rpm
+Skoda,Kylaq,Classic,Engine & Transmission,No. of Cylinders,3
+Skoda,Kylaq,Classic,Engine & Transmission,Valves Per Cylinder,4
+Skoda,Kylaq,Classic,Engine & Transmission,Turbo Charger,YES
+Skoda,Kylaq,Classic,Engine & Transmission,Transmission Type,Manual
+Skoda,Kylaq,Classic,Engine & Transmission,Gearbox,6-Speed
+Skoda,Kylaq,Classic,Engine & Transmission,Drive Type,FWD
+Skoda,Kylaq,Classic,Fuel & Performance,Fuel Type,Petrol
+Skoda,Kylaq,Classic,Fuel & Performance,Petrol Mileage ARAI,19.31 kmpl
+Skoda,Kylaq,Classic,Fuel & Performance,Petrol Fuel Tank Capacity,45 Litres
+Skoda,Kylaq,Classic,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Skoda,Kylaq,Classic,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Skoda,Kylaq,Classic,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Skoda,Kylaq,Classic,"Suspension, Steering & Brakes",Steering Type,Electric
+Skoda,Kylaq,Classic,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Skoda,Kylaq,Classic,"Suspension, Steering & Brakes",Steering Gear Type,Rack&Pinion
+Skoda,Kylaq,Classic,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Skoda,Kylaq,Classic,"Suspension, Steering & Brakes",Rear Brake Type,Drum
+Skoda,Kylaq,Classic,"Suspension, Steering & Brakes",Boot Space Rear Seat Folding,1265 Litres
+Skoda,Kylaq,Classic,Dimensions & Capacity,Length,3995 mm
+Skoda,Kylaq,Classic,Dimensions & Capacity,Width,1783 mm
+Skoda,Kylaq,Classic,Dimensions & Capacity,Height,1619 mm
+Skoda,Kylaq,Classic,Dimensions & Capacity,Boot Space,446 Litres
+Skoda,Kylaq,Classic,Dimensions & Capacity,Seating Capacity,5
+Skoda,Kylaq,Classic,Dimensions & Capacity,Ground Clearance Unladen,189 mm
+Skoda,Kylaq,Classic,Dimensions & Capacity,Wheel Base,2566 mm
+Skoda,Kylaq,Classic,Dimensions & Capacity,Kerb Weight,1169-1219 kg
+Skoda,Kylaq,Classic,Dimensions & Capacity,Gross Weight,1630 kg
+Skoda,Kylaq,Classic,Comfort & Convenience,Power Steering,YES
+Skoda,Kylaq,Classic,Comfort & Convenience,Air Conditioner,YES
+Skoda,Kylaq,Classic,Comfort & Convenience,Heater,YES
+Skoda,Kylaq,Classic,Comfort & Convenience,Adjustable Steering,Height & Reach
+Skoda,Kylaq,Classic,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Skoda,Kylaq,Classic,Comfort & Convenience,Ventilated Seats,NO
+Skoda,Kylaq,Classic,Comfort & Convenience,Electric Adjustable Seats,NO
+Skoda,Kylaq,Classic,Comfort & Convenience,Automatic Climate Control,YES
+Skoda,Kylaq,Classic,Comfort & Convenience,Air Quality Control,YES
+Skoda,Kylaq,Classic,Comfort & Convenience,Accessory Power Outlet,YES
+Skoda,Kylaq,Classic,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Skoda,Kylaq,Classic,Comfort & Convenience,Adjustable Headrest,YES
+Skoda,Kylaq,Classic,Comfort & Convenience,Rear Seat Centre Arm Rest,NO
+Skoda,Kylaq,Classic,Comfort & Convenience,Rear AC Vents,NO
+Skoda,Kylaq,Classic,Comfort & Convenience,Cruise Control,NO
+Skoda,Kylaq,Classic,Comfort & Convenience,Parking Sensors,Rear
+Skoda,Kylaq,Classic,Comfort & Convenience,Foldable Rear Seat,Bench Folding
+Skoda,Kylaq,Classic,Comfort & Convenience,KeyLess Entry,YES
+Skoda,Kylaq,Classic,Comfort & Convenience,Engine Start/Stop Button,NO
+Skoda,Kylaq,Classic,Comfort & Convenience,Paddle Shifters,NO
+Skoda,Kylaq,Classic,Comfort & Convenience,USB Charger,NO
+Skoda,Kylaq,Classic,Comfort & Convenience,Central Console Armrest,NO
+Skoda,Kylaq,Classic,Comfort & Convenience,Gear Shift Indicator,YES
+Skoda,Kylaq,Classic,Comfort & Convenience,Idle Start-Stop System,YES
+Skoda,Kylaq,Classic,Comfort & Convenience,Power Windows,Front & Rear
+Skoda,Kylaq,Classic,Interior,Glove Box,YES
+Skoda,Kylaq,Classic,Interior,Digital Cluster,ANALOG WITH MID
+Skoda,Kylaq,Classic,Interior,Digital Cluster Size,3.5
+Skoda,Kylaq,Classic,Interior,Upholstery,Fabric
+Skoda,Kylaq,Classic,Exterior,Adjustable Headlamps,YES
+Skoda,Kylaq,Classic,Exterior,Rain Sensing Wiper,NO
+Skoda,Kylaq,Classic,Exterior,Rear Window Wiper,NO
+Skoda,Kylaq,Classic,Exterior,Rear Window Washer,NO
+Skoda,Kylaq,Classic,Exterior,Rear Window Defogger,YES
+Skoda,Kylaq,Classic,Exterior,Rear Spoiler,YES
+Skoda,Kylaq,Classic,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Skoda,Kylaq,Classic,Exterior,Projector Headlamps,NO
+Skoda,Kylaq,Classic,Exterior,Cornering Foglamps,NO
+Skoda,Kylaq,Classic,Exterior,Roof Rails,YES
+Skoda,Kylaq,Classic,Exterior,Automatic Headlamps,NO
+Skoda,Kylaq,Classic,Exterior,Fog Lights,NO
+Skoda,Kylaq,Classic,Exterior,Antenna,Rod roof
+Skoda,Kylaq,Classic,Exterior,Sunroof,NO
+Skoda,Kylaq,Classic,Exterior,Outside Rear View Mirror (ORVM),Powered
+Skoda,Kylaq,Classic,Exterior,Tyre Size,205/60 R16
+Skoda,Kylaq,Classic,Exterior,Tyre Type,Radial Tubeless
+Skoda,Kylaq,Classic,Exterior,Wheel Size,16 Inch
+Skoda,Kylaq,Classic,Exterior,LED DRLs,YES
+Skoda,Kylaq,Classic,Exterior,LED Headlamps,YES
+Skoda,Kylaq,Classic,Exterior,LED Taillights,YES
+Skoda,Kylaq,Classic,Exterior,LED Fog Lamps,NO
+Skoda,Kylaq,Classic,Safety,Anti-lock Braking System (ABS),YES
+Skoda,Kylaq,Classic,Safety,Brake Assist,YES
+Skoda,Kylaq,Classic,Safety,Central Locking,YES
+Skoda,Kylaq,Classic,Safety,Child Safety Locks,YES
+Skoda,Kylaq,Classic,Safety,Anti-Theft Alarm,NO
+Skoda,Kylaq,Classic,Safety,No. of Airbags,6
+Skoda,Kylaq,Classic,Safety,Driver Airbag,YES
+Skoda,Kylaq,Classic,Safety,Passenger Airbag,YES
+Skoda,Kylaq,Classic,Safety,Side Airbag,YES
+Skoda,Kylaq,Classic,Safety,Side Airbag-Rear,NO
+Skoda,Kylaq,Classic,Safety,Day & Night Rear View Mirror,YES
+Skoda,Kylaq,Classic,Safety,Electronic Brakeforce Distribution (EBD),YES
+Skoda,Kylaq,Classic,Safety,Traction Control,YES
+Skoda,Kylaq,Classic,Safety,Tyre Pressure Monitoring System (TPMS),NO
+Skoda,Kylaq,Classic,Safety,Engine Immobilizer,YES
+Skoda,Kylaq,Classic,Safety,Electronic Stability Control (ESC),YES
+Skoda,Kylaq,Classic,Safety,Rear Camera,NO
+Skoda,Kylaq,Classic,Safety,ISOFIX Child Seat Mounts,YES
+Skoda,Kylaq,Classic,Safety,Hill Assist,NO
+Skoda,Kylaq,Classic,Safety,Bharat NCAP Safety Rating,5 Star
+Skoda,Kylaq,Classic,Safety,Bharat NCAP Child Safety Rating,5 Star
+Skoda,Kylaq,Classic,Entertainment & Communication,Radio,NO
+Skoda,Kylaq,Classic,Entertainment & Communication,Wireless Phone Charging,NO
+Skoda,Kylaq,Classic,Entertainment & Communication,Bluetooth Connectivity,NO
+Skoda,Kylaq,Classic,Entertainment & Communication,Touchscreen,NO
+Skoda,Kylaq,Classic,Entertainment & Communication,Android Auto,NO
+Skoda,Kylaq,Classic,Entertainment & Communication,Apple CarPlay,NO
+Skoda,Kylaq,Classic,Entertainment & Communication,Usb Ports,NO
+Skoda,Kylaq,Classic,Entertainment & Communication,Tweeters,2
+Skoda,Kylaq,Classic,Entertainment & Communication,Speakers,NO

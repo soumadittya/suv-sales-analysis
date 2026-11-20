@@ -1,0 +1,119 @@
+company,model,variant,category,feature_name,feature_details
+Skoda,Kylaq,Sportline,Engine & Transmission,Engine Type,1.0 TSI
+Skoda,Kylaq,Sportline,Engine & Transmission,Displacement,999 cc
+Skoda,Kylaq,Sportline,Engine & Transmission,Max Power,114bhp@5000-5500rpm
+Skoda,Kylaq,Sportline,Engine & Transmission,Max Torque,178Nm@1750-4000rpm
+Skoda,Kylaq,Sportline,Engine & Transmission,No. of Cylinders,3
+Skoda,Kylaq,Sportline,Engine & Transmission,Valves Per Cylinder,4
+Skoda,Kylaq,Sportline,Engine & Transmission,Turbo Charger,YES
+Skoda,Kylaq,Sportline,Engine & Transmission,Transmission Type,Manual
+Skoda,Kylaq,Sportline,Engine & Transmission,Gearbox,6-Speed
+Skoda,Kylaq,Sportline,Engine & Transmission,Drive Type,FWD
+Skoda,Kylaq,Sportline,Fuel & Performance,Fuel Type,Petrol
+Skoda,Kylaq,Sportline,Fuel & Performance,Petrol Mileage ARAI,19.31 kmpl
+Skoda,Kylaq,Sportline,Fuel & Performance,Petrol Fuel Tank Capacity,45 Litres
+Skoda,Kylaq,Sportline,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Skoda,Kylaq,Sportline,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Skoda,Kylaq,Sportline,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Skoda,Kylaq,Sportline,"Suspension, Steering & Brakes",Steering Type,Electric
+Skoda,Kylaq,Sportline,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Skoda,Kylaq,Sportline,"Suspension, Steering & Brakes",Steering Gear Type,Rack&Pinion
+Skoda,Kylaq,Sportline,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Skoda,Kylaq,Sportline,"Suspension, Steering & Brakes",Rear Brake Type,Drum
+Skoda,Kylaq,Sportline,"Suspension, Steering & Brakes",Boot Space Rear Seat Folding,1265 Litres
+Skoda,Kylaq,Sportline,"Suspension, Steering & Brakes",Boot Space Rear Seat Folding,1265 Litres
+Skoda,Kylaq,Sportline,Dimensions & Capacity,Length,3995 mm
+Skoda,Kylaq,Sportline,Dimensions & Capacity,Width,1783 mm
+Skoda,Kylaq,Sportline,Dimensions & Capacity,Height,1619 mm
+Skoda,Kylaq,Sportline,Dimensions & Capacity,Boot Space,446 Litres
+Skoda,Kylaq,Sportline,Dimensions & Capacity,Seating Capacity,5
+Skoda,Kylaq,Sportline,Dimensions & Capacity,Ground Clearance Unladen,189 mm
+Skoda,Kylaq,Sportline,Dimensions & Capacity,Wheel Base,2566 mm
+Skoda,Kylaq,Sportline,Dimensions & Capacity,Kerb Weight,1169-1219 kg
+Skoda,Kylaq,Sportline,Dimensions & Capacity,Gross Weight,1630 kg
+Skoda,Kylaq,Sportline,Comfort & Convenience,Power Steering,YES
+Skoda,Kylaq,Sportline,Comfort & Convenience,Air Conditioner,YES
+Skoda,Kylaq,Sportline,Comfort & Convenience,Heater,YES
+Skoda,Kylaq,Sportline,Comfort & Convenience,Adjustable Steering,Height & Reach
+Skoda,Kylaq,Sportline,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Skoda,Kylaq,Sportline,Comfort & Convenience,Ventilated Seats,NO
+Skoda,Kylaq,Sportline,Comfort & Convenience,Electric Adjustable Seats,NO
+Skoda,Kylaq,Sportline,Comfort & Convenience,Automatic Climate Control,YES
+Skoda,Kylaq,Sportline,Comfort & Convenience,Air Quality Control,YES
+Skoda,Kylaq,Sportline,Comfort & Convenience,Accessory Power Outlet,YES
+Skoda,Kylaq,Sportline,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Skoda,Kylaq,Sportline,Comfort & Convenience,Adjustable Headrest,YES
+Skoda,Kylaq,Sportline,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Skoda,Kylaq,Sportline,Comfort & Convenience,Rear AC Vents,YES
+Skoda,Kylaq,Sportline,Comfort & Convenience,Cruise Control,YES
+Skoda,Kylaq,Sportline,Comfort & Convenience,Parking Sensors,Rear
+Skoda,Kylaq,Sportline,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Skoda,Kylaq,Sportline,Comfort & Convenience,KeyLess Entry,YES
+Skoda,Kylaq,Sportline,Comfort & Convenience,Engine Start/Stop Button,YES
+Skoda,Kylaq,Sportline,Comfort & Convenience,Paddle Shifters,NO
+Skoda,Kylaq,Sportline,Comfort & Convenience,USB Charger,Front & Rear
+Skoda,Kylaq,Sportline,Comfort & Convenience,Central Console Armrest,With Storage
+Skoda,Kylaq,Sportline,Comfort & Convenience,Gear Shift Indicator,YES
+Skoda,Kylaq,Sportline,Comfort & Convenience,Idle Start-Stop System,YES
+Skoda,Kylaq,Sportline,Comfort & Convenience,Additional Features,Sunglass holder
+Skoda,Kylaq,Sportline,Comfort & Convenience,Power Windows,Front & Rear
+Skoda,Kylaq,Sportline,Interior,Glove Box,YES
+Skoda,Kylaq,Sportline,Interior,Lighting,Ambient light
+Skoda,Kylaq,Sportline,Interior,Additional Features,Rear Parcel Tray
+Skoda,Kylaq,Sportline,Interior,Digital Cluster,YES
+Skoda,Kylaq,Sportline,Interior,Digital Cluster Size,8
+Skoda,Kylaq,Sportline,Interior,Upholstery,Leatherette
+Skoda,Kylaq,Sportline,Exterior,Adjustable Headlamps,YES
+Skoda,Kylaq,Sportline,Exterior,Rain Sensing Wiper,YES
+Skoda,Kylaq,Sportline,Exterior,Rear Window Wiper,YES
+Skoda,Kylaq,Sportline,Exterior,Rear Window Washer,YES
+Skoda,Kylaq,Sportline,Exterior,Rear Window Defogger,YES
+Skoda,Kylaq,Sportline,Exterior,Rear Spoiler,YES
+Skoda,Kylaq,Sportline,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Skoda,Kylaq,Sportline,Exterior,Projector Headlamps,YES
+Skoda,Kylaq,Sportline,Exterior,Cornering Foglamps,YES
+Skoda,Kylaq,Sportline,Exterior,Roof Rails,YES
+Skoda,Kylaq,Sportline,Exterior,Automatic Headlamps,YES
+Skoda,Kylaq,Sportline,Exterior,Fog Lights,Front
+Skoda,Kylaq,Sportline,Exterior,Antenna,Shark Fin
+Skoda,Kylaq,Sportline,Exterior,Sunroof,Single Pane
+Skoda,Kylaq,Sportline,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Skoda,Kylaq,Sportline,Exterior,Tyre Size,205/55 R17
+Skoda,Kylaq,Sportline,Exterior,Tyre Type,Radial Tubeless
+Skoda,Kylaq,Sportline,Exterior,Wheel Size,17 Inch
+Skoda,Kylaq,Sportline,Exterior,LED DRLs,YES
+Skoda,Kylaq,Sportline,Exterior,LED Headlamps,YES
+Skoda,Kylaq,Sportline,Exterior,LED Taillights,YES
+Skoda,Kylaq,Sportline,Exterior,LED Fog Lamps,YES
+Skoda,Kylaq,Sportline,Safety,Anti-lock Braking System (ABS),YES
+Skoda,Kylaq,Sportline,Safety,Brake Assist,YES
+Skoda,Kylaq,Sportline,Safety,Central Locking,YES
+Skoda,Kylaq,Sportline,Safety,Child Safety Locks,YES
+Skoda,Kylaq,Sportline,Safety,Anti-Theft Alarm,NO
+Skoda,Kylaq,Sportline,Safety,No. of Airbags,6
+Skoda,Kylaq,Sportline,Safety,Driver Airbag,YES
+Skoda,Kylaq,Sportline,Safety,Passenger Airbag,YES
+Skoda,Kylaq,Sportline,Safety,Side Airbag,YES
+Skoda,Kylaq,Sportline,Safety,Side Airbag-Rear,NO
+Skoda,Kylaq,Sportline,Safety,Day & Night Rear View Mirror,YES
+Skoda,Kylaq,Sportline,Safety,Electronic Brakeforce Distribution (EBD),YES
+Skoda,Kylaq,Sportline,Safety,Traction Control,YES
+Skoda,Kylaq,Sportline,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Skoda,Kylaq,Sportline,Safety,Engine Immobilizer,YES
+Skoda,Kylaq,Sportline,Safety,Electronic Stability Control (ESC),YES
+Skoda,Kylaq,Sportline,Safety,Rear Camera,With Guidedlines
+Skoda,Kylaq,Sportline,Safety,Anti-Pinch Power Windows,Driver's Window
+Skoda,Kylaq,Sportline,Safety,ISOFIX Child Seat Mounts,YES
+Skoda,Kylaq,Sportline,Safety,Hill Assist,YES
+Skoda,Kylaq,Sportline,Entertainment & Communication,Radio,YES
+Skoda,Kylaq,Sportline,Entertainment & Communication,Wireless Phone Charging,YES
+Skoda,Kylaq,Sportline,Entertainment & Communication,Bluetooth Connectivity,YES
+Skoda,Kylaq,Sportline,Entertainment & Communication,Touchscreen,YES
+Skoda,Kylaq,Sportline,Entertainment & Communication,Touchscreen Size,10.07 inch
+Skoda,Kylaq,Sportline,Entertainment & Communication,Android Auto,YES
+Skoda,Kylaq,Sportline,Entertainment & Communication,Apple CarPlay,YES
+Skoda,Kylaq,Sportline,Entertainment & Communication,No. of Speakers,4
+Skoda,Kylaq,Sportline,Entertainment & Communication,Usb Ports,YES
+Skoda,Kylaq,Sportline,Entertainment & Communication,Tweeters,2
+Skoda,Kylaq,Sportline,Entertainment & Communication,Additional Features,Wireless Android Auto & Apple CarPlay
+Skoda,Kylaq,Sportline,Entertainment & Communication,Speakers,Front & Rear

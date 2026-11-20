@@ -1,0 +1,94 @@
+company,model,variant,category,feature_name,feature_details
+Mahindra,Bolero Neo,N10,Engine & Transmission,Engine Type,mHAWk100
+Mahindra,Bolero Neo,N10,Engine & Transmission,Displacement,1493 cc
+Mahindra,Bolero Neo,N10,Engine & Transmission,Max Power,98.56bhp@3750rpm
+Mahindra,Bolero Neo,N10,Engine & Transmission,Max Torque,260Nm@1750-2250rpm
+Mahindra,Bolero Neo,N10,Engine & Transmission,No. of Cylinders,3
+Mahindra,Bolero Neo,N10,Engine & Transmission,Valves Per Cylinder,4
+Mahindra,Bolero Neo,N10,Engine & Transmission,Turbo Charger,YES
+Mahindra,Bolero Neo,N10,Engine & Transmission,Transmission Type,Manual
+Mahindra,Bolero Neo,N10,Engine & Transmission,Gearbox,5 Speed
+Mahindra,Bolero Neo,N10,Engine & Transmission,Drive Type,RWD(with MTT)
+Mahindra,Bolero Neo,N10,Fuel & Performance,Fuel Type,Diesel
+Mahindra,Bolero Neo,N10,Fuel & Performance,Diesel Mileage ARAI,17.29 kmpl
+Mahindra,Bolero Neo,N10,Fuel & Performance,Diesel Fuel Tank Capacity,50 Litres
+Mahindra,Bolero Neo,N10,Fuel & Performance,Diesel Highway Mileage,16.16 kmpl
+Mahindra,Bolero Neo,N10,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Mahindra,Bolero Neo,N10,Fuel & Performance,Top Speed,150 kmph
+Mahindra,Bolero Neo,N10,"Suspension, Steering & Brakes",Front Suspension,Double wishbone suspension
+Mahindra,Bolero Neo,N10,"Suspension, Steering & Brakes",Rear Suspension,Multi-link suspension
+Mahindra,Bolero Neo,N10,"Suspension, Steering & Brakes",Steering Type,Power
+Mahindra,Bolero Neo,N10,"Suspension, Steering & Brakes",Steering Column,Tilt
+Mahindra,Bolero Neo,N10,"Suspension, Steering & Brakes",Turning Radius,5.35 m
+Mahindra,Bolero Neo,N10,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Mahindra,Bolero Neo,N10,"Suspension, Steering & Brakes",Rear Brake Type,Drum
+Mahindra,Bolero Neo,N10,Dimensions & Capacity,Length,3995 mm
+Mahindra,Bolero Neo,N10,Dimensions & Capacity,Width,1795 mm
+Mahindra,Bolero Neo,N10,Dimensions & Capacity,Height,1817 mm
+Mahindra,Bolero Neo,N10,Dimensions & Capacity,Boot Space,384 Litres
+Mahindra,Bolero Neo,N10,Dimensions & Capacity,Seating Capacity,7
+Mahindra,Bolero Neo,N10,Dimensions & Capacity,Ground Clearance Unladen,180 mm
+Mahindra,Bolero Neo,N10,Dimensions & Capacity,Wheel Base,2680 mm
+Mahindra,Bolero Neo,N10,Dimensions & Capacity,Gross Weight,2215 kg
+Mahindra,Bolero Neo,N10,Comfort & Convenience,Boot Opening,Manual
+Mahindra,Bolero Neo,N10,Comfort & Convenience,Power Steering,YES
+Mahindra,Bolero Neo,N10,Comfort & Convenience,Air Conditioner,YES
+Mahindra,Bolero Neo,N10,Comfort & Convenience,Heater,YES
+Mahindra,Bolero Neo,N10,Comfort & Convenience,Adjustable Steering,Height only
+Mahindra,Bolero Neo,N10,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Mahindra,Bolero Neo,N10,Comfort & Convenience,Accessory Power Outlet,YES
+Mahindra,Bolero Neo,N10,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Mahindra,Bolero Neo,N10,Comfort & Convenience,Adjustable Headrest,YES
+Mahindra,Bolero Neo,N10,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Mahindra,Bolero Neo,N10,Comfort & Convenience,Lumbar Support,NO
+Mahindra,Bolero Neo,N10,Comfort & Convenience,Cruise Control,YES
+Mahindra,Bolero Neo,N10,Comfort & Convenience,Parking Sensors,Rear
+Mahindra,Bolero Neo,N10,Comfort & Convenience,KeyLess Entry,YES
+Mahindra,Bolero Neo,N10,Comfort & Convenience,Voice Commands,YES
+Mahindra,Bolero Neo,N10,Comfort & Convenience,Central Console Armrest,YES
+Mahindra,Bolero Neo,N10,Comfort & Convenience,Gear Shift Indicator,YES
+Mahindra,Bolero Neo,N10,Comfort & Convenience,Idle Start-Stop System,YES
+Mahindra,Bolero Neo,N10,Comfort & Convenience,Follow Me Home Headlamps,YES
+Mahindra,Bolero Neo,N10,Comfort & Convenience,Power Windows,Front & Rear
+Mahindra,Bolero Neo,N10,Interior,Glove Box,YES
+Mahindra,Bolero Neo,N10,Interior,Digital Cluster,YES
+Mahindra,Bolero Neo,N10,Interior,Digital Cluster Size,3.5 Inch
+Mahindra,Bolero Neo,N10,Interior,Upholstery,Fabric
+Mahindra,Bolero Neo,N10,Exterior,Adjustable Headlamps,YES
+Mahindra,Bolero Neo,N10,Exterior,Rear Window Wiper,YES
+Mahindra,Bolero Neo,N10,Exterior,Rear Window Defogger,YES
+Mahindra,Bolero Neo,N10,Exterior,Wheel Covers,NO
+Mahindra,Bolero Neo,N10,Exterior,Alloy Wheels,YES
+Mahindra,Bolero Neo,N10,Exterior,Rear Spoiler,YES
+Mahindra,Bolero Neo,N10,Exterior,Side Stepper,YES
+Mahindra,Bolero Neo,N10,Exterior,Cornering Foglamps,YES
+Mahindra,Bolero Neo,N10,Exterior,Fog Lights,Front
+Mahindra,Bolero Neo,N10,Exterior,Outside Rear View Mirror (ORVM),Powered
+Mahindra,Bolero Neo,N10,Exterior,Tyre Size,215/75 R15
+Mahindra,Bolero Neo,N10,Exterior,Tyre Type,Tubeless
+Mahindra,Bolero Neo,N10,Exterior,LED DRLs,YES
+Mahindra,Bolero Neo,N10,Exterior,LED Headlamps,NO
+Mahindra,Bolero Neo,N10,Exterior,LED Taillights,NO
+Mahindra,Bolero Neo,N10,Safety,Anti-lock Braking System (ABS),YES
+Mahindra,Bolero Neo,N10,Safety,Central Locking,YES
+Mahindra,Bolero Neo,N10,Safety,Child Safety Locks,YES
+Mahindra,Bolero Neo,N10,Safety,No. of Airbags,2
+Mahindra,Bolero Neo,N10,Safety,Driver Airbag,YES
+Mahindra,Bolero Neo,N10,Safety,Passenger Airbag,YES
+Mahindra,Bolero Neo,N10,Safety,Side Airbag,NO
+Mahindra,Bolero Neo,N10,Safety,Side Airbag-Rear,NO
+Mahindra,Bolero Neo,N10,Safety,Day & Night Rear View Mirror,YES
+Mahindra,Bolero Neo,N10,Safety,Electronic Brakeforce Distribution (EBD),YES
+Mahindra,Bolero Neo,N10,Safety,Engine Immobilizer,YES
+Mahindra,Bolero Neo,N10,Safety,Rear Camera,With Guidedlines
+Mahindra,Bolero Neo,N10,Safety,ISOFIX Child Seat Mounts,YES
+Mahindra,Bolero Neo,N10,Safety,Global NCAP Safety Rating,1 Star
+Mahindra,Bolero Neo,N10,Safety,Global NCAP Child Safety Rating,1 Star
+Mahindra,Bolero Neo,N10,Entertainment & Communication,Radio,YES
+Mahindra,Bolero Neo,N10,Entertainment & Communication,Bluetooth Connectivity,YES
+Mahindra,Bolero Neo,N10,Entertainment & Communication,Touchscreen,YES
+Mahindra,Bolero Neo,N10,Entertainment & Communication,Touchscreen Size,8.97 inch
+Mahindra,Bolero Neo,N10,Entertainment & Communication,No. of Speakers,4
+Mahindra,Bolero Neo,N10,Entertainment & Communication,Usb Ports,YES
+Mahindra,Bolero Neo,N10,Entertainment & Communication,Tweeters,2
+Mahindra,Bolero Neo,N10,Entertainment & Communication,Speakers,Front & Rear

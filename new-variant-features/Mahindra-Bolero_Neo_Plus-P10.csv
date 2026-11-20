@@ -1,0 +1,145 @@
+company,model,variant,category,feature_name,feature_details
+Mahindra,Bolero Neo Plus,P10,Engine & Transmission,Engine Type,2.2L mHawk
+Mahindra,Bolero Neo Plus,P10,Engine & Transmission,Displacement,2184 cc
+Mahindra,Bolero Neo Plus,P10,Engine & Transmission,Max Power,118.35bhp@4000rpm
+Mahindra,Bolero Neo Plus,P10,Engine & Transmission,Max Torque,280Nm@1800-2800rpm
+Mahindra,Bolero Neo Plus,P10,Engine & Transmission,No. of Cylinders,4
+Mahindra,Bolero Neo Plus,P10,Engine & Transmission,Valves Per Cylinder,4
+Mahindra,Bolero Neo Plus,P10,Engine & Transmission,Turbo Charger,YES
+Mahindra,Bolero Neo Plus,P10,Engine & Transmission,Transmission Type,Manual
+Mahindra,Bolero Neo Plus,P10,Engine & Transmission,Gearbox,6-Speed
+Mahindra,Bolero Neo Plus,P10,Engine & Transmission,Drive Type,RWD
+Mahindra,Bolero Neo Plus,P10,Fuel & Performance,Fuel Type,Diesel
+Mahindra,Bolero Neo Plus,P10,Fuel & Performance,Diesel Fuel Tank Capacity,60 Litres
+Mahindra,Bolero Neo Plus,P10,Fuel & Performance,Diesel Highway Mileage,14 kmpl
+Mahindra,Bolero Neo Plus,P10,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Mahindra,Bolero Neo Plus,P10,"Suspension, Steering & Brakes",Front Suspension,Double wishbone suspension
+Mahindra,Bolero Neo Plus,P10,"Suspension, Steering & Brakes",Rear Suspension,Multi-link suspension
+Mahindra,Bolero Neo Plus,P10,"Suspension, Steering & Brakes",Steering Type,Hydraulic
+Mahindra,Bolero Neo Plus,P10,"Suspension, Steering & Brakes",Steering Column,Tilt
+Mahindra,Bolero Neo Plus,P10,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Mahindra,Bolero Neo Plus,P10,"Suspension, Steering & Brakes",Rear Brake Type,Drum
+Mahindra,Bolero Neo Plus,P10,Dimensions & Capacity,Length,4400 mm
+Mahindra,Bolero Neo Plus,P10,Dimensions & Capacity,Width,1795 mm
+Mahindra,Bolero Neo Plus,P10,Dimensions & Capacity,Height,1812 mm
+Mahindra,Bolero Neo Plus,P10,Dimensions & Capacity,Seating Capacity,9
+Mahindra,Bolero Neo Plus,P10,Dimensions & Capacity,Wheel Base,2680 mm
+Mahindra,Bolero Neo Plus,P10,Dimensions & Capacity,Reported Ground Clearance (Unladen),180 mm
+Mahindra,Bolero Neo Plus,P10,Comfort & Convenience,Boot Opening,Manual
+Mahindra,Bolero Neo Plus,P10,Comfort & Convenience,Power Steering,YES
+Mahindra,Bolero Neo Plus,P10,Comfort & Convenience,Air Conditioner,YES
+Mahindra,Bolero Neo Plus,P10,Comfort & Convenience,Heater,YES
+Mahindra,Bolero Neo Plus,P10,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Mahindra,Bolero Neo Plus,P10,Comfort & Convenience,Ventilated Seats,NO
+Mahindra,Bolero Neo Plus,P10,Comfort & Convenience,Electric Adjustable Seats,NO
+Mahindra,Bolero Neo Plus,P10,Comfort & Convenience,Automatic Climate Control,NO
+Mahindra,Bolero Neo Plus,P10,Comfort & Convenience,Air Quality Control,NO
+Mahindra,Bolero Neo Plus,P10,Comfort & Convenience,Accessory Power Outlet,YES
+Mahindra,Bolero Neo Plus,P10,Comfort & Convenience,Adjustable Headrest,YES
+Mahindra,Bolero Neo Plus,P10,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Mahindra,Bolero Neo Plus,P10,Comfort & Convenience,Cruise Control,NO
+Mahindra,Bolero Neo Plus,P10,Comfort & Convenience,Parking Sensors,Rear
+Mahindra,Bolero Neo Plus,P10,Comfort & Convenience,Real-Time Vehicle Tracking,NO
+Mahindra,Bolero Neo Plus,P10,Comfort & Convenience,Foldable Rear Seat,Bench Folding
+Mahindra,Bolero Neo Plus,P10,Comfort & Convenience,KeyLess Entry,YES
+Mahindra,Bolero Neo Plus,P10,Comfort & Convenience,Engine Start/Stop Button,NO
+Mahindra,Bolero Neo Plus,P10,Comfort & Convenience,Voice Commands,NO
+Mahindra,Bolero Neo Plus,P10,Comfort & Convenience,Paddle Shifters,NO
+Mahindra,Bolero Neo Plus,P10,Comfort & Convenience,Central Console Armrest,YES
+Mahindra,Bolero Neo Plus,P10,Comfort & Convenience,Idle Start-Stop System,YES
+Mahindra,Bolero Neo Plus,P10,Comfort & Convenience,Follow Me Home Headlamps,YES
+Mahindra,Bolero Neo Plus,P10,Comfort & Convenience,Power Windows,Front & Rear
+Mahindra,Bolero Neo Plus,P10,Interior,Glove Box,YES
+Mahindra,Bolero Neo Plus,P10,Interior,Folding Table in The Rear,NO
+Mahindra,Bolero Neo Plus,P10,Interior,Upholstery,Fabric
+Mahindra,Bolero Neo Plus,P10,Exterior,Adjustable Headlamps,YES
+Mahindra,Bolero Neo Plus,P10,Exterior,Headlamp Washers,NO
+Mahindra,Bolero Neo Plus,P10,Exterior,Rain Sensing Wiper,NO
+Mahindra,Bolero Neo Plus,P10,Exterior,Rear Window Wiper,YES
+Mahindra,Bolero Neo Plus,P10,Exterior,Rear Window Washer,YES
+Mahindra,Bolero Neo Plus,P10,Exterior,Rear Window Defogger,YES
+Mahindra,Bolero Neo Plus,P10,Exterior,Alloy Wheels,YES
+Mahindra,Bolero Neo Plus,P10,Exterior,Tinted Glass,YES
+Mahindra,Bolero Neo Plus,P10,Exterior,Side Stepper,YES
+Mahindra,Bolero Neo Plus,P10,Exterior,Outside Rear View Mirror Turn Indicators,NO
+Mahindra,Bolero Neo Plus,P10,Exterior,Roof Rails,NO
+Mahindra,Bolero Neo Plus,P10,Exterior,Fog Lights,Front
+Mahindra,Bolero Neo Plus,P10,Exterior,Sunroof,NO
+Mahindra,Bolero Neo Plus,P10,Exterior,Heated Outside Rear View Mirror,NO
+Mahindra,Bolero Neo Plus,P10,Exterior,Puddle Lamps,NO
+Mahindra,Bolero Neo Plus,P10,Exterior,Outside Rear View Mirror (ORVM),Powered
+Mahindra,Bolero Neo Plus,P10,Exterior,Tyre Size,215/70 R16
+Mahindra,Bolero Neo Plus,P10,Exterior,Tyre Type,Radial Tubeless
+Mahindra,Bolero Neo Plus,P10,Safety,Anti-lock Braking System (ABS),YES
+Mahindra,Bolero Neo Plus,P10,Safety,Central Locking,YES
+Mahindra,Bolero Neo Plus,P10,Safety,Child Safety Locks,YES
+Mahindra,Bolero Neo Plus,P10,Safety,No. of Airbags,2
+Mahindra,Bolero Neo Plus,P10,Safety,Driver Airbag,YES
+Mahindra,Bolero Neo Plus,P10,Safety,Passenger Airbag,YES
+Mahindra,Bolero Neo Plus,P10,Safety,Side Airbag,NO
+Mahindra,Bolero Neo Plus,P10,Safety,Side Airbag-Rear,NO
+Mahindra,Bolero Neo Plus,P10,Safety,Day & Night Rear View Mirror,YES
+Mahindra,Bolero Neo Plus,P10,Safety,Electronic Brakeforce Distribution (EBD),YES
+Mahindra,Bolero Neo Plus,P10,Safety,Engine Immobilizer,YES
+Mahindra,Bolero Neo Plus,P10,Safety,Rear Camera,NO
+Mahindra,Bolero Neo Plus,P10,Safety,ISOFIX Child Seat Mounts,YES
+Mahindra,Bolero Neo Plus,P10,Entertainment & Communication,Radio,YES
+Mahindra,Bolero Neo Plus,P10,Entertainment & Communication,MirrorLink,NO
+Mahindra,Bolero Neo Plus,P10,Entertainment & Communication,Wireless Phone Charging,NO
+Mahindra,Bolero Neo Plus,P10,Entertainment & Communication,Bluetooth Connectivity,YES
+Mahindra,Bolero Neo Plus,P10,Entertainment & Communication,Wi-Fi Connectivity,NO
+Mahindra,Bolero Neo Plus,P10,Entertainment & Communication,Touchscreen,YES
+Mahindra,Bolero Neo Plus,P10,Entertainment & Communication,Touchscreen Size,8.9 Inch
+Mahindra,Bolero Neo Plus,P10,Entertainment & Communication,Android Auto,NO
+Mahindra,Bolero Neo Plus,P10,Entertainment & Communication,Apple CarPlay,NO
+Mahindra,Bolero Neo Plus,P10,Entertainment & Communication,No. of Speakers,4
+Mahindra,Bolero Neo Plus,P10,Entertainment & Communication,Usb Ports,YES
+Mahindra,Bolero Neo Plus,P10,Entertainment & Communication,Tweeters,2
+Mahindra,Bolero Neo Plus,P10,Entertainment & Communication,Speakers,Front & Rear
+Mahindra,Bolero Neo Plus,P10,ADAS Feature,Forward Collision Warning,NO
+Mahindra,Bolero Neo Plus,P10,ADAS Feature,Automatic Emergency Braking,NO
+Mahindra,Bolero Neo Plus,P10,ADAS Feature,Oncoming Lane Mitigation,NO
+Mahindra,Bolero Neo Plus,P10,ADAS Feature,Speed Assist System,NO
+Mahindra,Bolero Neo Plus,P10,ADAS Feature,Traffic Sign Recognition,NO
+Mahindra,Bolero Neo Plus,P10,ADAS Feature,Blind Spot Collision Avoidance Assist,NO
+Mahindra,Bolero Neo Plus,P10,ADAS Feature,Lane Departure Warning,NO
+Mahindra,Bolero Neo Plus,P10,ADAS Feature,Lane Keep Assist,NO
+Mahindra,Bolero Neo Plus,P10,ADAS Feature,Lane Departure Prevention Assist,NO
+Mahindra,Bolero Neo Plus,P10,ADAS Feature,Road Departure Mitigation System,NO
+Mahindra,Bolero Neo Plus,P10,ADAS Feature,Driver Attention Warning,NO
+Mahindra,Bolero Neo Plus,P10,ADAS Feature,Adaptive Cruise Control,NO
+Mahindra,Bolero Neo Plus,P10,ADAS Feature,Leading Vehicle Departure Alert,NO
+Mahindra,Bolero Neo Plus,P10,ADAS Feature,Adaptive High Beam Assist,NO
+Mahindra,Bolero Neo Plus,P10,ADAS Feature,Rear Cross Traffic Alert,NO
+Mahindra,Bolero Neo Plus,P10,ADAS Feature,Rear Cross Traffic Collision-Avoidance Assist,NO
+Mahindra,Bolero Neo Plus,P10,ADAS Feature,Autonomous Parking,NO
+Mahindra,Bolero Neo Plus,P10,Advance Internet Feature,Live Location,NO
+Mahindra,Bolero Neo Plus,P10,Advance Internet Feature,Remote Immobiliser,NO
+Mahindra,Bolero Neo Plus,P10,Advance Internet Feature,Unauthorised Vehicle entry,NO
+Mahindra,Bolero Neo Plus,P10,Advance Internet Feature,Engine Start Alarm,NO
+Mahindra,Bolero Neo Plus,P10,Advance Internet Feature,Remote Vehicle Status Check,NO
+Mahindra,Bolero Neo Plus,P10,Advance Internet Feature,PUC Expiry,NO
+Mahindra,Bolero Neo Plus,P10,Advance Internet Feature,Insurance Expiry,NO
+Mahindra,Bolero Neo Plus,P10,Advance Internet Feature,E-Manual,NO
+Mahindra,Bolero Neo Plus,P10,Advance Internet Feature,Digital Car Key,NO
+Mahindra,Bolero Neo Plus,P10,Advance Internet Feature,Inbuilt Assistant,NO
+Mahindra,Bolero Neo Plus,P10,Advance Internet Feature,Hinglish Voice Commands,NO
+Mahindra,Bolero Neo Plus,P10,Advance Internet Feature,Navigation with Live Traffic,NO
+Mahindra,Bolero Neo Plus,P10,Advance Internet Feature,Send POI to Vehicle From App,NO
+Mahindra,Bolero Neo Plus,P10,Advance Internet Feature,Live Weather,NO
+Mahindra,Bolero Neo Plus,P10,Advance Internet Feature,E-Call & I-Call,NO
+Mahindra,Bolero Neo Plus,P10,Advance Internet Feature,Over the Air (OTA) Updates,NO
+Mahindra,Bolero Neo Plus,P10,Advance Internet Feature,Google / Alexa Connectivity,NO
+Mahindra,Bolero Neo Plus,P10,Advance Internet Feature,Save Route/Place,NO
+Mahindra,Bolero Neo Plus,P10,Advance Internet Feature,Crash Notification,NO
+Mahindra,Bolero Neo Plus,P10,Advance Internet Feature,SOS Button,NO
+Mahindra,Bolero Neo Plus,P10,Advance Internet Feature,RSA,NO
+Mahindra,Bolero Neo Plus,P10,Advance Internet Feature,Over Speeding Alert,NO
+Mahindra,Bolero Neo Plus,P10,Advance Internet Feature,Tow Away Alert,NO
+Mahindra,Bolero Neo Plus,P10,Advance Internet Feature,In Car Remote Control App,NO
+Mahindra,Bolero Neo Plus,P10,Advance Internet Feature,Smartwatch App,NO
+Mahindra,Bolero Neo Plus,P10,Advance Internet Feature,Valet Mode,NO
+Mahindra,Bolero Neo Plus,P10,Advance Internet Feature,Remote AC On/Off,NO
+Mahindra,Bolero Neo Plus,P10,Advance Internet Feature,Remote Door Lock/Unlock,NO
+Mahindra,Bolero Neo Plus,P10,Advance Internet Feature,Remote Vehicle Ignition Start/Stop,NO
+Mahindra,Bolero Neo Plus,P10,Advance Internet Feature,Remote Boot Open,NO

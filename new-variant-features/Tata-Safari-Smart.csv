@@ -1,0 +1,150 @@
+company,model,variant,category,feature_name,feature_details
+Tata,Safari,Smart,Engine & Transmission,Engine Type,Kryotec 2.0L
+Tata,Safari,Smart,Engine & Transmission,Displacement,1956 cc
+Tata,Safari,Smart,Engine & Transmission,Max Power,167.62bhp@3750rpm
+Tata,Safari,Smart,Engine & Transmission,Max Torque,350Nm@1750-2500rpm
+Tata,Safari,Smart,Engine & Transmission,No. of Cylinders,4
+Tata,Safari,Smart,Engine & Transmission,Valves Per Cylinder,4
+Tata,Safari,Smart,Engine & Transmission,Turbo Charger,YES
+Tata,Safari,Smart,Engine & Transmission,Transmission Type,Manual
+Tata,Safari,Smart,Engine & Transmission,Gearbox,6-Speed
+Tata,Safari,Smart,Engine & Transmission,Drive Type,FWD
+Tata,Safari,Smart,Fuel & Performance,Fuel Type,Diesel
+Tata,Safari,Smart,Fuel & Performance,Diesel Fuel Tank Capacity,50 Litres
+Tata,Safari,Smart,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Tata,Safari,Smart,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Tata,Safari,Smart,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Tata,Safari,Smart,"Suspension, Steering & Brakes",Steering Type,Electric
+Tata,Safari,Smart,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Tata,Safari,Smart,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Tata,Safari,Smart,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Tata,Safari,Smart,Dimensions & Capacity,Length,4668 mm
+Tata,Safari,Smart,Dimensions & Capacity,Width,1922 mm
+Tata,Safari,Smart,Dimensions & Capacity,Height,1795 mm
+Tata,Safari,Smart,Dimensions & Capacity,Boot Space,680 Litres
+Tata,Safari,Smart,Dimensions & Capacity,Seating Capacity,7
+Tata,Safari,Smart,Dimensions & Capacity,Wheel Base,2741 mm
+Tata,Safari,Smart,Comfort & Convenience,Boot Opening,Electronic
+Tata,Safari,Smart,Comfort & Convenience,Power Steering,YES
+Tata,Safari,Smart,Comfort & Convenience,Air Conditioner,YES
+Tata,Safari,Smart,Comfort & Convenience,Heater,YES
+Tata,Safari,Smart,Comfort & Convenience,Adjustable Steering,Height & Reach
+Tata,Safari,Smart,Comfort & Convenience,Height Adjustable Driver Seat,NO
+Tata,Safari,Smart,Comfort & Convenience,Ventilated Seats,NO
+Tata,Safari,Smart,Comfort & Convenience,Electric Adjustable Seats,NO
+Tata,Safari,Smart,Comfort & Convenience,Automatic Climate Control,YES
+Tata,Safari,Smart,Comfort & Convenience,Air Quality Control,NO
+Tata,Safari,Smart,Comfort & Convenience,Accessory Power Outlet,YES
+Tata,Safari,Smart,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Tata,Safari,Smart,Comfort & Convenience,Adjustable Headrest,YES
+Tata,Safari,Smart,Comfort & Convenience,Rear Seat Centre Arm Rest,NO
+Tata,Safari,Smart,Comfort & Convenience,Rear AC Vents,YES
+Tata,Safari,Smart,Comfort & Convenience,Cruise Control,NO
+Tata,Safari,Smart,Comfort & Convenience,Parking Sensors,Rear
+Tata,Safari,Smart,Comfort & Convenience,Real-Time Vehicle Tracking,NO
+Tata,Safari,Smart,Comfort & Convenience,Foldable Rear Seat,2nd Row 60:40 Split
+Tata,Safari,Smart,Comfort & Convenience,KeyLess Entry,NO
+Tata,Safari,Smart,Comfort & Convenience,Engine Start/Stop Button,NO
+Tata,Safari,Smart,Comfort & Convenience,Voice Commands,NO
+Tata,Safari,Smart,Comfort & Convenience,Paddle Shifters,NO
+Tata,Safari,Smart,Comfort & Convenience,USB Charger,Front & Rear
+Tata,Safari,Smart,Comfort & Convenience,Central Console Armrest,NO
+Tata,Safari,Smart,Comfort & Convenience,Drive Modes,NO
+Tata,Safari,Smart,Comfort & Convenience,Glove Box light,NO
+Tata,Safari,Smart,Comfort & Convenience,Follow Me Home Headlamps,NO
+Tata,Safari,Smart,Comfort & Convenience,Voice assisted sunroof,NO
+Tata,Safari,Smart,Comfort & Convenience,Drive Mode Types,NO
+Tata,Safari,Smart,Comfort & Convenience,Power Windows,Front & Rear
+Tata,Safari,Smart,Interior,Leather Wrapped Steering Wheel,NO
+Tata,Safari,Smart,Interior,Glove Box,YES
+Tata,Safari,Smart,Interior,Digital Cluster,YES
+Tata,Safari,Smart,Interior,Digital Cluster Size,7
+Tata,Safari,Smart,Interior,Upholstery,Fabric
+Tata,Safari,Smart,Exterior,Rain Sensing Wiper,NO
+Tata,Safari,Smart,Exterior,Rear Window Wiper,NO
+Tata,Safari,Smart,Exterior,Rear Window Washer,NO
+Tata,Safari,Smart,Exterior,Rear Window Defogger,NO
+Tata,Safari,Smart,Exterior,Wheel Covers,NO
+Tata,Safari,Smart,Exterior,Alloy Wheels,YES
+Tata,Safari,Smart,Exterior,Rear Spoiler,YES
+Tata,Safari,Smart,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Tata,Safari,Smart,Exterior,Projector Headlamps,YES
+Tata,Safari,Smart,Exterior,Cornering Headlamps,NO
+Tata,Safari,Smart,Exterior,Cornering Foglamps,NO
+Tata,Safari,Smart,Exterior,Roof Rails,YES
+Tata,Safari,Smart,Exterior,Automatic Headlamps,NO
+Tata,Safari,Smart,Exterior,Fog Lights,NO
+Tata,Safari,Smart,Exterior,Antenna,Pole Type
+Tata,Safari,Smart,Exterior,Sunroof,NO
+Tata,Safari,Smart,Exterior,Heated Outside Rear View Mirror,NO
+Tata,Safari,Smart,Exterior,Outside Rear View Mirror (ORVM),Powered
+Tata,Safari,Smart,Exterior,Tyre Size,235/65/R17
+Tata,Safari,Smart,Exterior,Tyre Type,Radial Tubeless
+Tata,Safari,Smart,Exterior,LED DRLs,YES
+Tata,Safari,Smart,Exterior,LED Headlamps,YES
+Tata,Safari,Smart,Exterior,LED Taillights,YES
+Tata,Safari,Smart,Exterior,LED Fog Lamps,NO
+Tata,Safari,Smart,Safety,Anti-lock Braking System (ABS),YES
+Tata,Safari,Smart,Safety,Brake Assist,YES
+Tata,Safari,Smart,Safety,Central Locking,NO
+Tata,Safari,Smart,Safety,Anti-Theft Alarm,YES
+Tata,Safari,Smart,Safety,No. of Airbags,6
+Tata,Safari,Smart,Safety,Driver Airbag,YES
+Tata,Safari,Smart,Safety,Passenger Airbag,YES
+Tata,Safari,Smart,Safety,Side Airbag,YES
+Tata,Safari,Smart,Safety,Side Airbag-Rear,NO
+Tata,Safari,Smart,Safety,Day & Night Rear View Mirror,YES
+Tata,Safari,Smart,Safety,Electronic Brakeforce Distribution (EBD),YES
+Tata,Safari,Smart,Safety,Traction Control,YES
+Tata,Safari,Smart,Safety,Tyre Pressure Monitoring System (TPMS),NO
+Tata,Safari,Smart,Safety,Engine Immobilizer,YES
+Tata,Safari,Smart,Safety,Electronic Stability Control (ESC),YES
+Tata,Safari,Smart,Safety,Rear Camera,NO
+Tata,Safari,Smart,Safety,Anti-Theft Device,YES
+Tata,Safari,Smart,Safety,ISOFIX Child Seat Mounts,YES
+Tata,Safari,Smart,Safety,Heads-Up Display (HUD),NO
+Tata,Safari,Smart,Safety,Hill Descent Control,NO
+Tata,Safari,Smart,Safety,Hill Assist,YES
+Tata,Safari,Smart,Safety,360 View Camera,NO
+Tata,Safari,Smart,Safety,Global NCAP Safety Rating,5 Star
+Tata,Safari,Smart,Safety,Global NCAP Child Safety Rating,5 Star
+Tata,Safari,Smart,Safety,Bharat NCAP Safety Rating,5 Star
+Tata,Safari,Smart,Safety,Bharat NCAP Child Safety Rating,5 Star
+Tata,Safari,Smart,Entertainment & Communication,Radio,NO
+Tata,Safari,Smart,Entertainment & Communication,Wireless Phone Charging,NO
+Tata,Safari,Smart,Entertainment & Communication,Bluetooth Connectivity,NO
+Tata,Safari,Smart,Entertainment & Communication,Touchscreen,NO
+Tata,Safari,Smart,Entertainment & Communication,Touchscreen Size,no inch
+Tata,Safari,Smart,Entertainment & Communication,Android Auto,NO
+Tata,Safari,Smart,Entertainment & Communication,Apple CarPlay,NO
+Tata,Safari,Smart,Entertainment & Communication,Usb Ports,YES
+Tata,Safari,Smart,Entertainment & Communication,Speakers,NO
+Tata,Safari,Smart,ADAS Feature,Forward Collision Warning,NO
+Tata,Safari,Smart,ADAS Feature,Automatic Emergency Braking,NO
+Tata,Safari,Smart,ADAS Feature,Speed Assist System,NO
+Tata,Safari,Smart,ADAS Feature,Traffic Sign Recognition,NO
+Tata,Safari,Smart,ADAS Feature,Blind Spot Collision Avoidance Assist,NO
+Tata,Safari,Smart,ADAS Feature,Lane Departure Warning,NO
+Tata,Safari,Smart,ADAS Feature,Lane Keep Assist,NO
+Tata,Safari,Smart,ADAS Feature,Driver Attention Warning,NO
+Tata,Safari,Smart,ADAS Feature,Adaptive Cruise Control,NO
+Tata,Safari,Smart,ADAS Feature,Adaptive High Beam Assist,NO
+Tata,Safari,Smart,ADAS Feature,Rear Cross Traffic Alert,NO
+Tata,Safari,Smart,ADAS Feature,Rear Cross Traffic Collision-Avoidance Assist,NO
+Tata,Safari,Smart,ADAS Feature,Blind Spot Monitor,NO
+Tata,Safari,Smart,Advance Internet Feature,Live Location,NO
+Tata,Safari,Smart,Advance Internet Feature,Remote Immobiliser,NO
+Tata,Safari,Smart,Advance Internet Feature,Unauthorised Vehicle entry,YES
+Tata,Safari,Smart,Advance Internet Feature,Remote Vehicle Status Check,NO
+Tata,Safari,Smart,Advance Internet Feature,Navigation with Live Traffic,NO
+Tata,Safari,Smart,Advance Internet Feature,Live Weather,NO
+Tata,Safari,Smart,Advance Internet Feature,E-Call & I-Call,NO
+Tata,Safari,Smart,Advance Internet Feature,Over the Air (OTA) Updates,NO
+Tata,Safari,Smart,Advance Internet Feature,Google / Alexa Connectivity,NO
+Tata,Safari,Smart,Advance Internet Feature,Save Route/Place,NO
+Tata,Safari,Smart,Advance Internet Feature,SOS Button,NO
+Tata,Safari,Smart,Advance Internet Feature,RSA,NO
+Tata,Safari,Smart,Advance Internet Feature,Over Speeding Alert,NO
+Tata,Safari,Smart,Advance Internet Feature,In Car Remote Control App,NO
+Tata,Safari,Smart,Advance Internet Feature,Valet Mode,NO
+Tata,Safari,Smart,Advance Internet Feature,Geo-fence Alert,NO

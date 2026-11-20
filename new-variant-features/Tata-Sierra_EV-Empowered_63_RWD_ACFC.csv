@@ -1,0 +1,149 @@
+company,model,variant,category,feature_name,feature_details
+Tata,Sierra EV,Empowered 63 RWD ACFC,Engine & Transmission,Battery Capacity,63 kWh
+Tata,Sierra EV,Empowered 63 RWD ACFC,Engine & Transmission,Range,566 km
+Tata,Sierra EV,Empowered 63 RWD ACFC,Engine & Transmission,Battery Type,Lithium ion
+Tata,Sierra EV,Empowered 63 RWD ACFC,Engine & Transmission,Charging Time (D.C),25Min-110kW-(20-80%)
+Tata,Sierra EV,Empowered 63 RWD ACFC,Engine & Transmission,Regenerative Braking,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Engine & Transmission,Regenerative Braking Levels,4
+Tata,Sierra EV,Empowered 63 RWD ACFC,Engine & Transmission,Charging Port,CCS-II
+Tata,Sierra EV,Empowered 63 RWD ACFC,Engine & Transmission,Charging Options,"DC Fast Charger, 7.2 kW AC Wall Box, 15A Socket"
+Tata,Sierra EV,Empowered 63 RWD ACFC,Engine & Transmission,Charger Type,CCS2 (DC)/Type 2 (AC)
+Tata,Sierra EV,Empowered 63 RWD ACFC,Engine & Transmission,Charging Time (7.2 kW AC Fast Charger),8.9 hr
+Tata,Sierra EV,Empowered 63 RWD ACFC,Engine & Transmission,Transmission Type,Automatic
+Tata,Sierra EV,Empowered 63 RWD ACFC,Engine & Transmission,Gearbox,1-Speed
+Tata,Sierra EV,Empowered 63 RWD ACFC,Engine & Transmission,Drive Type,RWD
+Tata,Sierra EV,Empowered 63 RWD ACFC,Fuel & Performance,Fuel Type,Electric
+Tata,Sierra EV,Empowered 63 RWD ACFC,Fuel & Performance,Emission Norm Compliance,ZEV
+Tata,Sierra EV,Empowered 63 RWD ACFC,Charging,Fast Charging,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Tata,Sierra EV,Empowered 63 RWD ACFC,"Suspension, Steering & Brakes",Rear Suspension,Multi-link suspension
+Tata,Sierra EV,Empowered 63 RWD ACFC,"Suspension, Steering & Brakes",Steering Type,Electric
+Tata,Sierra EV,Empowered 63 RWD ACFC,"Suspension, Steering & Brakes",Steering Column,Tilt &Telescopic
+Tata,Sierra EV,Empowered 63 RWD ACFC,"Suspension, Steering & Brakes",Turning Radius,5.32
+Tata,Sierra EV,Empowered 63 RWD ACFC,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Tata,Sierra EV,Empowered 63 RWD ACFC,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Tata,Sierra EV,Empowered 63 RWD ACFC,Dimensions & Capacity,Length,4340 mm
+Tata,Sierra EV,Empowered 63 RWD ACFC,Dimensions & Capacity,Width,1841 mm
+Tata,Sierra EV,Empowered 63 RWD ACFC,Dimensions & Capacity,Height,1750 mm
+Tata,Sierra EV,Empowered 63 RWD ACFC,Dimensions & Capacity,Boot Space,622 Litres
+Tata,Sierra EV,Empowered 63 RWD ACFC,Dimensions & Capacity,Seating Capacity,5
+Tata,Sierra EV,Empowered 63 RWD ACFC,Dimensions & Capacity,Ground Clearance Unladen,205 mm
+Tata,Sierra EV,Empowered 63 RWD ACFC,Dimensions & Capacity,Wheel Base,2730 mm
+Tata,Sierra EV,Empowered 63 RWD ACFC,Comfort & Convenience,Boot Opening,Hands-Free
+Tata,Sierra EV,Empowered 63 RWD ACFC,Comfort & Convenience,Power Steering,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Comfort & Convenience,Air Conditioner,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Comfort & Convenience,Heater,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Comfort & Convenience,Adjustable Steering,Height & Reach
+Tata,Sierra EV,Empowered 63 RWD ACFC,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Comfort & Convenience,Ventilated Seats,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Comfort & Convenience,Electric Adjustable Seats,Front
+Tata,Sierra EV,Empowered 63 RWD ACFC,Comfort & Convenience,Automatic Climate Control,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Comfort & Convenience,Air Quality Control,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Comfort & Convenience,Accessory Power Outlet,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Tata,Sierra EV,Empowered 63 RWD ACFC,Comfort & Convenience,Adjustable Headrest,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Comfort & Convenience,Rear AC Vents,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Comfort & Convenience,Cruise Control,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Comfort & Convenience,Parking Sensors,Front & Rear
+Tata,Sierra EV,Empowered 63 RWD ACFC,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Tata,Sierra EV,Empowered 63 RWD ACFC,Comfort & Convenience,KeyLess Entry,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Comfort & Convenience,Engine Start/Stop Button,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Comfort & Convenience,Voice Commands,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Comfort & Convenience,Paddle Shifters,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Comfort & Convenience,USB Charger,Front & Rear
+Tata,Sierra EV,Empowered 63 RWD ACFC,Comfort & Convenience,Central Console Armrest,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Comfort & Convenience,Drive Modes,3
+Tata,Sierra EV,Empowered 63 RWD ACFC,Comfort & Convenience,Follow Me Home Headlamps,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Comfort & Convenience,Voice assisted sunroof,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Comfort & Convenience,Vechicle to Vehicle Charging,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Comfort & Convenience,Vehicle to Load Charging,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Comfort & Convenience,Drive Mode Types,Eco| City |Sport
+Tata,Sierra EV,Empowered 63 RWD ACFC,Comfort & Convenience,Power Windows,Front & Rear
+Tata,Sierra EV,Empowered 63 RWD ACFC,Interior,Leather Wrapped Steering Wheel,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Interior,Glove Box,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Interior,Lighting,"Ambient light, Boot Lamp"
+Tata,Sierra EV,Empowered 63 RWD ACFC,Interior,Digital Cluster,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Interior,Digital Cluster Size,10.25
+Tata,Sierra EV,Empowered 63 RWD ACFC,Interior,Upholstery,Leatherette
+Tata,Sierra EV,Empowered 63 RWD ACFC,Exterior,Adjustable Headlamps,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Exterior,Rain Sensing Wiper,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Exterior,Rear Window Wiper,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Exterior,Rear Window Washer,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Exterior,Rear Window Defogger,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Exterior,Wheel Covers,NO
+Tata,Sierra EV,Empowered 63 RWD ACFC,Exterior,Alloy Wheels,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Exterior,Rear Spoiler,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Exterior,Projector Headlamps,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Exterior,Cornering Foglamps,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Exterior,Roof Rails,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Exterior,Automatic Headlamps,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Exterior,Fog Lights,Front & Rear
+Tata,Sierra EV,Empowered 63 RWD ACFC,Exterior,Antenna,Shark Fin
+Tata,Sierra EV,Empowered 63 RWD ACFC,Exterior,Sunroof,Panoramic
+Tata,Sierra EV,Empowered 63 RWD ACFC,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Tata,Sierra EV,Empowered 63 RWD ACFC,Exterior,Tyre Size,225/60 R18
+Tata,Sierra EV,Empowered 63 RWD ACFC,Exterior,Tyre Type,Radial Tubeless
+Tata,Sierra EV,Empowered 63 RWD ACFC,Exterior,LED DRLs,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Exterior,LED Headlamps,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Exterior,LED Taillights,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Exterior,LED Fog Lamps,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Safety,Anti-lock Braking System (ABS),YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Safety,Brake Assist,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Safety,Central Locking,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Safety,Child Safety Locks,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Safety,Anti-Theft Alarm,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Safety,No. of Airbags,6
+Tata,Sierra EV,Empowered 63 RWD ACFC,Safety,Driver Airbag,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Safety,Passenger Airbag,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Safety,Side Airbag,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Safety,Side Airbag-Rear,NO
+Tata,Sierra EV,Empowered 63 RWD ACFC,Safety,Day & Night Rear View Mirror,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Safety,Electronic Brakeforce Distribution (EBD),YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Safety,Traction Control,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Safety,Electronic Stability Control (ESC),YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Safety,Rear Camera,With Guidedlines
+Tata,Sierra EV,Empowered 63 RWD ACFC,Safety,Anti-Theft Device,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Safety,ISOFIX Child Seat Mounts,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Safety,Heads-Up Display (HUD),NO
+Tata,Sierra EV,Empowered 63 RWD ACFC,Safety,Hill Descent Control,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Safety,Hill Assist,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Safety,360 View Camera,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Safety,Bharat NCAP Safety Rating,5 Star
+Tata,Sierra EV,Empowered 63 RWD ACFC,Safety,Bharat NCAP Child Safety Rating,5 Star
+Tata,Sierra EV,Empowered 63 RWD ACFC,Entertainment & Communication,Radio,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Entertainment & Communication,Wireless Phone Charging,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Entertainment & Communication,Bluetooth Connectivity,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Entertainment & Communication,Touchscreen,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Entertainment & Communication,Touchscreen Size,12.30 inch
+Tata,Sierra EV,Empowered 63 RWD ACFC,Entertainment & Communication,Android Auto,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Entertainment & Communication,Apple CarPlay,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Entertainment & Communication,No. of Speakers,12
+Tata,Sierra EV,Empowered 63 RWD ACFC,Entertainment & Communication,Usb Ports,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Entertainment & Communication,Speakers,Front & Rear
+Tata,Sierra EV,Empowered 63 RWD ACFC,Entertainment & Communication,Dolby Atmos,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,ADAS Feature,Forward Collision Warning,NO
+Tata,Sierra EV,Empowered 63 RWD ACFC,ADAS Feature,Automatic Emergency Braking,NO
+Tata,Sierra EV,Empowered 63 RWD ACFC,ADAS Feature,Speed Assist System,NO
+Tata,Sierra EV,Empowered 63 RWD ACFC,ADAS Feature,Traffic Sign Recognition,NO
+Tata,Sierra EV,Empowered 63 RWD ACFC,ADAS Feature,Lane Departure Warning,NO
+Tata,Sierra EV,Empowered 63 RWD ACFC,ADAS Feature,Lane Keep Assist,NO
+Tata,Sierra EV,Empowered 63 RWD ACFC,ADAS Feature,Adaptive High Beam Assist,NO
+Tata,Sierra EV,Empowered 63 RWD ACFC,ADAS Feature,Rear Cross Traffic Alert,NO
+Tata,Sierra EV,Empowered 63 RWD ACFC,ADAS Feature,Blind Spot Monitor,NO
+Tata,Sierra EV,Empowered 63 RWD ACFC,ADAS Feature,Autonomous Parking,NO
+Tata,Sierra EV,Empowered 63 RWD ACFC,Advance Internet Feature,Remote Vehicle Status Check,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Advance Internet Feature,Navigation with Live Traffic,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Advance Internet Feature,E-Call & I-Call,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Advance Internet Feature,Over the Air (OTA) Updates,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Advance Internet Feature,Google / Alexa Connectivity,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Advance Internet Feature,SOS Button,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Advance Internet Feature,Over Speeding Alert,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Advance Internet Feature,In Car Remote Control App,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Advance Internet Feature,Remote AC On/Off,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Advance Internet Feature,Remote Door Lock/Unlock,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Advance Internet Feature,SOS / Emergency Assistance,YES
+Tata,Sierra EV,Empowered 63 RWD ACFC,Advance Internet Feature,Inbuilt APPs,iRA.ev

@@ -1,0 +1,116 @@
+company,model,variant,category,feature_name,feature_details
+Mahindra,Scorpio N,Z2 Diesel MT,Engine & Transmission,Engine Type,mHawk (CRDi)
+Mahindra,Scorpio N,Z2 Diesel MT,Engine & Transmission,Displacement,2198 cc
+Mahindra,Scorpio N,Z2 Diesel MT,Engine & Transmission,Max Power,130bhp@3750rpm
+Mahindra,Scorpio N,Z2 Diesel MT,Engine & Transmission,Max Torque,300Nm@1600-2800rpm
+Mahindra,Scorpio N,Z2 Diesel MT,Engine & Transmission,No. of Cylinders,4
+Mahindra,Scorpio N,Z2 Diesel MT,Engine & Transmission,Valves Per Cylinder,4
+Mahindra,Scorpio N,Z2 Diesel MT,Engine & Transmission,Turbo Charger,YES
+Mahindra,Scorpio N,Z2 Diesel MT,Engine & Transmission,Transmission Type,Manual
+Mahindra,Scorpio N,Z2 Diesel MT,Engine & Transmission,Gearbox,6-Speed
+Mahindra,Scorpio N,Z2 Diesel MT,Engine & Transmission,Drive Type,RWD
+Mahindra,Scorpio N,Z2 Diesel MT,Fuel & Performance,Fuel Type,Diesel
+Mahindra,Scorpio N,Z2 Diesel MT,Fuel & Performance,Diesel Fuel Tank Capacity,57 Litres
+Mahindra,Scorpio N,Z2 Diesel MT,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Mahindra,Scorpio N,Z2 Diesel MT,"Suspension, Steering & Brakes",Front Suspension,Double wishbone suspension
+Mahindra,Scorpio N,Z2 Diesel MT,"Suspension, Steering & Brakes",Rear Suspension,"Multi-link, Solid Axle"
+Mahindra,Scorpio N,Z2 Diesel MT,"Suspension, Steering & Brakes",Steering Type,Hydraulic
+Mahindra,Scorpio N,Z2 Diesel MT,"Suspension, Steering & Brakes",Steering Column,Tilt
+Mahindra,Scorpio N,Z2 Diesel MT,"Suspension, Steering & Brakes",Front Brake Type,Ventilated Disc
+Mahindra,Scorpio N,Z2 Diesel MT,"Suspension, Steering & Brakes",Rear Brake Type,Ventilated Disc
+Mahindra,Scorpio N,Z2 Diesel MT,"Suspension, Steering & Brakes",Boot Space Rear Seat Folding,786 Litres
+Mahindra,Scorpio N,Z2 Diesel MT,Dimensions & Capacity,Length,4662 mm
+Mahindra,Scorpio N,Z2 Diesel MT,Dimensions & Capacity,Width,1917 mm
+Mahindra,Scorpio N,Z2 Diesel MT,Dimensions & Capacity,Height,1857 mm
+Mahindra,Scorpio N,Z2 Diesel MT,Dimensions & Capacity,Seating Capacity,7
+Mahindra,Scorpio N,Z2 Diesel MT,Dimensions & Capacity,Wheel Base,2750 mm
+Mahindra,Scorpio N,Z2 Diesel MT,Comfort & Convenience,Boot Opening,Manual
+Mahindra,Scorpio N,Z2 Diesel MT,Comfort & Convenience,Power Steering,YES
+Mahindra,Scorpio N,Z2 Diesel MT,Comfort & Convenience,Air Conditioner,YES
+Mahindra,Scorpio N,Z2 Diesel MT,Comfort & Convenience,Heater,YES
+Mahindra,Scorpio N,Z2 Diesel MT,Comfort & Convenience,Height Adjustable Driver Seat,NO
+Mahindra,Scorpio N,Z2 Diesel MT,Comfort & Convenience,Ventilated Seats,NO
+Mahindra,Scorpio N,Z2 Diesel MT,Comfort & Convenience,Electric Adjustable Seats,NO
+Mahindra,Scorpio N,Z2 Diesel MT,Comfort & Convenience,Automatic Climate Control,NO
+Mahindra,Scorpio N,Z2 Diesel MT,Comfort & Convenience,Accessory Power Outlet,YES
+Mahindra,Scorpio N,Z2 Diesel MT,Comfort & Convenience,Adjustable Headrest,YES
+Mahindra,Scorpio N,Z2 Diesel MT,Comfort & Convenience,Rear AC Vents,YES
+Mahindra,Scorpio N,Z2 Diesel MT,Comfort & Convenience,Lumbar Support,NO
+Mahindra,Scorpio N,Z2 Diesel MT,Comfort & Convenience,Cruise Control,NO
+Mahindra,Scorpio N,Z2 Diesel MT,Comfort & Convenience,Parking Sensors,Rear
+Mahindra,Scorpio N,Z2 Diesel MT,Comfort & Convenience,KeyLess Entry,NO
+Mahindra,Scorpio N,Z2 Diesel MT,Comfort & Convenience,Engine Start/Stop Button,NO
+Mahindra,Scorpio N,Z2 Diesel MT,Comfort & Convenience,USB Charger,Front & Rear
+Mahindra,Scorpio N,Z2 Diesel MT,Comfort & Convenience,Gear Shift Indicator,YES
+Mahindra,Scorpio N,Z2 Diesel MT,Comfort & Convenience,Idle Start-Stop System,YES
+Mahindra,Scorpio N,Z2 Diesel MT,Comfort & Convenience,Power Windows,Front & Rear
+Mahindra,Scorpio N,Z2 Diesel MT,Interior,Leather Wrapped Steering Wheel,NO
+Mahindra,Scorpio N,Z2 Diesel MT,Interior,Leather wrap gear-shift selector,NO
+Mahindra,Scorpio N,Z2 Diesel MT,Interior,Glove Box,YES
+Mahindra,Scorpio N,Z2 Diesel MT,Interior,Digital Cluster,YES
+Mahindra,Scorpio N,Z2 Diesel MT,Interior,Digital Cluster Size,4.19 inch
+Mahindra,Scorpio N,Z2 Diesel MT,Interior,Upholstery,Fabric
+Mahindra,Scorpio N,Z2 Diesel MT,Exterior,Adjustable Headlamps,YES
+Mahindra,Scorpio N,Z2 Diesel MT,Exterior,Rear Window Wiper,NO
+Mahindra,Scorpio N,Z2 Diesel MT,Exterior,Rear Window Washer,NO
+Mahindra,Scorpio N,Z2 Diesel MT,Exterior,Rear Window Defogger,NO
+Mahindra,Scorpio N,Z2 Diesel MT,Exterior,Rear Spoiler,NO
+Mahindra,Scorpio N,Z2 Diesel MT,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Mahindra,Scorpio N,Z2 Diesel MT,Exterior,Projector Headlamps,NO
+Mahindra,Scorpio N,Z2 Diesel MT,Exterior,Halogen Headlamps,YES
+Mahindra,Scorpio N,Z2 Diesel MT,Exterior,Fog Lights,NO
+Mahindra,Scorpio N,Z2 Diesel MT,Exterior,Antenna,Shark Fin
+Mahindra,Scorpio N,Z2 Diesel MT,Exterior,Sunroof,NO
+Mahindra,Scorpio N,Z2 Diesel MT,Exterior,Outside Rear View Mirror (ORVM),Manual
+Mahindra,Scorpio N,Z2 Diesel MT,Exterior,Tyre Size,245/65 R17
+Mahindra,Scorpio N,Z2 Diesel MT,Exterior,Tyre Type,Tubeless
+Mahindra,Scorpio N,Z2 Diesel MT,Exterior,Wheel Size,17 Inch
+Mahindra,Scorpio N,Z2 Diesel MT,Exterior,LED DRLs,NO
+Mahindra,Scorpio N,Z2 Diesel MT,Exterior,LED Headlamps,NO
+Mahindra,Scorpio N,Z2 Diesel MT,Exterior,LED Taillights,YES
+Mahindra,Scorpio N,Z2 Diesel MT,Exterior,LED Fog Lamps,NO
+Mahindra,Scorpio N,Z2 Diesel MT,Exterior,Additional Features,MIC Black Front Grille
+Mahindra,Scorpio N,Z2 Diesel MT,Safety,Anti-lock Braking System (ABS),YES
+Mahindra,Scorpio N,Z2 Diesel MT,Safety,Central Locking,YES
+Mahindra,Scorpio N,Z2 Diesel MT,Safety,Child Safety Locks,YES
+Mahindra,Scorpio N,Z2 Diesel MT,Safety,No. of Airbags,2
+Mahindra,Scorpio N,Z2 Diesel MT,Safety,Driver Airbag,YES
+Mahindra,Scorpio N,Z2 Diesel MT,Safety,Passenger Airbag,YES
+Mahindra,Scorpio N,Z2 Diesel MT,Safety,Side Airbag,NO
+Mahindra,Scorpio N,Z2 Diesel MT,Safety,Side Airbag-Rear,NO
+Mahindra,Scorpio N,Z2 Diesel MT,Safety,Electronic Brakeforce Distribution (EBD),YES
+Mahindra,Scorpio N,Z2 Diesel MT,Safety,Tyre Pressure Monitoring System (TPMS),NO
+Mahindra,Scorpio N,Z2 Diesel MT,Safety,Engine Immobilizer,YES
+Mahindra,Scorpio N,Z2 Diesel MT,Safety,Electronic Stability Control (ESC),YES
+Mahindra,Scorpio N,Z2 Diesel MT,Safety,ISOFIX Child Seat Mounts,YES
+Mahindra,Scorpio N,Z2 Diesel MT,Safety,Hill Descent Control,YES
+Mahindra,Scorpio N,Z2 Diesel MT,Safety,Hill Assist,YES
+Mahindra,Scorpio N,Z2 Diesel MT,Safety,Global NCAP Safety Rating,5 Star
+Mahindra,Scorpio N,Z2 Diesel MT,Safety,Global NCAP Child Safety Rating,3 Star
+Mahindra,Scorpio N,Z2 Diesel MT,Entertainment & Communication,Radio,YES
+Mahindra,Scorpio N,Z2 Diesel MT,Entertainment & Communication,Wireless Phone Charging,NO
+Mahindra,Scorpio N,Z2 Diesel MT,Entertainment & Communication,Bluetooth Connectivity,YES
+Mahindra,Scorpio N,Z2 Diesel MT,Entertainment & Communication,Touchscreen,YES
+Mahindra,Scorpio N,Z2 Diesel MT,Entertainment & Communication,Touchscreen Size,9 inch
+Mahindra,Scorpio N,Z2 Diesel MT,Entertainment & Communication,Android Auto,NO
+Mahindra,Scorpio N,Z2 Diesel MT,Entertainment & Communication,Apple CarPlay,NO
+Mahindra,Scorpio N,Z2 Diesel MT,Entertainment & Communication,No. of Speakers,4
+Mahindra,Scorpio N,Z2 Diesel MT,Entertainment & Communication,Usb Ports,YES
+Mahindra,Scorpio N,Z2 Diesel MT,Entertainment & Communication,Inbuilt Apps,NO
+Mahindra,Scorpio N,Z2 Diesel MT,Entertainment & Communication,Speakers,Front & Rear
+Mahindra,Scorpio N,Z2 Diesel MT,ADAS Feature,Forward Collision Warning,NO
+Mahindra,Scorpio N,Z2 Diesel MT,ADAS Feature,Automatic Emergency Braking,NO
+Mahindra,Scorpio N,Z2 Diesel MT,ADAS Feature,Traffic Sign Recognition,NO
+Mahindra,Scorpio N,Z2 Diesel MT,ADAS Feature,Lane Departure Warning,NO
+Mahindra,Scorpio N,Z2 Diesel MT,ADAS Feature,Lane Keep Assist,NO
+Mahindra,Scorpio N,Z2 Diesel MT,ADAS Feature,Driver Attention Warning,NO
+Mahindra,Scorpio N,Z2 Diesel MT,ADAS Feature,Adaptive Cruise Control,NO
+Mahindra,Scorpio N,Z2 Diesel MT,ADAS Feature,Adaptive High Beam Assist,NO
+Mahindra,Scorpio N,Z2 Diesel MT,Advance Internet Feature,Live Location,NO
+Mahindra,Scorpio N,Z2 Diesel MT,Advance Internet Feature,Remote Vehicle Status Check,NO
+Mahindra,Scorpio N,Z2 Diesel MT,Advance Internet Feature,Google / Alexa Connectivity,NO
+Mahindra,Scorpio N,Z2 Diesel MT,Advance Internet Feature,In Car Remote Control App,NO
+Mahindra,Scorpio N,Z2 Diesel MT,Advance Internet Feature,Remote AC On/Off,NO
+Mahindra,Scorpio N,Z2 Diesel MT,Advance Internet Feature,Remote Door Lock/Unlock,NO
+Mahindra,Scorpio N,Z2 Diesel MT,Advance Internet Feature,Remote Vehicle Ignition Start/Stop,NO
+Mahindra,Scorpio N,Z2 Diesel MT,Advance Internet Feature,SOS / Emergency Assistance,NO

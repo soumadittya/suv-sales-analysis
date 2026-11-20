@@ -1,0 +1,97 @@
+company,model,variant,category,feature_name,feature_details
+Maruti Suzuki,Jimny,Alpha Dual Tone,Engine & Transmission,Engine Type,K15B
+Maruti Suzuki,Jimny,Alpha Dual Tone,Engine & Transmission,Displacement,1462 cc
+Maruti Suzuki,Jimny,Alpha Dual Tone,Engine & Transmission,Max Power,103bhp@6000rpm
+Maruti Suzuki,Jimny,Alpha Dual Tone,Engine & Transmission,Max Torque,134.2Nm@4000rpm
+Maruti Suzuki,Jimny,Alpha Dual Tone,Engine & Transmission,No. of Cylinders,4
+Maruti Suzuki,Jimny,Alpha Dual Tone,Engine & Transmission,Valves Per Cylinder,4
+Maruti Suzuki,Jimny,Alpha Dual Tone,Engine & Transmission,Fuel Supply System,Multipoint Injection
+Maruti Suzuki,Jimny,Alpha Dual Tone,Engine & Transmission,Transmission Type,Manual
+Maruti Suzuki,Jimny,Alpha Dual Tone,Engine & Transmission,Gearbox,5-Speed
+Maruti Suzuki,Jimny,Alpha Dual Tone,Engine & Transmission,Drive Type,4WD
+Maruti Suzuki,Jimny,Alpha Dual Tone,Fuel & Performance,Fuel Type,Petrol
+Maruti Suzuki,Jimny,Alpha Dual Tone,Fuel & Performance,Petrol Mileage ARAI,16.94 kmpl
+Maruti Suzuki,Jimny,Alpha Dual Tone,Fuel & Performance,Petrol Fuel Tank Capacity,40 Litres
+Maruti Suzuki,Jimny,Alpha Dual Tone,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Maruti Suzuki,Jimny,Alpha Dual Tone,Fuel & Performance,Top Speed,155 kmph
+Maruti Suzuki,Jimny,Alpha Dual Tone,"Suspension, Steering & Brakes",Front Suspension,"Multi-link, Solid Axle"
+Maruti Suzuki,Jimny,Alpha Dual Tone,"Suspension, Steering & Brakes",Rear Suspension,"Multi-link, Solid Axle"
+Maruti Suzuki,Jimny,Alpha Dual Tone,"Suspension, Steering & Brakes",Steering Type,Electric
+Maruti Suzuki,Jimny,Alpha Dual Tone,"Suspension, Steering & Brakes",Steering Column,Tilt
+Maruti Suzuki,Jimny,Alpha Dual Tone,"Suspension, Steering & Brakes",Turning Radius,5.7 m
+Maruti Suzuki,Jimny,Alpha Dual Tone,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Maruti Suzuki,Jimny,Alpha Dual Tone,"Suspension, Steering & Brakes",Rear Brake Type,Drum
+Maruti Suzuki,Jimny,Alpha Dual Tone,Dimensions & Capacity,Length,3985 mm
+Maruti Suzuki,Jimny,Alpha Dual Tone,Dimensions & Capacity,Width,1645 mm
+Maruti Suzuki,Jimny,Alpha Dual Tone,Dimensions & Capacity,Height,1720 mm
+Maruti Suzuki,Jimny,Alpha Dual Tone,Dimensions & Capacity,Boot Space,211 Litres
+Maruti Suzuki,Jimny,Alpha Dual Tone,Dimensions & Capacity,Seating Capacity,4
+Maruti Suzuki,Jimny,Alpha Dual Tone,Dimensions & Capacity,Ground Clearance Unladen,210 mm
+Maruti Suzuki,Jimny,Alpha Dual Tone,Dimensions & Capacity,Wheel Base,2590 mm
+Maruti Suzuki,Jimny,Alpha Dual Tone,Dimensions & Capacity,Front Tread,1395 mm
+Maruti Suzuki,Jimny,Alpha Dual Tone,Dimensions & Capacity,Rear Tread,1405 mm
+Maruti Suzuki,Jimny,Alpha Dual Tone,Dimensions & Capacity,Kerb Weight,1195 kg
+Maruti Suzuki,Jimny,Alpha Dual Tone,Dimensions & Capacity,Gross Weight,1545 kg
+Maruti Suzuki,Jimny,Alpha Dual Tone,Dimensions & Capacity,Approach Angle,36°
+Maruti Suzuki,Jimny,Alpha Dual Tone,Dimensions & Capacity,Break-over Angle,24°
+Maruti Suzuki,Jimny,Alpha Dual Tone,Dimensions & Capacity,Departure Angle,46°
+Maruti Suzuki,Jimny,Alpha Dual Tone,Comfort & Convenience,Boot Opening,Manual
+Maruti Suzuki,Jimny,Alpha Dual Tone,Comfort & Convenience,Power Steering,YES
+Maruti Suzuki,Jimny,Alpha Dual Tone,Comfort & Convenience,Air Conditioner,YES
+Maruti Suzuki,Jimny,Alpha Dual Tone,Comfort & Convenience,Heater,YES
+Maruti Suzuki,Jimny,Alpha Dual Tone,Comfort & Convenience,Adjustable Steering,Height only
+Maruti Suzuki,Jimny,Alpha Dual Tone,Comfort & Convenience,Automatic Climate Control,YES
+Maruti Suzuki,Jimny,Alpha Dual Tone,Comfort & Convenience,Accessory Power Outlet,YES
+Maruti Suzuki,Jimny,Alpha Dual Tone,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Maruti Suzuki,Jimny,Alpha Dual Tone,Comfort & Convenience,Adjustable Headrest,YES
+Maruti Suzuki,Jimny,Alpha Dual Tone,Comfort & Convenience,Cruise Control,YES
+Maruti Suzuki,Jimny,Alpha Dual Tone,Comfort & Convenience,Parking Sensors,Rear
+Maruti Suzuki,Jimny,Alpha Dual Tone,Comfort & Convenience,Engine Start/Stop Button,YES
+Maruti Suzuki,Jimny,Alpha Dual Tone,Comfort & Convenience,Idle Start-Stop System,YES
+Maruti Suzuki,Jimny,Alpha Dual Tone,Comfort & Convenience,Power Windows,Front & Rear
+Maruti Suzuki,Jimny,Alpha Dual Tone,Interior,Leather Wrapped Steering Wheel,YES
+Maruti Suzuki,Jimny,Alpha Dual Tone,Interior,Glove Box,YES
+Maruti Suzuki,Jimny,Alpha Dual Tone,Interior,Digital Cluster,YES
+Maruti Suzuki,Jimny,Alpha Dual Tone,Interior,Upholstery,Fabric
+Maruti Suzuki,Jimny,Alpha Dual Tone,Exterior,Adjustable Headlamps,YES
+Maruti Suzuki,Jimny,Alpha Dual Tone,Exterior,Headlamp Washers,YES
+Maruti Suzuki,Jimny,Alpha Dual Tone,Exterior,Rear Window Wiper,YES
+Maruti Suzuki,Jimny,Alpha Dual Tone,Exterior,Rear Window Washer,YES
+Maruti Suzuki,Jimny,Alpha Dual Tone,Exterior,Rear Window Defogger,YES
+Maruti Suzuki,Jimny,Alpha Dual Tone,Exterior,Wheel Covers,NO
+Maruti Suzuki,Jimny,Alpha Dual Tone,Exterior,Alloy Wheels,YES
+Maruti Suzuki,Jimny,Alpha Dual Tone,Exterior,Halogen Headlamps,NO
+Maruti Suzuki,Jimny,Alpha Dual Tone,Exterior,Automatic Headlamps,YES
+Maruti Suzuki,Jimny,Alpha Dual Tone,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Maruti Suzuki,Jimny,Alpha Dual Tone,Exterior,Tyre Size,195/80 R15
+Maruti Suzuki,Jimny,Alpha Dual Tone,Exterior,Tyre Type,Radial Tubeless
+Maruti Suzuki,Jimny,Alpha Dual Tone,Exterior,Wheel Size,15 Inch
+Maruti Suzuki,Jimny,Alpha Dual Tone,Exterior,LED Headlamps,YES
+Maruti Suzuki,Jimny,Alpha Dual Tone,Exterior,LED Fog Lamps,YES
+Maruti Suzuki,Jimny,Alpha Dual Tone,Safety,Anti-lock Braking System (ABS),YES
+Maruti Suzuki,Jimny,Alpha Dual Tone,Safety,Brake Assist,YES
+Maruti Suzuki,Jimny,Alpha Dual Tone,Safety,Central Locking,YES
+Maruti Suzuki,Jimny,Alpha Dual Tone,Safety,No. of Airbags,6
+Maruti Suzuki,Jimny,Alpha Dual Tone,Safety,Driver Airbag,YES
+Maruti Suzuki,Jimny,Alpha Dual Tone,Safety,Passenger Airbag,YES
+Maruti Suzuki,Jimny,Alpha Dual Tone,Safety,Side Airbag,YES
+Maruti Suzuki,Jimny,Alpha Dual Tone,Safety,Day & Night Rear View Mirror,YES
+Maruti Suzuki,Jimny,Alpha Dual Tone,Safety,Electronic Brakeforce Distribution (EBD),YES
+Maruti Suzuki,Jimny,Alpha Dual Tone,Safety,Traction Control,YES
+Maruti Suzuki,Jimny,Alpha Dual Tone,Safety,Engine Immobilizer,YES
+Maruti Suzuki,Jimny,Alpha Dual Tone,Safety,Electronic Stability Control (ESC),YES
+Maruti Suzuki,Jimny,Alpha Dual Tone,Safety,Rear Camera,With Guidedlines
+Maruti Suzuki,Jimny,Alpha Dual Tone,Safety,Anti-Pinch Power Windows,Driver's Window
+Maruti Suzuki,Jimny,Alpha Dual Tone,Safety,ISOFIX Child Seat Mounts,YES
+Maruti Suzuki,Jimny,Alpha Dual Tone,Safety,Hill Descent Control,YES
+Maruti Suzuki,Jimny,Alpha Dual Tone,Safety,Hill Assist,YES
+Maruti Suzuki,Jimny,Alpha Dual Tone,Safety,Global NCAP Safety Rating,3 Star
+Maruti Suzuki,Jimny,Alpha Dual Tone,Entertainment & Communication,Radio,YES
+Maruti Suzuki,Jimny,Alpha Dual Tone,Entertainment & Communication,Bluetooth Connectivity,YES
+Maruti Suzuki,Jimny,Alpha Dual Tone,Entertainment & Communication,Touchscreen,YES
+Maruti Suzuki,Jimny,Alpha Dual Tone,Entertainment & Communication,Touchscreen Size,9 inch
+Maruti Suzuki,Jimny,Alpha Dual Tone,Entertainment & Communication,Android Auto,YES
+Maruti Suzuki,Jimny,Alpha Dual Tone,Entertainment & Communication,Apple CarPlay,YES
+Maruti Suzuki,Jimny,Alpha Dual Tone,Entertainment & Communication,No. of Speakers,4
+Maruti Suzuki,Jimny,Alpha Dual Tone,Entertainment & Communication,Usb Ports,YES
+Maruti Suzuki,Jimny,Alpha Dual Tone,Entertainment & Communication,Speakers,Front & Rear

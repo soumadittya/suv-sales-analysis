@@ -1,0 +1,108 @@
+company,model,variant,category,feature_name,feature_details
+BMW,X7,xDrive40i M Sport Signature,Engine & Transmission,Engine Type,3.0 L 6-cylinder
+BMW,X7,xDrive40i M Sport Signature,Engine & Transmission,Displacement,2998 cc
+BMW,X7,xDrive40i M Sport Signature,Engine & Transmission,Max Power,375.48bhp@5200-6250rpm
+BMW,X7,xDrive40i M Sport Signature,Engine & Transmission,Max Torque,520Nm@1850-5000rpm
+BMW,X7,xDrive40i M Sport Signature,Engine & Transmission,No. of Cylinders,6
+BMW,X7,xDrive40i M Sport Signature,Engine & Transmission,Valves Per Cylinder,4
+BMW,X7,xDrive40i M Sport Signature,Engine & Transmission,Turbo Charger,YES
+BMW,X7,xDrive40i M Sport Signature,Engine & Transmission,Transmission Type,Automatic
+BMW,X7,xDrive40i M Sport Signature,Engine & Transmission,Gearbox,8-Speed
+BMW,X7,xDrive40i M Sport Signature,Engine & Transmission,Drive Type,4WD
+BMW,X7,xDrive40i M Sport Signature,Fuel & Performance,Fuel Type,Petrol
+BMW,X7,xDrive40i M Sport Signature,Fuel & Performance,Petrol Mileage ARAI,11.29 kmpl
+BMW,X7,xDrive40i M Sport Signature,Fuel & Performance,Petrol Fuel Tank Capacity,83 Litres
+BMW,X7,xDrive40i M Sport Signature,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+BMW,X7,xDrive40i M Sport Signature,Fuel & Performance,Top Speed,245 kmph
+BMW,X7,xDrive40i M Sport Signature,Fuel & Performance,Acceleration,5.8 s
+BMW,X7,xDrive40i M Sport Signature,Fuel & Performance,0-100kmph,5.8 s
+BMW,X7,xDrive40i M Sport Signature,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+BMW,X7,xDrive40i M Sport Signature,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+BMW,X7,xDrive40i M Sport Signature,"Suspension, Steering & Brakes",Steering Type,Electric
+BMW,X7,xDrive40i M Sport Signature,"Suspension, Steering & Brakes",Steering Column,Tilt &Telescopic
+BMW,X7,xDrive40i M Sport Signature,"Suspension, Steering & Brakes",Front Brake Type,Disc
+BMW,X7,xDrive40i M Sport Signature,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+BMW,X7,xDrive40i M Sport Signature,Dimensions & Capacity,Length,5181 mm
+BMW,X7,xDrive40i M Sport Signature,Dimensions & Capacity,Width,2000 mm
+BMW,X7,xDrive40i M Sport Signature,Dimensions & Capacity,Height,1835 mm
+BMW,X7,xDrive40i M Sport Signature,Dimensions & Capacity,Seating Capacity,6
+BMW,X7,xDrive40i M Sport Signature,Dimensions & Capacity,Wheel Base,3105 mm
+BMW,X7,xDrive40i M Sport Signature,Dimensions & Capacity,Reported Ground Clearance (Unladen),220 mm
+BMW,X7,xDrive40i M Sport Signature,Comfort & Convenience,Power Steering,YES
+BMW,X7,xDrive40i M Sport Signature,Comfort & Convenience,Heater,YES
+BMW,X7,xDrive40i M Sport Signature,Comfort & Convenience,Ventilated Seats,YES
+BMW,X7,xDrive40i M Sport Signature,Comfort & Convenience,Electric Adjustable Seats,Front
+BMW,X7,xDrive40i M Sport Signature,Comfort & Convenience,Automatic Climate Control,YES
+BMW,X7,xDrive40i M Sport Signature,Comfort & Convenience,Accessory Power Outlet,YES
+BMW,X7,xDrive40i M Sport Signature,Comfort & Convenience,Adjustable Headrest,YES
+BMW,X7,xDrive40i M Sport Signature,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+BMW,X7,xDrive40i M Sport Signature,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+BMW,X7,xDrive40i M Sport Signature,Comfort & Convenience,Rear AC Vents,YES
+BMW,X7,xDrive40i M Sport Signature,Comfort & Convenience,Lumbar Support,YES
+BMW,X7,xDrive40i M Sport Signature,Comfort & Convenience,Cruise Control,YES
+BMW,X7,xDrive40i M Sport Signature,Comfort & Convenience,Parking Sensors,Front & Rear
+BMW,X7,xDrive40i M Sport Signature,Comfort & Convenience,KeyLess Entry,YES
+BMW,X7,xDrive40i M Sport Signature,Comfort & Convenience,Engine Start/Stop Button,YES
+BMW,X7,xDrive40i M Sport Signature,Comfort & Convenience,Voice Commands,YES
+BMW,X7,xDrive40i M Sport Signature,Comfort & Convenience,Paddle Shifters,YES
+BMW,X7,xDrive40i M Sport Signature,Comfort & Convenience,USB Charger,Front & Rear
+BMW,X7,xDrive40i M Sport Signature,Comfort & Convenience,Central Console Armrest,With Storage
+BMW,X7,xDrive40i M Sport Signature,Comfort & Convenience,Gear Shift Indicator,YES
+BMW,X7,xDrive40i M Sport Signature,Comfort & Convenience,Drive Modes,5
+BMW,X7,xDrive40i M Sport Signature,Comfort & Convenience,Follow Me Home Headlamps,YES
+BMW,X7,xDrive40i M Sport Signature,Comfort & Convenience,Drive Mode Types,"ECO PRO, COMFORT, SPORT and ADAPTIVE"
+BMW,X7,xDrive40i M Sport Signature,Comfort & Convenience,Power Windows,Front & Rear
+BMW,X7,xDrive40i M Sport Signature,Comfort & Convenience,Cup Holders,Front Only
+BMW,X7,xDrive40i M Sport Signature,Comfort & Convenience,Heated Seats,Front Only
+BMW,X7,xDrive40i M Sport Signature,Interior,Leather Wrapped Steering Wheel,YES
+BMW,X7,xDrive40i M Sport Signature,Interior,Additional Features,"""Door sill finishers with M designation,Individual Extended Leather Trim Merino,BMW Individual Headliner Alcantara Anthracite,Vehicle key with exclusive M lettering,BMW Individual High-Gloss Shadow Line,Instrument panel in Sensatec,Floor mats in Velour,Glass application CraftedClarity for interior elements,3rd Row seats fully foldable into floor of luggage compartment and dividable by 50:50,M Leather steering wheel including multifunction buttons, an M badge, steering wheel rim in leather ‘Walknappa’ Black with black stitching and contoured thumb rests,Power socket (12 V) 1x centre console front, centre console rear, luggage compartment on righ,Effective reduction of noise level in the interior,Less noise in the interior created by wind and engine,A comfortably peaceful ambience,Widescreen Curved Display,Fully Digital 12.3” Instrument Display,Navigation Function with 3D maps, Touch Functionality,iDrive Controller,Augmented View in touch display, 15 pre-defined selectable light designs, X7 illuminated trim element on dashboard, customizable with ambient light setting, Welcome Light Carpet"
+BMW,X7,xDrive40i M Sport Signature,Exterior,Rain Sensing Wiper,YES
+BMW,X7,xDrive40i M Sport Signature,Exterior,Rear Window Wiper,YES
+BMW,X7,xDrive40i M Sport Signature,Exterior,Rear Window Washer,YES
+BMW,X7,xDrive40i M Sport Signature,Exterior,Rear Window Defogger,YES
+BMW,X7,xDrive40i M Sport Signature,Exterior,Alloy Wheels,YES
+BMW,X7,xDrive40i M Sport Signature,Exterior,Outside Rear View Mirror Turn Indicators,YES
+BMW,X7,xDrive40i M Sport Signature,Exterior,Projector Headlamps,YES
+BMW,X7,xDrive40i M Sport Signature,Exterior,Roof Rails,YES
+BMW,X7,xDrive40i M Sport Signature,Exterior,Sun Roof,YES
+BMW,X7,xDrive40i M Sport Signature,Exterior,Tyre Size,285/45 R21
+BMW,X7,xDrive40i M Sport Signature,Exterior,Tyre Type,Radial & Tubeless
+BMW,X7,xDrive40i M Sport Signature,Exterior,LED DRLs,YES
+BMW,X7,xDrive40i M Sport Signature,Exterior,LED Headlamps,YES
+BMW,X7,xDrive40i M Sport Signature,Exterior,LED Taillights,YES
+BMW,X7,xDrive40i M Sport Signature,Exterior,LED Fog Lamps,YES
+BMW,X7,xDrive40i M Sport Signature,Exterior,Additional Features,"`M Aerodynamics package with front apron, side skirts and wheel arch trims in body color, M designation on the sides, M Sport brake with blue painted brake callipers with M designation, Specific design elements in Black Chrome and Dark Shadow metallic, Tailpipe trim strip in M Sport package specific geometry, Fully Adaptive LED Headlights, Aluminium Running Board, Two part tailgate, Panorama 3part glass roof, Panorama glass roof Sky Lounge, with a light graphic composed of over 15,000 lighting elements, BMW Individual roof rails High Gloss Shadow Line, Fine wood trim Fineline Black with metal effect High Gloss"
+BMW,X7,xDrive40i M Sport Signature,Safety,Anti-lock Braking System (ABS),YES
+BMW,X7,xDrive40i M Sport Signature,Safety,Brake Assist,YES
+BMW,X7,xDrive40i M Sport Signature,Safety,Central Locking,YES
+BMW,X7,xDrive40i M Sport Signature,Safety,Child Safety Locks,YES
+BMW,X7,xDrive40i M Sport Signature,Safety,Anti-Theft Alarm,YES
+BMW,X7,xDrive40i M Sport Signature,Safety,No. of Airbags,9
+BMW,X7,xDrive40i M Sport Signature,Safety,Driver Airbag,YES
+BMW,X7,xDrive40i M Sport Signature,Safety,Passenger Airbag,YES
+BMW,X7,xDrive40i M Sport Signature,Safety,Side Airbag,YES
+BMW,X7,xDrive40i M Sport Signature,Safety,Side Airbag-Rear,YES
+BMW,X7,xDrive40i M Sport Signature,Safety,Traction Control,YES
+BMW,X7,xDrive40i M Sport Signature,Safety,Tyre Pressure Monitoring System (TPMS),YES
+BMW,X7,xDrive40i M Sport Signature,Safety,Engine Immobilizer,YES
+BMW,X7,xDrive40i M Sport Signature,Safety,Electronic Stability Control (ESC),YES
+BMW,X7,xDrive40i M Sport Signature,Safety,Anti-Theft Device,YES
+BMW,X7,xDrive40i M Sport Signature,Safety,ISOFIX Child Seat Mounts,YES
+BMW,X7,xDrive40i M Sport Signature,Safety,Heads-Up Display (HUD),YES
+BMW,X7,xDrive40i M Sport Signature,Safety,Blind Spot Camera,YES
+BMW,X7,xDrive40i M Sport Signature,Safety,Hill Descent Control,YES
+BMW,X7,xDrive40i M Sport Signature,Safety,Hill Assist,YES
+BMW,X7,xDrive40i M Sport Signature,Safety,360 View Camera,YES
+BMW,X7,xDrive40i M Sport Signature,Safety,Global NCAP Safety Rating,5 Star
+BMW,X7,xDrive40i M Sport Signature,Safety,Global NCAP Child Safety Rating,5 Star
+BMW,X7,xDrive40i M Sport Signature,Entertainment & Communication,Radio,YES
+BMW,X7,xDrive40i M Sport Signature,Entertainment & Communication,Bluetooth Connectivity,YES
+BMW,X7,xDrive40i M Sport Signature,Entertainment & Communication,Wi-Fi Connectivity,YES
+BMW,X7,xDrive40i M Sport Signature,Entertainment & Communication,Touchscreen,YES
+BMW,X7,xDrive40i M Sport Signature,Entertainment & Communication,Touchscreen Size,14.9 inch
+BMW,X7,xDrive40i M Sport Signature,Entertainment & Communication,Android Auto,YES
+BMW,X7,xDrive40i M Sport Signature,Entertainment & Communication,Apple CarPlay,YES
+BMW,X7,xDrive40i M Sport Signature,Entertainment & Communication,No. of Speakers,16
+BMW,X7,xDrive40i M Sport Signature,Entertainment & Communication,Usb Ports,YES
+BMW,X7,xDrive40i M Sport Signature,Entertainment & Communication,Additional Features,"BMW Gesture Control, Teleservices, Intelligent E-call, Remote software upgrade, MyBMW App with Remote Services, Intelligent Personal Assistant, BMW Operating System 8.0 with variable configurable widgets, Harman Kardon Surround Sound system, Drive Recorder, Anti-Theft Recorder, Surround view cameras with 360 degree view including top view, panorama view and 3D view"
+BMW,X7,xDrive40i M Sport Signature,Entertainment & Communication,Speakers,Front & Rear

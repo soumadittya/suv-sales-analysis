@@ -1,0 +1,83 @@
+company,model,variant,category,feature_name,feature_details
+Mahindra,Bolero,B6 Opt,Engine & Transmission,Engine Type,mHAWK75
+Mahindra,Bolero,B6 Opt,Engine & Transmission,Displacement,1493 cc
+Mahindra,Bolero,B6 Opt,Engine & Transmission,Max Power,74.96bhp@3600rpm
+Mahindra,Bolero,B6 Opt,Engine & Transmission,Max Torque,210Nm@1600-2200rpm
+Mahindra,Bolero,B6 Opt,Engine & Transmission,No. of Cylinders,3
+Mahindra,Bolero,B6 Opt,Engine & Transmission,Valves Per Cylinder,4
+Mahindra,Bolero,B6 Opt,Engine & Transmission,Valve Configuration,SOHC
+Mahindra,Bolero,B6 Opt,Engine & Transmission,Turbo Charger,YES
+Mahindra,Bolero,B6 Opt,Engine & Transmission,Transmission Type,Manual
+Mahindra,Bolero,B6 Opt,Engine & Transmission,Gearbox,5-Speed
+Mahindra,Bolero,B6 Opt,Engine & Transmission,Drive Type,RWD
+Mahindra,Bolero,B6 Opt,Fuel & Performance,Fuel Type,Diesel
+Mahindra,Bolero,B6 Opt,Fuel & Performance,Diesel Mileage ARAI,16 kmpl
+Mahindra,Bolero,B6 Opt,Fuel & Performance,Diesel Fuel Tank Capacity,60 Litres
+Mahindra,Bolero,B6 Opt,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Mahindra,Bolero,B6 Opt,"Suspension, Steering & Brakes",Rear Suspension,Leaf spring suspension
+Mahindra,Bolero,B6 Opt,"Suspension, Steering & Brakes",Steering Type,Hydraulic
+Mahindra,Bolero,B6 Opt,"Suspension, Steering & Brakes",Turning Radius,5.8 m
+Mahindra,Bolero,B6 Opt,"Suspension, Steering & Brakes",Front Brake Type,disc
+Mahindra,Bolero,B6 Opt,"Suspension, Steering & Brakes",Rear Brake Type,drum
+Mahindra,Bolero,B6 Opt,Dimensions & Capacity,Length,3995 mm
+Mahindra,Bolero,B6 Opt,Dimensions & Capacity,Width,1745 mm
+Mahindra,Bolero,B6 Opt,Dimensions & Capacity,Height,1880 mm
+Mahindra,Bolero,B6 Opt,Dimensions & Capacity,Seating Capacity,7
+Mahindra,Bolero,B6 Opt,Dimensions & Capacity,Wheel Base,2680 mm
+Mahindra,Bolero,B6 Opt,Comfort & Convenience,Power Steering,YES
+Mahindra,Bolero,B6 Opt,Comfort & Convenience,Air Conditioner,YES
+Mahindra,Bolero,B6 Opt,Comfort & Convenience,Heater,YES
+Mahindra,Bolero,B6 Opt,Comfort & Convenience,Adjustable Steering,NO
+Mahindra,Bolero,B6 Opt,Comfort & Convenience,Accessory Power Outlet,YES
+Mahindra,Bolero,B6 Opt,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Mahindra,Bolero,B6 Opt,Comfort & Convenience,Adjustable Headrest,YES
+Mahindra,Bolero,B6 Opt,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Mahindra,Bolero,B6 Opt,Comfort & Convenience,Rear AC Vents,NO
+Mahindra,Bolero,B6 Opt,Comfort & Convenience,Cruise Control,NO
+Mahindra,Bolero,B6 Opt,Comfort & Convenience,Parking Sensors,Rear
+Mahindra,Bolero,B6 Opt,Comfort & Convenience,KeyLess Entry,YES
+Mahindra,Bolero,B6 Opt,Comfort & Convenience,USB Charger,Front
+Mahindra,Bolero,B6 Opt,Comfort & Convenience,Gear Shift Indicator,YES
+Mahindra,Bolero,B6 Opt,Comfort & Convenience,Idle Start-Stop System,YES
+Mahindra,Bolero,B6 Opt,Comfort & Convenience,Power Windows,Front & Rear
+Mahindra,Bolero,B6 Opt,Interior,Glove Box,YES
+Mahindra,Bolero,B6 Opt,Interior,Digital Cluster,YES
+Mahindra,Bolero,B6 Opt,Interior,Upholstery,Fabric
+Mahindra,Bolero,B6 Opt,Exterior,Adjustable Headlamps,YES
+Mahindra,Bolero,B6 Opt,Exterior,Rear Window Wiper,YES
+Mahindra,Bolero,B6 Opt,Exterior,Rear Window Washer,YES
+Mahindra,Bolero,B6 Opt,Exterior,Rear Window Defogger,YES
+Mahindra,Bolero,B6 Opt,Exterior,Wheel Covers,YES
+Mahindra,Bolero,B6 Opt,Exterior,Alloy Wheels,NO
+Mahindra,Bolero,B6 Opt,Exterior,Rear Spoiler,NO
+Mahindra,Bolero,B6 Opt,Exterior,Side Stepper,YES
+Mahindra,Bolero,B6 Opt,Exterior,Outside Rear View Mirror Turn Indicators,NO
+Mahindra,Bolero,B6 Opt,Exterior,Cornering Foglamps,YES
+Mahindra,Bolero,B6 Opt,Exterior,Fog Lights,Front
+Mahindra,Bolero,B6 Opt,Exterior,Outside Rear View Mirror (ORVM),Manual
+Mahindra,Bolero,B6 Opt,Exterior,Tyre Size,215/75 R15
+Mahindra,Bolero,B6 Opt,Exterior,Tyre Type,Tubeless
+Mahindra,Bolero,B6 Opt,Exterior,Wheel Size,15 Inch
+Mahindra,Bolero,B6 Opt,Safety,Anti-lock Braking System (ABS),YES
+Mahindra,Bolero,B6 Opt,Safety,Central Locking,YES
+Mahindra,Bolero,B6 Opt,Safety,Child Safety Locks,YES
+Mahindra,Bolero,B6 Opt,Safety,No. of Airbags,2
+Mahindra,Bolero,B6 Opt,Safety,Driver Airbag,YES
+Mahindra,Bolero,B6 Opt,Safety,Passenger Airbag,YES
+Mahindra,Bolero,B6 Opt,Safety,Side Airbag,NO
+Mahindra,Bolero,B6 Opt,Safety,Side Airbag-Rear,NO
+Mahindra,Bolero,B6 Opt,Safety,Day & Night Rear View Mirror,NO
+Mahindra,Bolero,B6 Opt,Safety,Electronic Brakeforce Distribution (EBD),YES
+Mahindra,Bolero,B6 Opt,Safety,Engine Immobilizer,YES
+Mahindra,Bolero,B6 Opt,Safety,Electronic Stability Control (ESC),NO
+Mahindra,Bolero,B6 Opt,Safety,Rear Camera,NO
+Mahindra,Bolero,B6 Opt,Safety,360 View Camera,NO
+Mahindra,Bolero,B6 Opt,Entertainment & Communication,Radio,YES
+Mahindra,Bolero,B6 Opt,Entertainment & Communication,Bluetooth Connectivity,YES
+Mahindra,Bolero,B6 Opt,Entertainment & Communication,Touchscreen,YES
+Mahindra,Bolero,B6 Opt,Entertainment & Communication,Touchscreen Size,7 inch
+Mahindra,Bolero,B6 Opt,Entertainment & Communication,Android Auto,NO
+Mahindra,Bolero,B6 Opt,Entertainment & Communication,Apple CarPlay,NO
+Mahindra,Bolero,B6 Opt,Entertainment & Communication,No. of Speakers,4
+Mahindra,Bolero,B6 Opt,Entertainment & Communication,Usb Ports,YES
+Mahindra,Bolero,B6 Opt,Entertainment & Communication,Speakers,Front & Rear

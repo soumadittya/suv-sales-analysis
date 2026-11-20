@@ -1,0 +1,140 @@
+company,model,variant,category,feature_name,feature_details
+Mercedes-Benz,EQS SUV,580 4Matic,Engine & Transmission,Battery Capacity,122 kWh
+Mercedes-Benz,EQS SUV,580 4Matic,Engine & Transmission,Motor Power,400 kW
+Mercedes-Benz,EQS SUV,580 4Matic,Engine & Transmission,Motor Type,Permanently excited synchronous
+Mercedes-Benz,EQS SUV,580 4Matic,Engine & Transmission,Max Power,536.40bhp
+Mercedes-Benz,EQS SUV,580 4Matic,Engine & Transmission,Max Torque,858Nm
+Mercedes-Benz,EQS SUV,580 4Matic,Engine & Transmission,Range,809 km
+Mercedes-Benz,EQS SUV,580 4Matic,Engine & Transmission,Regenerative Braking,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Engine & Transmission,Transmission Type,Automatic
+Mercedes-Benz,EQS SUV,580 4Matic,Engine & Transmission,Gearbox,1-Speed
+Mercedes-Benz,EQS SUV,580 4Matic,Engine & Transmission,Drive Type,AWD
+Mercedes-Benz,EQS SUV,580 4Matic,Fuel & Performance,Fuel Type,Electric
+Mercedes-Benz,EQS SUV,580 4Matic,Fuel & Performance,Emission Norm Compliance,ZEV
+Mercedes-Benz,EQS SUV,580 4Matic,Fuel & Performance,Top Speed,210 kmph
+Mercedes-Benz,EQS SUV,580 4Matic,Fuel & Performance,Acceleration 0-100kmph,4.7 s
+Mercedes-Benz,EQS SUV,580 4Matic,Charging,Fast Charging,YES
+Mercedes-Benz,EQS SUV,580 4Matic,"Suspension, Steering & Brakes",Steering Type,Electric
+Mercedes-Benz,EQS SUV,580 4Matic,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Mercedes-Benz,EQS SUV,580 4Matic,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Mercedes-Benz,EQS SUV,580 4Matic,Dimensions & Capacity,Length,5136 mm
+Mercedes-Benz,EQS SUV,580 4Matic,Dimensions & Capacity,Width,1965 mm
+Mercedes-Benz,EQS SUV,580 4Matic,Dimensions & Capacity,Height,1718 mm
+Mercedes-Benz,EQS SUV,580 4Matic,Dimensions & Capacity,Seating Capacity,7
+Mercedes-Benz,EQS SUV,580 4Matic,Dimensions & Capacity,Wheel Base,3210 mm
+Mercedes-Benz,EQS SUV,580 4Matic,Dimensions & Capacity,Reported Boot Space,610 Litres
+Mercedes-Benz,EQS SUV,580 4Matic,Comfort & Convenience,Boot Opening,Electronic
+Mercedes-Benz,EQS SUV,580 4Matic,Comfort & Convenience,Power Steering,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Comfort & Convenience,Air Conditioner,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Comfort & Convenience,Heater,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Comfort & Convenience,Adjustable Steering,Powered Adjustment
+Mercedes-Benz,EQS SUV,580 4Matic,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Comfort & Convenience,Ventilated Seats,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Comfort & Convenience,Electric Adjustable Seats,Front & Rear
+Mercedes-Benz,EQS SUV,580 4Matic,Comfort & Convenience,Automatic Climate Control,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Comfort & Convenience,Air Quality Control,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Comfort & Convenience,Accessory Power Outlet,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Mercedes-Benz,EQS SUV,580 4Matic,Comfort & Convenience,Adjustable Headrest,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Comfort & Convenience,Rear AC Vents,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Comfort & Convenience,Lumbar Support,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Comfort & Convenience,Parking Sensors,Front & Rear
+Mercedes-Benz,EQS SUV,580 4Matic,Comfort & Convenience,Real-Time Vehicle Tracking,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Comfort & Convenience,KeyLess Entry,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Comfort & Convenience,Engine Start/Stop Button,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Comfort & Convenience,Voice Commands,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Comfort & Convenience,USB Charger,Front & Rear
+Mercedes-Benz,EQS SUV,580 4Matic,Comfort & Convenience,Central Console Armrest,With Storage
+Mercedes-Benz,EQS SUV,580 4Matic,Comfort & Convenience,Glove Box light,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Comfort & Convenience,Follow Me Home Headlamps,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Comfort & Convenience,Power Windows,Front & Rear
+Mercedes-Benz,EQS SUV,580 4Matic,Comfort & Convenience,Cup Holders,Front & Rear
+Mercedes-Benz,EQS SUV,580 4Matic,Interior,Leather Wrapped Steering Wheel,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Interior,Leather wrap gear-shift selector,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Interior,Glove Box,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Interior,Upholstery,Leatherette
+Mercedes-Benz,EQS SUV,580 4Matic,Exterior,Adjustable Headlamps,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Exterior,Rain Sensing Wiper,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Exterior,Rear Window Wiper,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Exterior,Rear Window Washer,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Exterior,Rear Window Defogger,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Exterior,Alloy Wheels,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Exterior,Rear Spoiler,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Exterior,Automatic Headlamps,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Exterior,Fog Lights,Front
+Mercedes-Benz,EQS SUV,580 4Matic,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Mercedes-Benz,EQS SUV,580 4Matic,Exterior,LED DRLs,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Exterior,LED Headlamps,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Exterior,LED Taillights,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Exterior,LED Fog Lamps,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Safety,Anti-lock Braking System (ABS),YES
+Mercedes-Benz,EQS SUV,580 4Matic,Safety,Brake Assist,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Safety,Central Locking,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Safety,Child Safety Locks,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Safety,Anti-Theft Alarm,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Safety,No. of Airbags,6
+Mercedes-Benz,EQS SUV,580 4Matic,Safety,Driver Airbag,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Safety,Passenger Airbag,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Safety,Side Airbag,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Safety,Side Airbag-Rear,NO
+Mercedes-Benz,EQS SUV,580 4Matic,Safety,Day & Night Rear View Mirror,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Safety,Electronic Brakeforce Distribution (EBD),YES
+Mercedes-Benz,EQS SUV,580 4Matic,Safety,Traction Control,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Mercedes-Benz,EQS SUV,580 4Matic,Safety,Electronic Stability Control (ESC),YES
+Mercedes-Benz,EQS SUV,580 4Matic,Safety,Rear Camera,With Guidedlines
+Mercedes-Benz,EQS SUV,580 4Matic,Safety,Anti-Theft Device,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Safety,Anti-Pinch Power Windows,Driver and Passenger
+Mercedes-Benz,EQS SUV,580 4Matic,Safety,ISOFIX Child Seat Mounts,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Safety,Hill Descent Control,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Safety,Hill Assist,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Safety,360 View Camera,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Entertainment & Communication,Radio,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Entertainment & Communication,Wireless Phone Charging,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Entertainment & Communication,Bluetooth Connectivity,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Entertainment & Communication,Wi-Fi Connectivity,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Entertainment & Communication,Touchscreen,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Entertainment & Communication,Android Auto,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Entertainment & Communication,Apple CarPlay,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Entertainment & Communication,No. of Speakers,15
+Mercedes-Benz,EQS SUV,580 4Matic,Entertainment & Communication,Usb Ports,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Entertainment & Communication,Speakers,Front & Rear
+Mercedes-Benz,EQS SUV,580 4Matic,ADAS Feature,Forward Collision Warning,YES
+Mercedes-Benz,EQS SUV,580 4Matic,ADAS Feature,Automatic Emergency Braking,YES
+Mercedes-Benz,EQS SUV,580 4Matic,ADAS Feature,Speed Assist System,YES
+Mercedes-Benz,EQS SUV,580 4Matic,ADAS Feature,Traffic Sign Recognition,YES
+Mercedes-Benz,EQS SUV,580 4Matic,ADAS Feature,Blind Spot Collision Avoidance Assist,YES
+Mercedes-Benz,EQS SUV,580 4Matic,ADAS Feature,Lane Departure Warning,YES
+Mercedes-Benz,EQS SUV,580 4Matic,ADAS Feature,Lane Keep Assist,YES
+Mercedes-Benz,EQS SUV,580 4Matic,ADAS Feature,Lane Departure Prevention Assist,YES
+Mercedes-Benz,EQS SUV,580 4Matic,ADAS Feature,Driver Attention Warning,YES
+Mercedes-Benz,EQS SUV,580 4Matic,ADAS Feature,Leading Vehicle Departure Alert,YES
+Mercedes-Benz,EQS SUV,580 4Matic,ADAS Feature,Adaptive High Beam Assist,YES
+Mercedes-Benz,EQS SUV,580 4Matic,ADAS Feature,Rear Cross Traffic Alert,YES
+Mercedes-Benz,EQS SUV,580 4Matic,ADAS Feature,Rear Cross Traffic Collision-Avoidance Assist,YES
+Mercedes-Benz,EQS SUV,580 4Matic,ADAS Feature,Blind Spot Monitor,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Advance Internet Feature,Live Location,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Advance Internet Feature,Remote Immobiliser,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Advance Internet Feature,Remote Vehicle Status Check,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Advance Internet Feature,Digital Car Key,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Advance Internet Feature,Hinglish Voice Commands,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Advance Internet Feature,Navigation with Live Traffic,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Advance Internet Feature,Send POI to Vehicle From App,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Advance Internet Feature,Live Weather,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Advance Internet Feature,E-Call & I-Call,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Advance Internet Feature,Over the Air (OTA) Updates,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Advance Internet Feature,Google / Alexa Connectivity,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Advance Internet Feature,Save Route/Place,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Advance Internet Feature,SOS Button,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Advance Internet Feature,RSA,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Advance Internet Feature,Over Speeding Alert,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Advance Internet Feature,In Car Remote Control App,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Advance Internet Feature,Smartwatch App,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Advance Internet Feature,Valet Mode,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Advance Internet Feature,Remote AC On/Off,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Advance Internet Feature,Remote Door Lock/Unlock,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Advance Internet Feature,SOS / Emergency Assistance,YES
+Mercedes-Benz,EQS SUV,580 4Matic,Advance Internet Feature,Geo-fence Alert,YES

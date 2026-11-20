@@ -1,0 +1,117 @@
+company,model,variant,category,feature_name,feature_details
+Kia,Syros,HTK EX Turbo,Engine & Transmission,Engine Type,Smartstream G1.0T-GDi
+Kia,Syros,HTK EX Turbo,Engine & Transmission,Displacement,998 cc
+Kia,Syros,HTK EX Turbo,Engine & Transmission,Max Power,118bhp@6000rpm
+Kia,Syros,HTK EX Turbo,Engine & Transmission,Max Torque,172Nm@1500-4000rpm
+Kia,Syros,HTK EX Turbo,Engine & Transmission,No. of Cylinders,3
+Kia,Syros,HTK EX Turbo,Engine & Transmission,Valves Per Cylinder,4
+Kia,Syros,HTK EX Turbo,Engine & Transmission,Turbo Charger,YES
+Kia,Syros,HTK EX Turbo,Engine & Transmission,Transmission Type,Manual
+Kia,Syros,HTK EX Turbo,Engine & Transmission,Gearbox,6 Speed
+Kia,Syros,HTK EX Turbo,Engine & Transmission,Drive Type,FWD
+Kia,Syros,HTK EX Turbo,Fuel & Performance,Fuel Type,Petrol
+Kia,Syros,HTK EX Turbo,Fuel & Performance,Petrol Fuel Tank Capacity,45 Litres
+Kia,Syros,HTK EX Turbo,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Kia,Syros,HTK EX Turbo,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Kia,Syros,HTK EX Turbo,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Kia,Syros,HTK EX Turbo,"Suspension, Steering & Brakes",Steering Type,Electric
+Kia,Syros,HTK EX Turbo,"Suspension, Steering & Brakes",Steering Column,Tilt
+Kia,Syros,HTK EX Turbo,"Suspension, Steering & Brakes",Steering Gear Type,Rack & Pinion
+Kia,Syros,HTK EX Turbo,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Kia,Syros,HTK EX Turbo,"Suspension, Steering & Brakes",Rear Brake Type,Drum
+Kia,Syros,HTK EX Turbo,Dimensions & Capacity,Length,3995 mm
+Kia,Syros,HTK EX Turbo,Dimensions & Capacity,Width,1805 mm
+Kia,Syros,HTK EX Turbo,Dimensions & Capacity,Height,1680 mm
+Kia,Syros,HTK EX Turbo,Dimensions & Capacity,Boot Space,465 Litres
+Kia,Syros,HTK EX Turbo,Dimensions & Capacity,Seating Capacity,5
+Kia,Syros,HTK EX Turbo,Dimensions & Capacity,Wheel Base,2550 mm
+Kia,Syros,HTK EX Turbo,Comfort & Convenience,Power Steering,YES
+Kia,Syros,HTK EX Turbo,Comfort & Convenience,Air Conditioner,YES
+Kia,Syros,HTK EX Turbo,Comfort & Convenience,Heater,YES
+Kia,Syros,HTK EX Turbo,Comfort & Convenience,Adjustable Steering,Height only
+Kia,Syros,HTK EX Turbo,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Kia,Syros,HTK EX Turbo,Comfort & Convenience,Ventilated Seats,NO
+Kia,Syros,HTK EX Turbo,Comfort & Convenience,Electric Adjustable Seats,NO
+Kia,Syros,HTK EX Turbo,Comfort & Convenience,Automatic Climate Control,NO
+Kia,Syros,HTK EX Turbo,Comfort & Convenience,Accessory Power Outlet,YES
+Kia,Syros,HTK EX Turbo,Comfort & Convenience,Rear Seat Headrest,Integrated
+Kia,Syros,HTK EX Turbo,Comfort & Convenience,Adjustable Headrest,YES
+Kia,Syros,HTK EX Turbo,Comfort & Convenience,Rear Seat Centre Arm Rest,NO
+Kia,Syros,HTK EX Turbo,Comfort & Convenience,Rear AC Vents,YES
+Kia,Syros,HTK EX Turbo,Comfort & Convenience,Cruise Control,NO
+Kia,Syros,HTK EX Turbo,Comfort & Convenience,Parking Sensors,Rear
+Kia,Syros,HTK EX Turbo,Comfort & Convenience,KeyLess Entry,YES
+Kia,Syros,HTK EX Turbo,Comfort & Convenience,Engine Start/Stop Button,NO
+Kia,Syros,HTK EX Turbo,Comfort & Convenience,Paddle Shifters,NO
+Kia,Syros,HTK EX Turbo,Comfort & Convenience,Central Console Armrest,YES
+Kia,Syros,HTK EX Turbo,Comfort & Convenience,Drive Modes,NO
+Kia,Syros,HTK EX Turbo,Comfort & Convenience,Additional Features,Sunglass Holder
+Kia,Syros,HTK EX Turbo,Comfort & Convenience,Drive Mode Types,NO
+Kia,Syros,HTK EX Turbo,Comfort & Convenience,Power Windows,Front & Rear
+Kia,Syros,HTK EX Turbo,Comfort & Convenience,Cup Holders,Front Only
+Kia,Syros,HTK EX Turbo,Interior,Glove Box,YES
+Kia,Syros,HTK EX Turbo,Interior,Digital Cluster,YES
+Kia,Syros,HTK EX Turbo,Interior,Digital Cluster Size,12
+Kia,Syros,HTK EX Turbo,Interior,Upholstery,Semi-Leatherette
+Kia,Syros,HTK EX Turbo,Exterior,Rear Window Wiper,NO
+Kia,Syros,HTK EX Turbo,Exterior,Rear Window Washer,NO
+Kia,Syros,HTK EX Turbo,Exterior,Rear Window Defogger,NO
+Kia,Syros,HTK EX Turbo,Exterior,Wheel Covers,NO
+Kia,Syros,HTK EX Turbo,Exterior,Alloy Wheels,YES
+Kia,Syros,HTK EX Turbo,Exterior,Rear Spoiler,YES
+Kia,Syros,HTK EX Turbo,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Kia,Syros,HTK EX Turbo,Exterior,Roof Rails,YES
+Kia,Syros,HTK EX Turbo,Exterior,Fog Lights,Front
+Kia,Syros,HTK EX Turbo,Exterior,Antenna,Shark Fin
+Kia,Syros,HTK EX Turbo,Exterior,Sunroof,Single Pane
+Kia,Syros,HTK EX Turbo,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Kia,Syros,HTK EX Turbo,Exterior,Tyre Size,215/60 R16
+Kia,Syros,HTK EX Turbo,Exterior,Tyre Type,Radial Tubeless
+Kia,Syros,HTK EX Turbo,Exterior,Wheel Size,16 Inch
+Kia,Syros,HTK EX Turbo,Exterior,LED DRLs,YES
+Kia,Syros,HTK EX Turbo,Exterior,LED Headlamps,YES
+Kia,Syros,HTK EX Turbo,Exterior,LED Taillights,YES
+Kia,Syros,HTK EX Turbo,Exterior,LED Fog Lamps,YES
+Kia,Syros,HTK EX Turbo,Safety,Anti-lock Braking System (ABS),YES
+Kia,Syros,HTK EX Turbo,Safety,Brake Assist,YES
+Kia,Syros,HTK EX Turbo,Safety,Central Locking,YES
+Kia,Syros,HTK EX Turbo,Safety,Child Safety Locks,YES
+Kia,Syros,HTK EX Turbo,Safety,Anti-Theft Alarm,YES
+Kia,Syros,HTK EX Turbo,Safety,No. of Airbags,6
+Kia,Syros,HTK EX Turbo,Safety,Driver Airbag,YES
+Kia,Syros,HTK EX Turbo,Safety,Passenger Airbag,YES
+Kia,Syros,HTK EX Turbo,Safety,Side Airbag,YES
+Kia,Syros,HTK EX Turbo,Safety,Side Airbag-Rear,NO
+Kia,Syros,HTK EX Turbo,Safety,Day & Night Rear View Mirror,YES
+Kia,Syros,HTK EX Turbo,Safety,Electronic Brakeforce Distribution (EBD),YES
+Kia,Syros,HTK EX Turbo,Safety,Traction Control,NO
+Kia,Syros,HTK EX Turbo,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Kia,Syros,HTK EX Turbo,Safety,Electronic Stability Control (ESC),YES
+Kia,Syros,HTK EX Turbo,Safety,Rear Camera,With Guidedlines
+Kia,Syros,HTK EX Turbo,Safety,ISOFIX Child Seat Mounts,YES
+Kia,Syros,HTK EX Turbo,Safety,Hill Assist,YES
+Kia,Syros,HTK EX Turbo,Safety,Bharat NCAP Safety Rating,5 Star
+Kia,Syros,HTK EX Turbo,Safety,Bharat NCAP Child Safety Rating,5 Star
+Kia,Syros,HTK EX Turbo,Entertainment & Communication,Radio,YES
+Kia,Syros,HTK EX Turbo,Entertainment & Communication,Wireless Phone Charging,NO
+Kia,Syros,HTK EX Turbo,Entertainment & Communication,Bluetooth Connectivity,YES
+Kia,Syros,HTK EX Turbo,Entertainment & Communication,Touchscreen,YES
+Kia,Syros,HTK EX Turbo,Entertainment & Communication,Touchscreen Size,10.25 inch
+Kia,Syros,HTK EX Turbo,Entertainment & Communication,Android Auto,YES
+Kia,Syros,HTK EX Turbo,Entertainment & Communication,Apple CarPlay,YES
+Kia,Syros,HTK EX Turbo,Entertainment & Communication,No. of Speakers,6
+Kia,Syros,HTK EX Turbo,Entertainment & Communication,Usb Ports,YES
+Kia,Syros,HTK EX Turbo,Entertainment & Communication,Additional Features,Wireless Android Auto & Apple CarPlay
+Kia,Syros,HTK EX Turbo,Entertainment & Communication,Speakers,Front & Rear
+Kia,Syros,HTK EX Turbo,Advance Internet Feature,Live Location,NO
+Kia,Syros,HTK EX Turbo,Advance Internet Feature,Remote Vehicle Status Check,NO
+Kia,Syros,HTK EX Turbo,Advance Internet Feature,Inbuilt Assistant,NO
+Kia,Syros,HTK EX Turbo,Advance Internet Feature,Hinglish Voice Commands,NO
+Kia,Syros,HTK EX Turbo,Advance Internet Feature,Navigation with Live Traffic,NO
+Kia,Syros,HTK EX Turbo,Advance Internet Feature,Over the Air (OTA) Updates,NO
+Kia,Syros,HTK EX Turbo,Advance Internet Feature,Over Speeding Alert,NO
+Kia,Syros,HTK EX Turbo,Advance Internet Feature,In Car Remote Control App,NO
+Kia,Syros,HTK EX Turbo,Advance Internet Feature,Valet Mode,NO
+Kia,Syros,HTK EX Turbo,Advance Internet Feature,Remote AC On/Off,NO
+Kia,Syros,HTK EX Turbo,Advance Internet Feature,Remote Door Lock/Unlock,NO
+Kia,Syros,HTK EX Turbo,Advance Internet Feature,Inbuilt APPs,NO

@@ -1,0 +1,131 @@
+company,model,variant,category,feature_name,feature_details
+Tata,Nexon,Smart CNG,Engine & Transmission,Engine Type,1.2L Turbocharged Revotron
+Tata,Nexon,Smart CNG,Engine & Transmission,Displacement,1199 cc
+Tata,Nexon,Smart CNG,Engine & Transmission,Max Power,99bhp@5000rpm
+Tata,Nexon,Smart CNG,Engine & Transmission,Max Torque,170Nm@2000rpm
+Tata,Nexon,Smart CNG,Engine & Transmission,No. of Cylinders,3
+Tata,Nexon,Smart CNG,Engine & Transmission,Valves Per Cylinder,4
+Tata,Nexon,Smart CNG,Engine & Transmission,Turbo Charger,YES
+Tata,Nexon,Smart CNG,Engine & Transmission,Transmission Type,Manual
+Tata,Nexon,Smart CNG,Engine & Transmission,Gearbox,6-Speed
+Tata,Nexon,Smart CNG,Engine & Transmission,Drive Type,FWD
+Tata,Nexon,Smart CNG,Fuel & Performance,Fuel Type,CNG
+Tata,Nexon,Smart CNG,Fuel & Performance,CNG Mileage ARAI,17.44 km/kg
+Tata,Nexon,Smart CNG,Fuel & Performance,CNG Fuel Tank Capacity,60 Litres
+Tata,Nexon,Smart CNG,Fuel & Performance,Secondary Fuel Type,Petrol
+Tata,Nexon,Smart CNG,Fuel & Performance,Petrol Fuel Tank Capacity (Litres),44.0
+Tata,Nexon,Smart CNG,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Tata,Nexon,Smart CNG,Fuel & Performance,Top Speed,180 kmph
+Tata,Nexon,Smart CNG,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Tata,Nexon,Smart CNG,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Tata,Nexon,Smart CNG,"Suspension, Steering & Brakes",Steering Type,Electric
+Tata,Nexon,Smart CNG,"Suspension, Steering & Brakes",Steering Column,Tilt
+Tata,Nexon,Smart CNG,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Tata,Nexon,Smart CNG,"Suspension, Steering & Brakes",Rear Brake Type,Drum
+Tata,Nexon,Smart CNG,Dimensions & Capacity,Length,3995 mm
+Tata,Nexon,Smart CNG,Dimensions & Capacity,Width,1804 mm
+Tata,Nexon,Smart CNG,Dimensions & Capacity,Height,1620 mm
+Tata,Nexon,Smart CNG,Dimensions & Capacity,Boot Space,321 Litres
+Tata,Nexon,Smart CNG,Dimensions & Capacity,Seating Capacity,5
+Tata,Nexon,Smart CNG,Dimensions & Capacity,Ground Clearance Unladen,208 mm
+Tata,Nexon,Smart CNG,Dimensions & Capacity,Wheel Base,2498 mm
+Tata,Nexon,Smart CNG,Comfort & Convenience,Power Steering,YES
+Tata,Nexon,Smart CNG,Comfort & Convenience,Air Conditioner,YES
+Tata,Nexon,Smart CNG,Comfort & Convenience,Heater,YES
+Tata,Nexon,Smart CNG,Comfort & Convenience,Adjustable Steering,Height only
+Tata,Nexon,Smart CNG,Comfort & Convenience,Height Adjustable Driver Seat,NO
+Tata,Nexon,Smart CNG,Comfort & Convenience,Ventilated Seats,NO
+Tata,Nexon,Smart CNG,Comfort & Convenience,Automatic Climate Control,NO
+Tata,Nexon,Smart CNG,Comfort & Convenience,Air Quality Control,NO
+Tata,Nexon,Smart CNG,Comfort & Convenience,Accessory Power Outlet,YES
+Tata,Nexon,Smart CNG,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Tata,Nexon,Smart CNG,Comfort & Convenience,Adjustable Headrest,YES
+Tata,Nexon,Smart CNG,Comfort & Convenience,Rear Seat Centre Arm Rest,NO
+Tata,Nexon,Smart CNG,Comfort & Convenience,Height Adjustable Front Seat Belts,NO
+Tata,Nexon,Smart CNG,Comfort & Convenience,Rear AC Vents,NO
+Tata,Nexon,Smart CNG,Comfort & Convenience,Cruise Control,NO
+Tata,Nexon,Smart CNG,Comfort & Convenience,Parking Sensors,Rear
+Tata,Nexon,Smart CNG,Comfort & Convenience,Foldable Rear Seat,Bench Folding
+Tata,Nexon,Smart CNG,Comfort & Convenience,KeyLess Entry,NO
+Tata,Nexon,Smart CNG,Comfort & Convenience,Engine Start/Stop Button,NO
+Tata,Nexon,Smart CNG,Comfort & Convenience,Voice Commands,NO
+Tata,Nexon,Smart CNG,Comfort & Convenience,Paddle Shifters,NO
+Tata,Nexon,Smart CNG,Comfort & Convenience,USB Charger,NO
+Tata,Nexon,Smart CNG,Comfort & Convenience,Central Console Armrest,NO
+Tata,Nexon,Smart CNG,Comfort & Convenience,Drive Modes,NO
+Tata,Nexon,Smart CNG,Comfort & Convenience,Follow Me Home Headlamps,NO
+Tata,Nexon,Smart CNG,Comfort & Convenience,Voice assisted sunroof,NO
+Tata,Nexon,Smart CNG,Comfort & Convenience,Drive Mode Types,NO
+Tata,Nexon,Smart CNG,Comfort & Convenience,Power Windows,Front Only
+Tata,Nexon,Smart CNG,Interior,Leather Wrapped Steering Wheel,NO
+Tata,Nexon,Smart CNG,Interior,Glove Box,YES
+Tata,Nexon,Smart CNG,Interior,Digital Cluster,YES
+Tata,Nexon,Smart CNG,Interior,Digital Cluster Size,4
+Tata,Nexon,Smart CNG,Interior,Upholstery,Fabric
+Tata,Nexon,Smart CNG,Exterior,Adjustable Headlamps,YES
+Tata,Nexon,Smart CNG,Exterior,Rain Sensing Wiper,NO
+Tata,Nexon,Smart CNG,Exterior,Rear Window Wiper,NO
+Tata,Nexon,Smart CNG,Exterior,Rear Window Washer,NO
+Tata,Nexon,Smart CNG,Exterior,Rear Window Defogger,NO
+Tata,Nexon,Smart CNG,Exterior,Wheel Covers,YES
+Tata,Nexon,Smart CNG,Exterior,Alloy Wheels,NO
+Tata,Nexon,Smart CNG,Exterior,Rear Spoiler,YES
+Tata,Nexon,Smart CNG,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Tata,Nexon,Smart CNG,Exterior,Cornering Foglamps,NO
+Tata,Nexon,Smart CNG,Exterior,Roof Rails,NO
+Tata,Nexon,Smart CNG,Exterior,Automatic Headlamps,NO
+Tata,Nexon,Smart CNG,Exterior,Fog Lights,NO
+Tata,Nexon,Smart CNG,Exterior,Antenna,Pole Type
+Tata,Nexon,Smart CNG,Exterior,Sunroof,NO
+Tata,Nexon,Smart CNG,Exterior,Outside Rear View Mirror (ORVM),Manual
+Tata,Nexon,Smart CNG,Exterior,Tyre Size,195/60 R16
+Tata,Nexon,Smart CNG,Exterior,Tyre Type,Radial Tubeless
+Tata,Nexon,Smart CNG,Exterior,Wheel Size,16 Inch
+Tata,Nexon,Smart CNG,Exterior,LED DRLs,YES
+Tata,Nexon,Smart CNG,Exterior,LED Headlamps,YES
+Tata,Nexon,Smart CNG,Exterior,LED Taillights,YES
+Tata,Nexon,Smart CNG,Exterior,LED Fog Lamps,NO
+Tata,Nexon,Smart CNG,Safety,Anti-lock Braking System (ABS),YES
+Tata,Nexon,Smart CNG,Safety,Central Locking,YES
+Tata,Nexon,Smart CNG,Safety,Child Safety Locks,YES
+Tata,Nexon,Smart CNG,Safety,No. of Airbags,6
+Tata,Nexon,Smart CNG,Safety,Driver Airbag,YES
+Tata,Nexon,Smart CNG,Safety,Passenger Airbag,YES
+Tata,Nexon,Smart CNG,Safety,Side Airbag,YES
+Tata,Nexon,Smart CNG,Safety,Side Airbag-Rear,NO
+Tata,Nexon,Smart CNG,Safety,Day & Night Rear View Mirror,YES
+Tata,Nexon,Smart CNG,Safety,Electronic Brakeforce Distribution (EBD),YES
+Tata,Nexon,Smart CNG,Safety,Tyre Pressure Monitoring System (TPMS),NO
+Tata,Nexon,Smart CNG,Safety,Engine Immobilizer,YES
+Tata,Nexon,Smart CNG,Safety,Electronic Stability Control (ESC),YES
+Tata,Nexon,Smart CNG,Safety,Rear Camera,NO
+Tata,Nexon,Smart CNG,Safety,ISOFIX Child Seat Mounts,YES
+Tata,Nexon,Smart CNG,Safety,360 View Camera,NO
+Tata,Nexon,Smart CNG,Safety,Global NCAP Safety Rating,5 Star
+Tata,Nexon,Smart CNG,Safety,Global NCAP Child Safety Rating,5 Star
+Tata,Nexon,Smart CNG,Safety,Bharat NCAP Safety Rating,5 Star
+Tata,Nexon,Smart CNG,Safety,Bharat NCAP Child Safety Rating,5 Star
+Tata,Nexon,Smart CNG,Entertainment & Communication,Radio,NO
+Tata,Nexon,Smart CNG,Entertainment & Communication,Wireless Phone Charging,NO
+Tata,Nexon,Smart CNG,Entertainment & Communication,Bluetooth Connectivity,NO
+Tata,Nexon,Smart CNG,Entertainment & Communication,Touchscreen,NO
+Tata,Nexon,Smart CNG,Entertainment & Communication,Android Auto,NO
+Tata,Nexon,Smart CNG,Entertainment & Communication,Apple CarPlay,NO
+Tata,Nexon,Smart CNG,Entertainment & Communication,Usb Ports,NO
+Tata,Nexon,Smart CNG,Entertainment & Communication,Speakers,NO
+Tata,Nexon,Smart CNG,ADAS Feature,Forward Collision Warning,NO
+Tata,Nexon,Smart CNG,ADAS Feature,Automatic Emergency Braking,NO
+Tata,Nexon,Smart CNG,ADAS Feature,Traffic Sign Recognition,NO
+Tata,Nexon,Smart CNG,ADAS Feature,Lane Departure Warning,NO
+Tata,Nexon,Smart CNG,ADAS Feature,Lane Keep Assist,NO
+Tata,Nexon,Smart CNG,ADAS Feature,Adaptive High Beam Assist,NO
+Tata,Nexon,Smart CNG,ADAS Feature,Blind Spot Monitor,NO
+Tata,Nexon,Smart CNG,Advance Internet Feature,Live Location,NO
+Tata,Nexon,Smart CNG,Advance Internet Feature,Engine Start Alarm,NO
+Tata,Nexon,Smart CNG,Advance Internet Feature,Remote Vehicle Status Check,NO
+Tata,Nexon,Smart CNG,Advance Internet Feature,Navigation with Live Traffic,NO
+Tata,Nexon,Smart CNG,Advance Internet Feature,Live Weather,NO
+Tata,Nexon,Smart CNG,Advance Internet Feature,E-Call & I-Call,NO
+Tata,Nexon,Smart CNG,Advance Internet Feature,Over the Air (OTA) Updates,NO
+Tata,Nexon,Smart CNG,Advance Internet Feature,Remote AC On/Off,NO
+Tata,Nexon,Smart CNG,Advance Internet Feature,Remote Vehicle Ignition Start/Stop,NO

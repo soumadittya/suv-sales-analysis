@@ -1,0 +1,98 @@
+company,model,variant,category,feature_name,feature_details
+Mercedes-Benz,AMG GLC 43,4Matic,Engine & Transmission,Engine Type,2.0L Inline M139 4-cylinder
+Mercedes-Benz,AMG GLC 43,4Matic,Engine & Transmission,Displacement,1991 cc
+Mercedes-Benz,AMG GLC 43,4Matic,Engine & Transmission,Max Power,416bhp@6750rpm
+Mercedes-Benz,AMG GLC 43,4Matic,Engine & Transmission,Max Torque,500Nm@5000rpm
+Mercedes-Benz,AMG GLC 43,4Matic,Engine & Transmission,No. of Cylinders,4
+Mercedes-Benz,AMG GLC 43,4Matic,Engine & Transmission,Valves Per Cylinder,4
+Mercedes-Benz,AMG GLC 43,4Matic,Engine & Transmission,Turbo Charger,YES
+Mercedes-Benz,AMG GLC 43,4Matic,Engine & Transmission,Transmission Type,Automatic
+Mercedes-Benz,AMG GLC 43,4Matic,Engine & Transmission,Gearbox,9-Speed
+Mercedes-Benz,AMG GLC 43,4Matic,Engine & Transmission,Drive Type,4WD
+Mercedes-Benz,AMG GLC 43,4Matic,Fuel & Performance,Fuel Type,Petrol
+Mercedes-Benz,AMG GLC 43,4Matic,Fuel & Performance,Petrol Highway Mileage,10 kmpl
+Mercedes-Benz,AMG GLC 43,4Matic,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Mercedes-Benz,AMG GLC 43,4Matic,Fuel & Performance,Top Speed,250 kmph
+Mercedes-Benz,AMG GLC 43,4Matic,Fuel & Performance,Acceleration,4.8 s
+Mercedes-Benz,AMG GLC 43,4Matic,Fuel & Performance,0-100kmph,4.8 s
+Mercedes-Benz,AMG GLC 43,4Matic,"Suspension, Steering & Brakes",Front Suspension,Double wishbone suspension
+Mercedes-Benz,AMG GLC 43,4Matic,"Suspension, Steering & Brakes",Rear Suspension,Double wishbone suspension
+Mercedes-Benz,AMG GLC 43,4Matic,"Suspension, Steering & Brakes",Steering Type,Electric
+Mercedes-Benz,AMG GLC 43,4Matic,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Mercedes-Benz,AMG GLC 43,4Matic,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Mercedes-Benz,AMG GLC 43,4Matic,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Mercedes-Benz,AMG GLC 43,4Matic,Dimensions & Capacity,Length,4749 mm
+Mercedes-Benz,AMG GLC 43,4Matic,Dimensions & Capacity,Width,2096 mm
+Mercedes-Benz,AMG GLC 43,4Matic,Dimensions & Capacity,Height,1585 mm
+Mercedes-Benz,AMG GLC 43,4Matic,Dimensions & Capacity,Seating Capacity,5
+Mercedes-Benz,AMG GLC 43,4Matic,Dimensions & Capacity,Ground Clearance Unladen,201 mm
+Mercedes-Benz,AMG GLC 43,4Matic,Dimensions & Capacity,Wheel Base,2873 mm
+Mercedes-Benz,AMG GLC 43,4Matic,Dimensions & Capacity,Reported Boot Space,550 Litres
+Mercedes-Benz,AMG GLC 43,4Matic,Comfort & Convenience,Boot Opening,Electronic
+Mercedes-Benz,AMG GLC 43,4Matic,Comfort & Convenience,Power Steering,YES
+Mercedes-Benz,AMG GLC 43,4Matic,Comfort & Convenience,Air Conditioner,YES
+Mercedes-Benz,AMG GLC 43,4Matic,Comfort & Convenience,Heater,YES
+Mercedes-Benz,AMG GLC 43,4Matic,Comfort & Convenience,Adjustable Steering,Powered Adjustment
+Mercedes-Benz,AMG GLC 43,4Matic,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Mercedes-Benz,AMG GLC 43,4Matic,Comfort & Convenience,Automatic Climate Control,YES
+Mercedes-Benz,AMG GLC 43,4Matic,Comfort & Convenience,Air Quality Control,YES
+Mercedes-Benz,AMG GLC 43,4Matic,Comfort & Convenience,Accessory Power Outlet,YES
+Mercedes-Benz,AMG GLC 43,4Matic,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Mercedes-Benz,AMG GLC 43,4Matic,Comfort & Convenience,Adjustable Headrest,YES
+Mercedes-Benz,AMG GLC 43,4Matic,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Mercedes-Benz,AMG GLC 43,4Matic,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Mercedes-Benz,AMG GLC 43,4Matic,Comfort & Convenience,Rear AC Vents,YES
+Mercedes-Benz,AMG GLC 43,4Matic,Comfort & Convenience,Lumbar Support,YES
+Mercedes-Benz,AMG GLC 43,4Matic,Comfort & Convenience,Cruise Control,YES
+Mercedes-Benz,AMG GLC 43,4Matic,Comfort & Convenience,Parking Sensors,Front & Rear
+Mercedes-Benz,AMG GLC 43,4Matic,Comfort & Convenience,Real-Time Vehicle Tracking,YES
+Mercedes-Benz,AMG GLC 43,4Matic,Comfort & Convenience,KeyLess Entry,YES
+Mercedes-Benz,AMG GLC 43,4Matic,Comfort & Convenience,Engine Start/Stop Button,YES
+Mercedes-Benz,AMG GLC 43,4Matic,Comfort & Convenience,Voice Commands,YES
+Mercedes-Benz,AMG GLC 43,4Matic,Comfort & Convenience,USB Charger,Front & Rear
+Mercedes-Benz,AMG GLC 43,4Matic,Comfort & Convenience,Central Console Armrest,YES
+Mercedes-Benz,AMG GLC 43,4Matic,Comfort & Convenience,Glove Box light,YES
+Mercedes-Benz,AMG GLC 43,4Matic,Comfort & Convenience,Idle Start-Stop System,YES
+Mercedes-Benz,AMG GLC 43,4Matic,Comfort & Convenience,Follow Me Home Headlamps,YES
+Mercedes-Benz,AMG GLC 43,4Matic,Comfort & Convenience,Power Windows,Front & Rear
+Mercedes-Benz,AMG GLC 43,4Matic,Comfort & Convenience,Cup Holders,Front & Rear
+Mercedes-Benz,AMG GLC 43,4Matic,Interior,Leather Wrapped Steering Wheel,YES
+Mercedes-Benz,AMG GLC 43,4Matic,Interior,Glove Box,YES
+Mercedes-Benz,AMG GLC 43,4Matic,Interior,Digital Cluster,YES
+Mercedes-Benz,AMG GLC 43,4Matic,Exterior,Adjustable Headlamps,YES
+Mercedes-Benz,AMG GLC 43,4Matic,Exterior,Rain Sensing Wiper,YES
+Mercedes-Benz,AMG GLC 43,4Matic,Exterior,Rear Window Defogger,YES
+Mercedes-Benz,AMG GLC 43,4Matic,Exterior,Alloy Wheels,YES
+Mercedes-Benz,AMG GLC 43,4Matic,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Mercedes-Benz,AMG GLC 43,4Matic,Exterior,Tyre Type,Radial Tubeless
+Mercedes-Benz,AMG GLC 43,4Matic,Exterior,LED DRLs,YES
+Mercedes-Benz,AMG GLC 43,4Matic,Exterior,LED Headlamps,YES
+Mercedes-Benz,AMG GLC 43,4Matic,Exterior,LED Taillights,YES
+Mercedes-Benz,AMG GLC 43,4Matic,Safety,Anti-lock Braking System (ABS),YES
+Mercedes-Benz,AMG GLC 43,4Matic,Safety,Brake Assist,YES
+Mercedes-Benz,AMG GLC 43,4Matic,Safety,Central Locking,YES
+Mercedes-Benz,AMG GLC 43,4Matic,Safety,Child Safety Locks,YES
+Mercedes-Benz,AMG GLC 43,4Matic,Safety,Anti-Theft Alarm,YES
+Mercedes-Benz,AMG GLC 43,4Matic,Safety,No. of Airbags,6
+Mercedes-Benz,AMG GLC 43,4Matic,Safety,Driver Airbag,YES
+Mercedes-Benz,AMG GLC 43,4Matic,Safety,Passenger Airbag,YES
+Mercedes-Benz,AMG GLC 43,4Matic,Safety,Side Airbag,YES
+Mercedes-Benz,AMG GLC 43,4Matic,Safety,Day & Night Rear View Mirror,YES
+Mercedes-Benz,AMG GLC 43,4Matic,Safety,Electronic Brakeforce Distribution (EBD),YES
+Mercedes-Benz,AMG GLC 43,4Matic,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Mercedes-Benz,AMG GLC 43,4Matic,Safety,Engine Immobilizer,YES
+Mercedes-Benz,AMG GLC 43,4Matic,Safety,Electronic Stability Control (ESC),YES
+Mercedes-Benz,AMG GLC 43,4Matic,Safety,Rear Camera,With Guidedlines
+Mercedes-Benz,AMG GLC 43,4Matic,Safety,Anti-Theft Device,YES
+Mercedes-Benz,AMG GLC 43,4Matic,Safety,Anti-Pinch Power Windows,All Windows
+Mercedes-Benz,AMG GLC 43,4Matic,Safety,Hill Assist,YES
+Mercedes-Benz,AMG GLC 43,4Matic,Safety,360 View Camera,YES
+Mercedes-Benz,AMG GLC 43,4Matic,Entertainment & Communication,Radio,YES
+Mercedes-Benz,AMG GLC 43,4Matic,Entertainment & Communication,Wireless Phone Charging,YES
+Mercedes-Benz,AMG GLC 43,4Matic,Entertainment & Communication,Bluetooth Connectivity,YES
+Mercedes-Benz,AMG GLC 43,4Matic,Entertainment & Communication,Touchscreen,YES
+Mercedes-Benz,AMG GLC 43,4Matic,Entertainment & Communication,Android Auto,YES
+Mercedes-Benz,AMG GLC 43,4Matic,Entertainment & Communication,Apple CarPlay,YES
+Mercedes-Benz,AMG GLC 43,4Matic,Entertainment & Communication,No. of Speakers,15
+Mercedes-Benz,AMG GLC 43,4Matic,Entertainment & Communication,Usb Ports,YES
+Mercedes-Benz,AMG GLC 43,4Matic,Entertainment & Communication,Speakers,Front & Rear

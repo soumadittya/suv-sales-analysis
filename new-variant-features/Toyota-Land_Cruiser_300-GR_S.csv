@@ -1,0 +1,101 @@
+company,model,variant,category,feature_name,feature_details
+Toyota,Land Cruiser 300,GR-S,Engine & Transmission,Engine Type,F33A-FTV
+Toyota,Land Cruiser 300,GR-S,Engine & Transmission,Displacement,3346 cc
+Toyota,Land Cruiser 300,GR-S,Engine & Transmission,Max Power,304.41bhp@4000rpm
+Toyota,Land Cruiser 300,GR-S,Engine & Transmission,Max Torque,700Nm@1600-2600rpm
+Toyota,Land Cruiser 300,GR-S,Engine & Transmission,No. of Cylinders,6
+Toyota,Land Cruiser 300,GR-S,Engine & Transmission,Valves Per Cylinder,4
+Toyota,Land Cruiser 300,GR-S,Engine & Transmission,Turbo Charger,Twin
+Toyota,Land Cruiser 300,GR-S,Engine & Transmission,Transmission Type,Automatic
+Toyota,Land Cruiser 300,GR-S,Engine & Transmission,Gearbox,10-Speed AT
+Toyota,Land Cruiser 300,GR-S,Engine & Transmission,Drive Type,4WD
+Toyota,Land Cruiser 300,GR-S,Fuel & Performance,Fuel Type,Diesel
+Toyota,Land Cruiser 300,GR-S,Fuel & Performance,Diesel Mileage ARAI,11 kmpl
+Toyota,Land Cruiser 300,GR-S,Fuel & Performance,Diesel Fuel Tank Capacity,110 Litres
+Toyota,Land Cruiser 300,GR-S,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Toyota,Land Cruiser 300,GR-S,Fuel & Performance,Top Speed,165 kmph
+Toyota,Land Cruiser 300,GR-S,"Suspension, Steering & Brakes",Front Suspension,Double wishbone suspension
+Toyota,Land Cruiser 300,GR-S,"Suspension, Steering & Brakes",Rear Suspension,"Multi-link, Solid Axle"
+Toyota,Land Cruiser 300,GR-S,"Suspension, Steering & Brakes",Steering Type,Power
+Toyota,Land Cruiser 300,GR-S,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Toyota,Land Cruiser 300,GR-S,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Toyota,Land Cruiser 300,GR-S,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Toyota,Land Cruiser 300,GR-S,Dimensions & Capacity,Length,4965 mm
+Toyota,Land Cruiser 300,GR-S,Dimensions & Capacity,Width,1990 mm
+Toyota,Land Cruiser 300,GR-S,Dimensions & Capacity,Height,1945 mm
+Toyota,Land Cruiser 300,GR-S,Dimensions & Capacity,Boot Space,1131 Litres
+Toyota,Land Cruiser 300,GR-S,Dimensions & Capacity,Seating Capacity,5
+Toyota,Land Cruiser 300,GR-S,Dimensions & Capacity,Wheel Base,2850 mm
+Toyota,Land Cruiser 300,GR-S,Dimensions & Capacity,Front Tread,1536 mm
+Toyota,Land Cruiser 300,GR-S,Dimensions & Capacity,Kerb Weight,2900 kg
+Toyota,Land Cruiser 300,GR-S,Dimensions & Capacity,Reported Ground Clearance (Unladen),235 mm
+Toyota,Land Cruiser 300,GR-S,Comfort & Convenience,Power Steering,YES
+Toyota,Land Cruiser 300,GR-S,Comfort & Convenience,Air Conditioner,YES
+Toyota,Land Cruiser 300,GR-S,Comfort & Convenience,Heater,YES
+Toyota,Land Cruiser 300,GR-S,Comfort & Convenience,Adjustable Steering,Powered Adjustment
+Toyota,Land Cruiser 300,GR-S,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Toyota,Land Cruiser 300,GR-S,Comfort & Convenience,Ventilated Seats,YES
+Toyota,Land Cruiser 300,GR-S,Comfort & Convenience,Automatic Climate Control,YES
+Toyota,Land Cruiser 300,GR-S,Comfort & Convenience,Accessory Power Outlet,YES
+Toyota,Land Cruiser 300,GR-S,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Toyota,Land Cruiser 300,GR-S,Comfort & Convenience,Adjustable Headrest,YES
+Toyota,Land Cruiser 300,GR-S,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Toyota,Land Cruiser 300,GR-S,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Toyota,Land Cruiser 300,GR-S,Comfort & Convenience,Rear AC Vents,YES
+Toyota,Land Cruiser 300,GR-S,Comfort & Convenience,Lumbar Support,YES
+Toyota,Land Cruiser 300,GR-S,Comfort & Convenience,Active noise cancellation,YES
+Toyota,Land Cruiser 300,GR-S,Comfort & Convenience,Cruise Control,YES
+Toyota,Land Cruiser 300,GR-S,Comfort & Convenience,Parking Sensors,Front & Rear
+Toyota,Land Cruiser 300,GR-S,Comfort & Convenience,Foldable Rear Seat,40:20:40 Split
+Toyota,Land Cruiser 300,GR-S,Comfort & Convenience,KeyLess Entry,YES
+Toyota,Land Cruiser 300,GR-S,Comfort & Convenience,Engine Start/Stop Button,YES
+Toyota,Land Cruiser 300,GR-S,Comfort & Convenience,USB Charger,Front & Rear
+Toyota,Land Cruiser 300,GR-S,Comfort & Convenience,Central Console Armrest,YES
+Toyota,Land Cruiser 300,GR-S,Comfort & Convenience,Drive Modes,6
+Toyota,Land Cruiser 300,GR-S,Interior,Leather Wrapped Steering Wheel,YES
+Toyota,Land Cruiser 300,GR-S,Interior,Glove Box,YES
+Toyota,Land Cruiser 300,GR-S,Interior,Lighting,Ambient light
+Toyota,Land Cruiser 300,GR-S,Exterior,Adjustable Headlamps,YES
+Toyota,Land Cruiser 300,GR-S,Exterior,Rear Window Defogger,YES
+Toyota,Land Cruiser 300,GR-S,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Toyota,Land Cruiser 300,GR-S,Exterior,Roof Rails,YES
+Toyota,Land Cruiser 300,GR-S,Exterior,Automatic Headlamps,YES
+Toyota,Land Cruiser 300,GR-S,Exterior,Fog Lights,Front & Rear
+Toyota,Land Cruiser 300,GR-S,Exterior,Sun Roof,YES
+Toyota,Land Cruiser 300,GR-S,Exterior,Tyre Size,265/65R18
+Toyota,Land Cruiser 300,GR-S,Exterior,LED DRLs,YES
+Toyota,Land Cruiser 300,GR-S,Exterior,LED Headlamps,YES
+Toyota,Land Cruiser 300,GR-S,Exterior,LED Taillights,YES
+Toyota,Land Cruiser 300,GR-S,Exterior,LED Fog Lamps,YES
+Toyota,Land Cruiser 300,GR-S,Safety,Anti-lock Braking System (ABS),YES
+Toyota,Land Cruiser 300,GR-S,Safety,Brake Assist,YES
+Toyota,Land Cruiser 300,GR-S,Safety,Central Locking,YES
+Toyota,Land Cruiser 300,GR-S,Safety,Child Safety Locks,YES
+Toyota,Land Cruiser 300,GR-S,Safety,Anti-Theft Alarm,YES
+Toyota,Land Cruiser 300,GR-S,Safety,No. of Airbags,10
+Toyota,Land Cruiser 300,GR-S,Safety,Driver Airbag,YES
+Toyota,Land Cruiser 300,GR-S,Safety,Passenger Airbag,YES
+Toyota,Land Cruiser 300,GR-S,Safety,Side Airbag,YES
+Toyota,Land Cruiser 300,GR-S,Safety,Side Airbag-Rear,YES
+Toyota,Land Cruiser 300,GR-S,Safety,Day & Night Rear View Mirror,YES
+Toyota,Land Cruiser 300,GR-S,Safety,Traction Control,YES
+Toyota,Land Cruiser 300,GR-S,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Toyota,Land Cruiser 300,GR-S,Safety,Engine Immobilizer,YES
+Toyota,Land Cruiser 300,GR-S,Safety,Electronic Stability Control (ESC),YES
+Toyota,Land Cruiser 300,GR-S,Safety,Anti-Theft Device,YES
+Toyota,Land Cruiser 300,GR-S,Safety,ISOFIX Child Seat Mounts,YES
+Toyota,Land Cruiser 300,GR-S,Safety,Heads-Up Display (HUD),YES
+Toyota,Land Cruiser 300,GR-S,Safety,Hill Descent Control,YES
+Toyota,Land Cruiser 300,GR-S,Safety,360 View Camera,YES
+Toyota,Land Cruiser 300,GR-S,Safety,Global NCAP Safety Rating,5 Star
+Toyota,Land Cruiser 300,GR-S,Entertainment & Communication,Radio,YES
+Toyota,Land Cruiser 300,GR-S,Entertainment & Communication,Wireless Phone Charging,YES
+Toyota,Land Cruiser 300,GR-S,Entertainment & Communication,Bluetooth Connectivity,YES
+Toyota,Land Cruiser 300,GR-S,Entertainment & Communication,Touchscreen,YES
+Toyota,Land Cruiser 300,GR-S,Entertainment & Communication,Touchscreen Size,12.29 inch
+Toyota,Land Cruiser 300,GR-S,Entertainment & Communication,Android Auto,YES
+Toyota,Land Cruiser 300,GR-S,Entertainment & Communication,Apple CarPlay,YES
+Toyota,Land Cruiser 300,GR-S,Entertainment & Communication,No. of Speakers,14
+Toyota,Land Cruiser 300,GR-S,Entertainment & Communication,Usb Ports,YES
+Toyota,Land Cruiser 300,GR-S,Entertainment & Communication,Additional Features,Audio System with 14U JBL Speakers
+Toyota,Land Cruiser 300,GR-S,Entertainment & Communication,Speakers,Front & Rear

@@ -1,0 +1,125 @@
+company,model,variant,category,feature_name,feature_details
+Lexus,NX,350h F-sport,Engine & Transmission,Engine Type,A25B-FXS
+Lexus,NX,350h F-sport,Engine & Transmission,Displacement,2487 cc
+Lexus,NX,350h F-sport,Engine & Transmission,Motor Type,Permanent Magnet Synchronous
+Lexus,NX,350h F-sport,Engine & Transmission,Max Power,187.74bhp@6000rpm
+Lexus,NX,350h F-sport,Engine & Transmission,Max Torque,239Nm@4300-4500rpm
+Lexus,NX,350h F-sport,Engine & Transmission,No. of Cylinders,4
+Lexus,NX,350h F-sport,Engine & Transmission,Valves Per Cylinder,4
+Lexus,NX,350h F-sport,Engine & Transmission,Fuel Supply System,sequential fuel injection
+Lexus,NX,350h F-sport,Engine & Transmission,Turbo Charger,YES
+Lexus,NX,350h F-sport,Engine & Transmission,Battery Type,Lithium-ion Battery
+Lexus,NX,350h F-sport,Engine & Transmission,Transmission Type,Automatic
+Lexus,NX,350h F-sport,Engine & Transmission,Gearbox,E-CVT
+Lexus,NX,350h F-sport,Engine & Transmission,Drive Type,AWD
+Lexus,NX,350h F-sport,Fuel & Performance,Fuel Type,Petrol
+Lexus,NX,350h F-sport,Fuel & Performance,Petrol Fuel Tank Capacity,55 Litres
+Lexus,NX,350h F-sport,Fuel & Performance,Petrol Highway Mileage,17.8 kmpl
+Lexus,NX,350h F-sport,Fuel & Performance,Secondary Fuel Type,Electric
+Lexus,NX,350h F-sport,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Lexus,NX,350h F-sport,Fuel & Performance,Top Speed,200 kmph
+Lexus,NX,350h F-sport,Fuel & Performance,Acceleration,7.7 s
+Lexus,NX,350h F-sport,Fuel & Performance,0-100kmph,7.7 s
+Lexus,NX,350h F-sport,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Lexus,NX,350h F-sport,"Suspension, Steering & Brakes",Rear Suspension,Air suspension
+Lexus,NX,350h F-sport,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Lexus,NX,350h F-sport,"Suspension, Steering & Brakes",Turning Radius,5.8 m
+Lexus,NX,350h F-sport,"Suspension, Steering & Brakes",Front Brake Type,Ventilated Disc
+Lexus,NX,350h F-sport,"Suspension, Steering & Brakes",Rear Brake Type,Ventilated Disc
+Lexus,NX,350h F-sport,Dimensions & Capacity,Length,4660 mm
+Lexus,NX,350h F-sport,Dimensions & Capacity,Width,1865 mm
+Lexus,NX,350h F-sport,Dimensions & Capacity,Height,1670 mm
+Lexus,NX,350h F-sport,Dimensions & Capacity,Boot Space,520 Litres
+Lexus,NX,350h F-sport,Dimensions & Capacity,Seating Capacity,5
+Lexus,NX,350h F-sport,Dimensions & Capacity,Ground Clearance Unladen,195 mm
+Lexus,NX,350h F-sport,Dimensions & Capacity,Wheel Base,2690 mm
+Lexus,NX,350h F-sport,Dimensions & Capacity,Front Tread,1605 mm
+Lexus,NX,350h F-sport,Dimensions & Capacity,Rear Tread,1625 mm
+Lexus,NX,350h F-sport,Dimensions & Capacity,Kerb Weight,1790-1870 kg
+Lexus,NX,350h F-sport,Dimensions & Capacity,Gross Weight,2380 kg
+Lexus,NX,350h F-sport,Comfort & Convenience,Power Steering,YES
+Lexus,NX,350h F-sport,Comfort & Convenience,Air Conditioner,YES
+Lexus,NX,350h F-sport,Comfort & Convenience,Heater,YES
+Lexus,NX,350h F-sport,Comfort & Convenience,Adjustable Steering,YES
+Lexus,NX,350h F-sport,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Lexus,NX,350h F-sport,Comfort & Convenience,Ventilated Seats,YES
+Lexus,NX,350h F-sport,Comfort & Convenience,Automatic Climate Control,YES
+Lexus,NX,350h F-sport,Comfort & Convenience,Air Quality Control,YES
+Lexus,NX,350h F-sport,Comfort & Convenience,Accessory Power Outlet,YES
+Lexus,NX,350h F-sport,Comfort & Convenience,Rear Seat Headrest,YES
+Lexus,NX,350h F-sport,Comfort & Convenience,Adjustable Headrest,YES
+Lexus,NX,350h F-sport,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Lexus,NX,350h F-sport,Comfort & Convenience,Lumbar Support,YES
+Lexus,NX,350h F-sport,Comfort & Convenience,Active noise cancellation,YES
+Lexus,NX,350h F-sport,Comfort & Convenience,Cruise Control,YES
+Lexus,NX,350h F-sport,Comfort & Convenience,Parking Sensors,Front & Rear
+Lexus,NX,350h F-sport,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Lexus,NX,350h F-sport,Comfort & Convenience,KeyLess Entry,YES
+Lexus,NX,350h F-sport,Comfort & Convenience,Engine Start/Stop Button,YES
+Lexus,NX,350h F-sport,Comfort & Convenience,Voice Commands,YES
+Lexus,NX,350h F-sport,Comfort & Convenience,Paddle Shifters,YES
+Lexus,NX,350h F-sport,Comfort & Convenience,USB Charger,Front & Rear
+Lexus,NX,350h F-sport,Comfort & Convenience,Central Console Armrest,YES
+Lexus,NX,350h F-sport,Comfort & Convenience,Gear Shift Indicator,YES
+Lexus,NX,350h F-sport,Comfort & Convenience,Drive Modes,4
+Lexus,NX,350h F-sport,Comfort & Convenience,Additional Features,"Rear seat Power Folding, driver Seat 2-Way Power adjust Lumbar Support, Front Seat Adjuster (Power 8-way),heating Steering wheel, Hybrid Sequential (S-Mode) Shift Matic, EV Mode with Switch, Console front and Rear end panel-4 Type-C USB Ports & 2 DC 12V Accessory Socket, Adaptive Variable Suspension,"
+Lexus,NX,350h F-sport,Interior,Leather Wrapped Steering Wheel,YES
+Lexus,NX,350h F-sport,Interior,Leather wrap gear-shift selector,YES
+Lexus,NX,350h F-sport,Interior,Glove Box,YES
+Lexus,NX,350h F-sport,Interior,Additional Features,"Accelerator Pedal(Organ Type), Brake Pedal (Pendant Type), Inside Rear View Mirror-EC,Door Scuff Plate, F-Sport Front Seats, Seat Back Pocket (Front Seat only),Package Tray Trim & tonneau cover,Door Trim Ornament (Aluminum), Door Trim Ornament (Wood), Position memory switches,Performance Rod"
+Lexus,NX,350h F-sport,Interior,Upholstery,Leather
+Lexus,NX,350h F-sport,Exterior,Adjustable Headlamps,YES
+Lexus,NX,350h F-sport,Exterior,Fog Lights - Front,YES
+Lexus,NX,350h F-sport,Exterior,Fog Lights - Rear,YES
+Lexus,NX,350h F-sport,Exterior,Rain Sensing Wiper,YES
+Lexus,NX,350h F-sport,Exterior,Rear Window Wiper,YES
+Lexus,NX,350h F-sport,Exterior,Rear Window Defogger,YES
+Lexus,NX,350h F-sport,Exterior,Alloy Wheels,YES
+Lexus,NX,350h F-sport,Exterior,Rear Spoiler,YES
+Lexus,NX,350h F-sport,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Lexus,NX,350h F-sport,Exterior,Dual Tone Body Colour,Optional
+Lexus,NX,350h F-sport,Exterior,Cornering Headlamps,YES
+Lexus,NX,350h F-sport,Exterior,Cornering Foglamps,YES
+Lexus,NX,350h F-sport,Exterior,Roof Rails,YES
+Lexus,NX,350h F-sport,Exterior,Automatic Headlamps,YES
+Lexus,NX,350h F-sport,Exterior,Trunk Opener,Smart
+Lexus,NX,350h F-sport,Exterior,Heated Wing Mirror,YES
+Lexus,NX,350h F-sport,Exterior,Sun Roof,YES
+Lexus,NX,350h F-sport,Exterior,Tyre Size,235/50R20
+Lexus,NX,350h F-sport,Exterior,Tyre Type,"Tubeless,Radial"
+Lexus,NX,350h F-sport,Exterior,LED DRLs,YES
+Lexus,NX,350h F-sport,Exterior,LED Headlamps,YES
+Lexus,NX,350h F-sport,Exterior,LED Taillights,YES
+Lexus,NX,350h F-sport,Exterior,LED Fog Lamps,YES
+Lexus,NX,350h F-sport,Exterior,Additional Features,"3-eye Bi-Beam LED headlamps with auto-leveling system And Headlamp Cleaner, LED turn signal lamps, LED DRL (Daytime Running Lamp)W/o Cut Switch, LED Front and Rear fog lamps, LED Rear Combination Lamp & Light Bar Lamp End to End, Cornering Lamp, LED High Mount Stop lamp (On Rear Spoiler), Panoramic roof (Slide UV & IR Cut), Roof Rail(Black), Outside rear view mirror (Auto,EC,Heater)(Visor Cover - Black Paint + IR Function), EMT (Extended Mobility Tire), Front Bumper & Grille / Rear Bumper(F-Sport), F-Sport front fender emblems, fender arch moldings, Windshield & Front Side glass - Green UV Acoustic, Front, Rear QTR Glass & Back Glass -Green UV, Rear Side Glass -Light Green UV, Antenna - Radio +Shark Fin"
+Lexus,NX,350h F-sport,Safety,Anti-lock Braking System (ABS),YES
+Lexus,NX,350h F-sport,Safety,Brake Assist,YES
+Lexus,NX,350h F-sport,Safety,Central Locking,YES
+Lexus,NX,350h F-sport,Safety,Child Safety Locks,YES
+Lexus,NX,350h F-sport,Safety,Anti-Theft Alarm,YES
+Lexus,NX,350h F-sport,Safety,No. of Airbags,8
+Lexus,NX,350h F-sport,Safety,Driver Airbag,YES
+Lexus,NX,350h F-sport,Safety,Passenger Airbag,YES
+Lexus,NX,350h F-sport,Safety,Side Airbag,YES
+Lexus,NX,350h F-sport,Safety,Side Airbag-Rear,YES
+Lexus,NX,350h F-sport,Safety,Day & Night Rear View Mirror,YES
+Lexus,NX,350h F-sport,Safety,Traction Control,YES
+Lexus,NX,350h F-sport,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Lexus,NX,350h F-sport,Safety,Engine Immobilizer,YES
+Lexus,NX,350h F-sport,Safety,Anti-Theft Device,YES
+Lexus,NX,350h F-sport,Safety,ISOFIX Child Seat Mounts,YES
+Lexus,NX,350h F-sport,Safety,Heads-Up Display (HUD),YES
+Lexus,NX,350h F-sport,Safety,Hill Assist,YES
+Lexus,NX,350h F-sport,Entertainment & Communication,Radio,YES
+Lexus,NX,350h F-sport,Entertainment & Communication,Wireless Phone Charging,YES
+Lexus,NX,350h F-sport,Entertainment & Communication,Bluetooth Connectivity,YES
+Lexus,NX,350h F-sport,Entertainment & Communication,Touchscreen,YES
+Lexus,NX,350h F-sport,Entertainment & Communication,Touchscreen Size,14 Inch
+Lexus,NX,350h F-sport,Entertainment & Communication,Android Auto,YES
+Lexus,NX,350h F-sport,Entertainment & Communication,Apple CarPlay,YES
+Lexus,NX,350h F-sport,Entertainment & Communication,No. of Speakers,17
+Lexus,NX,350h F-sport,Entertainment & Communication,Usb Ports,YES
+Lexus,NX,350h F-sport,Entertainment & Communication,Subwoofer,1
+Lexus,NX,350h F-sport,Entertainment & Communication,Additional Features,"Lexus Navigation system,Mark Levinson,Interior Illumination with 14 colours"
+Lexus,NX,350h F-sport,Entertainment & Communication,Speakers,Front & Rear
+Lexus,NX,350h F-sport,ADAS Feature,Blind Spot Monitor,YES

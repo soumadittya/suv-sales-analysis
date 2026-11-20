@@ -1,0 +1,130 @@
+company,model,variant,category,feature_name,feature_details
+Volkswagen,Tayron,Life,Engine & Transmission,Engine Type,2.0L TSI Turbocharged
+Volkswagen,Tayron,Life,Engine & Transmission,Displacement,1984 cc
+Volkswagen,Tayron,Life,Engine & Transmission,Max Power,201.2bhp@4500-6000rpm
+Volkswagen,Tayron,Life,Engine & Transmission,Max Torque,320Nm@1500-4400rpm
+Volkswagen,Tayron,Life,Engine & Transmission,No. of Cylinders,4
+Volkswagen,Tayron,Life,Engine & Transmission,Valves Per Cylinder,4
+Volkswagen,Tayron,Life,Engine & Transmission,Turbo Charger,YES
+Volkswagen,Tayron,Life,Engine & Transmission,Transmission Type,Automatic
+Volkswagen,Tayron,Life,Engine & Transmission,Gearbox,7-speed DSG
+Volkswagen,Tayron,Life,Engine & Transmission,Drive Type,AWD
+Volkswagen,Tayron,Life,Fuel & Performance,Fuel Type,Petrol
+Volkswagen,Tayron,Life,Fuel & Performance,Petrol Fuel Tank Capacity,61 Litres
+Volkswagen,Tayron,Life,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Volkswagen,Tayron,Life,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Volkswagen,Tayron,Life,"Suspension, Steering & Brakes",Rear Suspension,Multi-link suspension
+Volkswagen,Tayron,Life,"Suspension, Steering & Brakes",Steering Type,Electric
+Volkswagen,Tayron,Life,"Suspension, Steering & Brakes",Steering Gear Type,Rack & Pinion
+Volkswagen,Tayron,Life,"Suspension, Steering & Brakes",Turning Radius,6.05 m
+Volkswagen,Tayron,Life,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Volkswagen,Tayron,Life,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Volkswagen,Tayron,Life,"Suspension, Steering & Brakes",Boot Space Rear Seat Folding,2090 Litres
+Volkswagen,Tayron,Life,Dimensions & Capacity,Length,4792 mm
+Volkswagen,Tayron,Life,Dimensions & Capacity,Width,1853 mm
+Volkswagen,Tayron,Life,Dimensions & Capacity,Height,1666 mm
+Volkswagen,Tayron,Life,Dimensions & Capacity,Boot Space,885 Litres
+Volkswagen,Tayron,Life,Dimensions & Capacity,Seating Capacity,5
+Volkswagen,Tayron,Life,Dimensions & Capacity,Wheel Base,2789 mm
+Volkswagen,Tayron,Life,Dimensions & Capacity,Kerb Weight,1804 kg
+Volkswagen,Tayron,Life,Dimensions & Capacity,Gross Weight,2380 kg
+Volkswagen,Tayron,Life,Comfort & Convenience,Boot Opening,Hands-Free
+Volkswagen,Tayron,Life,Comfort & Convenience,Power Steering,YES
+Volkswagen,Tayron,Life,Comfort & Convenience,Air Conditioner,YES
+Volkswagen,Tayron,Life,Comfort & Convenience,Heater,YES
+Volkswagen,Tayron,Life,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Volkswagen,Tayron,Life,Comfort & Convenience,Ventilated Seats,YES
+Volkswagen,Tayron,Life,Comfort & Convenience,Electric Adjustable Seats,Front
+Volkswagen,Tayron,Life,Comfort & Convenience,Automatic Climate Control,YES
+Volkswagen,Tayron,Life,Comfort & Convenience,Air Quality Control,YES
+Volkswagen,Tayron,Life,Comfort & Convenience,Accessory Power Outlet,YES
+Volkswagen,Tayron,Life,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Volkswagen,Tayron,Life,Comfort & Convenience,Adjustable Headrest,YES
+Volkswagen,Tayron,Life,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Volkswagen,Tayron,Life,Comfort & Convenience,Rear AC Vents,YES
+Volkswagen,Tayron,Life,Comfort & Convenience,Lumbar Support,YES
+Volkswagen,Tayron,Life,Comfort & Convenience,Cruise Control,YES
+Volkswagen,Tayron,Life,Comfort & Convenience,Parking Sensors,Front & Rear
+Volkswagen,Tayron,Life,Comfort & Convenience,Foldable Rear Seat,40:20:40 Split
+Volkswagen,Tayron,Life,Comfort & Convenience,KeyLess Entry,YES
+Volkswagen,Tayron,Life,Comfort & Convenience,Engine Start/Stop Button,YES
+Volkswagen,Tayron,Life,Comfort & Convenience,Voice Commands,YES
+Volkswagen,Tayron,Life,Comfort & Convenience,Paddle Shifters,YES
+Volkswagen,Tayron,Life,Comfort & Convenience,USB Charger,Front & Rear
+Volkswagen,Tayron,Life,Comfort & Convenience,Central Console Armrest,With Storage
+Volkswagen,Tayron,Life,Comfort & Convenience,Drive Modes,6
+Volkswagen,Tayron,Life,Comfort & Convenience,Drive Mode Types,"Eco, Comfort, Sport, Individual, Offroad, Snow driving modes"
+Volkswagen,Tayron,Life,Comfort & Convenience,Power Windows,Front & Rear
+Volkswagen,Tayron,Life,Comfort & Convenience,Heated Seats,Front Only
+Volkswagen,Tayron,Life,Interior,Leather Wrapped Steering Wheel,YES
+Volkswagen,Tayron,Life,Interior,Glove Box,YES
+Volkswagen,Tayron,Life,Interior,Lighting,"Ambient light, Footwell Lamp"
+Volkswagen,Tayron,Life,Interior,Digital Cluster,YES
+Volkswagen,Tayron,Life,Interior,Digital Cluster Size,10.25
+Volkswagen,Tayron,Life,Interior,Upholstery,Leatherette
+Volkswagen,Tayron,Life,Interior,Ambient Light Colour (numbers),10
+Volkswagen,Tayron,Life,Exterior,Adjustable Headlamps,YES
+Volkswagen,Tayron,Life,Exterior,Rain Sensing Wiper,YES
+Volkswagen,Tayron,Life,Exterior,Wheel Covers,NO
+Volkswagen,Tayron,Life,Exterior,Alloy Wheels,YES
+Volkswagen,Tayron,Life,Exterior,Rear Spoiler,YES
+Volkswagen,Tayron,Life,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Volkswagen,Tayron,Life,Exterior,Cornering Headlamps,YES
+Volkswagen,Tayron,Life,Exterior,Roof Rails,YES
+Volkswagen,Tayron,Life,Exterior,Automatic Headlamps,YES
+Volkswagen,Tayron,Life,Exterior,Fog Lights,Rear
+Volkswagen,Tayron,Life,Exterior,Sunroof,Panoramic
+Volkswagen,Tayron,Life,Exterior,Heated Outside Rear View Mirror,YES
+Volkswagen,Tayron,Life,Exterior,Puddle Lamps,YES
+Volkswagen,Tayron,Life,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Volkswagen,Tayron,Life,Exterior,Tyre Size,235/55 R18
+Volkswagen,Tayron,Life,Exterior,Tyre Type,Radial Tubeless
+Volkswagen,Tayron,Life,Exterior,LED DRLs,YES
+Volkswagen,Tayron,Life,Exterior,LED Headlamps,YES
+Volkswagen,Tayron,Life,Exterior,LED Taillights,YES
+Volkswagen,Tayron,Life,Exterior,LED Fog Lamps,YES
+Volkswagen,Tayron,Life,Safety,Anti-lock Braking System (ABS),YES
+Volkswagen,Tayron,Life,Safety,Brake Assist,YES
+Volkswagen,Tayron,Life,Safety,Central Locking,YES
+Volkswagen,Tayron,Life,Safety,Child Safety Locks,YES
+Volkswagen,Tayron,Life,Safety,Anti-Theft Alarm,YES
+Volkswagen,Tayron,Life,Safety,No. of Airbags,9
+Volkswagen,Tayron,Life,Safety,Driver Airbag,YES
+Volkswagen,Tayron,Life,Safety,Passenger Airbag,YES
+Volkswagen,Tayron,Life,Safety,Side Airbag,YES
+Volkswagen,Tayron,Life,Safety,Side Airbag-Rear,YES
+Volkswagen,Tayron,Life,Safety,Day & Night Rear View Mirror,YES
+Volkswagen,Tayron,Life,Safety,Electronic Brakeforce Distribution (EBD),YES
+Volkswagen,Tayron,Life,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Volkswagen,Tayron,Life,Safety,Electronic Stability Control (ESC),YES
+Volkswagen,Tayron,Life,Safety,Rear Camera,With Guidedlines
+Volkswagen,Tayron,Life,Safety,Anti-Pinch Power Windows,All Windows
+Volkswagen,Tayron,Life,Safety,ISOFIX Child Seat Mounts,YES
+Volkswagen,Tayron,Life,Safety,Heads-Up Display (HUD),NO
+Volkswagen,Tayron,Life,Safety,Hill Descent Control,YES
+Volkswagen,Tayron,Life,Safety,Hill Assist,YES
+Volkswagen,Tayron,Life,Safety,360 View Camera,NO
+Volkswagen,Tayron,Life,Safety,EURO NCAP Safety Rating,5 Star
+Volkswagen,Tayron,Life,Entertainment & Communication,Radio,YES
+Volkswagen,Tayron,Life,Entertainment & Communication,Wireless Phone Charging,YES
+Volkswagen,Tayron,Life,Entertainment & Communication,Bluetooth Connectivity,YES
+Volkswagen,Tayron,Life,Entertainment & Communication,Touchscreen,YES
+Volkswagen,Tayron,Life,Entertainment & Communication,Touchscreen Size,12.9 inch
+Volkswagen,Tayron,Life,Entertainment & Communication,Android Auto,Wireless
+Volkswagen,Tayron,Life,Entertainment & Communication,Apple CarPlay,Wireless
+Volkswagen,Tayron,Life,Entertainment & Communication,No. of Speakers,8
+Volkswagen,Tayron,Life,Entertainment & Communication,Usb Ports,YES
+Volkswagen,Tayron,Life,Entertainment & Communication,Speakers,Front & Rear
+Volkswagen,Tayron,Life,ADAS Feature,Automatic Emergency Braking,YES
+Volkswagen,Tayron,Life,ADAS Feature,Lane Keep Assist,YES
+Volkswagen,Tayron,Life,ADAS Feature,Driver Attention Warning,YES
+Volkswagen,Tayron,Life,ADAS Feature,Adaptive Cruise Control,YES
+Volkswagen,Tayron,Life,ADAS Feature,Adaptive High Beam Assist,YES
+Volkswagen,Tayron,Life,ADAS Feature,Rear Cross Traffic Alert,YES
+Volkswagen,Tayron,Life,ADAS Feature,Blind Spot Monitor,YES
+Volkswagen,Tayron,Life,Advance Internet Feature,Live Location,YES
+Volkswagen,Tayron,Life,Advance Internet Feature,Navigation with Live Traffic,YES
+Volkswagen,Tayron,Life,Advance Internet Feature,E-Call & I-Call,YES
+Volkswagen,Tayron,Life,Advance Internet Feature,Over Speeding Alert,YES
+Volkswagen,Tayron,Life,Advance Internet Feature,SOS / Emergency Assistance,YES
+Volkswagen,Tayron,Life,Advance Internet Feature,Inbuilt APPs,My Volkswagen Connect Plus

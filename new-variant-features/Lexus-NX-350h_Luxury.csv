@@ -1,0 +1,125 @@
+company,model,variant,category,feature_name,feature_details
+Lexus,NX,350h Luxury,Engine & Transmission,Engine Type,A25B-FXS
+Lexus,NX,350h Luxury,Engine & Transmission,Displacement,2487 cc
+Lexus,NX,350h Luxury,Engine & Transmission,Motor Type,Permanent Magnet Synchronous
+Lexus,NX,350h Luxury,Engine & Transmission,Max Power,187.74bhp@6000rpm
+Lexus,NX,350h Luxury,Engine & Transmission,Max Torque,239Nm@4300-4500rpm
+Lexus,NX,350h Luxury,Engine & Transmission,No. of Cylinders,4
+Lexus,NX,350h Luxury,Engine & Transmission,Valves Per Cylinder,4
+Lexus,NX,350h Luxury,Engine & Transmission,Fuel Supply System,sequential fuel injection
+Lexus,NX,350h Luxury,Engine & Transmission,Turbo Charger,YES
+Lexus,NX,350h Luxury,Engine & Transmission,Battery Type,Lithium-ion Battery
+Lexus,NX,350h Luxury,Engine & Transmission,Transmission Type,Automatic
+Lexus,NX,350h Luxury,Engine & Transmission,Gearbox,E-CVT
+Lexus,NX,350h Luxury,Engine & Transmission,Drive Type,AWD
+Lexus,NX,350h Luxury,Fuel & Performance,Fuel Type,Petrol
+Lexus,NX,350h Luxury,Fuel & Performance,Petrol Fuel Tank Capacity,55 Litres
+Lexus,NX,350h Luxury,Fuel & Performance,Petrol Highway Mileage,17.8 kmpl
+Lexus,NX,350h Luxury,Fuel & Performance,Secondary Fuel Type,Electric
+Lexus,NX,350h Luxury,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Lexus,NX,350h Luxury,Fuel & Performance,Top Speed,200 kmph
+Lexus,NX,350h Luxury,Fuel & Performance,Acceleration,7.7 s
+Lexus,NX,350h Luxury,Fuel & Performance,0-100kmph,7.7 s
+Lexus,NX,350h Luxury,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Lexus,NX,350h Luxury,"Suspension, Steering & Brakes",Rear Suspension,Air suspension
+Lexus,NX,350h Luxury,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Lexus,NX,350h Luxury,"Suspension, Steering & Brakes",Turning Radius,5.8 m
+Lexus,NX,350h Luxury,"Suspension, Steering & Brakes",Front Brake Type,Ventilated Disc
+Lexus,NX,350h Luxury,"Suspension, Steering & Brakes",Rear Brake Type,Ventilated Disc
+Lexus,NX,350h Luxury,Dimensions & Capacity,Length,4660 mm
+Lexus,NX,350h Luxury,Dimensions & Capacity,Width,1865 mm
+Lexus,NX,350h Luxury,Dimensions & Capacity,Height,1670 mm
+Lexus,NX,350h Luxury,Dimensions & Capacity,Boot Space,520 Litres
+Lexus,NX,350h Luxury,Dimensions & Capacity,Seating Capacity,5
+Lexus,NX,350h Luxury,Dimensions & Capacity,Ground Clearance Unladen,195 mm
+Lexus,NX,350h Luxury,Dimensions & Capacity,Wheel Base,2690 mm
+Lexus,NX,350h Luxury,Dimensions & Capacity,Front Tread,1605 mm
+Lexus,NX,350h Luxury,Dimensions & Capacity,Rear Tread,1625 mm
+Lexus,NX,350h Luxury,Dimensions & Capacity,Kerb Weight,1790-1870 kg
+Lexus,NX,350h Luxury,Dimensions & Capacity,Gross Weight,2380 kg
+Lexus,NX,350h Luxury,Comfort & Convenience,Power Steering,YES
+Lexus,NX,350h Luxury,Comfort & Convenience,Air Conditioner,YES
+Lexus,NX,350h Luxury,Comfort & Convenience,Heater,YES
+Lexus,NX,350h Luxury,Comfort & Convenience,Adjustable Steering,YES
+Lexus,NX,350h Luxury,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Lexus,NX,350h Luxury,Comfort & Convenience,Ventilated Seats,YES
+Lexus,NX,350h Luxury,Comfort & Convenience,Automatic Climate Control,YES
+Lexus,NX,350h Luxury,Comfort & Convenience,Air Quality Control,YES
+Lexus,NX,350h Luxury,Comfort & Convenience,Accessory Power Outlet,YES
+Lexus,NX,350h Luxury,Comfort & Convenience,Rear Seat Headrest,YES
+Lexus,NX,350h Luxury,Comfort & Convenience,Adjustable Headrest,YES
+Lexus,NX,350h Luxury,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Lexus,NX,350h Luxury,Comfort & Convenience,Lumbar Support,YES
+Lexus,NX,350h Luxury,Comfort & Convenience,Active noise cancellation,YES
+Lexus,NX,350h Luxury,Comfort & Convenience,Cruise Control,YES
+Lexus,NX,350h Luxury,Comfort & Convenience,Parking Sensors,Front & Rear
+Lexus,NX,350h Luxury,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Lexus,NX,350h Luxury,Comfort & Convenience,KeyLess Entry,YES
+Lexus,NX,350h Luxury,Comfort & Convenience,Engine Start/Stop Button,YES
+Lexus,NX,350h Luxury,Comfort & Convenience,Voice Commands,YES
+Lexus,NX,350h Luxury,Comfort & Convenience,Paddle Shifters,YES
+Lexus,NX,350h Luxury,Comfort & Convenience,USB Charger,Front & Rear
+Lexus,NX,350h Luxury,Comfort & Convenience,Central Console Armrest,YES
+Lexus,NX,350h Luxury,Comfort & Convenience,Gear Shift Indicator,YES
+Lexus,NX,350h Luxury,Comfort & Convenience,Drive Modes,3
+Lexus,NX,350h Luxury,Comfort & Convenience,Additional Features,"Rear seat Power Folding, driver Seat 4-Way Power adjust Lumbar Support, Front Seat Adjuster (Power 8-way), heating Steering wheel, Hybrid Sequential (S-Mode) Shift Matic, EV Mode with Switch ,Console front and Rear end panel-4 Type-C USB Ports & 2 DC 12V Accessory Socket, Adaptive Variable Suspension,"
+Lexus,NX,350h Luxury,Interior,Leather Wrapped Steering Wheel,YES
+Lexus,NX,350h Luxury,Interior,Leather wrap gear-shift selector,YES
+Lexus,NX,350h Luxury,Interior,Glove Box,YES
+Lexus,NX,350h Luxury,Interior,Additional Features,"Accelerator Pedal(Organ Type), Brake Pedal (Pendant Type), Inside Rear View Mirror-EC,Door Scuff Plate, Seat Back Pocket (Front Seat only), Package Tray Trim & tonneau cover, Door Trim Ornament (Wood), Door Trim Ornament (Wood), Position memory switches,Performance Rod ,"
+Lexus,NX,350h Luxury,Interior,Upholstery,Leather
+Lexus,NX,350h Luxury,Exterior,Adjustable Headlamps,YES
+Lexus,NX,350h Luxury,Exterior,Fog Lights - Front,YES
+Lexus,NX,350h Luxury,Exterior,Fog Lights - Rear,YES
+Lexus,NX,350h Luxury,Exterior,Rain Sensing Wiper,YES
+Lexus,NX,350h Luxury,Exterior,Rear Window Wiper,YES
+Lexus,NX,350h Luxury,Exterior,Rear Window Defogger,YES
+Lexus,NX,350h Luxury,Exterior,Alloy Wheels,YES
+Lexus,NX,350h Luxury,Exterior,Rear Spoiler,YES
+Lexus,NX,350h Luxury,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Lexus,NX,350h Luxury,Exterior,Dual Tone Body Colour,Optional
+Lexus,NX,350h Luxury,Exterior,Cornering Headlamps,YES
+Lexus,NX,350h Luxury,Exterior,Cornering Foglamps,YES
+Lexus,NX,350h Luxury,Exterior,Roof Rails,YES
+Lexus,NX,350h Luxury,Exterior,Automatic Headlamps,YES
+Lexus,NX,350h Luxury,Exterior,Trunk Opener,Smart
+Lexus,NX,350h Luxury,Exterior,Heated Wing Mirror,YES
+Lexus,NX,350h Luxury,Exterior,Sun Roof,YES
+Lexus,NX,350h Luxury,Exterior,Tyre Size,235/50R20
+Lexus,NX,350h Luxury,Exterior,Tyre Type,"Tubeless,Radial"
+Lexus,NX,350h Luxury,Exterior,LED DRLs,YES
+Lexus,NX,350h Luxury,Exterior,LED Headlamps,YES
+Lexus,NX,350h Luxury,Exterior,LED Taillights,YES
+Lexus,NX,350h Luxury,Exterior,LED Fog Lamps,YES
+Lexus,NX,350h Luxury,Exterior,Additional Features,"3-eye Bi-Beam LED headlamps with auto-leveling system And Headlamp Cleaner, LED turn signal lamps, LED DRL (Daytime Running Lamp) with Cut Switch, LED Front and Rear fog lamps, LED Rear Combination Lamp & Light Bar Lamp End to End , Cornering Lamp, LED High Mount Stop lamp (On Rear Spoiler), Panoramic roof (Slide UV & IR Cut), Roof Rail Silver (Silver), Outside rear view mirror (Auto,EC,Heater) (Visor cover -Body Color + IR Function), EMT (Extended Mobility Tire), Front Bumper & Grille / Rear Bumper ( Normal), Windshield & Front Side glass - Green UV Acoustic, Front, Rear QTR Glass & Back Glass -Green UV, Rear Side Glass -Light Green UV, Antenna - Radio +Shark Fin"
+Lexus,NX,350h Luxury,Safety,Anti-lock Braking System (ABS),YES
+Lexus,NX,350h Luxury,Safety,Brake Assist,YES
+Lexus,NX,350h Luxury,Safety,Central Locking,YES
+Lexus,NX,350h Luxury,Safety,Child Safety Locks,YES
+Lexus,NX,350h Luxury,Safety,Anti-Theft Alarm,YES
+Lexus,NX,350h Luxury,Safety,No. of Airbags,8
+Lexus,NX,350h Luxury,Safety,Driver Airbag,YES
+Lexus,NX,350h Luxury,Safety,Passenger Airbag,YES
+Lexus,NX,350h Luxury,Safety,Side Airbag,YES
+Lexus,NX,350h Luxury,Safety,Side Airbag-Rear,YES
+Lexus,NX,350h Luxury,Safety,Day & Night Rear View Mirror,YES
+Lexus,NX,350h Luxury,Safety,Traction Control,YES
+Lexus,NX,350h Luxury,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Lexus,NX,350h Luxury,Safety,Engine Immobilizer,YES
+Lexus,NX,350h Luxury,Safety,Anti-Theft Device,YES
+Lexus,NX,350h Luxury,Safety,ISOFIX Child Seat Mounts,YES
+Lexus,NX,350h Luxury,Safety,Heads-Up Display (HUD),YES
+Lexus,NX,350h Luxury,Safety,Hill Assist,YES
+Lexus,NX,350h Luxury,Entertainment & Communication,Radio,YES
+Lexus,NX,350h Luxury,Entertainment & Communication,Wireless Phone Charging,YES
+Lexus,NX,350h Luxury,Entertainment & Communication,Bluetooth Connectivity,YES
+Lexus,NX,350h Luxury,Entertainment & Communication,Touchscreen,YES
+Lexus,NX,350h Luxury,Entertainment & Communication,Touchscreen Size,14 Inch
+Lexus,NX,350h Luxury,Entertainment & Communication,Android Auto,YES
+Lexus,NX,350h Luxury,Entertainment & Communication,Apple CarPlay,YES
+Lexus,NX,350h Luxury,Entertainment & Communication,No. of Speakers,17
+Lexus,NX,350h Luxury,Entertainment & Communication,Usb Ports,YES
+Lexus,NX,350h Luxury,Entertainment & Communication,Subwoofer,1
+Lexus,NX,350h Luxury,Entertainment & Communication,Additional Features,"Lexus Navigation system,Mark Levinson,Interior Illumination with 14 colours"
+Lexus,NX,350h Luxury,Entertainment & Communication,Speakers,Front & Rear
+Lexus,NX,350h Luxury,ADAS Feature,Blind Spot Monitor,YES

@@ -1,0 +1,136 @@
+company,model,variant,category,feature_name,feature_details
+MG,Hector,Smart Pro,Engine & Transmission,Engine Type,1.5 L Turbocharged Intercooled
+MG,Hector,Smart Pro,Engine & Transmission,Displacement,1451 cc
+MG,Hector,Smart Pro,Engine & Transmission,Max Power,141.04bhp@5200rpm
+MG,Hector,Smart Pro,Engine & Transmission,Max Torque,250Nm@3000rpm
+MG,Hector,Smart Pro,Engine & Transmission,No. of Cylinders,4
+MG,Hector,Smart Pro,Engine & Transmission,Valves Per Cylinder,4
+MG,Hector,Smart Pro,Engine & Transmission,Turbo Charger,YES
+MG,Hector,Smart Pro,Engine & Transmission,Transmission Type,Manual
+MG,Hector,Smart Pro,Engine & Transmission,Gearbox,6-Speed
+MG,Hector,Smart Pro,Engine & Transmission,Drive Type,FWD
+MG,Hector,Smart Pro,Fuel & Performance,Fuel Type,Petrol
+MG,Hector,Smart Pro,Fuel & Performance,Petrol Mileage ARAI,13.79 kmpl
+MG,Hector,Smart Pro,Fuel & Performance,Petrol Fuel Tank Capacity,60 Litres
+MG,Hector,Smart Pro,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+MG,Hector,Smart Pro,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+MG,Hector,Smart Pro,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+MG,Hector,Smart Pro,"Suspension, Steering & Brakes",Steering Type,Electric
+MG,Hector,Smart Pro,"Suspension, Steering & Brakes",Steering Column,Tilt
+MG,Hector,Smart Pro,"Suspension, Steering & Brakes",Front Brake Type,Disc
+MG,Hector,Smart Pro,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+MG,Hector,Smart Pro,Dimensions & Capacity,Length,4699 mm
+MG,Hector,Smart Pro,Dimensions & Capacity,Width,1835 mm
+MG,Hector,Smart Pro,Dimensions & Capacity,Height,1760 mm
+MG,Hector,Smart Pro,Dimensions & Capacity,Seating Capacity,5
+MG,Hector,Smart Pro,Dimensions & Capacity,Wheel Base,2750 mm
+MG,Hector,Smart Pro,Comfort & Convenience,Boot Opening,Manual
+MG,Hector,Smart Pro,Comfort & Convenience,Power Steering,YES
+MG,Hector,Smart Pro,Comfort & Convenience,Air Conditioner,YES
+MG,Hector,Smart Pro,Comfort & Convenience,Heater,YES
+MG,Hector,Smart Pro,Comfort & Convenience,Adjustable Steering,Height only
+MG,Hector,Smart Pro,Comfort & Convenience,Height Adjustable Driver Seat,YES
+MG,Hector,Smart Pro,Comfort & Convenience,Ventilated Seats,NO
+MG,Hector,Smart Pro,Comfort & Convenience,Electric Adjustable Seats,NO
+MG,Hector,Smart Pro,Comfort & Convenience,Automatic Climate Control,NO
+MG,Hector,Smart Pro,Comfort & Convenience,Air Quality Control,NO
+MG,Hector,Smart Pro,Comfort & Convenience,Accessory Power Outlet,YES
+MG,Hector,Smart Pro,Comfort & Convenience,Rear Seat Headrest,Adjustable
+MG,Hector,Smart Pro,Comfort & Convenience,Adjustable Headrest,YES
+MG,Hector,Smart Pro,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+MG,Hector,Smart Pro,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+MG,Hector,Smart Pro,Comfort & Convenience,Rear AC Vents,YES
+MG,Hector,Smart Pro,Comfort & Convenience,Cruise Control,YES
+MG,Hector,Smart Pro,Comfort & Convenience,Parking Sensors,Front & Rear
+MG,Hector,Smart Pro,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+MG,Hector,Smart Pro,Comfort & Convenience,KeyLess Entry,YES
+MG,Hector,Smart Pro,Comfort & Convenience,Engine Start/Stop Button,YES
+MG,Hector,Smart Pro,Comfort & Convenience,Voice Commands,YES
+MG,Hector,Smart Pro,Comfort & Convenience,USB Charger,Front & Rear
+MG,Hector,Smart Pro,Comfort & Convenience,Central Console Armrest,With Storage
+MG,Hector,Smart Pro,Comfort & Convenience,Follow Me Home Headlamps,YES
+MG,Hector,Smart Pro,Comfort & Convenience,Additional Features,Sunglasses Holder
+MG,Hector,Smart Pro,Comfort & Convenience,Voice assisted sunroof,YES
+MG,Hector,Smart Pro,Comfort & Convenience,Power Windows,Front & Rear
+MG,Hector,Smart Pro,Interior,Leather Wrapped Steering Wheel,YES
+MG,Hector,Smart Pro,Interior,Glove Box,YES
+MG,Hector,Smart Pro,Interior,Digital Cluster,YES
+MG,Hector,Smart Pro,Interior,Digital Cluster Size,7 Inch
+MG,Hector,Smart Pro,Interior,Upholstery,Leatherette
+MG,Hector,Smart Pro,Exterior,Rain Sensing Wiper,NO
+MG,Hector,Smart Pro,Exterior,Rear Window Wiper,YES
+MG,Hector,Smart Pro,Exterior,Rear Window Washer,YES
+MG,Hector,Smart Pro,Exterior,Rear Window Defogger,YES
+MG,Hector,Smart Pro,Exterior,Wheel Covers,NO
+MG,Hector,Smart Pro,Exterior,Alloy Wheels,YES
+MG,Hector,Smart Pro,Exterior,Rear Spoiler,YES
+MG,Hector,Smart Pro,Exterior,Outside Rear View Mirror Turn Indicators,YES
+MG,Hector,Smart Pro,Exterior,Projector Headlamps,YES
+MG,Hector,Smart Pro,Exterior,Cornering Foglamps,YES
+MG,Hector,Smart Pro,Exterior,Roof Rails,YES
+MG,Hector,Smart Pro,Exterior,Automatic Headlamps,NO
+MG,Hector,Smart Pro,Exterior,Fog Lights,Front & Rear
+MG,Hector,Smart Pro,Exterior,Antenna,Shark Fin
+MG,Hector,Smart Pro,Exterior,Sunroof,Dual Pane
+MG,Hector,Smart Pro,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+MG,Hector,Smart Pro,Exterior,Tyre Size,215/55 R18
+MG,Hector,Smart Pro,Exterior,Tyre Type,Radial Tubeless
+MG,Hector,Smart Pro,Exterior,Wheel Size,18 Inch
+MG,Hector,Smart Pro,Exterior,LED DRLs,YES
+MG,Hector,Smart Pro,Exterior,LED Taillights,YES
+MG,Hector,Smart Pro,Exterior,LED Fog Lamps,YES
+MG,Hector,Smart Pro,Safety,Anti-lock Braking System (ABS),YES
+MG,Hector,Smart Pro,Safety,Brake Assist,YES
+MG,Hector,Smart Pro,Safety,Central Locking,YES
+MG,Hector,Smart Pro,Safety,Child Safety Locks,YES
+MG,Hector,Smart Pro,Safety,Anti-Theft Alarm,YES
+MG,Hector,Smart Pro,Safety,No. of Airbags,6
+MG,Hector,Smart Pro,Safety,Driver Airbag,YES
+MG,Hector,Smart Pro,Safety,Passenger Airbag,YES
+MG,Hector,Smart Pro,Safety,Side Airbag,YES
+MG,Hector,Smart Pro,Safety,Day & Night Rear View Mirror,YES
+MG,Hector,Smart Pro,Safety,Electronic Brakeforce Distribution (EBD),YES
+MG,Hector,Smart Pro,Safety,Traction Control,YES
+MG,Hector,Smart Pro,Safety,Tyre Pressure Monitoring System (TPMS),YES
+MG,Hector,Smart Pro,Safety,Engine Immobilizer,YES
+MG,Hector,Smart Pro,Safety,Electronic Stability Control (ESC),YES
+MG,Hector,Smart Pro,Safety,Rear Camera,With Guidedlines
+MG,Hector,Smart Pro,Safety,Anti-Theft Device,YES
+MG,Hector,Smart Pro,Safety,ISOFIX Child Seat Mounts,YES
+MG,Hector,Smart Pro,Safety,Hill Assist,YES
+MG,Hector,Smart Pro,Safety,360 View Camera,NO
+MG,Hector,Smart Pro,Entertainment & Communication,Radio,YES
+MG,Hector,Smart Pro,Entertainment & Communication,Wireless Phone Charging,YES
+MG,Hector,Smart Pro,Entertainment & Communication,Bluetooth Connectivity,YES
+MG,Hector,Smart Pro,Entertainment & Communication,Wi-Fi Connectivity,YES
+MG,Hector,Smart Pro,Entertainment & Communication,Touchscreen,YES
+MG,Hector,Smart Pro,Entertainment & Communication,Touchscreen Size,14 inch
+MG,Hector,Smart Pro,Entertainment & Communication,Android Auto,YES
+MG,Hector,Smart Pro,Entertainment & Communication,Apple CarPlay,YES
+MG,Hector,Smart Pro,Entertainment & Communication,No. of Speakers,4
+MG,Hector,Smart Pro,Entertainment & Communication,Usb Ports,YES
+MG,Hector,Smart Pro,Entertainment & Communication,Tweeters,4
+MG,Hector,Smart Pro,Entertainment & Communication,Subwoofer,1
+MG,Hector,Smart Pro,Entertainment & Communication,Additional Features,Wireless Android Auto + Apple Carplay
+MG,Hector,Smart Pro,Entertainment & Communication,Speakers,Front & Rear
+MG,Hector,Smart Pro,ADAS Feature,Forward Collision Warning,NO
+MG,Hector,Smart Pro,ADAS Feature,Automatic Emergency Braking,NO
+MG,Hector,Smart Pro,ADAS Feature,Lane Keep Assist,NO
+MG,Hector,Smart Pro,ADAS Feature,Adaptive Cruise Control,NO
+MG,Hector,Smart Pro,ADAS Feature,Adaptive High Beam Assist,NO
+MG,Hector,Smart Pro,Advance Internet Feature,Live Location,YES
+MG,Hector,Smart Pro,Advance Internet Feature,Engine Start Alarm,YES
+MG,Hector,Smart Pro,Advance Internet Feature,Remote Vehicle Status Check,YES
+MG,Hector,Smart Pro,Advance Internet Feature,Hinglish Voice Commands,YES
+MG,Hector,Smart Pro,Advance Internet Feature,Navigation with Live Traffic,YES
+MG,Hector,Smart Pro,Advance Internet Feature,Live Weather,YES
+MG,Hector,Smart Pro,Advance Internet Feature,E-Call & I-Call,YES
+MG,Hector,Smart Pro,Advance Internet Feature,Over the Air (OTA) Updates,YES
+MG,Hector,Smart Pro,Advance Internet Feature,Over Speeding Alert,YES
+MG,Hector,Smart Pro,Advance Internet Feature,In Car Remote Control App,YES
+MG,Hector,Smart Pro,Advance Internet Feature,Smartwatch App,YES
+MG,Hector,Smart Pro,Advance Internet Feature,Valet Mode,YES
+MG,Hector,Smart Pro,Advance Internet Feature,Remote AC On/Off,NO
+MG,Hector,Smart Pro,Advance Internet Feature,Remote Door Lock/Unlock,YES
+MG,Hector,Smart Pro,Advance Internet Feature,Geo-fence Alert,YES
+MG,Hector,Smart Pro,Advance Internet Feature,Inbuilt APPs,"i-Smart app, Jio Saavn"

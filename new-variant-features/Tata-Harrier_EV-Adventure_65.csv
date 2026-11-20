@@ -1,0 +1,156 @@
+company,model,variant,category,feature_name,feature_details
+Tata,Harrier EV,Adventure 65,Engine & Transmission,Battery Capacity,65 kWh
+Tata,Harrier EV,Adventure 65,Engine & Transmission,Motor Power,175 kW
+Tata,Harrier EV,Adventure 65,Engine & Transmission,Motor Type,1 Permanent Magnet Synchronous
+Tata,Harrier EV,Adventure 65,Engine & Transmission,Max Power,235bhp
+Tata,Harrier EV,Adventure 65,Engine & Transmission,Max Torque,315Nm
+Tata,Harrier EV,Adventure 65,Engine & Transmission,Range,538 km
+Tata,Harrier EV,Adventure 65,Engine & Transmission,Battery Type,Lithium-ion
+Tata,Harrier EV,Adventure 65,Engine & Transmission,Charging Time (A.C),10-100 % : 9.3 hrs
+Tata,Harrier EV,Adventure 65,Engine & Transmission,Charging Time (D.C),20-80 % : 25 mins
+Tata,Harrier EV,Adventure 65,Engine & Transmission,Regenerative Braking,YES
+Tata,Harrier EV,Adventure 65,Engine & Transmission,Regenerative Braking Levels,4
+Tata,Harrier EV,Adventure 65,Engine & Transmission,Charging Port,CCS-II
+Tata,Harrier EV,Adventure 65,Engine & Transmission,Charging Options,7.2 kW AC Wall Box
+Tata,Harrier EV,Adventure 65,Engine & Transmission,Transmission Type,Automatic
+Tata,Harrier EV,Adventure 65,Engine & Transmission,Gearbox,Automatic 1 Gear
+Tata,Harrier EV,Adventure 65,Engine & Transmission,Drive Type,RWD
+Tata,Harrier EV,Adventure 65,Fuel & Performance,Fuel Type,Electric
+Tata,Harrier EV,Adventure 65,Fuel & Performance,Emission Norm Compliance,ZEV
+Tata,Harrier EV,Adventure 65,Fuel & Performance,Acceleration 0-100kmph,6.3 s
+Tata,Harrier EV,Adventure 65,Charging,Charging Time,20-80 % : 25 mins
+Tata,Harrier EV,Adventure 65,Charging,Fast Charging,YES
+Tata,Harrier EV,Adventure 65,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Tata,Harrier EV,Adventure 65,"Suspension, Steering & Brakes",Rear Suspension,Multi-link suspension
+Tata,Harrier EV,Adventure 65,"Suspension, Steering & Brakes",Shock Absorbers Type,FDD
+Tata,Harrier EV,Adventure 65,"Suspension, Steering & Brakes",Steering Type,Electric
+Tata,Harrier EV,Adventure 65,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Tata,Harrier EV,Adventure 65,"Suspension, Steering & Brakes",Turning Radius,5.75 m
+Tata,Harrier EV,Adventure 65,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Tata,Harrier EV,Adventure 65,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Tata,Harrier EV,Adventure 65,Dimensions & Capacity,Length,4607 mm
+Tata,Harrier EV,Adventure 65,Dimensions & Capacity,Width,1922 mm
+Tata,Harrier EV,Adventure 65,Dimensions & Capacity,Height,1740 mm
+Tata,Harrier EV,Adventure 65,Dimensions & Capacity,Boot Space,502 Litres
+Tata,Harrier EV,Adventure 65,Dimensions & Capacity,Seating Capacity,5
+Tata,Harrier EV,Adventure 65,Dimensions & Capacity,Wheel Base,2741 mm
+Tata,Harrier EV,Adventure 65,Dimensions & Capacity,Reported Ground Clearance (Unladen),205 mm
+Tata,Harrier EV,Adventure 65,Comfort & Convenience,Boot Opening,Electronic
+Tata,Harrier EV,Adventure 65,Comfort & Convenience,Power Steering,YES
+Tata,Harrier EV,Adventure 65,Comfort & Convenience,Air Conditioner,YES
+Tata,Harrier EV,Adventure 65,Comfort & Convenience,Heater,YES
+Tata,Harrier EV,Adventure 65,Comfort & Convenience,Adjustable Steering,Height & Reach
+Tata,Harrier EV,Adventure 65,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Tata,Harrier EV,Adventure 65,Comfort & Convenience,Ventilated Seats,NO
+Tata,Harrier EV,Adventure 65,Comfort & Convenience,Electric Adjustable Seats,NO
+Tata,Harrier EV,Adventure 65,Comfort & Convenience,Automatic Climate Control,YES
+Tata,Harrier EV,Adventure 65,Comfort & Convenience,Air Quality Control,YES
+Tata,Harrier EV,Adventure 65,Comfort & Convenience,Accessory Power Outlet,YES
+Tata,Harrier EV,Adventure 65,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Tata,Harrier EV,Adventure 65,Comfort & Convenience,Adjustable Headrest,YES
+Tata,Harrier EV,Adventure 65,Comfort & Convenience,Rear Seat Centre Arm Rest,NO
+Tata,Harrier EV,Adventure 65,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Tata,Harrier EV,Adventure 65,Comfort & Convenience,Rear AC Vents,YES
+Tata,Harrier EV,Adventure 65,Comfort & Convenience,Cruise Control,YES
+Tata,Harrier EV,Adventure 65,Comfort & Convenience,Parking Sensors,Rear
+Tata,Harrier EV,Adventure 65,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Tata,Harrier EV,Adventure 65,Comfort & Convenience,KeyLess Entry,YES
+Tata,Harrier EV,Adventure 65,Comfort & Convenience,Engine Start/Stop Button,YES
+Tata,Harrier EV,Adventure 65,Comfort & Convenience,Voice Commands,YES
+Tata,Harrier EV,Adventure 65,Comfort & Convenience,Paddle Shifters,YES
+Tata,Harrier EV,Adventure 65,Comfort & Convenience,Central Console Armrest,YES
+Tata,Harrier EV,Adventure 65,Comfort & Convenience,Drive Modes,3
+Tata,Harrier EV,Adventure 65,Comfort & Convenience,Follow Me Home Headlamps,YES
+Tata,Harrier EV,Adventure 65,Comfort & Convenience,Additional Features,Parcel tray
+Tata,Harrier EV,Adventure 65,Comfort & Convenience,Voice assisted sunroof,NO
+Tata,Harrier EV,Adventure 65,Comfort & Convenience,Vechicle to Vehicle Charging,YES
+Tata,Harrier EV,Adventure 65,Comfort & Convenience,Vehicle to Load Charging,YES
+Tata,Harrier EV,Adventure 65,Comfort & Convenience,Drive Mode Types,Eco | City | Sport
+Tata,Harrier EV,Adventure 65,Comfort & Convenience,Power Windows,Front & Rear
+Tata,Harrier EV,Adventure 65,Interior,Leather Wrapped Steering Wheel,YES
+Tata,Harrier EV,Adventure 65,Interior,Glove Box,YES
+Tata,Harrier EV,Adventure 65,Interior,Additional Features,Rear parcel tray
+Tata,Harrier EV,Adventure 65,Interior,Digital Cluster,YES
+Tata,Harrier EV,Adventure 65,Interior,Digital Cluster Size,10.25
+Tata,Harrier EV,Adventure 65,Interior,Upholstery,Leatherette
+Tata,Harrier EV,Adventure 65,Exterior,Rain Sensing Wiper,NO
+Tata,Harrier EV,Adventure 65,Exterior,Rear Window Wiper,YES
+Tata,Harrier EV,Adventure 65,Exterior,Rear Window Washer,YES
+Tata,Harrier EV,Adventure 65,Exterior,Rear Window Defogger,NO
+Tata,Harrier EV,Adventure 65,Exterior,Wheel Covers,NO
+Tata,Harrier EV,Adventure 65,Exterior,Alloy Wheels,YES
+Tata,Harrier EV,Adventure 65,Exterior,Rear Spoiler,YES
+Tata,Harrier EV,Adventure 65,Exterior,Side Stepper,YES
+Tata,Harrier EV,Adventure 65,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Tata,Harrier EV,Adventure 65,Exterior,Projector Headlamps,YES
+Tata,Harrier EV,Adventure 65,Exterior,Cornering Foglamps,NO
+Tata,Harrier EV,Adventure 65,Exterior,Roof Rails,YES
+Tata,Harrier EV,Adventure 65,Exterior,Automatic Headlamps,NO
+Tata,Harrier EV,Adventure 65,Exterior,Fog Lights,NO
+Tata,Harrier EV,Adventure 65,Exterior,Antenna,Shark Fin
+Tata,Harrier EV,Adventure 65,Exterior,Sunroof,NO
+Tata,Harrier EV,Adventure 65,Exterior,Puddle Lamps,YES
+Tata,Harrier EV,Adventure 65,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Tata,Harrier EV,Adventure 65,Exterior,Tyre Size,245/60 R18
+Tata,Harrier EV,Adventure 65,Exterior,Tyre Type,Radial Tubeless
+Tata,Harrier EV,Adventure 65,Exterior,LED DRLs,YES
+Tata,Harrier EV,Adventure 65,Exterior,LED Headlamps,YES
+Tata,Harrier EV,Adventure 65,Exterior,LED Taillights,YES
+Tata,Harrier EV,Adventure 65,Exterior,LED Fog Lamps,NO
+Tata,Harrier EV,Adventure 65,Safety,Anti-lock Braking System (ABS),YES
+Tata,Harrier EV,Adventure 65,Safety,Brake Assist,YES
+Tata,Harrier EV,Adventure 65,Safety,Central Locking,YES
+Tata,Harrier EV,Adventure 65,Safety,Child Safety Locks,YES
+Tata,Harrier EV,Adventure 65,Safety,Anti-Theft Alarm,YES
+Tata,Harrier EV,Adventure 65,Safety,No. of Airbags,6
+Tata,Harrier EV,Adventure 65,Safety,Driver Airbag,YES
+Tata,Harrier EV,Adventure 65,Safety,Passenger Airbag,YES
+Tata,Harrier EV,Adventure 65,Safety,Side Airbag,YES
+Tata,Harrier EV,Adventure 65,Safety,Side Airbag-Rear,NO
+Tata,Harrier EV,Adventure 65,Safety,Day & Night Rear View Mirror,YES
+Tata,Harrier EV,Adventure 65,Safety,Electronic Brakeforce Distribution (EBD),YES
+Tata,Harrier EV,Adventure 65,Safety,Traction Control,YES
+Tata,Harrier EV,Adventure 65,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Tata,Harrier EV,Adventure 65,Safety,Electronic Stability Control (ESC),YES
+Tata,Harrier EV,Adventure 65,Safety,Rear Camera,With Guidedlines
+Tata,Harrier EV,Adventure 65,Safety,ISOFIX Child Seat Mounts,YES
+Tata,Harrier EV,Adventure 65,Safety,Hill Descent Control,YES
+Tata,Harrier EV,Adventure 65,Safety,Hill Assist,YES
+Tata,Harrier EV,Adventure 65,Safety,360 View Camera,NO
+Tata,Harrier EV,Adventure 65,Safety,Bharat NCAP Safety Rating,5 Star
+Tata,Harrier EV,Adventure 65,Safety,Bharat NCAP Child Safety Rating,5 Star
+Tata,Harrier EV,Adventure 65,Entertainment & Communication,Radio,YES
+Tata,Harrier EV,Adventure 65,Entertainment & Communication,Wireless Phone Charging,NO
+Tata,Harrier EV,Adventure 65,Entertainment & Communication,Bluetooth Connectivity,YES
+Tata,Harrier EV,Adventure 65,Entertainment & Communication,Touchscreen,YES
+Tata,Harrier EV,Adventure 65,Entertainment & Communication,Touchscreen Size,10.25 inch
+Tata,Harrier EV,Adventure 65,Entertainment & Communication,Android Auto,YES
+Tata,Harrier EV,Adventure 65,Entertainment & Communication,Apple CarPlay,YES
+Tata,Harrier EV,Adventure 65,Entertainment & Communication,No. of Speakers,4
+Tata,Harrier EV,Adventure 65,Entertainment & Communication,Usb Ports,YES
+Tata,Harrier EV,Adventure 65,Entertainment & Communication,Tweeters,2
+Tata,Harrier EV,Adventure 65,Entertainment & Communication,Additional Features,Wireless Android Auto & Apple CarPlay
+Tata,Harrier EV,Adventure 65,Entertainment & Communication,Speakers,Front & Rear
+Tata,Harrier EV,Adventure 65,ADAS Feature,Forward Collision Warning,NO
+Tata,Harrier EV,Adventure 65,ADAS Feature,Automatic Emergency Braking,NO
+Tata,Harrier EV,Adventure 65,ADAS Feature,Traffic Sign Recognition,NO
+Tata,Harrier EV,Adventure 65,ADAS Feature,Lane Departure Warning,NO
+Tata,Harrier EV,Adventure 65,ADAS Feature,Lane Keep Assist,NO
+Tata,Harrier EV,Adventure 65,ADAS Feature,Adaptive Cruise Control,NO
+Tata,Harrier EV,Adventure 65,ADAS Feature,Adaptive High Beam Assist,NO
+Tata,Harrier EV,Adventure 65,ADAS Feature,Rear Cross Traffic Alert,NO
+Tata,Harrier EV,Adventure 65,ADAS Feature,Blind Spot Monitor,NO
+Tata,Harrier EV,Adventure 65,ADAS Feature,Autonomous Parking,NO
+Tata,Harrier EV,Adventure 65,Advance Internet Feature,Remote Vehicle Status Check,YES
+Tata,Harrier EV,Adventure 65,Advance Internet Feature,Navigation with Live Traffic,NO
+Tata,Harrier EV,Adventure 65,Advance Internet Feature,E-Call & I-Call,NO
+Tata,Harrier EV,Adventure 65,Advance Internet Feature,Over the Air (OTA) Updates,YES
+Tata,Harrier EV,Adventure 65,Advance Internet Feature,Google / Alexa Connectivity,YES
+Tata,Harrier EV,Adventure 65,Advance Internet Feature,SOS Button,NO
+Tata,Harrier EV,Adventure 65,Advance Internet Feature,Over Speeding Alert,NO
+Tata,Harrier EV,Adventure 65,Advance Internet Feature,Smartwatch App,YES
+Tata,Harrier EV,Adventure 65,Advance Internet Feature,Valet Mode,YES
+Tata,Harrier EV,Adventure 65,Advance Internet Feature,Remote AC On/Off,YES
+Tata,Harrier EV,Adventure 65,Advance Internet Feature,Remote Door Lock/Unlock,YES
+Tata,Harrier EV,Adventure 65,Advance Internet Feature,SOS / Emergency Assistance,NO
+Tata,Harrier EV,Adventure 65,Advance Internet Feature,Inbuilt APPs,iRA.ev

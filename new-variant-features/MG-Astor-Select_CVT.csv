@@ -1,0 +1,138 @@
+company,model,variant,category,feature_name,feature_details
+MG,Astor,Select CVT,Engine & Transmission,Engine Type,VTi-TECH
+MG,Astor,Select CVT,Engine & Transmission,Displacement,1498 cc
+MG,Astor,Select CVT,Engine & Transmission,Max Power,108.49bhp@6000rpm
+MG,Astor,Select CVT,Engine & Transmission,Max Torque,144Nm@4400rpm
+MG,Astor,Select CVT,Engine & Transmission,No. of Cylinders,4
+MG,Astor,Select CVT,Engine & Transmission,Valves Per Cylinder,4
+MG,Astor,Select CVT,Engine & Transmission,Turbo Charger,NO
+MG,Astor,Select CVT,Engine & Transmission,Transmission Type,Automatic
+MG,Astor,Select CVT,Engine & Transmission,Gearbox,CVT
+MG,Astor,Select CVT,Engine & Transmission,Drive Type,FWD
+MG,Astor,Select CVT,Fuel & Performance,Fuel Type,Petrol
+MG,Astor,Select CVT,Fuel & Performance,Petrol Mileage ARAI,14.82 kmpl
+MG,Astor,Select CVT,Fuel & Performance,Petrol Fuel Tank Capacity,48 Litres
+MG,Astor,Select CVT,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+MG,Astor,Select CVT,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+MG,Astor,Select CVT,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+MG,Astor,Select CVT,"Suspension, Steering & Brakes",Steering Type,Electric
+MG,Astor,Select CVT,"Suspension, Steering & Brakes",Steering Column,Tilt
+MG,Astor,Select CVT,"Suspension, Steering & Brakes",Front Brake Type,Disc
+MG,Astor,Select CVT,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+MG,Astor,Select CVT,Dimensions & Capacity,Length,4323 mm
+MG,Astor,Select CVT,Dimensions & Capacity,Width,1809 mm
+MG,Astor,Select CVT,Dimensions & Capacity,Height,1650 mm
+MG,Astor,Select CVT,Dimensions & Capacity,Seating Capacity,5
+MG,Astor,Select CVT,Dimensions & Capacity,Wheel Base,2585 mm
+MG,Astor,Select CVT,Dimensions & Capacity,Reported Boot Space,488 Litres
+MG,Astor,Select CVT,Comfort & Convenience,Power Steering,YES
+MG,Astor,Select CVT,Comfort & Convenience,Air Conditioner,YES
+MG,Astor,Select CVT,Comfort & Convenience,Heater,YES
+MG,Astor,Select CVT,Comfort & Convenience,Height Adjustable Driver Seat,YES
+MG,Astor,Select CVT,Comfort & Convenience,Ventilated Seats,NO
+MG,Astor,Select CVT,Comfort & Convenience,Electric Adjustable Seats,NO
+MG,Astor,Select CVT,Comfort & Convenience,Automatic Climate Control,YES
+MG,Astor,Select CVT,Comfort & Convenience,Air Quality Control,YES
+MG,Astor,Select CVT,Comfort & Convenience,Accessory Power Outlet,YES
+MG,Astor,Select CVT,Comfort & Convenience,Adjustable Headrest,YES
+MG,Astor,Select CVT,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+MG,Astor,Select CVT,Comfort & Convenience,Rear AC Vents,YES
+MG,Astor,Select CVT,Comfort & Convenience,Cruise Control,YES
+MG,Astor,Select CVT,Comfort & Convenience,Parking Sensors,Rear
+MG,Astor,Select CVT,Comfort & Convenience,Real-Time Vehicle Tracking,YES
+MG,Astor,Select CVT,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+MG,Astor,Select CVT,Comfort & Convenience,KeyLess Entry,YES
+MG,Astor,Select CVT,Comfort & Convenience,Engine Start/Stop Button,YES
+MG,Astor,Select CVT,Comfort & Convenience,USB Charger,Front & Rear
+MG,Astor,Select CVT,Comfort & Convenience,Follow Me Home Headlamps,YES
+MG,Astor,Select CVT,Comfort & Convenience,Additional Features,Digital Key With Key Sharing Function
+MG,Astor,Select CVT,Comfort & Convenience,Voice assisted sunroof,NO
+MG,Astor,Select CVT,Comfort & Convenience,Power Windows,Front & Rear
+MG,Astor,Select CVT,Interior,Leather Wrapped Steering Wheel,YES
+MG,Astor,Select CVT,Interior,Glove Box,YES
+MG,Astor,Select CVT,Interior,Additional Features,Rear Parcel Shelf
+MG,Astor,Select CVT,Interior,Digital Cluster,YES
+MG,Astor,Select CVT,Interior,Digital Cluster Size,7 inch
+MG,Astor,Select CVT,Interior,Upholstery,Leatherette
+MG,Astor,Select CVT,Exterior,Adjustable Headlamps,YES
+MG,Astor,Select CVT,Exterior,Rain Sensing Wiper,NO
+MG,Astor,Select CVT,Exterior,Rear Window Wiper,YES
+MG,Astor,Select CVT,Exterior,Rear Window Washer,YES
+MG,Astor,Select CVT,Exterior,Rear Window Defogger,YES
+MG,Astor,Select CVT,Exterior,Wheel Covers,NO
+MG,Astor,Select CVT,Exterior,Alloy Wheels,YES
+MG,Astor,Select CVT,Exterior,Rear Spoiler,YES
+MG,Astor,Select CVT,Exterior,Outside Rear View Mirror Turn Indicators,YES
+MG,Astor,Select CVT,Exterior,Cornering Foglamps,YES
+MG,Astor,Select CVT,Exterior,Roof Rails,YES
+MG,Astor,Select CVT,Exterior,Fog Lights,Front & Rear
+MG,Astor,Select CVT,Exterior,Antenna,Shark Fin
+MG,Astor,Select CVT,Exterior,Sunroof,Panoramic
+MG,Astor,Select CVT,Exterior,Heated Outside Rear View Mirror,YES
+MG,Astor,Select CVT,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+MG,Astor,Select CVT,Exterior,Tyre Size,215/55 R17
+MG,Astor,Select CVT,Exterior,Tyre Type,Radial Tubeless
+MG,Astor,Select CVT,Exterior,Wheel Size,17 Inch
+MG,Astor,Select CVT,Exterior,LED DRLs,YES
+MG,Astor,Select CVT,Exterior,LED Headlamps,YES
+MG,Astor,Select CVT,Exterior,LED Taillights,YES
+MG,Astor,Select CVT,Safety,Anti-lock Braking System (ABS),YES
+MG,Astor,Select CVT,Safety,Brake Assist,YES
+MG,Astor,Select CVT,Safety,Central Locking,YES
+MG,Astor,Select CVT,Safety,Child Safety Locks,YES
+MG,Astor,Select CVT,Safety,Anti-Theft Alarm,YES
+MG,Astor,Select CVT,Safety,No. of Airbags,6
+MG,Astor,Select CVT,Safety,Day & Night Rear View Mirror,YES
+MG,Astor,Select CVT,Safety,Electronic Brakeforce Distribution (EBD),YES
+MG,Astor,Select CVT,Safety,Traction Control,YES
+MG,Astor,Select CVT,Safety,Tyre Pressure Monitoring System (TPMS),YES
+MG,Astor,Select CVT,Safety,Engine Immobilizer,YES
+MG,Astor,Select CVT,Safety,Electronic Stability Control (ESC),YES
+MG,Astor,Select CVT,Safety,Rear Camera,With Guidedlines
+MG,Astor,Select CVT,Safety,Anti-Theft Device,YES
+MG,Astor,Select CVT,Safety,Anti-Pinch Power Windows,Driver's Window
+MG,Astor,Select CVT,Safety,ISOFIX Child Seat Mounts,YES
+MG,Astor,Select CVT,Safety,Hill Descent Control,YES
+MG,Astor,Select CVT,Safety,Hill Assist,YES
+MG,Astor,Select CVT,Safety,360 View Camera,NO
+MG,Astor,Select CVT,Safety,Safety Airbags,"Driver & Passenger, Front Side, Curtain"
+MG,Astor,Select CVT,Entertainment & Communication,Radio,YES
+MG,Astor,Select CVT,Entertainment & Communication,Wireless Phone Charging,YES
+MG,Astor,Select CVT,Entertainment & Communication,Bluetooth Connectivity,YES
+MG,Astor,Select CVT,Entertainment & Communication,Wi-Fi Connectivity,YES
+MG,Astor,Select CVT,Entertainment & Communication,Touchscreen,YES
+MG,Astor,Select CVT,Entertainment & Communication,Touchscreen Size,10.1 inch
+MG,Astor,Select CVT,Entertainment & Communication,Android Auto,YES
+MG,Astor,Select CVT,Entertainment & Communication,Apple CarPlay,YES
+MG,Astor,Select CVT,Entertainment & Communication,No. of Speakers,6
+MG,Astor,Select CVT,Entertainment & Communication,Usb Ports,YES
+MG,Astor,Select CVT,Entertainment & Communication,Inbuilt Apps,Jio Saavn
+MG,Astor,Select CVT,Entertainment & Communication,Tweeters,2
+MG,Astor,Select CVT,Entertainment & Communication,Additional Features,"i-SMART 2.0 with Advanced UI ,Wireless Android Auto & Apple Carplay"
+MG,Astor,Select CVT,Entertainment & Communication,Speakers,Front & Rear
+MG,Astor,Select CVT,ADAS Feature,Forward Collision Warning,NO
+MG,Astor,Select CVT,ADAS Feature,Automatic Emergency Braking,NO
+MG,Astor,Select CVT,ADAS Feature,Speed Assist System,YES
+MG,Astor,Select CVT,ADAS Feature,Blind Spot Collision Avoidance Assist,NO
+MG,Astor,Select CVT,ADAS Feature,Lane Departure Warning,NO
+MG,Astor,Select CVT,ADAS Feature,Lane Keep Assist,NO
+MG,Astor,Select CVT,ADAS Feature,Lane Departure Prevention Assist,NO
+MG,Astor,Select CVT,ADAS Feature,Adaptive Cruise Control,NO
+MG,Astor,Select CVT,ADAS Feature,Rear Cross Traffic Alert,NO
+MG,Astor,Select CVT,ADAS Feature,Blind Spot Monitor,NO
+MG,Astor,Select CVT,Advance Internet Feature,Live Location,YES
+MG,Astor,Select CVT,Advance Internet Feature,Remote Immobiliser,YES
+MG,Astor,Select CVT,Advance Internet Feature,Engine Start Alarm,YES
+MG,Astor,Select CVT,Advance Internet Feature,Remote Vehicle Status Check,YES
+MG,Astor,Select CVT,Advance Internet Feature,Digital Car Key,YES
+MG,Astor,Select CVT,Advance Internet Feature,Inbuilt Assistant,NO
+MG,Astor,Select CVT,Advance Internet Feature,Hinglish Voice Commands,NO
+MG,Astor,Select CVT,Advance Internet Feature,Navigation with Live Traffic,YES
+MG,Astor,Select CVT,Advance Internet Feature,E-Call & I-Call,YES
+MG,Astor,Select CVT,Advance Internet Feature,Over the Air (OTA) Updates,YES
+MG,Astor,Select CVT,Advance Internet Feature,Over Speeding Alert,YES
+MG,Astor,Select CVT,Advance Internet Feature,In Car Remote Control App,YES
+MG,Astor,Select CVT,Advance Internet Feature,Smartwatch App,YES
+MG,Astor,Select CVT,Advance Internet Feature,Remote AC On/Off,YES
+MG,Astor,Select CVT,Advance Internet Feature,Remote Door Lock/Unlock,YES
+MG,Astor,Select CVT,Advance Internet Feature,Geo-fence Alert,YES

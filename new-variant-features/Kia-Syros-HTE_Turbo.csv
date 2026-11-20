@@ -1,0 +1,117 @@
+company,model,variant,category,feature_name,feature_details
+Kia,Syros,HTE Turbo,Engine & Transmission,Engine Type,Smartstream G1.0 T-GDi
+Kia,Syros,HTE Turbo,Engine & Transmission,Displacement,998 cc
+Kia,Syros,HTE Turbo,Engine & Transmission,Max Power,118bhp@6000rpm
+Kia,Syros,HTE Turbo,Engine & Transmission,Max Torque,172Nm@1500-4000rpm
+Kia,Syros,HTE Turbo,Engine & Transmission,No. of Cylinders,3
+Kia,Syros,HTE Turbo,Engine & Transmission,Valves Per Cylinder,4
+Kia,Syros,HTE Turbo,Engine & Transmission,Turbo Charger,YES
+Kia,Syros,HTE Turbo,Engine & Transmission,Transmission Type,Manual
+Kia,Syros,HTE Turbo,Engine & Transmission,Gearbox,6 Speed
+Kia,Syros,HTE Turbo,Engine & Transmission,Drive Type,FWD
+Kia,Syros,HTE Turbo,Fuel & Performance,Fuel Type,Petrol
+Kia,Syros,HTE Turbo,Fuel & Performance,Petrol Fuel Tank Capacity,45 Litres
+Kia,Syros,HTE Turbo,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Kia,Syros,HTE Turbo,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Kia,Syros,HTE Turbo,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Kia,Syros,HTE Turbo,"Suspension, Steering & Brakes",Steering Type,Electric
+Kia,Syros,HTE Turbo,"Suspension, Steering & Brakes",Steering Column,Tilt
+Kia,Syros,HTE Turbo,"Suspension, Steering & Brakes",Steering Gear Type,Rack & Pinion
+Kia,Syros,HTE Turbo,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Kia,Syros,HTE Turbo,"Suspension, Steering & Brakes",Rear Brake Type,Drum
+Kia,Syros,HTE Turbo,Dimensions & Capacity,Length,3995 mm
+Kia,Syros,HTE Turbo,Dimensions & Capacity,Width,1805 mm
+Kia,Syros,HTE Turbo,Dimensions & Capacity,Height,1680 mm
+Kia,Syros,HTE Turbo,Dimensions & Capacity,Boot Space,465 Litres
+Kia,Syros,HTE Turbo,Dimensions & Capacity,Seating Capacity,5
+Kia,Syros,HTE Turbo,Dimensions & Capacity,Wheel Base,2550 mm
+Kia,Syros,HTE Turbo,Comfort & Convenience,Power Steering,YES
+Kia,Syros,HTE Turbo,Comfort & Convenience,Air Conditioner,YES
+Kia,Syros,HTE Turbo,Comfort & Convenience,Heater,YES
+Kia,Syros,HTE Turbo,Comfort & Convenience,Adjustable Steering,Height only
+Kia,Syros,HTE Turbo,Comfort & Convenience,Height Adjustable Driver Seat,NO
+Kia,Syros,HTE Turbo,Comfort & Convenience,Ventilated Seats,NO
+Kia,Syros,HTE Turbo,Comfort & Convenience,Electric Adjustable Seats,NO
+Kia,Syros,HTE Turbo,Comfort & Convenience,Automatic Climate Control,NO
+Kia,Syros,HTE Turbo,Comfort & Convenience,Accessory Power Outlet,YES
+Kia,Syros,HTE Turbo,Comfort & Convenience,Rear Seat Headrest,Integrated
+Kia,Syros,HTE Turbo,Comfort & Convenience,Adjustable Headrest,YES
+Kia,Syros,HTE Turbo,Comfort & Convenience,Rear Seat Centre Arm Rest,NO
+Kia,Syros,HTE Turbo,Comfort & Convenience,Rear AC Vents,YES
+Kia,Syros,HTE Turbo,Comfort & Convenience,Cruise Control,NO
+Kia,Syros,HTE Turbo,Comfort & Convenience,Parking Sensors,Rear
+Kia,Syros,HTE Turbo,Comfort & Convenience,KeyLess Entry,YES
+Kia,Syros,HTE Turbo,Comfort & Convenience,Engine Start/Stop Button,NO
+Kia,Syros,HTE Turbo,Comfort & Convenience,Paddle Shifters,NO
+Kia,Syros,HTE Turbo,Comfort & Convenience,Central Console Armrest,YES
+Kia,Syros,HTE Turbo,Comfort & Convenience,Drive Modes,NO
+Kia,Syros,HTE Turbo,Comfort & Convenience,Additional Features,Sunglass Holder
+Kia,Syros,HTE Turbo,Comfort & Convenience,Drive Mode Types,NO
+Kia,Syros,HTE Turbo,Comfort & Convenience,Power Windows,Front & Rear
+Kia,Syros,HTE Turbo,Comfort & Convenience,Cup Holders,Front Only
+Kia,Syros,HTE Turbo,Interior,Glove Box,YES
+Kia,Syros,HTE Turbo,Interior,Digital Cluster,YES
+Kia,Syros,HTE Turbo,Interior,Digital Cluster Size,12
+Kia,Syros,HTE Turbo,Interior,Upholstery,Semi-Leatherette
+Kia,Syros,HTE Turbo,Exterior,Rear Window Wiper,NO
+Kia,Syros,HTE Turbo,Exterior,Rear Window Washer,NO
+Kia,Syros,HTE Turbo,Exterior,Rear Window Defogger,NO
+Kia,Syros,HTE Turbo,Exterior,Wheel Covers,YES
+Kia,Syros,HTE Turbo,Exterior,Alloy Wheels,NO
+Kia,Syros,HTE Turbo,Exterior,Rear Spoiler,YES
+Kia,Syros,HTE Turbo,Exterior,Outside Rear View Mirror Turn Indicators,NO
+Kia,Syros,HTE Turbo,Exterior,Roof Rails,NO
+Kia,Syros,HTE Turbo,Exterior,Fog Lights,Front
+Kia,Syros,HTE Turbo,Exterior,Antenna,Shark Fin
+Kia,Syros,HTE Turbo,Exterior,Sunroof,NO
+Kia,Syros,HTE Turbo,Exterior,Outside Rear View Mirror (ORVM),Powered
+Kia,Syros,HTE Turbo,Exterior,Tyre Size,195/65 R15
+Kia,Syros,HTE Turbo,Exterior,Tyre Type,Radial Tubeless
+Kia,Syros,HTE Turbo,Exterior,Wheel Size,15 Inch
+Kia,Syros,HTE Turbo,Exterior,LED DRLs,NO
+Kia,Syros,HTE Turbo,Exterior,LED Headlamps,NO
+Kia,Syros,HTE Turbo,Exterior,LED Taillights,NO
+Kia,Syros,HTE Turbo,Exterior,LED Fog Lamps,YES
+Kia,Syros,HTE Turbo,Safety,Anti-lock Braking System (ABS),YES
+Kia,Syros,HTE Turbo,Safety,Brake Assist,YES
+Kia,Syros,HTE Turbo,Safety,Central Locking,YES
+Kia,Syros,HTE Turbo,Safety,Child Safety Locks,YES
+Kia,Syros,HTE Turbo,Safety,Anti-Theft Alarm,YES
+Kia,Syros,HTE Turbo,Safety,No. of Airbags,6
+Kia,Syros,HTE Turbo,Safety,Driver Airbag,YES
+Kia,Syros,HTE Turbo,Safety,Passenger Airbag,YES
+Kia,Syros,HTE Turbo,Safety,Side Airbag,YES
+Kia,Syros,HTE Turbo,Safety,Side Airbag-Rear,NO
+Kia,Syros,HTE Turbo,Safety,Day & Night Rear View Mirror,YES
+Kia,Syros,HTE Turbo,Safety,Electronic Brakeforce Distribution (EBD),YES
+Kia,Syros,HTE Turbo,Safety,Traction Control,NO
+Kia,Syros,HTE Turbo,Safety,Tyre Pressure Monitoring System (TPMS),NO
+Kia,Syros,HTE Turbo,Safety,Electronic Stability Control (ESC),YES
+Kia,Syros,HTE Turbo,Safety,Rear Camera,NO
+Kia,Syros,HTE Turbo,Safety,ISOFIX Child Seat Mounts,YES
+Kia,Syros,HTE Turbo,Safety,Hill Assist,YES
+Kia,Syros,HTE Turbo,Safety,Bharat NCAP Safety Rating,5 Star
+Kia,Syros,HTE Turbo,Safety,Bharat NCAP Child Safety Rating,5 Star
+Kia,Syros,HTE Turbo,Entertainment & Communication,Radio,YES
+Kia,Syros,HTE Turbo,Entertainment & Communication,Wireless Phone Charging,NO
+Kia,Syros,HTE Turbo,Entertainment & Communication,Bluetooth Connectivity,YES
+Kia,Syros,HTE Turbo,Entertainment & Communication,Touchscreen,YES
+Kia,Syros,HTE Turbo,Entertainment & Communication,Touchscreen Size,10.25 inch
+Kia,Syros,HTE Turbo,Entertainment & Communication,Android Auto,YES
+Kia,Syros,HTE Turbo,Entertainment & Communication,Apple CarPlay,YES
+Kia,Syros,HTE Turbo,Entertainment & Communication,No. of Speakers,4
+Kia,Syros,HTE Turbo,Entertainment & Communication,Usb Ports,YES
+Kia,Syros,HTE Turbo,Entertainment & Communication,Additional Features,Wireless Android Auto & Apple CarPlay
+Kia,Syros,HTE Turbo,Entertainment & Communication,Speakers,Front & Rear
+Kia,Syros,HTE Turbo,Advance Internet Feature,Live Location,NO
+Kia,Syros,HTE Turbo,Advance Internet Feature,Remote Vehicle Status Check,NO
+Kia,Syros,HTE Turbo,Advance Internet Feature,Inbuilt Assistant,NO
+Kia,Syros,HTE Turbo,Advance Internet Feature,Hinglish Voice Commands,NO
+Kia,Syros,HTE Turbo,Advance Internet Feature,Navigation with Live Traffic,NO
+Kia,Syros,HTE Turbo,Advance Internet Feature,Over the Air (OTA) Updates,NO
+Kia,Syros,HTE Turbo,Advance Internet Feature,Over Speeding Alert,NO
+Kia,Syros,HTE Turbo,Advance Internet Feature,In Car Remote Control App,NO
+Kia,Syros,HTE Turbo,Advance Internet Feature,Valet Mode,NO
+Kia,Syros,HTE Turbo,Advance Internet Feature,Remote AC On/Off,NO
+Kia,Syros,HTE Turbo,Advance Internet Feature,Remote Door Lock/Unlock,NO
+Kia,Syros,HTE Turbo,Advance Internet Feature,Inbuilt APPs,NO

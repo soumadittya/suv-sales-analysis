@@ -1,0 +1,117 @@
+company,model,variant,category,feature_name,feature_details
+Mahindra,Scorpio N,Z8T Diesel AT,Engine & Transmission,Engine Type,mHawk (CRDi)
+Mahindra,Scorpio N,Z8T Diesel AT,Engine & Transmission,Displacement,2198 cc
+Mahindra,Scorpio N,Z8T Diesel AT,Engine & Transmission,Max Power,172.45bhp@3500rpm
+Mahindra,Scorpio N,Z8T Diesel AT,Engine & Transmission,Max Torque,400Nm@1750-2750rpm
+Mahindra,Scorpio N,Z8T Diesel AT,Engine & Transmission,No. of Cylinders,4
+Mahindra,Scorpio N,Z8T Diesel AT,Engine & Transmission,Valves Per Cylinder,4
+Mahindra,Scorpio N,Z8T Diesel AT,Engine & Transmission,Turbo Charger,YES
+Mahindra,Scorpio N,Z8T Diesel AT,Engine & Transmission,Transmission Type,Automatic
+Mahindra,Scorpio N,Z8T Diesel AT,Engine & Transmission,Gearbox,6-Speed
+Mahindra,Scorpio N,Z8T Diesel AT,Engine & Transmission,Drive Type,RWD
+Mahindra,Scorpio N,Z8T Diesel AT,Fuel & Performance,Fuel Type,Diesel
+Mahindra,Scorpio N,Z8T Diesel AT,Fuel & Performance,Diesel Fuel Tank Capacity,57 Litres
+Mahindra,Scorpio N,Z8T Diesel AT,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Mahindra,Scorpio N,Z8T Diesel AT,"Suspension, Steering & Brakes",Front Suspension,Double wishbone suspension
+Mahindra,Scorpio N,Z8T Diesel AT,"Suspension, Steering & Brakes",Rear Suspension,"Multi-link, Solid Axle"
+Mahindra,Scorpio N,Z8T Diesel AT,"Suspension, Steering & Brakes",Steering Type,Electric
+Mahindra,Scorpio N,Z8T Diesel AT,"Suspension, Steering & Brakes",Steering Column,Tilt
+Mahindra,Scorpio N,Z8T Diesel AT,"Suspension, Steering & Brakes",Front Brake Type,Ventilated Disc
+Mahindra,Scorpio N,Z8T Diesel AT,"Suspension, Steering & Brakes",Rear Brake Type,Ventilated Disc
+Mahindra,Scorpio N,Z8T Diesel AT,"Suspension, Steering & Brakes",Boot Space Rear Seat Folding,786 Litres
+Mahindra,Scorpio N,Z8T Diesel AT,Dimensions & Capacity,Length,4662 mm
+Mahindra,Scorpio N,Z8T Diesel AT,Dimensions & Capacity,Width,1917 mm
+Mahindra,Scorpio N,Z8T Diesel AT,Dimensions & Capacity,Height,1857 mm
+Mahindra,Scorpio N,Z8T Diesel AT,Dimensions & Capacity,Seating Capacity,7
+Mahindra,Scorpio N,Z8T Diesel AT,Dimensions & Capacity,Wheel Base,2750 mm
+Mahindra,Scorpio N,Z8T Diesel AT,Comfort & Convenience,Boot Opening,Manual
+Mahindra,Scorpio N,Z8T Diesel AT,Comfort & Convenience,Power Steering,YES
+Mahindra,Scorpio N,Z8T Diesel AT,Comfort & Convenience,Air Conditioner,YES
+Mahindra,Scorpio N,Z8T Diesel AT,Comfort & Convenience,Heater,YES
+Mahindra,Scorpio N,Z8T Diesel AT,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Mahindra,Scorpio N,Z8T Diesel AT,Comfort & Convenience,Ventilated Seats,YES
+Mahindra,Scorpio N,Z8T Diesel AT,Comfort & Convenience,Electric Adjustable Seats,Driver Seat Only
+Mahindra,Scorpio N,Z8T Diesel AT,Comfort & Convenience,Automatic Climate Control,YES
+Mahindra,Scorpio N,Z8T Diesel AT,Comfort & Convenience,Accessory Power Outlet,YES
+Mahindra,Scorpio N,Z8T Diesel AT,Comfort & Convenience,Adjustable Headrest,YES
+Mahindra,Scorpio N,Z8T Diesel AT,Comfort & Convenience,Rear AC Vents,YES
+Mahindra,Scorpio N,Z8T Diesel AT,Comfort & Convenience,Lumbar Support,YES
+Mahindra,Scorpio N,Z8T Diesel AT,Comfort & Convenience,Cruise Control,YES
+Mahindra,Scorpio N,Z8T Diesel AT,Comfort & Convenience,Parking Sensors,Front & Rear
+Mahindra,Scorpio N,Z8T Diesel AT,Comfort & Convenience,KeyLess Entry,YES
+Mahindra,Scorpio N,Z8T Diesel AT,Comfort & Convenience,Engine Start/Stop Button,YES
+Mahindra,Scorpio N,Z8T Diesel AT,Comfort & Convenience,USB Charger,Front & Rear
+Mahindra,Scorpio N,Z8T Diesel AT,Comfort & Convenience,Gear Shift Indicator,NO
+Mahindra,Scorpio N,Z8T Diesel AT,Comfort & Convenience,Idle Start-Stop System,YES
+Mahindra,Scorpio N,Z8T Diesel AT,Comfort & Convenience,Power Windows,Front & Rear
+Mahindra,Scorpio N,Z8T Diesel AT,Interior,Leather Wrapped Steering Wheel,YES
+Mahindra,Scorpio N,Z8T Diesel AT,Interior,Leather wrap gear-shift selector,YES
+Mahindra,Scorpio N,Z8T Diesel AT,Interior,Glove Box,YES
+Mahindra,Scorpio N,Z8T Diesel AT,Interior,Digital Cluster,YES
+Mahindra,Scorpio N,Z8T Diesel AT,Interior,Digital Cluster Size,10.25
+Mahindra,Scorpio N,Z8T Diesel AT,Interior,Upholstery,Leatherette
+Mahindra,Scorpio N,Z8T Diesel AT,Exterior,Adjustable Headlamps,YES
+Mahindra,Scorpio N,Z8T Diesel AT,Exterior,Rear Window Wiper,YES
+Mahindra,Scorpio N,Z8T Diesel AT,Exterior,Rear Window Washer,YES
+Mahindra,Scorpio N,Z8T Diesel AT,Exterior,Rear Window Defogger,YES
+Mahindra,Scorpio N,Z8T Diesel AT,Exterior,Rear Spoiler,YES
+Mahindra,Scorpio N,Z8T Diesel AT,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Mahindra,Scorpio N,Z8T Diesel AT,Exterior,Projector Headlamps,YES
+Mahindra,Scorpio N,Z8T Diesel AT,Exterior,Halogen Headlamps,NO
+Mahindra,Scorpio N,Z8T Diesel AT,Exterior,Roof Rails,YES
+Mahindra,Scorpio N,Z8T Diesel AT,Exterior,Fog Lights,Front
+Mahindra,Scorpio N,Z8T Diesel AT,Exterior,Antenna,Shark Fin
+Mahindra,Scorpio N,Z8T Diesel AT,Exterior,Sunroof,Single Pane
+Mahindra,Scorpio N,Z8T Diesel AT,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Mahindra,Scorpio N,Z8T Diesel AT,Exterior,Wheels Type,Alloy
+Mahindra,Scorpio N,Z8T Diesel AT,Exterior,Exterior Camera,540° Camera
+Mahindra,Scorpio N,Z8T Diesel AT,Exterior,Tyre Size,255/60 R18
+Mahindra,Scorpio N,Z8T Diesel AT,Exterior,Tyre Type,Tubeless
+Mahindra,Scorpio N,Z8T Diesel AT,Exterior,Wheel Size,18 Inch
+Mahindra,Scorpio N,Z8T Diesel AT,Exterior,LED DRLs,YES
+Mahindra,Scorpio N,Z8T Diesel AT,Exterior,LED Headlamps,YES
+Mahindra,Scorpio N,Z8T Diesel AT,Exterior,LED Taillights,YES
+Mahindra,Scorpio N,Z8T Diesel AT,Exterior,LED Fog Lamps,YES
+Mahindra,Scorpio N,Z8T Diesel AT,Safety,Anti-lock Braking System (ABS),YES
+Mahindra,Scorpio N,Z8T Diesel AT,Safety,Central Locking,YES
+Mahindra,Scorpio N,Z8T Diesel AT,Safety,Child Safety Locks,YES
+Mahindra,Scorpio N,Z8T Diesel AT,Safety,No. of Airbags,6
+Mahindra,Scorpio N,Z8T Diesel AT,Safety,Driver Airbag,YES
+Mahindra,Scorpio N,Z8T Diesel AT,Safety,Passenger Airbag,YES
+Mahindra,Scorpio N,Z8T Diesel AT,Safety,Side Airbag,YES
+Mahindra,Scorpio N,Z8T Diesel AT,Safety,Side Airbag-Rear,NO
+Mahindra,Scorpio N,Z8T Diesel AT,Safety,Electronic Brakeforce Distribution (EBD),YES
+Mahindra,Scorpio N,Z8T Diesel AT,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Mahindra,Scorpio N,Z8T Diesel AT,Safety,Engine Immobilizer,YES
+Mahindra,Scorpio N,Z8T Diesel AT,Safety,Electronic Stability Control (ESC),YES
+Mahindra,Scorpio N,Z8T Diesel AT,Safety,Anti-Pinch Power Windows,Driver and Passenger
+Mahindra,Scorpio N,Z8T Diesel AT,Safety,ISOFIX Child Seat Mounts,YES
+Mahindra,Scorpio N,Z8T Diesel AT,Safety,Hill Descent Control,YES
+Mahindra,Scorpio N,Z8T Diesel AT,Safety,Hill Assist,YES
+Mahindra,Scorpio N,Z8T Diesel AT,Entertainment & Communication,Radio,YES
+Mahindra,Scorpio N,Z8T Diesel AT,Entertainment & Communication,Wireless Phone Charging,YES
+Mahindra,Scorpio N,Z8T Diesel AT,Entertainment & Communication,Bluetooth Connectivity,YES
+Mahindra,Scorpio N,Z8T Diesel AT,Entertainment & Communication,Touchscreen,YES
+Mahindra,Scorpio N,Z8T Diesel AT,Entertainment & Communication,Touchscreen Size,12.30 inch
+Mahindra,Scorpio N,Z8T Diesel AT,Entertainment & Communication,Android Auto,Wireless
+Mahindra,Scorpio N,Z8T Diesel AT,Entertainment & Communication,Apple CarPlay,Wireless
+Mahindra,Scorpio N,Z8T Diesel AT,Entertainment & Communication,No. of Speakers,12
+Mahindra,Scorpio N,Z8T Diesel AT,Entertainment & Communication,Usb Ports,YES
+Mahindra,Scorpio N,Z8T Diesel AT,Entertainment & Communication,Inbuilt Apps,Adrenox Connect
+Mahindra,Scorpio N,Z8T Diesel AT,Entertainment & Communication,Speakers,Front & Rear
+Mahindra,Scorpio N,Z8T Diesel AT,ADAS Feature,Forward Collision Warning,NO
+Mahindra,Scorpio N,Z8T Diesel AT,ADAS Feature,Automatic Emergency Braking,NO
+Mahindra,Scorpio N,Z8T Diesel AT,ADAS Feature,Traffic Sign Recognition,NO
+Mahindra,Scorpio N,Z8T Diesel AT,ADAS Feature,Lane Departure Warning,NO
+Mahindra,Scorpio N,Z8T Diesel AT,ADAS Feature,Lane Keep Assist,NO
+Mahindra,Scorpio N,Z8T Diesel AT,ADAS Feature,Driver Attention Warning,YES
+Mahindra,Scorpio N,Z8T Diesel AT,ADAS Feature,Adaptive Cruise Control,NO
+Mahindra,Scorpio N,Z8T Diesel AT,ADAS Feature,Adaptive High Beam Assist,NO
+Mahindra,Scorpio N,Z8T Diesel AT,Advance Internet Feature,Live Location,YES
+Mahindra,Scorpio N,Z8T Diesel AT,Advance Internet Feature,Remote Vehicle Status Check,YES
+Mahindra,Scorpio N,Z8T Diesel AT,Advance Internet Feature,Google / Alexa Connectivity,YES
+Mahindra,Scorpio N,Z8T Diesel AT,Advance Internet Feature,In Car Remote Control App,YES
+Mahindra,Scorpio N,Z8T Diesel AT,Advance Internet Feature,Remote AC On/Off,YES
+Mahindra,Scorpio N,Z8T Diesel AT,Advance Internet Feature,Remote Door Lock/Unlock,YES
+Mahindra,Scorpio N,Z8T Diesel AT,Advance Internet Feature,Remote Vehicle Ignition Start/Stop,YES
+Mahindra,Scorpio N,Z8T Diesel AT,Advance Internet Feature,SOS / Emergency Assistance,YES

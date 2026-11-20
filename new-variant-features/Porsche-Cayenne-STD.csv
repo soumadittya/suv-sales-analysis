@@ -1,0 +1,99 @@
+company,model,variant,category,feature_name,feature_details
+Porsche,Cayenne,STD,Engine & Transmission,Engine Type,3.0-litre turbocharged V6 engine
+Porsche,Cayenne,STD,Engine & Transmission,Displacement,2894 cc
+Porsche,Cayenne,STD,Engine & Transmission,Max Power,348.66bhp
+Porsche,Cayenne,STD,Engine & Transmission,Max Torque,500Nm
+Porsche,Cayenne,STD,Engine & Transmission,No. of Cylinders,6
+Porsche,Cayenne,STD,Engine & Transmission,Valves Per Cylinder,4
+Porsche,Cayenne,STD,Engine & Transmission,Transmission Type,Automatic
+Porsche,Cayenne,STD,Engine & Transmission,Gearbox,8-Speed
+Porsche,Cayenne,STD,Engine & Transmission,Drive Type,AWD
+Porsche,Cayenne,STD,Fuel & Performance,Fuel Type,Petrol
+Porsche,Cayenne,STD,Fuel & Performance,Petrol Mileage ARAI,10.8 kmpl
+Porsche,Cayenne,STD,Fuel & Performance,Petrol Fuel Tank Capacity,75 Litres
+Porsche,Cayenne,STD,Fuel & Performance,Petrol Highway Mileage,10.7 kmpl
+Porsche,Cayenne,STD,Fuel & Performance,Secondary Fuel Type,Electric
+Porsche,Cayenne,STD,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Porsche,Cayenne,STD,Fuel & Performance,Top Speed,248 kmph
+Porsche,Cayenne,STD,Fuel & Performance,Acceleration,6.0 s
+Porsche,Cayenne,STD,Fuel & Performance,0-100kmph,6.0 s
+Porsche,Cayenne,STD,"Suspension, Steering & Brakes",Front Suspension,Air suspension
+Porsche,Cayenne,STD,"Suspension, Steering & Brakes",Rear Suspension,Air suspension
+Porsche,Cayenne,STD,"Suspension, Steering & Brakes",Steering Type,Electric
+Porsche,Cayenne,STD,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Porsche,Cayenne,STD,"Suspension, Steering & Brakes",Steering Gear Type,Rack & Pinion
+Porsche,Cayenne,STD,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Porsche,Cayenne,STD,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Porsche,Cayenne,STD,Dimensions & Capacity,Length,4930 mm
+Porsche,Cayenne,STD,Dimensions & Capacity,Width,1983 mm
+Porsche,Cayenne,STD,Dimensions & Capacity,Height,1698 mm
+Porsche,Cayenne,STD,Dimensions & Capacity,Boot Space,770 Litres
+Porsche,Cayenne,STD,Dimensions & Capacity,Seating Capacity,4
+Porsche,Cayenne,STD,Dimensions & Capacity,Wheel Base,2500 mm
+Porsche,Cayenne,STD,Comfort & Convenience,Power Steering,YES
+Porsche,Cayenne,STD,Comfort & Convenience,Power Boot,YES
+Porsche,Cayenne,STD,Comfort & Convenience,Air Conditioner,YES
+Porsche,Cayenne,STD,Comfort & Convenience,Heater,YES
+Porsche,Cayenne,STD,Comfort & Convenience,Adjustable Steering,YES
+Porsche,Cayenne,STD,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Porsche,Cayenne,STD,Comfort & Convenience,Electric Adjustable Seats,Front & Rear
+Porsche,Cayenne,STD,Comfort & Convenience,Automatic Climate Control,YES
+Porsche,Cayenne,STD,Comfort & Convenience,Air Quality Control,YES
+Porsche,Cayenne,STD,Comfort & Convenience,Low Fuel Warning Light,YES
+Porsche,Cayenne,STD,Comfort & Convenience,Accessory Power Outlet,YES
+Porsche,Cayenne,STD,Comfort & Convenience,Rear Seat Headrest,YES
+Porsche,Cayenne,STD,Comfort & Convenience,Adjustable Headrest,YES
+Porsche,Cayenne,STD,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Porsche,Cayenne,STD,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Porsche,Cayenne,STD,Comfort & Convenience,Cruise Control,YES
+Porsche,Cayenne,STD,Comfort & Convenience,Parking Sensors,Front & Rear
+Porsche,Cayenne,STD,Comfort & Convenience,Navigation System,YES
+Porsche,Cayenne,STD,Comfort & Convenience,KeyLess Entry,YES
+Porsche,Cayenne,STD,Comfort & Convenience,Engine Start/Stop Button,YES
+Porsche,Cayenne,STD,Comfort & Convenience,Voice Commands,YES
+Porsche,Cayenne,STD,Comfort & Convenience,Paddle Shifters,YES
+Porsche,Cayenne,STD,Comfort & Convenience,USB Charger,Front
+Porsche,Cayenne,STD,Comfort & Convenience,Central Console Armrest,YES
+Porsche,Cayenne,STD,Comfort & Convenience,Follow Me Home Headlamps,YES
+Porsche,Cayenne,STD,Comfort & Convenience,Additional Features,"Sports seats front (8-way, electric) with integrated headrests, Sport Chrono Package, Exhaust system in brushed stainless steel, Pedals and footrest in Black"
+Porsche,Cayenne,STD,Interior,Leather wrap gear-shift selector,YES
+Porsche,Cayenne,STD,Interior,Digital Clock,YES
+Porsche,Cayenne,STD,Interior,Lighting,"Ambient light,Footwell Lamp"
+Porsche,Cayenne,STD,Interior,Additional Features,"Standard Interior / Partial Leather Seats, Sports rear seat system, Central rev counter with Black dial, Compass instrument dial/Sport Chrono stopwatch instrument dial black, Roof lining and A-/B-/ C-pillar trims in fabric, Front and rear door sill guards in Aluminium with model logo at front and 'Cayenne' model logo on rear, Sun visors for driver and front passenger, Fixed luggage compartment cover, For single-tone interiors in matching interior colour, for two-tone interiors in the darker interior colour, with 'PORSCHE' logo, A choice of seven colored light schemes for the ambient lighting in(overhead console, front and rear door panels, door compartments, the front and rear footwell, including illumination of the front cupholder)"
+Porsche,Cayenne,STD,Exterior,Adjustable Headlamps,YES
+Porsche,Cayenne,STD,Exterior,Alloy Wheels,YES
+Porsche,Cayenne,STD,Exterior,Tinted Glass,YES
+Porsche,Cayenne,STD,Exterior,Rear Spoiler,YES
+Porsche,Cayenne,STD,Exterior,Projector Headlamps,YES
+Porsche,Cayenne,STD,Exterior,Automatic Headlamps,YES
+Porsche,Cayenne,STD,Exterior,Heated Wing Mirror,YES
+Porsche,Cayenne,STD,Exterior,Tyre Type,"Tubeless,Radial"
+Porsche,Cayenne,STD,Exterior,LED DRLs,YES
+Porsche,Cayenne,STD,Exterior,LED Headlamps,YES
+Porsche,Cayenne,STD,Exterior,LED Taillights,YES
+Porsche,Cayenne,STD,Exterior,Additional Features,"Cayenne Design wheels, Wheels painted silver, Wheel Arch Cover in Black, Sideskirts, Lower Valance, Exterior Mirror Lower Trims including Mirror Base in Black, Exterior package Black (high-gloss), Preparation for towbar system, Rear Diffusor in Louvered Design, Door handles painted in exterior colour, Silver coloured model designation, Matrix LED Headlights, LED taillights including light strip, Automatically dimming interior and exterior mirrors, Electrically adjustable and heatable electrically folding exterior mirrors (also via remote key), aspherical on driver’s side, including ambient lighting, Panoramic Roof, fixed incl. electrically operated roller blind, Green-tinted thermally insulated glass, TPM Valve in Silver"
+Porsche,Cayenne,STD,Safety,Anti-lock Braking System (ABS),YES
+Porsche,Cayenne,STD,Safety,Central Locking,YES
+Porsche,Cayenne,STD,Safety,Anti-Theft Alarm,YES
+Porsche,Cayenne,STD,Safety,No. of Airbags,6
+Porsche,Cayenne,STD,Safety,Driver Airbag,YES
+Porsche,Cayenne,STD,Safety,Passenger Airbag,YES
+Porsche,Cayenne,STD,Safety,Side Airbag,YES
+Porsche,Cayenne,STD,Safety,Side Airbag-Rear,NO
+Porsche,Cayenne,STD,Safety,Day & Night Rear View Mirror,YES
+Porsche,Cayenne,STD,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Porsche,Cayenne,STD,Safety,Engine Immobilizer,YES
+Porsche,Cayenne,STD,Safety,Anti-Theft Device,YES
+Porsche,Cayenne,STD,Safety,ISOFIX Child Seat Mounts,YES
+Porsche,Cayenne,STD,Entertainment & Communication,Radio,YES
+Porsche,Cayenne,STD,Entertainment & Communication,Wireless Phone Charging,YES
+Porsche,Cayenne,STD,Entertainment & Communication,USB & Auxiliary input,YES
+Porsche,Cayenne,STD,Entertainment & Communication,Bluetooth Connectivity,YES
+Porsche,Cayenne,STD,Entertainment & Communication,Compass,YES
+Porsche,Cayenne,STD,Entertainment & Communication,Touchscreen,YES
+Porsche,Cayenne,STD,Entertainment & Communication,Android Auto,YES
+Porsche,Cayenne,STD,Entertainment & Communication,Apple CarPlay,YES
+Porsche,Cayenne,STD,Entertainment & Communication,No. of Speakers,10
+Porsche,Cayenne,STD,Entertainment & Communication,Usb Ports,YES
+Porsche,Cayenne,STD,Entertainment & Communication,Additional Features,Sound Package Plus with 10 Speakers and a total Output of 150 Watts
+Porsche,Cayenne,STD,Entertainment & Communication,Speakers,Front & Rear

@@ -1,0 +1,140 @@
+company,model,variant,category,feature_name,feature_details
+Lexus,LX,500d,Engine & Transmission,Engine Type,3.5-liter V6 twin-turbo
+Lexus,LX,500d,Engine & Transmission,Displacement,3346 cc
+Lexus,LX,500d,Engine & Transmission,Max Power,304.41bhp@4000rpm
+Lexus,LX,500d,Engine & Transmission,Max Torque,700Nm@1600-2600rpm
+Lexus,LX,500d,Engine & Transmission,No. of Cylinders,6
+Lexus,LX,500d,Engine & Transmission,Valves Per Cylinder,4
+Lexus,LX,500d,Engine & Transmission,Turbo Charger,Twin
+Lexus,LX,500d,Engine & Transmission,Transmission Type,Automatic
+Lexus,LX,500d,Engine & Transmission,Gearbox,10-Speed
+Lexus,LX,500d,Engine & Transmission,Drive Type,AWD
+Lexus,LX,500d,Fuel & Performance,Fuel Type,Diesel
+Lexus,LX,500d,Fuel & Performance,Diesel Fuel Tank Capacity,80 Litres
+Lexus,LX,500d,Fuel & Performance,Diesel Highway Mileage,6.9 kmpl
+Lexus,LX,500d,Fuel & Performance,Emission Norm Compliance,BS VI
+Lexus,LX,500d,Fuel & Performance,Top Speed,210 kmph
+Lexus,LX,500d,Fuel & Performance,Acceleration,8.0 s
+Lexus,LX,500d,Fuel & Performance,0-100kmph,8.0 s
+Lexus,LX,500d,"Suspension, Steering & Brakes",Front Suspension,Multi-link suspension
+Lexus,LX,500d,"Suspension, Steering & Brakes",Rear Suspension,Multi-link suspension
+Lexus,LX,500d,"Suspension, Steering & Brakes",Steering Type,Electric
+Lexus,LX,500d,"Suspension, Steering & Brakes",Steering Column,Tilt and Telescopic
+Lexus,LX,500d,"Suspension, Steering & Brakes",Turning Radius,6 m
+Lexus,LX,500d,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Lexus,LX,500d,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Lexus,LX,500d,Dimensions & Capacity,Length,5100 mm
+Lexus,LX,500d,Dimensions & Capacity,Width,1990 mm
+Lexus,LX,500d,Dimensions & Capacity,Height,1895 mm
+Lexus,LX,500d,Dimensions & Capacity,Boot Space,174 Litres
+Lexus,LX,500d,Dimensions & Capacity,Seating Capacity,5
+Lexus,LX,500d,Dimensions & Capacity,Ground Clearance Unladen,205 mm
+Lexus,LX,500d,Dimensions & Capacity,Wheel Base,3264 mm
+Lexus,LX,500d,Dimensions & Capacity,Front Tread,1536 mm
+Lexus,LX,500d,Dimensions & Capacity,Rear Tread,1675 mm
+Lexus,LX,500d,Dimensions & Capacity,Kerb Weight,2750 kg
+Lexus,LX,500d,Dimensions & Capacity,Gross Weight,3280 kg
+Lexus,LX,500d,Comfort & Convenience,Power Steering,YES
+Lexus,LX,500d,Comfort & Convenience,Power Boot,YES
+Lexus,LX,500d,Comfort & Convenience,Air Conditioner,YES
+Lexus,LX,500d,Comfort & Convenience,Heater,YES
+Lexus,LX,500d,Comfort & Convenience,Adjustable Steering,YES
+Lexus,LX,500d,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Lexus,LX,500d,Comfort & Convenience,Ventilated Seats,YES
+Lexus,LX,500d,Comfort & Convenience,Electric Adjustable Seats,Front
+Lexus,LX,500d,Comfort & Convenience,Automatic Climate Control,YES
+Lexus,LX,500d,Comfort & Convenience,Air Quality Control,YES
+Lexus,LX,500d,Comfort & Convenience,Remote Trunk Opener,YES
+Lexus,LX,500d,Comfort & Convenience,Low Fuel Warning Light,YES
+Lexus,LX,500d,Comfort & Convenience,Accessory Power Outlet,YES
+Lexus,LX,500d,Comfort & Convenience,Rear Seat Headrest,YES
+Lexus,LX,500d,Comfort & Convenience,Adjustable Headrest,YES
+Lexus,LX,500d,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Lexus,LX,500d,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Lexus,LX,500d,Comfort & Convenience,Rear AC Vents,YES
+Lexus,LX,500d,Comfort & Convenience,Lumbar Support,YES
+Lexus,LX,500d,Comfort & Convenience,Cruise Control,YES
+Lexus,LX,500d,Comfort & Convenience,Parking Sensors,Rear
+Lexus,LX,500d,Comfort & Convenience,Navigation System,YES
+Lexus,LX,500d,Comfort & Convenience,KeyLess Entry,YES
+Lexus,LX,500d,Comfort & Convenience,Engine Start/Stop Button,YES
+Lexus,LX,500d,Comfort & Convenience,Voice Commands,YES
+Lexus,LX,500d,Comfort & Convenience,Paddle Shifters,YES
+Lexus,LX,500d,Comfort & Convenience,USB Charger,Front
+Lexus,LX,500d,Comfort & Convenience,Central Console Armrest,With Storage
+Lexus,LX,500d,Comfort & Convenience,Gear Shift Indicator,YES
+Lexus,LX,500d,Comfort & Convenience,Drive Modes,5
+Lexus,LX,500d,Comfort & Convenience,Follow Me Home Headlamps,YES
+Lexus,LX,500d,Comfort & Convenience,Additional Features,"Illuminated Entry System (Lounge + Shift + Scuff Plate), Drive Mode Select (5 Modes (Normal / Eco / Comfort / Sport S / Sport S+) + Custom Mode), Steering Wheel (Leather + Wood + Heater), AVS (TEMS),Rear Window Wiper - Intermittent,Washer, Reverse, pollen removal function, Clearance & Rear Cross Traffic Alert (RCTA), Back Monitor Panoramic view Monitor, Multi Terrain Monitor - 4 Cameras with washer"
+Lexus,LX,500d,Interior,Electronic Multi-Tripmeter,YES
+Lexus,LX,500d,Interior,Leather Seats,YES
+Lexus,LX,500d,Interior,Leather Wrapped Steering Wheel,YES
+Lexus,LX,500d,Interior,Leather wrap gear-shift selector,YES
+Lexus,LX,500d,Interior,Glove Box,YES
+Lexus,LX,500d,Interior,Digital Clock,YES
+Lexus,LX,500d,Interior,Lighting,"Reading Lamp,Boot Lamp"
+Lexus,LX,500d,Interior,Additional Features,"Seat Cover Material - Leather Premium, Front Seat Slide - Driver: 260mm Passenger: 240mm, Front Seat Adjuster (Driver 10 Way + Passenger 8 Way with Power), Rear Seat - Power Tumble, Lumbar Support (Driver & Passenger ,Power Slide ,4Way), Front seat Vertical Adjuster (Driver +Passenger Power), Multi Information Display (20.32 cm (8-inch) color TFT (Thin Film Transistor) LCD Display )"
+Lexus,LX,500d,Exterior,Adjustable Headlamps,YES
+Lexus,LX,500d,Exterior,Fog Lights - Front,YES
+Lexus,LX,500d,Exterior,Fog Lights - Rear,YES
+Lexus,LX,500d,Exterior,Rain Sensing Wiper,YES
+Lexus,LX,500d,Exterior,Rear Window Wiper,YES
+Lexus,LX,500d,Exterior,Rear Window Washer,YES
+Lexus,LX,500d,Exterior,Rear Window Defogger,YES
+Lexus,LX,500d,Exterior,Alloy Wheels,YES
+Lexus,LX,500d,Exterior,Tinted Glass,YES
+Lexus,LX,500d,Exterior,Rear Spoiler,YES
+Lexus,LX,500d,Exterior,Side Stepper,YES
+Lexus,LX,500d,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Lexus,LX,500d,Exterior,Projector Headlamps,YES
+Lexus,LX,500d,Exterior,Cornering Headlamps,YES
+Lexus,LX,500d,Exterior,Roof Rails,YES
+Lexus,LX,500d,Exterior,Automatic Headlamps,YES
+Lexus,LX,500d,Exterior,Trunk Opener,Remote
+Lexus,LX,500d,Exterior,Sun Roof,YES
+Lexus,LX,500d,Exterior,Tyre Size,265/50R22
+Lexus,LX,500d,Exterior,Tyre Type,Radial Tubeless
+Lexus,LX,500d,Exterior,LED DRLs,YES
+Lexus,LX,500d,Exterior,LED Headlamps,YES
+Lexus,LX,500d,Exterior,LED Taillights,YES
+Lexus,LX,500d,Exterior,LED Fog Lamps,YES
+Lexus,LX,500d,Exterior,Additional Features,"3-projector Bi-Beam LED Headlamp, LED Clearance- LED+WELCOME, Light Control System, High Mount Stop Lamp, Outside Rear View Mirror (Automatic Glare Proof + Side Camera + Heater + Light + BSM), Moon Roof - Remote + Jam Protect"
+Lexus,LX,500d,Safety,Anti-lock Braking System (ABS),YES
+Lexus,LX,500d,Safety,Brake Assist,YES
+Lexus,LX,500d,Safety,Central Locking,YES
+Lexus,LX,500d,Safety,Child Safety Locks,YES
+Lexus,LX,500d,Safety,Anti-Theft Alarm,YES
+Lexus,LX,500d,Safety,No. of Airbags,10
+Lexus,LX,500d,Safety,Driver Airbag,YES
+Lexus,LX,500d,Safety,Passenger Airbag,YES
+Lexus,LX,500d,Safety,Side Airbag,YES
+Lexus,LX,500d,Safety,Side Airbag-Rear,YES
+Lexus,LX,500d,Safety,Day & Night Rear View Mirror,YES
+Lexus,LX,500d,Safety,Traction Control,YES
+Lexus,LX,500d,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Lexus,LX,500d,Safety,Engine Immobilizer,YES
+Lexus,LX,500d,Safety,Electronic Stability Control (ESC),YES
+Lexus,LX,500d,Safety,Anti-Theft Device,YES
+Lexus,LX,500d,Safety,ISOFIX Child Seat Mounts,YES
+Lexus,LX,500d,Safety,Heads-Up Display (HUD),YES
+Lexus,LX,500d,Safety,Blind Spot Camera,YES
+Lexus,LX,500d,Safety,Hill Descent Control,YES
+Lexus,LX,500d,Safety,Hill Assist,YES
+Lexus,LX,500d,Safety,360 View Camera,YES
+Lexus,LX,500d,Entertainment & Communication,Radio,YES
+Lexus,LX,500d,Entertainment & Communication,Audio System Remote Control,YES
+Lexus,LX,500d,Entertainment & Communication,Wireless Phone Charging,YES
+Lexus,LX,500d,Entertainment & Communication,USB & Auxiliary input,YES
+Lexus,LX,500d,Entertainment & Communication,Bluetooth Connectivity,YES
+Lexus,LX,500d,Entertainment & Communication,Wi-Fi Connectivity,YES
+Lexus,LX,500d,Entertainment & Communication,Compass,YES
+Lexus,LX,500d,Entertainment & Communication,Touchscreen,YES
+Lexus,LX,500d,Entertainment & Communication,Touchscreen Size,12.29
+Lexus,LX,500d,Entertainment & Communication,Android Auto,YES
+Lexus,LX,500d,Entertainment & Communication,Apple CarPlay,YES
+Lexus,LX,500d,Entertainment & Communication,No. of Speakers,25
+Lexus,LX,500d,Entertainment & Communication,Rear Entertainment System,YES
+Lexus,LX,500d,Entertainment & Communication,Usb Ports,YES
+Lexus,LX,500d,Entertainment & Communication,Additional Features,"31.24 cm (12.3-inch) Electro Multi-Vision (EMV) Multimedia infotainment Touch display, Audio Mark Levinson 25 Speakers 3D Surround Sound System, Rear Seat Entertainment (Dual RSE Monitors) 11.6-inch touch displays, HDMI jack, 2 headphone jacks, wireless remote control, Wireless Apple CarPlay, Wired Android Auto, 17.78 cm (7-inch) Electro Multi-Vision (EMV) Drive dynamics control touch displays"
+Lexus,LX,500d,Entertainment & Communication,Speakers,Front & Rear
+Lexus,LX,500d,ADAS Feature,Blind Spot Monitor,YES

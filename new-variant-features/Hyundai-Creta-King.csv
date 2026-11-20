@@ -1,0 +1,139 @@
+company,model,variant,category,feature_name,feature_details
+Hyundai,Creta,King,Engine & Transmission,Engine Type,1.5L MPi
+Hyundai,Creta,King,Engine & Transmission,Displacement,1497 cc
+Hyundai,Creta,King,Engine & Transmission,Max Power,113.18bhp@6300rpm
+Hyundai,Creta,King,Engine & Transmission,Max Torque,143.8Nm@4500rpm
+Hyundai,Creta,King,Engine & Transmission,No. of Cylinders,4
+Hyundai,Creta,King,Engine & Transmission,Valves Per Cylinder,4
+Hyundai,Creta,King,Engine & Transmission,Valve Configuration,DOHC
+Hyundai,Creta,King,Engine & Transmission,Fuel Supply System,MPi
+Hyundai,Creta,King,Engine & Transmission,Turbo Charger,NO
+Hyundai,Creta,King,Engine & Transmission,Transmission Type,Manual
+Hyundai,Creta,King,Engine & Transmission,Gearbox,6-Speed
+Hyundai,Creta,King,Engine & Transmission,Drive Type,FWD
+Hyundai,Creta,King,Fuel & Performance,Fuel Type,Petrol
+Hyundai,Creta,King,Fuel & Performance,Petrol Mileage ARAI,17.4 kmpl
+Hyundai,Creta,King,Fuel & Performance,Petrol Fuel Tank Capacity,50 Litres
+Hyundai,Creta,King,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Hyundai,Creta,King,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Hyundai,Creta,King,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Hyundai,Creta,King,"Suspension, Steering & Brakes",Steering Type,Electric
+Hyundai,Creta,King,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Hyundai,Creta,King,"Suspension, Steering & Brakes",Steering Gear Type,Rack & Pinion
+Hyundai,Creta,King,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Hyundai,Creta,King,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Hyundai,Creta,King,Dimensions & Capacity,Length,4330 mm
+Hyundai,Creta,King,Dimensions & Capacity,Width,1790 mm
+Hyundai,Creta,King,Dimensions & Capacity,Height,1635 mm
+Hyundai,Creta,King,Dimensions & Capacity,Seating Capacity,5
+Hyundai,Creta,King,Dimensions & Capacity,Wheel Base,2610 mm
+Hyundai,Creta,King,Dimensions & Capacity,Reported Boot Space,433 Litres
+Hyundai,Creta,King,Comfort & Convenience,Boot Opening,Electronic
+Hyundai,Creta,King,Comfort & Convenience,Power Steering,YES
+Hyundai,Creta,King,Comfort & Convenience,Air Conditioner,YES
+Hyundai,Creta,King,Comfort & Convenience,Heater,YES
+Hyundai,Creta,King,Comfort & Convenience,Adjustable Steering,Height & Reach
+Hyundai,Creta,King,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Hyundai,Creta,King,Comfort & Convenience,Ventilated Seats,YES
+Hyundai,Creta,King,Comfort & Convenience,Electric Adjustable Seats,Front
+Hyundai,Creta,King,Comfort & Convenience,Automatic Climate Control,YES
+Hyundai,Creta,King,Comfort & Convenience,Accessory Power Outlet,YES
+Hyundai,Creta,King,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Hyundai,Creta,King,Comfort & Convenience,Adjustable Headrest,YES
+Hyundai,Creta,King,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Hyundai,Creta,King,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Hyundai,Creta,King,Comfort & Convenience,Rear AC Vents,YES
+Hyundai,Creta,King,Comfort & Convenience,Cruise Control,YES
+Hyundai,Creta,King,Comfort & Convenience,Parking Sensors,Front & Rear
+Hyundai,Creta,King,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Hyundai,Creta,King,Comfort & Convenience,KeyLess Entry,YES
+Hyundai,Creta,King,Comfort & Convenience,Engine Start/Stop Button,YES
+Hyundai,Creta,King,Comfort & Convenience,Voice Commands,YES
+Hyundai,Creta,King,Comfort & Convenience,Paddle Shifters,NO
+Hyundai,Creta,King,Comfort & Convenience,USB Charger,Front & Rear
+Hyundai,Creta,King,Comfort & Convenience,Central Console Armrest,With Storage
+Hyundai,Creta,King,Comfort & Convenience,Drive Modes,NO
+Hyundai,Creta,King,Comfort & Convenience,Idle Start-Stop System,YES
+Hyundai,Creta,King,Comfort & Convenience,Additional Features,Sunglass holder
+Hyundai,Creta,King,Comfort & Convenience,Voice assisted sunroof,YES
+Hyundai,Creta,King,Comfort & Convenience,Power Windows,Front & Rear
+Hyundai,Creta,King,Comfort & Convenience,Cup Holders,Front & Rear
+Hyundai,Creta,King,Interior,Glove Box,YES
+Hyundai,Creta,King,Interior,Lighting,Ambient light
+Hyundai,Creta,King,Interior,Additional Features,Rear parcel tray
+Hyundai,Creta,King,Interior,Digital Cluster,YES
+Hyundai,Creta,King,Interior,Digital Cluster Size,10.25 Inch
+Hyundai,Creta,King,Interior,Upholstery,Leatherette
+Hyundai,Creta,King,Exterior,Adjustable Headlamps,YES
+Hyundai,Creta,King,Exterior,Rain Sensing Wiper,YES
+Hyundai,Creta,King,Exterior,Rear Window Wiper,YES
+Hyundai,Creta,King,Exterior,Rear Window Washer,YES
+Hyundai,Creta,King,Exterior,Rear Window Defogger,YES
+Hyundai,Creta,King,Exterior,Wheel Covers,NO
+Hyundai,Creta,King,Exterior,Alloy Wheels,YES
+Hyundai,Creta,King,Exterior,Rear Spoiler,YES
+Hyundai,Creta,King,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Hyundai,Creta,King,Exterior,Projector Headlamps,NO
+Hyundai,Creta,King,Exterior,Roof Rails,YES
+Hyundai,Creta,King,Exterior,Automatic Headlamps,YES
+Hyundai,Creta,King,Exterior,Antenna,Shark Fin
+Hyundai,Creta,King,Exterior,Sunroof,Panoramic
+Hyundai,Creta,King,Exterior,Puddle Lamps,YES
+Hyundai,Creta,King,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Hyundai,Creta,King,Exterior,Tyre Size,215/55 R18
+Hyundai,Creta,King,Exterior,Tyre Type,Radial Tubeless
+Hyundai,Creta,King,Exterior,LED DRLs,YES
+Hyundai,Creta,King,Exterior,LED Headlamps,YES
+Hyundai,Creta,King,Exterior,LED Taillights,YES
+Hyundai,Creta,King,Safety,Anti-lock Braking System (ABS),YES
+Hyundai,Creta,King,Safety,Brake Assist,YES
+Hyundai,Creta,King,Safety,Central Locking,YES
+Hyundai,Creta,King,Safety,Child Safety Locks,YES
+Hyundai,Creta,King,Safety,Anti-Theft Alarm,YES
+Hyundai,Creta,King,Safety,No. of Airbags,6
+Hyundai,Creta,King,Safety,Driver Airbag,YES
+Hyundai,Creta,King,Safety,Passenger Airbag,YES
+Hyundai,Creta,King,Safety,Side Airbag,YES
+Hyundai,Creta,King,Safety,Side Airbag-Rear,NO
+Hyundai,Creta,King,Safety,Day & Night Rear View Mirror,YES
+Hyundai,Creta,King,Safety,Electronic Brakeforce Distribution (EBD),YES
+Hyundai,Creta,King,Safety,Traction Control,YES
+Hyundai,Creta,King,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Hyundai,Creta,King,Safety,Engine Immobilizer,YES
+Hyundai,Creta,King,Safety,Electronic Stability Control (ESC),YES
+Hyundai,Creta,King,Safety,Rear Camera,With Guidedlines
+Hyundai,Creta,King,Safety,Anti-Theft Device,YES
+Hyundai,Creta,King,Safety,Anti-Pinch Power Windows,Driver's Window
+Hyundai,Creta,King,Safety,ISOFIX Child Seat Mounts,YES
+Hyundai,Creta,King,Safety,Hill Assist,YES
+Hyundai,Creta,King,Safety,360 View Camera,YES
+Hyundai,Creta,King,Entertainment & Communication,Radio,YES
+Hyundai,Creta,King,Entertainment & Communication,Wireless Phone Charging,YES
+Hyundai,Creta,King,Entertainment & Communication,Bluetooth Connectivity,YES
+Hyundai,Creta,King,Entertainment & Communication,Touchscreen,YES
+Hyundai,Creta,King,Entertainment & Communication,Touchscreen Size,10.25 inch
+Hyundai,Creta,King,Entertainment & Communication,Android Auto,YES
+Hyundai,Creta,King,Entertainment & Communication,Apple CarPlay,YES
+Hyundai,Creta,King,Entertainment & Communication,No. of Speakers,8
+Hyundai,Creta,King,Entertainment & Communication,Usb Ports,YES
+Hyundai,Creta,King,Entertainment & Communication,Inbuilt Apps,JioSaavan
+Hyundai,Creta,King,Entertainment & Communication,Additional Features,Wireless Android Auto & Apple CarPlay | Bose premium sound 8 speaker system
+Hyundai,Creta,King,Entertainment & Communication,Speakers,Front & Rear
+Hyundai,Creta,King,ADAS Feature,Forward Collision Warning,YES
+Hyundai,Creta,King,ADAS Feature,Blind Spot Collision Avoidance Assist,YES
+Hyundai,Creta,King,ADAS Feature,Lane Departure Warning,YES
+Hyundai,Creta,King,ADAS Feature,Lane Keep Assist,YES
+Hyundai,Creta,King,ADAS Feature,Driver Attention Warning,YES
+Hyundai,Creta,King,ADAS Feature,Adaptive Cruise Control,NO
+Hyundai,Creta,King,ADAS Feature,Leading Vehicle Departure Alert,YES
+Hyundai,Creta,King,ADAS Feature,Adaptive High Beam Assist,YES
+Hyundai,Creta,King,ADAS Feature,Rear Cross Traffic Alert,YES
+Hyundai,Creta,King,ADAS Feature,Rear Cross Traffic Collision-Avoidance Assist,YES
+Hyundai,Creta,King,ADAS Feature,Blind Spot Monitor,YES
+Hyundai,Creta,King,Advance Internet Feature,Live Location,YES
+Hyundai,Creta,King,Advance Internet Feature,Over the Air (OTA) Updates,YES
+Hyundai,Creta,King,Advance Internet Feature,Google / Alexa Connectivity,YES
+Hyundai,Creta,King,Advance Internet Feature,SOS Button,YES
+Hyundai,Creta,King,Advance Internet Feature,RSA,YES
+Hyundai,Creta,King,Advance Internet Feature,Remote Vehicle Ignition Start/Stop,YES
+Hyundai,Creta,King,Advance Internet Feature,Geo-fence Alert,YES

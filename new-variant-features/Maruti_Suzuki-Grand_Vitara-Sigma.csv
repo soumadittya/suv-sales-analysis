@@ -1,0 +1,129 @@
+company,model,variant,category,feature_name,feature_details
+Maruti Suzuki,Grand Vitara,Sigma,Engine & Transmission,Engine Type,K15C With Mild Hybrid System
+Maruti Suzuki,Grand Vitara,Sigma,Engine & Transmission,Displacement,1462 cc
+Maruti Suzuki,Grand Vitara,Sigma,Engine & Transmission,Max Power,101.64bhp@6000rpm
+Maruti Suzuki,Grand Vitara,Sigma,Engine & Transmission,Max Torque,139Nm@4300rpm
+Maruti Suzuki,Grand Vitara,Sigma,Engine & Transmission,No. of Cylinders,4
+Maruti Suzuki,Grand Vitara,Sigma,Engine & Transmission,Valves Per Cylinder,4
+Maruti Suzuki,Grand Vitara,Sigma,Engine & Transmission,Transmission Type,Manual
+Maruti Suzuki,Grand Vitara,Sigma,Engine & Transmission,Gearbox,5-Speed
+Maruti Suzuki,Grand Vitara,Sigma,Engine & Transmission,Drive Type,FWD
+Maruti Suzuki,Grand Vitara,Sigma,Fuel & Performance,Fuel Type,Petrol
+Maruti Suzuki,Grand Vitara,Sigma,Fuel & Performance,Petrol Mileage ARAI,21.11 kmpl
+Maruti Suzuki,Grand Vitara,Sigma,Fuel & Performance,Petrol Fuel Tank Capacity,45 Litres
+Maruti Suzuki,Grand Vitara,Sigma,Fuel & Performance,Secondary Fuel Type,Electric
+Maruti Suzuki,Grand Vitara,Sigma,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Maruti Suzuki,Grand Vitara,Sigma,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Maruti Suzuki,Grand Vitara,Sigma,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Maruti Suzuki,Grand Vitara,Sigma,"Suspension, Steering & Brakes",Steering Type,Electric
+Maruti Suzuki,Grand Vitara,Sigma,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Maruti Suzuki,Grand Vitara,Sigma,"Suspension, Steering & Brakes",Steering Gear Type,Rack & Pinion
+Maruti Suzuki,Grand Vitara,Sigma,"Suspension, Steering & Brakes",Turning Radius,5.4 m
+Maruti Suzuki,Grand Vitara,Sigma,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Maruti Suzuki,Grand Vitara,Sigma,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Maruti Suzuki,Grand Vitara,Sigma,Dimensions & Capacity,Length,4345 mm
+Maruti Suzuki,Grand Vitara,Sigma,Dimensions & Capacity,Width,1795 mm
+Maruti Suzuki,Grand Vitara,Sigma,Dimensions & Capacity,Height,1645 mm
+Maruti Suzuki,Grand Vitara,Sigma,Dimensions & Capacity,Seating Capacity,5
+Maruti Suzuki,Grand Vitara,Sigma,Dimensions & Capacity,Ground Clearance Unladen,210 mm
+Maruti Suzuki,Grand Vitara,Sigma,Dimensions & Capacity,Wheel Base,2600 mm
+Maruti Suzuki,Grand Vitara,Sigma,Dimensions & Capacity,Kerb Weight,1140-1185 kg
+Maruti Suzuki,Grand Vitara,Sigma,Dimensions & Capacity,Gross Weight,1645 kg
+Maruti Suzuki,Grand Vitara,Sigma,Comfort & Convenience,Boot Opening,Manual
+Maruti Suzuki,Grand Vitara,Sigma,Comfort & Convenience,Power Steering,YES
+Maruti Suzuki,Grand Vitara,Sigma,Comfort & Convenience,Air Conditioner,YES
+Maruti Suzuki,Grand Vitara,Sigma,Comfort & Convenience,Heater,YES
+Maruti Suzuki,Grand Vitara,Sigma,Comfort & Convenience,Height Adjustable Driver Seat,NO
+Maruti Suzuki,Grand Vitara,Sigma,Comfort & Convenience,Ventilated Seats,NO
+Maruti Suzuki,Grand Vitara,Sigma,Comfort & Convenience,Automatic Climate Control,YES
+Maruti Suzuki,Grand Vitara,Sigma,Comfort & Convenience,Accessory Power Outlet,YES
+Maruti Suzuki,Grand Vitara,Sigma,Comfort & Convenience,Adjustable Headrest,YES
+Maruti Suzuki,Grand Vitara,Sigma,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Maruti Suzuki,Grand Vitara,Sigma,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Maruti Suzuki,Grand Vitara,Sigma,Comfort & Convenience,Rear AC Vents,YES
+Maruti Suzuki,Grand Vitara,Sigma,Comfort & Convenience,Cruise Control,NO
+Maruti Suzuki,Grand Vitara,Sigma,Comfort & Convenience,Parking Sensors,Rear
+Maruti Suzuki,Grand Vitara,Sigma,Comfort & Convenience,Real-Time Vehicle Tracking,NO
+Maruti Suzuki,Grand Vitara,Sigma,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Maruti Suzuki,Grand Vitara,Sigma,Comfort & Convenience,KeyLess Entry,YES
+Maruti Suzuki,Grand Vitara,Sigma,Comfort & Convenience,Engine Start/Stop Button,YES
+Maruti Suzuki,Grand Vitara,Sigma,Comfort & Convenience,Voice Commands,NO
+Maruti Suzuki,Grand Vitara,Sigma,Comfort & Convenience,Paddle Shifters,NO
+Maruti Suzuki,Grand Vitara,Sigma,Comfort & Convenience,USB Charger,NO
+Maruti Suzuki,Grand Vitara,Sigma,Comfort & Convenience,Central Console Armrest,With Storage
+Maruti Suzuki,Grand Vitara,Sigma,Comfort & Convenience,Gear Shift Indicator,YES
+Maruti Suzuki,Grand Vitara,Sigma,Comfort & Convenience,Drive Modes,NO
+Maruti Suzuki,Grand Vitara,Sigma,Comfort & Convenience,Glove Box light,NO
+Maruti Suzuki,Grand Vitara,Sigma,Comfort & Convenience,Idle Start-Stop System,YES
+Maruti Suzuki,Grand Vitara,Sigma,Comfort & Convenience,Follow Me Home Headlamps,NO
+Maruti Suzuki,Grand Vitara,Sigma,Comfort & Convenience,Drive Mode Types,NO
+Maruti Suzuki,Grand Vitara,Sigma,Interior,Glove Box,YES
+Maruti Suzuki,Grand Vitara,Sigma,Interior,Digital Cluster,Semi
+Maruti Suzuki,Grand Vitara,Sigma,Interior,Digital Cluster Size,4.2 inch
+Maruti Suzuki,Grand Vitara,Sigma,Interior,Upholstery,Fabric
+Maruti Suzuki,Grand Vitara,Sigma,Exterior,Adjustable Headlamps,YES
+Maruti Suzuki,Grand Vitara,Sigma,Exterior,Rear Window Wiper,NO
+Maruti Suzuki,Grand Vitara,Sigma,Exterior,Rear Window Washer,NO
+Maruti Suzuki,Grand Vitara,Sigma,Exterior,Wheel Covers,YES
+Maruti Suzuki,Grand Vitara,Sigma,Exterior,Alloy Wheels,NO
+Maruti Suzuki,Grand Vitara,Sigma,Exterior,Rear Spoiler,YES
+Maruti Suzuki,Grand Vitara,Sigma,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Maruti Suzuki,Grand Vitara,Sigma,Exterior,Projector Headlamps,YES
+Maruti Suzuki,Grand Vitara,Sigma,Exterior,Roof Rails,NO
+Maruti Suzuki,Grand Vitara,Sigma,Exterior,Antenna,Shark Fin
+Maruti Suzuki,Grand Vitara,Sigma,Exterior,Sunroof,NO
+Maruti Suzuki,Grand Vitara,Sigma,Exterior,Puddle Lamps,NO
+Maruti Suzuki,Grand Vitara,Sigma,Exterior,Outside Rear View Mirror (ORVM),Manual
+Maruti Suzuki,Grand Vitara,Sigma,Exterior,Tyre Size,215/60 R17
+Maruti Suzuki,Grand Vitara,Sigma,Exterior,Tyre Type,Tubeless
+Maruti Suzuki,Grand Vitara,Sigma,Exterior,Wheel Size,17 Inch
+Maruti Suzuki,Grand Vitara,Sigma,Exterior,LED DRLs,YES
+Maruti Suzuki,Grand Vitara,Sigma,Exterior,LED Headlamps,NO
+Maruti Suzuki,Grand Vitara,Sigma,Exterior,LED Taillights,YES
+Maruti Suzuki,Grand Vitara,Sigma,Safety,Anti-lock Braking System (ABS),YES
+Maruti Suzuki,Grand Vitara,Sigma,Safety,Brake Assist,YES
+Maruti Suzuki,Grand Vitara,Sigma,Safety,Central Locking,YES
+Maruti Suzuki,Grand Vitara,Sigma,Safety,Child Safety Locks,YES
+Maruti Suzuki,Grand Vitara,Sigma,Safety,Anti-Theft Alarm,NO
+Maruti Suzuki,Grand Vitara,Sigma,Safety,No. of Airbags,6
+Maruti Suzuki,Grand Vitara,Sigma,Safety,Driver Airbag,YES
+Maruti Suzuki,Grand Vitara,Sigma,Safety,Passenger Airbag,YES
+Maruti Suzuki,Grand Vitara,Sigma,Safety,Side Airbag,YES
+Maruti Suzuki,Grand Vitara,Sigma,Safety,Side Airbag-Rear,NO
+Maruti Suzuki,Grand Vitara,Sigma,Safety,Day & Night Rear View Mirror,YES
+Maruti Suzuki,Grand Vitara,Sigma,Safety,Electronic Brakeforce Distribution (EBD),YES
+Maruti Suzuki,Grand Vitara,Sigma,Safety,Traction Control,YES
+Maruti Suzuki,Grand Vitara,Sigma,Safety,Tyre Pressure Monitoring System (TPMS),NO
+Maruti Suzuki,Grand Vitara,Sigma,Safety,Engine Immobilizer,YES
+Maruti Suzuki,Grand Vitara,Sigma,Safety,Electronic Stability Control (ESC),YES
+Maruti Suzuki,Grand Vitara,Sigma,Safety,Rear Camera,NO
+Maruti Suzuki,Grand Vitara,Sigma,Safety,Anti-Theft Device,NO
+Maruti Suzuki,Grand Vitara,Sigma,Safety,ISOFIX Child Seat Mounts,YES
+Maruti Suzuki,Grand Vitara,Sigma,Safety,Heads-Up Display (HUD),NO
+Maruti Suzuki,Grand Vitara,Sigma,Safety,Hill Descent Control,NO
+Maruti Suzuki,Grand Vitara,Sigma,Safety,Hill Assist,YES
+Maruti Suzuki,Grand Vitara,Sigma,Safety,360 View Camera,NO
+Maruti Suzuki,Grand Vitara,Sigma,Entertainment & Communication,Radio,NO
+Maruti Suzuki,Grand Vitara,Sigma,Entertainment & Communication,Wireless Phone Charging,NO
+Maruti Suzuki,Grand Vitara,Sigma,Entertainment & Communication,Bluetooth Connectivity,NO
+Maruti Suzuki,Grand Vitara,Sigma,Entertainment & Communication,Touchscreen,NO
+Maruti Suzuki,Grand Vitara,Sigma,Entertainment & Communication,Android Auto,NO
+Maruti Suzuki,Grand Vitara,Sigma,Entertainment & Communication,Apple CarPlay,NO
+Maruti Suzuki,Grand Vitara,Sigma,Entertainment & Communication,Usb Ports,NO
+Maruti Suzuki,Grand Vitara,Sigma,Entertainment & Communication,Speakers,NO
+Maruti Suzuki,Grand Vitara,Sigma,Advance Internet Feature,Live Location,NO
+Maruti Suzuki,Grand Vitara,Sigma,Advance Internet Feature,Remote Immobiliser,NO
+Maruti Suzuki,Grand Vitara,Sigma,Advance Internet Feature,Remote Vehicle Status Check,NO
+Maruti Suzuki,Grand Vitara,Sigma,Advance Internet Feature,Send POI to Vehicle From App,NO
+Maruti Suzuki,Grand Vitara,Sigma,Advance Internet Feature,E-Call & I-Call,NO
+Maruti Suzuki,Grand Vitara,Sigma,Advance Internet Feature,Google / Alexa Connectivity,NO
+Maruti Suzuki,Grand Vitara,Sigma,Advance Internet Feature,Over Speeding Alert,NO
+Maruti Suzuki,Grand Vitara,Sigma,Advance Internet Feature,Tow Away Alert,NO
+Maruti Suzuki,Grand Vitara,Sigma,Advance Internet Feature,In Car Remote Control App,NO
+Maruti Suzuki,Grand Vitara,Sigma,Advance Internet Feature,Smartwatch App,NO
+Maruti Suzuki,Grand Vitara,Sigma,Advance Internet Feature,Valet Mode,NO
+Maruti Suzuki,Grand Vitara,Sigma,Advance Internet Feature,Remote AC On/Off,NO
+Maruti Suzuki,Grand Vitara,Sigma,Advance Internet Feature,Remote Door Lock/Unlock,NO
+Maruti Suzuki,Grand Vitara,Sigma,Advance Internet Feature,Remote Vehicle Ignition Start/Stop,NO
+Maruti Suzuki,Grand Vitara,Sigma,Advance Internet Feature,SOS / Emergency Assistance,NO
+Maruti Suzuki,Grand Vitara,Sigma,Advance Internet Feature,Geo-fence Alert,NO

@@ -1,0 +1,137 @@
+company,model,variant,category,feature_name,feature_details
+Hyundai,Creta,SX Premium Diesel,Engine & Transmission,Engine Type,1.5L U2 CRDi
+Hyundai,Creta,SX Premium Diesel,Engine & Transmission,Displacement,1493 cc
+Hyundai,Creta,SX Premium Diesel,Engine & Transmission,Max Power,114bhp@4000rpm
+Hyundai,Creta,SX Premium Diesel,Engine & Transmission,Max Torque,250Nm@1500-2750rpm
+Hyundai,Creta,SX Premium Diesel,Engine & Transmission,No. of Cylinders,4
+Hyundai,Creta,SX Premium Diesel,Engine & Transmission,Valves Per Cylinder,4
+Hyundai,Creta,SX Premium Diesel,Engine & Transmission,Valve Configuration,DOHC
+Hyundai,Creta,SX Premium Diesel,Engine & Transmission,Fuel Supply System,CRDi
+Hyundai,Creta,SX Premium Diesel,Engine & Transmission,Turbo Charger,YES
+Hyundai,Creta,SX Premium Diesel,Engine & Transmission,Transmission Type,Manual
+Hyundai,Creta,SX Premium Diesel,Engine & Transmission,Gearbox,6-Speed
+Hyundai,Creta,SX Premium Diesel,Engine & Transmission,Drive Type,FWD
+Hyundai,Creta,SX Premium Diesel,Fuel & Performance,Fuel Type,Diesel
+Hyundai,Creta,SX Premium Diesel,Fuel & Performance,Diesel Mileage ARAI,21.8 kmpl
+Hyundai,Creta,SX Premium Diesel,Fuel & Performance,Diesel Fuel Tank Capacity,50 Litres
+Hyundai,Creta,SX Premium Diesel,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Hyundai,Creta,SX Premium Diesel,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Hyundai,Creta,SX Premium Diesel,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Hyundai,Creta,SX Premium Diesel,"Suspension, Steering & Brakes",Steering Type,Electric
+Hyundai,Creta,SX Premium Diesel,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Hyundai,Creta,SX Premium Diesel,"Suspension, Steering & Brakes",Steering Gear Type,Rack & Pinion
+Hyundai,Creta,SX Premium Diesel,"Suspension, Steering & Brakes",Turning Radius,5.3 m
+Hyundai,Creta,SX Premium Diesel,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Hyundai,Creta,SX Premium Diesel,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Hyundai,Creta,SX Premium Diesel,"Suspension, Steering & Brakes",Boot Space Rear Seat Folding,Litres
+Hyundai,Creta,SX Premium Diesel,Dimensions & Capacity,Length,4330 mm
+Hyundai,Creta,SX Premium Diesel,Dimensions & Capacity,Width,1790 mm
+Hyundai,Creta,SX Premium Diesel,Dimensions & Capacity,Height,1635 mm
+Hyundai,Creta,SX Premium Diesel,Dimensions & Capacity,Seating Capacity,5
+Hyundai,Creta,SX Premium Diesel,Dimensions & Capacity,Wheel Base,2610 mm
+Hyundai,Creta,SX Premium Diesel,Dimensions & Capacity,Reported Boot Space,433 Litres
+Hyundai,Creta,SX Premium Diesel,Comfort & Convenience,Boot Opening,Electronic
+Hyundai,Creta,SX Premium Diesel,Comfort & Convenience,Power Steering,YES
+Hyundai,Creta,SX Premium Diesel,Comfort & Convenience,Air Conditioner,YES
+Hyundai,Creta,SX Premium Diesel,Comfort & Convenience,Heater,YES
+Hyundai,Creta,SX Premium Diesel,Comfort & Convenience,Adjustable Steering,Height & Reach
+Hyundai,Creta,SX Premium Diesel,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Hyundai,Creta,SX Premium Diesel,Comfort & Convenience,Ventilated Seats,YES
+Hyundai,Creta,SX Premium Diesel,Comfort & Convenience,Electric Adjustable Seats,Front Only
+Hyundai,Creta,SX Premium Diesel,Comfort & Convenience,Automatic Climate Control,YES
+Hyundai,Creta,SX Premium Diesel,Comfort & Convenience,Accessory Power Outlet,YES
+Hyundai,Creta,SX Premium Diesel,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Hyundai,Creta,SX Premium Diesel,Comfort & Convenience,Adjustable Headrest,YES
+Hyundai,Creta,SX Premium Diesel,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Hyundai,Creta,SX Premium Diesel,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Hyundai,Creta,SX Premium Diesel,Comfort & Convenience,Rear AC Vents,YES
+Hyundai,Creta,SX Premium Diesel,Comfort & Convenience,Cruise Control,YES
+Hyundai,Creta,SX Premium Diesel,Comfort & Convenience,Parking Sensors,Front & Rear
+Hyundai,Creta,SX Premium Diesel,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Hyundai,Creta,SX Premium Diesel,Comfort & Convenience,KeyLess Entry,YES
+Hyundai,Creta,SX Premium Diesel,Comfort & Convenience,Engine Start/Stop Button,YES
+Hyundai,Creta,SX Premium Diesel,Comfort & Convenience,Voice Commands,YES
+Hyundai,Creta,SX Premium Diesel,Comfort & Convenience,Paddle Shifters,NO
+Hyundai,Creta,SX Premium Diesel,Comfort & Convenience,USB Charger,Front & Rear
+Hyundai,Creta,SX Premium Diesel,Comfort & Convenience,Central Console Armrest,With Storage
+Hyundai,Creta,SX Premium Diesel,Comfort & Convenience,Drive Modes,NO
+Hyundai,Creta,SX Premium Diesel,Comfort & Convenience,Idle Start-Stop System,YES
+Hyundai,Creta,SX Premium Diesel,Comfort & Convenience,Additional Features,Sunglass holder
+Hyundai,Creta,SX Premium Diesel,Comfort & Convenience,Voice assisted sunroof,YES
+Hyundai,Creta,SX Premium Diesel,Comfort & Convenience,Power Windows,Front & Rear
+Hyundai,Creta,SX Premium Diesel,Comfort & Convenience,Cup Holders,Front & Rear
+Hyundai,Creta,SX Premium Diesel,Interior,Additional Features,Rear parcel tray
+Hyundai,Creta,SX Premium Diesel,Interior,Digital Cluster,YES
+Hyundai,Creta,SX Premium Diesel,Interior,Digital Cluster Size,10.25 Inch
+Hyundai,Creta,SX Premium Diesel,Interior,Upholstery,Leatherette
+Hyundai,Creta,SX Premium Diesel,Exterior,Rain Sensing Wiper,NO
+Hyundai,Creta,SX Premium Diesel,Exterior,Rear Window Wiper,YES
+Hyundai,Creta,SX Premium Diesel,Exterior,Rear Window Washer,YES
+Hyundai,Creta,SX Premium Diesel,Exterior,Rear Window Defogger,YES
+Hyundai,Creta,SX Premium Diesel,Exterior,Wheel Covers,NO
+Hyundai,Creta,SX Premium Diesel,Exterior,Alloy Wheels,YES
+Hyundai,Creta,SX Premium Diesel,Exterior,Rear Spoiler,YES
+Hyundai,Creta,SX Premium Diesel,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Hyundai,Creta,SX Premium Diesel,Exterior,Projector Headlamps,NO
+Hyundai,Creta,SX Premium Diesel,Exterior,Roof Rails,YES
+Hyundai,Creta,SX Premium Diesel,Exterior,Automatic Headlamps,YES
+Hyundai,Creta,SX Premium Diesel,Exterior,Antenna,Shark Fin
+Hyundai,Creta,SX Premium Diesel,Exterior,Sunroof,Panoramic
+Hyundai,Creta,SX Premium Diesel,Exterior,Puddle Lamps,YES
+Hyundai,Creta,SX Premium Diesel,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Hyundai,Creta,SX Premium Diesel,Exterior,Tyre Size,215/60 R17
+Hyundai,Creta,SX Premium Diesel,Exterior,Tyre Type,Radial Tubeless
+Hyundai,Creta,SX Premium Diesel,Exterior,LED DRLs,YES
+Hyundai,Creta,SX Premium Diesel,Exterior,LED Headlamps,YES
+Hyundai,Creta,SX Premium Diesel,Exterior,LED Taillights,YES
+Hyundai,Creta,SX Premium Diesel,Safety,Anti-lock Braking System (ABS),YES
+Hyundai,Creta,SX Premium Diesel,Safety,Brake Assist,YES
+Hyundai,Creta,SX Premium Diesel,Safety,Central Locking,YES
+Hyundai,Creta,SX Premium Diesel,Safety,Child Safety Locks,YES
+Hyundai,Creta,SX Premium Diesel,Safety,Anti-Theft Alarm,YES
+Hyundai,Creta,SX Premium Diesel,Safety,No. of Airbags,6
+Hyundai,Creta,SX Premium Diesel,Safety,Driver Airbag,YES
+Hyundai,Creta,SX Premium Diesel,Safety,Passenger Airbag,YES
+Hyundai,Creta,SX Premium Diesel,Safety,Side Airbag,YES
+Hyundai,Creta,SX Premium Diesel,Safety,Side Airbag-Rear,NO
+Hyundai,Creta,SX Premium Diesel,Safety,Day & Night Rear View Mirror,YES
+Hyundai,Creta,SX Premium Diesel,Safety,Electronic Brakeforce Distribution (EBD),YES
+Hyundai,Creta,SX Premium Diesel,Safety,Traction Control,YES
+Hyundai,Creta,SX Premium Diesel,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Hyundai,Creta,SX Premium Diesel,Safety,Engine Immobilizer,YES
+Hyundai,Creta,SX Premium Diesel,Safety,Electronic Stability Control (ESC),YES
+Hyundai,Creta,SX Premium Diesel,Safety,Rear Camera,With Guidedlines
+Hyundai,Creta,SX Premium Diesel,Safety,Anti-Pinch Power Windows,Driver's Window
+Hyundai,Creta,SX Premium Diesel,Safety,ISOFIX Child Seat Mounts,YES
+Hyundai,Creta,SX Premium Diesel,Safety,Hill Assist,YES
+Hyundai,Creta,SX Premium Diesel,Safety,360 View Camera,YES
+Hyundai,Creta,SX Premium Diesel,Entertainment & Communication,Radio,YES
+Hyundai,Creta,SX Premium Diesel,Entertainment & Communication,Wireless Phone Charging,YES
+Hyundai,Creta,SX Premium Diesel,Entertainment & Communication,Bluetooth Connectivity,YES
+Hyundai,Creta,SX Premium Diesel,Entertainment & Communication,Touchscreen,YES
+Hyundai,Creta,SX Premium Diesel,Entertainment & Communication,Touchscreen Size,10.25 inch
+Hyundai,Creta,SX Premium Diesel,Entertainment & Communication,Android Auto,YES
+Hyundai,Creta,SX Premium Diesel,Entertainment & Communication,Apple CarPlay,YES
+Hyundai,Creta,SX Premium Diesel,Entertainment & Communication,No. of Speakers,8
+Hyundai,Creta,SX Premium Diesel,Entertainment & Communication,Usb Ports,YES
+Hyundai,Creta,SX Premium Diesel,Entertainment & Communication,Inbuilt Apps,JioSaavan
+Hyundai,Creta,SX Premium Diesel,Entertainment & Communication,Additional Features,Wireless Android Auto & Apple CarPlay | Bose premium sound 8 speaker system
+Hyundai,Creta,SX Premium Diesel,Entertainment & Communication,Speakers,Front & Rear
+Hyundai,Creta,SX Premium Diesel,ADAS Feature,Forward Collision Warning,NO
+Hyundai,Creta,SX Premium Diesel,ADAS Feature,Blind Spot Collision Avoidance Assist,NO
+Hyundai,Creta,SX Premium Diesel,ADAS Feature,Lane Departure Warning,NO
+Hyundai,Creta,SX Premium Diesel,ADAS Feature,Lane Keep Assist,NO
+Hyundai,Creta,SX Premium Diesel,ADAS Feature,Driver Attention Warning,NO
+Hyundai,Creta,SX Premium Diesel,ADAS Feature,Adaptive Cruise Control,NO
+Hyundai,Creta,SX Premium Diesel,ADAS Feature,Leading Vehicle Departure Alert,NO
+Hyundai,Creta,SX Premium Diesel,ADAS Feature,Adaptive High Beam Assist,NO
+Hyundai,Creta,SX Premium Diesel,ADAS Feature,Rear Cross Traffic Alert,NO
+Hyundai,Creta,SX Premium Diesel,ADAS Feature,Rear Cross Traffic Collision-Avoidance Assist,NO
+Hyundai,Creta,SX Premium Diesel,ADAS Feature,Blind Spot Monitor,YES
+Hyundai,Creta,SX Premium Diesel,Advance Internet Feature,Live Location,YES
+Hyundai,Creta,SX Premium Diesel,Advance Internet Feature,Over the Air (OTA) Updates,YES
+Hyundai,Creta,SX Premium Diesel,Advance Internet Feature,Google / Alexa Connectivity,YES
+Hyundai,Creta,SX Premium Diesel,Advance Internet Feature,SOS Button,YES
+Hyundai,Creta,SX Premium Diesel,Advance Internet Feature,RSA,YES
+Hyundai,Creta,SX Premium Diesel,Advance Internet Feature,Remote Vehicle Ignition Start/Stop,YES
+Hyundai,Creta,SX Premium Diesel,Advance Internet Feature,Geo-fence Alert,YES

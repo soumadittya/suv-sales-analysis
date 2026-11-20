@@ -1,0 +1,133 @@
+company,model,variant,category,feature_name,feature_details
+Tata,Punch EV,Smart Plus 30,Engine & Transmission,Battery Capacity,30 kWh
+Tata,Punch EV,Smart Plus 30,Engine & Transmission,Motor Power,65 kW
+Tata,Punch EV,Smart Plus 30,Engine & Transmission,Motor Type,Permanent Magnet Synchronous
+Tata,Punch EV,Smart Plus 30,Engine & Transmission,Max Power,87bhp
+Tata,Punch EV,Smart Plus 30,Engine & Transmission,Max Torque,154Nm
+Tata,Punch EV,Smart Plus 30,Engine & Transmission,Range,260-275 km
+Tata,Punch EV,Smart Plus 30,Engine & Transmission,Battery Type,Lithium-ion
+Tata,Punch EV,Smart Plus 30,Engine & Transmission,Charging Time (A.C),11.9H-10-100%
+Tata,Punch EV,Smart Plus 30,Engine & Transmission,Charging Time (D.C),26 Min ( 20-80%)
+Tata,Punch EV,Smart Plus 30,Engine & Transmission,Regenerative Braking,YES
+Tata,Punch EV,Smart Plus 30,Engine & Transmission,Regenerative Braking Levels,4
+Tata,Punch EV,Smart Plus 30,Engine & Transmission,Charging Port,CCS-II
+Tata,Punch EV,Smart Plus 30,Engine & Transmission,Charging Options,7.2 kW AC | 3.3 KW AC | 65 kW DC
+Tata,Punch EV,Smart Plus 30,Engine & Transmission,Charger Type,CCS2 (DC)/Type 2 (AC)
+Tata,Punch EV,Smart Plus 30,Engine & Transmission,Charging Time (15 A Plug Point),11.9H (10-100%)
+Tata,Punch EV,Smart Plus 30,Engine & Transmission,Charging Time (7.2 kW AC Fast Charger),4.5 H (10-100%)
+Tata,Punch EV,Smart Plus 30,Engine & Transmission,Transmission Type,Automatic
+Tata,Punch EV,Smart Plus 30,Engine & Transmission,Gearbox,Single Speed
+Tata,Punch EV,Smart Plus 30,Engine & Transmission,Drive Type,FWD
+Tata,Punch EV,Smart Plus 30,Fuel & Performance,Fuel Type,Electric
+Tata,Punch EV,Smart Plus 30,Fuel & Performance,Emission Norm Compliance,ZEV
+Tata,Punch EV,Smart Plus 30,Fuel & Performance,Acceleration 0-100kmph,13.5 s
+Tata,Punch EV,Smart Plus 30,Charging,Charging Time,26 Min ( 10-80%)
+Tata,Punch EV,Smart Plus 30,Charging,Fast Charging,YES
+Tata,Punch EV,Smart Plus 30,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Tata,Punch EV,Smart Plus 30,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Tata,Punch EV,Smart Plus 30,"Suspension, Steering & Brakes",Steering Type,Electric
+Tata,Punch EV,Smart Plus 30,"Suspension, Steering & Brakes",Steering Column,Tilt
+Tata,Punch EV,Smart Plus 30,"Suspension, Steering & Brakes",Steering Gear Type,Electric
+Tata,Punch EV,Smart Plus 30,"Suspension, Steering & Brakes",Turning Radius,5
+Tata,Punch EV,Smart Plus 30,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Tata,Punch EV,Smart Plus 30,"Suspension, Steering & Brakes",Rear Brake Type,Drum
+Tata,Punch EV,Smart Plus 30,Dimensions & Capacity,Length,3880 mm
+Tata,Punch EV,Smart Plus 30,Dimensions & Capacity,Width,1742 mm
+Tata,Punch EV,Smart Plus 30,Dimensions & Capacity,Height,1622 mm
+Tata,Punch EV,Smart Plus 30,Dimensions & Capacity,Boot Space,366 Litres
+Tata,Punch EV,Smart Plus 30,Dimensions & Capacity,Seating Capacity,5
+Tata,Punch EV,Smart Plus 30,Dimensions & Capacity,Ground Clearance Unladen,195 mm
+Tata,Punch EV,Smart Plus 30,Dimensions & Capacity,Wheel Base,2445 mm
+Tata,Punch EV,Smart Plus 30,Comfort & Convenience,Boot Opening,Electronic
+Tata,Punch EV,Smart Plus 30,Comfort & Convenience,Power Steering,YES
+Tata,Punch EV,Smart Plus 30,Comfort & Convenience,Air Conditioner,YES
+Tata,Punch EV,Smart Plus 30,Comfort & Convenience,Heater,YES
+Tata,Punch EV,Smart Plus 30,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Tata,Punch EV,Smart Plus 30,Comfort & Convenience,Ventilated Seats,NO
+Tata,Punch EV,Smart Plus 30,Comfort & Convenience,Automatic Climate Control,YES
+Tata,Punch EV,Smart Plus 30,Comfort & Convenience,Air Quality Control,NO
+Tata,Punch EV,Smart Plus 30,Comfort & Convenience,Accessory Power Outlet,YES
+Tata,Punch EV,Smart Plus 30,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Tata,Punch EV,Smart Plus 30,Comfort & Convenience,Adjustable Headrest,YES
+Tata,Punch EV,Smart Plus 30,Comfort & Convenience,Rear Seat Centre Arm Rest,NO
+Tata,Punch EV,Smart Plus 30,Comfort & Convenience,Cruise Control,NO
+Tata,Punch EV,Smart Plus 30,Comfort & Convenience,Parking Sensors,Rear
+Tata,Punch EV,Smart Plus 30,Comfort & Convenience,KeyLess Entry,YES
+Tata,Punch EV,Smart Plus 30,Comfort & Convenience,Engine Start/Stop Button,NO
+Tata,Punch EV,Smart Plus 30,Comfort & Convenience,Voice Commands,NO
+Tata,Punch EV,Smart Plus 30,Comfort & Convenience,Paddle Shifters,YES
+Tata,Punch EV,Smart Plus 30,Comfort & Convenience,USB Charger,Front
+Tata,Punch EV,Smart Plus 30,Comfort & Convenience,Central Console Armrest,NO
+Tata,Punch EV,Smart Plus 30,Comfort & Convenience,Drive Modes,2
+Tata,Punch EV,Smart Plus 30,Comfort & Convenience,Follow Me Home Headlamps,NO
+Tata,Punch EV,Smart Plus 30,Comfort & Convenience,Voice assisted sunroof,NO
+Tata,Punch EV,Smart Plus 30,Comfort & Convenience,Drive Mode Types,City | Sport
+Tata,Punch EV,Smart Plus 30,Comfort & Convenience,Power Windows,Front & Rear
+Tata,Punch EV,Smart Plus 30,Interior,Glove Box,YES
+Tata,Punch EV,Smart Plus 30,Interior,Digital Cluster,YES
+Tata,Punch EV,Smart Plus 30,Interior,Digital Cluster Size,4
+Tata,Punch EV,Smart Plus 30,Interior,Upholstery,Fabric
+Tata,Punch EV,Smart Plus 30,Exterior,Adjustable Headlamps,YES
+Tata,Punch EV,Smart Plus 30,Exterior,Rain Sensing Wiper,NO
+Tata,Punch EV,Smart Plus 30,Exterior,Rear Window Wiper,NO
+Tata,Punch EV,Smart Plus 30,Exterior,Rear Window Defogger,NO
+Tata,Punch EV,Smart Plus 30,Exterior,Rear Spoiler,YES
+Tata,Punch EV,Smart Plus 30,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Tata,Punch EV,Smart Plus 30,Exterior,Cornering Foglamps,NO
+Tata,Punch EV,Smart Plus 30,Exterior,Roof Rails,NO
+Tata,Punch EV,Smart Plus 30,Exterior,Automatic Headlamps,NO
+Tata,Punch EV,Smart Plus 30,Exterior,Fog Lights,NO
+Tata,Punch EV,Smart Plus 30,Exterior,Antenna,Shark Fin
+Tata,Punch EV,Smart Plus 30,Exterior,Sunroof,NO
+Tata,Punch EV,Smart Plus 30,Exterior,Outside Rear View Mirror (ORVM),Manual
+Tata,Punch EV,Smart Plus 30,Exterior,Wheels Type,Steel without Cover
+Tata,Punch EV,Smart Plus 30,Exterior,Tyre Size,185/70 R15
+Tata,Punch EV,Smart Plus 30,Exterior,Tyre Type,Radial Tubeless
+Tata,Punch EV,Smart Plus 30,Exterior,Wheel Size,15 Inch
+Tata,Punch EV,Smart Plus 30,Exterior,LED DRLs,YES
+Tata,Punch EV,Smart Plus 30,Exterior,LED Headlamps,NO
+Tata,Punch EV,Smart Plus 30,Exterior,LED Taillights,NO
+Tata,Punch EV,Smart Plus 30,Exterior,LED Fog Lamps,NO
+Tata,Punch EV,Smart Plus 30,Safety,Anti-lock Braking System (ABS),YES
+Tata,Punch EV,Smart Plus 30,Safety,Central Locking,YES
+Tata,Punch EV,Smart Plus 30,Safety,Child Safety Locks,YES
+Tata,Punch EV,Smart Plus 30,Safety,Anti-Theft Alarm,YES
+Tata,Punch EV,Smart Plus 30,Safety,No. of Airbags,6
+Tata,Punch EV,Smart Plus 30,Safety,Driver Airbag,YES
+Tata,Punch EV,Smart Plus 30,Safety,Passenger Airbag,YES
+Tata,Punch EV,Smart Plus 30,Safety,Side Airbag,YES
+Tata,Punch EV,Smart Plus 30,Safety,Day & Night Rear View Mirror,YES
+Tata,Punch EV,Smart Plus 30,Safety,Electronic Brakeforce Distribution (EBD),YES
+Tata,Punch EV,Smart Plus 30,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Tata,Punch EV,Smart Plus 30,Safety,Electronic Stability Control (ESC),YES
+Tata,Punch EV,Smart Plus 30,Safety,Rear Camera,NO
+Tata,Punch EV,Smart Plus 30,Safety,ISOFIX Child Seat Mounts,YES
+Tata,Punch EV,Smart Plus 30,Safety,Hill Descent Control,NO
+Tata,Punch EV,Smart Plus 30,Safety,Hill Assist,YES
+Tata,Punch EV,Smart Plus 30,Safety,360 View Camera,NO
+Tata,Punch EV,Smart Plus 30,Safety,Bharat NCAP Safety Rating,5 Star
+Tata,Punch EV,Smart Plus 30,Safety,Bharat NCAP Child Safety Rating,5 Star
+Tata,Punch EV,Smart Plus 30,Entertainment & Communication,Radio,YES
+Tata,Punch EV,Smart Plus 30,Entertainment & Communication,Wireless Phone Charging,NO
+Tata,Punch EV,Smart Plus 30,Entertainment & Communication,Bluetooth Connectivity,YES
+Tata,Punch EV,Smart Plus 30,Entertainment & Communication,Touchscreen,YES
+Tata,Punch EV,Smart Plus 30,Entertainment & Communication,Touchscreen Size,8 inch
+Tata,Punch EV,Smart Plus 30,Entertainment & Communication,Android Auto,YES
+Tata,Punch EV,Smart Plus 30,Entertainment & Communication,Apple CarPlay,YES
+Tata,Punch EV,Smart Plus 30,Entertainment & Communication,No. of Speakers,4
+Tata,Punch EV,Smart Plus 30,Entertainment & Communication,Usb Ports,YES
+Tata,Punch EV,Smart Plus 30,Entertainment & Communication,Speakers,Front & Rear
+Tata,Punch EV,Smart Plus 30,ADAS Feature,Blind Spot Monitor,NO
+Tata,Punch EV,Smart Plus 30,Advance Internet Feature,Live Location,NO
+Tata,Punch EV,Smart Plus 30,Advance Internet Feature,Remote Immobiliser,YES
+Tata,Punch EV,Smart Plus 30,Advance Internet Feature,Remote Vehicle Status Check,YES
+Tata,Punch EV,Smart Plus 30,Advance Internet Feature,Inbuilt Assistant,NO
+Tata,Punch EV,Smart Plus 30,Advance Internet Feature,Navigation with Live Traffic,NO
+Tata,Punch EV,Smart Plus 30,Advance Internet Feature,Over the Air (OTA) Updates,YES
+Tata,Punch EV,Smart Plus 30,Advance Internet Feature,Google / Alexa Connectivity,NO
+Tata,Punch EV,Smart Plus 30,Advance Internet Feature,Crash Notification,YES
+Tata,Punch EV,Smart Plus 30,Advance Internet Feature,In Car Remote Control App,YES
+Tata,Punch EV,Smart Plus 30,Advance Internet Feature,Smartwatch App,YES
+Tata,Punch EV,Smart Plus 30,Advance Internet Feature,Remote Door Lock/Unlock,YES
+Tata,Punch EV,Smart Plus 30,Advance Internet Feature,SOS / Emergency Assistance,NO
+Tata,Punch EV,Smart Plus 30,Advance Internet Feature,Inbuilt APPs,iRA.ev

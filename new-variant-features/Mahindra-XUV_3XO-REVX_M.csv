@@ -1,0 +1,155 @@
+company,model,variant,category,feature_name,feature_details
+Mahindra,XUV 3XO,REVX M,Engine & Transmission,Engine Type,mStallion (TCMPFi) engine
+Mahindra,XUV 3XO,REVX M,Engine & Transmission,Displacement,1197 cc
+Mahindra,XUV 3XO,REVX M,Engine & Transmission,Max Power,109.96bhp@5000rpm
+Mahindra,XUV 3XO,REVX M,Engine & Transmission,Max Torque,200Nm@1500-3500rpm
+Mahindra,XUV 3XO,REVX M,Engine & Transmission,No. of Cylinders,3
+Mahindra,XUV 3XO,REVX M,Engine & Transmission,Valves Per Cylinder,4
+Mahindra,XUV 3XO,REVX M,Engine & Transmission,Turbo Charger,YES
+Mahindra,XUV 3XO,REVX M,Engine & Transmission,Transmission Type,Manual
+Mahindra,XUV 3XO,REVX M,Engine & Transmission,Gearbox,6-Speed
+Mahindra,XUV 3XO,REVX M,Engine & Transmission,Drive Type,FWD
+Mahindra,XUV 3XO,REVX M,Fuel & Performance,Fuel Type,Petrol
+Mahindra,XUV 3XO,REVX M,Fuel & Performance,Petrol Mileage ARAI,18.89 kmpl
+Mahindra,XUV 3XO,REVX M,Fuel & Performance,Petrol Fuel Tank Capacity,42 Litres
+Mahindra,XUV 3XO,REVX M,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Mahindra,XUV 3XO,REVX M,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Mahindra,XUV 3XO,REVX M,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Mahindra,XUV 3XO,REVX M,"Suspension, Steering & Brakes",Steering Type,Electric
+Mahindra,XUV 3XO,REVX M,"Suspension, Steering & Brakes",Turning Radius,5.3 m
+Mahindra,XUV 3XO,REVX M,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Mahindra,XUV 3XO,REVX M,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Mahindra,XUV 3XO,REVX M,Dimensions & Capacity,Length,3990 mm
+Mahindra,XUV 3XO,REVX M,Dimensions & Capacity,Width,1821 mm
+Mahindra,XUV 3XO,REVX M,Dimensions & Capacity,Height,1647 mm
+Mahindra,XUV 3XO,REVX M,Dimensions & Capacity,Boot Space,364 Litres
+Mahindra,XUV 3XO,REVX M,Dimensions & Capacity,Seating Capacity,5
+Mahindra,XUV 3XO,REVX M,Dimensions & Capacity,Wheel Base,2600 mm
+Mahindra,XUV 3XO,REVX M,Comfort & Convenience,Boot Opening,Manual
+Mahindra,XUV 3XO,REVX M,Comfort & Convenience,Power Steering,YES
+Mahindra,XUV 3XO,REVX M,Comfort & Convenience,Air Conditioner,YES
+Mahindra,XUV 3XO,REVX M,Comfort & Convenience,Heater,YES
+Mahindra,XUV 3XO,REVX M,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Mahindra,XUV 3XO,REVX M,Comfort & Convenience,Ventilated Seats,NO
+Mahindra,XUV 3XO,REVX M,Comfort & Convenience,Electric Adjustable Seats,NO
+Mahindra,XUV 3XO,REVX M,Comfort & Convenience,Automatic Climate Control,NO
+Mahindra,XUV 3XO,REVX M,Comfort & Convenience,Accessory Power Outlet,YES
+Mahindra,XUV 3XO,REVX M,Comfort & Convenience,Adjustable Headrest,YES
+Mahindra,XUV 3XO,REVX M,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Mahindra,XUV 3XO,REVX M,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Mahindra,XUV 3XO,REVX M,Comfort & Convenience,Rear AC Vents,YES
+Mahindra,XUV 3XO,REVX M,Comfort & Convenience,Cruise Control,NO
+Mahindra,XUV 3XO,REVX M,Comfort & Convenience,Parking Sensors,Rear
+Mahindra,XUV 3XO,REVX M,Comfort & Convenience,Real-Time Vehicle Tracking,NO
+Mahindra,XUV 3XO,REVX M,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Mahindra,XUV 3XO,REVX M,Comfort & Convenience,KeyLess Entry,YES
+Mahindra,XUV 3XO,REVX M,Comfort & Convenience,Engine Start/Stop Button,NO
+Mahindra,XUV 3XO,REVX M,Comfort & Convenience,Paddle Shifters,NO
+Mahindra,XUV 3XO,REVX M,Comfort & Convenience,USB Charger,Front & Rear
+Mahindra,XUV 3XO,REVX M,Comfort & Convenience,Central Console Armrest,With Storage
+Mahindra,XUV 3XO,REVX M,Comfort & Convenience,Glove Box light,NO
+Mahindra,XUV 3XO,REVX M,Comfort & Convenience,Idle Start-Stop System,YES
+Mahindra,XUV 3XO,REVX M,Comfort & Convenience,Follow Me Home Headlamps,YES
+Mahindra,XUV 3XO,REVX M,Comfort & Convenience,Power Windows,Front & Rear
+Mahindra,XUV 3XO,REVX M,Comfort & Convenience,Cup Holders,Front & Rear
+Mahindra,XUV 3XO,REVX M,Interior,Leather Wrapped Steering Wheel,NO
+Mahindra,XUV 3XO,REVX M,Interior,Leather wrap gear-shift selector,NO
+Mahindra,XUV 3XO,REVX M,Interior,Glove Box,YES
+Mahindra,XUV 3XO,REVX M,Interior,Folding Table in The Rear,NO
+Mahindra,XUV 3XO,REVX M,Interior,Digital Cluster,NO
+Mahindra,XUV 3XO,REVX M,Interior,Digital Cluster Size,NO
+Mahindra,XUV 3XO,REVX M,Interior,Upholstery,Leatherette
+Mahindra,XUV 3XO,REVX M,Exterior,Adjustable Headlamps,YES
+Mahindra,XUV 3XO,REVX M,Exterior,Headlamp Washers,NO
+Mahindra,XUV 3XO,REVX M,Exterior,Rear Window Wiper,NO
+Mahindra,XUV 3XO,REVX M,Exterior,Rear Window Washer,NO
+Mahindra,XUV 3XO,REVX M,Exterior,Rear Window Defogger,NO
+Mahindra,XUV 3XO,REVX M,Exterior,Rear Spoiler,NO
+Mahindra,XUV 3XO,REVX M,Exterior,Side Stepper,NO
+Mahindra,XUV 3XO,REVX M,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Mahindra,XUV 3XO,REVX M,Exterior,Projector Headlamps,YES
+Mahindra,XUV 3XO,REVX M,Exterior,Halogen Headlamps,YES
+Mahindra,XUV 3XO,REVX M,Exterior,Cornering Foglamps,NO
+Mahindra,XUV 3XO,REVX M,Exterior,Roof Rails,NO
+Mahindra,XUV 3XO,REVX M,Exterior,Fog Lights,NO
+Mahindra,XUV 3XO,REVX M,Exterior,Convertible Top,NO
+Mahindra,XUV 3XO,REVX M,Exterior,Sunroof,NO
+Mahindra,XUV 3XO,REVX M,Exterior,Heated Outside Rear View Mirror,NO
+Mahindra,XUV 3XO,REVX M,Exterior,Outside Rear View Mirror (ORVM),Powered
+Mahindra,XUV 3XO,REVX M,Exterior,Wheels Type,Steel with Cover
+Mahindra,XUV 3XO,REVX M,Exterior,Tyre Size,205/65 R16
+Mahindra,XUV 3XO,REVX M,Exterior,Tyre Type,"Tubeless,Radial"
+Mahindra,XUV 3XO,REVX M,Exterior,Wheel Size,16 Inch
+Mahindra,XUV 3XO,REVX M,Exterior,LED DRLs,YES
+Mahindra,XUV 3XO,REVX M,Exterior,LED Headlamps,NO
+Mahindra,XUV 3XO,REVX M,Exterior,LED Taillights,YES
+Mahindra,XUV 3XO,REVX M,Exterior,LED Fog Lamps,NO
+Mahindra,XUV 3XO,REVX M,Exterior,Additional Features,Electronic Trumpet Horn
+Mahindra,XUV 3XO,REVX M,Safety,Anti-lock Braking System (ABS),YES
+Mahindra,XUV 3XO,REVX M,Safety,Brake Assist,YES
+Mahindra,XUV 3XO,REVX M,Safety,Central Locking,YES
+Mahindra,XUV 3XO,REVX M,Safety,Child Safety Locks,YES
+Mahindra,XUV 3XO,REVX M,Safety,Anti-Theft Alarm,YES
+Mahindra,XUV 3XO,REVX M,Safety,No. of Airbags,6
+Mahindra,XUV 3XO,REVX M,Safety,Driver Airbag,YES
+Mahindra,XUV 3XO,REVX M,Safety,Passenger Airbag,YES
+Mahindra,XUV 3XO,REVX M,Safety,Side Airbag,YES
+Mahindra,XUV 3XO,REVX M,Safety,Side Airbag-Rear,NO
+Mahindra,XUV 3XO,REVX M,Safety,Day & Night Rear View Mirror,YES
+Mahindra,XUV 3XO,REVX M,Safety,Electronic Brakeforce Distribution (EBD),YES
+Mahindra,XUV 3XO,REVX M,Safety,Traction Control,YES
+Mahindra,XUV 3XO,REVX M,Safety,Tyre Pressure Monitoring System (TPMS),NO
+Mahindra,XUV 3XO,REVX M,Safety,Engine Immobilizer,YES
+Mahindra,XUV 3XO,REVX M,Safety,Electronic Stability Control (ESC),YES
+Mahindra,XUV 3XO,REVX M,Safety,Rear Camera,NO
+Mahindra,XUV 3XO,REVX M,Safety,ISOFIX Child Seat Mounts,YES
+Mahindra,XUV 3XO,REVX M,Safety,Heads-Up Display (HUD),NO
+Mahindra,XUV 3XO,REVX M,Safety,360 View Camera,NO
+Mahindra,XUV 3XO,REVX M,Safety,Global NCAP Safety Rating,5 Star
+Mahindra,XUV 3XO,REVX M,Safety,Global NCAP Child Safety Rating,5 Star
+Mahindra,XUV 3XO,REVX M,Safety,Bharat NCAP Safety Rating,5 Star
+Mahindra,XUV 3XO,REVX M,Safety,Bharat NCAP Child Safety Rating,5 Star
+Mahindra,XUV 3XO,REVX M,Entertainment & Communication,Radio,YES
+Mahindra,XUV 3XO,REVX M,Entertainment & Communication,Wireless Phone Charging,NO
+Mahindra,XUV 3XO,REVX M,Entertainment & Communication,Bluetooth Connectivity,YES
+Mahindra,XUV 3XO,REVX M,Entertainment & Communication,Touchscreen,YES
+Mahindra,XUV 3XO,REVX M,Entertainment & Communication,Touchscreen Size,10.25 inch
+Mahindra,XUV 3XO,REVX M,Entertainment & Communication,Android Auto,NO
+Mahindra,XUV 3XO,REVX M,Entertainment & Communication,Apple CarPlay,NO
+Mahindra,XUV 3XO,REVX M,Entertainment & Communication,No. of Speakers,4
+Mahindra,XUV 3XO,REVX M,Entertainment & Communication,Usb Ports,YES
+Mahindra,XUV 3XO,REVX M,Entertainment & Communication,Speakers,Front & Rear
+Mahindra,XUV 3XO,REVX M,ADAS Feature,Forward Collision Warning,NO
+Mahindra,XUV 3XO,REVX M,ADAS Feature,Automatic Emergency Braking,NO
+Mahindra,XUV 3XO,REVX M,ADAS Feature,Traffic Sign Recognition,NO
+Mahindra,XUV 3XO,REVX M,ADAS Feature,Lane Departure Warning,NO
+Mahindra,XUV 3XO,REVX M,ADAS Feature,Lane Keep Assist,NO
+Mahindra,XUV 3XO,REVX M,ADAS Feature,Adaptive Cruise Control,NO
+Mahindra,XUV 3XO,REVX M,ADAS Feature,Adaptive High Beam Assist,NO
+Mahindra,XUV 3XO,REVX M,ADAS Feature,Blind Spot Monitor,NO
+Mahindra,XUV 3XO,REVX M,ADAS Feature,Autonomous Parking,NO
+Mahindra,XUV 3XO,REVX M,Advance Internet Feature,Live Location,NO
+Mahindra,XUV 3XO,REVX M,Advance Internet Feature,Remote Immobiliser,NO
+Mahindra,XUV 3XO,REVX M,Advance Internet Feature,Unauthorised Vehicle entry,NO
+Mahindra,XUV 3XO,REVX M,Advance Internet Feature,Engine Start Alarm,NO
+Mahindra,XUV 3XO,REVX M,Advance Internet Feature,Remote Vehicle Status Check,NO
+Mahindra,XUV 3XO,REVX M,Advance Internet Feature,PUC Expiry,NO
+Mahindra,XUV 3XO,REVX M,Advance Internet Feature,Insurance Expiry,NO
+Mahindra,XUV 3XO,REVX M,Advance Internet Feature,E-Manual,NO
+Mahindra,XUV 3XO,REVX M,Advance Internet Feature,Inbuilt Assistant,NO
+Mahindra,XUV 3XO,REVX M,Advance Internet Feature,Navigation with Live Traffic,NO
+Mahindra,XUV 3XO,REVX M,Advance Internet Feature,Send POI to Vehicle From App,NO
+Mahindra,XUV 3XO,REVX M,Advance Internet Feature,Live Weather,NO
+Mahindra,XUV 3XO,REVX M,Advance Internet Feature,E-Call & I-Call,NO
+Mahindra,XUV 3XO,REVX M,Advance Internet Feature,Over the Air (OTA) Updates,NO
+Mahindra,XUV 3XO,REVX M,Advance Internet Feature,Google / Alexa Connectivity,NO
+Mahindra,XUV 3XO,REVX M,Advance Internet Feature,Save Route/Place,NO
+Mahindra,XUV 3XO,REVX M,Advance Internet Feature,SOS Button,NO
+Mahindra,XUV 3XO,REVX M,Advance Internet Feature,RSA,NO
+Mahindra,XUV 3XO,REVX M,Advance Internet Feature,Over Speeding Alert,NO
+Mahindra,XUV 3XO,REVX M,Advance Internet Feature,Tow Away Alert,NO
+Mahindra,XUV 3XO,REVX M,Advance Internet Feature,Valet Mode,NO
+Mahindra,XUV 3XO,REVX M,Advance Internet Feature,Remote AC On/Off,NO
+Mahindra,XUV 3XO,REVX M,Advance Internet Feature,Remote Door Lock/Unlock,NO
+Mahindra,XUV 3XO,REVX M,Advance Internet Feature,Remote Vehicle Ignition Start/Stop,NO
+Mahindra,XUV 3XO,REVX M,Advance Internet Feature,Geo-fence Alert,NO

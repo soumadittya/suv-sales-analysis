@@ -1,0 +1,104 @@
+company,model,variant,category,feature_name,feature_details
+Skoda,Kodiaq,Sportline,Engine & Transmission,Engine Type,Turbocharged Petrol
+Skoda,Kodiaq,Sportline,Engine & Transmission,Displacement,1984 cc
+Skoda,Kodiaq,Sportline,Engine & Transmission,Max Power,201bhp@4500 - 6000rpm
+Skoda,Kodiaq,Sportline,Engine & Transmission,Max Torque,320Nm@1500-4400rpm
+Skoda,Kodiaq,Sportline,Engine & Transmission,No. of Cylinders,4
+Skoda,Kodiaq,Sportline,Engine & Transmission,Valves Per Cylinder,4
+Skoda,Kodiaq,Sportline,Engine & Transmission,Turbo Charger,YES
+Skoda,Kodiaq,Sportline,Engine & Transmission,Transmission Type,Automatic
+Skoda,Kodiaq,Sportline,Engine & Transmission,Gearbox,7-speed DSG
+Skoda,Kodiaq,Sportline,Engine & Transmission,Drive Type,4x4
+Skoda,Kodiaq,Sportline,Fuel & Performance,Fuel Type,Petrol
+Skoda,Kodiaq,Sportline,Fuel & Performance,Petrol Mileage ARAI,14.86 kmpl
+Skoda,Kodiaq,Sportline,Fuel & Performance,Petrol Fuel Tank Capacity,62 Litres
+Skoda,Kodiaq,Sportline,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Skoda,Kodiaq,Sportline,"Suspension, Steering & Brakes",Rear Suspension,Multi-link suspension
+Skoda,Kodiaq,Sportline,"Suspension, Steering & Brakes",Steering Type,Electric
+Skoda,Kodiaq,Sportline,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Skoda,Kodiaq,Sportline,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Skoda,Kodiaq,Sportline,"Suspension, Steering & Brakes",Boot Space Rear Seat Folding,786 Litres
+Skoda,Kodiaq,Sportline,Dimensions & Capacity,Length,4758 mm
+Skoda,Kodiaq,Sportline,Dimensions & Capacity,Width,1864 mm
+Skoda,Kodiaq,Sportline,Dimensions & Capacity,Height,1679 mm
+Skoda,Kodiaq,Sportline,Dimensions & Capacity,Boot Space,281 Litres
+Skoda,Kodiaq,Sportline,Dimensions & Capacity,Seating Capacity,7
+Skoda,Kodiaq,Sportline,Dimensions & Capacity,Ground Clearance (Laden),155 mm
+Skoda,Kodiaq,Sportline,Dimensions & Capacity,Wheel Base,2791 mm
+Skoda,Kodiaq,Sportline,Dimensions & Capacity,Kerb Weight,1820 kg
+Skoda,Kodiaq,Sportline,Dimensions & Capacity,Gross Weight,2420 kg
+Skoda,Kodiaq,Sportline,Comfort & Convenience,Power Steering,YES
+Skoda,Kodiaq,Sportline,Comfort & Convenience,Air Conditioner,YES
+Skoda,Kodiaq,Sportline,Comfort & Convenience,Heater,YES
+Skoda,Kodiaq,Sportline,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Skoda,Kodiaq,Sportline,Comfort & Convenience,Ventilated Seats,YES
+Skoda,Kodiaq,Sportline,Comfort & Convenience,Electric Adjustable Seats,Front
+Skoda,Kodiaq,Sportline,Comfort & Convenience,Automatic Climate Control,YES
+Skoda,Kodiaq,Sportline,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Skoda,Kodiaq,Sportline,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Skoda,Kodiaq,Sportline,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Skoda,Kodiaq,Sportline,Comfort & Convenience,Cruise Control,YES
+Skoda,Kodiaq,Sportline,Comfort & Convenience,Parking Sensors,Front & Rear
+Skoda,Kodiaq,Sportline,Comfort & Convenience,Foldable Rear Seat,40:20:40 Split
+Skoda,Kodiaq,Sportline,Comfort & Convenience,KeyLess Entry,YES
+Skoda,Kodiaq,Sportline,Comfort & Convenience,Paddle Shifters,YES
+Skoda,Kodiaq,Sportline,Comfort & Convenience,USB Charger,Front & Rear
+Skoda,Kodiaq,Sportline,Comfort & Convenience,Central Console Armrest,With Storage
+Skoda,Kodiaq,Sportline,Comfort & Convenience,Power Windows,Front & Rear
+Skoda,Kodiaq,Sportline,Comfort & Convenience,Cup Holders,Front & Rear
+Skoda,Kodiaq,Sportline,Comfort & Convenience,Heated Seats,Front Only
+Skoda,Kodiaq,Sportline,Interior,Leather Wrapped Steering Wheel,YES
+Skoda,Kodiaq,Sportline,Interior,Glove Box,YES
+Skoda,Kodiaq,Sportline,Interior,Lighting,Ambient light
+Skoda,Kodiaq,Sportline,Interior,Additional Features,IRVM with auto-dimming
+Skoda,Kodiaq,Sportline,Interior,Digital Cluster,YES
+Skoda,Kodiaq,Sportline,Interior,Digital Cluster Size,10.24
+Skoda,Kodiaq,Sportline,Interior,Upholstery,Leatherette
+Skoda,Kodiaq,Sportline,Exterior,Alloy Wheels,YES
+Skoda,Kodiaq,Sportline,Exterior,Tinted Glass,YES
+Skoda,Kodiaq,Sportline,Exterior,Rear Spoiler,YES
+Skoda,Kodiaq,Sportline,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Skoda,Kodiaq,Sportline,Exterior,Roof Rails,YES
+Skoda,Kodiaq,Sportline,Exterior,Sunroof,Panoramic
+Skoda,Kodiaq,Sportline,Exterior,Heated Outside Rear View Mirror,YES
+Skoda,Kodiaq,Sportline,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Skoda,Kodiaq,Sportline,Exterior,Tyre Size,235/55 R18
+Skoda,Kodiaq,Sportline,Exterior,Tyre Type,"Tubeless,Radial"
+Skoda,Kodiaq,Sportline,Exterior,LED Headlamps,YES
+Skoda,Kodiaq,Sportline,Safety,Anti-lock Braking System (ABS),YES
+Skoda,Kodiaq,Sportline,Safety,Brake Assist,YES
+Skoda,Kodiaq,Sportline,Safety,Central Locking,YES
+Skoda,Kodiaq,Sportline,Safety,Child Safety Locks,YES
+Skoda,Kodiaq,Sportline,Safety,Anti-Theft Alarm,YES
+Skoda,Kodiaq,Sportline,Safety,No. of Airbags,9
+Skoda,Kodiaq,Sportline,Safety,Driver Airbag,YES
+Skoda,Kodiaq,Sportline,Safety,Passenger Airbag,YES
+Skoda,Kodiaq,Sportline,Safety,Side Airbag,YES
+Skoda,Kodiaq,Sportline,Safety,Side Airbag-Rear,YES
+Skoda,Kodiaq,Sportline,Safety,Day & Night Rear View Mirror,YES
+Skoda,Kodiaq,Sportline,Safety,Electronic Brakeforce Distribution (EBD),YES
+Skoda,Kodiaq,Sportline,Safety,Traction Control,YES
+Skoda,Kodiaq,Sportline,Safety,Electronic Stability Control (ESC),YES
+Skoda,Kodiaq,Sportline,Safety,Rear Camera,With Guidedlines
+Skoda,Kodiaq,Sportline,Safety,Anti-Theft Device,YES
+Skoda,Kodiaq,Sportline,Safety,Anti-Pinch Power Windows,All Windows
+Skoda,Kodiaq,Sportline,Safety,ISOFIX Child Seat Mounts,YES
+Skoda,Kodiaq,Sportline,Safety,360 View Camera,NO
+Skoda,Kodiaq,Sportline,Entertainment & Communication,Wireless Phone Charging,YES
+Skoda,Kodiaq,Sportline,Entertainment & Communication,Bluetooth Connectivity,YES
+Skoda,Kodiaq,Sportline,Entertainment & Communication,Touchscreen,YES
+Skoda,Kodiaq,Sportline,Entertainment & Communication,Touchscreen Size,13 inch
+Skoda,Kodiaq,Sportline,Entertainment & Communication,Android Auto,YES
+Skoda,Kodiaq,Sportline,Entertainment & Communication,Apple CarPlay,YES
+Skoda,Kodiaq,Sportline,Entertainment & Communication,No. of Speakers,13
+Skoda,Kodiaq,Sportline,Entertainment & Communication,Inbuilt Apps,MyŠkoda Plus
+Skoda,Kodiaq,Sportline,Entertainment & Communication,Subwoofer,1
+Skoda,Kodiaq,Sportline,Entertainment & Communication,Additional Features,Wireless Android Auto & Apple CarPlay Compatibility
+Skoda,Kodiaq,Sportline,Entertainment & Communication,Speakers,Front & Rear
+Skoda,Kodiaq,Sportline,ADAS Feature,Forward Collision Warning,YES
+Skoda,Kodiaq,Sportline,ADAS Feature,Automatic Emergency Braking,YES
+Skoda,Kodiaq,Sportline,ADAS Feature,Blind Spot Collision Avoidance Assist,YES
+Skoda,Kodiaq,Sportline,ADAS Feature,Lane Keep Assist,YES
+Skoda,Kodiaq,Sportline,ADAS Feature,Adaptive Cruise Control,YES
+Skoda,Kodiaq,Sportline,ADAS Feature,Adaptive High Beam Assist,YES
+Skoda,Kodiaq,Sportline,ADAS Feature,Rear Cross Traffic Alert,YES

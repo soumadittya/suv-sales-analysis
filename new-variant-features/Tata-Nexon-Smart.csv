@@ -1,0 +1,129 @@
+company,model,variant,category,feature_name,feature_details
+Tata,Nexon,Smart,Engine & Transmission,Engine Type,1.2L Turbocharged Revotron
+Tata,Nexon,Smart,Engine & Transmission,Displacement,1199 cc
+Tata,Nexon,Smart,Engine & Transmission,Max Power,118.27bhp@5500rpm
+Tata,Nexon,Smart,Engine & Transmission,Max Torque,170Nm@1750-4000rpm
+Tata,Nexon,Smart,Engine & Transmission,No. of Cylinders,3
+Tata,Nexon,Smart,Engine & Transmission,Valves Per Cylinder,4
+Tata,Nexon,Smart,Engine & Transmission,Turbo Charger,YES
+Tata,Nexon,Smart,Engine & Transmission,Transmission Type,Manual
+Tata,Nexon,Smart,Engine & Transmission,Gearbox,5-Speed
+Tata,Nexon,Smart,Engine & Transmission,Drive Type,FWD
+Tata,Nexon,Smart,Fuel & Performance,Fuel Type,Petrol
+Tata,Nexon,Smart,Fuel & Performance,Petrol Mileage ARAI,17.44 kmpl
+Tata,Nexon,Smart,Fuel & Performance,Petrol Fuel Tank Capacity,44 Litres
+Tata,Nexon,Smart,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Tata,Nexon,Smart,Fuel & Performance,Top Speed,180 kmph
+Tata,Nexon,Smart,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Tata,Nexon,Smart,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Tata,Nexon,Smart,"Suspension, Steering & Brakes",Steering Type,Electric
+Tata,Nexon,Smart,"Suspension, Steering & Brakes",Steering Column,Tilt
+Tata,Nexon,Smart,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Tata,Nexon,Smart,"Suspension, Steering & Brakes",Rear Brake Type,Drum
+Tata,Nexon,Smart,Dimensions & Capacity,Length,3995 mm
+Tata,Nexon,Smart,Dimensions & Capacity,Width,1804 mm
+Tata,Nexon,Smart,Dimensions & Capacity,Height,1620 mm
+Tata,Nexon,Smart,Dimensions & Capacity,Boot Space,382 Litres
+Tata,Nexon,Smart,Dimensions & Capacity,Seating Capacity,5
+Tata,Nexon,Smart,Dimensions & Capacity,Ground Clearance Unladen,208 mm
+Tata,Nexon,Smart,Dimensions & Capacity,Wheel Base,2498 mm
+Tata,Nexon,Smart,Comfort & Convenience,Power Steering,YES
+Tata,Nexon,Smart,Comfort & Convenience,Air Conditioner,YES
+Tata,Nexon,Smart,Comfort & Convenience,Heater,YES
+Tata,Nexon,Smart,Comfort & Convenience,Adjustable Steering,Height only
+Tata,Nexon,Smart,Comfort & Convenience,Height Adjustable Driver Seat,NO
+Tata,Nexon,Smart,Comfort & Convenience,Ventilated Seats,NO
+Tata,Nexon,Smart,Comfort & Convenience,Automatic Climate Control,NO
+Tata,Nexon,Smart,Comfort & Convenience,Air Quality Control,NO
+Tata,Nexon,Smart,Comfort & Convenience,Accessory Power Outlet,YES
+Tata,Nexon,Smart,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Tata,Nexon,Smart,Comfort & Convenience,Adjustable Headrest,YES
+Tata,Nexon,Smart,Comfort & Convenience,Rear Seat Centre Arm Rest,NO
+Tata,Nexon,Smart,Comfort & Convenience,Height Adjustable Front Seat Belts,NO
+Tata,Nexon,Smart,Comfort & Convenience,Rear AC Vents,NO
+Tata,Nexon,Smart,Comfort & Convenience,Cruise Control,NO
+Tata,Nexon,Smart,Comfort & Convenience,Parking Sensors,Rear
+Tata,Nexon,Smart,Comfort & Convenience,Foldable Rear Seat,Bench Folding
+Tata,Nexon,Smart,Comfort & Convenience,KeyLess Entry,NO
+Tata,Nexon,Smart,Comfort & Convenience,Engine Start/Stop Button,NO
+Tata,Nexon,Smart,Comfort & Convenience,Voice Commands,NO
+Tata,Nexon,Smart,Comfort & Convenience,Paddle Shifters,NO
+Tata,Nexon,Smart,Comfort & Convenience,USB Charger,NO
+Tata,Nexon,Smart,Comfort & Convenience,Central Console Armrest,NO
+Tata,Nexon,Smart,Comfort & Convenience,Drive Modes,3
+Tata,Nexon,Smart,Comfort & Convenience,Follow Me Home Headlamps,NO
+Tata,Nexon,Smart,Comfort & Convenience,Voice assisted sunroof,NO
+Tata,Nexon,Smart,Comfort & Convenience,Drive Mode Types,Eco|City|Sports
+Tata,Nexon,Smart,Comfort & Convenience,Power Windows,Front Only
+Tata,Nexon,Smart,Interior,Leather Wrapped Steering Wheel,NO
+Tata,Nexon,Smart,Interior,Glove Box,YES
+Tata,Nexon,Smart,Interior,Digital Cluster,YES
+Tata,Nexon,Smart,Interior,Digital Cluster Size,4
+Tata,Nexon,Smart,Interior,Upholstery,Fabric
+Tata,Nexon,Smart,Exterior,Adjustable Headlamps,YES
+Tata,Nexon,Smart,Exterior,Rain Sensing Wiper,NO
+Tata,Nexon,Smart,Exterior,Rear Window Wiper,NO
+Tata,Nexon,Smart,Exterior,Rear Window Washer,NO
+Tata,Nexon,Smart,Exterior,Rear Window Defogger,NO
+Tata,Nexon,Smart,Exterior,Wheel Covers,YES
+Tata,Nexon,Smart,Exterior,Alloy Wheels,NO
+Tata,Nexon,Smart,Exterior,Rear Spoiler,YES
+Tata,Nexon,Smart,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Tata,Nexon,Smart,Exterior,Cornering Foglamps,NO
+Tata,Nexon,Smart,Exterior,Roof Rails,NO
+Tata,Nexon,Smart,Exterior,Automatic Headlamps,NO
+Tata,Nexon,Smart,Exterior,Fog Lights,NO
+Tata,Nexon,Smart,Exterior,Antenna,Pole Type
+Tata,Nexon,Smart,Exterior,Sunroof,NO
+Tata,Nexon,Smart,Exterior,Outside Rear View Mirror (ORVM),Manual
+Tata,Nexon,Smart,Exterior,Tyre Size,195/60 R16
+Tata,Nexon,Smart,Exterior,Tyre Type,Radial Tubeless
+Tata,Nexon,Smart,Exterior,Wheel Size,16 Inch
+Tata,Nexon,Smart,Exterior,LED DRLs,YES
+Tata,Nexon,Smart,Exterior,LED Headlamps,YES
+Tata,Nexon,Smart,Exterior,LED Taillights,YES
+Tata,Nexon,Smart,Exterior,LED Fog Lamps,NO
+Tata,Nexon,Smart,Safety,Anti-lock Braking System (ABS),YES
+Tata,Nexon,Smart,Safety,Central Locking,YES
+Tata,Nexon,Smart,Safety,Child Safety Locks,YES
+Tata,Nexon,Smart,Safety,No. of Airbags,6
+Tata,Nexon,Smart,Safety,Driver Airbag,YES
+Tata,Nexon,Smart,Safety,Passenger Airbag,YES
+Tata,Nexon,Smart,Safety,Side Airbag,YES
+Tata,Nexon,Smart,Safety,Side Airbag-Rear,NO
+Tata,Nexon,Smart,Safety,Day & Night Rear View Mirror,YES
+Tata,Nexon,Smart,Safety,Electronic Brakeforce Distribution (EBD),YES
+Tata,Nexon,Smart,Safety,Tyre Pressure Monitoring System (TPMS),NO
+Tata,Nexon,Smart,Safety,Engine Immobilizer,YES
+Tata,Nexon,Smart,Safety,Electronic Stability Control (ESC),YES
+Tata,Nexon,Smart,Safety,Rear Camera,NO
+Tata,Nexon,Smart,Safety,ISOFIX Child Seat Mounts,YES
+Tata,Nexon,Smart,Safety,360 View Camera,NO
+Tata,Nexon,Smart,Safety,Global NCAP Safety Rating,5 Star
+Tata,Nexon,Smart,Safety,Global NCAP Child Safety Rating,5 Star
+Tata,Nexon,Smart,Safety,Bharat NCAP Safety Rating,5 Star
+Tata,Nexon,Smart,Safety,Bharat NCAP Child Safety Rating,5 Star
+Tata,Nexon,Smart,Entertainment & Communication,Radio,NO
+Tata,Nexon,Smart,Entertainment & Communication,Wireless Phone Charging,NO
+Tata,Nexon,Smart,Entertainment & Communication,Bluetooth Connectivity,NO
+Tata,Nexon,Smart,Entertainment & Communication,Touchscreen,NO
+Tata,Nexon,Smart,Entertainment & Communication,Android Auto,NO
+Tata,Nexon,Smart,Entertainment & Communication,Apple CarPlay,NO
+Tata,Nexon,Smart,Entertainment & Communication,Usb Ports,NO
+Tata,Nexon,Smart,Entertainment & Communication,Speakers,NO
+Tata,Nexon,Smart,ADAS Feature,Forward Collision Warning,NO
+Tata,Nexon,Smart,ADAS Feature,Automatic Emergency Braking,NO
+Tata,Nexon,Smart,ADAS Feature,Traffic Sign Recognition,NO
+Tata,Nexon,Smart,ADAS Feature,Lane Departure Warning,NO
+Tata,Nexon,Smart,ADAS Feature,Lane Keep Assist,NO
+Tata,Nexon,Smart,ADAS Feature,Adaptive High Beam Assist,NO
+Tata,Nexon,Smart,ADAS Feature,Blind Spot Monitor,NO
+Tata,Nexon,Smart,Advance Internet Feature,Live Location,NO
+Tata,Nexon,Smart,Advance Internet Feature,Engine Start Alarm,NO
+Tata,Nexon,Smart,Advance Internet Feature,Remote Vehicle Status Check,NO
+Tata,Nexon,Smart,Advance Internet Feature,Navigation with Live Traffic,NO
+Tata,Nexon,Smart,Advance Internet Feature,Live Weather,NO
+Tata,Nexon,Smart,Advance Internet Feature,E-Call & I-Call,NO
+Tata,Nexon,Smart,Advance Internet Feature,Over the Air (OTA) Updates,NO
+Tata,Nexon,Smart,Advance Internet Feature,Remote AC On/Off,NO
+Tata,Nexon,Smart,Advance Internet Feature,Remote Vehicle Ignition Start/Stop,NO

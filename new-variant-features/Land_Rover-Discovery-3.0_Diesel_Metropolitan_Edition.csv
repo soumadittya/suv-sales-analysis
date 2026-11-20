@@ -1,0 +1,29 @@
+company,model,variant,category,feature_name,feature_details
+Land Rover,Discovery,3.0 Diesel Metropolitan Edition,Engine & Transmission,Engine Type,3.0 L 6-cylinder
+Land Rover,Discovery,3.0 Diesel Metropolitan Edition,Engine & Transmission,Displacement,2997 cc
+Land Rover,Discovery,3.0 Diesel Metropolitan Edition,Engine & Transmission,Max Power,296.36bhp@4000rpm
+Land Rover,Discovery,3.0 Diesel Metropolitan Edition,Engine & Transmission,Max Torque,650Nm@1500-2500rpm
+Land Rover,Discovery,3.0 Diesel Metropolitan Edition,Engine & Transmission,No. of Cylinders,4
+Land Rover,Discovery,3.0 Diesel Metropolitan Edition,Engine & Transmission,Valves Per Cylinder,4
+Land Rover,Discovery,3.0 Diesel Metropolitan Edition,Engine & Transmission,Transmission Type,Automatic
+Land Rover,Discovery,3.0 Diesel Metropolitan Edition,Engine & Transmission,Gearbox,8-Speed
+Land Rover,Discovery,3.0 Diesel Metropolitan Edition,Engine & Transmission,Drive Type,AWD
+Land Rover,Discovery,3.0 Diesel Metropolitan Edition,Fuel & Performance,Fuel Type,Diesel
+Land Rover,Discovery,3.0 Diesel Metropolitan Edition,Fuel & Performance,Diesel Highway Mileage,12.37 kmpl
+Land Rover,Discovery,3.0 Diesel Metropolitan Edition,Fuel & Performance,Emission Norm Compliance,BS VI
+Land Rover,Discovery,3.0 Diesel Metropolitan Edition,Fuel & Performance,Top Speed,191 kmph
+Land Rover,Discovery,3.0 Diesel Metropolitan Edition,"Suspension, Steering & Brakes",Front Suspension,Air suspension
+Land Rover,Discovery,3.0 Diesel Metropolitan Edition,"Suspension, Steering & Brakes",Rear Suspension,Air suspension
+Land Rover,Discovery,3.0 Diesel Metropolitan Edition,Dimensions & Capacity,Length,4949 mm
+Land Rover,Discovery,3.0 Diesel Metropolitan Edition,Dimensions & Capacity,Width,2073 mm
+Land Rover,Discovery,3.0 Diesel Metropolitan Edition,Dimensions & Capacity,Height,1869 mm
+Land Rover,Discovery,3.0 Diesel Metropolitan Edition,Dimensions & Capacity,Boot Space,123 Litres
+Land Rover,Discovery,3.0 Diesel Metropolitan Edition,Dimensions & Capacity,Seating Capacity,7
+Land Rover,Discovery,3.0 Diesel Metropolitan Edition,Dimensions & Capacity,Wheel Base,3095 mm
+Land Rover,Discovery,3.0 Diesel Metropolitan Edition,Dimensions & Capacity,Front Tread,1582 mm
+Land Rover,Discovery,3.0 Diesel Metropolitan Edition,Dimensions & Capacity,Kerb Weight,2264 kg
+Land Rover,Discovery,3.0 Diesel Metropolitan Edition,Safety,No. of Airbags,6
+Land Rover,Discovery,3.0 Diesel Metropolitan Edition,Safety,Passenger Airbag,YES
+Land Rover,Discovery,3.0 Diesel Metropolitan Edition,Safety,Side Airbag,YES
+Land Rover,Discovery,3.0 Diesel Metropolitan Edition,Safety,Side Airbag-Rear,NO
+Land Rover,Discovery,3.0 Diesel Metropolitan Edition,Safety,Global NCAP Safety Rating,5 Star

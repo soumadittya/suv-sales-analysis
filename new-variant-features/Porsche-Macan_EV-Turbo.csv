@@ -1,0 +1,96 @@
+company,model,variant,category,feature_name,feature_details
+Porsche,Macan EV,Turbo,Engine & Transmission,Battery Capacity,100 kWh
+Porsche,Macan EV,Turbo,Engine & Transmission,Max Power,608bhp
+Porsche,Macan EV,Turbo,Engine & Transmission,Max Torque,1130Nm
+Porsche,Macan EV,Turbo,Engine & Transmission,Range,624 km
+Porsche,Macan EV,Turbo,Engine & Transmission,Battery Type,Lithium-ion
+Porsche,Macan EV,Turbo,Engine & Transmission,Charging Time (A.C),10H-11kW-(0-100%)
+Porsche,Macan EV,Turbo,Engine & Transmission,Charging Time (D.C),21Min-270kW-(10-80%)
+Porsche,Macan EV,Turbo,Engine & Transmission,Regenerative Braking,YES
+Porsche,Macan EV,Turbo,Engine & Transmission,Charging Port,CCS-II
+Porsche,Macan EV,Turbo,Engine & Transmission,Transmission Type,Automatic
+Porsche,Macan EV,Turbo,Engine & Transmission,Gearbox,1-Speed
+Porsche,Macan EV,Turbo,Engine & Transmission,Drive Type,AWD
+Porsche,Macan EV,Turbo,Fuel & Performance,Fuel Type,Electric
+Porsche,Macan EV,Turbo,Fuel & Performance,Emission Norm Compliance,ZEV
+Porsche,Macan EV,Turbo,Fuel & Performance,Acceleration 0-100kmph,5.2
+Porsche,Macan EV,Turbo,Charging,Charging Time,21Min-270kW-(10-80%)
+Porsche,Macan EV,Turbo,Charging,Fast Charging,YES
+Porsche,Macan EV,Turbo,Dimensions & Capacity,Length,4784 mm
+Porsche,Macan EV,Turbo,Dimensions & Capacity,Width,1938 mm
+Porsche,Macan EV,Turbo,Dimensions & Capacity,Height,1622 mm
+Porsche,Macan EV,Turbo,Dimensions & Capacity,Boot Space,540 Litres
+Porsche,Macan EV,Turbo,Dimensions & Capacity,Seating Capacity,5
+Porsche,Macan EV,Turbo,Comfort & Convenience,Boot Opening,Automatic
+Porsche,Macan EV,Turbo,Comfort & Convenience,Power Steering,YES
+Porsche,Macan EV,Turbo,Comfort & Convenience,Air Conditioner,YES
+Porsche,Macan EV,Turbo,Comfort & Convenience,Heater,YES
+Porsche,Macan EV,Turbo,Comfort & Convenience,Adjustable Steering,YES
+Porsche,Macan EV,Turbo,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Porsche,Macan EV,Turbo,Comfort & Convenience,Air Quality Control,YES
+Porsche,Macan EV,Turbo,Comfort & Convenience,Accessory Power Outlet,YES
+Porsche,Macan EV,Turbo,Comfort & Convenience,Rear Seat Headrest,YES
+Porsche,Macan EV,Turbo,Comfort & Convenience,Adjustable Headrest,YES
+Porsche,Macan EV,Turbo,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Porsche,Macan EV,Turbo,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Porsche,Macan EV,Turbo,Comfort & Convenience,Rear AC Vents,YES
+Porsche,Macan EV,Turbo,Comfort & Convenience,Lumbar Support,YES
+Porsche,Macan EV,Turbo,Comfort & Convenience,Cruise Control,YES
+Porsche,Macan EV,Turbo,Comfort & Convenience,Parking Sensors,Front & Rear
+Porsche,Macan EV,Turbo,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Porsche,Macan EV,Turbo,Comfort & Convenience,KeyLess Entry,YES
+Porsche,Macan EV,Turbo,Comfort & Convenience,Voice Commands,YES
+Porsche,Macan EV,Turbo,Comfort & Convenience,USB Charger,Front & Rear
+Porsche,Macan EV,Turbo,Comfort & Convenience,Central Console Armrest,YES
+Porsche,Macan EV,Turbo,Comfort & Convenience,Glove Box light,YES
+Porsche,Macan EV,Turbo,Comfort & Convenience,Follow Me Home Headlamps,YES
+Porsche,Macan EV,Turbo,Interior,Leather Wrapped Steering Wheel,YES
+Porsche,Macan EV,Turbo,Interior,Glove Box,YES
+Porsche,Macan EV,Turbo,Exterior,Adjustable Headlamps,YES
+Porsche,Macan EV,Turbo,Exterior,Rain Sensing Wiper,YES
+Porsche,Macan EV,Turbo,Exterior,Rear Window Wiper,YES
+Porsche,Macan EV,Turbo,Exterior,Rear Window Washer,YES
+Porsche,Macan EV,Turbo,Exterior,Rear Window Defogger,YES
+Porsche,Macan EV,Turbo,Exterior,Alloy Wheels,YES
+Porsche,Macan EV,Turbo,Exterior,Rear Spoiler,YES
+Porsche,Macan EV,Turbo,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Porsche,Macan EV,Turbo,Exterior,Roof Rails,YES
+Porsche,Macan EV,Turbo,Exterior,Automatic Headlamps,YES
+Porsche,Macan EV,Turbo,Exterior,Heated Outside Rear View Mirror,YES
+Porsche,Macan EV,Turbo,Exterior,LED DRLs,YES
+Porsche,Macan EV,Turbo,Exterior,LED Headlamps,YES
+Porsche,Macan EV,Turbo,Exterior,LED Taillights,YES
+Porsche,Macan EV,Turbo,Exterior,LED Fog Lamps,YES
+Porsche,Macan EV,Turbo,Safety,Anti-lock Braking System (ABS),YES
+Porsche,Macan EV,Turbo,Safety,Brake Assist,YES
+Porsche,Macan EV,Turbo,Safety,Central Locking,YES
+Porsche,Macan EV,Turbo,Safety,Child Safety Locks,YES
+Porsche,Macan EV,Turbo,Safety,Anti-Theft Alarm,YES
+Porsche,Macan EV,Turbo,Safety,No. of Airbags,8
+Porsche,Macan EV,Turbo,Safety,Driver Airbag,YES
+Porsche,Macan EV,Turbo,Safety,Passenger Airbag,YES
+Porsche,Macan EV,Turbo,Safety,Side Airbag,YES
+Porsche,Macan EV,Turbo,Safety,Side Airbag-Rear,YES
+Porsche,Macan EV,Turbo,Safety,Day & Night Rear View Mirror,YES
+Porsche,Macan EV,Turbo,Safety,Electronic Brakeforce Distribution (EBD),YES
+Porsche,Macan EV,Turbo,Safety,Acoustic Vehicle Alert System,YES
+Porsche,Macan EV,Turbo,Safety,Traction Control,YES
+Porsche,Macan EV,Turbo,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Porsche,Macan EV,Turbo,Safety,Engine Immobilizer,YES
+Porsche,Macan EV,Turbo,Safety,Electronic Stability Control (ESC),YES
+Porsche,Macan EV,Turbo,Safety,Rear Camera,With Guidedlines
+Porsche,Macan EV,Turbo,Safety,Anti-Theft Device,YES
+Porsche,Macan EV,Turbo,Safety,Anti-Pinch Power Windows,Driver and Passenger
+Porsche,Macan EV,Turbo,Safety,ISOFIX Child Seat Mounts,YES
+Porsche,Macan EV,Turbo,Safety,Hill Assist,YES
+Porsche,Macan EV,Turbo,Safety,360 View Camera,YES
+Porsche,Macan EV,Turbo,Entertainment & Communication,Radio,YES
+Porsche,Macan EV,Turbo,Entertainment & Communication,Bluetooth Connectivity,YES
+Porsche,Macan EV,Turbo,Entertainment & Communication,Touchscreen,YES
+Porsche,Macan EV,Turbo,Entertainment & Communication,Android Auto,YES
+Porsche,Macan EV,Turbo,Entertainment & Communication,Apple CarPlay,YES
+Porsche,Macan EV,Turbo,Entertainment & Communication,Usb Ports,YES
+Porsche,Macan EV,Turbo,Entertainment & Communication,Speakers,Front & Rear
+Porsche,Macan EV,Turbo,Advance Internet Feature,E-Call & I-Call,NO
+Porsche,Macan EV,Turbo,Advance Internet Feature,SOS / Emergency Assistance,YES
+Porsche,Macan EV,Turbo,Advance Internet Feature,Geo-fence Alert,YES

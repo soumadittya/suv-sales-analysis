@@ -1,0 +1,133 @@
+company,model,variant,category,feature_name,feature_details
+Tata,Harrier,Smart,Engine & Transmission,Engine Type,Kryotec 2.0L
+Tata,Harrier,Smart,Engine & Transmission,Displacement,1956 cc
+Tata,Harrier,Smart,Engine & Transmission,Max Power,167.62bhp@3750rpm
+Tata,Harrier,Smart,Engine & Transmission,Max Torque,350Nm@1750-2500rpm
+Tata,Harrier,Smart,Engine & Transmission,No. of Cylinders,4
+Tata,Harrier,Smart,Engine & Transmission,Valves Per Cylinder,4
+Tata,Harrier,Smart,Engine & Transmission,Turbo Charger,YES
+Tata,Harrier,Smart,Engine & Transmission,Transmission Type,Manual
+Tata,Harrier,Smart,Engine & Transmission,Gearbox,6-Speed
+Tata,Harrier,Smart,Engine & Transmission,Drive Type,FWD
+Tata,Harrier,Smart,Fuel & Performance,Fuel Type,Diesel
+Tata,Harrier,Smart,Fuel & Performance,Diesel Fuel Tank Capacity,50 Litres
+Tata,Harrier,Smart,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Tata,Harrier,Smart,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Tata,Harrier,Smart,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Tata,Harrier,Smart,"Suspension, Steering & Brakes",Steering Type,Electric
+Tata,Harrier,Smart,"Suspension, Steering & Brakes",Steering Column,Tilt and Telescopic
+Tata,Harrier,Smart,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Tata,Harrier,Smart,"Suspension, Steering & Brakes",Rear Brake Type,Drum
+Tata,Harrier,Smart,"Suspension, Steering & Brakes",Boot Space Rear Seat Folding,815 Litres Litres
+Tata,Harrier,Smart,Dimensions & Capacity,Length,4605 mm
+Tata,Harrier,Smart,Dimensions & Capacity,Width,1922 mm
+Tata,Harrier,Smart,Dimensions & Capacity,Height,1718 mm
+Tata,Harrier,Smart,Dimensions & Capacity,Boot Space,445 Litres
+Tata,Harrier,Smart,Dimensions & Capacity,Seating Capacity,5
+Tata,Harrier,Smart,Dimensions & Capacity,Wheel Base,2741 mm
+Tata,Harrier,Smart,Comfort & Convenience,Boot Opening,Electronic
+Tata,Harrier,Smart,Comfort & Convenience,Power Steering,YES
+Tata,Harrier,Smart,Comfort & Convenience,Air Conditioner,YES
+Tata,Harrier,Smart,Comfort & Convenience,Heater,YES
+Tata,Harrier,Smart,Comfort & Convenience,Adjustable Steering,Height & Reach
+Tata,Harrier,Smart,Comfort & Convenience,Height Adjustable Driver Seat,NO
+Tata,Harrier,Smart,Comfort & Convenience,Ventilated Seats,NO
+Tata,Harrier,Smart,Comfort & Convenience,Electric Adjustable Seats,NO
+Tata,Harrier,Smart,Comfort & Convenience,Automatic Climate Control,YES
+Tata,Harrier,Smart,Comfort & Convenience,Air Quality Control,NO
+Tata,Harrier,Smart,Comfort & Convenience,Accessory Power Outlet,YES
+Tata,Harrier,Smart,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Tata,Harrier,Smart,Comfort & Convenience,Adjustable Headrest,YES
+Tata,Harrier,Smart,Comfort & Convenience,Rear Seat Centre Arm Rest,NO
+Tata,Harrier,Smart,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Tata,Harrier,Smart,Comfort & Convenience,Rear AC Vents,YES
+Tata,Harrier,Smart,Comfort & Convenience,Cruise Control,NO
+Tata,Harrier,Smart,Comfort & Convenience,Parking Sensors,Rear
+Tata,Harrier,Smart,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Tata,Harrier,Smart,Comfort & Convenience,KeyLess Entry,NO
+Tata,Harrier,Smart,Comfort & Convenience,Engine Start/Stop Button,NO
+Tata,Harrier,Smart,Comfort & Convenience,Voice Commands,NO
+Tata,Harrier,Smart,Comfort & Convenience,Paddle Shifters,NO
+Tata,Harrier,Smart,Comfort & Convenience,USB Charger,Front
+Tata,Harrier,Smart,Comfort & Convenience,Central Console Armrest,YES
+Tata,Harrier,Smart,Comfort & Convenience,Drive Modes,NO
+Tata,Harrier,Smart,Comfort & Convenience,Glove Box light,NO
+Tata,Harrier,Smart,Comfort & Convenience,Follow Me Home Headlamps,NO
+Tata,Harrier,Smart,Comfort & Convenience,Voice assisted sunroof,NO
+Tata,Harrier,Smart,Comfort & Convenience,Power Windows,Front & Rear
+Tata,Harrier,Smart,Comfort & Convenience,Cup Holders,Front Only
+Tata,Harrier,Smart,Interior,Leather Wrapped Steering Wheel,NO
+Tata,Harrier,Smart,Interior,Glove Box,YES
+Tata,Harrier,Smart,Interior,Digital Cluster,YES
+Tata,Harrier,Smart,Interior,Digital Cluster Size,7
+Tata,Harrier,Smart,Interior,Upholstery,Fabric
+Tata,Harrier,Smart,Exterior,Rain Sensing Wiper,NO
+Tata,Harrier,Smart,Exterior,Rear Window Wiper,NO
+Tata,Harrier,Smart,Exterior,Rear Window Washer,NO
+Tata,Harrier,Smart,Exterior,Rear Window Defogger,NO
+Tata,Harrier,Smart,Exterior,Wheel Covers,NO
+Tata,Harrier,Smart,Exterior,Alloy Wheels,YES
+Tata,Harrier,Smart,Exterior,Rear Spoiler,YES
+Tata,Harrier,Smart,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Tata,Harrier,Smart,Exterior,Projector Headlamps,YES
+Tata,Harrier,Smart,Exterior,Cornering Foglamps,NO
+Tata,Harrier,Smart,Exterior,Roof Rails,NO
+Tata,Harrier,Smart,Exterior,Automatic Headlamps,NO
+Tata,Harrier,Smart,Exterior,Fog Lights,NO
+Tata,Harrier,Smart,Exterior,Antenna,Pole Type
+Tata,Harrier,Smart,Exterior,Sunroof,NO
+Tata,Harrier,Smart,Exterior,Outside Rear View Mirror (ORVM),Powered
+Tata,Harrier,Smart,Exterior,Tyre Size,235/65/R17
+Tata,Harrier,Smart,Exterior,Tyre Type,Radial Tubeless
+Tata,Harrier,Smart,Exterior,LED DRLs,YES
+Tata,Harrier,Smart,Exterior,LED Headlamps,YES
+Tata,Harrier,Smart,Exterior,LED Taillights,YES
+Tata,Harrier,Smart,Exterior,LED Fog Lamps,NO
+Tata,Harrier,Smart,Safety,Anti-lock Braking System (ABS),YES
+Tata,Harrier,Smart,Safety,Brake Assist,YES
+Tata,Harrier,Smart,Safety,Central Locking,YES
+Tata,Harrier,Smart,Safety,Child Safety Locks,YES
+Tata,Harrier,Smart,Safety,Anti-Theft Alarm,YES
+Tata,Harrier,Smart,Safety,No. of Airbags,6
+Tata,Harrier,Smart,Safety,Driver Airbag,YES
+Tata,Harrier,Smart,Safety,Passenger Airbag,YES
+Tata,Harrier,Smart,Safety,Side Airbag,YES
+Tata,Harrier,Smart,Safety,Side Airbag-Rear,NO
+Tata,Harrier,Smart,Safety,Day & Night Rear View Mirror,YES
+Tata,Harrier,Smart,Safety,Electronic Brakeforce Distribution (EBD),YES
+Tata,Harrier,Smart,Safety,Traction Control,YES
+Tata,Harrier,Smart,Safety,Tyre Pressure Monitoring System (TPMS),NO
+Tata,Harrier,Smart,Safety,Engine Immobilizer,YES
+Tata,Harrier,Smart,Safety,Electronic Stability Control (ESC),YES
+Tata,Harrier,Smart,Safety,Rear Camera,NO
+Tata,Harrier,Smart,Safety,Anti-Theft Device,YES
+Tata,Harrier,Smart,Safety,ISOFIX Child Seat Mounts,YES
+Tata,Harrier,Smart,Safety,Hill Descent Control,NO
+Tata,Harrier,Smart,Safety,Hill Assist,YES
+Tata,Harrier,Smart,Safety,360 View Camera,NO
+Tata,Harrier,Smart,Safety,Bharat NCAP Safety Rating,5 Star
+Tata,Harrier,Smart,Entertainment & Communication,Radio,NO
+Tata,Harrier,Smart,Entertainment & Communication,Wireless Phone Charging,NO
+Tata,Harrier,Smart,Entertainment & Communication,Bluetooth Connectivity,NO
+Tata,Harrier,Smart,Entertainment & Communication,Touchscreen,NO
+Tata,Harrier,Smart,Entertainment & Communication,Android Auto,NO
+Tata,Harrier,Smart,Entertainment & Communication,Apple CarPlay,NO
+Tata,Harrier,Smart,Entertainment & Communication,Usb Ports,YES
+Tata,Harrier,Smart,Entertainment & Communication,Additional Features,NO
+Tata,Harrier,Smart,Entertainment & Communication,Speakers,NO
+Tata,Harrier,Smart,ADAS Feature,Forward Collision Warning,NO
+Tata,Harrier,Smart,ADAS Feature,Automatic Emergency Braking,NO
+Tata,Harrier,Smart,ADAS Feature,Oncoming Lane Mitigation,NO
+Tata,Harrier,Smart,ADAS Feature,Speed Assist System,NO
+Tata,Harrier,Smart,ADAS Feature,Traffic Sign Recognition,NO
+Tata,Harrier,Smart,ADAS Feature,Blind Spot Collision Avoidance Assist,NO
+Tata,Harrier,Smart,ADAS Feature,Lane Departure Warning,NO
+Tata,Harrier,Smart,ADAS Feature,Lane Keep Assist,NO
+Tata,Harrier,Smart,ADAS Feature,Lane Departure Prevention Assist,NO
+Tata,Harrier,Smart,ADAS Feature,Road Departure Mitigation System,NO
+Tata,Harrier,Smart,ADAS Feature,Driver Attention Warning,NO
+Tata,Harrier,Smart,ADAS Feature,Adaptive Cruise Control,NO
+Tata,Harrier,Smart,ADAS Feature,Leading Vehicle Departure Alert,NO
+Tata,Harrier,Smart,ADAS Feature,Adaptive High Beam Assist,NO
+Tata,Harrier,Smart,ADAS Feature,Rear Cross Traffic Alert,NO
+Tata,Harrier,Smart,ADAS Feature,Rear Cross Traffic Collision-Avoidance Assist,NO

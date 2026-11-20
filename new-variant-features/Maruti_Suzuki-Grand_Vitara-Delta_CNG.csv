@@ -1,0 +1,130 @@
+company,model,variant,category,feature_name,feature_details
+Maruti Suzuki,Grand Vitara,Delta CNG,Engine & Transmission,Engine Type,K15C
+Maruti Suzuki,Grand Vitara,Delta CNG,Engine & Transmission,Displacement,1462 cc
+Maruti Suzuki,Grand Vitara,Delta CNG,Engine & Transmission,Max Power,87bhp@5500rpm
+Maruti Suzuki,Grand Vitara,Delta CNG,Engine & Transmission,Max Torque,121.5Nm@4200rpm
+Maruti Suzuki,Grand Vitara,Delta CNG,Engine & Transmission,No. of Cylinders,4
+Maruti Suzuki,Grand Vitara,Delta CNG,Engine & Transmission,Valves Per Cylinder,4
+Maruti Suzuki,Grand Vitara,Delta CNG,Engine & Transmission,Transmission Type,Manual
+Maruti Suzuki,Grand Vitara,Delta CNG,Engine & Transmission,Gearbox,5-Speed
+Maruti Suzuki,Grand Vitara,Delta CNG,Engine & Transmission,Drive Type,FWD
+Maruti Suzuki,Grand Vitara,Delta CNG,Fuel & Performance,Fuel Type,CNG
+Maruti Suzuki,Grand Vitara,Delta CNG,Fuel & Performance,CNG Mileage ARAI,26.6 km/kg
+Maruti Suzuki,Grand Vitara,Delta CNG,Fuel & Performance,CNG Fuel Tank Capacity,45 Litres
+Maruti Suzuki,Grand Vitara,Delta CNG,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Maruti Suzuki,Grand Vitara,Delta CNG,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Maruti Suzuki,Grand Vitara,Delta CNG,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Maruti Suzuki,Grand Vitara,Delta CNG,"Suspension, Steering & Brakes",Steering Type,Electric
+Maruti Suzuki,Grand Vitara,Delta CNG,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Maruti Suzuki,Grand Vitara,Delta CNG,"Suspension, Steering & Brakes",Steering Gear Type,Rack & Pinion
+Maruti Suzuki,Grand Vitara,Delta CNG,"Suspension, Steering & Brakes",Turning Radius,5.4 m
+Maruti Suzuki,Grand Vitara,Delta CNG,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Maruti Suzuki,Grand Vitara,Delta CNG,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Maruti Suzuki,Grand Vitara,Delta CNG,Dimensions & Capacity,Length,4345 mm
+Maruti Suzuki,Grand Vitara,Delta CNG,Dimensions & Capacity,Width,1795 mm
+Maruti Suzuki,Grand Vitara,Delta CNG,Dimensions & Capacity,Height,1645 mm
+Maruti Suzuki,Grand Vitara,Delta CNG,Dimensions & Capacity,Seating Capacity,5
+Maruti Suzuki,Grand Vitara,Delta CNG,Dimensions & Capacity,Ground Clearance Unladen,210 mm
+Maruti Suzuki,Grand Vitara,Delta CNG,Dimensions & Capacity,Wheel Base,2600 mm
+Maruti Suzuki,Grand Vitara,Delta CNG,Dimensions & Capacity,Kerb Weight,1140-1285 kg
+Maruti Suzuki,Grand Vitara,Delta CNG,Dimensions & Capacity,Gross Weight,1645 kg
+Maruti Suzuki,Grand Vitara,Delta CNG,Dimensions & Capacity,Reported Boot Space,373 Litres
+Maruti Suzuki,Grand Vitara,Delta CNG,Comfort & Convenience,Boot Opening,Manual
+Maruti Suzuki,Grand Vitara,Delta CNG,Comfort & Convenience,Power Steering,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Comfort & Convenience,Air Conditioner,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Comfort & Convenience,Heater,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Comfort & Convenience,Ventilated Seats,NO
+Maruti Suzuki,Grand Vitara,Delta CNG,Comfort & Convenience,Automatic Climate Control,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Comfort & Convenience,Accessory Power Outlet,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Comfort & Convenience,Adjustable Headrest,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Comfort & Convenience,Rear AC Vents,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Comfort & Convenience,Cruise Control,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Comfort & Convenience,Parking Sensors,Rear
+Maruti Suzuki,Grand Vitara,Delta CNG,Comfort & Convenience,Real-Time Vehicle Tracking,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Maruti Suzuki,Grand Vitara,Delta CNG,Comfort & Convenience,KeyLess Entry,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Comfort & Convenience,Engine Start/Stop Button,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Comfort & Convenience,Voice Commands,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Comfort & Convenience,Paddle Shifters,NO
+Maruti Suzuki,Grand Vitara,Delta CNG,Comfort & Convenience,USB Charger,Rear
+Maruti Suzuki,Grand Vitara,Delta CNG,Comfort & Convenience,Central Console Armrest,With Storage
+Maruti Suzuki,Grand Vitara,Delta CNG,Comfort & Convenience,Gear Shift Indicator,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Comfort & Convenience,Drive Modes,NO
+Maruti Suzuki,Grand Vitara,Delta CNG,Comfort & Convenience,Glove Box light,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Comfort & Convenience,Idle Start-Stop System,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Comfort & Convenience,Follow Me Home Headlamps,NO
+Maruti Suzuki,Grand Vitara,Delta CNG,Comfort & Convenience,Drive Mode Types,NO
+Maruti Suzuki,Grand Vitara,Delta CNG,Interior,Glove Box,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Interior,Digital Cluster,Semi
+Maruti Suzuki,Grand Vitara,Delta CNG,Interior,Digital Cluster Size,4.2 inch
+Maruti Suzuki,Grand Vitara,Delta CNG,Interior,Upholstery,Fabric
+Maruti Suzuki,Grand Vitara,Delta CNG,Exterior,Adjustable Headlamps,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Exterior,Rear Window Wiper,NO
+Maruti Suzuki,Grand Vitara,Delta CNG,Exterior,Rear Window Washer,NO
+Maruti Suzuki,Grand Vitara,Delta CNG,Exterior,Wheel Covers,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Exterior,Alloy Wheels,NO
+Maruti Suzuki,Grand Vitara,Delta CNG,Exterior,Rear Spoiler,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Exterior,Projector Headlamps,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Exterior,Roof Rails,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Exterior,Antenna,Shark Fin
+Maruti Suzuki,Grand Vitara,Delta CNG,Exterior,Sunroof,NO
+Maruti Suzuki,Grand Vitara,Delta CNG,Exterior,Puddle Lamps,NO
+Maruti Suzuki,Grand Vitara,Delta CNG,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Maruti Suzuki,Grand Vitara,Delta CNG,Exterior,Tyre Size,215/60 R17
+Maruti Suzuki,Grand Vitara,Delta CNG,Exterior,Tyre Type,Tubeless
+Maruti Suzuki,Grand Vitara,Delta CNG,Exterior,Wheel Size,17 Inch
+Maruti Suzuki,Grand Vitara,Delta CNG,Exterior,LED DRLs,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Exterior,LED Headlamps,NO
+Maruti Suzuki,Grand Vitara,Delta CNG,Exterior,LED Taillights,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Safety,Anti-lock Braking System (ABS),YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Safety,Brake Assist,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Safety,Central Locking,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Safety,Child Safety Locks,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Safety,Anti-Theft Alarm,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Safety,No. of Airbags,6
+Maruti Suzuki,Grand Vitara,Delta CNG,Safety,Driver Airbag,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Safety,Passenger Airbag,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Safety,Side Airbag,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Safety,Side Airbag-Rear,NO
+Maruti Suzuki,Grand Vitara,Delta CNG,Safety,Day & Night Rear View Mirror,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Safety,Electronic Brakeforce Distribution (EBD),YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Safety,Traction Control,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Safety,Engine Immobilizer,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Safety,Electronic Stability Control (ESC),YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Safety,Rear Camera,With Guidedlines
+Maruti Suzuki,Grand Vitara,Delta CNG,Safety,Anti-Theft Device,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Safety,ISOFIX Child Seat Mounts,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Safety,Heads-Up Display (HUD),NO
+Maruti Suzuki,Grand Vitara,Delta CNG,Safety,Hill Descent Control,NO
+Maruti Suzuki,Grand Vitara,Delta CNG,Safety,Hill Assist,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Safety,360 View Camera,NO
+Maruti Suzuki,Grand Vitara,Delta CNG,Entertainment & Communication,Radio,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Entertainment & Communication,Wireless Phone Charging,NO
+Maruti Suzuki,Grand Vitara,Delta CNG,Entertainment & Communication,Bluetooth Connectivity,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Entertainment & Communication,Touchscreen,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Entertainment & Communication,Android Auto,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Entertainment & Communication,Apple CarPlay,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Entertainment & Communication,Usb Ports,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Entertainment & Communication,Additional Features,SmartPlay Pro
+Maruti Suzuki,Grand Vitara,Delta CNG,Entertainment & Communication,Speakers,Front & Rear
+Maruti Suzuki,Grand Vitara,Delta CNG,Advance Internet Feature,Live Location,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Advance Internet Feature,Remote Immobiliser,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Advance Internet Feature,Remote Vehicle Status Check,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Advance Internet Feature,Send POI to Vehicle From App,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Advance Internet Feature,E-Call & I-Call,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Advance Internet Feature,Google / Alexa Connectivity,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Advance Internet Feature,Over Speeding Alert,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Advance Internet Feature,Tow Away Alert,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Advance Internet Feature,In Car Remote Control App,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Advance Internet Feature,Smartwatch App,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Advance Internet Feature,Valet Mode,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Advance Internet Feature,Remote AC On/Off,NO
+Maruti Suzuki,Grand Vitara,Delta CNG,Advance Internet Feature,Remote Door Lock/Unlock,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Advance Internet Feature,Remote Vehicle Ignition Start/Stop,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Advance Internet Feature,SOS / Emergency Assistance,YES
+Maruti Suzuki,Grand Vitara,Delta CNG,Advance Internet Feature,Geo-fence Alert,YES

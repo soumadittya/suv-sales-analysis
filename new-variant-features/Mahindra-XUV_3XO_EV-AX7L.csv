@@ -1,0 +1,147 @@
+company,model,variant,category,feature_name,feature_details
+Mahindra,XUV 3XO EV,AX7L,Engine & Transmission,Battery Capacity,39.4 kWh
+Mahindra,XUV 3XO EV,AX7L,Engine & Transmission,Motor Power,100 kW
+Mahindra,XUV 3XO EV,AX7L,Engine & Transmission,Motor Type,Permanent Magnet Synchronous
+Mahindra,XUV 3XO EV,AX7L,Engine & Transmission,Max Power,147.51bhp
+Mahindra,XUV 3XO EV,AX7L,Engine & Transmission,Max Torque,310Nm
+Mahindra,XUV 3XO EV,AX7L,Engine & Transmission,Range,456 km
+Mahindra,XUV 3XO EV,AX7L,Engine & Transmission,Battery Type,Lithium-Ion
+Mahindra,XUV 3XO EV,AX7L,Engine & Transmission,Charging Time (A.C),6H 30 Min-7.2 kW (0-100%)
+Mahindra,XUV 3XO EV,AX7L,Engine & Transmission,Charging Time (D.C),24Min-(10-80%)-350kW
+Mahindra,XUV 3XO EV,AX7L,Engine & Transmission,Regenerative Braking,YES
+Mahindra,XUV 3XO EV,AX7L,Engine & Transmission,Charging Port,CCS-II
+Mahindra,XUV 3XO EV,AX7L,Engine & Transmission,Charging Options,7.2 kW AC | 6.5 KW AC | 50 kW DC
+Mahindra,XUV 3XO EV,AX7L,Engine & Transmission,Charging Time (15 A Plug Point),13.5H (0-100%)
+Mahindra,XUV 3XO EV,AX7L,Engine & Transmission,Charging Time (7.2 kW AC Fast Charger),6.5 H (0-100%)
+Mahindra,XUV 3XO EV,AX7L,Engine & Transmission,Charging Time (50 kW DC Fast Charger),50 Min (0-80%)
+Mahindra,XUV 3XO EV,AX7L,Engine & Transmission,Transmission Type,Automatic
+Mahindra,XUV 3XO EV,AX7L,Engine & Transmission,Gearbox,Shift-by-wire AT
+Mahindra,XUV 3XO EV,AX7L,Engine & Transmission,Drive Type,FWD
+Mahindra,XUV 3XO EV,AX7L,Fuel & Performance,Fuel Type,Electric
+Mahindra,XUV 3XO EV,AX7L,Fuel & Performance,Emission Norm Compliance,ZEV
+Mahindra,XUV 3XO EV,AX7L,Charging,Fast Charging,YES
+Mahindra,XUV 3XO EV,AX7L,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Mahindra,XUV 3XO EV,AX7L,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Mahindra,XUV 3XO EV,AX7L,"Suspension, Steering & Brakes",Steering Type,Electric
+Mahindra,XUV 3XO EV,AX7L,"Suspension, Steering & Brakes",Turning Radius,5.3
+Mahindra,XUV 3XO EV,AX7L,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Mahindra,XUV 3XO EV,AX7L,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Mahindra,XUV 3XO EV,AX7L,"Suspension, Steering & Brakes",Braking (80-0 kmph),s
+Mahindra,XUV 3XO EV,AX7L,Dimensions & Capacity,Length,3990 mm
+Mahindra,XUV 3XO EV,AX7L,Dimensions & Capacity,Width,1821 mm
+Mahindra,XUV 3XO EV,AX7L,Dimensions & Capacity,Height,1653 mm
+Mahindra,XUV 3XO EV,AX7L,Dimensions & Capacity,Boot Space,364 Litres
+Mahindra,XUV 3XO EV,AX7L,Dimensions & Capacity,Seating Capacity,5
+Mahindra,XUV 3XO EV,AX7L,Dimensions & Capacity,Ground Clearance Unladen,190 mm
+Mahindra,XUV 3XO EV,AX7L,Dimensions & Capacity,Wheel Base,2600 mm
+Mahindra,XUV 3XO EV,AX7L,Comfort & Convenience,Boot Opening,Electronic
+Mahindra,XUV 3XO EV,AX7L,Comfort & Convenience,Power Steering,YES
+Mahindra,XUV 3XO EV,AX7L,Comfort & Convenience,Air Conditioner,YES
+Mahindra,XUV 3XO EV,AX7L,Comfort & Convenience,Heater,YES
+Mahindra,XUV 3XO EV,AX7L,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Mahindra,XUV 3XO EV,AX7L,Comfort & Convenience,Automatic Climate Control,YES
+Mahindra,XUV 3XO EV,AX7L,Comfort & Convenience,Air Quality Control,YES
+Mahindra,XUV 3XO EV,AX7L,Comfort & Convenience,Accessory Power Outlet,YES
+Mahindra,XUV 3XO EV,AX7L,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Mahindra,XUV 3XO EV,AX7L,Comfort & Convenience,Adjustable Headrest,YES
+Mahindra,XUV 3XO EV,AX7L,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Mahindra,XUV 3XO EV,AX7L,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Mahindra,XUV 3XO EV,AX7L,Comfort & Convenience,Rear AC Vents,YES
+Mahindra,XUV 3XO EV,AX7L,Comfort & Convenience,Cruise Control,YES
+Mahindra,XUV 3XO EV,AX7L,Comfort & Convenience,Parking Sensors,Front & Rear
+Mahindra,XUV 3XO EV,AX7L,Comfort & Convenience,Real-Time Vehicle Tracking,YES
+Mahindra,XUV 3XO EV,AX7L,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Mahindra,XUV 3XO EV,AX7L,Comfort & Convenience,KeyLess Entry,YES
+Mahindra,XUV 3XO EV,AX7L,Comfort & Convenience,Engine Start/Stop Button,YES
+Mahindra,XUV 3XO EV,AX7L,Comfort & Convenience,Voice Commands,YES
+Mahindra,XUV 3XO EV,AX7L,Comfort & Convenience,USB Charger,Front & Rear
+Mahindra,XUV 3XO EV,AX7L,Comfort & Convenience,Central Console Armrest,With Storage
+Mahindra,XUV 3XO EV,AX7L,Comfort & Convenience,Drive Modes,3
+Mahindra,XUV 3XO EV,AX7L,Comfort & Convenience,Drive Mode Types,Fun | Fast | Fearless
+Mahindra,XUV 3XO EV,AX7L,Comfort & Convenience,Power Windows,Front & Rear
+Mahindra,XUV 3XO EV,AX7L,Comfort & Convenience,Cup Holders,Front & Rear
+Mahindra,XUV 3XO EV,AX7L,Interior,Leather Wrapped Steering Wheel,YES
+Mahindra,XUV 3XO EV,AX7L,Interior,Leather wrap gear-shift selector,YES
+Mahindra,XUV 3XO EV,AX7L,Interior,Glove Box,YES
+Mahindra,XUV 3XO EV,AX7L,Interior,Digital Cluster,YES
+Mahindra,XUV 3XO EV,AX7L,Interior,Digital Cluster Size,10.25
+Mahindra,XUV 3XO EV,AX7L,Interior,Upholstery,Leatherette
+Mahindra,XUV 3XO EV,AX7L,Exterior,Adjustable Headlamps,YES
+Mahindra,XUV 3XO EV,AX7L,Exterior,Rain Sensing Wiper,YES
+Mahindra,XUV 3XO EV,AX7L,Exterior,Rear Window Wiper,YES
+Mahindra,XUV 3XO EV,AX7L,Exterior,Rear Window Washer,YES
+Mahindra,XUV 3XO EV,AX7L,Exterior,Rear Window Defogger,YES
+Mahindra,XUV 3XO EV,AX7L,Exterior,Wheel Covers,NO
+Mahindra,XUV 3XO EV,AX7L,Exterior,Alloy Wheels,YES
+Mahindra,XUV 3XO EV,AX7L,Exterior,Rear Spoiler,YES
+Mahindra,XUV 3XO EV,AX7L,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Mahindra,XUV 3XO EV,AX7L,Exterior,Projector Headlamps,YES
+Mahindra,XUV 3XO EV,AX7L,Exterior,Roof Rails,YES
+Mahindra,XUV 3XO EV,AX7L,Exterior,Automatic Headlamps,YES
+Mahindra,XUV 3XO EV,AX7L,Exterior,Fog Lights,Front
+Mahindra,XUV 3XO EV,AX7L,Exterior,Antenna,Shark Fin
+Mahindra,XUV 3XO EV,AX7L,Exterior,Sunroof,Panoramic
+Mahindra,XUV 3XO EV,AX7L,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Mahindra,XUV 3XO EV,AX7L,Exterior,Tyre Size,215/55 R17
+Mahindra,XUV 3XO EV,AX7L,Exterior,Tyre Type,Tubeless
+Mahindra,XUV 3XO EV,AX7L,Exterior,LED DRLs,YES
+Mahindra,XUV 3XO EV,AX7L,Exterior,LED Headlamps,YES
+Mahindra,XUV 3XO EV,AX7L,Exterior,LED Taillights,YES
+Mahindra,XUV 3XO EV,AX7L,Exterior,LED Fog Lamps,YES
+Mahindra,XUV 3XO EV,AX7L,Safety,Anti-lock Braking System (ABS),YES
+Mahindra,XUV 3XO EV,AX7L,Safety,Central Locking,YES
+Mahindra,XUV 3XO EV,AX7L,Safety,Child Safety Locks,YES
+Mahindra,XUV 3XO EV,AX7L,Safety,No. of Airbags,6
+Mahindra,XUV 3XO EV,AX7L,Safety,Driver Airbag,YES
+Mahindra,XUV 3XO EV,AX7L,Safety,Passenger Airbag,YES
+Mahindra,XUV 3XO EV,AX7L,Safety,Side Airbag,YES
+Mahindra,XUV 3XO EV,AX7L,Safety,Side Airbag-Rear,NO
+Mahindra,XUV 3XO EV,AX7L,Safety,Day & Night Rear View Mirror,YES
+Mahindra,XUV 3XO EV,AX7L,Safety,Electronic Brakeforce Distribution (EBD),YES
+Mahindra,XUV 3XO EV,AX7L,Safety,Traction Control,YES
+Mahindra,XUV 3XO EV,AX7L,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Mahindra,XUV 3XO EV,AX7L,Safety,Electronic Stability Control (ESC),YES
+Mahindra,XUV 3XO EV,AX7L,Safety,Rear Camera,With Guidedlines
+Mahindra,XUV 3XO EV,AX7L,Safety,Anti-Pinch Power Windows,Driver's Window
+Mahindra,XUV 3XO EV,AX7L,Safety,ISOFIX Child Seat Mounts,YES
+Mahindra,XUV 3XO EV,AX7L,Safety,360 View Camera,YES
+Mahindra,XUV 3XO EV,AX7L,Entertainment & Communication,Radio,YES
+Mahindra,XUV 3XO EV,AX7L,Entertainment & Communication,Wireless Phone Charging,YES
+Mahindra,XUV 3XO EV,AX7L,Entertainment & Communication,Bluetooth Connectivity,YES
+Mahindra,XUV 3XO EV,AX7L,Entertainment & Communication,Touchscreen,YES
+Mahindra,XUV 3XO EV,AX7L,Entertainment & Communication,Touchscreen Size,10.25 inch
+Mahindra,XUV 3XO EV,AX7L,Entertainment & Communication,Android Auto,YES
+Mahindra,XUV 3XO EV,AX7L,Entertainment & Communication,Apple CarPlay,YES
+Mahindra,XUV 3XO EV,AX7L,Entertainment & Communication,No. of Speakers,6
+Mahindra,XUV 3XO EV,AX7L,Entertainment & Communication,Usb Ports,YES
+Mahindra,XUV 3XO EV,AX7L,Entertainment & Communication,Additional Features,WIRELESS ANDROID AUTO & APPLE CAR PLAY I 7 Speaker Harman Kardon Premium Audio
+Mahindra,XUV 3XO EV,AX7L,Entertainment & Communication,Speakers,Front & Rear
+Mahindra,XUV 3XO EV,AX7L,ADAS Feature,Forward Collision Warning,YES
+Mahindra,XUV 3XO EV,AX7L,ADAS Feature,Automatic Emergency Braking,YES
+Mahindra,XUV 3XO EV,AX7L,ADAS Feature,Speed Assist System,YES
+Mahindra,XUV 3XO EV,AX7L,ADAS Feature,Traffic Sign Recognition,YES
+Mahindra,XUV 3XO EV,AX7L,ADAS Feature,Lane Departure Warning,YES
+Mahindra,XUV 3XO EV,AX7L,ADAS Feature,Lane Keep Assist,YES
+Mahindra,XUV 3XO EV,AX7L,ADAS Feature,Lane Departure Prevention Assist,YES
+Mahindra,XUV 3XO EV,AX7L,ADAS Feature,Adaptive Cruise Control,YES
+Mahindra,XUV 3XO EV,AX7L,ADAS Feature,Adaptive High Beam Assist,YES
+Mahindra,XUV 3XO EV,AX7L,ADAS Feature,Rear Cross Traffic Alert,YES
+Mahindra,XUV 3XO EV,AX7L,ADAS Feature,Blind Spot Monitor,YES
+Mahindra,XUV 3XO EV,AX7L,Advance Internet Feature,Live Location,YES
+Mahindra,XUV 3XO EV,AX7L,Advance Internet Feature,Unauthorised Vehicle entry,YES
+Mahindra,XUV 3XO EV,AX7L,Advance Internet Feature,Remote Vehicle Status Check,YES
+Mahindra,XUV 3XO EV,AX7L,Advance Internet Feature,Insurance Expiry,YES
+Mahindra,XUV 3XO EV,AX7L,Advance Internet Feature,Navigation with Live Traffic,YES
+Mahindra,XUV 3XO EV,AX7L,Advance Internet Feature,Live Weather,YES
+Mahindra,XUV 3XO EV,AX7L,Advance Internet Feature,E-Call & I-Call,YES
+Mahindra,XUV 3XO EV,AX7L,Advance Internet Feature,Google / Alexa Connectivity,YES
+Mahindra,XUV 3XO EV,AX7L,Advance Internet Feature,Save Route/Place,YES
+Mahindra,XUV 3XO EV,AX7L,Advance Internet Feature,Crash Notification,YES
+Mahindra,XUV 3XO EV,AX7L,Advance Internet Feature,SOS Button,YES
+Mahindra,XUV 3XO EV,AX7L,Advance Internet Feature,RSA,YES
+Mahindra,XUV 3XO EV,AX7L,Advance Internet Feature,Over Speeding Alert,YES
+Mahindra,XUV 3XO EV,AX7L,Advance Internet Feature,In Car Remote Control App,YES
+Mahindra,XUV 3XO EV,AX7L,Advance Internet Feature,Valet Mode,YES
+Mahindra,XUV 3XO EV,AX7L,Advance Internet Feature,Remote Door Lock/Unlock,YES
+Mahindra,XUV 3XO EV,AX7L,Advance Internet Feature,Geo-fence Alert,YES
+Mahindra,XUV 3XO EV,AX7L,Advance Internet Feature,Inbuilt APPs,ADRENOX

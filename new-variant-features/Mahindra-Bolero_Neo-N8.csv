@@ -1,0 +1,91 @@
+company,model,variant,category,feature_name,feature_details
+Mahindra,Bolero Neo,N8,Engine & Transmission,Engine Type,mHAWk100
+Mahindra,Bolero Neo,N8,Engine & Transmission,Displacement,1493 cc
+Mahindra,Bolero Neo,N8,Engine & Transmission,Max Power,98.56bhp@3750rpm
+Mahindra,Bolero Neo,N8,Engine & Transmission,Max Torque,260Nm@1750-2250rpm
+Mahindra,Bolero Neo,N8,Engine & Transmission,No. of Cylinders,3
+Mahindra,Bolero Neo,N8,Engine & Transmission,Valves Per Cylinder,4
+Mahindra,Bolero Neo,N8,Engine & Transmission,Turbo Charger,YES
+Mahindra,Bolero Neo,N8,Engine & Transmission,Transmission Type,Manual
+Mahindra,Bolero Neo,N8,Engine & Transmission,Gearbox,5-Speed
+Mahindra,Bolero Neo,N8,Engine & Transmission,Drive Type,RWD
+Mahindra,Bolero Neo,N8,Fuel & Performance,Fuel Type,Diesel
+Mahindra,Bolero Neo,N8,Fuel & Performance,Diesel Mileage ARAI,17.29 kmpl
+Mahindra,Bolero Neo,N8,Fuel & Performance,Diesel Fuel Tank Capacity,50 Litres
+Mahindra,Bolero Neo,N8,Fuel & Performance,Diesel Highway Mileage,16.16 kmpl
+Mahindra,Bolero Neo,N8,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Mahindra,Bolero Neo,N8,Fuel & Performance,Top Speed,150 kmph
+Mahindra,Bolero Neo,N8,"Suspension, Steering & Brakes",Front Suspension,Double wishbone suspension
+Mahindra,Bolero Neo,N8,"Suspension, Steering & Brakes",Rear Suspension,Multi-link suspension
+Mahindra,Bolero Neo,N8,"Suspension, Steering & Brakes",Steering Type,Power
+Mahindra,Bolero Neo,N8,"Suspension, Steering & Brakes",Steering Column,Tilt
+Mahindra,Bolero Neo,N8,"Suspension, Steering & Brakes",Turning Radius,5.35 m
+Mahindra,Bolero Neo,N8,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Mahindra,Bolero Neo,N8,"Suspension, Steering & Brakes",Rear Brake Type,Drum
+Mahindra,Bolero Neo,N8,Dimensions & Capacity,Length,3995 mm
+Mahindra,Bolero Neo,N8,Dimensions & Capacity,Width,1795 mm
+Mahindra,Bolero Neo,N8,Dimensions & Capacity,Height,1817 mm
+Mahindra,Bolero Neo,N8,Dimensions & Capacity,Boot Space,384 Litres
+Mahindra,Bolero Neo,N8,Dimensions & Capacity,Seating Capacity,7
+Mahindra,Bolero Neo,N8,Dimensions & Capacity,Ground Clearance Unladen,180 mm
+Mahindra,Bolero Neo,N8,Dimensions & Capacity,Wheel Base,2680 mm
+Mahindra,Bolero Neo,N8,Dimensions & Capacity,Gross Weight,2215 kg
+Mahindra,Bolero Neo,N8,Comfort & Convenience,Boot Opening,Manual
+Mahindra,Bolero Neo,N8,Comfort & Convenience,Power Steering,YES
+Mahindra,Bolero Neo,N8,Comfort & Convenience,Air Conditioner,YES
+Mahindra,Bolero Neo,N8,Comfort & Convenience,Heater,YES
+Mahindra,Bolero Neo,N8,Comfort & Convenience,Adjustable Steering,Height only
+Mahindra,Bolero Neo,N8,Comfort & Convenience,Height Adjustable Driver Seat,NO
+Mahindra,Bolero Neo,N8,Comfort & Convenience,Accessory Power Outlet,YES
+Mahindra,Bolero Neo,N8,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Mahindra,Bolero Neo,N8,Comfort & Convenience,Adjustable Headrest,YES
+Mahindra,Bolero Neo,N8,Comfort & Convenience,Rear Seat Centre Arm Rest,NO
+Mahindra,Bolero Neo,N8,Comfort & Convenience,Cruise Control,NO
+Mahindra,Bolero Neo,N8,Comfort & Convenience,Parking Sensors,Rear
+Mahindra,Bolero Neo,N8,Comfort & Convenience,KeyLess Entry,YES
+Mahindra,Bolero Neo,N8,Comfort & Convenience,Voice Commands,YES
+Mahindra,Bolero Neo,N8,Comfort & Convenience,Central Console Armrest,NO
+Mahindra,Bolero Neo,N8,Comfort & Convenience,Gear Shift Indicator,YES
+Mahindra,Bolero Neo,N8,Comfort & Convenience,Idle Start-Stop System,YES
+Mahindra,Bolero Neo,N8,Comfort & Convenience,Follow Me Home Headlamps,NO
+Mahindra,Bolero Neo,N8,Comfort & Convenience,Power Windows,Front & Rear
+Mahindra,Bolero Neo,N8,Interior,Glove Box,YES
+Mahindra,Bolero Neo,N8,Interior,Digital Cluster,YES
+Mahindra,Bolero Neo,N8,Interior,Digital Cluster Size,3.5 Inch
+Mahindra,Bolero Neo,N8,Interior,Upholstery,Fabric
+Mahindra,Bolero Neo,N8,Exterior,Adjustable Headlamps,YES
+Mahindra,Bolero Neo,N8,Exterior,Rear Window Wiper,YES
+Mahindra,Bolero Neo,N8,Exterior,Rear Window Defogger,YES
+Mahindra,Bolero Neo,N8,Exterior,Wheel Covers,YES
+Mahindra,Bolero Neo,N8,Exterior,Alloy Wheels,NO
+Mahindra,Bolero Neo,N8,Exterior,Rear Spoiler,NO
+Mahindra,Bolero Neo,N8,Exterior,Side Stepper,YES
+Mahindra,Bolero Neo,N8,Exterior,Cornering Foglamps,NO
+Mahindra,Bolero Neo,N8,Exterior,Fog Lights,NO
+Mahindra,Bolero Neo,N8,Exterior,Outside Rear View Mirror (ORVM),Manual
+Mahindra,Bolero Neo,N8,Exterior,Tyre Size,215/75 R15
+Mahindra,Bolero Neo,N8,Exterior,Tyre Type,Tubeless
+Mahindra,Bolero Neo,N8,Exterior,Wheel Size,15 Inch
+Mahindra,Bolero Neo,N8,Exterior,LED DRLs,NO
+Mahindra,Bolero Neo,N8,Exterior,LED Headlamps,NO
+Mahindra,Bolero Neo,N8,Exterior,LED Taillights,NO
+Mahindra,Bolero Neo,N8,Safety,Anti-lock Braking System (ABS),YES
+Mahindra,Bolero Neo,N8,Safety,Central Locking,YES
+Mahindra,Bolero Neo,N8,Safety,Child Safety Locks,YES
+Mahindra,Bolero Neo,N8,Safety,No. of Airbags,2
+Mahindra,Bolero Neo,N8,Safety,Driver Airbag,YES
+Mahindra,Bolero Neo,N8,Safety,Passenger Airbag,YES
+Mahindra,Bolero Neo,N8,Safety,Side Airbag,NO
+Mahindra,Bolero Neo,N8,Safety,Side Airbag-Rear,NO
+Mahindra,Bolero Neo,N8,Safety,Day & Night Rear View Mirror,YES
+Mahindra,Bolero Neo,N8,Safety,Electronic Brakeforce Distribution (EBD),YES
+Mahindra,Bolero Neo,N8,Safety,Engine Immobilizer,YES
+Mahindra,Bolero Neo,N8,Safety,ISOFIX Child Seat Mounts,NO
+Mahindra,Bolero Neo,N8,Safety,Global NCAP Safety Rating,1 Star
+Mahindra,Bolero Neo,N8,Safety,Global NCAP Child Safety Rating,1 Star
+Mahindra,Bolero Neo,N8,Entertainment & Communication,Radio,YES
+Mahindra,Bolero Neo,N8,Entertainment & Communication,Bluetooth Connectivity,YES
+Mahindra,Bolero Neo,N8,Entertainment & Communication,Touchscreen,NO
+Mahindra,Bolero Neo,N8,Entertainment & Communication,No. of Speakers,4
+Mahindra,Bolero Neo,N8,Entertainment & Communication,Usb Ports,YES
+Mahindra,Bolero Neo,N8,Entertainment & Communication,Speakers,Front & Rear

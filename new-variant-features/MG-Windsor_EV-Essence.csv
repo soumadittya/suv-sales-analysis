@@ -1,0 +1,147 @@
+company,model,variant,category,feature_name,feature_details
+MG,Windsor EV,Essence,Engine & Transmission,Battery Capacity,38 kWh
+MG,Windsor EV,Essence,Engine & Transmission,Motor Power,100 kW
+MG,Windsor EV,Essence,Engine & Transmission,Motor Type,Permanent Magnet Synchronous
+MG,Windsor EV,Essence,Engine & Transmission,Max Power,134bhp
+MG,Windsor EV,Essence,Engine & Transmission,Max Torque,200Nm
+MG,Windsor EV,Essence,Engine & Transmission,Range,332 km
+MG,Windsor EV,Essence,Engine & Transmission,Battery Type,Lithium-ion
+MG,Windsor EV,Essence,Engine & Transmission,Charging Time (A.C),7 H-7.4kW (10-100%)
+MG,Windsor EV,Essence,Engine & Transmission,Charging Time (D.C),45 Min-45kW (20-80%)
+MG,Windsor EV,Essence,Engine & Transmission,Regenerative Braking,YES
+MG,Windsor EV,Essence,Engine & Transmission,Charging Port,CCS-II
+MG,Windsor EV,Essence,Engine & Transmission,Charging Options,3.3 kW portable cable + 7.4 kW AC fast charger; max DC 45 kW
+MG,Windsor EV,Essence,Engine & Transmission,Transmission Type,Automatic
+MG,Windsor EV,Essence,Engine & Transmission,Gearbox,1-Speed
+MG,Windsor EV,Essence,Engine & Transmission,Drive Type,FWD
+MG,Windsor EV,Essence,Fuel & Performance,Fuel Type,Electric
+MG,Windsor EV,Essence,Fuel & Performance,Emission Norm Compliance,ZEV
+MG,Windsor EV,Essence,Charging,Charging Time,45 Min-45kW (20-80%)
+MG,Windsor EV,Essence,Charging,Fast Charging,YES
+MG,Windsor EV,Essence,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+MG,Windsor EV,Essence,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+MG,Windsor EV,Essence,"Suspension, Steering & Brakes",Steering Type,Electric
+MG,Windsor EV,Essence,"Suspension, Steering & Brakes",Steering Column,Tilt & telescopic
+MG,Windsor EV,Essence,"Suspension, Steering & Brakes",Front Brake Type,Disc
+MG,Windsor EV,Essence,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+MG,Windsor EV,Essence,Dimensions & Capacity,Length,4295 mm
+MG,Windsor EV,Essence,Dimensions & Capacity,Width,2126 mm
+MG,Windsor EV,Essence,Dimensions & Capacity,Height,1677 mm
+MG,Windsor EV,Essence,Dimensions & Capacity,Boot Space,579 Litres
+MG,Windsor EV,Essence,Dimensions & Capacity,Seating Capacity,5
+MG,Windsor EV,Essence,Dimensions & Capacity,Ground Clearance Unladen,186 mm
+MG,Windsor EV,Essence,Dimensions & Capacity,Wheel Base,2700 mm
+MG,Windsor EV,Essence,Comfort & Convenience,Boot Opening,Electronic
+MG,Windsor EV,Essence,Comfort & Convenience,Power Steering,YES
+MG,Windsor EV,Essence,Comfort & Convenience,Air Conditioner,YES
+MG,Windsor EV,Essence,Comfort & Convenience,Heater,YES
+MG,Windsor EV,Essence,Comfort & Convenience,Adjustable Steering,Height & Reach
+MG,Windsor EV,Essence,Comfort & Convenience,Height Adjustable Driver Seat,YES
+MG,Windsor EV,Essence,Comfort & Convenience,Ventilated Seats,YES
+MG,Windsor EV,Essence,Comfort & Convenience,Automatic Climate Control,YES
+MG,Windsor EV,Essence,Comfort & Convenience,Air Quality Control,YES
+MG,Windsor EV,Essence,Comfort & Convenience,Accessory Power Outlet,YES
+MG,Windsor EV,Essence,Comfort & Convenience,Rear Seat Headrest,Adjustable
+MG,Windsor EV,Essence,Comfort & Convenience,Adjustable Headrest,YES
+MG,Windsor EV,Essence,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+MG,Windsor EV,Essence,Comfort & Convenience,Rear AC Vents,YES
+MG,Windsor EV,Essence,Comfort & Convenience,Cruise Control,YES
+MG,Windsor EV,Essence,Comfort & Convenience,Parking Sensors,Rear
+MG,Windsor EV,Essence,Comfort & Convenience,Real-Time Vehicle Tracking,YES
+MG,Windsor EV,Essence,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+MG,Windsor EV,Essence,Comfort & Convenience,KeyLess Entry,YES
+MG,Windsor EV,Essence,Comfort & Convenience,Voice Commands,YES
+MG,Windsor EV,Essence,Comfort & Convenience,USB Charger,Front & Rear
+MG,Windsor EV,Essence,Comfort & Convenience,Central Console Armrest,With Storage
+MG,Windsor EV,Essence,Comfort & Convenience,Drive Modes,4
+MG,Windsor EV,Essence,Comfort & Convenience,Follow Me Home Headlamps,YES
+MG,Windsor EV,Essence,Comfort & Convenience,Voice assisted sunroof,NO
+MG,Windsor EV,Essence,Comfort & Convenience,Drive Mode Types,Eco+|Eco| Normal |Sports
+MG,Windsor EV,Essence,Comfort & Convenience,Power Windows,Front & Rear
+MG,Windsor EV,Essence,Comfort & Convenience,Cup Holders,Front & Rear
+MG,Windsor EV,Essence,Interior,Leather Wrapped Steering Wheel,YES
+MG,Windsor EV,Essence,Interior,Glove Box,YES
+MG,Windsor EV,Essence,Interior,Additional Features,Inside Rear View Mirror-Auto Dimming
+MG,Windsor EV,Essence,Interior,Digital Cluster,YES
+MG,Windsor EV,Essence,Interior,Digital Cluster Size,8.8
+MG,Windsor EV,Essence,Interior,Upholstery,Leatherette
+MG,Windsor EV,Essence,Interior,Ambient Light Colour (numbers),256
+MG,Windsor EV,Essence,Exterior,Adjustable Headlamps,YES
+MG,Windsor EV,Essence,Exterior,Rain Sensing Wiper,YES
+MG,Windsor EV,Essence,Exterior,Rear Window Defogger,YES
+MG,Windsor EV,Essence,Exterior,Rear Spoiler,YES
+MG,Windsor EV,Essence,Exterior,Outside Rear View Mirror Turn Indicators,YES
+MG,Windsor EV,Essence,Exterior,Projector Headlamps,YES
+MG,Windsor EV,Essence,Exterior,Cornering Headlamps,YES
+MG,Windsor EV,Essence,Exterior,Roof Rails,YES
+MG,Windsor EV,Essence,Exterior,Automatic Headlamps,YES
+MG,Windsor EV,Essence,Exterior,Fog Lights,Rear
+MG,Windsor EV,Essence,Exterior,Sunroof,Panoramic
+MG,Windsor EV,Essence,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+MG,Windsor EV,Essence,Exterior,Wheels Type,Alloy
+MG,Windsor EV,Essence,Exterior,Tyre Size,215/55 R18
+MG,Windsor EV,Essence,Exterior,Tyre Type,"Tubeless, Radial"
+MG,Windsor EV,Essence,Exterior,Wheel Size,18 Inch
+MG,Windsor EV,Essence,Exterior,LED DRLs,YES
+MG,Windsor EV,Essence,Exterior,LED Headlamps,YES
+MG,Windsor EV,Essence,Exterior,LED Taillights,YES
+MG,Windsor EV,Essence,Exterior,LED Fog Lamps,YES
+MG,Windsor EV,Essence,Exterior,Additional Features,Smart Flush Door Handles
+MG,Windsor EV,Essence,Safety,Anti-lock Braking System (ABS),YES
+MG,Windsor EV,Essence,Safety,Brake Assist,YES
+MG,Windsor EV,Essence,Safety,Central Locking,YES
+MG,Windsor EV,Essence,Safety,Child Safety Locks,YES
+MG,Windsor EV,Essence,Safety,Anti-Theft Alarm,YES
+MG,Windsor EV,Essence,Safety,No. of Airbags,6
+MG,Windsor EV,Essence,Safety,Driver Airbag,YES
+MG,Windsor EV,Essence,Safety,Passenger Airbag,YES
+MG,Windsor EV,Essence,Safety,Side Airbag,YES
+MG,Windsor EV,Essence,Safety,Side Airbag-Rear,NO
+MG,Windsor EV,Essence,Safety,Day & Night Rear View Mirror,YES
+MG,Windsor EV,Essence,Safety,Electronic Brakeforce Distribution (EBD),YES
+MG,Windsor EV,Essence,Safety,Tyre Pressure Monitoring System (TPMS),YES
+MG,Windsor EV,Essence,Safety,Engine Immobilizer,YES
+MG,Windsor EV,Essence,Safety,Electronic Stability Control (ESC),YES
+MG,Windsor EV,Essence,Safety,Rear Camera,With Guidedlines
+MG,Windsor EV,Essence,Safety,Anti-Pinch Power Windows,All Windows
+MG,Windsor EV,Essence,Safety,ISOFIX Child Seat Mounts,YES
+MG,Windsor EV,Essence,Safety,Hill Descent Control,YES
+MG,Windsor EV,Essence,Safety,Hill Assist,YES
+MG,Windsor EV,Essence,Safety,360 View Camera,YES
+MG,Windsor EV,Essence,Entertainment & Communication,Radio,YES
+MG,Windsor EV,Essence,Entertainment & Communication,Wireless Phone Charging,YES
+MG,Windsor EV,Essence,Entertainment & Communication,Bluetooth Connectivity,YES
+MG,Windsor EV,Essence,Entertainment & Communication,Wi-Fi Connectivity,YES
+MG,Windsor EV,Essence,Entertainment & Communication,Touchscreen,YES
+MG,Windsor EV,Essence,Entertainment & Communication,Touchscreen Size,15.6 inch
+MG,Windsor EV,Essence,Entertainment & Communication,Android Auto,YES
+MG,Windsor EV,Essence,Entertainment & Communication,Apple CarPlay,YES
+MG,Windsor EV,Essence,Entertainment & Communication,No. of Speakers,9
+MG,Windsor EV,Essence,Entertainment & Communication,Usb Ports,YES
+MG,Windsor EV,Essence,Entertainment & Communication,Inbuilt Apps,JioSaavn
+MG,Windsor EV,Essence,Entertainment & Communication,Tweeters,4
+MG,Windsor EV,Essence,Entertainment & Communication,Subwoofer,1
+MG,Windsor EV,Essence,Entertainment & Communication,Additional Features,Wireless Android Auto & Apple Carplay
+MG,Windsor EV,Essence,Entertainment & Communication,Speakers,Front & Rear
+MG,Windsor EV,Essence,ADAS Feature,Forward Collision Warning,NO
+MG,Windsor EV,Essence,ADAS Feature,Automatic Emergency Braking,NO
+MG,Windsor EV,Essence,ADAS Feature,Lane Departure Warning,NO
+MG,Windsor EV,Essence,ADAS Feature,Lane Keep Assist,NO
+MG,Windsor EV,Essence,ADAS Feature,Lane Departure Prevention Assist,NO
+MG,Windsor EV,Essence,ADAS Feature,Adaptive Cruise Control,NO
+MG,Windsor EV,Essence,ADAS Feature,Adaptive High Beam Assist,NO
+MG,Windsor EV,Essence,ADAS Feature,Rear Cross Traffic Collision-Avoidance Assist,NO
+MG,Windsor EV,Essence,Advance Internet Feature,Live Location,YES
+MG,Windsor EV,Essence,Advance Internet Feature,Engine Start Alarm,YES
+MG,Windsor EV,Essence,Advance Internet Feature,Remote Vehicle Status Check,YES
+MG,Windsor EV,Essence,Advance Internet Feature,Digital Car Key,YES
+MG,Windsor EV,Essence,Advance Internet Feature,Hinglish Voice Commands,YES
+MG,Windsor EV,Essence,Advance Internet Feature,E-Call & I-Call,YES
+MG,Windsor EV,Essence,Advance Internet Feature,Over the Air (OTA) Updates,YES
+MG,Windsor EV,Essence,Advance Internet Feature,Google / Alexa Connectivity,YES
+MG,Windsor EV,Essence,Advance Internet Feature,In Car Remote Control App,YES
+MG,Windsor EV,Essence,Advance Internet Feature,Smartwatch App,YES
+MG,Windsor EV,Essence,Advance Internet Feature,Valet Mode,YES
+MG,Windsor EV,Essence,Advance Internet Feature,Remote AC On/Off,YES
+MG,Windsor EV,Essence,Advance Internet Feature,Remote Door Lock/Unlock,YES
+MG,Windsor EV,Essence,Advance Internet Feature,Geo-fence Alert,YES

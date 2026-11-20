@@ -1,0 +1,131 @@
+company,model,variant,category,feature_name,feature_details
+Hyundai,Creta N Line,N10 DCT,Engine & Transmission,Engine Type,1.5l Turbo GDi
+Hyundai,Creta N Line,N10 DCT,Engine & Transmission,Displacement,1482 cc
+Hyundai,Creta N Line,N10 DCT,Engine & Transmission,Max Power,158bhp@5500rpm
+Hyundai,Creta N Line,N10 DCT,Engine & Transmission,Max Torque,253Nm@1500-3500rpm
+Hyundai,Creta N Line,N10 DCT,Engine & Transmission,No. of Cylinders,4
+Hyundai,Creta N Line,N10 DCT,Engine & Transmission,Valves Per Cylinder,4
+Hyundai,Creta N Line,N10 DCT,Engine & Transmission,Valve Configuration,DOHC
+Hyundai,Creta N Line,N10 DCT,Engine & Transmission,Turbo Charger,YES
+Hyundai,Creta N Line,N10 DCT,Engine & Transmission,Transmission Type,Automatic
+Hyundai,Creta N Line,N10 DCT,Engine & Transmission,Gearbox,7-speed DCT
+Hyundai,Creta N Line,N10 DCT,Engine & Transmission,Drive Type,FWD
+Hyundai,Creta N Line,N10 DCT,Fuel & Performance,Fuel Type,Petrol
+Hyundai,Creta N Line,N10 DCT,Fuel & Performance,Petrol Mileage ARAI,18.2 kmpl
+Hyundai,Creta N Line,N10 DCT,Fuel & Performance,Petrol Fuel Tank Capacity,50 Litres
+Hyundai,Creta N Line,N10 DCT,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Hyundai,Creta N Line,N10 DCT,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Hyundai,Creta N Line,N10 DCT,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Hyundai,Creta N Line,N10 DCT,"Suspension, Steering & Brakes",Steering Type,Electric
+Hyundai,Creta N Line,N10 DCT,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Hyundai,Creta N Line,N10 DCT,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Hyundai,Creta N Line,N10 DCT,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Hyundai,Creta N Line,N10 DCT,Dimensions & Capacity,Length,4330 mm
+Hyundai,Creta N Line,N10 DCT,Dimensions & Capacity,Width,1790 mm
+Hyundai,Creta N Line,N10 DCT,Dimensions & Capacity,Height,1635 mm
+Hyundai,Creta N Line,N10 DCT,Dimensions & Capacity,Seating Capacity,5
+Hyundai,Creta N Line,N10 DCT,Dimensions & Capacity,Wheel Base,2610 mm
+Hyundai,Creta N Line,N10 DCT,Dimensions & Capacity,Reported Boot Space,433 Litres
+Hyundai,Creta N Line,N10 DCT,Dimensions & Capacity,Reported Ground Clearance (Unladen),190 mm
+Hyundai,Creta N Line,N10 DCT,Comfort & Convenience,Boot Opening,Electronic
+Hyundai,Creta N Line,N10 DCT,Comfort & Convenience,Power Steering,YES
+Hyundai,Creta N Line,N10 DCT,Comfort & Convenience,Air Conditioner,YES
+Hyundai,Creta N Line,N10 DCT,Comfort & Convenience,Heater,YES
+Hyundai,Creta N Line,N10 DCT,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Hyundai,Creta N Line,N10 DCT,Comfort & Convenience,Ventilated Seats,YES
+Hyundai,Creta N Line,N10 DCT,Comfort & Convenience,Electric Adjustable Seats,Front
+Hyundai,Creta N Line,N10 DCT,Comfort & Convenience,Automatic Climate Control,YES
+Hyundai,Creta N Line,N10 DCT,Comfort & Convenience,Accessory Power Outlet,YES
+Hyundai,Creta N Line,N10 DCT,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Hyundai,Creta N Line,N10 DCT,Comfort & Convenience,Adjustable Headrest,YES
+Hyundai,Creta N Line,N10 DCT,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Hyundai,Creta N Line,N10 DCT,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Hyundai,Creta N Line,N10 DCT,Comfort & Convenience,Rear AC Vents,YES
+Hyundai,Creta N Line,N10 DCT,Comfort & Convenience,Cruise Control,YES
+Hyundai,Creta N Line,N10 DCT,Comfort & Convenience,Parking Sensors,Front & Rear
+Hyundai,Creta N Line,N10 DCT,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Hyundai,Creta N Line,N10 DCT,Comfort & Convenience,KeyLess Entry,YES
+Hyundai,Creta N Line,N10 DCT,Comfort & Convenience,Engine Start/Stop Button,YES
+Hyundai,Creta N Line,N10 DCT,Comfort & Convenience,Voice Commands,YES
+Hyundai,Creta N Line,N10 DCT,Comfort & Convenience,Paddle Shifters,YES
+Hyundai,Creta N Line,N10 DCT,Comfort & Convenience,USB Charger,Front & Rear
+Hyundai,Creta N Line,N10 DCT,Comfort & Convenience,Central Console Armrest,With Storage
+Hyundai,Creta N Line,N10 DCT,Comfort & Convenience,Drive Modes,3
+Hyundai,Creta N Line,N10 DCT,Comfort & Convenience,Idle Start-Stop System,YES
+Hyundai,Creta N Line,N10 DCT,Comfort & Convenience,Follow Me Home Headlamps,YES
+Hyundai,Creta N Line,N10 DCT,Comfort & Convenience,Voice assisted sunroof,YES
+Hyundai,Creta N Line,N10 DCT,Comfort & Convenience,Drive Mode Types,Eco-Normal-Sport
+Hyundai,Creta N Line,N10 DCT,Comfort & Convenience,Power Windows,Front & Rear
+Hyundai,Creta N Line,N10 DCT,Comfort & Convenience,Cup Holders,Front & Rear
+Hyundai,Creta N Line,N10 DCT,Interior,Leather Wrapped Steering Wheel,YES
+Hyundai,Creta N Line,N10 DCT,Interior,Leather wrap gear-shift selector,YES
+Hyundai,Creta N Line,N10 DCT,Interior,Glove Box,YES
+Hyundai,Creta N Line,N10 DCT,Interior,Additional Features,"Rear parcel tray,Sunglass holder"
+Hyundai,Creta N Line,N10 DCT,Interior,Digital Cluster,YES
+Hyundai,Creta N Line,N10 DCT,Interior,Digital Cluster Size,10.25
+Hyundai,Creta N Line,N10 DCT,Interior,Upholstery,Leatherette
+Hyundai,Creta N Line,N10 DCT,Exterior,Adjustable Headlamps,YES
+Hyundai,Creta N Line,N10 DCT,Exterior,Rain Sensing Wiper,YES
+Hyundai,Creta N Line,N10 DCT,Exterior,Rear Window Wiper,YES
+Hyundai,Creta N Line,N10 DCT,Exterior,Rear Window Washer,YES
+Hyundai,Creta N Line,N10 DCT,Exterior,Rear Window Defogger,YES
+Hyundai,Creta N Line,N10 DCT,Exterior,Alloy Wheels,YES
+Hyundai,Creta N Line,N10 DCT,Exterior,Rear Spoiler,YES
+Hyundai,Creta N Line,N10 DCT,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Hyundai,Creta N Line,N10 DCT,Exterior,Roof Rails,YES
+Hyundai,Creta N Line,N10 DCT,Exterior,Antenna,Shark Fin
+Hyundai,Creta N Line,N10 DCT,Exterior,Sunroof,Panoramic
+Hyundai,Creta N Line,N10 DCT,Exterior,Puddle Lamps,YES
+Hyundai,Creta N Line,N10 DCT,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Hyundai,Creta N Line,N10 DCT,Exterior,Tyre Size,215/55 R18
+Hyundai,Creta N Line,N10 DCT,Exterior,Tyre Type,Radial Tubeless
+Hyundai,Creta N Line,N10 DCT,Exterior,LED DRLs,YES
+Hyundai,Creta N Line,N10 DCT,Exterior,LED Headlamps,YES
+Hyundai,Creta N Line,N10 DCT,Exterior,LED Taillights,YES
+Hyundai,Creta N Line,N10 DCT,Safety,Anti-lock Braking System (ABS),YES
+Hyundai,Creta N Line,N10 DCT,Safety,Central Locking,YES
+Hyundai,Creta N Line,N10 DCT,Safety,Child Safety Locks,YES
+Hyundai,Creta N Line,N10 DCT,Safety,Anti-Theft Alarm,YES
+Hyundai,Creta N Line,N10 DCT,Safety,No. of Airbags,6
+Hyundai,Creta N Line,N10 DCT,Safety,Driver Airbag,YES
+Hyundai,Creta N Line,N10 DCT,Safety,Passenger Airbag,YES
+Hyundai,Creta N Line,N10 DCT,Safety,Side Airbag,YES
+Hyundai,Creta N Line,N10 DCT,Safety,Side Airbag-Rear,NO
+Hyundai,Creta N Line,N10 DCT,Safety,Day & Night Rear View Mirror,YES
+Hyundai,Creta N Line,N10 DCT,Safety,Electronic Brakeforce Distribution (EBD),YES
+Hyundai,Creta N Line,N10 DCT,Safety,Traction Control,YES
+Hyundai,Creta N Line,N10 DCT,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Hyundai,Creta N Line,N10 DCT,Safety,Engine Immobilizer,YES
+Hyundai,Creta N Line,N10 DCT,Safety,Electronic Stability Control (ESC),YES
+Hyundai,Creta N Line,N10 DCT,Safety,Rear Camera,With Guidedlines
+Hyundai,Creta N Line,N10 DCT,Safety,Anti-Theft Device,YES
+Hyundai,Creta N Line,N10 DCT,Safety,Anti-Pinch Power Windows,Driver's Window
+Hyundai,Creta N Line,N10 DCT,Safety,ISOFIX Child Seat Mounts,YES
+Hyundai,Creta N Line,N10 DCT,Safety,Hill Assist,YES
+Hyundai,Creta N Line,N10 DCT,Safety,360 View Camera,YES
+Hyundai,Creta N Line,N10 DCT,Entertainment & Communication,Radio,YES
+Hyundai,Creta N Line,N10 DCT,Entertainment & Communication,Wireless Phone Charging,YES
+Hyundai,Creta N Line,N10 DCT,Entertainment & Communication,Bluetooth Connectivity,YES
+Hyundai,Creta N Line,N10 DCT,Entertainment & Communication,Touchscreen,YES
+Hyundai,Creta N Line,N10 DCT,Entertainment & Communication,Touchscreen Size,10.25 inch
+Hyundai,Creta N Line,N10 DCT,Entertainment & Communication,Android Auto,YES
+Hyundai,Creta N Line,N10 DCT,Entertainment & Communication,Apple CarPlay,YES
+Hyundai,Creta N Line,N10 DCT,Entertainment & Communication,No. of Speakers,5
+Hyundai,Creta N Line,N10 DCT,Entertainment & Communication,Usb Ports,YES
+Hyundai,Creta N Line,N10 DCT,Entertainment & Communication,Inbuilt Apps,Jio Saavn-Bluelink
+Hyundai,Creta N Line,N10 DCT,Entertainment & Communication,Tweeters,2
+Hyundai,Creta N Line,N10 DCT,Entertainment & Communication,Subwoofer,1
+Hyundai,Creta N Line,N10 DCT,Entertainment & Communication,Additional Features,Bose premium sound 8 speaker system with front central speaker & sub-woofer
+Hyundai,Creta N Line,N10 DCT,Entertainment & Communication,Speakers,Front & Rear
+Hyundai,Creta N Line,N10 DCT,ADAS Feature,Forward Collision Warning,YES
+Hyundai,Creta N Line,N10 DCT,ADAS Feature,Blind Spot Collision Avoidance Assist,YES
+Hyundai,Creta N Line,N10 DCT,ADAS Feature,Lane Departure Warning,YES
+Hyundai,Creta N Line,N10 DCT,ADAS Feature,Lane Keep Assist,YES
+Hyundai,Creta N Line,N10 DCT,ADAS Feature,Driver Attention Warning,YES
+Hyundai,Creta N Line,N10 DCT,ADAS Feature,Adaptive Cruise Control,YES
+Hyundai,Creta N Line,N10 DCT,ADAS Feature,Leading Vehicle Departure Alert,YES
+Hyundai,Creta N Line,N10 DCT,ADAS Feature,Adaptive High Beam Assist,YES
+Hyundai,Creta N Line,N10 DCT,ADAS Feature,Rear Cross Traffic Alert,YES
+Hyundai,Creta N Line,N10 DCT,ADAS Feature,Rear Cross Traffic Collision-Avoidance Assist,YES
+Hyundai,Creta N Line,N10 DCT,ADAS Feature,Blind Spot Monitor,YES
+Hyundai,Creta N Line,N10 DCT,Advance Internet Feature,Over the Air (OTA) Updates,YES

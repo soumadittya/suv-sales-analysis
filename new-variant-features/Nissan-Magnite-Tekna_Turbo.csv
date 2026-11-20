@@ -1,0 +1,120 @@
+company,model,variant,category,feature_name,feature_details
+Nissan,Magnite,Tekna Turbo,Engine & Transmission,Engine Type,1.0 HRA0 TURBO
+Nissan,Magnite,Tekna Turbo,Engine & Transmission,Displacement,999 cc
+Nissan,Magnite,Tekna Turbo,Engine & Transmission,Max Power,99bhp@5000rpm
+Nissan,Magnite,Tekna Turbo,Engine & Transmission,Max Torque,160Nm@2800-3600rpm
+Nissan,Magnite,Tekna Turbo,Engine & Transmission,No. of Cylinders,3
+Nissan,Magnite,Tekna Turbo,Engine & Transmission,Valves Per Cylinder,4
+Nissan,Magnite,Tekna Turbo,Engine & Transmission,Turbo Charger,YES
+Nissan,Magnite,Tekna Turbo,Engine & Transmission,Transmission Type,Manual
+Nissan,Magnite,Tekna Turbo,Engine & Transmission,Gearbox,5-Speed
+Nissan,Magnite,Tekna Turbo,Engine & Transmission,Drive Type,FWD
+Nissan,Magnite,Tekna Turbo,Fuel & Performance,Fuel Type,Petrol
+Nissan,Magnite,Tekna Turbo,Fuel & Performance,Petrol Mileage ARAI,19.9 kmpl
+Nissan,Magnite,Tekna Turbo,Fuel & Performance,Petrol Fuel Tank Capacity,40 Litres
+Nissan,Magnite,Tekna Turbo,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Nissan,Magnite,Tekna Turbo,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Nissan,Magnite,Tekna Turbo,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Nissan,Magnite,Tekna Turbo,"Suspension, Steering & Brakes",Shock Absorbers Type,Double Acting
+Nissan,Magnite,Tekna Turbo,"Suspension, Steering & Brakes",Steering Type,Electric
+Nissan,Magnite,Tekna Turbo,"Suspension, Steering & Brakes",Steering Column,Tilt
+Nissan,Magnite,Tekna Turbo,"Suspension, Steering & Brakes",Turning Radius,5 m
+Nissan,Magnite,Tekna Turbo,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Nissan,Magnite,Tekna Turbo,"Suspension, Steering & Brakes",Rear Brake Type,Drum
+Nissan,Magnite,Tekna Turbo,Dimensions & Capacity,Length,3994 mm
+Nissan,Magnite,Tekna Turbo,Dimensions & Capacity,Width,1758 mm
+Nissan,Magnite,Tekna Turbo,Dimensions & Capacity,Height,1572 mm
+Nissan,Magnite,Tekna Turbo,Dimensions & Capacity,Boot Space,336 Litres
+Nissan,Magnite,Tekna Turbo,Dimensions & Capacity,Seating Capacity,5
+Nissan,Magnite,Tekna Turbo,Dimensions & Capacity,Ground Clearance Unladen,205 mm
+Nissan,Magnite,Tekna Turbo,Dimensions & Capacity,Wheel Base,2500 mm
+Nissan,Magnite,Tekna Turbo,Dimensions & Capacity,Kerb Weight,1103 kg
+Nissan,Magnite,Tekna Turbo,Dimensions & Capacity,Gross Weight,1486 kg
+Nissan,Magnite,Tekna Turbo,Comfort & Convenience,Boot Opening,Manual
+Nissan,Magnite,Tekna Turbo,Comfort & Convenience,Power Steering,YES
+Nissan,Magnite,Tekna Turbo,Comfort & Convenience,Air Conditioner,YES
+Nissan,Magnite,Tekna Turbo,Comfort & Convenience,Heater,YES
+Nissan,Magnite,Tekna Turbo,Comfort & Convenience,Adjustable Steering,Height only
+Nissan,Magnite,Tekna Turbo,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Nissan,Magnite,Tekna Turbo,Comfort & Convenience,Automatic Climate Control,YES
+Nissan,Magnite,Tekna Turbo,Comfort & Convenience,Air Quality Control,YES
+Nissan,Magnite,Tekna Turbo,Comfort & Convenience,Accessory Power Outlet,YES
+Nissan,Magnite,Tekna Turbo,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Nissan,Magnite,Tekna Turbo,Comfort & Convenience,Adjustable Headrest,YES
+Nissan,Magnite,Tekna Turbo,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Nissan,Magnite,Tekna Turbo,Comfort & Convenience,Rear AC Vents,YES
+Nissan,Magnite,Tekna Turbo,Comfort & Convenience,Cruise Control,YES
+Nissan,Magnite,Tekna Turbo,Comfort & Convenience,Parking Sensors,Rear
+Nissan,Magnite,Tekna Turbo,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Nissan,Magnite,Tekna Turbo,Comfort & Convenience,KeyLess Entry,YES
+Nissan,Magnite,Tekna Turbo,Comfort & Convenience,Engine Start/Stop Button,YES
+Nissan,Magnite,Tekna Turbo,Comfort & Convenience,Voice Commands,YES
+Nissan,Magnite,Tekna Turbo,Comfort & Convenience,USB Charger,Front & Rear
+Nissan,Magnite,Tekna Turbo,Comfort & Convenience,Central Console Armrest,With Storage
+Nissan,Magnite,Tekna Turbo,Comfort & Convenience,Gear Shift Indicator,YES
+Nissan,Magnite,Tekna Turbo,Comfort & Convenience,Glove Box light,YES
+Nissan,Magnite,Tekna Turbo,Comfort & Convenience,Power Windows,Front & Rear
+Nissan,Magnite,Tekna Turbo,Comfort & Convenience,Cup Holders,Front & Rear
+Nissan,Magnite,Tekna Turbo,Interior,Leather Wrapped Steering Wheel,YES
+Nissan,Magnite,Tekna Turbo,Interior,Glove Box,YES
+Nissan,Magnite,Tekna Turbo,Interior,Additional Features,Rear Parcel Tray
+Nissan,Magnite,Tekna Turbo,Interior,Digital Cluster,YES
+Nissan,Magnite,Tekna Turbo,Interior,Digital Cluster Size,7
+Nissan,Magnite,Tekna Turbo,Interior,Upholstery,Fabric
+Nissan,Magnite,Tekna Turbo,Exterior,Adjustable Headlamps,YES
+Nissan,Magnite,Tekna Turbo,Exterior,Rear Window Wiper,YES
+Nissan,Magnite,Tekna Turbo,Exterior,Rear Window Washer,YES
+Nissan,Magnite,Tekna Turbo,Exterior,Rear Window Defogger,YES
+Nissan,Magnite,Tekna Turbo,Exterior,Wheel Covers,NO
+Nissan,Magnite,Tekna Turbo,Exterior,Alloy Wheels,YES
+Nissan,Magnite,Tekna Turbo,Exterior,Rear Spoiler,YES
+Nissan,Magnite,Tekna Turbo,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Nissan,Magnite,Tekna Turbo,Exterior,Projector Headlamps,YES
+Nissan,Magnite,Tekna Turbo,Exterior,Roof Rails,YES
+Nissan,Magnite,Tekna Turbo,Exterior,Automatic Headlamps,YES
+Nissan,Magnite,Tekna Turbo,Exterior,Fog Lights,Front
+Nissan,Magnite,Tekna Turbo,Exterior,Antenna,Shark Fin
+Nissan,Magnite,Tekna Turbo,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Nissan,Magnite,Tekna Turbo,Exterior,Tyre Size,195/60R16
+Nissan,Magnite,Tekna Turbo,Exterior,Tyre Type,Tubeless Radial
+Nissan,Magnite,Tekna Turbo,Exterior,Wheel Size,16 Inch
+Nissan,Magnite,Tekna Turbo,Exterior,LED DRLs,YES
+Nissan,Magnite,Tekna Turbo,Exterior,LED Headlamps,YES
+Nissan,Magnite,Tekna Turbo,Exterior,LED Taillights,YES
+Nissan,Magnite,Tekna Turbo,Exterior,LED Fog Lamps,YES
+Nissan,Magnite,Tekna Turbo,Safety,Anti-lock Braking System (ABS),YES
+Nissan,Magnite,Tekna Turbo,Safety,Brake Assist,YES
+Nissan,Magnite,Tekna Turbo,Safety,Central Locking,YES
+Nissan,Magnite,Tekna Turbo,Safety,Child Safety Locks,YES
+Nissan,Magnite,Tekna Turbo,Safety,Anti-Theft Alarm,YES
+Nissan,Magnite,Tekna Turbo,Safety,No. of Airbags,6
+Nissan,Magnite,Tekna Turbo,Safety,Driver Airbag,YES
+Nissan,Magnite,Tekna Turbo,Safety,Passenger Airbag,YES
+Nissan,Magnite,Tekna Turbo,Safety,Side Airbag,YES
+Nissan,Magnite,Tekna Turbo,Safety,Side Airbag-Rear,NO
+Nissan,Magnite,Tekna Turbo,Safety,Day & Night Rear View Mirror,YES
+Nissan,Magnite,Tekna Turbo,Safety,Electronic Brakeforce Distribution (EBD),YES
+Nissan,Magnite,Tekna Turbo,Safety,Traction Control,YES
+Nissan,Magnite,Tekna Turbo,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Nissan,Magnite,Tekna Turbo,Safety,Engine Immobilizer,YES
+Nissan,Magnite,Tekna Turbo,Safety,Electronic Stability Control (ESC),YES
+Nissan,Magnite,Tekna Turbo,Safety,Rear Camera,With Guidedlines
+Nissan,Magnite,Tekna Turbo,Safety,Anti-Theft Device,YES
+Nissan,Magnite,Tekna Turbo,Safety,Anti-Pinch Power Windows,Driver's Window
+Nissan,Magnite,Tekna Turbo,Safety,ISOFIX Child Seat Mounts,YES
+Nissan,Magnite,Tekna Turbo,Safety,Hill Assist,YES
+Nissan,Magnite,Tekna Turbo,Safety,360 View Camera,YES
+Nissan,Magnite,Tekna Turbo,Entertainment & Communication,Radio,YES
+Nissan,Magnite,Tekna Turbo,Entertainment & Communication,Wireless Phone Charging,NO
+Nissan,Magnite,Tekna Turbo,Entertainment & Communication,Bluetooth Connectivity,YES
+Nissan,Magnite,Tekna Turbo,Entertainment & Communication,Wi-Fi Connectivity,YES
+Nissan,Magnite,Tekna Turbo,Entertainment & Communication,Touchscreen,YES
+Nissan,Magnite,Tekna Turbo,Entertainment & Communication,Touchscreen Size,8 inch
+Nissan,Magnite,Tekna Turbo,Entertainment & Communication,Android Auto,YES
+Nissan,Magnite,Tekna Turbo,Entertainment & Communication,Apple CarPlay,YES
+Nissan,Magnite,Tekna Turbo,Entertainment & Communication,No. of Speakers,4
+Nissan,Magnite,Tekna Turbo,Entertainment & Communication,Usb Ports,YES
+Nissan,Magnite,Tekna Turbo,Entertainment & Communication,Tweeters,2
+Nissan,Magnite,Tekna Turbo,Entertainment & Communication,Additional Features,"3D sound by ARKAMYS, Wireless Connectivity to Android Auto™ and Apple Carplay™"
+Nissan,Magnite,Tekna Turbo,Entertainment & Communication,Speakers,Front & Rear
+Nissan,Magnite,Tekna Turbo,Advance Internet Feature,Remote Vehicle Ignition Start/Stop,YES

@@ -1,0 +1,119 @@
+company,model,variant,category,feature_name,feature_details
+Volvo,EX30,RWD Ultra,Engine & Transmission,Battery Capacity,69 kWh
+Volvo,EX30,RWD Ultra,Engine & Transmission,Max Power,272bhp
+Volvo,EX30,RWD Ultra,Engine & Transmission,Max Torque,343Nm
+Volvo,EX30,RWD Ultra,Engine & Transmission,Range,480 km
+Volvo,EX30,RWD Ultra,Engine & Transmission,Battery Type,Lithium-ion
+Volvo,EX30,RWD Ultra,Engine & Transmission,Charging Time (D.C),26 Min 150 KW
+Volvo,EX30,RWD Ultra,Engine & Transmission,Regenerative Braking,YES
+Volvo,EX30,RWD Ultra,Engine & Transmission,Charging Port,CCS-II
+Volvo,EX30,RWD Ultra,Engine & Transmission,Wireless Charging,YES
+Volvo,EX30,RWD Ultra,Engine & Transmission,Transmission Type,Automatic
+Volvo,EX30,RWD Ultra,Engine & Transmission,Gearbox,Automatic 1 Gear
+Volvo,EX30,RWD Ultra,Engine & Transmission,Drive Type,RWD
+Volvo,EX30,RWD Ultra,Fuel & Performance,Fuel Type,Electric
+Volvo,EX30,RWD Ultra,Fuel & Performance,Top Speed,180 kmph
+Volvo,EX30,RWD Ultra,Fuel & Performance,Acceleration 0-100kmph,5.3 s
+Volvo,EX30,RWD Ultra,Charging,Fast Charging,YES
+Volvo,EX30,RWD Ultra,"Suspension, Steering & Brakes",Steering Type,Electric
+Volvo,EX30,RWD Ultra,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Volvo,EX30,RWD Ultra,"Suspension, Steering & Brakes",Steering Gear Type,Rack & Pinion
+Volvo,EX30,RWD Ultra,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Volvo,EX30,RWD Ultra,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Volvo,EX30,RWD Ultra,Dimensions & Capacity,Length,4233 mm
+Volvo,EX30,RWD Ultra,Dimensions & Capacity,Width,1838 mm
+Volvo,EX30,RWD Ultra,Dimensions & Capacity,Height,1550 mm
+Volvo,EX30,RWD Ultra,Dimensions & Capacity,Seating Capacity,5
+Volvo,EX30,RWD Ultra,Comfort & Convenience,Boot Opening,Powered
+Volvo,EX30,RWD Ultra,Comfort & Convenience,Power Steering,YES
+Volvo,EX30,RWD Ultra,Comfort & Convenience,Air Conditioner,YES
+Volvo,EX30,RWD Ultra,Comfort & Convenience,Heater,YES
+Volvo,EX30,RWD Ultra,Comfort & Convenience,Adjustable Steering,Height & Reach
+Volvo,EX30,RWD Ultra,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Volvo,EX30,RWD Ultra,Comfort & Convenience,Electric Adjustable Seats,Front & Rear
+Volvo,EX30,RWD Ultra,Comfort & Convenience,Automatic Climate Control,YES
+Volvo,EX30,RWD Ultra,Comfort & Convenience,Air Quality Control,YES
+Volvo,EX30,RWD Ultra,Comfort & Convenience,Accessory Power Outlet,YES
+Volvo,EX30,RWD Ultra,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Volvo,EX30,RWD Ultra,Comfort & Convenience,Adjustable Headrest,YES
+Volvo,EX30,RWD Ultra,Comfort & Convenience,Rear Seat Centre Arm Rest,NO
+Volvo,EX30,RWD Ultra,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Volvo,EX30,RWD Ultra,Comfort & Convenience,Rear AC Vents,YES
+Volvo,EX30,RWD Ultra,Comfort & Convenience,Lumbar Support,YES
+Volvo,EX30,RWD Ultra,Comfort & Convenience,Cruise Control,YES
+Volvo,EX30,RWD Ultra,Comfort & Convenience,Parking Sensors,Front & Rear
+Volvo,EX30,RWD Ultra,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Volvo,EX30,RWD Ultra,Comfort & Convenience,KeyLess Entry,YES
+Volvo,EX30,RWD Ultra,Comfort & Convenience,Voice Commands,YES
+Volvo,EX30,RWD Ultra,Comfort & Convenience,Paddle Shifters,YES
+Volvo,EX30,RWD Ultra,Comfort & Convenience,USB Charger,Front & Rear
+Volvo,EX30,RWD Ultra,Comfort & Convenience,Central Console Armrest,YES
+Volvo,EX30,RWD Ultra,Comfort & Convenience,Glove Box light,YES
+Volvo,EX30,RWD Ultra,Comfort & Convenience,Cup Holders,Front Only
+Volvo,EX30,RWD Ultra,Interior,Glove Box,YES
+Volvo,EX30,RWD Ultra,Interior,Upholstery,Fabric
+Volvo,EX30,RWD Ultra,Exterior,Adjustable Headlamps,YES
+Volvo,EX30,RWD Ultra,Exterior,Rain Sensing Wiper,YES
+Volvo,EX30,RWD Ultra,Exterior,Rear Window Wiper,YES
+Volvo,EX30,RWD Ultra,Exterior,Rear Window Washer,YES
+Volvo,EX30,RWD Ultra,Exterior,Rear Window Defogger,YES
+Volvo,EX30,RWD Ultra,Exterior,Alloy Wheels,YES
+Volvo,EX30,RWD Ultra,Exterior,Rear Spoiler,YES
+Volvo,EX30,RWD Ultra,Exterior,Side Stepper,NO
+Volvo,EX30,RWD Ultra,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Volvo,EX30,RWD Ultra,Exterior,Automatic Headlamps,YES
+Volvo,EX30,RWD Ultra,Exterior,Fog Lights,Rear
+Volvo,EX30,RWD Ultra,Exterior,Sunroof,Panoramic
+Volvo,EX30,RWD Ultra,Exterior,Tyre Size,245/45 R19
+Volvo,EX30,RWD Ultra,Exterior,Tyre Type,"Tubeless, Radial"
+Volvo,EX30,RWD Ultra,Exterior,Wheel Size,19 Inch
+Volvo,EX30,RWD Ultra,Exterior,LED DRLs,YES
+Volvo,EX30,RWD Ultra,Exterior,LED Headlamps,YES
+Volvo,EX30,RWD Ultra,Exterior,LED Taillights,YES
+Volvo,EX30,RWD Ultra,Safety,Anti-lock Braking System (ABS),YES
+Volvo,EX30,RWD Ultra,Safety,Brake Assist,YES
+Volvo,EX30,RWD Ultra,Safety,Central Locking,YES
+Volvo,EX30,RWD Ultra,Safety,Child Safety Locks,YES
+Volvo,EX30,RWD Ultra,Safety,Anti-Theft Alarm,YES
+Volvo,EX30,RWD Ultra,Safety,No. of Airbags,6
+Volvo,EX30,RWD Ultra,Safety,Driver Airbag,YES
+Volvo,EX30,RWD Ultra,Safety,Passenger Airbag,YES
+Volvo,EX30,RWD Ultra,Safety,Side Airbag,YES
+Volvo,EX30,RWD Ultra,Safety,Side Airbag-Rear,NO
+Volvo,EX30,RWD Ultra,Safety,Day & Night Rear View Mirror,YES
+Volvo,EX30,RWD Ultra,Safety,Electronic Brakeforce Distribution (EBD),YES
+Volvo,EX30,RWD Ultra,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Volvo,EX30,RWD Ultra,Safety,Rear Camera,With Guidedlines
+Volvo,EX30,RWD Ultra,Safety,Anti-Theft Device,YES
+Volvo,EX30,RWD Ultra,Safety,ISOFIX Child Seat Mounts,YES
+Volvo,EX30,RWD Ultra,Safety,Hill Descent Control,YES
+Volvo,EX30,RWD Ultra,Safety,Hill Assist,YES
+Volvo,EX30,RWD Ultra,Safety,360 View Camera,YES
+Volvo,EX30,RWD Ultra,Safety,Global NCAP Safety Rating,5 Star
+Volvo,EX30,RWD Ultra,Entertainment & Communication,Radio,YES
+Volvo,EX30,RWD Ultra,Entertainment & Communication,Wireless Phone Charging,YES
+Volvo,EX30,RWD Ultra,Entertainment & Communication,Bluetooth Connectivity,YES
+Volvo,EX30,RWD Ultra,Entertainment & Communication,Wi-Fi Connectivity,YES
+Volvo,EX30,RWD Ultra,Entertainment & Communication,Touchscreen,YES
+Volvo,EX30,RWD Ultra,Entertainment & Communication,Touchscreen Size,12.3 inch
+Volvo,EX30,RWD Ultra,Entertainment & Communication,Android Auto,YES
+Volvo,EX30,RWD Ultra,Entertainment & Communication,Apple CarPlay,YES
+Volvo,EX30,RWD Ultra,Entertainment & Communication,No. of Speakers,6
+Volvo,EX30,RWD Ultra,Entertainment & Communication,Usb Ports,YES
+Volvo,EX30,RWD Ultra,Entertainment & Communication,Tweeters,2
+Volvo,EX30,RWD Ultra,Entertainment & Communication,Subwoofer,1
+Volvo,EX30,RWD Ultra,Entertainment & Communication,Speakers,Front & Rear
+Volvo,EX30,RWD Ultra,ADAS Feature,Automatic Emergency Braking,YES
+Volvo,EX30,RWD Ultra,ADAS Feature,Traffic Sign Recognition,YES
+Volvo,EX30,RWD Ultra,ADAS Feature,Lane Keep Assist,YES
+Volvo,EX30,RWD Ultra,ADAS Feature,Driver Attention Warning,YES
+Volvo,EX30,RWD Ultra,ADAS Feature,Leading Vehicle Departure Alert,YES
+Volvo,EX30,RWD Ultra,ADAS Feature,Adaptive High Beam Assist,YES
+Volvo,EX30,RWD Ultra,ADAS Feature,Rear Cross Traffic Alert,YES
+Volvo,EX30,RWD Ultra,ADAS Feature,Blind Spot Monitor,YES
+Volvo,EX30,RWD Ultra,Advance Internet Feature,Live Location,YES
+Volvo,EX30,RWD Ultra,Advance Internet Feature,Digital Car Key,YES
+Volvo,EX30,RWD Ultra,Advance Internet Feature,Navigation with Live Traffic,YES
+Volvo,EX30,RWD Ultra,Advance Internet Feature,Live Weather,YES
+Volvo,EX30,RWD Ultra,Advance Internet Feature,E-Call & I-Call,YES
+Volvo,EX30,RWD Ultra,Advance Internet Feature,SOS Button,YES

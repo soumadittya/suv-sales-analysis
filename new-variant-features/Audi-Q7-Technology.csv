@@ -1,0 +1,104 @@
+company,model,variant,category,feature_name,feature_details
+Audi,Q7,Technology,Engine & Transmission,Engine Type,3.0L V6 TFSI
+Audi,Q7,Technology,Engine & Transmission,Displacement,2995 cc
+Audi,Q7,Technology,Engine & Transmission,Max Power,335bhp@5200 - 6400rpm
+Audi,Q7,Technology,Engine & Transmission,Max Torque,500Nm@1370 - 4500rpm
+Audi,Q7,Technology,Engine & Transmission,No. of Cylinders,6
+Audi,Q7,Technology,Engine & Transmission,Valves Per Cylinder,4
+Audi,Q7,Technology,Engine & Transmission,Turbo Charger,YES
+Audi,Q7,Technology,Engine & Transmission,Transmission Type,Automatic
+Audi,Q7,Technology,Engine & Transmission,Gearbox,8-Speed AT
+Audi,Q7,Technology,Engine & Transmission,Drive Type,AWD
+Audi,Q7,Technology,Fuel & Performance,Fuel Type,Petrol
+Audi,Q7,Technology,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Audi,Q7,Technology,Fuel & Performance,Top Speed,250 kmph
+Audi,Q7,Technology,Fuel & Performance,Acceleration,5.6 s
+Audi,Q7,Technology,Fuel & Performance,0-100kmph,5.6 s
+Audi,Q7,Technology,"Suspension, Steering & Brakes",Steering Type,Electric
+Audi,Q7,Technology,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Audi,Q7,Technology,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Audi,Q7,Technology,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Audi,Q7,Technology,Dimensions & Capacity,Length,5072 mm
+Audi,Q7,Technology,Dimensions & Capacity,Width,1970 mm
+Audi,Q7,Technology,Dimensions & Capacity,Height,1705 mm
+Audi,Q7,Technology,Dimensions & Capacity,Seating Capacity,7
+Audi,Q7,Technology,Dimensions & Capacity,Wheel Base,3000 mm
+Audi,Q7,Technology,Comfort & Convenience,Boot Opening,Electronic
+Audi,Q7,Technology,Comfort & Convenience,Power Steering,YES
+Audi,Q7,Technology,Comfort & Convenience,Air Conditioner,YES
+Audi,Q7,Technology,Comfort & Convenience,Heater,YES
+Audi,Q7,Technology,Comfort & Convenience,Adjustable Steering,Height & Reach
+Audi,Q7,Technology,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Audi,Q7,Technology,Comfort & Convenience,Electric Adjustable Seats,Front
+Audi,Q7,Technology,Comfort & Convenience,Automatic Climate Control,YES
+Audi,Q7,Technology,Comfort & Convenience,Air Quality Control,YES
+Audi,Q7,Technology,Comfort & Convenience,Accessory Power Outlet,YES
+Audi,Q7,Technology,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Audi,Q7,Technology,Comfort & Convenience,Adjustable Headrest,YES
+Audi,Q7,Technology,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Audi,Q7,Technology,Comfort & Convenience,Rear AC Vents,YES
+Audi,Q7,Technology,Comfort & Convenience,Cruise Control,YES
+Audi,Q7,Technology,Comfort & Convenience,Parking Sensors,Front & Rear
+Audi,Q7,Technology,Comfort & Convenience,KeyLess Entry,YES
+Audi,Q7,Technology,Comfort & Convenience,Engine Start/Stop Button,YES
+Audi,Q7,Technology,Comfort & Convenience,USB Charger,Front & Rear
+Audi,Q7,Technology,Comfort & Convenience,Central Console Armrest,With Storage
+Audi,Q7,Technology,Comfort & Convenience,Drive Modes,6
+Audi,Q7,Technology,Comfort & Convenience,Glove Box light,YES
+Audi,Q7,Technology,Comfort & Convenience,Idle Start-Stop System,YES
+Audi,Q7,Technology,Comfort & Convenience,Follow Me Home Headlamps,YES
+Audi,Q7,Technology,Comfort & Convenience,Drive Mode Types,Auto Mode-Comfort Mode-Dynamic Mode-Effciency Mode-Off-Road Mode-Indiviual Mode-All-Road Mode
+Audi,Q7,Technology,Comfort & Convenience,Power Windows,Front & Rear
+Audi,Q7,Technology,Comfort & Convenience,Cup Holders,Front & Rear
+Audi,Q7,Technology,Interior,Leather Wrapped Steering Wheel,YES
+Audi,Q7,Technology,Interior,Glove Box,YES
+Audi,Q7,Technology,Interior,Digital Cluster,YES
+Audi,Q7,Technology,Interior,Digital Cluster Size,12.29
+Audi,Q7,Technology,Interior,Upholstery,Leather
+Audi,Q7,Technology,Exterior,Adjustable Headlamps,YES
+Audi,Q7,Technology,Exterior,Rain Sensing Wiper,YES
+Audi,Q7,Technology,Exterior,Rear Window Wiper,YES
+Audi,Q7,Technology,Exterior,Rear Window Washer,YES
+Audi,Q7,Technology,Exterior,Rear Window Defogger,YES
+Audi,Q7,Technology,Exterior,Rear Spoiler,YES
+Audi,Q7,Technology,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Audi,Q7,Technology,Exterior,Projector Headlamps,YES
+Audi,Q7,Technology,Exterior,Roof Rails,YES
+Audi,Q7,Technology,Exterior,Antenna,Shark Fin
+Audi,Q7,Technology,Exterior,Sunroof,Dual Pane
+Audi,Q7,Technology,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Audi,Q7,Technology,Exterior,Tyre Type,Radial Tubeless
+Audi,Q7,Technology,Exterior,LED DRLs,YES
+Audi,Q7,Technology,Exterior,LED Headlamps,YES
+Audi,Q7,Technology,Exterior,LED Taillights,YES
+Audi,Q7,Technology,Safety,Anti-lock Braking System (ABS),YES
+Audi,Q7,Technology,Safety,Central Locking,YES
+Audi,Q7,Technology,Safety,Child Safety Locks,YES
+Audi,Q7,Technology,Safety,Anti-Theft Alarm,YES
+Audi,Q7,Technology,Safety,No. of Airbags,8
+Audi,Q7,Technology,Safety,Driver Airbag,YES
+Audi,Q7,Technology,Safety,Passenger Airbag,YES
+Audi,Q7,Technology,Safety,Side Airbag,YES
+Audi,Q7,Technology,Safety,Side Airbag-Rear,YES
+Audi,Q7,Technology,Safety,Day & Night Rear View Mirror,YES
+Audi,Q7,Technology,Safety,Electronic Brakeforce Distribution (EBD),YES
+Audi,Q7,Technology,Safety,Traction Control,YES
+Audi,Q7,Technology,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Audi,Q7,Technology,Safety,Engine Immobilizer,YES
+Audi,Q7,Technology,Safety,Electronic Stability Control (ESC),YES
+Audi,Q7,Technology,Safety,Rear Camera,With Guidedlines
+Audi,Q7,Technology,Safety,Anti-Theft Device,YES
+Audi,Q7,Technology,Safety,Anti-Pinch Power Windows,Driver's Window
+Audi,Q7,Technology,Safety,ISOFIX Child Seat Mounts,YES
+Audi,Q7,Technology,Safety,Hill Assist,YES
+Audi,Q7,Technology,Safety,360 View Camera,YES
+Audi,Q7,Technology,Entertainment & Communication,Radio,YES
+Audi,Q7,Technology,Entertainment & Communication,Wireless Phone Charging,YES
+Audi,Q7,Technology,Entertainment & Communication,Bluetooth Connectivity,YES
+Audi,Q7,Technology,Entertainment & Communication,Touchscreen,YES
+Audi,Q7,Technology,Entertainment & Communication,Touchscreen Size,10.09 inch
+Audi,Q7,Technology,Entertainment & Communication,Android Auto,YES
+Audi,Q7,Technology,Entertainment & Communication,Apple CarPlay,YES
+Audi,Q7,Technology,Entertainment & Communication,No. of Speakers,19
+Audi,Q7,Technology,Entertainment & Communication,Usb Ports,YES
+Audi,Q7,Technology,Entertainment & Communication,Speakers,Front & Rear

@@ -1,0 +1,107 @@
+company,model,variant,category,feature_name,feature_details
+Audi,Q3,Nova,Engine & Transmission,Engine Type,2.0L TFSI
+Audi,Q3,Nova,Engine & Transmission,Displacement,1984 cc
+Audi,Q3,Nova,Engine & Transmission,Max Power,201.15bhp@4500-6000rpm
+Audi,Q3,Nova,Engine & Transmission,Max Torque,320Nm@1500-4400rpm
+Audi,Q3,Nova,Engine & Transmission,No. of Cylinders,4
+Audi,Q3,Nova,Engine & Transmission,Valves Per Cylinder,4
+Audi,Q3,Nova,Engine & Transmission,Turbo Charger,YES
+Audi,Q3,Nova,Engine & Transmission,Transmission Type,Automatic
+Audi,Q3,Nova,Engine & Transmission,Gearbox,7-Speed DCT
+Audi,Q3,Nova,Engine & Transmission,Drive Type,AWD
+Audi,Q3,Nova,Fuel & Performance,Fuel Type,Petrol
+Audi,Q3,Nova,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Audi,Q3,Nova,Fuel & Performance,Top Speed,229 kmph
+Audi,Q3,Nova,Fuel & Performance,Acceleration,7.1 s
+Audi,Q3,Nova,Fuel & Performance,0-100kmph,7.1 s
+Audi,Q3,Nova,"Suspension, Steering & Brakes",Steering Type,Electronic
+Audi,Q3,Nova,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Audi,Q3,Nova,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Audi,Q3,Nova,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Audi,Q3,Nova,Dimensions & Capacity,Length,4531 mm
+Audi,Q3,Nova,Dimensions & Capacity,Width,1859 mm
+Audi,Q3,Nova,Dimensions & Capacity,Height,1601 mm
+Audi,Q3,Nova,Dimensions & Capacity,Seating Capacity,5
+Audi,Q3,Nova,Dimensions & Capacity,Wheel Base,2681 mm
+Audi,Q3,Nova,Comfort & Convenience,Boot Opening,Powered
+Audi,Q3,Nova,Comfort & Convenience,Power Steering,YES
+Audi,Q3,Nova,Comfort & Convenience,Air Conditioner,YES
+Audi,Q3,Nova,Comfort & Convenience,Heater,YES
+Audi,Q3,Nova,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Audi,Q3,Nova,Comfort & Convenience,Electric Adjustable Seats,Front Only
+Audi,Q3,Nova,Comfort & Convenience,Automatic Climate Control,YES
+Audi,Q3,Nova,Comfort & Convenience,Air Quality Control,YES
+Audi,Q3,Nova,Comfort & Convenience,Accessory Power Outlet,YES
+Audi,Q3,Nova,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Audi,Q3,Nova,Comfort & Convenience,Adjustable Headrest,YES
+Audi,Q3,Nova,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Audi,Q3,Nova,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Audi,Q3,Nova,Comfort & Convenience,Lumbar Support,YES
+Audi,Q3,Nova,Comfort & Convenience,Cruise Control,YES
+Audi,Q3,Nova,Comfort & Convenience,Parking Sensors,Front & Rear
+Audi,Q3,Nova,Comfort & Convenience,Real-Time Vehicle Tracking,YES
+Audi,Q3,Nova,Comfort & Convenience,KeyLess Entry,YES
+Audi,Q3,Nova,Comfort & Convenience,Engine Start/Stop Button,YES
+Audi,Q3,Nova,Comfort & Convenience,Voice Commands,YES
+Audi,Q3,Nova,Comfort & Convenience,Paddle Shifters,YES
+Audi,Q3,Nova,Comfort & Convenience,USB Charger,Front & Rear
+Audi,Q3,Nova,Comfort & Convenience,Central Console Armrest,YES
+Audi,Q3,Nova,Comfort & Convenience,Follow Me Home Headlamps,YES
+Audi,Q3,Nova,Comfort & Convenience,Power Windows,Front & Rear
+Audi,Q3,Nova,Comfort & Convenience,Heated Seats,Front Only
+Audi,Q3,Nova,Interior,Leather Wrapped Steering Wheel,YES
+Audi,Q3,Nova,Interior,Leather wrap gear-shift selector,YES
+Audi,Q3,Nova,Interior,Glove Box,YES
+Audi,Q3,Nova,Interior,Digital Cluster,YES
+Audi,Q3,Nova,Interior,Digital Cluster Size,11.9
+Audi,Q3,Nova,Interior,Upholstery,Leatherette
+Audi,Q3,Nova,Exterior,Adjustable Headlamps,YES
+Audi,Q3,Nova,Exterior,Headlamp Washers,YES
+Audi,Q3,Nova,Exterior,Rain Sensing Wiper,YES
+Audi,Q3,Nova,Exterior,Rear Window Wiper,YES
+Audi,Q3,Nova,Exterior,Rear Window Washer,YES
+Audi,Q3,Nova,Exterior,Rear Window Defogger,YES
+Audi,Q3,Nova,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Audi,Q3,Nova,Exterior,Projector Headlamps,YES
+Audi,Q3,Nova,Exterior,Automatic Headlamps,YES
+Audi,Q3,Nova,Exterior,Antenna,Shark Fin
+Audi,Q3,Nova,Exterior,Sunroof,Panoramic
+Audi,Q3,Nova,Exterior,Heated Outside Rear View Mirror,YES
+Audi,Q3,Nova,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Audi,Q3,Nova,Exterior,Wheels Type,Alloy
+Audi,Q3,Nova,Exterior,Wheel Size,18 Inch
+Audi,Q3,Nova,Exterior,LED DRLs,YES
+Audi,Q3,Nova,Exterior,LED Headlamps,YES
+Audi,Q3,Nova,Exterior,LED Taillights,YES
+Audi,Q3,Nova,Safety,Anti-lock Braking System (ABS),YES
+Audi,Q3,Nova,Safety,Brake Assist,YES
+Audi,Q3,Nova,Safety,Central Locking,YES
+Audi,Q3,Nova,Safety,Child Safety Locks,YES
+Audi,Q3,Nova,Safety,Anti-Theft Alarm,YES
+Audi,Q3,Nova,Safety,No. of Airbags,7
+Audi,Q3,Nova,Safety,Day & Night Rear View Mirror,YES
+Audi,Q3,Nova,Safety,Electronic Brakeforce Distribution (EBD),YES
+Audi,Q3,Nova,Safety,Traction Control,YES
+Audi,Q3,Nova,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Audi,Q3,Nova,Safety,Engine Immobilizer,YES
+Audi,Q3,Nova,Safety,Electronic Stability Control (ESC),YES
+Audi,Q3,Nova,Safety,Rear Camera,With Guidedlines
+Audi,Q3,Nova,Safety,Anti-Theft Device,YES
+Audi,Q3,Nova,Safety,Anti-Pinch Power Windows,All Windows
+Audi,Q3,Nova,Safety,ISOFIX Child Seat Mounts,YES
+Audi,Q3,Nova,Safety,Heads-Up Display (HUD),NO
+Audi,Q3,Nova,Safety,Hill Descent Control,YES
+Audi,Q3,Nova,Safety,Hill Assist,YES
+Audi,Q3,Nova,Safety,Safety Airbags,"Driver & Passenger, Front Side, Curtain"
+Audi,Q3,Nova,Entertainment & Communication,Radio,YES
+Audi,Q3,Nova,Entertainment & Communication,Wireless Phone Charging,YES
+Audi,Q3,Nova,Entertainment & Communication,Bluetooth Connectivity,YES
+Audi,Q3,Nova,Entertainment & Communication,Touchscreen,YES
+Audi,Q3,Nova,Entertainment & Communication,Touchscreen Size,12.8 inch
+Audi,Q3,Nova,Entertainment & Communication,Android Auto,Wireless
+Audi,Q3,Nova,Entertainment & Communication,Apple CarPlay,Wireless
+Audi,Q3,Nova,Entertainment & Communication,No. of Speakers,10
+Audi,Q3,Nova,Entertainment & Communication,Usb Ports,YES
+Audi,Q3,Nova,Entertainment & Communication,Speakers,Front & Rear
+Audi,Q3,Nova,ADAS Feature,Driver Attention Warning,YES
+Audi,Q3,Nova,ADAS Feature,Adaptive Cruise Control,YES

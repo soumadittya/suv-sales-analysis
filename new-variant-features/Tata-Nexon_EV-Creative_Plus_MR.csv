@@ -1,0 +1,147 @@
+company,model,variant,category,feature_name,feature_details
+Tata,Nexon EV,Creative Plus MR,Engine & Transmission,Battery Capacity,30 kWh
+Tata,Nexon EV,Creative Plus MR,Engine & Transmission,Motor Power,95 kW
+Tata,Nexon EV,Creative Plus MR,Engine & Transmission,Motor Type,Permanent Magnet Synchronous AC Motor
+Tata,Nexon EV,Creative Plus MR,Engine & Transmission,Max Power,127bhp
+Tata,Nexon EV,Creative Plus MR,Engine & Transmission,Max Torque,215Nm
+Tata,Nexon EV,Creative Plus MR,Engine & Transmission,Range,275 km
+Tata,Nexon EV,Creative Plus MR,Engine & Transmission,Battery Warranty,"8 years/1,60,000 km"
+Tata,Nexon EV,Creative Plus MR,Engine & Transmission,Battery Type,Lithium-ion
+Tata,Nexon EV,Creative Plus MR,Engine & Transmission,Charging Time (A.C),7.2kW - 10 to 100% - 4 hrs 18 mins
+Tata,Nexon EV,Creative Plus MR,Engine & Transmission,Charging Time (D.C),50kW - 10 to 80% - 56 mins
+Tata,Nexon EV,Creative Plus MR,Engine & Transmission,Regenerative Braking,YES
+Tata,Nexon EV,Creative Plus MR,Engine & Transmission,Regenerative Braking Levels,4
+Tata,Nexon EV,Creative Plus MR,Engine & Transmission,Charging Port,CCS-II
+Tata,Nexon EV,Creative Plus MR,Engine & Transmission,Charging Options,"3.3 kW AC Wall Box, 7.2 kW AC Wall Box, 50 kW DC Fast Charger, 15A plug point"
+Tata,Nexon EV,Creative Plus MR,Engine & Transmission,Charger Type,3.3 kW AC Wall Box
+Tata,Nexon EV,Creative Plus MR,Engine & Transmission,Charging Time (15 A Plug Point),10 to 100% - 10 hrs 30 mins
+Tata,Nexon EV,Creative Plus MR,Engine & Transmission,Transmission Type,Automatic
+Tata,Nexon EV,Creative Plus MR,Engine & Transmission,Gearbox,1-Speed
+Tata,Nexon EV,Creative Plus MR,Engine & Transmission,Drive Type,FWD
+Tata,Nexon EV,Creative Plus MR,Fuel & Performance,Fuel Type,Electric
+Tata,Nexon EV,Creative Plus MR,Fuel & Performance,Emission Norm Compliance,ZEV
+Tata,Nexon EV,Creative Plus MR,Fuel & Performance,Acceleration 0-100kmph,9.2 s
+Tata,Nexon EV,Creative Plus MR,Charging,Charging Time,50kW - 10 to 80% - 56 mins
+Tata,Nexon EV,Creative Plus MR,Charging,Fast Charging,YES
+Tata,Nexon EV,Creative Plus MR,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Tata,Nexon EV,Creative Plus MR,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Tata,Nexon EV,Creative Plus MR,"Suspension, Steering & Brakes",Steering Type,Electric
+Tata,Nexon EV,Creative Plus MR,"Suspension, Steering & Brakes",Turning Radius,5.3 m
+Tata,Nexon EV,Creative Plus MR,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Tata,Nexon EV,Creative Plus MR,"Suspension, Steering & Brakes",Rear Brake Type,Drum
+Tata,Nexon EV,Creative Plus MR,Dimensions & Capacity,Length,3995 mm
+Tata,Nexon EV,Creative Plus MR,Dimensions & Capacity,Width,1802 mm
+Tata,Nexon EV,Creative Plus MR,Dimensions & Capacity,Height,1625 mm
+Tata,Nexon EV,Creative Plus MR,Dimensions & Capacity,Boot Space,350 Litres
+Tata,Nexon EV,Creative Plus MR,Dimensions & Capacity,Seating Capacity,5
+Tata,Nexon EV,Creative Plus MR,Dimensions & Capacity,Ground Clearance Unladen,205 mm
+Tata,Nexon EV,Creative Plus MR,Dimensions & Capacity,Wheel Base,2498 mm
+Tata,Nexon EV,Creative Plus MR,Comfort & Convenience,Boot Opening,Electronic
+Tata,Nexon EV,Creative Plus MR,Comfort & Convenience,Power Steering,YES
+Tata,Nexon EV,Creative Plus MR,Comfort & Convenience,Air Conditioner,YES
+Tata,Nexon EV,Creative Plus MR,Comfort & Convenience,Heater,YES
+Tata,Nexon EV,Creative Plus MR,Comfort & Convenience,Adjustable Steering,Height only
+Tata,Nexon EV,Creative Plus MR,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Tata,Nexon EV,Creative Plus MR,Comfort & Convenience,Ventilated Seats,NO
+Tata,Nexon EV,Creative Plus MR,Comfort & Convenience,Automatic Climate Control,YES
+Tata,Nexon EV,Creative Plus MR,Comfort & Convenience,Air Quality Control,NO
+Tata,Nexon EV,Creative Plus MR,Comfort & Convenience,Accessory Power Outlet,YES
+Tata,Nexon EV,Creative Plus MR,Comfort & Convenience,Adjustable Headrest,YES
+Tata,Nexon EV,Creative Plus MR,Comfort & Convenience,Rear Seat Centre Arm Rest,NO
+Tata,Nexon EV,Creative Plus MR,Comfort & Convenience,Rear AC Vents,NO
+Tata,Nexon EV,Creative Plus MR,Comfort & Convenience,Cruise Control,NO
+Tata,Nexon EV,Creative Plus MR,Comfort & Convenience,Parking Sensors,Rear
+Tata,Nexon EV,Creative Plus MR,Comfort & Convenience,Foldable Rear Seat,Bench Folding
+Tata,Nexon EV,Creative Plus MR,Comfort & Convenience,KeyLess Entry,YES
+Tata,Nexon EV,Creative Plus MR,Comfort & Convenience,Engine Start/Stop Button,YES
+Tata,Nexon EV,Creative Plus MR,Comfort & Convenience,Voice Commands,YES
+Tata,Nexon EV,Creative Plus MR,Comfort & Convenience,Paddle Shifters,YES
+Tata,Nexon EV,Creative Plus MR,Comfort & Convenience,USB Charger,Front
+Tata,Nexon EV,Creative Plus MR,Comfort & Convenience,Central Console Armrest,NO
+Tata,Nexon EV,Creative Plus MR,Comfort & Convenience,Drive Modes,3
+Tata,Nexon EV,Creative Plus MR,Comfort & Convenience,Glove Box light,NO
+Tata,Nexon EV,Creative Plus MR,Comfort & Convenience,Voice assisted sunroof,NO
+Tata,Nexon EV,Creative Plus MR,Comfort & Convenience,Vechicle to Vehicle Charging,NO
+Tata,Nexon EV,Creative Plus MR,Comfort & Convenience,Vehicle to Load Charging,NO
+Tata,Nexon EV,Creative Plus MR,Comfort & Convenience,Drive Mode Types,Eco-City-Sport
+Tata,Nexon EV,Creative Plus MR,Comfort & Convenience,Power Windows,Front & Rear
+Tata,Nexon EV,Creative Plus MR,Interior,Glove Box,YES
+Tata,Nexon EV,Creative Plus MR,Interior,Digital Cluster,YES
+Tata,Nexon EV,Creative Plus MR,Interior,Digital Cluster Size,7
+Tata,Nexon EV,Creative Plus MR,Interior,Upholstery,Fabric
+Tata,Nexon EV,Creative Plus MR,Exterior,Adjustable Headlamps,YES
+Tata,Nexon EV,Creative Plus MR,Exterior,Rain Sensing Wiper,NO
+Tata,Nexon EV,Creative Plus MR,Exterior,Rear Window Wiper,NO
+Tata,Nexon EV,Creative Plus MR,Exterior,Rear Window Washer,NO
+Tata,Nexon EV,Creative Plus MR,Exterior,Rear Window Defogger,NO
+Tata,Nexon EV,Creative Plus MR,Exterior,Rear Spoiler,YES
+Tata,Nexon EV,Creative Plus MR,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Tata,Nexon EV,Creative Plus MR,Exterior,Projector Headlamps,NO
+Tata,Nexon EV,Creative Plus MR,Exterior,Cornering Foglamps,NO
+Tata,Nexon EV,Creative Plus MR,Exterior,Roof Rails,NO
+Tata,Nexon EV,Creative Plus MR,Exterior,Automatic Headlamps,NO
+Tata,Nexon EV,Creative Plus MR,Exterior,Fog Lights,NO
+Tata,Nexon EV,Creative Plus MR,Exterior,Antenna,Shark Fin
+Tata,Nexon EV,Creative Plus MR,Exterior,Sunroof,NO
+Tata,Nexon EV,Creative Plus MR,Exterior,Outside Rear View Mirror (ORVM),Powered
+Tata,Nexon EV,Creative Plus MR,Exterior,Wheels Type,Steel with Cover
+Tata,Nexon EV,Creative Plus MR,Exterior,Tyre Size,215/60 R16
+Tata,Nexon EV,Creative Plus MR,Exterior,Tyre Type,Tubeless Radial
+Tata,Nexon EV,Creative Plus MR,Exterior,Wheel Size,16 Inch
+Tata,Nexon EV,Creative Plus MR,Exterior,LED DRLs,YES
+Tata,Nexon EV,Creative Plus MR,Exterior,LED Headlamps,YES
+Tata,Nexon EV,Creative Plus MR,Exterior,LED Taillights,YES
+Tata,Nexon EV,Creative Plus MR,Exterior,LED Fog Lamps,NO
+Tata,Nexon EV,Creative Plus MR,Safety,Anti-lock Braking System (ABS),YES
+Tata,Nexon EV,Creative Plus MR,Safety,Brake Assist,YES
+Tata,Nexon EV,Creative Plus MR,Safety,Central Locking,YES
+Tata,Nexon EV,Creative Plus MR,Safety,Child Safety Locks,YES
+Tata,Nexon EV,Creative Plus MR,Safety,No. of Airbags,6
+Tata,Nexon EV,Creative Plus MR,Safety,Driver Airbag,YES
+Tata,Nexon EV,Creative Plus MR,Safety,Passenger Airbag,YES
+Tata,Nexon EV,Creative Plus MR,Safety,Side Airbag,YES
+Tata,Nexon EV,Creative Plus MR,Safety,Side Airbag-Rear,NO
+Tata,Nexon EV,Creative Plus MR,Safety,Day & Night Rear View Mirror,YES
+Tata,Nexon EV,Creative Plus MR,Safety,Electronic Brakeforce Distribution (EBD),YES
+Tata,Nexon EV,Creative Plus MR,Safety,Traction Control,YES
+Tata,Nexon EV,Creative Plus MR,Safety,Tyre Pressure Monitoring System (TPMS),NO
+Tata,Nexon EV,Creative Plus MR,Safety,Engine Immobilizer,YES
+Tata,Nexon EV,Creative Plus MR,Safety,Electronic Stability Control (ESC),YES
+Tata,Nexon EV,Creative Plus MR,Safety,Rear Camera,With Guidedlines
+Tata,Nexon EV,Creative Plus MR,Safety,ISOFIX Child Seat Mounts,YES
+Tata,Nexon EV,Creative Plus MR,Safety,Hill Descent Control,NO
+Tata,Nexon EV,Creative Plus MR,Safety,Hill Assist,YES
+Tata,Nexon EV,Creative Plus MR,Safety,360 View Camera,NO
+Tata,Nexon EV,Creative Plus MR,Safety,Bharat NCAP Safety Rating,5 Star
+Tata,Nexon EV,Creative Plus MR,Safety,Bharat NCAP Child Safety Rating,5 Star
+Tata,Nexon EV,Creative Plus MR,Entertainment & Communication,Radio,YES
+Tata,Nexon EV,Creative Plus MR,Entertainment & Communication,Wireless Phone Charging,NO
+Tata,Nexon EV,Creative Plus MR,Entertainment & Communication,Bluetooth Connectivity,YES
+Tata,Nexon EV,Creative Plus MR,Entertainment & Communication,Wi-Fi Connectivity,NO
+Tata,Nexon EV,Creative Plus MR,Entertainment & Communication,Touchscreen,YES
+Tata,Nexon EV,Creative Plus MR,Entertainment & Communication,Touchscreen Size,7 inch
+Tata,Nexon EV,Creative Plus MR,Entertainment & Communication,Android Auto,YES
+Tata,Nexon EV,Creative Plus MR,Entertainment & Communication,Apple CarPlay,YES
+Tata,Nexon EV,Creative Plus MR,Entertainment & Communication,No. of Speakers,4
+Tata,Nexon EV,Creative Plus MR,Entertainment & Communication,Usb Ports,NO
+Tata,Nexon EV,Creative Plus MR,Entertainment & Communication,Additional Features,WIRELESS ANDROID AUTO APPLE CARPLAY
+Tata,Nexon EV,Creative Plus MR,Entertainment & Communication,Speakers,Front & Rear
+Tata,Nexon EV,Creative Plus MR,ADAS Feature,Forward Collision Warning,NO
+Tata,Nexon EV,Creative Plus MR,ADAS Feature,Automatic Emergency Braking,NO
+Tata,Nexon EV,Creative Plus MR,ADAS Feature,Traffic Sign Recognition,NO
+Tata,Nexon EV,Creative Plus MR,ADAS Feature,Lane Departure Warning,NO
+Tata,Nexon EV,Creative Plus MR,ADAS Feature,Lane Keep Assist,NO
+Tata,Nexon EV,Creative Plus MR,ADAS Feature,Driver Attention Warning,NO
+Tata,Nexon EV,Creative Plus MR,ADAS Feature,Adaptive High Beam Assist,NO
+Tata,Nexon EV,Creative Plus MR,ADAS Feature,Blind Spot Monitor,NO
+Tata,Nexon EV,Creative Plus MR,Advance Internet Feature,Inbuilt Assistant,YES
+Tata,Nexon EV,Creative Plus MR,Advance Internet Feature,Navigation with Live Traffic,NO
+Tata,Nexon EV,Creative Plus MR,Advance Internet Feature,E-Call & I-Call,NO
+Tata,Nexon EV,Creative Plus MR,Advance Internet Feature,Over the Air (OTA) Updates,YES
+Tata,Nexon EV,Creative Plus MR,Advance Internet Feature,Google / Alexa Connectivity,YES
+Tata,Nexon EV,Creative Plus MR,Advance Internet Feature,In Car Remote Control App,YES
+Tata,Nexon EV,Creative Plus MR,Advance Internet Feature,Smartwatch App,YES
+Tata,Nexon EV,Creative Plus MR,Advance Internet Feature,Remote AC On/Off,YES
+Tata,Nexon EV,Creative Plus MR,Advance Internet Feature,Remote Door Lock/Unlock,YES
+Tata,Nexon EV,Creative Plus MR,Advance Internet Feature,SOS / Emergency Assistance,NO
+Tata,Nexon EV,Creative Plus MR,Advance Internet Feature,Inbuilt APPs,iRA.ev

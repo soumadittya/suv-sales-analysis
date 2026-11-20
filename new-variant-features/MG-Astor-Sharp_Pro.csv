@@ -1,0 +1,139 @@
+company,model,variant,category,feature_name,feature_details
+MG,Astor,Sharp Pro,Engine & Transmission,Engine Type,VTi-TECH
+MG,Astor,Sharp Pro,Engine & Transmission,Displacement,1498 cc
+MG,Astor,Sharp Pro,Engine & Transmission,Max Power,108.49bhp@6000rpm
+MG,Astor,Sharp Pro,Engine & Transmission,Max Torque,144Nm@4400rpm
+MG,Astor,Sharp Pro,Engine & Transmission,No. of Cylinders,4
+MG,Astor,Sharp Pro,Engine & Transmission,Valves Per Cylinder,4
+MG,Astor,Sharp Pro,Engine & Transmission,Turbo Charger,NO
+MG,Astor,Sharp Pro,Engine & Transmission,Transmission Type,Manual
+MG,Astor,Sharp Pro,Engine & Transmission,Gearbox,5-Speed
+MG,Astor,Sharp Pro,Engine & Transmission,Drive Type,FWD
+MG,Astor,Sharp Pro,Fuel & Performance,Fuel Type,Petrol
+MG,Astor,Sharp Pro,Fuel & Performance,Petrol Mileage ARAI,15.43 kmpl
+MG,Astor,Sharp Pro,Fuel & Performance,Petrol Fuel Tank Capacity,48 Litres
+MG,Astor,Sharp Pro,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+MG,Astor,Sharp Pro,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+MG,Astor,Sharp Pro,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+MG,Astor,Sharp Pro,"Suspension, Steering & Brakes",Steering Type,Electric
+MG,Astor,Sharp Pro,"Suspension, Steering & Brakes",Steering Column,Tilt
+MG,Astor,Sharp Pro,"Suspension, Steering & Brakes",Front Brake Type,Disc
+MG,Astor,Sharp Pro,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+MG,Astor,Sharp Pro,Dimensions & Capacity,Length,4323 mm
+MG,Astor,Sharp Pro,Dimensions & Capacity,Width,1809 mm
+MG,Astor,Sharp Pro,Dimensions & Capacity,Height,1650 mm
+MG,Astor,Sharp Pro,Dimensions & Capacity,Seating Capacity,5
+MG,Astor,Sharp Pro,Dimensions & Capacity,Wheel Base,2585 mm
+MG,Astor,Sharp Pro,Dimensions & Capacity,Reported Boot Space,488 Litres
+MG,Astor,Sharp Pro,Comfort & Convenience,Power Steering,YES
+MG,Astor,Sharp Pro,Comfort & Convenience,Air Conditioner,YES
+MG,Astor,Sharp Pro,Comfort & Convenience,Heater,YES
+MG,Astor,Sharp Pro,Comfort & Convenience,Height Adjustable Driver Seat,YES
+MG,Astor,Sharp Pro,Comfort & Convenience,Ventilated Seats,YES
+MG,Astor,Sharp Pro,Comfort & Convenience,Electric Adjustable Seats,Front
+MG,Astor,Sharp Pro,Comfort & Convenience,Automatic Climate Control,YES
+MG,Astor,Sharp Pro,Comfort & Convenience,Air Quality Control,YES
+MG,Astor,Sharp Pro,Comfort & Convenience,Accessory Power Outlet,YES
+MG,Astor,Sharp Pro,Comfort & Convenience,Adjustable Headrest,YES
+MG,Astor,Sharp Pro,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+MG,Astor,Sharp Pro,Comfort & Convenience,Rear AC Vents,YES
+MG,Astor,Sharp Pro,Comfort & Convenience,Cruise Control,YES
+MG,Astor,Sharp Pro,Comfort & Convenience,Parking Sensors,Rear
+MG,Astor,Sharp Pro,Comfort & Convenience,Real-Time Vehicle Tracking,YES
+MG,Astor,Sharp Pro,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+MG,Astor,Sharp Pro,Comfort & Convenience,KeyLess Entry,YES
+MG,Astor,Sharp Pro,Comfort & Convenience,Engine Start/Stop Button,YES
+MG,Astor,Sharp Pro,Comfort & Convenience,USB Charger,Front & Rear
+MG,Astor,Sharp Pro,Comfort & Convenience,Follow Me Home Headlamps,YES
+MG,Astor,Sharp Pro,Comfort & Convenience,Additional Features,Digital Key With Key Sharing Function
+MG,Astor,Sharp Pro,Comfort & Convenience,Voice assisted sunroof,YES
+MG,Astor,Sharp Pro,Comfort & Convenience,Power Windows,Front & Rear
+MG,Astor,Sharp Pro,Comfort & Convenience,Cup Holders,Front & Rear
+MG,Astor,Sharp Pro,Interior,Leather Wrapped Steering Wheel,YES
+MG,Astor,Sharp Pro,Interior,Glove Box,YES
+MG,Astor,Sharp Pro,Interior,Additional Features,Rear Parcel Shelf
+MG,Astor,Sharp Pro,Interior,Digital Cluster,YES
+MG,Astor,Sharp Pro,Interior,Digital Cluster Size,7 inch
+MG,Astor,Sharp Pro,Interior,Upholstery,Leatherette
+MG,Astor,Sharp Pro,Exterior,Adjustable Headlamps,YES
+MG,Astor,Sharp Pro,Exterior,Rain Sensing Wiper,YES
+MG,Astor,Sharp Pro,Exterior,Rear Window Wiper,YES
+MG,Astor,Sharp Pro,Exterior,Rear Window Washer,YES
+MG,Astor,Sharp Pro,Exterior,Rear Window Defogger,YES
+MG,Astor,Sharp Pro,Exterior,Wheel Covers,NO
+MG,Astor,Sharp Pro,Exterior,Alloy Wheels,YES
+MG,Astor,Sharp Pro,Exterior,Rear Spoiler,YES
+MG,Astor,Sharp Pro,Exterior,Outside Rear View Mirror Turn Indicators,YES
+MG,Astor,Sharp Pro,Exterior,Cornering Foglamps,YES
+MG,Astor,Sharp Pro,Exterior,Roof Rails,YES
+MG,Astor,Sharp Pro,Exterior,Fog Lights,Front & Rear
+MG,Astor,Sharp Pro,Exterior,Antenna,Shark Fin
+MG,Astor,Sharp Pro,Exterior,Sunroof,Panoramic
+MG,Astor,Sharp Pro,Exterior,Heated Outside Rear View Mirror,YES
+MG,Astor,Sharp Pro,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+MG,Astor,Sharp Pro,Exterior,Tyre Size,215/55 R17
+MG,Astor,Sharp Pro,Exterior,Tyre Type,Radial Tubeless
+MG,Astor,Sharp Pro,Exterior,Wheel Size,17 Inch
+MG,Astor,Sharp Pro,Exterior,LED DRLs,YES
+MG,Astor,Sharp Pro,Exterior,LED Headlamps,YES
+MG,Astor,Sharp Pro,Exterior,LED Taillights,YES
+MG,Astor,Sharp Pro,Safety,Anti-lock Braking System (ABS),YES
+MG,Astor,Sharp Pro,Safety,Brake Assist,YES
+MG,Astor,Sharp Pro,Safety,Central Locking,YES
+MG,Astor,Sharp Pro,Safety,Child Safety Locks,YES
+MG,Astor,Sharp Pro,Safety,Anti-Theft Alarm,YES
+MG,Astor,Sharp Pro,Safety,No. of Airbags,6
+MG,Astor,Sharp Pro,Safety,Day & Night Rear View Mirror,YES
+MG,Astor,Sharp Pro,Safety,Electronic Brakeforce Distribution (EBD),YES
+MG,Astor,Sharp Pro,Safety,Traction Control,YES
+MG,Astor,Sharp Pro,Safety,Tyre Pressure Monitoring System (TPMS),YES
+MG,Astor,Sharp Pro,Safety,Engine Immobilizer,YES
+MG,Astor,Sharp Pro,Safety,Electronic Stability Control (ESC),YES
+MG,Astor,Sharp Pro,Safety,Rear Camera,With Guidedlines
+MG,Astor,Sharp Pro,Safety,Anti-Theft Device,YES
+MG,Astor,Sharp Pro,Safety,Anti-Pinch Power Windows,Driver's Window
+MG,Astor,Sharp Pro,Safety,ISOFIX Child Seat Mounts,YES
+MG,Astor,Sharp Pro,Safety,Hill Descent Control,YES
+MG,Astor,Sharp Pro,Safety,Hill Assist,YES
+MG,Astor,Sharp Pro,Safety,360 View Camera,YES
+MG,Astor,Sharp Pro,Safety,Safety Airbags,"Driver & Passenger, Front Side, Curtain"
+MG,Astor,Sharp Pro,Entertainment & Communication,Radio,YES
+MG,Astor,Sharp Pro,Entertainment & Communication,Wireless Phone Charging,NO
+MG,Astor,Sharp Pro,Entertainment & Communication,Bluetooth Connectivity,YES
+MG,Astor,Sharp Pro,Entertainment & Communication,Wi-Fi Connectivity,YES
+MG,Astor,Sharp Pro,Entertainment & Communication,Touchscreen,YES
+MG,Astor,Sharp Pro,Entertainment & Communication,Touchscreen Size,10.1 inch
+MG,Astor,Sharp Pro,Entertainment & Communication,Android Auto,YES
+MG,Astor,Sharp Pro,Entertainment & Communication,Apple CarPlay,YES
+MG,Astor,Sharp Pro,Entertainment & Communication,No. of Speakers,6
+MG,Astor,Sharp Pro,Entertainment & Communication,Usb Ports,YES
+MG,Astor,Sharp Pro,Entertainment & Communication,Inbuilt Apps,Jio Saavn
+MG,Astor,Sharp Pro,Entertainment & Communication,Tweeters,2
+MG,Astor,Sharp Pro,Entertainment & Communication,Additional Features,"i-SMART 2.0 with Advanced UI ,Wireless Android Auto & Apple Carplay"
+MG,Astor,Sharp Pro,Entertainment & Communication,Speakers,Front & Rear
+MG,Astor,Sharp Pro,ADAS Feature,Forward Collision Warning,NO
+MG,Astor,Sharp Pro,ADAS Feature,Automatic Emergency Braking,NO
+MG,Astor,Sharp Pro,ADAS Feature,Speed Assist System,YES
+MG,Astor,Sharp Pro,ADAS Feature,Blind Spot Collision Avoidance Assist,NO
+MG,Astor,Sharp Pro,ADAS Feature,Lane Departure Warning,NO
+MG,Astor,Sharp Pro,ADAS Feature,Lane Keep Assist,NO
+MG,Astor,Sharp Pro,ADAS Feature,Lane Departure Prevention Assist,NO
+MG,Astor,Sharp Pro,ADAS Feature,Adaptive Cruise Control,NO
+MG,Astor,Sharp Pro,ADAS Feature,Rear Cross Traffic Alert,NO
+MG,Astor,Sharp Pro,ADAS Feature,Blind Spot Monitor,NO
+MG,Astor,Sharp Pro,Advance Internet Feature,Live Location,YES
+MG,Astor,Sharp Pro,Advance Internet Feature,Remote Immobiliser,YES
+MG,Astor,Sharp Pro,Advance Internet Feature,Engine Start Alarm,YES
+MG,Astor,Sharp Pro,Advance Internet Feature,Remote Vehicle Status Check,YES
+MG,Astor,Sharp Pro,Advance Internet Feature,Digital Car Key,YES
+MG,Astor,Sharp Pro,Advance Internet Feature,Inbuilt Assistant,YES
+MG,Astor,Sharp Pro,Advance Internet Feature,Hinglish Voice Commands,YES
+MG,Astor,Sharp Pro,Advance Internet Feature,Navigation with Live Traffic,YES
+MG,Astor,Sharp Pro,Advance Internet Feature,E-Call & I-Call,YES
+MG,Astor,Sharp Pro,Advance Internet Feature,Over the Air (OTA) Updates,YES
+MG,Astor,Sharp Pro,Advance Internet Feature,Over Speeding Alert,YES
+MG,Astor,Sharp Pro,Advance Internet Feature,In Car Remote Control App,YES
+MG,Astor,Sharp Pro,Advance Internet Feature,Smartwatch App,YES
+MG,Astor,Sharp Pro,Advance Internet Feature,Remote AC On/Off,YES
+MG,Astor,Sharp Pro,Advance Internet Feature,Remote Door Lock/Unlock,YES
+MG,Astor,Sharp Pro,Advance Internet Feature,Geo-fence Alert,YES

@@ -1,0 +1,130 @@
+company,model,variant,category,feature_name,feature_details
+Maruti Suzuki,FRONX,Delta Plus AMT,Engine & Transmission,Engine Type,"1.2L Dual Jet, Dual VVT"
+Maruti Suzuki,FRONX,Delta Plus AMT,Engine & Transmission,Displacement,1197 cc
+Maruti Suzuki,FRONX,Delta Plus AMT,Engine & Transmission,Max Power,88.50bhp@6000rpm
+Maruti Suzuki,FRONX,Delta Plus AMT,Engine & Transmission,Max Torque,113Nm@4400rpm
+Maruti Suzuki,FRONX,Delta Plus AMT,Engine & Transmission,No. of Cylinders,4
+Maruti Suzuki,FRONX,Delta Plus AMT,Engine & Transmission,Valves Per Cylinder,4
+Maruti Suzuki,FRONX,Delta Plus AMT,Engine & Transmission,Turbo Charger,NO
+Maruti Suzuki,FRONX,Delta Plus AMT,Engine & Transmission,Transmission Type,Automatic
+Maruti Suzuki,FRONX,Delta Plus AMT,Engine & Transmission,Gearbox,5-Speed AMT
+Maruti Suzuki,FRONX,Delta Plus AMT,Engine & Transmission,Drive Type,FWD
+Maruti Suzuki,FRONX,Delta Plus AMT,Fuel & Performance,Fuel Type,Petrol
+Maruti Suzuki,FRONX,Delta Plus AMT,Fuel & Performance,Petrol Mileage ARAI,22.89 kmpl
+Maruti Suzuki,FRONX,Delta Plus AMT,Fuel & Performance,Petrol Fuel Tank Capacity,37 Litres
+Maruti Suzuki,FRONX,Delta Plus AMT,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Maruti Suzuki,FRONX,Delta Plus AMT,Fuel & Performance,Top Speed,180 kmph
+Maruti Suzuki,FRONX,Delta Plus AMT,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Maruti Suzuki,FRONX,Delta Plus AMT,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Maruti Suzuki,FRONX,Delta Plus AMT,"Suspension, Steering & Brakes",Steering Type,Electric
+Maruti Suzuki,FRONX,Delta Plus AMT,"Suspension, Steering & Brakes",Steering Column,Tilt
+Maruti Suzuki,FRONX,Delta Plus AMT,"Suspension, Steering & Brakes",Turning Radius,4.9 m
+Maruti Suzuki,FRONX,Delta Plus AMT,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Maruti Suzuki,FRONX,Delta Plus AMT,"Suspension, Steering & Brakes",Rear Brake Type,Drum
+Maruti Suzuki,FRONX,Delta Plus AMT,Dimensions & Capacity,Length,3995 mm
+Maruti Suzuki,FRONX,Delta Plus AMT,Dimensions & Capacity,Width,1765 mm
+Maruti Suzuki,FRONX,Delta Plus AMT,Dimensions & Capacity,Height,1550 mm
+Maruti Suzuki,FRONX,Delta Plus AMT,Dimensions & Capacity,Boot Space,308 Litres
+Maruti Suzuki,FRONX,Delta Plus AMT,Dimensions & Capacity,Seating Capacity,5
+Maruti Suzuki,FRONX,Delta Plus AMT,Dimensions & Capacity,Wheel Base,2520 mm
+Maruti Suzuki,FRONX,Delta Plus AMT,Dimensions & Capacity,Kerb Weight,965-975 kg
+Maruti Suzuki,FRONX,Delta Plus AMT,Dimensions & Capacity,Gross Weight,1450 kg
+Maruti Suzuki,FRONX,Delta Plus AMT,Comfort & Convenience,Power Steering,YES
+Maruti Suzuki,FRONX,Delta Plus AMT,Comfort & Convenience,Air Conditioner,YES
+Maruti Suzuki,FRONX,Delta Plus AMT,Comfort & Convenience,Heater,YES
+Maruti Suzuki,FRONX,Delta Plus AMT,Comfort & Convenience,Height Adjustable Driver Seat,NO
+Maruti Suzuki,FRONX,Delta Plus AMT,Comfort & Convenience,Automatic Climate Control,YES
+Maruti Suzuki,FRONX,Delta Plus AMT,Comfort & Convenience,Accessory Power Outlet,YES
+Maruti Suzuki,FRONX,Delta Plus AMT,Comfort & Convenience,Adjustable Headrest,YES
+Maruti Suzuki,FRONX,Delta Plus AMT,Comfort & Convenience,Rear AC Vents,NO
+Maruti Suzuki,FRONX,Delta Plus AMT,Comfort & Convenience,Cruise Control,NO
+Maruti Suzuki,FRONX,Delta Plus AMT,Comfort & Convenience,Parking Sensors,Rear
+Maruti Suzuki,FRONX,Delta Plus AMT,Comfort & Convenience,Real-Time Vehicle Tracking,NO
+Maruti Suzuki,FRONX,Delta Plus AMT,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Maruti Suzuki,FRONX,Delta Plus AMT,Comfort & Convenience,KeyLess Entry,YES
+Maruti Suzuki,FRONX,Delta Plus AMT,Comfort & Convenience,Engine Start/Stop Button,NO
+Maruti Suzuki,FRONX,Delta Plus AMT,Comfort & Convenience,Voice Commands,YES
+Maruti Suzuki,FRONX,Delta Plus AMT,Comfort & Convenience,Paddle Shifters,NO
+Maruti Suzuki,FRONX,Delta Plus AMT,Comfort & Convenience,USB Charger,Front
+Maruti Suzuki,FRONX,Delta Plus AMT,Comfort & Convenience,Central Console Armrest,NO
+Maruti Suzuki,FRONX,Delta Plus AMT,Comfort & Convenience,Gear Shift Indicator,NO
+Maruti Suzuki,FRONX,Delta Plus AMT,Comfort & Convenience,Idle Start-Stop System,YES
+Maruti Suzuki,FRONX,Delta Plus AMT,Comfort & Convenience,Follow Me Home Headlamps,YES
+Maruti Suzuki,FRONX,Delta Plus AMT,Comfort & Convenience,Power Windows,Front & Rear
+Maruti Suzuki,FRONX,Delta Plus AMT,Interior,Glove Box,YES
+Maruti Suzuki,FRONX,Delta Plus AMT,Interior,Additional Features,Rear Parcel Tray
+Maruti Suzuki,FRONX,Delta Plus AMT,Interior,Digital Cluster,NO
+Maruti Suzuki,FRONX,Delta Plus AMT,Interior,Upholstery,Fabric
+Maruti Suzuki,FRONX,Delta Plus AMT,Exterior,Rear Window Wiper,NO
+Maruti Suzuki,FRONX,Delta Plus AMT,Exterior,Rear Window Washer,NO
+Maruti Suzuki,FRONX,Delta Plus AMT,Exterior,Rear Window Defogger,YES
+Maruti Suzuki,FRONX,Delta Plus AMT,Exterior,Rear Spoiler,YES
+Maruti Suzuki,FRONX,Delta Plus AMT,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Maruti Suzuki,FRONX,Delta Plus AMT,Exterior,Projector Headlamps,NO
+Maruti Suzuki,FRONX,Delta Plus AMT,Exterior,Antenna,Shark Fin
+Maruti Suzuki,FRONX,Delta Plus AMT,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Maruti Suzuki,FRONX,Delta Plus AMT,Exterior,Tyre Size,195/60 R16
+Maruti Suzuki,FRONX,Delta Plus AMT,Exterior,Tyre Type,Radial Tubeless
+Maruti Suzuki,FRONX,Delta Plus AMT,Exterior,Wheel Size,16 Inch
+Maruti Suzuki,FRONX,Delta Plus AMT,Exterior,LED DRLs,YES
+Maruti Suzuki,FRONX,Delta Plus AMT,Exterior,LED Headlamps,YES
+Maruti Suzuki,FRONX,Delta Plus AMT,Exterior,LED Taillights,YES
+Maruti Suzuki,FRONX,Delta Plus AMT,Safety,Anti-lock Braking System (ABS),YES
+Maruti Suzuki,FRONX,Delta Plus AMT,Safety,Central Locking,YES
+Maruti Suzuki,FRONX,Delta Plus AMT,Safety,Anti-Theft Alarm,YES
+Maruti Suzuki,FRONX,Delta Plus AMT,Safety,No. of Airbags,6
+Maruti Suzuki,FRONX,Delta Plus AMT,Safety,Driver Airbag,YES
+Maruti Suzuki,FRONX,Delta Plus AMT,Safety,Passenger Airbag,YES
+Maruti Suzuki,FRONX,Delta Plus AMT,Safety,Side Airbag,YES
+Maruti Suzuki,FRONX,Delta Plus AMT,Safety,Side Airbag-Rear,NO
+Maruti Suzuki,FRONX,Delta Plus AMT,Safety,Day & Night Rear View Mirror,YES
+Maruti Suzuki,FRONX,Delta Plus AMT,Safety,Electronic Brakeforce Distribution (EBD),YES
+Maruti Suzuki,FRONX,Delta Plus AMT,Safety,Engine Immobilizer,YES
+Maruti Suzuki,FRONX,Delta Plus AMT,Safety,Electronic Stability Control (ESC),YES
+Maruti Suzuki,FRONX,Delta Plus AMT,Safety,Rear Camera,NO
+Maruti Suzuki,FRONX,Delta Plus AMT,Safety,Anti-Theft Device,YES
+Maruti Suzuki,FRONX,Delta Plus AMT,Safety,ISOFIX Child Seat Mounts,YES
+Maruti Suzuki,FRONX,Delta Plus AMT,Safety,Heads-Up Display (HUD),NO
+Maruti Suzuki,FRONX,Delta Plus AMT,Safety,Hill Assist,YES
+Maruti Suzuki,FRONX,Delta Plus AMT,Safety,360 View Camera,NO
+Maruti Suzuki,FRONX,Delta Plus AMT,Entertainment & Communication,Radio,YES
+Maruti Suzuki,FRONX,Delta Plus AMT,Entertainment & Communication,Wireless Phone Charging,NO
+Maruti Suzuki,FRONX,Delta Plus AMT,Entertainment & Communication,Bluetooth Connectivity,YES
+Maruti Suzuki,FRONX,Delta Plus AMT,Entertainment & Communication,Touchscreen,YES
+Maruti Suzuki,FRONX,Delta Plus AMT,Entertainment & Communication,Touchscreen Size,7 inch
+Maruti Suzuki,FRONX,Delta Plus AMT,Entertainment & Communication,Android Auto,YES
+Maruti Suzuki,FRONX,Delta Plus AMT,Entertainment & Communication,Apple CarPlay,YES
+Maruti Suzuki,FRONX,Delta Plus AMT,Entertainment & Communication,No. of Speakers,4
+Maruti Suzuki,FRONX,Delta Plus AMT,Entertainment & Communication,Usb Ports,YES
+Maruti Suzuki,FRONX,Delta Plus AMT,Entertainment & Communication,Additional Features,Android Auto and Apple CarPlay (Wireless)
+Maruti Suzuki,FRONX,Delta Plus AMT,Entertainment & Communication,Speakers,Front & Rear
+Maruti Suzuki,FRONX,Delta Plus AMT,ADAS Feature,Forward Collision Warning,NO
+Maruti Suzuki,FRONX,Delta Plus AMT,ADAS Feature,Automatic Emergency Braking,NO
+Maruti Suzuki,FRONX,Delta Plus AMT,ADAS Feature,Oncoming Lane Mitigation,NO
+Maruti Suzuki,FRONX,Delta Plus AMT,ADAS Feature,Speed Assist System,NO
+Maruti Suzuki,FRONX,Delta Plus AMT,ADAS Feature,Traffic Sign Recognition,NO
+Maruti Suzuki,FRONX,Delta Plus AMT,ADAS Feature,Blind Spot Collision Avoidance Assist,NO
+Maruti Suzuki,FRONX,Delta Plus AMT,ADAS Feature,Lane Departure Warning,NO
+Maruti Suzuki,FRONX,Delta Plus AMT,ADAS Feature,Lane Keep Assist,NO
+Maruti Suzuki,FRONX,Delta Plus AMT,ADAS Feature,Lane Departure Prevention Assist,NO
+Maruti Suzuki,FRONX,Delta Plus AMT,ADAS Feature,Road Departure Mitigation System,NO
+Maruti Suzuki,FRONX,Delta Plus AMT,ADAS Feature,Driver Attention Warning,NO
+Maruti Suzuki,FRONX,Delta Plus AMT,ADAS Feature,Adaptive Cruise Control,NO
+Maruti Suzuki,FRONX,Delta Plus AMT,ADAS Feature,Leading Vehicle Departure Alert,NO
+Maruti Suzuki,FRONX,Delta Plus AMT,ADAS Feature,Adaptive High Beam Assist,NO
+Maruti Suzuki,FRONX,Delta Plus AMT,ADAS Feature,Rear Cross Traffic Alert,NO
+Maruti Suzuki,FRONX,Delta Plus AMT,ADAS Feature,Rear Cross Traffic Collision-Avoidance Assist,NO
+Maruti Suzuki,FRONX,Delta Plus AMT,Advance Internet Feature,Live Location,NO
+Maruti Suzuki,FRONX,Delta Plus AMT,Advance Internet Feature,Remote Immobiliser,NO
+Maruti Suzuki,FRONX,Delta Plus AMT,Advance Internet Feature,Unauthorised Vehicle entry,NO
+Maruti Suzuki,FRONX,Delta Plus AMT,Advance Internet Feature,E-Call & I-Call,NO
+Maruti Suzuki,FRONX,Delta Plus AMT,Advance Internet Feature,Over the Air (OTA) Updates,YES
+Maruti Suzuki,FRONX,Delta Plus AMT,Advance Internet Feature,Google / Alexa Connectivity,NO
+Maruti Suzuki,FRONX,Delta Plus AMT,Advance Internet Feature,Over Speeding Alert,NO
+Maruti Suzuki,FRONX,Delta Plus AMT,Advance Internet Feature,Tow Away Alert,NO
+Maruti Suzuki,FRONX,Delta Plus AMT,Advance Internet Feature,Smartwatch App,NO
+Maruti Suzuki,FRONX,Delta Plus AMT,Advance Internet Feature,Valet Mode,NO
+Maruti Suzuki,FRONX,Delta Plus AMT,Advance Internet Feature,Remote AC On/Off,NO
+Maruti Suzuki,FRONX,Delta Plus AMT,Advance Internet Feature,Remote Door Lock/Unlock,NO
+Maruti Suzuki,FRONX,Delta Plus AMT,Advance Internet Feature,SOS / Emergency Assistance,NO
+Maruti Suzuki,FRONX,Delta Plus AMT,Advance Internet Feature,Geo-fence Alert,NO

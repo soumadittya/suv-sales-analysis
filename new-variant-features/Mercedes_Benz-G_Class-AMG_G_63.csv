@@ -1,0 +1,83 @@
+company,model,variant,category,feature_name,feature_details
+Mercedes-Benz,G-Class,AMG G 63,Engine & Transmission,Engine Type,V8
+Mercedes-Benz,G-Class,AMG G 63,Engine & Transmission,Displacement,3982 cc
+Mercedes-Benz,G-Class,AMG G 63,Engine & Transmission,Max Power,576.63bhp
+Mercedes-Benz,G-Class,AMG G 63,Engine & Transmission,Max Torque,850Nm
+Mercedes-Benz,G-Class,AMG G 63,Engine & Transmission,No. of Cylinders,8
+Mercedes-Benz,G-Class,AMG G 63,Engine & Transmission,Valves Per Cylinder,4
+Mercedes-Benz,G-Class,AMG G 63,Engine & Transmission,Fuel Supply System,direct injection
+Mercedes-Benz,G-Class,AMG G 63,Engine & Transmission,Transmission Type,Automatic
+Mercedes-Benz,G-Class,AMG G 63,Engine & Transmission,Gearbox,9-Speed TCT AMG
+Mercedes-Benz,G-Class,AMG G 63,Engine & Transmission,Drive Type,AWD
+Mercedes-Benz,G-Class,AMG G 63,Fuel & Performance,Fuel Type,Petrol
+Mercedes-Benz,G-Class,AMG G 63,Fuel & Performance,Petrol Mileage ARAI,8.47 kmpl
+Mercedes-Benz,G-Class,AMG G 63,Fuel & Performance,Petrol Fuel Tank Capacity,100 Litres
+Mercedes-Benz,G-Class,AMG G 63,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Mercedes-Benz,G-Class,AMG G 63,Fuel & Performance,Top Speed,220 kmph
+Mercedes-Benz,G-Class,AMG G 63,Fuel & Performance,Acceleration,4.5 s
+Mercedes-Benz,G-Class,AMG G 63,Fuel & Performance,0-100kmph,4.5 s
+Mercedes-Benz,G-Class,AMG G 63,Dimensions & Capacity,Length,4817 mm
+Mercedes-Benz,G-Class,AMG G 63,Dimensions & Capacity,Width,1931 mm
+Mercedes-Benz,G-Class,AMG G 63,Dimensions & Capacity,Height,1969 mm
+Mercedes-Benz,G-Class,AMG G 63,Dimensions & Capacity,Boot Space,667 Litres
+Mercedes-Benz,G-Class,AMG G 63,Dimensions & Capacity,Seating Capacity,5
+Mercedes-Benz,G-Class,AMG G 63,Dimensions & Capacity,Ground Clearance (Laden),241 mm
+Mercedes-Benz,G-Class,AMG G 63,Comfort & Convenience,Power Steering,YES
+Mercedes-Benz,G-Class,AMG G 63,Comfort & Convenience,Air Conditioner,YES
+Mercedes-Benz,G-Class,AMG G 63,Comfort & Convenience,Heater,YES
+Mercedes-Benz,G-Class,AMG G 63,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Mercedes-Benz,G-Class,AMG G 63,Comfort & Convenience,Automatic Climate Control,YES
+Mercedes-Benz,G-Class,AMG G 63,Comfort & Convenience,Air Quality Control,YES
+Mercedes-Benz,G-Class,AMG G 63,Comfort & Convenience,Accessory Power Outlet,YES
+Mercedes-Benz,G-Class,AMG G 63,Comfort & Convenience,Adjustable Headrest,YES
+Mercedes-Benz,G-Class,AMG G 63,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Mercedes-Benz,G-Class,AMG G 63,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Mercedes-Benz,G-Class,AMG G 63,Comfort & Convenience,Rear AC Vents,YES
+Mercedes-Benz,G-Class,AMG G 63,Comfort & Convenience,Lumbar Support,YES
+Mercedes-Benz,G-Class,AMG G 63,Comfort & Convenience,Parking Sensors,Rear
+Mercedes-Benz,G-Class,AMG G 63,Comfort & Convenience,KeyLess Entry,YES
+Mercedes-Benz,G-Class,AMG G 63,Comfort & Convenience,Engine Start/Stop Button,YES
+Mercedes-Benz,G-Class,AMG G 63,Comfort & Convenience,Voice Commands,YES
+Mercedes-Benz,G-Class,AMG G 63,Comfort & Convenience,Central Console Armrest,With Storage
+Mercedes-Benz,G-Class,AMG G 63,Comfort & Convenience,Follow Me Home Headlamps,YES
+Mercedes-Benz,G-Class,AMG G 63,Comfort & Convenience,Additional Features,"Burmester surround sound system,Widescreen cockpit"
+Mercedes-Benz,G-Class,AMG G 63,Interior,Leather Wrapped Steering Wheel,YES
+Mercedes-Benz,G-Class,AMG G 63,Interior,Leather wrap gear-shift selector,YES
+Mercedes-Benz,G-Class,AMG G 63,Interior,Glove Box,YES
+Mercedes-Benz,G-Class,AMG G 63,Interior,Additional Features,"Widescreen cockpit, air vents in silver chrome, and interior elements finished in nappa leather"
+Mercedes-Benz,G-Class,AMG G 63,Exterior,Adjustable Headlamps,YES
+Mercedes-Benz,G-Class,AMG G 63,Exterior,Alloy Wheels,YES
+Mercedes-Benz,G-Class,AMG G 63,Exterior,Side Stepper,YES
+Mercedes-Benz,G-Class,AMG G 63,Exterior,Projector Headlamps,YES
+Mercedes-Benz,G-Class,AMG G 63,Exterior,Sun Roof,YES
+Mercedes-Benz,G-Class,AMG G 63,Exterior,Tyre Size,R20
+Mercedes-Benz,G-Class,AMG G 63,Exterior,LED DRLs,YES
+Mercedes-Benz,G-Class,AMG G 63,Exterior,LED Headlamps,YES
+Mercedes-Benz,G-Class,AMG G 63,Exterior,LED Taillights,YES
+Mercedes-Benz,G-Class,AMG G 63,Exterior,LED Fog Lamps,YES
+Mercedes-Benz,G-Class,AMG G 63,Exterior,Additional Features,"round headlamps, multibeam LED headlamps, sporty stainless steel spare wheel cover, Underguard in silver, standard alloy wheels, Sliding sunroof"
+Mercedes-Benz,G-Class,AMG G 63,Safety,Anti-lock Braking System (ABS),YES
+Mercedes-Benz,G-Class,AMG G 63,Safety,Brake Assist,YES
+Mercedes-Benz,G-Class,AMG G 63,Safety,Central Locking,YES
+Mercedes-Benz,G-Class,AMG G 63,Safety,Anti-Theft Alarm,YES
+Mercedes-Benz,G-Class,AMG G 63,Safety,No. of Airbags,9
+Mercedes-Benz,G-Class,AMG G 63,Safety,Driver Airbag,YES
+Mercedes-Benz,G-Class,AMG G 63,Safety,Passenger Airbag,YES
+Mercedes-Benz,G-Class,AMG G 63,Safety,Side Airbag,YES
+Mercedes-Benz,G-Class,AMG G 63,Safety,Side Airbag-Rear,YES
+Mercedes-Benz,G-Class,AMG G 63,Safety,Day & Night Rear View Mirror,YES
+Mercedes-Benz,G-Class,AMG G 63,Safety,Traction Control,YES
+Mercedes-Benz,G-Class,AMG G 63,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Mercedes-Benz,G-Class,AMG G 63,Safety,Engine Immobilizer,YES
+Mercedes-Benz,G-Class,AMG G 63,Safety,Electronic Stability Control (ESC),YES
+Mercedes-Benz,G-Class,AMG G 63,Safety,Anti-Theft Device,YES
+Mercedes-Benz,G-Class,AMG G 63,Safety,Hill Descent Control,YES
+Mercedes-Benz,G-Class,AMG G 63,Safety,Hill Assist,YES
+Mercedes-Benz,G-Class,AMG G 63,Entertainment & Communication,Radio,YES
+Mercedes-Benz,G-Class,AMG G 63,Entertainment & Communication,Bluetooth Connectivity,YES
+Mercedes-Benz,G-Class,AMG G 63,Entertainment & Communication,Touchscreen,YES
+Mercedes-Benz,G-Class,AMG G 63,Entertainment & Communication,Android Auto,YES
+Mercedes-Benz,G-Class,AMG G 63,Entertainment & Communication,Apple CarPlay,YES
+Mercedes-Benz,G-Class,AMG G 63,Entertainment & Communication,Usb Ports,YES
+Mercedes-Benz,G-Class,AMG G 63,Entertainment & Communication,Additional Features,"Burmester surround sound system, Ambient lighting in 64 colors"
+Mercedes-Benz,G-Class,AMG G 63,Entertainment & Communication,Speakers,Front & Rear

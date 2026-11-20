@@ -1,0 +1,81 @@
+company,model,variant,category,feature_name,feature_details
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Engine & Transmission,Engine Type,V8
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Engine & Transmission,Displacement,3982 cc
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Engine & Transmission,Max Power,576.63bhp
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Engine & Transmission,Max Torque,850Nm
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Engine & Transmission,No. of Cylinders,8
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Engine & Transmission,Valves Per Cylinder,4
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Engine & Transmission,Fuel Supply System,direct injection
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Engine & Transmission,Transmission Type,Automatic
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Engine & Transmission,Gearbox,9-Speed TCT AMG
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Engine & Transmission,Drive Type,AWD
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Fuel & Performance,Fuel Type,Petrol
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Fuel & Performance,Top Speed,220 kmph
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Fuel & Performance,Acceleration,4.5 s
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Fuel & Performance,0-100kmph,4.5 s
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Dimensions & Capacity,Length,4817 mm
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Dimensions & Capacity,Width,1931 mm
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Dimensions & Capacity,Height,1969 mm
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Dimensions & Capacity,Boot Space,667 Litres
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Dimensions & Capacity,Seating Capacity,5
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Dimensions & Capacity,Ground Clearance (Laden),241 mm
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Comfort & Convenience,Power Steering,YES
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Comfort & Convenience,Air Conditioner,YES
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Comfort & Convenience,Heater,YES
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Comfort & Convenience,Automatic Climate Control,YES
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Comfort & Convenience,Air Quality Control,YES
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Comfort & Convenience,Accessory Power Outlet,YES
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Comfort & Convenience,Adjustable Headrest,YES
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Comfort & Convenience,Rear AC Vents,YES
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Comfort & Convenience,Lumbar Support,YES
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Comfort & Convenience,Parking Sensors,Rear
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Comfort & Convenience,KeyLess Entry,YES
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Comfort & Convenience,Engine Start/Stop Button,YES
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Comfort & Convenience,Voice Commands,YES
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Comfort & Convenience,Central Console Armrest,With Storage
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Comfort & Convenience,Gear Shift Indicator,NO
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Comfort & Convenience,Follow Me Home Headlamps,YES
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Interior,Leather Wrapped Steering Wheel,YES
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Interior,Leather wrap gear-shift selector,YES
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Interior,Glove Box,YES
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Interior,Additional Features,"Widescreen cockpit, air vents in silver chrome, and interior elements finished in nappa leather"
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Exterior,Adjustable Headlamps,YES
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Exterior,Alloy Wheels,YES
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Exterior,Side Stepper,YES
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Exterior,Projector Headlamps,YES
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Exterior,Sun Roof,YES
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Exterior,Tyre Size,R20
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Exterior,LED DRLs,YES
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Exterior,LED Headlamps,YES
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Exterior,LED Taillights,YES
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Exterior,LED Fog Lamps,YES
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Exterior,Additional Features,"round headlamps, multibeam LED headlamps, sporty stainless steel spare wheel cover, Underguard in silver, standard alloy wheels, Sliding sunroof"
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Safety,Anti-lock Braking System (ABS),YES
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Safety,Brake Assist,YES
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Safety,Central Locking,YES
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Safety,Anti-Theft Alarm,YES
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Safety,No. of Airbags,9
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Safety,Driver Airbag,YES
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Safety,Passenger Airbag,YES
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Safety,Side Airbag,YES
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Safety,Side Airbag-Rear,YES
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Safety,Day & Night Rear View Mirror,YES
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Safety,Traction Control,YES
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Safety,Engine Immobilizer,YES
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Safety,Electronic Stability Control (ESC),YES
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Safety,Anti-Theft Device,YES
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Safety,Hill Descent Control,YES
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Safety,Hill Assist,YES
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Entertainment & Communication,Radio,YES
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Entertainment & Communication,Bluetooth Connectivity,YES
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Entertainment & Communication,Touchscreen,YES
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Entertainment & Communication,Android Auto,YES
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Entertainment & Communication,Apple CarPlay,YES
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Entertainment & Communication,Usb Ports,YES
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Entertainment & Communication,Additional Features,"Burmester surround sound system, Ambient lighting in 64 colors"
+Mercedes-Benz,G-Class,AMG G 63 Collector's Edition,Entertainment & Communication,Speakers,Front & Rear

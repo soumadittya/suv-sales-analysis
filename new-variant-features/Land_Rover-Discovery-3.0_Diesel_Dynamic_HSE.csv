@@ -1,0 +1,30 @@
+company,model,variant,category,feature_name,feature_details
+Land Rover,Discovery,3.0 Diesel Dynamic HSE,Engine & Transmission,Engine Type,3.0 L 6-cylinder
+Land Rover,Discovery,3.0 Diesel Dynamic HSE,Engine & Transmission,Displacement,2996 cc
+Land Rover,Discovery,3.0 Diesel Dynamic HSE,Engine & Transmission,Max Power,296.36bhp@4000rpm
+Land Rover,Discovery,3.0 Diesel Dynamic HSE,Engine & Transmission,Max Torque,650Nm@1500-2500rpm
+Land Rover,Discovery,3.0 Diesel Dynamic HSE,Engine & Transmission,No. of Cylinders,4
+Land Rover,Discovery,3.0 Diesel Dynamic HSE,Engine & Transmission,Valves Per Cylinder,4
+Land Rover,Discovery,3.0 Diesel Dynamic HSE,Engine & Transmission,Transmission Type,Automatic
+Land Rover,Discovery,3.0 Diesel Dynamic HSE,Engine & Transmission,Gearbox,8-Speed AT
+Land Rover,Discovery,3.0 Diesel Dynamic HSE,Engine & Transmission,Drive Type,AWD
+Land Rover,Discovery,3.0 Diesel Dynamic HSE,Fuel & Performance,Fuel Type,Diesel
+Land Rover,Discovery,3.0 Diesel Dynamic HSE,Fuel & Performance,Diesel Highway Mileage,13.2 kmpl
+Land Rover,Discovery,3.0 Diesel Dynamic HSE,Fuel & Performance,Emission Norm Compliance,BS VI
+Land Rover,Discovery,3.0 Diesel Dynamic HSE,Fuel & Performance,Top Speed,209 kmph
+Land Rover,Discovery,3.0 Diesel Dynamic HSE,"Suspension, Steering & Brakes",Front Suspension,Air suspension
+Land Rover,Discovery,3.0 Diesel Dynamic HSE,"Suspension, Steering & Brakes",Rear Suspension,Air suspension
+Land Rover,Discovery,3.0 Diesel Dynamic HSE,Dimensions & Capacity,Length,4949 mm
+Land Rover,Discovery,3.0 Diesel Dynamic HSE,Dimensions & Capacity,Width,2073 mm
+Land Rover,Discovery,3.0 Diesel Dynamic HSE,Dimensions & Capacity,Height,1869 mm
+Land Rover,Discovery,3.0 Diesel Dynamic HSE,Dimensions & Capacity,Boot Space,123 Litres
+Land Rover,Discovery,3.0 Diesel Dynamic HSE,Dimensions & Capacity,Seating Capacity,7
+Land Rover,Discovery,3.0 Diesel Dynamic HSE,Dimensions & Capacity,Wheel Base,2900 mm
+Land Rover,Discovery,3.0 Diesel Dynamic HSE,Dimensions & Capacity,Front Tread,1536 mm
+Land Rover,Discovery,3.0 Diesel Dynamic HSE,Dimensions & Capacity,Kerb Weight,2278 kg
+Land Rover,Discovery,3.0 Diesel Dynamic HSE,Dimensions & Capacity,Reported Ground Clearance (Unladen),207 mm
+Land Rover,Discovery,3.0 Diesel Dynamic HSE,Safety,No. of Airbags,8
+Land Rover,Discovery,3.0 Diesel Dynamic HSE,Safety,Passenger Airbag,YES
+Land Rover,Discovery,3.0 Diesel Dynamic HSE,Safety,Side Airbag,YES
+Land Rover,Discovery,3.0 Diesel Dynamic HSE,Safety,Side Airbag-Rear,YES
+Land Rover,Discovery,3.0 Diesel Dynamic HSE,Entertainment & Communication,Rear Touchscreen,NO

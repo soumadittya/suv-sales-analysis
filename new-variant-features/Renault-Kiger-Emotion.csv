@@ -1,0 +1,105 @@
+company,model,variant,category,feature_name,feature_details
+Renault,Kiger,Emotion,Engine & Transmission,Engine Type,1.0L Energy
+Renault,Kiger,Emotion,Engine & Transmission,Displacement,999 cc
+Renault,Kiger,Emotion,Engine & Transmission,Max Power,71bhp@6250rpm
+Renault,Kiger,Emotion,Engine & Transmission,Max Torque,96Nm@3500rpm
+Renault,Kiger,Emotion,Engine & Transmission,No. of Cylinders,3
+Renault,Kiger,Emotion,Engine & Transmission,Valves Per Cylinder,4
+Renault,Kiger,Emotion,Engine & Transmission,Fuel Supply System,MPFi
+Renault,Kiger,Emotion,Engine & Transmission,Turbo Charger,NO
+Renault,Kiger,Emotion,Engine & Transmission,Transmission Type,Manual
+Renault,Kiger,Emotion,Engine & Transmission,Gearbox,5-Speed
+Renault,Kiger,Emotion,Engine & Transmission,Drive Type,FWD
+Renault,Kiger,Emotion,Fuel & Performance,Fuel Type,Petrol
+Renault,Kiger,Emotion,Fuel & Performance,Petrol Mileage ARAI,19.71 kmpl
+Renault,Kiger,Emotion,Fuel & Performance,Petrol Fuel Tank Capacity,40 Litres
+Renault,Kiger,Emotion,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Renault,Kiger,Emotion,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Renault,Kiger,Emotion,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Renault,Kiger,Emotion,"Suspension, Steering & Brakes",Steering Type,Electric
+Renault,Kiger,Emotion,"Suspension, Steering & Brakes",Steering Column,Tilt
+Renault,Kiger,Emotion,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Renault,Kiger,Emotion,"Suspension, Steering & Brakes",Rear Brake Type,Drum
+Renault,Kiger,Emotion,Dimensions & Capacity,Length,3990 mm
+Renault,Kiger,Emotion,Dimensions & Capacity,Width,1912 mm
+Renault,Kiger,Emotion,Dimensions & Capacity,Height,1605 mm
+Renault,Kiger,Emotion,Dimensions & Capacity,Boot Space,405 Litres
+Renault,Kiger,Emotion,Dimensions & Capacity,Seating Capacity,5
+Renault,Kiger,Emotion,Dimensions & Capacity,Ground Clearance Unladen,205 mm
+Renault,Kiger,Emotion,Dimensions & Capacity,Wheel Base,2500 mm
+Renault,Kiger,Emotion,Comfort & Convenience,Boot Opening,Electronic
+Renault,Kiger,Emotion,Comfort & Convenience,Power Steering,YES
+Renault,Kiger,Emotion,Comfort & Convenience,Air Conditioner,YES
+Renault,Kiger,Emotion,Comfort & Convenience,Heater,YES
+Renault,Kiger,Emotion,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Renault,Kiger,Emotion,Comfort & Convenience,Ventilated Seats,YES
+Renault,Kiger,Emotion,Comfort & Convenience,Automatic Climate Control,YES
+Renault,Kiger,Emotion,Comfort & Convenience,Air Quality Control,YES
+Renault,Kiger,Emotion,Comfort & Convenience,Accessory Power Outlet,YES
+Renault,Kiger,Emotion,Comfort & Convenience,Adjustable Headrest,YES
+Renault,Kiger,Emotion,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Renault,Kiger,Emotion,Comfort & Convenience,Rear AC Vents,YES
+Renault,Kiger,Emotion,Comfort & Convenience,Cruise Control,YES
+Renault,Kiger,Emotion,Comfort & Convenience,Parking Sensors,Rear
+Renault,Kiger,Emotion,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Renault,Kiger,Emotion,Comfort & Convenience,KeyLess Entry,YES
+Renault,Kiger,Emotion,Comfort & Convenience,Engine Start/Stop Button,YES
+Renault,Kiger,Emotion,Comfort & Convenience,USB Charger,Front
+Renault,Kiger,Emotion,Comfort & Convenience,Central Console Armrest,With Storage
+Renault,Kiger,Emotion,Comfort & Convenience,Follow Me Home Headlamps,YES
+Renault,Kiger,Emotion,Comfort & Convenience,Power Windows,Front & Rear
+Renault,Kiger,Emotion,Comfort & Convenience,Cup Holders,Front & Rear
+Renault,Kiger,Emotion,Interior,Glove Box,YES
+Renault,Kiger,Emotion,Interior,Lighting,Ambient light
+Renault,Kiger,Emotion,Interior,Digital Cluster,YES
+Renault,Kiger,Emotion,Interior,Digital Cluster Size,7
+Renault,Kiger,Emotion,Interior,Upholstery,Leatherette
+Renault,Kiger,Emotion,Exterior,Rain Sensing Wiper,YES
+Renault,Kiger,Emotion,Exterior,Rear Window Wiper,YES
+Renault,Kiger,Emotion,Exterior,Rear Window Washer,YES
+Renault,Kiger,Emotion,Exterior,Rear Window Defogger,YES
+Renault,Kiger,Emotion,Exterior,Rear Spoiler,YES
+Renault,Kiger,Emotion,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Renault,Kiger,Emotion,Exterior,Halogen Headlamps,NO
+Renault,Kiger,Emotion,Exterior,Roof Rails,YES
+Renault,Kiger,Emotion,Exterior,Antenna,Shark Fin
+Renault,Kiger,Emotion,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Renault,Kiger,Emotion,Exterior,Wheels Type,Alloy
+Renault,Kiger,Emotion,Exterior,Tyre Size,195/60
+Renault,Kiger,Emotion,Exterior,Tyre Type,Radial Tubeless
+Renault,Kiger,Emotion,Exterior,LED DRLs,YES
+Renault,Kiger,Emotion,Exterior,LED Headlamps,YES
+Renault,Kiger,Emotion,Exterior,LED Taillights,YES
+Renault,Kiger,Emotion,Exterior,LED Fog Lamps,YES
+Renault,Kiger,Emotion,Safety,Anti-lock Braking System (ABS),YES
+Renault,Kiger,Emotion,Safety,Brake Assist,YES
+Renault,Kiger,Emotion,Safety,Central Locking,YES
+Renault,Kiger,Emotion,Safety,Child Safety Locks,YES
+Renault,Kiger,Emotion,Safety,No. of Airbags,6
+Renault,Kiger,Emotion,Safety,Driver Airbag,YES
+Renault,Kiger,Emotion,Safety,Passenger Airbag,YES
+Renault,Kiger,Emotion,Safety,Side Airbag,YES
+Renault,Kiger,Emotion,Safety,Side Airbag-Rear,NO
+Renault,Kiger,Emotion,Safety,Day & Night Rear View Mirror,YES
+Renault,Kiger,Emotion,Safety,Electronic Brakeforce Distribution (EBD),YES
+Renault,Kiger,Emotion,Safety,Traction Control,YES
+Renault,Kiger,Emotion,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Renault,Kiger,Emotion,Safety,Engine Immobilizer,YES
+Renault,Kiger,Emotion,Safety,Electronic Stability Control (ESC),YES
+Renault,Kiger,Emotion,Safety,Rear Camera,With Guidedlines
+Renault,Kiger,Emotion,Safety,ISOFIX Child Seat Mounts,YES
+Renault,Kiger,Emotion,Safety,Hill Assist,YES
+Renault,Kiger,Emotion,Safety,360 View Camera,YES
+Renault,Kiger,Emotion,Safety,Global NCAP Safety Rating,4 Star
+Renault,Kiger,Emotion,Safety,Global NCAP Child Safety Rating,3 Star
+Renault,Kiger,Emotion,Entertainment & Communication,Radio,YES
+Renault,Kiger,Emotion,Entertainment & Communication,Wireless Phone Charging,YES
+Renault,Kiger,Emotion,Entertainment & Communication,Bluetooth Connectivity,YES
+Renault,Kiger,Emotion,Entertainment & Communication,Touchscreen,YES
+Renault,Kiger,Emotion,Entertainment & Communication,Touchscreen Size,8 inch
+Renault,Kiger,Emotion,Entertainment & Communication,Android Auto,Wireless
+Renault,Kiger,Emotion,Entertainment & Communication,Apple CarPlay,Wireless
+Renault,Kiger,Emotion,Entertainment & Communication,No. of Speakers,4
+Renault,Kiger,Emotion,Entertainment & Communication,Usb Ports,YES
+Renault,Kiger,Emotion,Entertainment & Communication,Tweeters,2
+Renault,Kiger,Emotion,Entertainment & Communication,Speakers,Front & Rear

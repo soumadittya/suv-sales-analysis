@@ -1,0 +1,132 @@
+company,model,variant,category,feature_name,feature_details
+Jeep,Meridian,Trail Edition,Engine & Transmission,Engine Type,2.0L Multijet
+Jeep,Meridian,Trail Edition,Engine & Transmission,Displacement,1956 cc
+Jeep,Meridian,Trail Edition,Engine & Transmission,Max Power,168bhp@3750rpm
+Jeep,Meridian,Trail Edition,Engine & Transmission,Max Torque,350Nm@1750-2500rpm
+Jeep,Meridian,Trail Edition,Engine & Transmission,No. of Cylinders,4
+Jeep,Meridian,Trail Edition,Engine & Transmission,Valves Per Cylinder,4
+Jeep,Meridian,Trail Edition,Engine & Transmission,Turbo Charger,YES
+Jeep,Meridian,Trail Edition,Engine & Transmission,Transmission Type,Manual
+Jeep,Meridian,Trail Edition,Engine & Transmission,Gearbox,6-Speed
+Jeep,Meridian,Trail Edition,Engine & Transmission,Drive Type,FWD
+Jeep,Meridian,Trail Edition,Fuel & Performance,Fuel Type,Diesel
+Jeep,Meridian,Trail Edition,Fuel & Performance,Diesel Mileage ARAI,14.1 kmpl
+Jeep,Meridian,Trail Edition,Fuel & Performance,Diesel Fuel Tank Capacity,60 Litres
+Jeep,Meridian,Trail Edition,Fuel & Performance,Diesel Highway Mileage,12 kmpl
+Jeep,Meridian,Trail Edition,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Jeep,Meridian,Trail Edition,"Suspension, Steering & Brakes",Front Suspension,Multi-link suspension
+Jeep,Meridian,Trail Edition,"Suspension, Steering & Brakes",Rear Suspension,Leaf spring suspension
+Jeep,Meridian,Trail Edition,"Suspension, Steering & Brakes",Steering Type,Electric
+Jeep,Meridian,Trail Edition,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Jeep,Meridian,Trail Edition,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Jeep,Meridian,Trail Edition,Dimensions & Capacity,Length,4769 mm
+Jeep,Meridian,Trail Edition,Dimensions & Capacity,Width,1859 mm
+Jeep,Meridian,Trail Edition,Dimensions & Capacity,Height,1698 mm
+Jeep,Meridian,Trail Edition,Dimensions & Capacity,Seating Capacity,7
+Jeep,Meridian,Trail Edition,Dimensions & Capacity,Wheel Base,2782 mm
+Jeep,Meridian,Trail Edition,Comfort & Convenience,Boot Opening,Powered
+Jeep,Meridian,Trail Edition,Comfort & Convenience,Power Steering,YES
+Jeep,Meridian,Trail Edition,Comfort & Convenience,Air Conditioner,YES
+Jeep,Meridian,Trail Edition,Comfort & Convenience,Heater,YES
+Jeep,Meridian,Trail Edition,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Jeep,Meridian,Trail Edition,Comfort & Convenience,Ventilated Seats,YES
+Jeep,Meridian,Trail Edition,Comfort & Convenience,Electric Adjustable Seats,Front
+Jeep,Meridian,Trail Edition,Comfort & Convenience,Automatic Climate Control,YES
+Jeep,Meridian,Trail Edition,Comfort & Convenience,Accessory Power Outlet,YES
+Jeep,Meridian,Trail Edition,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Jeep,Meridian,Trail Edition,Comfort & Convenience,Adjustable Headrest,YES
+Jeep,Meridian,Trail Edition,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Jeep,Meridian,Trail Edition,Comfort & Convenience,Rear AC Vents,YES
+Jeep,Meridian,Trail Edition,Comfort & Convenience,Lumbar Support,YES
+Jeep,Meridian,Trail Edition,Comfort & Convenience,Cruise Control,NO
+Jeep,Meridian,Trail Edition,Comfort & Convenience,Parking Sensors,Rear
+Jeep,Meridian,Trail Edition,Comfort & Convenience,Real-Time Vehicle Tracking,YES
+Jeep,Meridian,Trail Edition,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Jeep,Meridian,Trail Edition,Comfort & Convenience,KeyLess Entry,YES
+Jeep,Meridian,Trail Edition,Comfort & Convenience,Engine Start/Stop Button,YES
+Jeep,Meridian,Trail Edition,Comfort & Convenience,Voice Commands,YES
+Jeep,Meridian,Trail Edition,Comfort & Convenience,USB Charger,Front & Rear
+Jeep,Meridian,Trail Edition,Comfort & Convenience,Central Console Armrest,With Storage
+Jeep,Meridian,Trail Edition,Comfort & Convenience,Gear Shift Indicator,YES
+Jeep,Meridian,Trail Edition,Comfort & Convenience,Follow Me Home Headlamps,YES
+Jeep,Meridian,Trail Edition,Comfort & Convenience,Power Windows,Front & Rear
+Jeep,Meridian,Trail Edition,Comfort & Convenience,Cup Holders,Front & Rear
+Jeep,Meridian,Trail Edition,Interior,Leather Wrapped Steering Wheel,YES
+Jeep,Meridian,Trail Edition,Interior,Glove Box,YES
+Jeep,Meridian,Trail Edition,Interior,Digital Cluster,YES
+Jeep,Meridian,Trail Edition,Interior,Digital Cluster Size,10.2
+Jeep,Meridian,Trail Edition,Interior,Upholstery,Leather
+Jeep,Meridian,Trail Edition,Exterior,Adjustable Headlamps,YES
+Jeep,Meridian,Trail Edition,Exterior,Rain Sensing Wiper,YES
+Jeep,Meridian,Trail Edition,Exterior,Rear Window Wiper,YES
+Jeep,Meridian,Trail Edition,Exterior,Rear Window Washer,YES
+Jeep,Meridian,Trail Edition,Exterior,Rear Window Defogger,YES
+Jeep,Meridian,Trail Edition,Exterior,Wheel Covers,NO
+Jeep,Meridian,Trail Edition,Exterior,Alloy Wheels,YES
+Jeep,Meridian,Trail Edition,Exterior,Rear Spoiler,YES
+Jeep,Meridian,Trail Edition,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Jeep,Meridian,Trail Edition,Exterior,Projector Headlamps,YES
+Jeep,Meridian,Trail Edition,Exterior,Cornering Foglamps,YES
+Jeep,Meridian,Trail Edition,Exterior,Roof Rails,YES
+Jeep,Meridian,Trail Edition,Exterior,Fog Lights,Front & Rear
+Jeep,Meridian,Trail Edition,Exterior,Antenna,Shark Fin
+Jeep,Meridian,Trail Edition,Exterior,Sunroof,Dual Pane
+Jeep,Meridian,Trail Edition,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Jeep,Meridian,Trail Edition,Exterior,Tyre Type,Radial Tubeless
+Jeep,Meridian,Trail Edition,Exterior,LED DRLs,YES
+Jeep,Meridian,Trail Edition,Exterior,LED Headlamps,YES
+Jeep,Meridian,Trail Edition,Exterior,LED Taillights,YES
+Jeep,Meridian,Trail Edition,Exterior,LED Fog Lamps,YES
+Jeep,Meridian,Trail Edition,Safety,Anti-lock Braking System (ABS),YES
+Jeep,Meridian,Trail Edition,Safety,Central Locking,YES
+Jeep,Meridian,Trail Edition,Safety,Child Safety Locks,YES
+Jeep,Meridian,Trail Edition,Safety,Anti-Theft Alarm,YES
+Jeep,Meridian,Trail Edition,Safety,No. of Airbags,6
+Jeep,Meridian,Trail Edition,Safety,Driver Airbag,YES
+Jeep,Meridian,Trail Edition,Safety,Passenger Airbag,YES
+Jeep,Meridian,Trail Edition,Safety,Side Airbag,YES
+Jeep,Meridian,Trail Edition,Safety,Side Airbag-Rear,NO
+Jeep,Meridian,Trail Edition,Safety,Day & Night Rear View Mirror,YES
+Jeep,Meridian,Trail Edition,Safety,Electronic Brakeforce Distribution (EBD),YES
+Jeep,Meridian,Trail Edition,Safety,Traction Control,YES
+Jeep,Meridian,Trail Edition,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Jeep,Meridian,Trail Edition,Safety,Engine Immobilizer,YES
+Jeep,Meridian,Trail Edition,Safety,Electronic Stability Control (ESC),YES
+Jeep,Meridian,Trail Edition,Safety,Rear Camera,With Guidedlines
+Jeep,Meridian,Trail Edition,Safety,ISOFIX Child Seat Mounts,YES
+Jeep,Meridian,Trail Edition,Safety,Hill Descent Control,NO
+Jeep,Meridian,Trail Edition,Safety,Hill Assist,YES
+Jeep,Meridian,Trail Edition,Safety,360 View Camera,YES
+Jeep,Meridian,Trail Edition,Safety,Global NCAP Safety Rating,5 Star
+Jeep,Meridian,Trail Edition,Entertainment & Communication,Radio,YES
+Jeep,Meridian,Trail Edition,Entertainment & Communication,Wireless Phone Charging,YES
+Jeep,Meridian,Trail Edition,Entertainment & Communication,Bluetooth Connectivity,YES
+Jeep,Meridian,Trail Edition,Entertainment & Communication,Touchscreen,YES
+Jeep,Meridian,Trail Edition,Entertainment & Communication,Touchscreen Size,10.1 inch
+Jeep,Meridian,Trail Edition,Entertainment & Communication,Android Auto,YES
+Jeep,Meridian,Trail Edition,Entertainment & Communication,Apple CarPlay,YES
+Jeep,Meridian,Trail Edition,Entertainment & Communication,No. of Speakers,9
+Jeep,Meridian,Trail Edition,Entertainment & Communication,Usb Ports,YES
+Jeep,Meridian,Trail Edition,Entertainment & Communication,Additional Features,Android Auto & Apple Car Play
+Jeep,Meridian,Trail Edition,Entertainment & Communication,Speakers,Front & Rear
+Jeep,Meridian,Trail Edition,ADAS Feature,Forward Collision Warning,NO
+Jeep,Meridian,Trail Edition,ADAS Feature,Traffic Sign Recognition,NO
+Jeep,Meridian,Trail Edition,ADAS Feature,Lane Departure Warning,NO
+Jeep,Meridian,Trail Edition,ADAS Feature,Lane Keep Assist,NO
+Jeep,Meridian,Trail Edition,ADAS Feature,Driver Attention Warning,NO
+Jeep,Meridian,Trail Edition,ADAS Feature,Adaptive Cruise Control,NO
+Jeep,Meridian,Trail Edition,ADAS Feature,Adaptive High Beam Assist,YES
+Jeep,Meridian,Trail Edition,ADAS Feature,Blind Spot Monitor,NO
+Jeep,Meridian,Trail Edition,Advance Internet Feature,Unauthorised Vehicle entry,YES
+Jeep,Meridian,Trail Edition,Advance Internet Feature,Navigation with Live Traffic,YES
+Jeep,Meridian,Trail Edition,Advance Internet Feature,Send POI to Vehicle From App,YES
+Jeep,Meridian,Trail Edition,Advance Internet Feature,Google / Alexa Connectivity,YES
+Jeep,Meridian,Trail Edition,Advance Internet Feature,SOS Button,YES
+Jeep,Meridian,Trail Edition,Advance Internet Feature,RSA,YES
+Jeep,Meridian,Trail Edition,Advance Internet Feature,Smartwatch App,YES
+Jeep,Meridian,Trail Edition,Advance Internet Feature,Valet Mode,YES
+Jeep,Meridian,Trail Edition,Advance Internet Feature,Remote AC On/Off,YES
+Jeep,Meridian,Trail Edition,Advance Internet Feature,Remote Door Lock/Unlock,YES
+Jeep,Meridian,Trail Edition,Advance Internet Feature,Remote Vehicle Ignition Start/Stop,YES
+Jeep,Meridian,Trail Edition,Advance Internet Feature,SOS / Emergency Assistance,YES
+Jeep,Meridian,Trail Edition,Advance Internet Feature,Geo-fence Alert,YES

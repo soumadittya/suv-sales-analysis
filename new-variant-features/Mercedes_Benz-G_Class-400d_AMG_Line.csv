@@ -1,0 +1,94 @@
+company,model,variant,category,feature_name,feature_details
+Mercedes-Benz,G-Class,400d AMG Line,Engine & Transmission,Engine Type,in-line six-cylinder OM656
+Mercedes-Benz,G-Class,400d AMG Line,Engine & Transmission,Displacement,2925 cc
+Mercedes-Benz,G-Class,400d AMG Line,Engine & Transmission,Max Power,325.86bhp@3600-4200rpm
+Mercedes-Benz,G-Class,400d AMG Line,Engine & Transmission,Max Torque,700Nm@1200-3200rpm
+Mercedes-Benz,G-Class,400d AMG Line,Engine & Transmission,No. of Cylinders,6
+Mercedes-Benz,G-Class,400d AMG Line,Engine & Transmission,Valves Per Cylinder,4
+Mercedes-Benz,G-Class,400d AMG Line,Engine & Transmission,Fuel Supply System,direct injection
+Mercedes-Benz,G-Class,400d AMG Line,Engine & Transmission,Transmission Type,Automatic
+Mercedes-Benz,G-Class,400d AMG Line,Engine & Transmission,Gearbox,9-speed AT
+Mercedes-Benz,G-Class,400d AMG Line,Engine & Transmission,Drive Type,AWD
+Mercedes-Benz,G-Class,400d AMG Line,Fuel & Performance,Fuel Type,Diesel
+Mercedes-Benz,G-Class,400d AMG Line,Fuel & Performance,Diesel Fuel Tank Capacity,100 Litres
+Mercedes-Benz,G-Class,400d AMG Line,Fuel & Performance,Diesel Highway Mileage,9 kmpl
+Mercedes-Benz,G-Class,400d AMG Line,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Mercedes-Benz,G-Class,400d AMG Line,Fuel & Performance,Top Speed,210 kmph
+Mercedes-Benz,G-Class,400d AMG Line,Fuel & Performance,Acceleration,6.4
+Mercedes-Benz,G-Class,400d AMG Line,Fuel & Performance,0-100kmph,6.4
+Mercedes-Benz,G-Class,400d AMG Line,Dimensions & Capacity,Length,4817 mm
+Mercedes-Benz,G-Class,400d AMG Line,Dimensions & Capacity,Width,1931 mm
+Mercedes-Benz,G-Class,400d AMG Line,Dimensions & Capacity,Height,1969 mm
+Mercedes-Benz,G-Class,400d AMG Line,Dimensions & Capacity,Boot Space,480 Litres
+Mercedes-Benz,G-Class,400d AMG Line,Dimensions & Capacity,Seating Capacity,5
+Mercedes-Benz,G-Class,400d AMG Line,Dimensions & Capacity,Ground Clearance (Laden),241 mm
+Mercedes-Benz,G-Class,400d AMG Line,Comfort & Convenience,Power Steering,YES
+Mercedes-Benz,G-Class,400d AMG Line,Comfort & Convenience,Air Conditioner,YES
+Mercedes-Benz,G-Class,400d AMG Line,Comfort & Convenience,Heater,YES
+Mercedes-Benz,G-Class,400d AMG Line,Comfort & Convenience,Adjustable Steering,YES
+Mercedes-Benz,G-Class,400d AMG Line,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Mercedes-Benz,G-Class,400d AMG Line,Comfort & Convenience,Automatic Climate Control,YES
+Mercedes-Benz,G-Class,400d AMG Line,Comfort & Convenience,Air Quality Control,YES
+Mercedes-Benz,G-Class,400d AMG Line,Comfort & Convenience,Low Fuel Warning Light,YES
+Mercedes-Benz,G-Class,400d AMG Line,Comfort & Convenience,Accessory Power Outlet,YES
+Mercedes-Benz,G-Class,400d AMG Line,Comfort & Convenience,Rear Seat Headrest,YES
+Mercedes-Benz,G-Class,400d AMG Line,Comfort & Convenience,Adjustable Headrest,YES
+Mercedes-Benz,G-Class,400d AMG Line,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Mercedes-Benz,G-Class,400d AMG Line,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Mercedes-Benz,G-Class,400d AMG Line,Comfort & Convenience,Rear AC Vents,YES
+Mercedes-Benz,G-Class,400d AMG Line,Comfort & Convenience,Lumbar Support,YES
+Mercedes-Benz,G-Class,400d AMG Line,Comfort & Convenience,Parking Sensors,Rear
+Mercedes-Benz,G-Class,400d AMG Line,Comfort & Convenience,Navigation System,YES
+Mercedes-Benz,G-Class,400d AMG Line,Comfort & Convenience,KeyLess Entry,YES
+Mercedes-Benz,G-Class,400d AMG Line,Comfort & Convenience,Engine Start/Stop Button,YES
+Mercedes-Benz,G-Class,400d AMG Line,Comfort & Convenience,Voice Commands,YES
+Mercedes-Benz,G-Class,400d AMG Line,Comfort & Convenience,Central Console Armrest,With Storage
+Mercedes-Benz,G-Class,400d AMG Line,Comfort & Convenience,Follow Me Home Headlamps,YES
+Mercedes-Benz,G-Class,400d AMG Line,Comfort & Convenience,Additional Features,"Burmester surround sound system,Widescreen cockpit"
+Mercedes-Benz,G-Class,400d AMG Line,Interior,Electronic Multi-Tripmeter,YES
+Mercedes-Benz,G-Class,400d AMG Line,Interior,Leather Seats,YES
+Mercedes-Benz,G-Class,400d AMG Line,Interior,Fabric Upholstery,NO
+Mercedes-Benz,G-Class,400d AMG Line,Interior,Leather Wrapped Steering Wheel,YES
+Mercedes-Benz,G-Class,400d AMG Line,Interior,Leather wrap gear-shift selector,YES
+Mercedes-Benz,G-Class,400d AMG Line,Interior,Glove Box,YES
+Mercedes-Benz,G-Class,400d AMG Line,Interior,Digital Clock,YES
+Mercedes-Benz,G-Class,400d AMG Line,Interior,Additional Features,"Widescreen cockpit, air vents in silver chrome, and interior elements finished in nappa leather"
+Mercedes-Benz,G-Class,400d AMG Line,Exterior,Adjustable Headlamps,YES
+Mercedes-Benz,G-Class,400d AMG Line,Exterior,Fog Lights - Front,YES
+Mercedes-Benz,G-Class,400d AMG Line,Exterior,Alloy Wheels,YES
+Mercedes-Benz,G-Class,400d AMG Line,Exterior,Power Antenna,NO
+Mercedes-Benz,G-Class,400d AMG Line,Exterior,Side Stepper,YES
+Mercedes-Benz,G-Class,400d AMG Line,Exterior,Projector Headlamps,YES
+Mercedes-Benz,G-Class,400d AMG Line,Exterior,Sun Roof,YES
+Mercedes-Benz,G-Class,400d AMG Line,Exterior,Tyre Size,R20
+Mercedes-Benz,G-Class,400d AMG Line,Exterior,LED DRLs,YES
+Mercedes-Benz,G-Class,400d AMG Line,Exterior,LED Headlamps,YES
+Mercedes-Benz,G-Class,400d AMG Line,Exterior,LED Taillights,YES
+Mercedes-Benz,G-Class,400d AMG Line,Exterior,LED Fog Lamps,YES
+Mercedes-Benz,G-Class,400d AMG Line,Exterior,Additional Features,"round headlamps, multibeam LED headlamps, sporty stainless steel spare wheel cover, Underguard in silver, standard alloy wheels, Sliding sunroof"
+Mercedes-Benz,G-Class,400d AMG Line,Safety,Anti-lock Braking System (ABS),YES
+Mercedes-Benz,G-Class,400d AMG Line,Safety,Brake Assist,YES
+Mercedes-Benz,G-Class,400d AMG Line,Safety,Central Locking,YES
+Mercedes-Benz,G-Class,400d AMG Line,Safety,Anti-Theft Alarm,YES
+Mercedes-Benz,G-Class,400d AMG Line,Safety,No. of Airbags,9
+Mercedes-Benz,G-Class,400d AMG Line,Safety,Driver Airbag,YES
+Mercedes-Benz,G-Class,400d AMG Line,Safety,Passenger Airbag,YES
+Mercedes-Benz,G-Class,400d AMG Line,Safety,Side Airbag,YES
+Mercedes-Benz,G-Class,400d AMG Line,Safety,Side Airbag-Rear,YES
+Mercedes-Benz,G-Class,400d AMG Line,Safety,Day & Night Rear View Mirror,YES
+Mercedes-Benz,G-Class,400d AMG Line,Safety,Traction Control,YES
+Mercedes-Benz,G-Class,400d AMG Line,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Mercedes-Benz,G-Class,400d AMG Line,Safety,Engine Immobilizer,YES
+Mercedes-Benz,G-Class,400d AMG Line,Safety,Electronic Stability Control (ESC),YES
+Mercedes-Benz,G-Class,400d AMG Line,Safety,Anti-Theft Device,YES
+Mercedes-Benz,G-Class,400d AMG Line,Safety,Hill Descent Control,YES
+Mercedes-Benz,G-Class,400d AMG Line,Safety,Hill Assist,YES
+Mercedes-Benz,G-Class,400d AMG Line,Entertainment & Communication,Radio,YES
+Mercedes-Benz,G-Class,400d AMG Line,Entertainment & Communication,USB & Auxiliary input,YES
+Mercedes-Benz,G-Class,400d AMG Line,Entertainment & Communication,Bluetooth Connectivity,YES
+Mercedes-Benz,G-Class,400d AMG Line,Entertainment & Communication,Touchscreen,YES
+Mercedes-Benz,G-Class,400d AMG Line,Entertainment & Communication,Android Auto,YES
+Mercedes-Benz,G-Class,400d AMG Line,Entertainment & Communication,Apple CarPlay,YES
+Mercedes-Benz,G-Class,400d AMG Line,Entertainment & Communication,Usb Ports,YES
+Mercedes-Benz,G-Class,400d AMG Line,Entertainment & Communication,Additional Features,"Burmester surround sound system, Ambient lighting in 64 colors"
+Mercedes-Benz,G-Class,400d AMG Line,Entertainment & Communication,Speakers,Front & Rear

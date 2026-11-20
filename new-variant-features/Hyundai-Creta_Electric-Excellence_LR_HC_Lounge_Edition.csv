@@ -1,0 +1,171 @@
+company,model,variant,category,feature_name,feature_details
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Engine & Transmission,Battery Capacity,51.4 kWh
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Engine & Transmission,Motor Power,126 kW
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Engine & Transmission,Motor Type,Permanent Magnet Synchronous
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Engine & Transmission,Max Power,169bhp
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Engine & Transmission,Max Torque,255Nm
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Engine & Transmission,Range,510 km
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Engine & Transmission,Battery Type,Lithium-ion
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Engine & Transmission,Charging Time (A.C),4Hrs 50Min-11kW (10-100%)
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Engine & Transmission,Charging Time (D.C),58Min-50kW(10-80%)
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Engine & Transmission,Regenerative Braking,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Engine & Transmission,Regenerative Braking Levels,4
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Engine & Transmission,Charging Port,CCS-II
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Engine & Transmission,Charging Options,Portable charging 11kW AC & 50kW DC
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Engine & Transmission,Charger Type,11 kW Smart connected wall box charger
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Engine & Transmission,Transmission Type,Automatic
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Engine & Transmission,Gearbox,Single Speed
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Engine & Transmission,Drive Type,FWD
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Fuel & Performance,Fuel Type,Electric
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Fuel & Performance,Emission Norm Compliance,ZEV
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Fuel & Performance,Acceleration 0-100kmph,7.9 s
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Charging,Charging Time,39Min-100kW(10-80%)
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Charging,Fast Charging,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,"Suspension, Steering & Brakes",Steering Type,Electric
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,"Suspension, Steering & Brakes",Turning Radius,5.3 m
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Dimensions & Capacity,Length,4340 mm
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Dimensions & Capacity,Width,1790 mm
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Dimensions & Capacity,Height,1655 mm
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Dimensions & Capacity,Boot Space,433 Litres
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Dimensions & Capacity,Seating Capacity,5
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Dimensions & Capacity,Ground Clearance Unladen,190 mm
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Dimensions & Capacity,Wheel Base,2610 mm
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Dimensions & Capacity,Reported Boot Space,433 Litres
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Comfort & Convenience,Boot Opening,Electronic
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Comfort & Convenience,Power Steering,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Comfort & Convenience,Air Conditioner,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Comfort & Convenience,Heater,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Comfort & Convenience,Adjustable Steering,Height & Reach
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Comfort & Convenience,Ventilated Seats,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Comfort & Convenience,Electric Adjustable Seats,Front Only
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Comfort & Convenience,Automatic Climate Control,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Comfort & Convenience,Accessory Power Outlet,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Comfort & Convenience,Adjustable Headrest,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Comfort & Convenience,Rear AC Vents,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Comfort & Convenience,Cruise Control,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Comfort & Convenience,Parking Sensors,Front & Rear
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Comfort & Convenience,Real-Time Vehicle Tracking,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Comfort & Convenience,KeyLess Entry,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Comfort & Convenience,Engine Start/Stop Button,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Comfort & Convenience,Voice Commands,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Comfort & Convenience,Paddle Shifters,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Comfort & Convenience,USB Charger,Front & Rear
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Comfort & Convenience,Central Console Armrest,With Storage
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Comfort & Convenience,Drive Modes,3
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Comfort & Convenience,Follow Me Home Headlamps,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Comfort & Convenience,Voice assisted sunroof,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Comfort & Convenience,Vehicle to Load Charging,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Comfort & Convenience,Drive Mode Types,ECO | NORMAL | SPORT
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Comfort & Convenience,Power Windows,Front & Rear
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Comfort & Convenience,Cup Holders,Front & Rear
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Interior,Glove Box,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Interior,Folding Table in The Rear,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Interior,Lighting,Ambient light
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Interior,Additional Features,"Rear parcel tray, Sunglass holder"
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Interior,Digital Cluster,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Interior,Digital Cluster Size,10.25
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Interior,Upholstery,Leatherette
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Interior,Interior Camera,Dash Camera
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Exterior,Adjustable Headlamps,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Exterior,Rain Sensing Wiper,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Exterior,Rear Window Wiper,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Exterior,Rear Window Washer,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Exterior,Rear Window Defogger,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Exterior,Alloy Wheels,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Exterior,Rear Spoiler,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Exterior,Roof Rails,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Exterior,Automatic Headlamps,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Exterior,Antenna,Shark Fin
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Exterior,Sunroof,Panoramic
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Exterior,Puddle Lamps,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Exterior,Tyre Size,215/60 R17
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Exterior,Tyre Type,Low Rolling Resistance
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Exterior,LED DRLs,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Exterior,LED Headlamps,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Exterior,LED Taillights,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Exterior,Additional Features,Active air flaps
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Safety,Anti-lock Braking System (ABS),YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Safety,Central Locking,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Safety,Child Safety Locks,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Safety,Anti-Theft Alarm,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Safety,No. of Airbags,6
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Safety,Driver Airbag,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Safety,Passenger Airbag,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Safety,Side Airbag,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Safety,Side Airbag-Rear,NO
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Safety,Day & Night Rear View Mirror,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Safety,Electronic Brakeforce Distribution (EBD),YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Safety,Acoustic Vehicle Alert System,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Safety,Traction Control,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Safety,Engine Immobilizer,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Safety,Electronic Stability Control (ESC),YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Safety,Rear Camera,With Guidedlines
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Safety,Anti-Theft Device,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Safety,Anti-Pinch Power Windows,Driver's Window
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Safety,ISOFIX Child Seat Mounts,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Safety,Blind Spot Camera,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Safety,Hill Descent Control,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Safety,Hill Assist,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Safety,360 View Camera,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Entertainment & Communication,Radio,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Entertainment & Communication,Wireless Phone Charging,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Entertainment & Communication,Bluetooth Connectivity,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Entertainment & Communication,Touchscreen,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Entertainment & Communication,Touchscreen Size,10.25 inch
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Entertainment & Communication,Android Auto,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Entertainment & Communication,Apple CarPlay,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Entertainment & Communication,No. of Speakers,5
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Entertainment & Communication,Inbuilt Apps,JioSaavn
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Entertainment & Communication,Tweeters,2
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Entertainment & Communication,Subwoofer,1
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Entertainment & Communication,Rear Touchscreen,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Entertainment & Communication,Rear Touch Screen size,11.6 inch
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Entertainment & Communication,Additional Features,Bose premium sound 8 speaker system with front central speaker & sub-woofer
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Entertainment & Communication,Speakers,Front & Rear
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,ADAS Feature,Forward Collision Warning,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,ADAS Feature,Automatic Emergency Braking,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,ADAS Feature,Blind Spot Collision Avoidance Assist,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,ADAS Feature,Lane Departure Warning,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,ADAS Feature,Lane Keep Assist,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,ADAS Feature,Driver Attention Warning,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,ADAS Feature,Adaptive Cruise Control,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,ADAS Feature,Leading Vehicle Departure Alert,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,ADAS Feature,Adaptive High Beam Assist,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,ADAS Feature,Rear Cross Traffic Alert,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,ADAS Feature,Rear Cross Traffic Collision-Avoidance Assist,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,ADAS Feature,Blind Spot Monitor,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Advance Internet Feature,Live Location,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Advance Internet Feature,Remote Immobiliser,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Advance Internet Feature,Remote Vehicle Status Check,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Advance Internet Feature,Digital Car Key,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Advance Internet Feature,Inbuilt Assistant,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Advance Internet Feature,Hinglish Voice Commands,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Advance Internet Feature,Send POI to Vehicle From App,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Advance Internet Feature,Live Weather,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Advance Internet Feature,E-Call & I-Call,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Advance Internet Feature,Over the Air (OTA) Updates,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Advance Internet Feature,Google / Alexa Connectivity,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Advance Internet Feature,Save Route/Place,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Advance Internet Feature,SOS Button,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Advance Internet Feature,RSA,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Advance Internet Feature,Over Speeding Alert,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Advance Internet Feature,In Car Remote Control App,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Advance Internet Feature,Smartwatch App,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Advance Internet Feature,Remote AC On/Off,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Advance Internet Feature,Remote Door Lock/Unlock,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Advance Internet Feature,Remote Vehicle Ignition Start/Stop,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Advance Internet Feature,SOS / Emergency Assistance,YES
+Hyundai,Creta Electric,Excellence LR HC Lounge Edition,Advance Internet Feature,Inbuilt APPs,Hyundai Bluelink | In-car Payment

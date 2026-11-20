@@ -1,0 +1,169 @@
+company,model,variant,category,feature_name,feature_details
+Hyundai,Creta Electric,Excellence HC,Engine & Transmission,Battery Capacity,42 kWh
+Hyundai,Creta Electric,Excellence HC,Engine & Transmission,Motor Power,126 kW
+Hyundai,Creta Electric,Excellence HC,Engine & Transmission,Motor Type,Permanent Magnet Synchronous
+Hyundai,Creta Electric,Excellence HC,Engine & Transmission,Max Power,169bhp
+Hyundai,Creta Electric,Excellence HC,Engine & Transmission,Max Torque,255Nm
+Hyundai,Creta Electric,Excellence HC,Engine & Transmission,Range,420 km
+Hyundai,Creta Electric,Excellence HC,Engine & Transmission,Battery Type,Lithium-ion
+Hyundai,Creta Electric,Excellence HC,Engine & Transmission,Charging Time (A.C),4Hrs 50Min-11kW (10-100%)
+Hyundai,Creta Electric,Excellence HC,Engine & Transmission,Charging Time (D.C),39Min-100kW(10-80%)
+Hyundai,Creta Electric,Excellence HC,Engine & Transmission,Regenerative Braking,YES
+Hyundai,Creta Electric,Excellence HC,Engine & Transmission,Regenerative Braking Levels,4
+Hyundai,Creta Electric,Excellence HC,Engine & Transmission,Charging Port,CCS-II
+Hyundai,Creta Electric,Excellence HC,Engine & Transmission,Charging Options,Portable charging 11kW AC & 50kW DC
+Hyundai,Creta Electric,Excellence HC,Engine & Transmission,Charger Type,11 kW Smart connected wall box charger
+Hyundai,Creta Electric,Excellence HC,Engine & Transmission,Transmission Type,Automatic
+Hyundai,Creta Electric,Excellence HC,Engine & Transmission,Gearbox,Single Speed
+Hyundai,Creta Electric,Excellence HC,Engine & Transmission,Drive Type,FWD
+Hyundai,Creta Electric,Excellence HC,Fuel & Performance,Fuel Type,Electric
+Hyundai,Creta Electric,Excellence HC,Fuel & Performance,Emission Norm Compliance,ZEV
+Hyundai,Creta Electric,Excellence HC,Fuel & Performance,Acceleration 0-100kmph,7.9 s
+Hyundai,Creta Electric,Excellence HC,Charging,Charging Time,58Min-50kW(10-80%)
+Hyundai,Creta Electric,Excellence HC,Charging,Fast Charging,YES
+Hyundai,Creta Electric,Excellence HC,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Hyundai,Creta Electric,Excellence HC,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Hyundai,Creta Electric,Excellence HC,"Suspension, Steering & Brakes",Steering Type,Electric
+Hyundai,Creta Electric,Excellence HC,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Hyundai,Creta Electric,Excellence HC,"Suspension, Steering & Brakes",Turning Radius,5.3 m
+Hyundai,Creta Electric,Excellence HC,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Hyundai,Creta Electric,Excellence HC,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Hyundai,Creta Electric,Excellence HC,Dimensions & Capacity,Length,4340 mm
+Hyundai,Creta Electric,Excellence HC,Dimensions & Capacity,Width,1790 mm
+Hyundai,Creta Electric,Excellence HC,Dimensions & Capacity,Height,1655 mm
+Hyundai,Creta Electric,Excellence HC,Dimensions & Capacity,Boot Space,433 Litres
+Hyundai,Creta Electric,Excellence HC,Dimensions & Capacity,Seating Capacity,5
+Hyundai,Creta Electric,Excellence HC,Dimensions & Capacity,Ground Clearance Unladen,190 mm
+Hyundai,Creta Electric,Excellence HC,Dimensions & Capacity,Wheel Base,2610 mm
+Hyundai,Creta Electric,Excellence HC,Dimensions & Capacity,Reported Boot Space,433 Litres
+Hyundai,Creta Electric,Excellence HC,Comfort & Convenience,Boot Opening,Electronic
+Hyundai,Creta Electric,Excellence HC,Comfort & Convenience,Power Steering,YES
+Hyundai,Creta Electric,Excellence HC,Comfort & Convenience,Air Conditioner,YES
+Hyundai,Creta Electric,Excellence HC,Comfort & Convenience,Heater,YES
+Hyundai,Creta Electric,Excellence HC,Comfort & Convenience,Adjustable Steering,Height & Reach
+Hyundai,Creta Electric,Excellence HC,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Hyundai,Creta Electric,Excellence HC,Comfort & Convenience,Ventilated Seats,YES
+Hyundai,Creta Electric,Excellence HC,Comfort & Convenience,Electric Adjustable Seats,Front
+Hyundai,Creta Electric,Excellence HC,Comfort & Convenience,Automatic Climate Control,YES
+Hyundai,Creta Electric,Excellence HC,Comfort & Convenience,Accessory Power Outlet,YES
+Hyundai,Creta Electric,Excellence HC,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Hyundai,Creta Electric,Excellence HC,Comfort & Convenience,Adjustable Headrest,YES
+Hyundai,Creta Electric,Excellence HC,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Hyundai,Creta Electric,Excellence HC,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Hyundai,Creta Electric,Excellence HC,Comfort & Convenience,Rear AC Vents,YES
+Hyundai,Creta Electric,Excellence HC,Comfort & Convenience,Cruise Control,YES
+Hyundai,Creta Electric,Excellence HC,Comfort & Convenience,Parking Sensors,Front & Rear
+Hyundai,Creta Electric,Excellence HC,Comfort & Convenience,Real-Time Vehicle Tracking,YES
+Hyundai,Creta Electric,Excellence HC,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Hyundai,Creta Electric,Excellence HC,Comfort & Convenience,KeyLess Entry,YES
+Hyundai,Creta Electric,Excellence HC,Comfort & Convenience,Engine Start/Stop Button,YES
+Hyundai,Creta Electric,Excellence HC,Comfort & Convenience,Voice Commands,YES
+Hyundai,Creta Electric,Excellence HC,Comfort & Convenience,Paddle Shifters,YES
+Hyundai,Creta Electric,Excellence HC,Comfort & Convenience,USB Charger,Front & Rear
+Hyundai,Creta Electric,Excellence HC,Comfort & Convenience,Central Console Armrest,With Storage
+Hyundai,Creta Electric,Excellence HC,Comfort & Convenience,Drive Modes,3
+Hyundai,Creta Electric,Excellence HC,Comfort & Convenience,Follow Me Home Headlamps,YES
+Hyundai,Creta Electric,Excellence HC,Comfort & Convenience,Voice assisted sunroof,YES
+Hyundai,Creta Electric,Excellence HC,Comfort & Convenience,Vehicle to Load Charging,YES
+Hyundai,Creta Electric,Excellence HC,Comfort & Convenience,Drive Mode Types,ECO | NORMAL | SPORT
+Hyundai,Creta Electric,Excellence HC,Comfort & Convenience,Power Windows,Front & Rear
+Hyundai,Creta Electric,Excellence HC,Comfort & Convenience,Cup Holders,Front & Rear
+Hyundai,Creta Electric,Excellence HC,Interior,Glove Box,YES
+Hyundai,Creta Electric,Excellence HC,Interior,Folding Table in The Rear,YES
+Hyundai,Creta Electric,Excellence HC,Interior,Lighting,Ambient light
+Hyundai,Creta Electric,Excellence HC,Interior,Additional Features,"Rear parcel tray, Sunglass holder"
+Hyundai,Creta Electric,Excellence HC,Interior,Digital Cluster,YES
+Hyundai,Creta Electric,Excellence HC,Interior,Digital Cluster Size,10.25
+Hyundai,Creta Electric,Excellence HC,Interior,Upholstery,Leatherette
+Hyundai,Creta Electric,Excellence HC,Exterior,Adjustable Headlamps,YES
+Hyundai,Creta Electric,Excellence HC,Exterior,Rain Sensing Wiper,YES
+Hyundai,Creta Electric,Excellence HC,Exterior,Rear Window Wiper,YES
+Hyundai,Creta Electric,Excellence HC,Exterior,Rear Window Washer,YES
+Hyundai,Creta Electric,Excellence HC,Exterior,Rear Window Defogger,YES
+Hyundai,Creta Electric,Excellence HC,Exterior,Alloy Wheels,YES
+Hyundai,Creta Electric,Excellence HC,Exterior,Rear Spoiler,YES
+Hyundai,Creta Electric,Excellence HC,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Hyundai,Creta Electric,Excellence HC,Exterior,Roof Rails,YES
+Hyundai,Creta Electric,Excellence HC,Exterior,Automatic Headlamps,YES
+Hyundai,Creta Electric,Excellence HC,Exterior,Antenna,Shark Fin
+Hyundai,Creta Electric,Excellence HC,Exterior,Sunroof,Panoramic
+Hyundai,Creta Electric,Excellence HC,Exterior,Puddle Lamps,YES
+Hyundai,Creta Electric,Excellence HC,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Hyundai,Creta Electric,Excellence HC,Exterior,Tyre Size,215/60 R17
+Hyundai,Creta Electric,Excellence HC,Exterior,Tyre Type,Low Rolling Resistance
+Hyundai,Creta Electric,Excellence HC,Exterior,LED DRLs,YES
+Hyundai,Creta Electric,Excellence HC,Exterior,LED Headlamps,YES
+Hyundai,Creta Electric,Excellence HC,Exterior,LED Taillights,YES
+Hyundai,Creta Electric,Excellence HC,Exterior,Additional Features,Active air flaps
+Hyundai,Creta Electric,Excellence HC,Safety,Anti-lock Braking System (ABS),YES
+Hyundai,Creta Electric,Excellence HC,Safety,Central Locking,YES
+Hyundai,Creta Electric,Excellence HC,Safety,Child Safety Locks,YES
+Hyundai,Creta Electric,Excellence HC,Safety,Anti-Theft Alarm,YES
+Hyundai,Creta Electric,Excellence HC,Safety,No. of Airbags,6
+Hyundai,Creta Electric,Excellence HC,Safety,Driver Airbag,YES
+Hyundai,Creta Electric,Excellence HC,Safety,Passenger Airbag,YES
+Hyundai,Creta Electric,Excellence HC,Safety,Side Airbag,YES
+Hyundai,Creta Electric,Excellence HC,Safety,Side Airbag-Rear,NO
+Hyundai,Creta Electric,Excellence HC,Safety,Day & Night Rear View Mirror,YES
+Hyundai,Creta Electric,Excellence HC,Safety,Electronic Brakeforce Distribution (EBD),YES
+Hyundai,Creta Electric,Excellence HC,Safety,Acoustic Vehicle Alert System,YES
+Hyundai,Creta Electric,Excellence HC,Safety,Traction Control,YES
+Hyundai,Creta Electric,Excellence HC,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Hyundai,Creta Electric,Excellence HC,Safety,Engine Immobilizer,YES
+Hyundai,Creta Electric,Excellence HC,Safety,Electronic Stability Control (ESC),YES
+Hyundai,Creta Electric,Excellence HC,Safety,Rear Camera,With Guidedlines
+Hyundai,Creta Electric,Excellence HC,Safety,Anti-Theft Device,YES
+Hyundai,Creta Electric,Excellence HC,Safety,Anti-Pinch Power Windows,Driver's Window
+Hyundai,Creta Electric,Excellence HC,Safety,ISOFIX Child Seat Mounts,YES
+Hyundai,Creta Electric,Excellence HC,Safety,Blind Spot Camera,YES
+Hyundai,Creta Electric,Excellence HC,Safety,Hill Descent Control,YES
+Hyundai,Creta Electric,Excellence HC,Safety,Hill Assist,YES
+Hyundai,Creta Electric,Excellence HC,Safety,360 View Camera,YES
+Hyundai,Creta Electric,Excellence HC,Entertainment & Communication,Radio,YES
+Hyundai,Creta Electric,Excellence HC,Entertainment & Communication,Wireless Phone Charging,YES
+Hyundai,Creta Electric,Excellence HC,Entertainment & Communication,Bluetooth Connectivity,YES
+Hyundai,Creta Electric,Excellence HC,Entertainment & Communication,Touchscreen,YES
+Hyundai,Creta Electric,Excellence HC,Entertainment & Communication,Touchscreen Size,10.25 inch
+Hyundai,Creta Electric,Excellence HC,Entertainment & Communication,Android Auto,YES
+Hyundai,Creta Electric,Excellence HC,Entertainment & Communication,Apple CarPlay,YES
+Hyundai,Creta Electric,Excellence HC,Entertainment & Communication,No. of Speakers,5
+Hyundai,Creta Electric,Excellence HC,Entertainment & Communication,Usb Ports,Type-C: 3
+Hyundai,Creta Electric,Excellence HC,Entertainment & Communication,Inbuilt Apps,JioSaavn
+Hyundai,Creta Electric,Excellence HC,Entertainment & Communication,Tweeters,2
+Hyundai,Creta Electric,Excellence HC,Entertainment & Communication,Subwoofer,1
+Hyundai,Creta Electric,Excellence HC,Entertainment & Communication,Additional Features,Bose premium sound 8 speaker system with front central speaker & sub-woofer
+Hyundai,Creta Electric,Excellence HC,Entertainment & Communication,Speakers,Front & Rear
+Hyundai,Creta Electric,Excellence HC,ADAS Feature,Forward Collision Warning,YES
+Hyundai,Creta Electric,Excellence HC,ADAS Feature,Automatic Emergency Braking,YES
+Hyundai,Creta Electric,Excellence HC,ADAS Feature,Blind Spot Collision Avoidance Assist,YES
+Hyundai,Creta Electric,Excellence HC,ADAS Feature,Lane Departure Warning,YES
+Hyundai,Creta Electric,Excellence HC,ADAS Feature,Lane Keep Assist,YES
+Hyundai,Creta Electric,Excellence HC,ADAS Feature,Driver Attention Warning,YES
+Hyundai,Creta Electric,Excellence HC,ADAS Feature,Adaptive Cruise Control,YES
+Hyundai,Creta Electric,Excellence HC,ADAS Feature,Leading Vehicle Departure Alert,YES
+Hyundai,Creta Electric,Excellence HC,ADAS Feature,Adaptive High Beam Assist,YES
+Hyundai,Creta Electric,Excellence HC,ADAS Feature,Rear Cross Traffic Alert,YES
+Hyundai,Creta Electric,Excellence HC,ADAS Feature,Rear Cross Traffic Collision-Avoidance Assist,YES
+Hyundai,Creta Electric,Excellence HC,ADAS Feature,Blind Spot Monitor,YES
+Hyundai,Creta Electric,Excellence HC,Advance Internet Feature,Live Location,YES
+Hyundai,Creta Electric,Excellence HC,Advance Internet Feature,Remote Immobiliser,YES
+Hyundai,Creta Electric,Excellence HC,Advance Internet Feature,Remote Vehicle Status Check,YES
+Hyundai,Creta Electric,Excellence HC,Advance Internet Feature,Digital Car Key,YES
+Hyundai,Creta Electric,Excellence HC,Advance Internet Feature,Inbuilt Assistant,YES
+Hyundai,Creta Electric,Excellence HC,Advance Internet Feature,Hinglish Voice Commands,YES
+Hyundai,Creta Electric,Excellence HC,Advance Internet Feature,Send POI to Vehicle From App,YES
+Hyundai,Creta Electric,Excellence HC,Advance Internet Feature,Live Weather,YES
+Hyundai,Creta Electric,Excellence HC,Advance Internet Feature,E-Call & I-Call,YES
+Hyundai,Creta Electric,Excellence HC,Advance Internet Feature,Over the Air (OTA) Updates,YES
+Hyundai,Creta Electric,Excellence HC,Advance Internet Feature,Google / Alexa Connectivity,YES
+Hyundai,Creta Electric,Excellence HC,Advance Internet Feature,Save Route/Place,YES
+Hyundai,Creta Electric,Excellence HC,Advance Internet Feature,SOS Button,YES
+Hyundai,Creta Electric,Excellence HC,Advance Internet Feature,RSA,YES
+Hyundai,Creta Electric,Excellence HC,Advance Internet Feature,Over Speeding Alert,YES
+Hyundai,Creta Electric,Excellence HC,Advance Internet Feature,In Car Remote Control App,YES
+Hyundai,Creta Electric,Excellence HC,Advance Internet Feature,Smartwatch App,YES
+Hyundai,Creta Electric,Excellence HC,Advance Internet Feature,Remote AC On/Off,YES
+Hyundai,Creta Electric,Excellence HC,Advance Internet Feature,Remote Door Lock/Unlock,YES
+Hyundai,Creta Electric,Excellence HC,Advance Internet Feature,Remote Vehicle Ignition Start/Stop,YES
+Hyundai,Creta Electric,Excellence HC,Advance Internet Feature,SOS / Emergency Assistance,YES
+Hyundai,Creta Electric,Excellence HC,Advance Internet Feature,Inbuilt APPs,Hyundai Bluelink | In-car Payment

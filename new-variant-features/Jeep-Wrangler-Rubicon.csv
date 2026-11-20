@@ -1,0 +1,93 @@
+company,model,variant,category,feature_name,feature_details
+Jeep,Wrangler,Rubicon,Engine & Transmission,Engine Type,2.0L Gme T4 Di
+Jeep,Wrangler,Rubicon,Engine & Transmission,Displacement,1995 cc
+Jeep,Wrangler,Rubicon,Engine & Transmission,Max Power,268.20bhp@5250rpm
+Jeep,Wrangler,Rubicon,Engine & Transmission,Max Torque,400Nm@3000rpm
+Jeep,Wrangler,Rubicon,Engine & Transmission,No. of Cylinders,4
+Jeep,Wrangler,Rubicon,Engine & Transmission,Valves Per Cylinder,4
+Jeep,Wrangler,Rubicon,Engine & Transmission,Transmission Type,Automatic
+Jeep,Wrangler,Rubicon,Engine & Transmission,Gearbox,8 Speed AT
+Jeep,Wrangler,Rubicon,Engine & Transmission,Drive Type,4WD
+Jeep,Wrangler,Rubicon,Fuel & Performance,Fuel Type,Petrol
+Jeep,Wrangler,Rubicon,Fuel & Performance,Petrol Mileage ARAI,10.6 kmpl
+Jeep,Wrangler,Rubicon,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Jeep,Wrangler,Rubicon,"Suspension, Steering & Brakes",Front Suspension,"Multi-link, Solid Axle"
+Jeep,Wrangler,Rubicon,"Suspension, Steering & Brakes",Rear Suspension,"Multi-link, Solid Axle"
+Jeep,Wrangler,Rubicon,"Suspension, Steering & Brakes",Steering Type,Electric
+Jeep,Wrangler,Rubicon,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Jeep,Wrangler,Rubicon,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Jeep,Wrangler,Rubicon,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Jeep,Wrangler,Rubicon,Dimensions & Capacity,Length,4867 mm
+Jeep,Wrangler,Rubicon,Dimensions & Capacity,Width,1931 mm
+Jeep,Wrangler,Rubicon,Dimensions & Capacity,Height,1864 mm
+Jeep,Wrangler,Rubicon,Dimensions & Capacity,Seating Capacity,5
+Jeep,Wrangler,Rubicon,Dimensions & Capacity,Ground Clearance Unladen,237 mm
+Jeep,Wrangler,Rubicon,Dimensions & Capacity,Wheel Base,3007 mm
+Jeep,Wrangler,Rubicon,Dimensions & Capacity,Kerb Weight,2146 kg
+Jeep,Wrangler,Rubicon,Dimensions & Capacity,Reported Boot Space,192 Litres
+Jeep,Wrangler,Rubicon,Comfort & Convenience,Boot Opening,Manual
+Jeep,Wrangler,Rubicon,Comfort & Convenience,Power Steering,YES
+Jeep,Wrangler,Rubicon,Comfort & Convenience,Air Conditioner,YES
+Jeep,Wrangler,Rubicon,Comfort & Convenience,Heater,YES
+Jeep,Wrangler,Rubicon,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Jeep,Wrangler,Rubicon,Comfort & Convenience,Electric Adjustable Seats,Front
+Jeep,Wrangler,Rubicon,Comfort & Convenience,Automatic Climate Control,YES
+Jeep,Wrangler,Rubicon,Comfort & Convenience,Accessory Power Outlet,YES
+Jeep,Wrangler,Rubicon,Comfort & Convenience,Parking Sensors,Rear
+Jeep,Wrangler,Rubicon,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Jeep,Wrangler,Rubicon,Comfort & Convenience,KeyLess Entry,YES
+Jeep,Wrangler,Rubicon,Comfort & Convenience,Engine Start/Stop Button,YES
+Jeep,Wrangler,Rubicon,Comfort & Convenience,Voice Commands,YES
+Jeep,Wrangler,Rubicon,Comfort & Convenience,USB Charger,Front & Rear
+Jeep,Wrangler,Rubicon,Comfort & Convenience,Central Console Armrest,With Storage
+Jeep,Wrangler,Rubicon,Comfort & Convenience,Idle Start-Stop System,YES
+Jeep,Wrangler,Rubicon,Interior,Leather Wrapped Steering Wheel,YES
+Jeep,Wrangler,Rubicon,Interior,Leather wrap gear-shift selector,YES
+Jeep,Wrangler,Rubicon,Interior,Glove Box,YES
+Jeep,Wrangler,Rubicon,Interior,Digital Cluster,YES
+Jeep,Wrangler,Rubicon,Interior,Digital Cluster Size,7 Inch
+Jeep,Wrangler,Rubicon,Interior,Upholstery,Leather
+Jeep,Wrangler,Rubicon,Exterior,Adjustable Headlamps,YES
+Jeep,Wrangler,Rubicon,Exterior,Rear Window Wiper,YES
+Jeep,Wrangler,Rubicon,Exterior,Rear Window Washer,YES
+Jeep,Wrangler,Rubicon,Exterior,Rear Window Defogger,YES
+Jeep,Wrangler,Rubicon,Exterior,Side Stepper,NO
+Jeep,Wrangler,Rubicon,Exterior,Fog Lights,Front & Rear
+Jeep,Wrangler,Rubicon,Exterior,Heated Outside Rear View Mirror,YES
+Jeep,Wrangler,Rubicon,Exterior,Tyre Size,255/75 R17
+Jeep,Wrangler,Rubicon,Exterior,Tyre Type,"Tubeless, Radial"
+Jeep,Wrangler,Rubicon,Exterior,LED DRLs,YES
+Jeep,Wrangler,Rubicon,Exterior,LED Headlamps,YES
+Jeep,Wrangler,Rubicon,Exterior,LED Taillights,YES
+Jeep,Wrangler,Rubicon,Exterior,LED Fog Lamps,YES
+Jeep,Wrangler,Rubicon,Safety,Anti-lock Braking System (ABS),YES
+Jeep,Wrangler,Rubicon,Safety,Brake Assist,YES
+Jeep,Wrangler,Rubicon,Safety,Central Locking,YES
+Jeep,Wrangler,Rubicon,Safety,Anti-Theft Alarm,YES
+Jeep,Wrangler,Rubicon,Safety,No. of Airbags,6
+Jeep,Wrangler,Rubicon,Safety,Driver Airbag,YES
+Jeep,Wrangler,Rubicon,Safety,Passenger Airbag,YES
+Jeep,Wrangler,Rubicon,Safety,Side Airbag,YES
+Jeep,Wrangler,Rubicon,Safety,Day & Night Rear View Mirror,YES
+Jeep,Wrangler,Rubicon,Safety,Electronic Brakeforce Distribution (EBD),YES
+Jeep,Wrangler,Rubicon,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Jeep,Wrangler,Rubicon,Safety,Engine Immobilizer,YES
+Jeep,Wrangler,Rubicon,Safety,Electronic Stability Control (ESC),YES
+Jeep,Wrangler,Rubicon,Safety,Rear Camera,With Guidedlines
+Jeep,Wrangler,Rubicon,Safety,Anti-Theft Device,YES
+Jeep,Wrangler,Rubicon,Safety,Hill Descent Control,YES
+Jeep,Wrangler,Rubicon,Safety,Hill Assist,YES
+Jeep,Wrangler,Rubicon,Entertainment & Communication,Radio,YES
+Jeep,Wrangler,Rubicon,Entertainment & Communication,Bluetooth Connectivity,YES
+Jeep,Wrangler,Rubicon,Entertainment & Communication,Touchscreen,YES
+Jeep,Wrangler,Rubicon,Entertainment & Communication,Touchscreen Size,12.3 inch
+Jeep,Wrangler,Rubicon,Entertainment & Communication,Android Auto,YES
+Jeep,Wrangler,Rubicon,Entertainment & Communication,Apple CarPlay,YES
+Jeep,Wrangler,Rubicon,Entertainment & Communication,No. of Speakers,9
+Jeep,Wrangler,Rubicon,Entertainment & Communication,Usb Ports,YES
+Jeep,Wrangler,Rubicon,Entertainment & Communication,Subwoofer,1
+Jeep,Wrangler,Rubicon,Entertainment & Communication,Additional Features,Premium 9 Speaker Audio (Alpine) System With Subwoofer
+Jeep,Wrangler,Rubicon,Entertainment & Communication,Speakers,Front & Rear
+Jeep,Wrangler,Rubicon,ADAS Feature,Forward Collision Warning,YES
+Jeep,Wrangler,Rubicon,ADAS Feature,Adaptive Cruise Control,YES
+Jeep,Wrangler,Rubicon,ADAS Feature,Adaptive High Beam Assist,YES

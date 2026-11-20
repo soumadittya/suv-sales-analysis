@@ -1,0 +1,137 @@
+company,model,variant,category,feature_name,feature_details
+Mahindra,XEV 9e,Pack One,Engine & Transmission,Battery Capacity,59 kWh
+Mahindra,XEV 9e,Pack One,Engine & Transmission,Motor Power,170 kW
+Mahindra,XEV 9e,Pack One,Engine & Transmission,Motor Type,Permanent Magnet Synchronous Motor
+Mahindra,XEV 9e,Pack One,Engine & Transmission,Max Power,228bhp
+Mahindra,XEV 9e,Pack One,Engine & Transmission,Max Torque,380Nm
+Mahindra,XEV 9e,Pack One,Engine & Transmission,Range,522 km
+Mahindra,XEV 9e,Pack One,Engine & Transmission,Battery Type,Lithium-ion
+Mahindra,XEV 9e,Pack One,Engine & Transmission,Charging Time (A.C),6 / 8.7 h (11 .2kW / 7.2 kW Charger)
+Mahindra,XEV 9e,Pack One,Engine & Transmission,Charging Time (D.C),20Min with 140 kW DC
+Mahindra,XEV 9e,Pack One,Engine & Transmission,Regenerative Braking,YES
+Mahindra,XEV 9e,Pack One,Engine & Transmission,Regenerative Braking Levels,4
+Mahindra,XEV 9e,Pack One,Engine & Transmission,Charging Port,CCS-II
+Mahindra,XEV 9e,Pack One,Engine & Transmission,Charging Options,13A (upto 3.0kW) | 7.2kW | 11kW | 140 kW DC
+Mahindra,XEV 9e,Pack One,Engine & Transmission,Transmission Type,Automatic
+Mahindra,XEV 9e,Pack One,Engine & Transmission,Gearbox,Single Speed
+Mahindra,XEV 9e,Pack One,Engine & Transmission,Drive Type,RWD
+Mahindra,XEV 9e,Pack One,Fuel & Performance,Fuel Type,Electric
+Mahindra,XEV 9e,Pack One,Fuel & Performance,Emission Norm Compliance,ZEV
+Mahindra,XEV 9e,Pack One,Charging,Charging Time,20Min with 140 kW DC
+Mahindra,XEV 9e,Pack One,Charging,Fast Charging,YES
+Mahindra,XEV 9e,Pack One,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Mahindra,XEV 9e,Pack One,"Suspension, Steering & Brakes",Rear Suspension,Multi-link suspension
+Mahindra,XEV 9e,Pack One,"Suspension, Steering & Brakes",Shock Absorbers Type,Frequency Dependent Damping
+Mahindra,XEV 9e,Pack One,"Suspension, Steering & Brakes",Steering Type,Electric
+Mahindra,XEV 9e,Pack One,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Mahindra,XEV 9e,Pack One,"Suspension, Steering & Brakes",Turning Radius,5
+Mahindra,XEV 9e,Pack One,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Mahindra,XEV 9e,Pack One,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Mahindra,XEV 9e,Pack One,Dimensions & Capacity,Length,4789 mm
+Mahindra,XEV 9e,Pack One,Dimensions & Capacity,Width,1907 mm
+Mahindra,XEV 9e,Pack One,Dimensions & Capacity,Height,1694 mm
+Mahindra,XEV 9e,Pack One,Dimensions & Capacity,Boot Space,663 Litres
+Mahindra,XEV 9e,Pack One,Dimensions & Capacity,Seating Capacity,5
+Mahindra,XEV 9e,Pack One,Dimensions & Capacity,Ground Clearance Unladen,207 mm
+Mahindra,XEV 9e,Pack One,Dimensions & Capacity,Wheel Base,2775 mm
+Mahindra,XEV 9e,Pack One,Comfort & Convenience,Boot Opening,Electronic
+Mahindra,XEV 9e,Pack One,Comfort & Convenience,Power Steering,YES
+Mahindra,XEV 9e,Pack One,Comfort & Convenience,Air Conditioner,YES
+Mahindra,XEV 9e,Pack One,Comfort & Convenience,Heater,YES
+Mahindra,XEV 9e,Pack One,Comfort & Convenience,Adjustable Steering,Height & Reach
+Mahindra,XEV 9e,Pack One,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Mahindra,XEV 9e,Pack One,Comfort & Convenience,Electric Adjustable Seats,NO
+Mahindra,XEV 9e,Pack One,Comfort & Convenience,Automatic Climate Control,YES
+Mahindra,XEV 9e,Pack One,Comfort & Convenience,Air Quality Control,NO
+Mahindra,XEV 9e,Pack One,Comfort & Convenience,Accessory Power Outlet,YES
+Mahindra,XEV 9e,Pack One,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Mahindra,XEV 9e,Pack One,Comfort & Convenience,Adjustable Headrest,YES
+Mahindra,XEV 9e,Pack One,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Mahindra,XEV 9e,Pack One,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Mahindra,XEV 9e,Pack One,Comfort & Convenience,Rear AC Vents,YES
+Mahindra,XEV 9e,Pack One,Comfort & Convenience,Cruise Control,YES
+Mahindra,XEV 9e,Pack One,Comfort & Convenience,Parking Sensors,Rear
+Mahindra,XEV 9e,Pack One,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Mahindra,XEV 9e,Pack One,Comfort & Convenience,KeyLess Entry,YES
+Mahindra,XEV 9e,Pack One,Comfort & Convenience,Engine Start/Stop Button,YES
+Mahindra,XEV 9e,Pack One,Comfort & Convenience,Voice Commands,YES
+Mahindra,XEV 9e,Pack One,Comfort & Convenience,USB Charger,Front & Rear
+Mahindra,XEV 9e,Pack One,Comfort & Convenience,Central Console Armrest,With Storage
+Mahindra,XEV 9e,Pack One,Comfort & Convenience,Drive Modes,5
+Mahindra,XEV 9e,Pack One,Comfort & Convenience,Glove Box light,YES
+Mahindra,XEV 9e,Pack One,Comfort & Convenience,Follow Me Home Headlamps,YES
+Mahindra,XEV 9e,Pack One,Comfort & Convenience,Drive Mode Types,Default | Range | Everyday |Race | Snow Mode
+Mahindra,XEV 9e,Pack One,Comfort & Convenience,Power Windows,Front & Rear
+Mahindra,XEV 9e,Pack One,Interior,Glove Box,YES
+Mahindra,XEV 9e,Pack One,Interior,Digital Cluster,YES
+Mahindra,XEV 9e,Pack One,Interior,Upholstery,Fabric
+Mahindra,XEV 9e,Pack One,Exterior,Adjustable Headlamps,YES
+Mahindra,XEV 9e,Pack One,Exterior,Rain Sensing Wiper,YES
+Mahindra,XEV 9e,Pack One,Exterior,Rear Window Defogger,YES
+Mahindra,XEV 9e,Pack One,Exterior,Wheel Covers,YES
+Mahindra,XEV 9e,Pack One,Exterior,Alloy Wheels,NO
+Mahindra,XEV 9e,Pack One,Exterior,Rear Spoiler,YES
+Mahindra,XEV 9e,Pack One,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Mahindra,XEV 9e,Pack One,Exterior,Projector Headlamps,YES
+Mahindra,XEV 9e,Pack One,Exterior,Automatic Headlamps,YES
+Mahindra,XEV 9e,Pack One,Exterior,Antenna,Shark Fin
+Mahindra,XEV 9e,Pack One,Exterior,Outside Rear View Mirror (ORVM),Powered
+Mahindra,XEV 9e,Pack One,Exterior,Tyre Size,245/55 R19
+Mahindra,XEV 9e,Pack One,Exterior,Tyre Type,Radial Tubeless
+Mahindra,XEV 9e,Pack One,Exterior,Wheel Size,19 Inch
+Mahindra,XEV 9e,Pack One,Exterior,LED DRLs,YES
+Mahindra,XEV 9e,Pack One,Exterior,LED Headlamps,YES
+Mahindra,XEV 9e,Pack One,Exterior,LED Taillights,YES
+Mahindra,XEV 9e,Pack One,Safety,Anti-lock Braking System (ABS),YES
+Mahindra,XEV 9e,Pack One,Safety,Brake Assist,YES
+Mahindra,XEV 9e,Pack One,Safety,Central Locking,YES
+Mahindra,XEV 9e,Pack One,Safety,Child Safety Locks,YES
+Mahindra,XEV 9e,Pack One,Safety,Anti-Theft Alarm,YES
+Mahindra,XEV 9e,Pack One,Safety,No. of Airbags,6
+Mahindra,XEV 9e,Pack One,Safety,Driver Airbag,YES
+Mahindra,XEV 9e,Pack One,Safety,Passenger Airbag,YES
+Mahindra,XEV 9e,Pack One,Safety,Side Airbag,YES
+Mahindra,XEV 9e,Pack One,Safety,Side Airbag-Rear,NO
+Mahindra,XEV 9e,Pack One,Safety,Day & Night Rear View Mirror,YES
+Mahindra,XEV 9e,Pack One,Safety,Electronic Brakeforce Distribution (EBD),YES
+Mahindra,XEV 9e,Pack One,Safety,Traction Control,YES
+Mahindra,XEV 9e,Pack One,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Mahindra,XEV 9e,Pack One,Safety,Engine Immobilizer,YES
+Mahindra,XEV 9e,Pack One,Safety,Electronic Stability Control (ESC),YES
+Mahindra,XEV 9e,Pack One,Safety,Rear Camera,With Guidedlines
+Mahindra,XEV 9e,Pack One,Safety,Anti-Theft Device,YES
+Mahindra,XEV 9e,Pack One,Safety,Anti-Pinch Power Windows,Driver's Window
+Mahindra,XEV 9e,Pack One,Safety,ISOFIX Child Seat Mounts,YES
+Mahindra,XEV 9e,Pack One,Safety,Heads-Up Display (HUD),NO
+Mahindra,XEV 9e,Pack One,Safety,Hill Descent Control,YES
+Mahindra,XEV 9e,Pack One,Safety,Hill Assist,YES
+Mahindra,XEV 9e,Pack One,Safety,360 View Camera,NO
+Mahindra,XEV 9e,Pack One,Safety,Bharat NCAP Safety Rating,5 Star
+Mahindra,XEV 9e,Pack One,Safety,Bharat NCAP Child Safety Rating,5 Star
+Mahindra,XEV 9e,Pack One,Entertainment & Communication,Radio,YES
+Mahindra,XEV 9e,Pack One,Entertainment & Communication,Wireless Phone Charging,NO
+Mahindra,XEV 9e,Pack One,Entertainment & Communication,Bluetooth Connectivity,YES
+Mahindra,XEV 9e,Pack One,Entertainment & Communication,Wi-Fi Connectivity,YES
+Mahindra,XEV 9e,Pack One,Entertainment & Communication,Touchscreen,YES
+Mahindra,XEV 9e,Pack One,Entertainment & Communication,Touchscreen Size,12.3 inch
+Mahindra,XEV 9e,Pack One,Entertainment & Communication,Android Auto,YES
+Mahindra,XEV 9e,Pack One,Entertainment & Communication,Apple CarPlay,YES
+Mahindra,XEV 9e,Pack One,Entertainment & Communication,No. of Speakers,6
+Mahindra,XEV 9e,Pack One,Entertainment & Communication,Usb Ports,YES
+Mahindra,XEV 9e,Pack One,Entertainment & Communication,Tweeters,2
+Mahindra,XEV 9e,Pack One,Entertainment & Communication,Additional Features,Wireless Android Auto & Apple CarPlay Compatibility
+Mahindra,XEV 9e,Pack One,Entertainment & Communication,Speakers,Front & Rear
+Mahindra,XEV 9e,Pack One,ADAS Feature,Forward Collision Warning,NO
+Mahindra,XEV 9e,Pack One,ADAS Feature,Traffic Sign Recognition,NO
+Mahindra,XEV 9e,Pack One,ADAS Feature,Blind Spot Collision Avoidance Assist,NO
+Mahindra,XEV 9e,Pack One,ADAS Feature,Lane Departure Warning,NO
+Mahindra,XEV 9e,Pack One,ADAS Feature,Lane Keep Assist,NO
+Mahindra,XEV 9e,Pack One,ADAS Feature,Lane Departure Prevention Assist,NO
+Mahindra,XEV 9e,Pack One,ADAS Feature,Driver Attention Warning,YES
+Mahindra,XEV 9e,Pack One,ADAS Feature,Adaptive High Beam Assist,NO
+Mahindra,XEV 9e,Pack One,Advance Internet Feature,Remote Vehicle Status Check,YES
+Mahindra,XEV 9e,Pack One,Advance Internet Feature,Over the Air (OTA) Updates,YES
+Mahindra,XEV 9e,Pack One,Advance Internet Feature,Google / Alexa Connectivity,YES
+Mahindra,XEV 9e,Pack One,Advance Internet Feature,Remote AC On/Off,YES
+Mahindra,XEV 9e,Pack One,Advance Internet Feature,Remote Door Lock/Unlock,YES
+Mahindra,XEV 9e,Pack One,Advance Internet Feature,SOS / Emergency Assistance,YES

@@ -1,0 +1,143 @@
+company,model,variant,category,feature_name,feature_details
+Tata,Sierra,Pure,Engine & Transmission,Engine Type,1.5L Revotron
+Tata,Sierra,Pure,Engine & Transmission,Displacement,1498 cc
+Tata,Sierra,Pure,Engine & Transmission,Max Power,105bhp@6000rpm
+Tata,Sierra,Pure,Engine & Transmission,Max Torque,145Nm@2100rpm
+Tata,Sierra,Pure,Engine & Transmission,No. of Cylinders,4
+Tata,Sierra,Pure,Engine & Transmission,Valves Per Cylinder,4
+Tata,Sierra,Pure,Engine & Transmission,Fuel Supply System,Atkinson
+Tata,Sierra,Pure,Engine & Transmission,Turbo Charger,NO
+Tata,Sierra,Pure,Engine & Transmission,Transmission Type,Manual
+Tata,Sierra,Pure,Engine & Transmission,Gearbox,6 Speed
+Tata,Sierra,Pure,Engine & Transmission,Drive Type,FWD
+Tata,Sierra,Pure,Fuel & Performance,Fuel Type,Petrol
+Tata,Sierra,Pure,Fuel & Performance,Petrol Fuel Tank Capacity,50 Litres
+Tata,Sierra,Pure,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Tata,Sierra,Pure,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Tata,Sierra,Pure,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Tata,Sierra,Pure,"Suspension, Steering & Brakes",Steering Type,Electric
+Tata,Sierra,Pure,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Tata,Sierra,Pure,"Suspension, Steering & Brakes",Turning Radius,5.3
+Tata,Sierra,Pure,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Tata,Sierra,Pure,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Tata,Sierra,Pure,"Suspension, Steering & Brakes",Boot Space Rear Seat Folding,1257 Litres
+Tata,Sierra,Pure,Dimensions & Capacity,Length,4340 mm
+Tata,Sierra,Pure,Dimensions & Capacity,Width,1841 mm
+Tata,Sierra,Pure,Dimensions & Capacity,Height,1715 mm
+Tata,Sierra,Pure,Dimensions & Capacity,Boot Space,622 Litres
+Tata,Sierra,Pure,Dimensions & Capacity,Seating Capacity,5
+Tata,Sierra,Pure,Dimensions & Capacity,Ground Clearance Unladen,205 mm
+Tata,Sierra,Pure,Dimensions & Capacity,Wheel Base,2730 mm
+Tata,Sierra,Pure,Comfort & Convenience,Boot Opening,Powered
+Tata,Sierra,Pure,Comfort & Convenience,Power Steering,YES
+Tata,Sierra,Pure,Comfort & Convenience,Air Conditioner,YES
+Tata,Sierra,Pure,Comfort & Convenience,Heater,YES
+Tata,Sierra,Pure,Comfort & Convenience,Adjustable Steering,Height & Reach
+Tata,Sierra,Pure,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Tata,Sierra,Pure,Comfort & Convenience,Ventilated Seats,NO
+Tata,Sierra,Pure,Comfort & Convenience,Electric Adjustable Seats,NO
+Tata,Sierra,Pure,Comfort & Convenience,Automatic Climate Control,YES
+Tata,Sierra,Pure,Comfort & Convenience,Air Quality Control,NO
+Tata,Sierra,Pure,Comfort & Convenience,Accessory Power Outlet,YES
+Tata,Sierra,Pure,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Tata,Sierra,Pure,Comfort & Convenience,Adjustable Headrest,YES
+Tata,Sierra,Pure,Comfort & Convenience,Rear Seat Centre Arm Rest,NO
+Tata,Sierra,Pure,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Tata,Sierra,Pure,Comfort & Convenience,Rear AC Vents,YES
+Tata,Sierra,Pure,Comfort & Convenience,Cruise Control,YES
+Tata,Sierra,Pure,Comfort & Convenience,Parking Sensors,Rear
+Tata,Sierra,Pure,Comfort & Convenience,Foldable Rear Seat,Bench Folding
+Tata,Sierra,Pure,Comfort & Convenience,KeyLess Entry,YES
+Tata,Sierra,Pure,Comfort & Convenience,Engine Start/Stop Button,YES
+Tata,Sierra,Pure,Comfort & Convenience,Voice Commands,YES
+Tata,Sierra,Pure,Comfort & Convenience,Paddle Shifters,NO
+Tata,Sierra,Pure,Comfort & Convenience,USB Charger,Front
+Tata,Sierra,Pure,Comfort & Convenience,Central Console Armrest,With Storage
+Tata,Sierra,Pure,Comfort & Convenience,Idle Start-Stop System,YES
+Tata,Sierra,Pure,Comfort & Convenience,Follow Me Home Headlamps,YES
+Tata,Sierra,Pure,Comfort & Convenience,Voice assisted sunroof,NO
+Tata,Sierra,Pure,Comfort & Convenience,Drive Mode Types,NO
+Tata,Sierra,Pure,Comfort & Convenience,Power Windows,Front & Rear
+Tata,Sierra,Pure,Interior,Leather Wrapped Steering Wheel,NO
+Tata,Sierra,Pure,Interior,Leather wrap gear-shift selector,NO
+Tata,Sierra,Pure,Interior,Glove Box,YES
+Tata,Sierra,Pure,Interior,Digital Cluster,YES
+Tata,Sierra,Pure,Interior,Digital Cluster Size,4
+Tata,Sierra,Pure,Interior,Upholstery,Fabric
+Tata,Sierra,Pure,Exterior,Rain Sensing Wiper,NO
+Tata,Sierra,Pure,Exterior,Rear Window Wiper,NO
+Tata,Sierra,Pure,Exterior,Rear Window Washer,NO
+Tata,Sierra,Pure,Exterior,Rear Window Defogger,NO
+Tata,Sierra,Pure,Exterior,Rear Spoiler,YES
+Tata,Sierra,Pure,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Tata,Sierra,Pure,Exterior,Projector Headlamps,YES
+Tata,Sierra,Pure,Exterior,Cornering Foglamps,NO
+Tata,Sierra,Pure,Exterior,Roof Rails,YES
+Tata,Sierra,Pure,Exterior,Automatic Headlamps,NO
+Tata,Sierra,Pure,Exterior,Fog Lights,NO
+Tata,Sierra,Pure,Exterior,Antenna,Shark Fin
+Tata,Sierra,Pure,Exterior,Sunroof,NO
+Tata,Sierra,Pure,Exterior,Puddle Lamps,NO
+Tata,Sierra,Pure,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Tata,Sierra,Pure,Exterior,Wheels Type,Steel with Cover
+Tata,Sierra,Pure,Exterior,Tyre Size,215/65 R17
+Tata,Sierra,Pure,Exterior,Tyre Type,Radial & Tubeless
+Tata,Sierra,Pure,Exterior,Wheel Size,17 Inch
+Tata,Sierra,Pure,Exterior,LED DRLs,YES
+Tata,Sierra,Pure,Exterior,LED Headlamps,YES
+Tata,Sierra,Pure,Exterior,LED Taillights,YES
+Tata,Sierra,Pure,Exterior,LED Fog Lamps,NO
+Tata,Sierra,Pure,Exterior,Additional Features,Flush door handles
+Tata,Sierra,Pure,Safety,Anti-lock Braking System (ABS),YES
+Tata,Sierra,Pure,Safety,Brake Assist,YES
+Tata,Sierra,Pure,Safety,Central Locking,YES
+Tata,Sierra,Pure,Safety,Child Safety Locks,YES
+Tata,Sierra,Pure,Safety,Anti-Theft Alarm,YES
+Tata,Sierra,Pure,Safety,No. of Airbags,6
+Tata,Sierra,Pure,Safety,Driver Airbag,YES
+Tata,Sierra,Pure,Safety,Passenger Airbag,YES
+Tata,Sierra,Pure,Safety,Side Airbag,YES
+Tata,Sierra,Pure,Safety,Day & Night Rear View Mirror,YES
+Tata,Sierra,Pure,Safety,Electronic Brakeforce Distribution (EBD),YES
+Tata,Sierra,Pure,Safety,Traction Control,YES
+Tata,Sierra,Pure,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Tata,Sierra,Pure,Safety,Engine Immobilizer,YES
+Tata,Sierra,Pure,Safety,Electronic Stability Control (ESC),YES
+Tata,Sierra,Pure,Safety,Rear Camera,With Guidedlines
+Tata,Sierra,Pure,Safety,ISOFIX Child Seat Mounts,YES
+Tata,Sierra,Pure,Safety,Heads-Up Display (HUD),NO
+Tata,Sierra,Pure,Safety,Hill Descent Control,YES
+Tata,Sierra,Pure,Safety,Hill Assist,YES
+Tata,Sierra,Pure,Safety,360 View Camera,NO
+Tata,Sierra,Pure,Safety,Bharat NCAP Safety Rating,5 Star
+Tata,Sierra,Pure,Entertainment & Communication,Radio,YES
+Tata,Sierra,Pure,Entertainment & Communication,Wireless Phone Charging,NO
+Tata,Sierra,Pure,Entertainment & Communication,Bluetooth Connectivity,YES
+Tata,Sierra,Pure,Entertainment & Communication,Touchscreen,YES
+Tata,Sierra,Pure,Entertainment & Communication,Touchscreen Size,10.24 inch
+Tata,Sierra,Pure,Entertainment & Communication,Android Auto,YES
+Tata,Sierra,Pure,Entertainment & Communication,Apple CarPlay,YES
+Tata,Sierra,Pure,Entertainment & Communication,No. of Speakers,4
+Tata,Sierra,Pure,Entertainment & Communication,Usb Ports,YES
+Tata,Sierra,Pure,Entertainment & Communication,Tweeters,4
+Tata,Sierra,Pure,Entertainment & Communication,Additional Features,Wireless Android Auto & Apple CarPlay
+Tata,Sierra,Pure,Entertainment & Communication,Speakers,Front & Rear
+Tata,Sierra,Pure,ADAS Feature,Forward Collision Warning,NO
+Tata,Sierra,Pure,ADAS Feature,Automatic Emergency Braking,NO
+Tata,Sierra,Pure,ADAS Feature,Speed Assist System,NO
+Tata,Sierra,Pure,ADAS Feature,Traffic Sign Recognition,NO
+Tata,Sierra,Pure,ADAS Feature,Blind Spot Collision Avoidance Assist,NO
+Tata,Sierra,Pure,ADAS Feature,Lane Departure Warning,NO
+Tata,Sierra,Pure,ADAS Feature,Lane Keep Assist,NO
+Tata,Sierra,Pure,ADAS Feature,Lane Departure Prevention Assist,NO
+Tata,Sierra,Pure,ADAS Feature,Driver Attention Warning,NO
+Tata,Sierra,Pure,ADAS Feature,Adaptive Cruise Control,NO
+Tata,Sierra,Pure,ADAS Feature,Adaptive High Beam Assist,NO
+Tata,Sierra,Pure,ADAS Feature,Rear Cross Traffic Alert,NO
+Tata,Sierra,Pure,ADAS Feature,Rear Cross Traffic Collision-Avoidance Assist,NO
+Tata,Sierra,Pure,ADAS Feature,Blind Spot Monitor,NO
+Tata,Sierra,Pure,Advance Internet Feature,Live Location,YES
+Tata,Sierra,Pure,Advance Internet Feature,Navigation with Live Traffic,NO
+Tata,Sierra,Pure,Advance Internet Feature,E-Call & I-Call,NO
+Tata,Sierra,Pure,Advance Internet Feature,Google / Alexa Connectivity,NO
+Tata,Sierra,Pure,Advance Internet Feature,SOS Button,NO

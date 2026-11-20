@@ -1,0 +1,133 @@
+company,model,variant,category,feature_name,feature_details
+Maruti Suzuki,Brezza,ZXi CNG,Engine & Transmission,Engine Type,K15C ISS
+Maruti Suzuki,Brezza,ZXi CNG,Engine & Transmission,Displacement,1462 cc
+Maruti Suzuki,Brezza,ZXi CNG,Engine & Transmission,Max Power,86.63bhp@5500rpm
+Maruti Suzuki,Brezza,ZXi CNG,Engine & Transmission,Max Torque,121.5Nm@4200rpm
+Maruti Suzuki,Brezza,ZXi CNG,Engine & Transmission,No. of Cylinders,4
+Maruti Suzuki,Brezza,ZXi CNG,Engine & Transmission,Valves Per Cylinder,4
+Maruti Suzuki,Brezza,ZXi CNG,Engine & Transmission,Valve Configuration,DOHC
+Maruti Suzuki,Brezza,ZXi CNG,Engine & Transmission,Transmission Type,Manual
+Maruti Suzuki,Brezza,ZXi CNG,Engine & Transmission,Gearbox,6-Speed
+Maruti Suzuki,Brezza,ZXi CNG,Engine & Transmission,Drive Type,FWD
+Maruti Suzuki,Brezza,ZXi CNG,Fuel & Performance,Fuel Type,CNG
+Maruti Suzuki,Brezza,ZXi CNG,Fuel & Performance,CNG Mileage ARAI,26.9 km/kg
+Maruti Suzuki,Brezza,ZXi CNG,Fuel & Performance,CNG Fuel Tank Capacity,55 Litres
+Maruti Suzuki,Brezza,ZXi CNG,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Maruti Suzuki,Brezza,ZXi CNG,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Maruti Suzuki,Brezza,ZXi CNG,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Maruti Suzuki,Brezza,ZXi CNG,"Suspension, Steering & Brakes",Steering Type,Electric
+Maruti Suzuki,Brezza,ZXi CNG,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Maruti Suzuki,Brezza,ZXi CNG,"Suspension, Steering & Brakes",Front Brake Type,Ventilated Disc
+Maruti Suzuki,Brezza,ZXi CNG,"Suspension, Steering & Brakes",Rear Brake Type,Drum
+Maruti Suzuki,Brezza,ZXi CNG,Dimensions & Capacity,Length,3995 mm
+Maruti Suzuki,Brezza,ZXi CNG,Dimensions & Capacity,Width,1790 mm
+Maruti Suzuki,Brezza,ZXi CNG,Dimensions & Capacity,Height,1685 mm
+Maruti Suzuki,Brezza,ZXi CNG,Dimensions & Capacity,Seating Capacity,5
+Maruti Suzuki,Brezza,ZXi CNG,Dimensions & Capacity,Wheel Base,2500 mm
+Maruti Suzuki,Brezza,ZXi CNG,Dimensions & Capacity,Reported Boot Space,328 Litres
+Maruti Suzuki,Brezza,ZXi CNG,Comfort & Convenience,Boot Opening,Manual
+Maruti Suzuki,Brezza,ZXi CNG,Comfort & Convenience,Power Steering,YES
+Maruti Suzuki,Brezza,ZXi CNG,Comfort & Convenience,Air Conditioner,YES
+Maruti Suzuki,Brezza,ZXi CNG,Comfort & Convenience,Heater,YES
+Maruti Suzuki,Brezza,ZXi CNG,Comfort & Convenience,Adjustable Steering,Height & Reach
+Maruti Suzuki,Brezza,ZXi CNG,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Maruti Suzuki,Brezza,ZXi CNG,Comfort & Convenience,Ventilated Seats,NO
+Maruti Suzuki,Brezza,ZXi CNG,Comfort & Convenience,Automatic Climate Control,YES
+Maruti Suzuki,Brezza,ZXi CNG,Comfort & Convenience,Air Quality Control,YES
+Maruti Suzuki,Brezza,ZXi CNG,Comfort & Convenience,Accessory Power Outlet,YES
+Maruti Suzuki,Brezza,ZXi CNG,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Maruti Suzuki,Brezza,ZXi CNG,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Maruti Suzuki,Brezza,ZXi CNG,Comfort & Convenience,Height Adjustable Front Seat Belts,NO
+Maruti Suzuki,Brezza,ZXi CNG,Comfort & Convenience,Rear AC Vents,YES
+Maruti Suzuki,Brezza,ZXi CNG,Comfort & Convenience,Cruise Control,NO
+Maruti Suzuki,Brezza,ZXi CNG,Comfort & Convenience,Parking Sensors,Rear
+Maruti Suzuki,Brezza,ZXi CNG,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Maruti Suzuki,Brezza,ZXi CNG,Comfort & Convenience,KeyLess Entry,YES
+Maruti Suzuki,Brezza,ZXi CNG,Comfort & Convenience,Engine Start/Stop Button,YES
+Maruti Suzuki,Brezza,ZXi CNG,Comfort & Convenience,Voice Commands,YES
+Maruti Suzuki,Brezza,ZXi CNG,Comfort & Convenience,Paddle Shifters,NO
+Maruti Suzuki,Brezza,ZXi CNG,Comfort & Convenience,USB Charger,Front
+Maruti Suzuki,Brezza,ZXi CNG,Comfort & Convenience,Central Console Armrest,NO
+Maruti Suzuki,Brezza,ZXi CNG,Comfort & Convenience,Gear Shift Indicator,YES
+Maruti Suzuki,Brezza,ZXi CNG,Comfort & Convenience,Glove Box light,NO
+Maruti Suzuki,Brezza,ZXi CNG,Comfort & Convenience,Idle Start-Stop System,YES
+Maruti Suzuki,Brezza,ZXi CNG,Comfort & Convenience,Follow Me Home Headlamps,NO
+Maruti Suzuki,Brezza,ZXi CNG,Comfort & Convenience,Additional Features,Sunglass Holder
+Maruti Suzuki,Brezza,ZXi CNG,Comfort & Convenience,Power Windows,Front & Rear
+Maruti Suzuki,Brezza,ZXi CNG,Interior,Leather Wrapped Steering Wheel,NO
+Maruti Suzuki,Brezza,ZXi CNG,Interior,Glove Box,YES
+Maruti Suzuki,Brezza,ZXi CNG,Interior,Lighting,"Ambient light,Footwell Lamp"
+Maruti Suzuki,Brezza,ZXi CNG,Interior,Additional Features,Rear Parcel Tray
+Maruti Suzuki,Brezza,ZXi CNG,Interior,Digital Cluster,YES
+Maruti Suzuki,Brezza,ZXi CNG,Interior,Upholstery,Fabric
+Maruti Suzuki,Brezza,ZXi CNG,Interior,Ambient Light Colour (numbers),1
+Maruti Suzuki,Brezza,ZXi CNG,Exterior,Rear Window Wiper,NO
+Maruti Suzuki,Brezza,ZXi CNG,Exterior,Rear Window Washer,NO
+Maruti Suzuki,Brezza,ZXi CNG,Exterior,Rear Window Defogger,YES
+Maruti Suzuki,Brezza,ZXi CNG,Exterior,Wheel Covers,NO
+Maruti Suzuki,Brezza,ZXi CNG,Exterior,Alloy Wheels,YES
+Maruti Suzuki,Brezza,ZXi CNG,Exterior,Rear Spoiler,YES
+Maruti Suzuki,Brezza,ZXi CNG,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Maruti Suzuki,Brezza,ZXi CNG,Exterior,Projector Headlamps,YES
+Maruti Suzuki,Brezza,ZXi CNG,Exterior,Halogen Headlamps,NO
+Maruti Suzuki,Brezza,ZXi CNG,Exterior,Roof Rails,YES
+Maruti Suzuki,Brezza,ZXi CNG,Exterior,Automatic Headlamps,NO
+Maruti Suzuki,Brezza,ZXi CNG,Exterior,Fog Lights,NO
+Maruti Suzuki,Brezza,ZXi CNG,Exterior,Antenna,Shark Fin
+Maruti Suzuki,Brezza,ZXi CNG,Exterior,Sunroof,Single Pane
+Maruti Suzuki,Brezza,ZXi CNG,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Maruti Suzuki,Brezza,ZXi CNG,Exterior,Tyre Size,215/60 R16
+Maruti Suzuki,Brezza,ZXi CNG,Exterior,Tyre Type,Tubeless
+Maruti Suzuki,Brezza,ZXi CNG,Exterior,Wheel Size,16 Inch
+Maruti Suzuki,Brezza,ZXi CNG,Exterior,LED DRLs,YES
+Maruti Suzuki,Brezza,ZXi CNG,Exterior,LED Headlamps,YES
+Maruti Suzuki,Brezza,ZXi CNG,Exterior,LED Taillights,YES
+Maruti Suzuki,Brezza,ZXi CNG,Exterior,LED Fog Lamps,NO
+Maruti Suzuki,Brezza,ZXi CNG,Safety,Anti-lock Braking System (ABS),YES
+Maruti Suzuki,Brezza,ZXi CNG,Safety,Central Locking,YES
+Maruti Suzuki,Brezza,ZXi CNG,Safety,Child Safety Locks,YES
+Maruti Suzuki,Brezza,ZXi CNG,Safety,Anti-Theft Alarm,YES
+Maruti Suzuki,Brezza,ZXi CNG,Safety,No. of Airbags,6
+Maruti Suzuki,Brezza,ZXi CNG,Safety,Driver Airbag,YES
+Maruti Suzuki,Brezza,ZXi CNG,Safety,Passenger Airbag,YES
+Maruti Suzuki,Brezza,ZXi CNG,Safety,Side Airbag,YES
+Maruti Suzuki,Brezza,ZXi CNG,Safety,Side Airbag-Rear,NO
+Maruti Suzuki,Brezza,ZXi CNG,Safety,Day & Night Rear View Mirror,YES
+Maruti Suzuki,Brezza,ZXi CNG,Safety,Electronic Brakeforce Distribution (EBD),YES
+Maruti Suzuki,Brezza,ZXi CNG,Safety,Tyre Pressure Monitoring System (TPMS),NO
+Maruti Suzuki,Brezza,ZXi CNG,Safety,Engine Immobilizer,YES
+Maruti Suzuki,Brezza,ZXi CNG,Safety,Electronic Stability Control (ESC),YES
+Maruti Suzuki,Brezza,ZXi CNG,Safety,Rear Camera,With Guidedlines
+Maruti Suzuki,Brezza,ZXi CNG,Safety,Anti-Theft Device,YES
+Maruti Suzuki,Brezza,ZXi CNG,Safety,ISOFIX Child Seat Mounts,YES
+Maruti Suzuki,Brezza,ZXi CNG,Safety,Heads-Up Display (HUD),NO
+Maruti Suzuki,Brezza,ZXi CNG,Safety,Hill Assist,YES
+Maruti Suzuki,Brezza,ZXi CNG,Safety,360 View Camera,NO
+Maruti Suzuki,Brezza,ZXi CNG,Safety,Bharat NCAP Safety Rating,5 Star
+Maruti Suzuki,Brezza,ZXi CNG,Safety,Bharat NCAP Child Safety Rating,5 Star
+Maruti Suzuki,Brezza,ZXi CNG,Entertainment & Communication,Radio,YES
+Maruti Suzuki,Brezza,ZXi CNG,Entertainment & Communication,Wireless Phone Charging,YES
+Maruti Suzuki,Brezza,ZXi CNG,Entertainment & Communication,Bluetooth Connectivity,YES
+Maruti Suzuki,Brezza,ZXi CNG,Entertainment & Communication,Touchscreen,YES
+Maruti Suzuki,Brezza,ZXi CNG,Entertainment & Communication,Touchscreen Size,7 inch
+Maruti Suzuki,Brezza,ZXi CNG,Entertainment & Communication,Android Auto,Wireless
+Maruti Suzuki,Brezza,ZXi CNG,Entertainment & Communication,Apple CarPlay,Wireless
+Maruti Suzuki,Brezza,ZXi CNG,Entertainment & Communication,No. of Speakers,4
+Maruti Suzuki,Brezza,ZXi CNG,Entertainment & Communication,Usb Ports,YES
+Maruti Suzuki,Brezza,ZXi CNG,Entertainment & Communication,Speakers,Front & Rear
+Maruti Suzuki,Brezza,ZXi CNG,ADAS Feature,Blind Spot Monitor,NO
+Maruti Suzuki,Brezza,ZXi CNG,Advance Internet Feature,Remote Immobiliser,NO
+Maruti Suzuki,Brezza,ZXi CNG,Advance Internet Feature,Inbuilt Assistant,NO
+Maruti Suzuki,Brezza,ZXi CNG,Advance Internet Feature,Navigation with Live Traffic,NO
+Maruti Suzuki,Brezza,ZXi CNG,Advance Internet Feature,Send POI to Vehicle From App,NO
+Maruti Suzuki,Brezza,ZXi CNG,Advance Internet Feature,Over the Air (OTA) Updates,NO
+Maruti Suzuki,Brezza,ZXi CNG,Advance Internet Feature,Google / Alexa Connectivity,NO
+Maruti Suzuki,Brezza,ZXi CNG,Advance Internet Feature,Over Speeding Alert,NO
+Maruti Suzuki,Brezza,ZXi CNG,Advance Internet Feature,Tow Away Alert,NO
+Maruti Suzuki,Brezza,ZXi CNG,Advance Internet Feature,In Car Remote Control App,NO
+Maruti Suzuki,Brezza,ZXi CNG,Advance Internet Feature,Smartwatch App,NO
+Maruti Suzuki,Brezza,ZXi CNG,Advance Internet Feature,Valet Mode,NO
+Maruti Suzuki,Brezza,ZXi CNG,Advance Internet Feature,Remote AC On/Off,NO
+Maruti Suzuki,Brezza,ZXi CNG,Advance Internet Feature,Remote Door Lock/Unlock,NO
+Maruti Suzuki,Brezza,ZXi CNG,Advance Internet Feature,SOS / Emergency Assistance,NO
+Maruti Suzuki,Brezza,ZXi CNG,Advance Internet Feature,Geo-fence Alert,NO

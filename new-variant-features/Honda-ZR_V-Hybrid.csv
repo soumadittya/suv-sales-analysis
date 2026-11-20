@@ -1,0 +1,128 @@
+company,model,variant,category,feature_name,feature_details
+Honda,ZR-V,Hybrid,Engine & Transmission,Engine Type,Atkinson cycle DOHC with Dual VTC
+Honda,ZR-V,Hybrid,Engine & Transmission,Displacement,1993 cc
+Honda,ZR-V,Hybrid,Engine & Transmission,Max Power,181bhp@5000-6000rpm
+Honda,ZR-V,Hybrid,Engine & Transmission,Max Torque,315Nm@0-2000rpm
+Honda,ZR-V,Hybrid,Engine & Transmission,No. of Cylinders,4
+Honda,ZR-V,Hybrid,Engine & Transmission,Valves Per Cylinder,4
+Honda,ZR-V,Hybrid,Engine & Transmission,Transmission Type,Automatic
+Honda,ZR-V,Hybrid,Engine & Transmission,Gearbox,CVT
+Honda,ZR-V,Hybrid,Engine & Transmission,Hybrid Type,Strong Hybrid(Electric + Petrol)
+Honda,ZR-V,Hybrid,Fuel & Performance,Fuel Type,Petrol
+Honda,ZR-V,Hybrid,Fuel & Performance,Petrol Mileage ARAI,22.8 kmpl
+Honda,ZR-V,Hybrid,Fuel & Performance,Petrol Fuel Tank Capacity,57 Litres
+Honda,ZR-V,Hybrid,Fuel & Performance,Secondary Fuel Type,Electric
+Honda,ZR-V,Hybrid,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Honda,ZR-V,Hybrid,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Honda,ZR-V,Hybrid,"Suspension, Steering & Brakes",Rear Suspension,Multi-link suspension
+Honda,ZR-V,Hybrid,"Suspension, Steering & Brakes",Shock Absorbers Type,Telescopic Hydraulic Nitrogen Gas-filled
+Honda,ZR-V,Hybrid,"Suspension, Steering & Brakes",Steering Type,Electric
+Honda,ZR-V,Hybrid,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Honda,ZR-V,Hybrid,"Suspension, Steering & Brakes",Steering Gear Type,Rack & Pinion
+Honda,ZR-V,Hybrid,"Suspension, Steering & Brakes",Turning Radius,5.5 m
+Honda,ZR-V,Hybrid,"Suspension, Steering & Brakes",Front Brake Type,Disc (Ventilated)
+Honda,ZR-V,Hybrid,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Honda,ZR-V,Hybrid,"Suspension, Steering & Brakes",Boot Space Rear Seat Folding,1313 Litres
+Honda,ZR-V,Hybrid,Dimensions & Capacity,Length,4567 mm
+Honda,ZR-V,Hybrid,Dimensions & Capacity,Width,1840 mm
+Honda,ZR-V,Hybrid,Dimensions & Capacity,Height,1621 mm
+Honda,ZR-V,Hybrid,Dimensions & Capacity,Seating Capacity,5
+Honda,ZR-V,Hybrid,Dimensions & Capacity,Wheel Base,2655 mm
+Honda,ZR-V,Hybrid,Dimensions & Capacity,Kerb Weight,1569 kg
+Honda,ZR-V,Hybrid,Dimensions & Capacity,Gross Weight,2050 kg
+Honda,ZR-V,Hybrid,Comfort & Convenience,Boot Opening,Hands-Free
+Honda,ZR-V,Hybrid,Comfort & Convenience,Power Steering,YES
+Honda,ZR-V,Hybrid,Comfort & Convenience,Air Conditioner,YES
+Honda,ZR-V,Hybrid,Comfort & Convenience,Heater,YES
+Honda,ZR-V,Hybrid,Comfort & Convenience,Adjustable Steering,Height & Reach
+Honda,ZR-V,Hybrid,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Honda,ZR-V,Hybrid,Comfort & Convenience,Electric Adjustable Seats,Front
+Honda,ZR-V,Hybrid,Comfort & Convenience,Automatic Climate Control,YES
+Honda,ZR-V,Hybrid,Comfort & Convenience,Air Quality Control,YES
+Honda,ZR-V,Hybrid,Comfort & Convenience,Accessory Power Outlet,YES
+Honda,ZR-V,Hybrid,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Honda,ZR-V,Hybrid,Comfort & Convenience,Adjustable Headrest,YES
+Honda,ZR-V,Hybrid,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Honda,ZR-V,Hybrid,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Honda,ZR-V,Hybrid,Comfort & Convenience,Rear AC Vents,YES
+Honda,ZR-V,Hybrid,Comfort & Convenience,Cruise Control,YES
+Honda,ZR-V,Hybrid,Comfort & Convenience,Parking Sensors,Front & Rear
+Honda,ZR-V,Hybrid,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Honda,ZR-V,Hybrid,Comfort & Convenience,KeyLess Entry,YES
+Honda,ZR-V,Hybrid,Comfort & Convenience,Engine Start/Stop Button,YES
+Honda,ZR-V,Hybrid,Comfort & Convenience,Voice Commands,YES
+Honda,ZR-V,Hybrid,Comfort & Convenience,Paddle Shifters,YES
+Honda,ZR-V,Hybrid,Comfort & Convenience,USB Charger,Front & Rear
+Honda,ZR-V,Hybrid,Comfort & Convenience,Central Console Armrest,With Storage
+Honda,ZR-V,Hybrid,Comfort & Convenience,Drive Modes,3
+Honda,ZR-V,Hybrid,Comfort & Convenience,Idle Start-Stop System,YES
+Honda,ZR-V,Hybrid,Comfort & Convenience,Follow Me Home Headlamps,YES
+Honda,ZR-V,Hybrid,Comfort & Convenience,Additional Features,Sunglass Holder
+Honda,ZR-V,Hybrid,Comfort & Convenience,Drive Mode Types,Econ/Normal/Snow
+Honda,ZR-V,Hybrid,Comfort & Convenience,Power Windows,Front & Rear
+Honda,ZR-V,Hybrid,Interior,Leather Wrapped Steering Wheel,YES
+Honda,ZR-V,Hybrid,Interior,Glove Box,YES
+Honda,ZR-V,Hybrid,Interior,Lighting,"Ambient light, Footwell Lamp"
+Honda,ZR-V,Hybrid,Interior,Digital Cluster,YES
+Honda,ZR-V,Hybrid,Interior,Digital Cluster Size,10.2
+Honda,ZR-V,Hybrid,Interior,Upholstery,Leather
+Honda,ZR-V,Hybrid,Exterior,Adjustable Headlamps,YES
+Honda,ZR-V,Hybrid,Exterior,Rain Sensing Wiper,YES
+Honda,ZR-V,Hybrid,Exterior,Rear Window Wiper,YES
+Honda,ZR-V,Hybrid,Exterior,Rear Window Washer,YES
+Honda,ZR-V,Hybrid,Exterior,Rear Window Defogger,YES
+Honda,ZR-V,Hybrid,Exterior,Wheel Covers,NO
+Honda,ZR-V,Hybrid,Exterior,Alloy Wheels,YES
+Honda,ZR-V,Hybrid,Exterior,Rear Spoiler,YES
+Honda,ZR-V,Hybrid,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Honda,ZR-V,Hybrid,Exterior,Halogen Headlamps,NO
+Honda,ZR-V,Hybrid,Exterior,Automatic Headlamps,YES
+Honda,ZR-V,Hybrid,Exterior,Antenna,Shark fin
+Honda,ZR-V,Hybrid,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Honda,ZR-V,Hybrid,Exterior,Tyre Size,225 / 55 R18
+Honda,ZR-V,Hybrid,Exterior,Tyre Type,Radial Tubeless
+Honda,ZR-V,Hybrid,Exterior,LED DRLs,YES
+Honda,ZR-V,Hybrid,Exterior,LED Headlamps,YES
+Honda,ZR-V,Hybrid,Exterior,LED Taillights,YES
+Honda,ZR-V,Hybrid,Safety,Anti-lock Braking System (ABS),YES
+Honda,ZR-V,Hybrid,Safety,Brake Assist,YES
+Honda,ZR-V,Hybrid,Safety,Central Locking,YES
+Honda,ZR-V,Hybrid,Safety,Child Safety Locks,YES
+Honda,ZR-V,Hybrid,Safety,Anti-Theft Alarm,YES
+Honda,ZR-V,Hybrid,Safety,No. of Airbags,8
+Honda,ZR-V,Hybrid,Safety,Driver Airbag,YES
+Honda,ZR-V,Hybrid,Safety,Passenger Airbag,YES
+Honda,ZR-V,Hybrid,Safety,Side Airbag,YES
+Honda,ZR-V,Hybrid,Safety,Day & Night Rear View Mirror,YES
+Honda,ZR-V,Hybrid,Safety,Electronic Brakeforce Distribution (EBD),YES
+Honda,ZR-V,Hybrid,Safety,Traction Control,YES
+Honda,ZR-V,Hybrid,Safety,Engine Immobilizer,YES
+Honda,ZR-V,Hybrid,Safety,Electronic Stability Control (ESC),YES
+Honda,ZR-V,Hybrid,Safety,Anti-Theft Device,YES
+Honda,ZR-V,Hybrid,Safety,Anti-Pinch Power Windows,All Windows
+Honda,ZR-V,Hybrid,Safety,Hill Descent Control,YES
+Honda,ZR-V,Hybrid,Safety,Hill Assist,YES
+Honda,ZR-V,Hybrid,Safety,360 View Camera,YES
+Honda,ZR-V,Hybrid,Entertainment & Communication,Radio,YES
+Honda,ZR-V,Hybrid,Entertainment & Communication,Wireless Phone Charging,YES
+Honda,ZR-V,Hybrid,Entertainment & Communication,Bluetooth Connectivity,YES
+Honda,ZR-V,Hybrid,Entertainment & Communication,Touchscreen,YES
+Honda,ZR-V,Hybrid,Entertainment & Communication,Touchscreen Size,9 inch
+Honda,ZR-V,Hybrid,Entertainment & Communication,Android Auto,YES
+Honda,ZR-V,Hybrid,Entertainment & Communication,Apple CarPlay,YES
+Honda,ZR-V,Hybrid,Entertainment & Communication,No. of Speakers,12
+Honda,ZR-V,Hybrid,Entertainment & Communication,Usb Ports,YES
+Honda,ZR-V,Hybrid,Entertainment & Communication,Additional Features,Wireless Android Auto & Apple Car Play| 12-Speaker Bose® Premium Surround Sound System
+Honda,ZR-V,Hybrid,Entertainment & Communication,Speakers,Front & Rear
+Honda,ZR-V,Hybrid,ADAS Feature,Speed Assist System,YES
+Honda,ZR-V,Hybrid,ADAS Feature,Lane Keep Assist,YES
+Honda,ZR-V,Hybrid,ADAS Feature,Road Departure Mitigation System,YES
+Honda,ZR-V,Hybrid,ADAS Feature,Driver Attention Warning,YES
+Honda,ZR-V,Hybrid,ADAS Feature,Adaptive Cruise Control,YES
+Honda,ZR-V,Hybrid,ADAS Feature,Leading Vehicle Departure Alert,YES
+Honda,ZR-V,Hybrid,ADAS Feature,Adaptive High Beam Assist,YES
+Honda,ZR-V,Hybrid,Advance Internet Feature,Live Location,YES
+Honda,ZR-V,Hybrid,Advance Internet Feature,Remote Vehicle Status Check,YES
+Honda,ZR-V,Hybrid,Advance Internet Feature,E-Call & I-Call,YES
+Honda,ZR-V,Hybrid,Advance Internet Feature,Over Speeding Alert,YES
+Honda,ZR-V,Hybrid,Advance Internet Feature,Remote Door Lock/Unlock,YES

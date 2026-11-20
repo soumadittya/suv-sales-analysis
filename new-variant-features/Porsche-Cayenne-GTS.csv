@@ -1,0 +1,97 @@
+company,model,variant,category,feature_name,feature_details
+Porsche,Cayenne,GTS,Engine & Transmission,Engine Type,3.0-litre turbocharged V6 engine
+Porsche,Cayenne,GTS,Engine & Transmission,Displacement,2894 cc
+Porsche,Cayenne,GTS,Engine & Transmission,Max Power,348.66bhp
+Porsche,Cayenne,GTS,Engine & Transmission,Max Torque,500Nm
+Porsche,Cayenne,GTS,Engine & Transmission,No. of Cylinders,6
+Porsche,Cayenne,GTS,Engine & Transmission,Valves Per Cylinder,4
+Porsche,Cayenne,GTS,Engine & Transmission,Transmission Type,Automatic
+Porsche,Cayenne,GTS,Engine & Transmission,Gearbox,8-Speed
+Porsche,Cayenne,GTS,Engine & Transmission,Drive Type,AWD
+Porsche,Cayenne,GTS,Fuel & Performance,Fuel Type,Petrol
+Porsche,Cayenne,GTS,Fuel & Performance,Petrol Fuel Tank Capacity,75 Litres
+Porsche,Cayenne,GTS,Fuel & Performance,Petrol Highway Mileage,10.7 kmpl
+Porsche,Cayenne,GTS,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Porsche,Cayenne,GTS,Fuel & Performance,Top Speed,248 kmph
+Porsche,Cayenne,GTS,Fuel & Performance,Acceleration,6.0 s
+Porsche,Cayenne,GTS,Fuel & Performance,0-100kmph,6.0 s
+Porsche,Cayenne,GTS,"Suspension, Steering & Brakes",Front Suspension,Air suspension
+Porsche,Cayenne,GTS,"Suspension, Steering & Brakes",Rear Suspension,Air suspension
+Porsche,Cayenne,GTS,"Suspension, Steering & Brakes",Steering Type,Electric
+Porsche,Cayenne,GTS,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Porsche,Cayenne,GTS,"Suspension, Steering & Brakes",Steering Gear Type,Rack & Pinion
+Porsche,Cayenne,GTS,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Porsche,Cayenne,GTS,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Porsche,Cayenne,GTS,Dimensions & Capacity,Length,4930 mm
+Porsche,Cayenne,GTS,Dimensions & Capacity,Width,1983 mm
+Porsche,Cayenne,GTS,Dimensions & Capacity,Height,1698 mm
+Porsche,Cayenne,GTS,Dimensions & Capacity,Boot Space,770 Litres
+Porsche,Cayenne,GTS,Dimensions & Capacity,Seating Capacity,4
+Porsche,Cayenne,GTS,Dimensions & Capacity,Wheel Base,2500 mm
+Porsche,Cayenne,GTS,Dimensions & Capacity,Reported Ground Clearance (Unladen),192 mm
+Porsche,Cayenne,GTS,Comfort & Convenience,Power Steering,YES
+Porsche,Cayenne,GTS,Comfort & Convenience,Power Boot,YES
+Porsche,Cayenne,GTS,Comfort & Convenience,Air Conditioner,YES
+Porsche,Cayenne,GTS,Comfort & Convenience,Heater,YES
+Porsche,Cayenne,GTS,Comfort & Convenience,Adjustable Steering,YES
+Porsche,Cayenne,GTS,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Porsche,Cayenne,GTS,Comfort & Convenience,Electric Adjustable Seats,Front & Rear
+Porsche,Cayenne,GTS,Comfort & Convenience,Automatic Climate Control,YES
+Porsche,Cayenne,GTS,Comfort & Convenience,Air Quality Control,YES
+Porsche,Cayenne,GTS,Comfort & Convenience,Low Fuel Warning Light,YES
+Porsche,Cayenne,GTS,Comfort & Convenience,Accessory Power Outlet,YES
+Porsche,Cayenne,GTS,Comfort & Convenience,Rear Seat Headrest,YES
+Porsche,Cayenne,GTS,Comfort & Convenience,Adjustable Headrest,YES
+Porsche,Cayenne,GTS,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Porsche,Cayenne,GTS,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Porsche,Cayenne,GTS,Comfort & Convenience,Cruise Control,YES
+Porsche,Cayenne,GTS,Comfort & Convenience,Parking Sensors,Front & Rear
+Porsche,Cayenne,GTS,Comfort & Convenience,Navigation System,YES
+Porsche,Cayenne,GTS,Comfort & Convenience,KeyLess Entry,YES
+Porsche,Cayenne,GTS,Comfort & Convenience,Engine Start/Stop Button,YES
+Porsche,Cayenne,GTS,Comfort & Convenience,Voice Commands,YES
+Porsche,Cayenne,GTS,Comfort & Convenience,Paddle Shifters,YES
+Porsche,Cayenne,GTS,Comfort & Convenience,USB Charger,Front
+Porsche,Cayenne,GTS,Comfort & Convenience,Central Console Armrest,YES
+Porsche,Cayenne,GTS,Comfort & Convenience,Gear Shift Indicator,NO
+Porsche,Cayenne,GTS,Comfort & Convenience,Follow Me Home Headlamps,YES
+Porsche,Cayenne,GTS,Interior,Leather wrap gear-shift selector,YES
+Porsche,Cayenne,GTS,Interior,Digital Clock,YES
+Porsche,Cayenne,GTS,Interior,Additional Features,"Standard Interior / Partial Leather Seats, Sports rear seat system, Central rev counter with Black dial, Compass instrument dial/Sport Chrono stopwatch instrument dial black, Roof lining and A-/B-/ C-pillar trims in fabric, Front and rear door sill guards in Aluminium with model logo at front and 'Cayenne' model logo on rear, Sun visors for driver and front passenger, Fixed luggage compartment cover, For single-tone interiors in matching interior colour, for two-tone interiors in the darker interior colour, with 'PORSCHE' logo, A choice of seven colored light schemes for the ambient lighting in(overhead console, front and rear door panels, door compartments, the front and rear footwell, including illumination of the front cupholder)"
+Porsche,Cayenne,GTS,Exterior,Adjustable Headlamps,YES
+Porsche,Cayenne,GTS,Exterior,Alloy Wheels,YES
+Porsche,Cayenne,GTS,Exterior,Tinted Glass,YES
+Porsche,Cayenne,GTS,Exterior,Rear Spoiler,YES
+Porsche,Cayenne,GTS,Exterior,Projector Headlamps,YES
+Porsche,Cayenne,GTS,Exterior,Automatic Headlamps,YES
+Porsche,Cayenne,GTS,Exterior,Heated Wing Mirror,YES
+Porsche,Cayenne,GTS,Exterior,Tyre Type,"Tubeless,Radial"
+Porsche,Cayenne,GTS,Exterior,LED DRLs,YES
+Porsche,Cayenne,GTS,Exterior,LED Headlamps,YES
+Porsche,Cayenne,GTS,Exterior,LED Taillights,YES
+Porsche,Cayenne,GTS,Exterior,Additional Features,"Cayenne Design wheels, Wheels painted silver, Wheel Arch Cover in Black, Sideskirts, Lower Valance, Exterior Mirror Lower Trims including Mirror Base in Black, Exterior package Black (high-gloss), Preparation for towbar system, Rear Diffusor in Louvered Design, Door handles painted in exterior colour, Silver coloured model designation, Matrix LED Headlights, LED taillights including light strip, Automatically dimming interior and exterior mirrors, Electrically adjustable and heatable electrically folding exterior mirrors (also via remote key), aspherical on driver’s side, including ambient lighting, Panoramic Roof, fixed incl. electrically operated roller blind, Green-tinted thermally insulated glass, TPM Valve in Silver"
+Porsche,Cayenne,GTS,Safety,Anti-lock Braking System (ABS),YES
+Porsche,Cayenne,GTS,Safety,Central Locking,YES
+Porsche,Cayenne,GTS,Safety,Anti-Theft Alarm,YES
+Porsche,Cayenne,GTS,Safety,No. of Airbags,6
+Porsche,Cayenne,GTS,Safety,Driver Airbag,YES
+Porsche,Cayenne,GTS,Safety,Passenger Airbag,YES
+Porsche,Cayenne,GTS,Safety,Side Airbag,YES
+Porsche,Cayenne,GTS,Safety,Side Airbag-Rear,NO
+Porsche,Cayenne,GTS,Safety,Day & Night Rear View Mirror,YES
+Porsche,Cayenne,GTS,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Porsche,Cayenne,GTS,Safety,Engine Immobilizer,YES
+Porsche,Cayenne,GTS,Safety,Anti-Theft Device,YES
+Porsche,Cayenne,GTS,Safety,ISOFIX Child Seat Mounts,YES
+Porsche,Cayenne,GTS,Entertainment & Communication,Radio,YES
+Porsche,Cayenne,GTS,Entertainment & Communication,Wireless Phone Charging,YES
+Porsche,Cayenne,GTS,Entertainment & Communication,USB & Auxiliary input,YES
+Porsche,Cayenne,GTS,Entertainment & Communication,Bluetooth Connectivity,YES
+Porsche,Cayenne,GTS,Entertainment & Communication,Compass,YES
+Porsche,Cayenne,GTS,Entertainment & Communication,Touchscreen,YES
+Porsche,Cayenne,GTS,Entertainment & Communication,Android Auto,YES
+Porsche,Cayenne,GTS,Entertainment & Communication,Apple CarPlay,YES
+Porsche,Cayenne,GTS,Entertainment & Communication,No. of Speakers,10
+Porsche,Cayenne,GTS,Entertainment & Communication,Usb Ports,YES
+Porsche,Cayenne,GTS,Entertainment & Communication,Additional Features,Sound Package Plus with 10 Speakers and a total Output of 150 Watts
+Porsche,Cayenne,GTS,Entertainment & Communication,Speakers,Front & Rear

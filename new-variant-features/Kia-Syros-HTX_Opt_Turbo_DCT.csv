@@ -1,0 +1,118 @@
+company,model,variant,category,feature_name,feature_details
+Kia,Syros,HTX Opt Turbo DCT,Engine & Transmission,Engine Type,Smartstream G1.0T-GDi
+Kia,Syros,HTX Opt Turbo DCT,Engine & Transmission,Displacement,998 cc
+Kia,Syros,HTX Opt Turbo DCT,Engine & Transmission,Max Power,118bhp@6000rpm
+Kia,Syros,HTX Opt Turbo DCT,Engine & Transmission,Max Torque,172Nm@1500-4000rpm
+Kia,Syros,HTX Opt Turbo DCT,Engine & Transmission,No. of Cylinders,3
+Kia,Syros,HTX Opt Turbo DCT,Engine & Transmission,Valves Per Cylinder,4
+Kia,Syros,HTX Opt Turbo DCT,Engine & Transmission,Turbo Charger,YES
+Kia,Syros,HTX Opt Turbo DCT,Engine & Transmission,Transmission Type,Automatic
+Kia,Syros,HTX Opt Turbo DCT,Engine & Transmission,Gearbox,7 Speed
+Kia,Syros,HTX Opt Turbo DCT,Engine & Transmission,Drive Type,FWD
+Kia,Syros,HTX Opt Turbo DCT,Fuel & Performance,Fuel Type,Petrol
+Kia,Syros,HTX Opt Turbo DCT,Fuel & Performance,Petrol Fuel Tank Capacity,45 Litres
+Kia,Syros,HTX Opt Turbo DCT,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Kia,Syros,HTX Opt Turbo DCT,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Kia,Syros,HTX Opt Turbo DCT,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Kia,Syros,HTX Opt Turbo DCT,"Suspension, Steering & Brakes",Steering Type,Electric
+Kia,Syros,HTX Opt Turbo DCT,"Suspension, Steering & Brakes",Steering Column,Tilt
+Kia,Syros,HTX Opt Turbo DCT,"Suspension, Steering & Brakes",Steering Gear Type,Rack & Pinion
+Kia,Syros,HTX Opt Turbo DCT,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Kia,Syros,HTX Opt Turbo DCT,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Kia,Syros,HTX Opt Turbo DCT,Dimensions & Capacity,Length,3995 mm
+Kia,Syros,HTX Opt Turbo DCT,Dimensions & Capacity,Width,1805 mm
+Kia,Syros,HTX Opt Turbo DCT,Dimensions & Capacity,Height,1680 mm
+Kia,Syros,HTX Opt Turbo DCT,Dimensions & Capacity,Boot Space,465 Litres
+Kia,Syros,HTX Opt Turbo DCT,Dimensions & Capacity,Seating Capacity,5
+Kia,Syros,HTX Opt Turbo DCT,Dimensions & Capacity,Wheel Base,2550 mm
+Kia,Syros,HTX Opt Turbo DCT,Comfort & Convenience,Power Steering,YES
+Kia,Syros,HTX Opt Turbo DCT,Comfort & Convenience,Air Conditioner,YES
+Kia,Syros,HTX Opt Turbo DCT,Comfort & Convenience,Heater,YES
+Kia,Syros,HTX Opt Turbo DCT,Comfort & Convenience,Adjustable Steering,Height only
+Kia,Syros,HTX Opt Turbo DCT,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Kia,Syros,HTX Opt Turbo DCT,Comfort & Convenience,Ventilated Seats,YES
+Kia,Syros,HTX Opt Turbo DCT,Comfort & Convenience,Electric Adjustable Seats,Driver Seat Only
+Kia,Syros,HTX Opt Turbo DCT,Comfort & Convenience,Automatic Climate Control,YES
+Kia,Syros,HTX Opt Turbo DCT,Comfort & Convenience,Accessory Power Outlet,YES
+Kia,Syros,HTX Opt Turbo DCT,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Kia,Syros,HTX Opt Turbo DCT,Comfort & Convenience,Adjustable Headrest,YES
+Kia,Syros,HTX Opt Turbo DCT,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Kia,Syros,HTX Opt Turbo DCT,Comfort & Convenience,Rear AC Vents,YES
+Kia,Syros,HTX Opt Turbo DCT,Comfort & Convenience,Cruise Control,YES
+Kia,Syros,HTX Opt Turbo DCT,Comfort & Convenience,Parking Sensors,Rear
+Kia,Syros,HTX Opt Turbo DCT,Comfort & Convenience,Foldable Rear Seat,2nd Row 60:40 Split
+Kia,Syros,HTX Opt Turbo DCT,Comfort & Convenience,KeyLess Entry,YES
+Kia,Syros,HTX Opt Turbo DCT,Comfort & Convenience,Engine Start/Stop Button,YES
+Kia,Syros,HTX Opt Turbo DCT,Comfort & Convenience,Paddle Shifters,YES
+Kia,Syros,HTX Opt Turbo DCT,Comfort & Convenience,Central Console Armrest,YES
+Kia,Syros,HTX Opt Turbo DCT,Comfort & Convenience,Drive Modes,3
+Kia,Syros,HTX Opt Turbo DCT,Comfort & Convenience,Additional Features,Sunglass Holder | Rear Parcel Shelf
+Kia,Syros,HTX Opt Turbo DCT,Comfort & Convenience,Drive Mode Types,Eco-Normal-Sport
+Kia,Syros,HTX Opt Turbo DCT,Comfort & Convenience,Power Windows,Front & Rear
+Kia,Syros,HTX Opt Turbo DCT,Comfort & Convenience,Cup Holders,Front & Rear
+Kia,Syros,HTX Opt Turbo DCT,Interior,Glove Box,YES
+Kia,Syros,HTX Opt Turbo DCT,Interior,Digital Cluster,YES
+Kia,Syros,HTX Opt Turbo DCT,Interior,Digital Cluster Size,12.3
+Kia,Syros,HTX Opt Turbo DCT,Interior,Upholstery,Leatherette
+Kia,Syros,HTX Opt Turbo DCT,Exterior,Rear Window Wiper,YES
+Kia,Syros,HTX Opt Turbo DCT,Exterior,Rear Window Washer,YES
+Kia,Syros,HTX Opt Turbo DCT,Exterior,Rear Window Defogger,YES
+Kia,Syros,HTX Opt Turbo DCT,Exterior,Wheel Covers,NO
+Kia,Syros,HTX Opt Turbo DCT,Exterior,Alloy Wheels,YES
+Kia,Syros,HTX Opt Turbo DCT,Exterior,Rear Spoiler,YES
+Kia,Syros,HTX Opt Turbo DCT,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Kia,Syros,HTX Opt Turbo DCT,Exterior,Roof Rails,YES
+Kia,Syros,HTX Opt Turbo DCT,Exterior,Fog Lights,Front
+Kia,Syros,HTX Opt Turbo DCT,Exterior,Antenna,Shark Fin
+Kia,Syros,HTX Opt Turbo DCT,Exterior,Sunroof,Panoramic
+Kia,Syros,HTX Opt Turbo DCT,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Kia,Syros,HTX Opt Turbo DCT,Exterior,Tyre Size,215/55 R17
+Kia,Syros,HTX Opt Turbo DCT,Exterior,Tyre Type,Radial Tubeless
+Kia,Syros,HTX Opt Turbo DCT,Exterior,Wheel Size,17 Inch
+Kia,Syros,HTX Opt Turbo DCT,Exterior,LED DRLs,YES
+Kia,Syros,HTX Opt Turbo DCT,Exterior,LED Headlamps,YES
+Kia,Syros,HTX Opt Turbo DCT,Exterior,LED Taillights,YES
+Kia,Syros,HTX Opt Turbo DCT,Exterior,LED Fog Lamps,YES
+Kia,Syros,HTX Opt Turbo DCT,Safety,Anti-lock Braking System (ABS),YES
+Kia,Syros,HTX Opt Turbo DCT,Safety,Brake Assist,YES
+Kia,Syros,HTX Opt Turbo DCT,Safety,Central Locking,YES
+Kia,Syros,HTX Opt Turbo DCT,Safety,Child Safety Locks,YES
+Kia,Syros,HTX Opt Turbo DCT,Safety,Anti-Theft Alarm,YES
+Kia,Syros,HTX Opt Turbo DCT,Safety,No. of Airbags,6
+Kia,Syros,HTX Opt Turbo DCT,Safety,Driver Airbag,YES
+Kia,Syros,HTX Opt Turbo DCT,Safety,Passenger Airbag,YES
+Kia,Syros,HTX Opt Turbo DCT,Safety,Side Airbag,YES
+Kia,Syros,HTX Opt Turbo DCT,Safety,Side Airbag-Rear,NO
+Kia,Syros,HTX Opt Turbo DCT,Safety,Day & Night Rear View Mirror,YES
+Kia,Syros,HTX Opt Turbo DCT,Safety,Electronic Brakeforce Distribution (EBD),YES
+Kia,Syros,HTX Opt Turbo DCT,Safety,Traction Control,YES
+Kia,Syros,HTX Opt Turbo DCT,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Kia,Syros,HTX Opt Turbo DCT,Safety,Electronic Stability Control (ESC),YES
+Kia,Syros,HTX Opt Turbo DCT,Safety,Rear Camera,With Guidedlines
+Kia,Syros,HTX Opt Turbo DCT,Safety,ISOFIX Child Seat Mounts,YES
+Kia,Syros,HTX Opt Turbo DCT,Safety,Hill Assist,YES
+Kia,Syros,HTX Opt Turbo DCT,Safety,Bharat NCAP Safety Rating,5 Star
+Kia,Syros,HTX Opt Turbo DCT,Safety,Bharat NCAP Child Safety Rating,5 Star
+Kia,Syros,HTX Opt Turbo DCT,Entertainment & Communication,Radio,YES
+Kia,Syros,HTX Opt Turbo DCT,Entertainment & Communication,Wireless Phone Charging,YES
+Kia,Syros,HTX Opt Turbo DCT,Entertainment & Communication,Bluetooth Connectivity,YES
+Kia,Syros,HTX Opt Turbo DCT,Entertainment & Communication,Touchscreen,YES
+Kia,Syros,HTX Opt Turbo DCT,Entertainment & Communication,Touchscreen Size,12.3 inch
+Kia,Syros,HTX Opt Turbo DCT,Entertainment & Communication,Android Auto,YES
+Kia,Syros,HTX Opt Turbo DCT,Entertainment & Communication,Apple CarPlay,YES
+Kia,Syros,HTX Opt Turbo DCT,Entertainment & Communication,No. of Speakers,8
+Kia,Syros,HTX Opt Turbo DCT,Entertainment & Communication,Usb Ports,YES
+Kia,Syros,HTX Opt Turbo DCT,Entertainment & Communication,Additional Features,Wireless Android Auto & Apple CarPlay | Harman Kardon Premium 8 Speakers Sound System
+Kia,Syros,HTX Opt Turbo DCT,Entertainment & Communication,Speakers,Front & Rear
+Kia,Syros,HTX Opt Turbo DCT,Advance Internet Feature,Live Location,YES
+Kia,Syros,HTX Opt Turbo DCT,Advance Internet Feature,Remote Vehicle Status Check,YES
+Kia,Syros,HTX Opt Turbo DCT,Advance Internet Feature,Inbuilt Assistant,YES
+Kia,Syros,HTX Opt Turbo DCT,Advance Internet Feature,Hinglish Voice Commands,YES
+Kia,Syros,HTX Opt Turbo DCT,Advance Internet Feature,Navigation with Live Traffic,YES
+Kia,Syros,HTX Opt Turbo DCT,Advance Internet Feature,Over the Air (OTA) Updates,YES
+Kia,Syros,HTX Opt Turbo DCT,Advance Internet Feature,Over Speeding Alert,YES
+Kia,Syros,HTX Opt Turbo DCT,Advance Internet Feature,In Car Remote Control App,YES
+Kia,Syros,HTX Opt Turbo DCT,Advance Internet Feature,Valet Mode,YES
+Kia,Syros,HTX Opt Turbo DCT,Advance Internet Feature,Remote AC On/Off,YES
+Kia,Syros,HTX Opt Turbo DCT,Advance Internet Feature,Remote Door Lock/Unlock,YES
+Kia,Syros,HTX Opt Turbo DCT,Advance Internet Feature,Inbuilt APPs,Kia Connect 2.0

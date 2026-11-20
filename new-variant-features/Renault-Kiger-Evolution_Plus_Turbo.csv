@@ -1,0 +1,104 @@
+company,model,variant,category,feature_name,feature_details
+Renault,Kiger,Evolution Plus Turbo,Engine & Transmission,Engine Type,1.0L Turbo
+Renault,Kiger,Evolution Plus Turbo,Engine & Transmission,Displacement,999 cc
+Renault,Kiger,Evolution Plus Turbo,Engine & Transmission,Max Power,98.63bhp@5000rpm
+Renault,Kiger,Evolution Plus Turbo,Engine & Transmission,Max Torque,160Nm@2800-3600rpm
+Renault,Kiger,Evolution Plus Turbo,Engine & Transmission,No. of Cylinders,3
+Renault,Kiger,Evolution Plus Turbo,Engine & Transmission,Valves Per Cylinder,4
+Renault,Kiger,Evolution Plus Turbo,Engine & Transmission,Fuel Supply System,MPFi
+Renault,Kiger,Evolution Plus Turbo,Engine & Transmission,Turbo Charger,YES
+Renault,Kiger,Evolution Plus Turbo,Engine & Transmission,Transmission Type,Manual
+Renault,Kiger,Evolution Plus Turbo,Engine & Transmission,Gearbox,5-Speed
+Renault,Kiger,Evolution Plus Turbo,Engine & Transmission,Drive Type,FWD
+Renault,Kiger,Evolution Plus Turbo,Fuel & Performance,Fuel Type,Petrol
+Renault,Kiger,Evolution Plus Turbo,Fuel & Performance,Petrol Mileage ARAI,19.71 kmpl
+Renault,Kiger,Evolution Plus Turbo,Fuel & Performance,Petrol Fuel Tank Capacity,40 Litres
+Renault,Kiger,Evolution Plus Turbo,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Renault,Kiger,Evolution Plus Turbo,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Renault,Kiger,Evolution Plus Turbo,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Renault,Kiger,Evolution Plus Turbo,"Suspension, Steering & Brakes",Steering Type,Electric
+Renault,Kiger,Evolution Plus Turbo,"Suspension, Steering & Brakes",Steering Column,Tilt
+Renault,Kiger,Evolution Plus Turbo,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Renault,Kiger,Evolution Plus Turbo,"Suspension, Steering & Brakes",Rear Brake Type,Drum
+Renault,Kiger,Evolution Plus Turbo,Dimensions & Capacity,Length,3990 mm
+Renault,Kiger,Evolution Plus Turbo,Dimensions & Capacity,Width,1912 mm
+Renault,Kiger,Evolution Plus Turbo,Dimensions & Capacity,Height,1605 mm
+Renault,Kiger,Evolution Plus Turbo,Dimensions & Capacity,Boot Space,405 Litres
+Renault,Kiger,Evolution Plus Turbo,Dimensions & Capacity,Seating Capacity,5
+Renault,Kiger,Evolution Plus Turbo,Dimensions & Capacity,Ground Clearance Unladen,205 mm
+Renault,Kiger,Evolution Plus Turbo,Dimensions & Capacity,Wheel Base,2500 mm
+Renault,Kiger,Evolution Plus Turbo,Comfort & Convenience,Boot Opening,Manual
+Renault,Kiger,Evolution Plus Turbo,Comfort & Convenience,Power Steering,YES
+Renault,Kiger,Evolution Plus Turbo,Comfort & Convenience,Air Conditioner,YES
+Renault,Kiger,Evolution Plus Turbo,Comfort & Convenience,Heater,YES
+Renault,Kiger,Evolution Plus Turbo,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Renault,Kiger,Evolution Plus Turbo,Comfort & Convenience,Ventilated Seats,NO
+Renault,Kiger,Evolution Plus Turbo,Comfort & Convenience,Automatic Climate Control,YES
+Renault,Kiger,Evolution Plus Turbo,Comfort & Convenience,Air Quality Control,YES
+Renault,Kiger,Evolution Plus Turbo,Comfort & Convenience,Accessory Power Outlet,YES
+Renault,Kiger,Evolution Plus Turbo,Comfort & Convenience,Adjustable Headrest,YES
+Renault,Kiger,Evolution Plus Turbo,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Renault,Kiger,Evolution Plus Turbo,Comfort & Convenience,Rear AC Vents,YES
+Renault,Kiger,Evolution Plus Turbo,Comfort & Convenience,Cruise Control,NO
+Renault,Kiger,Evolution Plus Turbo,Comfort & Convenience,Parking Sensors,Rear
+Renault,Kiger,Evolution Plus Turbo,Comfort & Convenience,Foldable Rear Seat,Bench Folding
+Renault,Kiger,Evolution Plus Turbo,Comfort & Convenience,KeyLess Entry,YES
+Renault,Kiger,Evolution Plus Turbo,Comfort & Convenience,Engine Start/Stop Button,YES
+Renault,Kiger,Evolution Plus Turbo,Comfort & Convenience,USB Charger,Front
+Renault,Kiger,Evolution Plus Turbo,Comfort & Convenience,Central Console Armrest,With Storage
+Renault,Kiger,Evolution Plus Turbo,Comfort & Convenience,Follow Me Home Headlamps,NO
+Renault,Kiger,Evolution Plus Turbo,Comfort & Convenience,Power Windows,Front & Rear
+Renault,Kiger,Evolution Plus Turbo,Interior,Glove Box,YES
+Renault,Kiger,Evolution Plus Turbo,Interior,Lighting,Ambient light
+Renault,Kiger,Evolution Plus Turbo,Interior,Digital Cluster,YES
+Renault,Kiger,Evolution Plus Turbo,Interior,Digital Cluster Size,3.5
+Renault,Kiger,Evolution Plus Turbo,Interior,Upholstery,Fabric
+Renault,Kiger,Evolution Plus Turbo,Exterior,Adjustable Headlamps,YES
+Renault,Kiger,Evolution Plus Turbo,Exterior,Rain Sensing Wiper,NO
+Renault,Kiger,Evolution Plus Turbo,Exterior,Rear Window Wiper,NO
+Renault,Kiger,Evolution Plus Turbo,Exterior,Rear Window Washer,NO
+Renault,Kiger,Evolution Plus Turbo,Exterior,Rear Window Defogger,NO
+Renault,Kiger,Evolution Plus Turbo,Exterior,Rear Spoiler,YES
+Renault,Kiger,Evolution Plus Turbo,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Renault,Kiger,Evolution Plus Turbo,Exterior,Halogen Headlamps,NO
+Renault,Kiger,Evolution Plus Turbo,Exterior,Roof Rails,YES
+Renault,Kiger,Evolution Plus Turbo,Exterior,Antenna,Shark Fin
+Renault,Kiger,Evolution Plus Turbo,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Renault,Kiger,Evolution Plus Turbo,Exterior,Wheels Type,Steel with Cover
+Renault,Kiger,Evolution Plus Turbo,Exterior,Tyre Size,195/60
+Renault,Kiger,Evolution Plus Turbo,Exterior,Tyre Type,Radial Tubeless
+Renault,Kiger,Evolution Plus Turbo,Exterior,LED DRLs,YES
+Renault,Kiger,Evolution Plus Turbo,Exterior,LED Headlamps,NO
+Renault,Kiger,Evolution Plus Turbo,Exterior,LED Taillights,YES
+Renault,Kiger,Evolution Plus Turbo,Exterior,LED Fog Lamps,YES
+Renault,Kiger,Evolution Plus Turbo,Safety,Anti-lock Braking System (ABS),YES
+Renault,Kiger,Evolution Plus Turbo,Safety,Brake Assist,YES
+Renault,Kiger,Evolution Plus Turbo,Safety,Central Locking,YES
+Renault,Kiger,Evolution Plus Turbo,Safety,Child Safety Locks,YES
+Renault,Kiger,Evolution Plus Turbo,Safety,No. of Airbags,6
+Renault,Kiger,Evolution Plus Turbo,Safety,Driver Airbag,YES
+Renault,Kiger,Evolution Plus Turbo,Safety,Passenger Airbag,YES
+Renault,Kiger,Evolution Plus Turbo,Safety,Side Airbag,YES
+Renault,Kiger,Evolution Plus Turbo,Safety,Side Airbag-Rear,NO
+Renault,Kiger,Evolution Plus Turbo,Safety,Day & Night Rear View Mirror,YES
+Renault,Kiger,Evolution Plus Turbo,Safety,Electronic Brakeforce Distribution (EBD),YES
+Renault,Kiger,Evolution Plus Turbo,Safety,Traction Control,YES
+Renault,Kiger,Evolution Plus Turbo,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Renault,Kiger,Evolution Plus Turbo,Safety,Engine Immobilizer,YES
+Renault,Kiger,Evolution Plus Turbo,Safety,Electronic Stability Control (ESC),YES
+Renault,Kiger,Evolution Plus Turbo,Safety,Rear Camera,With Guidedlines
+Renault,Kiger,Evolution Plus Turbo,Safety,ISOFIX Child Seat Mounts,YES
+Renault,Kiger,Evolution Plus Turbo,Safety,Hill Assist,YES
+Renault,Kiger,Evolution Plus Turbo,Safety,360 View Camera,NO
+Renault,Kiger,Evolution Plus Turbo,Safety,Global NCAP Safety Rating,4 Star
+Renault,Kiger,Evolution Plus Turbo,Safety,Global NCAP Child Safety Rating,3 Star
+Renault,Kiger,Evolution Plus Turbo,Entertainment & Communication,Radio,YES
+Renault,Kiger,Evolution Plus Turbo,Entertainment & Communication,Wireless Phone Charging,NO
+Renault,Kiger,Evolution Plus Turbo,Entertainment & Communication,Bluetooth Connectivity,YES
+Renault,Kiger,Evolution Plus Turbo,Entertainment & Communication,Touchscreen,YES
+Renault,Kiger,Evolution Plus Turbo,Entertainment & Communication,Touchscreen Size,8 inch
+Renault,Kiger,Evolution Plus Turbo,Entertainment & Communication,Android Auto,Wireless
+Renault,Kiger,Evolution Plus Turbo,Entertainment & Communication,Apple CarPlay,Wireless
+Renault,Kiger,Evolution Plus Turbo,Entertainment & Communication,No. of Speakers,4
+Renault,Kiger,Evolution Plus Turbo,Entertainment & Communication,Usb Ports,YES
+Renault,Kiger,Evolution Plus Turbo,Entertainment & Communication,Speakers,Front & Rear

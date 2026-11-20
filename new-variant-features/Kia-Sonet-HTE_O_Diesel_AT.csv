@@ -1,0 +1,152 @@
+company,model,variant,category,feature_name,feature_details
+Kia,Sonet,HTE (O) Diesel AT,Engine & Transmission,Engine Type,1.5L CRDi VGT
+Kia,Sonet,HTE (O) Diesel AT,Engine & Transmission,Displacement,1493 cc
+Kia,Sonet,HTE (O) Diesel AT,Engine & Transmission,Max Power,114bhp@4000rpm
+Kia,Sonet,HTE (O) Diesel AT,Engine & Transmission,Max Torque,250Nm@1500-2750rpm
+Kia,Sonet,HTE (O) Diesel AT,Engine & Transmission,No. of Cylinders,4
+Kia,Sonet,HTE (O) Diesel AT,Engine & Transmission,Valves Per Cylinder,4
+Kia,Sonet,HTE (O) Diesel AT,Engine & Transmission,Fuel Supply System,CRDi
+Kia,Sonet,HTE (O) Diesel AT,Engine & Transmission,Turbo Charger,YES
+Kia,Sonet,HTE (O) Diesel AT,Engine & Transmission,Transmission Type,Automatic
+Kia,Sonet,HTE (O) Diesel AT,Engine & Transmission,Gearbox,6-Speed
+Kia,Sonet,HTE (O) Diesel AT,Engine & Transmission,Drive Type,FWD
+Kia,Sonet,HTE (O) Diesel AT,Fuel & Performance,Fuel Type,Diesel
+Kia,Sonet,HTE (O) Diesel AT,Fuel & Performance,Diesel Mileage ARAI,24.1 kmpl
+Kia,Sonet,HTE (O) Diesel AT,Fuel & Performance,Diesel Fuel Tank Capacity,45 Litres
+Kia,Sonet,HTE (O) Diesel AT,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Kia,Sonet,HTE (O) Diesel AT,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Kia,Sonet,HTE (O) Diesel AT,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Kia,Sonet,HTE (O) Diesel AT,"Suspension, Steering & Brakes",Steering Type,Electric
+Kia,Sonet,HTE (O) Diesel AT,"Suspension, Steering & Brakes",Steering Column,Tilt
+Kia,Sonet,HTE (O) Diesel AT,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Kia,Sonet,HTE (O) Diesel AT,"Suspension, Steering & Brakes",Rear Brake Type,Drum
+Kia,Sonet,HTE (O) Diesel AT,Dimensions & Capacity,Length,3995 mm
+Kia,Sonet,HTE (O) Diesel AT,Dimensions & Capacity,Width,1790 mm
+Kia,Sonet,HTE (O) Diesel AT,Dimensions & Capacity,Height,1642 mm
+Kia,Sonet,HTE (O) Diesel AT,Dimensions & Capacity,Boot Space,385 Litres
+Kia,Sonet,HTE (O) Diesel AT,Dimensions & Capacity,Seating Capacity,5
+Kia,Sonet,HTE (O) Diesel AT,Dimensions & Capacity,Wheel Base,2500 mm
+Kia,Sonet,HTE (O) Diesel AT,Comfort & Convenience,Boot Opening,Manual
+Kia,Sonet,HTE (O) Diesel AT,Comfort & Convenience,Power Steering,YES
+Kia,Sonet,HTE (O) Diesel AT,Comfort & Convenience,Air Conditioner,YES
+Kia,Sonet,HTE (O) Diesel AT,Comfort & Convenience,Heater,YES
+Kia,Sonet,HTE (O) Diesel AT,Comfort & Convenience,Adjustable Steering,Height only
+Kia,Sonet,HTE (O) Diesel AT,Comfort & Convenience,Height Adjustable Driver Seat,NO
+Kia,Sonet,HTE (O) Diesel AT,Comfort & Convenience,Ventilated Seats,NO
+Kia,Sonet,HTE (O) Diesel AT,Comfort & Convenience,Electric Adjustable Seats,NO
+Kia,Sonet,HTE (O) Diesel AT,Comfort & Convenience,Automatic Climate Control,NO
+Kia,Sonet,HTE (O) Diesel AT,Comfort & Convenience,Air Quality Control,NO
+Kia,Sonet,HTE (O) Diesel AT,Comfort & Convenience,Accessory Power Outlet,YES
+Kia,Sonet,HTE (O) Diesel AT,Comfort & Convenience,Rear Seat Headrest,Integrated
+Kia,Sonet,HTE (O) Diesel AT,Comfort & Convenience,Adjustable Headrest,YES
+Kia,Sonet,HTE (O) Diesel AT,Comfort & Convenience,Rear Seat Centre Arm Rest,NO
+Kia,Sonet,HTE (O) Diesel AT,Comfort & Convenience,Rear AC Vents,YES
+Kia,Sonet,HTE (O) Diesel AT,Comfort & Convenience,Active noise cancellation,NO
+Kia,Sonet,HTE (O) Diesel AT,Comfort & Convenience,Cruise Control,NO
+Kia,Sonet,HTE (O) Diesel AT,Comfort & Convenience,Parking Sensors,Rear
+Kia,Sonet,HTE (O) Diesel AT,Comfort & Convenience,Real-Time Vehicle Tracking,NO
+Kia,Sonet,HTE (O) Diesel AT,Comfort & Convenience,Foldable Rear Seat,Bench Folding
+Kia,Sonet,HTE (O) Diesel AT,Comfort & Convenience,KeyLess Entry,NO
+Kia,Sonet,HTE (O) Diesel AT,Comfort & Convenience,Engine Start/Stop Button,NO
+Kia,Sonet,HTE (O) Diesel AT,Comfort & Convenience,Voice Commands,NO
+Kia,Sonet,HTE (O) Diesel AT,Comfort & Convenience,Paddle Shifters,NO
+Kia,Sonet,HTE (O) Diesel AT,Comfort & Convenience,USB Charger,Front & Rear
+Kia,Sonet,HTE (O) Diesel AT,Comfort & Convenience,Central Console Armrest,With Storage
+Kia,Sonet,HTE (O) Diesel AT,Comfort & Convenience,Gear Shift Indicator,NO
+Kia,Sonet,HTE (O) Diesel AT,Comfort & Convenience,Drive Modes,NO
+Kia,Sonet,HTE (O) Diesel AT,Comfort & Convenience,Idle Start-Stop System,YES
+Kia,Sonet,HTE (O) Diesel AT,Comfort & Convenience,Follow Me Home Headlamps,NO
+Kia,Sonet,HTE (O) Diesel AT,Comfort & Convenience,Additional Features,Sunglass Holder
+Kia,Sonet,HTE (O) Diesel AT,Comfort & Convenience,Drive Mode Types,NO
+Kia,Sonet,HTE (O) Diesel AT,Comfort & Convenience,Power Windows,Front & Rear
+Kia,Sonet,HTE (O) Diesel AT,Comfort & Convenience,Cup Holders,Front Only
+Kia,Sonet,HTE (O) Diesel AT,Interior,Leather Wrapped Steering Wheel,NO
+Kia,Sonet,HTE (O) Diesel AT,Interior,Leather wrap gear-shift selector,NO
+Kia,Sonet,HTE (O) Diesel AT,Interior,Glove Box,YES
+Kia,Sonet,HTE (O) Diesel AT,Interior,Folding Table in The Rear,NO
+Kia,Sonet,HTE (O) Diesel AT,Interior,Digital Cluster,YES
+Kia,Sonet,HTE (O) Diesel AT,Interior,Digital Cluster Size,4.2
+Kia,Sonet,HTE (O) Diesel AT,Interior,Upholstery,Leatherette
+Kia,Sonet,HTE (O) Diesel AT,Exterior,Adjustable Headlamps,YES
+Kia,Sonet,HTE (O) Diesel AT,Exterior,Headlamp Washers,NO
+Kia,Sonet,HTE (O) Diesel AT,Exterior,Rain Sensing Wiper,NO
+Kia,Sonet,HTE (O) Diesel AT,Exterior,Rear Window Wiper,NO
+Kia,Sonet,HTE (O) Diesel AT,Exterior,Rear Window Washer,NO
+Kia,Sonet,HTE (O) Diesel AT,Exterior,Rear Window Defogger,NO
+Kia,Sonet,HTE (O) Diesel AT,Exterior,Tinted Glass,YES
+Kia,Sonet,HTE (O) Diesel AT,Exterior,Rear Spoiler,NO
+Kia,Sonet,HTE (O) Diesel AT,Exterior,Side Stepper,NO
+Kia,Sonet,HTE (O) Diesel AT,Exterior,Outside Rear View Mirror Turn Indicators,NO
+Kia,Sonet,HTE (O) Diesel AT,Exterior,Roof Rails,NO
+Kia,Sonet,HTE (O) Diesel AT,Exterior,Fog Lights,NO
+Kia,Sonet,HTE (O) Diesel AT,Exterior,Antenna,Pole Type
+Kia,Sonet,HTE (O) Diesel AT,Exterior,Sunroof,Single Pane
+Kia,Sonet,HTE (O) Diesel AT,Exterior,Heated Outside Rear View Mirror,NO
+Kia,Sonet,HTE (O) Diesel AT,Exterior,Outside Rear View Mirror (ORVM),Powered
+Kia,Sonet,HTE (O) Diesel AT,Exterior,Wheels Type,Steel with Cover
+Kia,Sonet,HTE (O) Diesel AT,Exterior,Tyre Size,215/60 R16
+Kia,Sonet,HTE (O) Diesel AT,Exterior,Tyre Type,Radial Tubeless
+Kia,Sonet,HTE (O) Diesel AT,Exterior,Wheel Size,16 Inch
+Kia,Sonet,HTE (O) Diesel AT,Exterior,LED DRLs,YES
+Kia,Sonet,HTE (O) Diesel AT,Exterior,LED Headlamps,NO
+Kia,Sonet,HTE (O) Diesel AT,Exterior,LED Taillights,NO
+Kia,Sonet,HTE (O) Diesel AT,Exterior,LED Fog Lamps,NO
+Kia,Sonet,HTE (O) Diesel AT,Safety,Anti-lock Braking System (ABS),YES
+Kia,Sonet,HTE (O) Diesel AT,Safety,Brake Assist,YES
+Kia,Sonet,HTE (O) Diesel AT,Safety,Central Locking,YES
+Kia,Sonet,HTE (O) Diesel AT,Safety,Child Safety Locks,YES
+Kia,Sonet,HTE (O) Diesel AT,Safety,Anti-Theft Alarm,NO
+Kia,Sonet,HTE (O) Diesel AT,Safety,No. of Airbags,6
+Kia,Sonet,HTE (O) Diesel AT,Safety,Driver Airbag,YES
+Kia,Sonet,HTE (O) Diesel AT,Safety,Passenger Airbag,YES
+Kia,Sonet,HTE (O) Diesel AT,Safety,Side Airbag,YES
+Kia,Sonet,HTE (O) Diesel AT,Safety,Side Airbag-Rear,NO
+Kia,Sonet,HTE (O) Diesel AT,Safety,Day & Night Rear View Mirror,YES
+Kia,Sonet,HTE (O) Diesel AT,Safety,Electronic Brakeforce Distribution (EBD),YES
+Kia,Sonet,HTE (O) Diesel AT,Safety,Traction Control,NO
+Kia,Sonet,HTE (O) Diesel AT,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Kia,Sonet,HTE (O) Diesel AT,Safety,Engine Immobilizer,YES
+Kia,Sonet,HTE (O) Diesel AT,Safety,Electronic Stability Control (ESC),YES
+Kia,Sonet,HTE (O) Diesel AT,Safety,Rear Camera,NO
+Kia,Sonet,HTE (O) Diesel AT,Safety,ISOFIX Child Seat Mounts,YES
+Kia,Sonet,HTE (O) Diesel AT,Safety,Heads-Up Display (HUD),NO
+Kia,Sonet,HTE (O) Diesel AT,Safety,Hill Descent Control,YES
+Kia,Sonet,HTE (O) Diesel AT,Safety,Hill Assist,YES
+Kia,Sonet,HTE (O) Diesel AT,Safety,360 View Camera,NO
+Kia,Sonet,HTE (O) Diesel AT,Entertainment & Communication,Radio,NO
+Kia,Sonet,HTE (O) Diesel AT,Entertainment & Communication,Wireless Phone Charging,NO
+Kia,Sonet,HTE (O) Diesel AT,Entertainment & Communication,Bluetooth Connectivity,NO
+Kia,Sonet,HTE (O) Diesel AT,Entertainment & Communication,Touchscreen,NO
+Kia,Sonet,HTE (O) Diesel AT,Entertainment & Communication,Android Auto,NO
+Kia,Sonet,HTE (O) Diesel AT,Entertainment & Communication,Apple CarPlay,NO
+Kia,Sonet,HTE (O) Diesel AT,Entertainment & Communication,Usb Ports,YES
+Kia,Sonet,HTE (O) Diesel AT,Entertainment & Communication,Additional Features,NO
+Kia,Sonet,HTE (O) Diesel AT,Entertainment & Communication,Speakers,NO
+Kia,Sonet,HTE (O) Diesel AT,ADAS Feature,Forward Collision Warning,NO
+Kia,Sonet,HTE (O) Diesel AT,ADAS Feature,Automatic Emergency Braking,NO
+Kia,Sonet,HTE (O) Diesel AT,ADAS Feature,Blind Spot Collision Avoidance Assist,NO
+Kia,Sonet,HTE (O) Diesel AT,ADAS Feature,Lane Departure Warning,NO
+Kia,Sonet,HTE (O) Diesel AT,ADAS Feature,Lane Keep Assist,NO
+Kia,Sonet,HTE (O) Diesel AT,ADAS Feature,Driver Attention Warning,NO
+Kia,Sonet,HTE (O) Diesel AT,ADAS Feature,Leading Vehicle Departure Alert,NO
+Kia,Sonet,HTE (O) Diesel AT,ADAS Feature,Adaptive High Beam Assist,NO
+Kia,Sonet,HTE (O) Diesel AT,ADAS Feature,Rear Cross Traffic Alert,NO
+Kia,Sonet,HTE (O) Diesel AT,ADAS Feature,Blind Spot Monitor,NO
+Kia,Sonet,HTE (O) Diesel AT,Advance Internet Feature,Live Location,NO
+Kia,Sonet,HTE (O) Diesel AT,Advance Internet Feature,Unauthorised Vehicle entry,NO
+Kia,Sonet,HTE (O) Diesel AT,Advance Internet Feature,Remote Vehicle Status Check,NO
+Kia,Sonet,HTE (O) Diesel AT,Advance Internet Feature,Inbuilt Assistant,NO
+Kia,Sonet,HTE (O) Diesel AT,Advance Internet Feature,Hinglish Voice Commands,NO
+Kia,Sonet,HTE (O) Diesel AT,Advance Internet Feature,Navigation with Live Traffic,NO
+Kia,Sonet,HTE (O) Diesel AT,Advance Internet Feature,Send POI to Vehicle From App,NO
+Kia,Sonet,HTE (O) Diesel AT,Advance Internet Feature,Live Weather,NO
+Kia,Sonet,HTE (O) Diesel AT,Advance Internet Feature,E-Call & I-Call,NO
+Kia,Sonet,HTE (O) Diesel AT,Advance Internet Feature,Over the Air (OTA) Updates,NO
+Kia,Sonet,HTE (O) Diesel AT,Advance Internet Feature,Google / Alexa Connectivity,NO
+Kia,Sonet,HTE (O) Diesel AT,Advance Internet Feature,Save Route/Place,NO
+Kia,Sonet,HTE (O) Diesel AT,Advance Internet Feature,SOS Button,NO
+Kia,Sonet,HTE (O) Diesel AT,Advance Internet Feature,RSA,NO
+Kia,Sonet,HTE (O) Diesel AT,Advance Internet Feature,Over Speeding Alert,YES
+Kia,Sonet,HTE (O) Diesel AT,Advance Internet Feature,Smartwatch App,NO
+Kia,Sonet,HTE (O) Diesel AT,Advance Internet Feature,Remote AC On/Off,NO
+Kia,Sonet,HTE (O) Diesel AT,Advance Internet Feature,Remote Door Lock/Unlock,NO

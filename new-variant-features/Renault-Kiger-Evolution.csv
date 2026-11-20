@@ -1,0 +1,103 @@
+company,model,variant,category,feature_name,feature_details
+Renault,Kiger,Evolution,Engine & Transmission,Engine Type,1.0L Energy
+Renault,Kiger,Evolution,Engine & Transmission,Displacement,999 cc
+Renault,Kiger,Evolution,Engine & Transmission,Max Power,71bhp@6250rpm
+Renault,Kiger,Evolution,Engine & Transmission,Max Torque,96Nm@3500rpm
+Renault,Kiger,Evolution,Engine & Transmission,No. of Cylinders,3
+Renault,Kiger,Evolution,Engine & Transmission,Valves Per Cylinder,4
+Renault,Kiger,Evolution,Engine & Transmission,Fuel Supply System,MPFi
+Renault,Kiger,Evolution,Engine & Transmission,Turbo Charger,NO
+Renault,Kiger,Evolution,Engine & Transmission,Transmission Type,Manual
+Renault,Kiger,Evolution,Engine & Transmission,Gearbox,5-Speed
+Renault,Kiger,Evolution,Engine & Transmission,Drive Type,FWD
+Renault,Kiger,Evolution,Fuel & Performance,Fuel Type,Petrol
+Renault,Kiger,Evolution,Fuel & Performance,Petrol Mileage ARAI,19.71 kmpl
+Renault,Kiger,Evolution,Fuel & Performance,Petrol Fuel Tank Capacity,40 Litres
+Renault,Kiger,Evolution,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Renault,Kiger,Evolution,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Renault,Kiger,Evolution,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Renault,Kiger,Evolution,"Suspension, Steering & Brakes",Steering Type,Electric
+Renault,Kiger,Evolution,"Suspension, Steering & Brakes",Steering Column,Tilt
+Renault,Kiger,Evolution,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Renault,Kiger,Evolution,"Suspension, Steering & Brakes",Rear Brake Type,Drum
+Renault,Kiger,Evolution,Dimensions & Capacity,Length,3990 mm
+Renault,Kiger,Evolution,Dimensions & Capacity,Width,1912 mm
+Renault,Kiger,Evolution,Dimensions & Capacity,Height,1605 mm
+Renault,Kiger,Evolution,Dimensions & Capacity,Boot Space,405 Litres
+Renault,Kiger,Evolution,Dimensions & Capacity,Seating Capacity,5
+Renault,Kiger,Evolution,Dimensions & Capacity,Ground Clearance Unladen,205 mm
+Renault,Kiger,Evolution,Dimensions & Capacity,Wheel Base,2500 mm
+Renault,Kiger,Evolution,Comfort & Convenience,Boot Opening,Manual
+Renault,Kiger,Evolution,Comfort & Convenience,Power Steering,YES
+Renault,Kiger,Evolution,Comfort & Convenience,Air Conditioner,YES
+Renault,Kiger,Evolution,Comfort & Convenience,Heater,YES
+Renault,Kiger,Evolution,Comfort & Convenience,Height Adjustable Driver Seat,NO
+Renault,Kiger,Evolution,Comfort & Convenience,Ventilated Seats,NO
+Renault,Kiger,Evolution,Comfort & Convenience,Automatic Climate Control,NO
+Renault,Kiger,Evolution,Comfort & Convenience,Air Quality Control,YES
+Renault,Kiger,Evolution,Comfort & Convenience,Accessory Power Outlet,YES
+Renault,Kiger,Evolution,Comfort & Convenience,Adjustable Headrest,YES
+Renault,Kiger,Evolution,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Renault,Kiger,Evolution,Comfort & Convenience,Rear AC Vents,YES
+Renault,Kiger,Evolution,Comfort & Convenience,Cruise Control,NO
+Renault,Kiger,Evolution,Comfort & Convenience,Parking Sensors,Rear
+Renault,Kiger,Evolution,Comfort & Convenience,Foldable Rear Seat,Bench Folding
+Renault,Kiger,Evolution,Comfort & Convenience,KeyLess Entry,YES
+Renault,Kiger,Evolution,Comfort & Convenience,Engine Start/Stop Button,NO
+Renault,Kiger,Evolution,Comfort & Convenience,USB Charger,Front
+Renault,Kiger,Evolution,Comfort & Convenience,Central Console Armrest,With Storage
+Renault,Kiger,Evolution,Comfort & Convenience,Follow Me Home Headlamps,NO
+Renault,Kiger,Evolution,Comfort & Convenience,Power Windows,Front & Rear
+Renault,Kiger,Evolution,Interior,Glove Box,YES
+Renault,Kiger,Evolution,Interior,Digital Cluster,YES
+Renault,Kiger,Evolution,Interior,Digital Cluster Size,3.5
+Renault,Kiger,Evolution,Interior,Upholstery,Fabric
+Renault,Kiger,Evolution,Exterior,Adjustable Headlamps,YES
+Renault,Kiger,Evolution,Exterior,Rain Sensing Wiper,NO
+Renault,Kiger,Evolution,Exterior,Rear Window Wiper,NO
+Renault,Kiger,Evolution,Exterior,Rear Window Washer,NO
+Renault,Kiger,Evolution,Exterior,Rear Window Defogger,NO
+Renault,Kiger,Evolution,Exterior,Rear Spoiler,YES
+Renault,Kiger,Evolution,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Renault,Kiger,Evolution,Exterior,Halogen Headlamps,NO
+Renault,Kiger,Evolution,Exterior,Roof Rails,YES
+Renault,Kiger,Evolution,Exterior,Antenna,Shark Fin
+Renault,Kiger,Evolution,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Renault,Kiger,Evolution,Exterior,Wheels Type,Steel with Cover
+Renault,Kiger,Evolution,Exterior,Tyre Size,195/60
+Renault,Kiger,Evolution,Exterior,Tyre Type,Radial Tubeless
+Renault,Kiger,Evolution,Exterior,LED DRLs,YES
+Renault,Kiger,Evolution,Exterior,LED Headlamps,NO
+Renault,Kiger,Evolution,Exterior,LED Taillights,YES
+Renault,Kiger,Evolution,Exterior,LED Fog Lamps,YES
+Renault,Kiger,Evolution,Safety,Anti-lock Braking System (ABS),YES
+Renault,Kiger,Evolution,Safety,Brake Assist,YES
+Renault,Kiger,Evolution,Safety,Central Locking,YES
+Renault,Kiger,Evolution,Safety,Child Safety Locks,YES
+Renault,Kiger,Evolution,Safety,No. of Airbags,6
+Renault,Kiger,Evolution,Safety,Driver Airbag,YES
+Renault,Kiger,Evolution,Safety,Passenger Airbag,YES
+Renault,Kiger,Evolution,Safety,Side Airbag,YES
+Renault,Kiger,Evolution,Safety,Side Airbag-Rear,NO
+Renault,Kiger,Evolution,Safety,Day & Night Rear View Mirror,YES
+Renault,Kiger,Evolution,Safety,Electronic Brakeforce Distribution (EBD),YES
+Renault,Kiger,Evolution,Safety,Traction Control,YES
+Renault,Kiger,Evolution,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Renault,Kiger,Evolution,Safety,Engine Immobilizer,YES
+Renault,Kiger,Evolution,Safety,Electronic Stability Control (ESC),YES
+Renault,Kiger,Evolution,Safety,Rear Camera,With Guidedlines
+Renault,Kiger,Evolution,Safety,ISOFIX Child Seat Mounts,YES
+Renault,Kiger,Evolution,Safety,Hill Assist,YES
+Renault,Kiger,Evolution,Safety,360 View Camera,NO
+Renault,Kiger,Evolution,Safety,Global NCAP Safety Rating,4 Star
+Renault,Kiger,Evolution,Safety,Global NCAP Child Safety Rating,3 Star
+Renault,Kiger,Evolution,Entertainment & Communication,Radio,YES
+Renault,Kiger,Evolution,Entertainment & Communication,Wireless Phone Charging,NO
+Renault,Kiger,Evolution,Entertainment & Communication,Bluetooth Connectivity,YES
+Renault,Kiger,Evolution,Entertainment & Communication,Touchscreen,YES
+Renault,Kiger,Evolution,Entertainment & Communication,Touchscreen Size,8 inch
+Renault,Kiger,Evolution,Entertainment & Communication,Android Auto,YES
+Renault,Kiger,Evolution,Entertainment & Communication,Apple CarPlay,YES
+Renault,Kiger,Evolution,Entertainment & Communication,No. of Speakers,4
+Renault,Kiger,Evolution,Entertainment & Communication,Usb Ports,YES
+Renault,Kiger,Evolution,Entertainment & Communication,Speakers,Front & Rear

@@ -1,0 +1,116 @@
+company,model,variant,category,feature_name,feature_details
+Toyota,Fortuner,4X2 Diesel,Engine & Transmission,Engine Type,2.8 L Diesel engine
+Toyota,Fortuner,4X2 Diesel,Engine & Transmission,Displacement,2755 cc
+Toyota,Fortuner,4X2 Diesel,Engine & Transmission,Max Power,201.15bhp@3420rpm
+Toyota,Fortuner,4X2 Diesel,Engine & Transmission,Max Torque,420Nm@1380-3420rpm
+Toyota,Fortuner,4X2 Diesel,Engine & Transmission,No. of Cylinders,4
+Toyota,Fortuner,4X2 Diesel,Engine & Transmission,Valves Per Cylinder,4
+Toyota,Fortuner,4X2 Diesel,Engine & Transmission,Valve Configuration,DOHC
+Toyota,Fortuner,4X2 Diesel,Engine & Transmission,Fuel Supply System,Direct Injection
+Toyota,Fortuner,4X2 Diesel,Engine & Transmission,Turbo Charger,YES
+Toyota,Fortuner,4X2 Diesel,Engine & Transmission,Transmission Type,Manual
+Toyota,Fortuner,4X2 Diesel,Engine & Transmission,Gearbox,6-Speed iMT
+Toyota,Fortuner,4X2 Diesel,Engine & Transmission,Drive Type,2WD
+Toyota,Fortuner,4X2 Diesel,Fuel & Performance,Fuel Type,Diesel
+Toyota,Fortuner,4X2 Diesel,Fuel & Performance,Diesel Fuel Tank Capacity,80 Litres
+Toyota,Fortuner,4X2 Diesel,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Toyota,Fortuner,4X2 Diesel,Fuel & Performance,Top Speed,190 kmph
+Toyota,Fortuner,4X2 Diesel,"Suspension, Steering & Brakes",Front Suspension,Double wishbone suspension
+Toyota,Fortuner,4X2 Diesel,"Suspension, Steering & Brakes",Rear Suspension,Multi-link suspension
+Toyota,Fortuner,4X2 Diesel,"Suspension, Steering & Brakes",Steering Type,Hydraulic
+Toyota,Fortuner,4X2 Diesel,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Toyota,Fortuner,4X2 Diesel,"Suspension, Steering & Brakes",Turning Radius,5.8 m
+Toyota,Fortuner,4X2 Diesel,"Suspension, Steering & Brakes",Front Brake Type,Ventilated Disc
+Toyota,Fortuner,4X2 Diesel,"Suspension, Steering & Brakes",Rear Brake Type,Ventilated Disc
+Toyota,Fortuner,4X2 Diesel,Dimensions & Capacity,Length,4795 mm
+Toyota,Fortuner,4X2 Diesel,Dimensions & Capacity,Width,1855 mm
+Toyota,Fortuner,4X2 Diesel,Dimensions & Capacity,Height,1835 mm
+Toyota,Fortuner,4X2 Diesel,Dimensions & Capacity,Seating Capacity,7
+Toyota,Fortuner,4X2 Diesel,Dimensions & Capacity,Wheel Base,2745 mm
+Toyota,Fortuner,4X2 Diesel,Dimensions & Capacity,Gross Weight,2610 kg
+Toyota,Fortuner,4X2 Diesel,Dimensions & Capacity,Reported Boot Space,296 Litres
+Toyota,Fortuner,4X2 Diesel,Comfort & Convenience,Boot Opening,Electronic
+Toyota,Fortuner,4X2 Diesel,Comfort & Convenience,Power Steering,YES
+Toyota,Fortuner,4X2 Diesel,Comfort & Convenience,Air Conditioner,YES
+Toyota,Fortuner,4X2 Diesel,Comfort & Convenience,Heater,YES
+Toyota,Fortuner,4X2 Diesel,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Toyota,Fortuner,4X2 Diesel,Comfort & Convenience,Ventilated Seats,YES
+Toyota,Fortuner,4X2 Diesel,Comfort & Convenience,Electric Adjustable Seats,Front
+Toyota,Fortuner,4X2 Diesel,Comfort & Convenience,Automatic Climate Control,YES
+Toyota,Fortuner,4X2 Diesel,Comfort & Convenience,Accessory Power Outlet,YES
+Toyota,Fortuner,4X2 Diesel,Comfort & Convenience,Adjustable Headrest,YES
+Toyota,Fortuner,4X2 Diesel,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Toyota,Fortuner,4X2 Diesel,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Toyota,Fortuner,4X2 Diesel,Comfort & Convenience,Rear AC Vents,YES
+Toyota,Fortuner,4X2 Diesel,Comfort & Convenience,Lumbar Support,YES
+Toyota,Fortuner,4X2 Diesel,Comfort & Convenience,Cruise Control,YES
+Toyota,Fortuner,4X2 Diesel,Comfort & Convenience,Parking Sensors,Front & Rear
+Toyota,Fortuner,4X2 Diesel,Comfort & Convenience,Real-Time Vehicle Tracking,YES
+Toyota,Fortuner,4X2 Diesel,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Toyota,Fortuner,4X2 Diesel,Comfort & Convenience,KeyLess Entry,YES
+Toyota,Fortuner,4X2 Diesel,Comfort & Convenience,Engine Start/Stop Button,YES
+Toyota,Fortuner,4X2 Diesel,Comfort & Convenience,Voice Commands,YES
+Toyota,Fortuner,4X2 Diesel,Comfort & Convenience,Paddle Shifters,YES
+Toyota,Fortuner,4X2 Diesel,Comfort & Convenience,USB Charger,Front
+Toyota,Fortuner,4X2 Diesel,Comfort & Convenience,Central Console Armrest,YES
+Toyota,Fortuner,4X2 Diesel,Comfort & Convenience,Gear Shift Indicator,YES
+Toyota,Fortuner,4X2 Diesel,Comfort & Convenience,Drive Modes,3
+Toyota,Fortuner,4X2 Diesel,Comfort & Convenience,Idle Start-Stop System,NO
+Toyota,Fortuner,4X2 Diesel,Comfort & Convenience,Drive Mode Types,ECO / NORMAL / SPORT
+Toyota,Fortuner,4X2 Diesel,Interior,Glove Box,YES
+Toyota,Fortuner,4X2 Diesel,Interior,Digital Cluster,YES
+Toyota,Fortuner,4X2 Diesel,Interior,Upholstery,Leather
+Toyota,Fortuner,4X2 Diesel,Exterior,Adjustable Headlamps,YES
+Toyota,Fortuner,4X2 Diesel,Exterior,Rear Window Wiper,YES
+Toyota,Fortuner,4X2 Diesel,Exterior,Rear Window Washer,YES
+Toyota,Fortuner,4X2 Diesel,Exterior,Rear Window Defogger,YES
+Toyota,Fortuner,4X2 Diesel,Exterior,Wheel Covers,NO
+Toyota,Fortuner,4X2 Diesel,Exterior,Alloy Wheels,YES
+Toyota,Fortuner,4X2 Diesel,Exterior,Rear Spoiler,YES
+Toyota,Fortuner,4X2 Diesel,Exterior,Side Stepper,YES
+Toyota,Fortuner,4X2 Diesel,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Toyota,Fortuner,4X2 Diesel,Exterior,Projector Headlamps,YES
+Toyota,Fortuner,4X2 Diesel,Exterior,Roof Rails,YES
+Toyota,Fortuner,4X2 Diesel,Exterior,Automatic Headlamps,YES
+Toyota,Fortuner,4X2 Diesel,Exterior,Fog Lights,Front & Rear
+Toyota,Fortuner,4X2 Diesel,Exterior,Puddle Lamps,YES
+Toyota,Fortuner,4X2 Diesel,Exterior,Tyre Size,265/65 R17
+Toyota,Fortuner,4X2 Diesel,Exterior,Tyre Type,"Tubeless,Radial"
+Toyota,Fortuner,4X2 Diesel,Exterior,LED DRLs,YES
+Toyota,Fortuner,4X2 Diesel,Exterior,LED Headlamps,YES
+Toyota,Fortuner,4X2 Diesel,Exterior,LED Taillights,YES
+Toyota,Fortuner,4X2 Diesel,Exterior,LED Fog Lamps,YES
+Toyota,Fortuner,4X2 Diesel,Safety,Anti-lock Braking System (ABS),YES
+Toyota,Fortuner,4X2 Diesel,Safety,Brake Assist,YES
+Toyota,Fortuner,4X2 Diesel,Safety,Central Locking,YES
+Toyota,Fortuner,4X2 Diesel,Safety,Child Safety Locks,YES
+Toyota,Fortuner,4X2 Diesel,Safety,Anti-Theft Alarm,YES
+Toyota,Fortuner,4X2 Diesel,Safety,No. of Airbags,7
+Toyota,Fortuner,4X2 Diesel,Safety,Driver Airbag,YES
+Toyota,Fortuner,4X2 Diesel,Safety,Passenger Airbag,YES
+Toyota,Fortuner,4X2 Diesel,Safety,Side Airbag,YES
+Toyota,Fortuner,4X2 Diesel,Safety,Side Airbag-Rear,NO
+Toyota,Fortuner,4X2 Diesel,Safety,Day & Night Rear View Mirror,YES
+Toyota,Fortuner,4X2 Diesel,Safety,Electronic Brakeforce Distribution (EBD),YES
+Toyota,Fortuner,4X2 Diesel,Safety,Traction Control,YES
+Toyota,Fortuner,4X2 Diesel,Safety,Engine Immobilizer,YES
+Toyota,Fortuner,4X2 Diesel,Safety,Electronic Stability Control (ESC),YES
+Toyota,Fortuner,4X2 Diesel,Safety,Rear Camera,With Guidedlines
+Toyota,Fortuner,4X2 Diesel,Safety,Anti-Theft Device,YES
+Toyota,Fortuner,4X2 Diesel,Safety,Anti-Pinch Power Windows,All Windows
+Toyota,Fortuner,4X2 Diesel,Safety,ISOFIX Child Seat Mounts,YES
+Toyota,Fortuner,4X2 Diesel,Safety,Hill Descent Control,NO
+Toyota,Fortuner,4X2 Diesel,Safety,Hill Assist,YES
+Toyota,Fortuner,4X2 Diesel,Safety,360 View Camera,NO
+Toyota,Fortuner,4X2 Diesel,Entertainment & Communication,Radio,YES
+Toyota,Fortuner,4X2 Diesel,Entertainment & Communication,Bluetooth Connectivity,YES
+Toyota,Fortuner,4X2 Diesel,Entertainment & Communication,Touchscreen,YES
+Toyota,Fortuner,4X2 Diesel,Entertainment & Communication,Touchscreen Size,8 Inch
+Toyota,Fortuner,4X2 Diesel,Entertainment & Communication,Android Auto,YES
+Toyota,Fortuner,4X2 Diesel,Entertainment & Communication,Apple CarPlay,YES
+Toyota,Fortuner,4X2 Diesel,Entertainment & Communication,No. of Speakers,6
+Toyota,Fortuner,4X2 Diesel,Entertainment & Communication,Usb Ports,YES
+Toyota,Fortuner,4X2 Diesel,Entertainment & Communication,Speakers,Front & Rear
+Toyota,Fortuner,4X2 Diesel,Advance Internet Feature,E-Call & I-Call,YES
+Toyota,Fortuner,4X2 Diesel,Advance Internet Feature,SOS / Emergency Assistance,YES
+Toyota,Fortuner,4X2 Diesel,Advance Internet Feature,Geo-fence Alert,YES

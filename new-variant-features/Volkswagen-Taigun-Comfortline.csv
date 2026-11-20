@@ -1,0 +1,126 @@
+company,model,variant,category,feature_name,feature_details
+Volkswagen,Taigun,Comfortline,Engine & Transmission,Engine Type,1.0L TSI
+Volkswagen,Taigun,Comfortline,Engine & Transmission,Displacement,999 cc
+Volkswagen,Taigun,Comfortline,Engine & Transmission,Max Power,114bhp@5000-5500rpm
+Volkswagen,Taigun,Comfortline,Engine & Transmission,Max Torque,178Nm@1850-4000rpm
+Volkswagen,Taigun,Comfortline,Engine & Transmission,No. of Cylinders,3
+Volkswagen,Taigun,Comfortline,Engine & Transmission,Valves Per Cylinder,4
+Volkswagen,Taigun,Comfortline,Engine & Transmission,Fuel Supply System,TSI
+Volkswagen,Taigun,Comfortline,Engine & Transmission,Turbo Charger,YES
+Volkswagen,Taigun,Comfortline,Engine & Transmission,Transmission Type,Manual
+Volkswagen,Taigun,Comfortline,Engine & Transmission,Gearbox,6-Speed
+Volkswagen,Taigun,Comfortline,Engine & Transmission,Drive Type,FWD
+Volkswagen,Taigun,Comfortline,Fuel & Performance,Fuel Type,Petrol
+Volkswagen,Taigun,Comfortline,Fuel & Performance,Petrol Mileage ARAI,19.98 kmpl
+Volkswagen,Taigun,Comfortline,Fuel & Performance,Petrol Fuel Tank Capacity,50 Litres
+Volkswagen,Taigun,Comfortline,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Volkswagen,Taigun,Comfortline,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Volkswagen,Taigun,Comfortline,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Volkswagen,Taigun,Comfortline,"Suspension, Steering & Brakes",Steering Type,Electric
+Volkswagen,Taigun,Comfortline,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Volkswagen,Taigun,Comfortline,"Suspension, Steering & Brakes",Steering Gear Type,Rack & Pinion
+Volkswagen,Taigun,Comfortline,"Suspension, Steering & Brakes",Turning Radius,5.05 m
+Volkswagen,Taigun,Comfortline,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Volkswagen,Taigun,Comfortline,"Suspension, Steering & Brakes",Rear Brake Type,Drum
+Volkswagen,Taigun,Comfortline,"Suspension, Steering & Brakes",Boot Space Rear Seat Folding,1405 Litres
+Volkswagen,Taigun,Comfortline,Dimensions & Capacity,Length,4221 mm
+Volkswagen,Taigun,Comfortline,Dimensions & Capacity,Width,1760 mm
+Volkswagen,Taigun,Comfortline,Dimensions & Capacity,Height,1612 mm
+Volkswagen,Taigun,Comfortline,Dimensions & Capacity,Boot Space,385 Litres
+Volkswagen,Taigun,Comfortline,Dimensions & Capacity,Seating Capacity,5
+Volkswagen,Taigun,Comfortline,Dimensions & Capacity,Wheel Base,2651 mm
+Volkswagen,Taigun,Comfortline,Dimensions & Capacity,Kerb Weight,1213 kg
+Volkswagen,Taigun,Comfortline,Dimensions & Capacity,Gross Weight,1643 kg
+Volkswagen,Taigun,Comfortline,Comfort & Convenience,Power Steering,YES
+Volkswagen,Taigun,Comfortline,Comfort & Convenience,Air Conditioner,YES
+Volkswagen,Taigun,Comfortline,Comfort & Convenience,Heater,YES
+Volkswagen,Taigun,Comfortline,Comfort & Convenience,Adjustable Steering,Height & Reach
+Volkswagen,Taigun,Comfortline,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Volkswagen,Taigun,Comfortline,Comfort & Convenience,Ventilated Seats,NO
+Volkswagen,Taigun,Comfortline,Comfort & Convenience,Electric Adjustable Seats,NO
+Volkswagen,Taigun,Comfortline,Comfort & Convenience,Automatic Climate Control,YES
+Volkswagen,Taigun,Comfortline,Comfort & Convenience,Accessory Power Outlet,YES
+Volkswagen,Taigun,Comfortline,Comfort & Convenience,Adjustable Headrest,YES
+Volkswagen,Taigun,Comfortline,Comfort & Convenience,Rear Seat Centre Arm Rest,NO
+Volkswagen,Taigun,Comfortline,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Volkswagen,Taigun,Comfortline,Comfort & Convenience,Rear AC Vents,YES
+Volkswagen,Taigun,Comfortline,Comfort & Convenience,Cruise Control,NO
+Volkswagen,Taigun,Comfortline,Comfort & Convenience,Parking Sensors,Rear
+Volkswagen,Taigun,Comfortline,Comfort & Convenience,Real-Time Vehicle Tracking,NO
+Volkswagen,Taigun,Comfortline,Comfort & Convenience,Foldable Rear Seat,Bench Folding
+Volkswagen,Taigun,Comfortline,Comfort & Convenience,KeyLess Entry,NO
+Volkswagen,Taigun,Comfortline,Comfort & Convenience,Engine Start/Stop Button,NO
+Volkswagen,Taigun,Comfortline,Comfort & Convenience,Voice Commands,NO
+Volkswagen,Taigun,Comfortline,Comfort & Convenience,Paddle Shifters,NO
+Volkswagen,Taigun,Comfortline,Comfort & Convenience,USB Charger,NO
+Volkswagen,Taigun,Comfortline,Comfort & Convenience,Central Console Armrest,With Storage
+Volkswagen,Taigun,Comfortline,Comfort & Convenience,Gear Shift Indicator,YES
+Volkswagen,Taigun,Comfortline,Comfort & Convenience,Idle Start-Stop System,YES
+Volkswagen,Taigun,Comfortline,Comfort & Convenience,Follow Me Home Headlamps,YES
+Volkswagen,Taigun,Comfortline,Comfort & Convenience,Power Windows,Front & Rear
+Volkswagen,Taigun,Comfortline,Interior,Glove Box,YES
+Volkswagen,Taigun,Comfortline,Interior,Lighting,Ambient light
+Volkswagen,Taigun,Comfortline,Interior,Digital Cluster,NO
+Volkswagen,Taigun,Comfortline,Interior,Upholstery,Fabric
+Volkswagen,Taigun,Comfortline,Exterior,Adjustable Headlamps,YES
+Volkswagen,Taigun,Comfortline,Exterior,Rain Sensing Wiper,NO
+Volkswagen,Taigun,Comfortline,Exterior,Rear Window Wiper,YES
+Volkswagen,Taigun,Comfortline,Exterior,Rear Window Washer,YES
+Volkswagen,Taigun,Comfortline,Exterior,Rear Window Defogger,YES
+Volkswagen,Taigun,Comfortline,Exterior,Rear Spoiler,YES
+Volkswagen,Taigun,Comfortline,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Volkswagen,Taigun,Comfortline,Exterior,Cornering Headlamps,YES
+Volkswagen,Taigun,Comfortline,Exterior,Roof Rails,YES
+Volkswagen,Taigun,Comfortline,Exterior,Automatic Headlamps,NO
+Volkswagen,Taigun,Comfortline,Exterior,Fog Lights,Rear
+Volkswagen,Taigun,Comfortline,Exterior,Antenna,Pole Type
+Volkswagen,Taigun,Comfortline,Exterior,Sunroof,NO
+Volkswagen,Taigun,Comfortline,Exterior,Outside Rear View Mirror (ORVM),Powered
+Volkswagen,Taigun,Comfortline,Exterior,Tyre Size,205/60 R16
+Volkswagen,Taigun,Comfortline,Exterior,Tyre Type,Radial Tubeless
+Volkswagen,Taigun,Comfortline,Exterior,Wheel Size,16 Inch
+Volkswagen,Taigun,Comfortline,Exterior,LED DRLs,YES
+Volkswagen,Taigun,Comfortline,Exterior,LED Headlamps,YES
+Volkswagen,Taigun,Comfortline,Exterior,LED Taillights,YES
+Volkswagen,Taigun,Comfortline,Safety,Anti-lock Braking System (ABS),YES
+Volkswagen,Taigun,Comfortline,Safety,Brake Assist,YES
+Volkswagen,Taigun,Comfortline,Safety,Central Locking,YES
+Volkswagen,Taigun,Comfortline,Safety,Child Safety Locks,YES
+Volkswagen,Taigun,Comfortline,Safety,No. of Airbags,6
+Volkswagen,Taigun,Comfortline,Safety,Driver Airbag,YES
+Volkswagen,Taigun,Comfortline,Safety,Passenger Airbag,YES
+Volkswagen,Taigun,Comfortline,Safety,Side Airbag,YES
+Volkswagen,Taigun,Comfortline,Safety,Side Airbag-Rear,NO
+Volkswagen,Taigun,Comfortline,Safety,Day & Night Rear View Mirror,YES
+Volkswagen,Taigun,Comfortline,Safety,Electronic Brakeforce Distribution (EBD),YES
+Volkswagen,Taigun,Comfortline,Safety,Traction Control,YES
+Volkswagen,Taigun,Comfortline,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Volkswagen,Taigun,Comfortline,Safety,Engine Immobilizer,YES
+Volkswagen,Taigun,Comfortline,Safety,Electronic Stability Control (ESC),YES
+Volkswagen,Taigun,Comfortline,Safety,Rear Camera,NO
+Volkswagen,Taigun,Comfortline,Safety,ISOFIX Child Seat Mounts,YES
+Volkswagen,Taigun,Comfortline,Safety,Hill Assist,NO
+Volkswagen,Taigun,Comfortline,Safety,Global NCAP Safety Rating,5 Star
+Volkswagen,Taigun,Comfortline,Safety,Global NCAP Child Safety Rating,5 Star
+Volkswagen,Taigun,Comfortline,Entertainment & Communication,Radio,YES
+Volkswagen,Taigun,Comfortline,Entertainment & Communication,Wireless Phone Charging,NO
+Volkswagen,Taigun,Comfortline,Entertainment & Communication,Bluetooth Connectivity,YES
+Volkswagen,Taigun,Comfortline,Entertainment & Communication,Touchscreen,YES
+Volkswagen,Taigun,Comfortline,Entertainment & Communication,Touchscreen Size,7 inch
+Volkswagen,Taigun,Comfortline,Entertainment & Communication,Android Auto,YES
+Volkswagen,Taigun,Comfortline,Entertainment & Communication,Apple CarPlay,YES
+Volkswagen,Taigun,Comfortline,Entertainment & Communication,No. of Speakers,6
+Volkswagen,Taigun,Comfortline,Entertainment & Communication,Usb Ports,YES
+Volkswagen,Taigun,Comfortline,Entertainment & Communication,Inbuilt Apps,NO
+Volkswagen,Taigun,Comfortline,Entertainment & Communication,Speakers,Front & Rear
+Volkswagen,Taigun,Comfortline,Advance Internet Feature,Live Location,NO
+Volkswagen,Taigun,Comfortline,Advance Internet Feature,PUC Expiry,NO
+Volkswagen,Taigun,Comfortline,Advance Internet Feature,Insurance Expiry,NO
+Volkswagen,Taigun,Comfortline,Advance Internet Feature,Inbuilt Assistant,NO
+Volkswagen,Taigun,Comfortline,Advance Internet Feature,E-Call & I-Call,NO
+Volkswagen,Taigun,Comfortline,Advance Internet Feature,Save Route/Place,NO
+Volkswagen,Taigun,Comfortline,Advance Internet Feature,SOS Button,NO
+Volkswagen,Taigun,Comfortline,Advance Internet Feature,Valet Mode,NO
+Volkswagen,Taigun,Comfortline,Advance Internet Feature,SOS / Emergency Assistance,NO
+Volkswagen,Taigun,Comfortline,Advance Internet Feature,Geo-fence Alert,NO
+Volkswagen,Taigun,Comfortline,Advance Internet Feature,Inbuilt APPs,NO

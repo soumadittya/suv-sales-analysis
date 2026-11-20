@@ -1,0 +1,107 @@
+company,model,variant,category,feature_name,feature_details
+Audi,Q3,Zenith,Engine & Transmission,Engine Type,2.0L TFSI
+Audi,Q3,Zenith,Engine & Transmission,Displacement,1984 cc
+Audi,Q3,Zenith,Engine & Transmission,Max Power,201.15bhp@4500-6000rpm
+Audi,Q3,Zenith,Engine & Transmission,Max Torque,320Nm@1500-4400rpm
+Audi,Q3,Zenith,Engine & Transmission,No. of Cylinders,4
+Audi,Q3,Zenith,Engine & Transmission,Valves Per Cylinder,4
+Audi,Q3,Zenith,Engine & Transmission,Turbo Charger,YES
+Audi,Q3,Zenith,Engine & Transmission,Transmission Type,Automatic
+Audi,Q3,Zenith,Engine & Transmission,Gearbox,7-Speed DCT
+Audi,Q3,Zenith,Engine & Transmission,Drive Type,AWD
+Audi,Q3,Zenith,Fuel & Performance,Fuel Type,Petrol
+Audi,Q3,Zenith,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Audi,Q3,Zenith,Fuel & Performance,Top Speed,229 kmph
+Audi,Q3,Zenith,Fuel & Performance,Acceleration,7.1 s
+Audi,Q3,Zenith,Fuel & Performance,0-100kmph,7.1 s
+Audi,Q3,Zenith,"Suspension, Steering & Brakes",Steering Type,Electronic
+Audi,Q3,Zenith,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Audi,Q3,Zenith,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Audi,Q3,Zenith,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Audi,Q3,Zenith,Dimensions & Capacity,Length,4531 mm
+Audi,Q3,Zenith,Dimensions & Capacity,Width,1859 mm
+Audi,Q3,Zenith,Dimensions & Capacity,Height,1601 mm
+Audi,Q3,Zenith,Dimensions & Capacity,Seating Capacity,5
+Audi,Q3,Zenith,Dimensions & Capacity,Wheel Base,2681 mm
+Audi,Q3,Zenith,Comfort & Convenience,Boot Opening,Powered
+Audi,Q3,Zenith,Comfort & Convenience,Power Steering,YES
+Audi,Q3,Zenith,Comfort & Convenience,Air Conditioner,YES
+Audi,Q3,Zenith,Comfort & Convenience,Heater,YES
+Audi,Q3,Zenith,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Audi,Q3,Zenith,Comfort & Convenience,Electric Adjustable Seats,Front Only
+Audi,Q3,Zenith,Comfort & Convenience,Automatic Climate Control,YES
+Audi,Q3,Zenith,Comfort & Convenience,Air Quality Control,YES
+Audi,Q3,Zenith,Comfort & Convenience,Accessory Power Outlet,YES
+Audi,Q3,Zenith,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Audi,Q3,Zenith,Comfort & Convenience,Adjustable Headrest,YES
+Audi,Q3,Zenith,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Audi,Q3,Zenith,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Audi,Q3,Zenith,Comfort & Convenience,Lumbar Support,YES
+Audi,Q3,Zenith,Comfort & Convenience,Cruise Control,YES
+Audi,Q3,Zenith,Comfort & Convenience,Parking Sensors,Front & Rear
+Audi,Q3,Zenith,Comfort & Convenience,Real-Time Vehicle Tracking,YES
+Audi,Q3,Zenith,Comfort & Convenience,KeyLess Entry,YES
+Audi,Q3,Zenith,Comfort & Convenience,Engine Start/Stop Button,YES
+Audi,Q3,Zenith,Comfort & Convenience,Voice Commands,YES
+Audi,Q3,Zenith,Comfort & Convenience,Paddle Shifters,YES
+Audi,Q3,Zenith,Comfort & Convenience,USB Charger,Front & Rear
+Audi,Q3,Zenith,Comfort & Convenience,Central Console Armrest,YES
+Audi,Q3,Zenith,Comfort & Convenience,Follow Me Home Headlamps,YES
+Audi,Q3,Zenith,Comfort & Convenience,Power Windows,Front & Rear
+Audi,Q3,Zenith,Comfort & Convenience,Heated Seats,Front Only
+Audi,Q3,Zenith,Interior,Leather Wrapped Steering Wheel,YES
+Audi,Q3,Zenith,Interior,Leather wrap gear-shift selector,YES
+Audi,Q3,Zenith,Interior,Glove Box,YES
+Audi,Q3,Zenith,Interior,Digital Cluster,YES
+Audi,Q3,Zenith,Interior,Digital Cluster Size,11.9
+Audi,Q3,Zenith,Interior,Upholstery,Leatherette
+Audi,Q3,Zenith,Exterior,Adjustable Headlamps,YES
+Audi,Q3,Zenith,Exterior,Headlamp Washers,YES
+Audi,Q3,Zenith,Exterior,Rain Sensing Wiper,YES
+Audi,Q3,Zenith,Exterior,Rear Window Wiper,YES
+Audi,Q3,Zenith,Exterior,Rear Window Washer,YES
+Audi,Q3,Zenith,Exterior,Rear Window Defogger,YES
+Audi,Q3,Zenith,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Audi,Q3,Zenith,Exterior,Projector Headlamps,YES
+Audi,Q3,Zenith,Exterior,Automatic Headlamps,YES
+Audi,Q3,Zenith,Exterior,Antenna,Shark Fin
+Audi,Q3,Zenith,Exterior,Sunroof,Panoramic
+Audi,Q3,Zenith,Exterior,Heated Outside Rear View Mirror,YES
+Audi,Q3,Zenith,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Audi,Q3,Zenith,Exterior,Wheels Type,Alloy
+Audi,Q3,Zenith,Exterior,Wheel Size,18 Inch
+Audi,Q3,Zenith,Exterior,LED DRLs,YES
+Audi,Q3,Zenith,Exterior,LED Headlamps,YES
+Audi,Q3,Zenith,Exterior,LED Taillights,YES
+Audi,Q3,Zenith,Safety,Anti-lock Braking System (ABS),YES
+Audi,Q3,Zenith,Safety,Brake Assist,YES
+Audi,Q3,Zenith,Safety,Central Locking,YES
+Audi,Q3,Zenith,Safety,Child Safety Locks,YES
+Audi,Q3,Zenith,Safety,Anti-Theft Alarm,YES
+Audi,Q3,Zenith,Safety,No. of Airbags,9
+Audi,Q3,Zenith,Safety,Day & Night Rear View Mirror,YES
+Audi,Q3,Zenith,Safety,Electronic Brakeforce Distribution (EBD),YES
+Audi,Q3,Zenith,Safety,Traction Control,YES
+Audi,Q3,Zenith,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Audi,Q3,Zenith,Safety,Engine Immobilizer,YES
+Audi,Q3,Zenith,Safety,Electronic Stability Control (ESC),YES
+Audi,Q3,Zenith,Safety,Rear Camera,With Guidedlines
+Audi,Q3,Zenith,Safety,Anti-Theft Device,YES
+Audi,Q3,Zenith,Safety,Anti-Pinch Power Windows,All Windows
+Audi,Q3,Zenith,Safety,ISOFIX Child Seat Mounts,YES
+Audi,Q3,Zenith,Safety,Heads-Up Display (HUD),YES
+Audi,Q3,Zenith,Safety,Hill Descent Control,YES
+Audi,Q3,Zenith,Safety,Hill Assist,YES
+Audi,Q3,Zenith,Safety,Safety Airbags,"Driver & Passenger, Front Side, Rear Side, Curtain"
+Audi,Q3,Zenith,Entertainment & Communication,Radio,YES
+Audi,Q3,Zenith,Entertainment & Communication,Wireless Phone Charging,YES
+Audi,Q3,Zenith,Entertainment & Communication,Bluetooth Connectivity,YES
+Audi,Q3,Zenith,Entertainment & Communication,Touchscreen,YES
+Audi,Q3,Zenith,Entertainment & Communication,Touchscreen Size,12.8 inch
+Audi,Q3,Zenith,Entertainment & Communication,Android Auto,Wireless
+Audi,Q3,Zenith,Entertainment & Communication,Apple CarPlay,Wireless
+Audi,Q3,Zenith,Entertainment & Communication,No. of Speakers,12
+Audi,Q3,Zenith,Entertainment & Communication,Usb Ports,YES
+Audi,Q3,Zenith,Entertainment & Communication,Speakers,Front & Rear
+Audi,Q3,Zenith,ADAS Feature,Driver Attention Warning,YES
+Audi,Q3,Zenith,ADAS Feature,Adaptive Cruise Control,YES

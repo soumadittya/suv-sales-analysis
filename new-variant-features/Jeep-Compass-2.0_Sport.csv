@@ -1,0 +1,135 @@
+company,model,variant,category,feature_name,feature_details
+Jeep,Compass,2.0 Sport,Engine & Transmission,Engine Type,2.0 L Multijet II Diesel
+Jeep,Compass,2.0 Sport,Engine & Transmission,Displacement,1956 cc
+Jeep,Compass,2.0 Sport,Engine & Transmission,Max Power,168bhp@3700-3800rpm
+Jeep,Compass,2.0 Sport,Engine & Transmission,Max Torque,350Nm@1750-2500rpm
+Jeep,Compass,2.0 Sport,Engine & Transmission,No. of Cylinders,4
+Jeep,Compass,2.0 Sport,Engine & Transmission,Valves Per Cylinder,4
+Jeep,Compass,2.0 Sport,Engine & Transmission,Turbo Charger,YES
+Jeep,Compass,2.0 Sport,Engine & Transmission,Transmission Type,Manual
+Jeep,Compass,2.0 Sport,Engine & Transmission,Gearbox,6-Speed
+Jeep,Compass,2.0 Sport,Engine & Transmission,Drive Type,FWD
+Jeep,Compass,2.0 Sport,Fuel & Performance,Fuel Type,Diesel
+Jeep,Compass,2.0 Sport,Fuel & Performance,Diesel Mileage ARAI,17.1 kmpl
+Jeep,Compass,2.0 Sport,Fuel & Performance,Diesel Fuel Tank Capacity,60 Litres
+Jeep,Compass,2.0 Sport,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Jeep,Compass,2.0 Sport,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Jeep,Compass,2.0 Sport,"Suspension, Steering & Brakes",Rear Suspension,Multi-link suspension
+Jeep,Compass,2.0 Sport,"Suspension, Steering & Brakes",Steering Type,Electric
+Jeep,Compass,2.0 Sport,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Jeep,Compass,2.0 Sport,"Suspension, Steering & Brakes",Steering Gear Type,Rack & Pinion
+Jeep,Compass,2.0 Sport,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Jeep,Compass,2.0 Sport,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Jeep,Compass,2.0 Sport,Dimensions & Capacity,Length,4405 mm
+Jeep,Compass,2.0 Sport,Dimensions & Capacity,Width,1818 mm
+Jeep,Compass,2.0 Sport,Dimensions & Capacity,Height,1640 mm
+Jeep,Compass,2.0 Sport,Dimensions & Capacity,Seating Capacity,5
+Jeep,Compass,2.0 Sport,Dimensions & Capacity,Wheel Base,2636 mm
+Jeep,Compass,2.0 Sport,Dimensions & Capacity,Reported Boot Space,438 Litres
+Jeep,Compass,2.0 Sport,Comfort & Convenience,Boot Opening,Manual
+Jeep,Compass,2.0 Sport,Comfort & Convenience,Power Steering,YES
+Jeep,Compass,2.0 Sport,Comfort & Convenience,Air Conditioner,YES
+Jeep,Compass,2.0 Sport,Comfort & Convenience,Heater,YES
+Jeep,Compass,2.0 Sport,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Jeep,Compass,2.0 Sport,Comfort & Convenience,Ventilated Seats,NO
+Jeep,Compass,2.0 Sport,Comfort & Convenience,Electric Adjustable Seats,NO
+Jeep,Compass,2.0 Sport,Comfort & Convenience,Automatic Climate Control,NO
+Jeep,Compass,2.0 Sport,Comfort & Convenience,Accessory Power Outlet,YES
+Jeep,Compass,2.0 Sport,Comfort & Convenience,Adjustable Headrest,YES
+Jeep,Compass,2.0 Sport,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Jeep,Compass,2.0 Sport,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Jeep,Compass,2.0 Sport,Comfort & Convenience,Rear AC Vents,YES
+Jeep,Compass,2.0 Sport,Comfort & Convenience,Cruise Control,NO
+Jeep,Compass,2.0 Sport,Comfort & Convenience,Parking Sensors,Rear
+Jeep,Compass,2.0 Sport,Comfort & Convenience,Real-Time Vehicle Tracking,NO
+Jeep,Compass,2.0 Sport,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Jeep,Compass,2.0 Sport,Comfort & Convenience,KeyLess Entry,YES
+Jeep,Compass,2.0 Sport,Comfort & Convenience,Engine Start/Stop Button,NO
+Jeep,Compass,2.0 Sport,Comfort & Convenience,Voice Commands,NO
+Jeep,Compass,2.0 Sport,Comfort & Convenience,USB Charger,Front & Rear
+Jeep,Compass,2.0 Sport,Comfort & Convenience,Central Console Armrest,With Storage
+Jeep,Compass,2.0 Sport,Comfort & Convenience,Idle Start-Stop System,YES
+Jeep,Compass,2.0 Sport,Interior,Leather Wrapped Steering Wheel,NO
+Jeep,Compass,2.0 Sport,Interior,Glove Box,YES
+Jeep,Compass,2.0 Sport,Interior,Digital Cluster,YES
+Jeep,Compass,2.0 Sport,Interior,Digital Cluster Size,7
+Jeep,Compass,2.0 Sport,Exterior,Adjustable Headlamps,YES
+Jeep,Compass,2.0 Sport,Exterior,Rain Sensing Wiper,NO
+Jeep,Compass,2.0 Sport,Exterior,Rear Window Wiper,YES
+Jeep,Compass,2.0 Sport,Exterior,Rear Window Washer,YES
+Jeep,Compass,2.0 Sport,Exterior,Rear Window Defogger,YES
+Jeep,Compass,2.0 Sport,Exterior,Rear Spoiler,YES
+Jeep,Compass,2.0 Sport,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Jeep,Compass,2.0 Sport,Exterior,Projector Headlamps,NO
+Jeep,Compass,2.0 Sport,Exterior,Cornering Foglamps,NO
+Jeep,Compass,2.0 Sport,Exterior,Roof Rails,NO
+Jeep,Compass,2.0 Sport,Exterior,Automatic Headlamps,NO
+Jeep,Compass,2.0 Sport,Exterior,Fog Lights,NO
+Jeep,Compass,2.0 Sport,Exterior,Antenna,Shark Fin
+Jeep,Compass,2.0 Sport,Exterior,Sunroof,NO
+Jeep,Compass,2.0 Sport,Exterior,Outside Rear View Mirror (ORVM),Powered
+Jeep,Compass,2.0 Sport,Exterior,Wheels Type,Alloy
+Jeep,Compass,2.0 Sport,Exterior,Tyre Size,255/55 R17
+Jeep,Compass,2.0 Sport,Exterior,Tyre Type,"Tubeless, Radial"
+Jeep,Compass,2.0 Sport,Exterior,LED DRLs,YES
+Jeep,Compass,2.0 Sport,Exterior,LED Headlamps,YES
+Jeep,Compass,2.0 Sport,Exterior,LED Taillights,YES
+Jeep,Compass,2.0 Sport,Exterior,LED Fog Lamps,NO
+Jeep,Compass,2.0 Sport,Safety,Anti-lock Braking System (ABS),YES
+Jeep,Compass,2.0 Sport,Safety,Central Locking,YES
+Jeep,Compass,2.0 Sport,Safety,Child Safety Locks,YES
+Jeep,Compass,2.0 Sport,Safety,Anti-Theft Alarm,YES
+Jeep,Compass,2.0 Sport,Safety,No. of Airbags,6
+Jeep,Compass,2.0 Sport,Safety,Driver Airbag,YES
+Jeep,Compass,2.0 Sport,Safety,Passenger Airbag,YES
+Jeep,Compass,2.0 Sport,Safety,Side Airbag,YES
+Jeep,Compass,2.0 Sport,Safety,Side Airbag-Rear,NO
+Jeep,Compass,2.0 Sport,Safety,Day & Night Rear View Mirror,YES
+Jeep,Compass,2.0 Sport,Safety,Electronic Brakeforce Distribution (EBD),YES
+Jeep,Compass,2.0 Sport,Safety,Traction Control,YES
+Jeep,Compass,2.0 Sport,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Jeep,Compass,2.0 Sport,Safety,Engine Immobilizer,YES
+Jeep,Compass,2.0 Sport,Safety,Electronic Stability Control (ESC),YES
+Jeep,Compass,2.0 Sport,Safety,Rear Camera,With Guidedlines
+Jeep,Compass,2.0 Sport,Safety,Anti-Theft Device,YES
+Jeep,Compass,2.0 Sport,Safety,ISOFIX Child Seat Mounts,YES
+Jeep,Compass,2.0 Sport,Safety,Hill Descent Control,NO
+Jeep,Compass,2.0 Sport,Safety,Hill Assist,YES
+Jeep,Compass,2.0 Sport,Safety,360 View Camera,NO
+Jeep,Compass,2.0 Sport,Safety,Global NCAP Safety Rating,5 Star
+Jeep,Compass,2.0 Sport,Entertainment & Communication,Radio,YES
+Jeep,Compass,2.0 Sport,Entertainment & Communication,Wireless Phone Charging,NO
+Jeep,Compass,2.0 Sport,Entertainment & Communication,Bluetooth Connectivity,YES
+Jeep,Compass,2.0 Sport,Entertainment & Communication,Touchscreen,YES
+Jeep,Compass,2.0 Sport,Entertainment & Communication,Touchscreen Size,8.4 inch
+Jeep,Compass,2.0 Sport,Entertainment & Communication,Android Auto,YES
+Jeep,Compass,2.0 Sport,Entertainment & Communication,Apple CarPlay,YES
+Jeep,Compass,2.0 Sport,Entertainment & Communication,No. of Speakers,4
+Jeep,Compass,2.0 Sport,Entertainment & Communication,Usb Ports,YES
+Jeep,Compass,2.0 Sport,Entertainment & Communication,Additional Features,Wireless Android Auto & Apple Car Play
+Jeep,Compass,2.0 Sport,Entertainment & Communication,Speakers,Front & Rear
+Jeep,Compass,2.0 Sport,ADAS Feature,Forward Collision Warning,NO
+Jeep,Compass,2.0 Sport,ADAS Feature,Automatic Emergency Braking,NO
+Jeep,Compass,2.0 Sport,ADAS Feature,Oncoming Lane Mitigation,NO
+Jeep,Compass,2.0 Sport,ADAS Feature,Speed Assist System,NO
+Jeep,Compass,2.0 Sport,ADAS Feature,Traffic Sign Recognition,NO
+Jeep,Compass,2.0 Sport,ADAS Feature,Blind Spot Collision Avoidance Assist,NO
+Jeep,Compass,2.0 Sport,ADAS Feature,Lane Departure Warning,NO
+Jeep,Compass,2.0 Sport,ADAS Feature,Lane Keep Assist,NO
+Jeep,Compass,2.0 Sport,ADAS Feature,Lane Departure Prevention Assist,NO
+Jeep,Compass,2.0 Sport,ADAS Feature,Road Departure Mitigation System,NO
+Jeep,Compass,2.0 Sport,ADAS Feature,Driver Attention Warning,NO
+Jeep,Compass,2.0 Sport,ADAS Feature,Adaptive Cruise Control,NO
+Jeep,Compass,2.0 Sport,ADAS Feature,Leading Vehicle Departure Alert,NO
+Jeep,Compass,2.0 Sport,ADAS Feature,Adaptive High Beam Assist,NO
+Jeep,Compass,2.0 Sport,ADAS Feature,Rear Cross Traffic Alert,NO
+Jeep,Compass,2.0 Sport,ADAS Feature,Rear Cross Traffic Collision-Avoidance Assist,NO
+Jeep,Compass,2.0 Sport,Advance Internet Feature,Live Location,NO
+Jeep,Compass,2.0 Sport,Advance Internet Feature,Over the Air (OTA) Updates,NO
+Jeep,Compass,2.0 Sport,Advance Internet Feature,SOS Button,NO
+Jeep,Compass,2.0 Sport,Advance Internet Feature,RSA,NO
+Jeep,Compass,2.0 Sport,Advance Internet Feature,Over Speeding Alert,NO
+Jeep,Compass,2.0 Sport,Advance Internet Feature,Remote Door Lock/Unlock,NO
+Jeep,Compass,2.0 Sport,Advance Internet Feature,Remote Boot Open,NO
+Jeep,Compass,2.0 Sport,Advance Internet Feature,SOS / Emergency Assistance,NO
+Jeep,Compass,2.0 Sport,Advance Internet Feature,Geo-fence Alert,NO

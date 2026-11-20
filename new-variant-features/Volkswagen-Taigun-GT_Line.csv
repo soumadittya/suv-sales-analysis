@@ -1,0 +1,132 @@
+company,model,variant,category,feature_name,feature_details
+Volkswagen,Taigun,GT Line,Engine & Transmission,Engine Type,1.0L TSI
+Volkswagen,Taigun,GT Line,Engine & Transmission,Displacement,999 cc
+Volkswagen,Taigun,GT Line,Engine & Transmission,Max Power,114bhp@5000-5500rpm
+Volkswagen,Taigun,GT Line,Engine & Transmission,Max Torque,178Nm@1850-4000rpm
+Volkswagen,Taigun,GT Line,Engine & Transmission,No. of Cylinders,3
+Volkswagen,Taigun,GT Line,Engine & Transmission,Valves Per Cylinder,4
+Volkswagen,Taigun,GT Line,Engine & Transmission,Fuel Supply System,TSI
+Volkswagen,Taigun,GT Line,Engine & Transmission,Turbo Charger,YES
+Volkswagen,Taigun,GT Line,Engine & Transmission,Transmission Type,Manual
+Volkswagen,Taigun,GT Line,Engine & Transmission,Gearbox,6-Speed
+Volkswagen,Taigun,GT Line,Engine & Transmission,Drive Type,FWD
+Volkswagen,Taigun,GT Line,Fuel & Performance,Fuel Type,Petrol
+Volkswagen,Taigun,GT Line,Fuel & Performance,Petrol Mileage ARAI,19.98 kmpl
+Volkswagen,Taigun,GT Line,Fuel & Performance,Petrol Fuel Tank Capacity,50 Litres
+Volkswagen,Taigun,GT Line,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Volkswagen,Taigun,GT Line,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Volkswagen,Taigun,GT Line,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Volkswagen,Taigun,GT Line,"Suspension, Steering & Brakes",Steering Type,Electric
+Volkswagen,Taigun,GT Line,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Volkswagen,Taigun,GT Line,"Suspension, Steering & Brakes",Steering Gear Type,Rack & Pinion
+Volkswagen,Taigun,GT Line,"Suspension, Steering & Brakes",Turning Radius,5.05 m
+Volkswagen,Taigun,GT Line,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Volkswagen,Taigun,GT Line,"Suspension, Steering & Brakes",Rear Brake Type,Drum
+Volkswagen,Taigun,GT Line,"Suspension, Steering & Brakes",Boot Space Rear Seat Folding,1405 Litres
+Volkswagen,Taigun,GT Line,Dimensions & Capacity,Length,4221 mm
+Volkswagen,Taigun,GT Line,Dimensions & Capacity,Width,1760 mm
+Volkswagen,Taigun,GT Line,Dimensions & Capacity,Height,1612 mm
+Volkswagen,Taigun,GT Line,Dimensions & Capacity,Boot Space,385 Litres
+Volkswagen,Taigun,GT Line,Dimensions & Capacity,Seating Capacity,5
+Volkswagen,Taigun,GT Line,Dimensions & Capacity,Wheel Base,2651 mm
+Volkswagen,Taigun,GT Line,Dimensions & Capacity,Kerb Weight,1241 kg
+Volkswagen,Taigun,GT Line,Dimensions & Capacity,Gross Weight,1643 kg
+Volkswagen,Taigun,GT Line,Comfort & Convenience,Power Steering,YES
+Volkswagen,Taigun,GT Line,Comfort & Convenience,Air Conditioner,YES
+Volkswagen,Taigun,GT Line,Comfort & Convenience,Heater,YES
+Volkswagen,Taigun,GT Line,Comfort & Convenience,Adjustable Steering,Height & Reach
+Volkswagen,Taigun,GT Line,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Volkswagen,Taigun,GT Line,Comfort & Convenience,Ventilated Seats,NO
+Volkswagen,Taigun,GT Line,Comfort & Convenience,Electric Adjustable Seats,NO
+Volkswagen,Taigun,GT Line,Comfort & Convenience,Automatic Climate Control,YES
+Volkswagen,Taigun,GT Line,Comfort & Convenience,Accessory Power Outlet,YES
+Volkswagen,Taigun,GT Line,Comfort & Convenience,Adjustable Headrest,YES
+Volkswagen,Taigun,GT Line,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Volkswagen,Taigun,GT Line,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Volkswagen,Taigun,GT Line,Comfort & Convenience,Rear AC Vents,YES
+Volkswagen,Taigun,GT Line,Comfort & Convenience,Cruise Control,NO
+Volkswagen,Taigun,GT Line,Comfort & Convenience,Parking Sensors,Front & Rear
+Volkswagen,Taigun,GT Line,Comfort & Convenience,Real-Time Vehicle Tracking,NO
+Volkswagen,Taigun,GT Line,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Volkswagen,Taigun,GT Line,Comfort & Convenience,KeyLess Entry,YES
+Volkswagen,Taigun,GT Line,Comfort & Convenience,Engine Start/Stop Button,YES
+Volkswagen,Taigun,GT Line,Comfort & Convenience,Voice Commands,YES
+Volkswagen,Taigun,GT Line,Comfort & Convenience,Paddle Shifters,NO
+Volkswagen,Taigun,GT Line,Comfort & Convenience,USB Charger,Front & Rear
+Volkswagen,Taigun,GT Line,Comfort & Convenience,Central Console Armrest,With Storage
+Volkswagen,Taigun,GT Line,Comfort & Convenience,Gear Shift Indicator,YES
+Volkswagen,Taigun,GT Line,Comfort & Convenience,Idle Start-Stop System,YES
+Volkswagen,Taigun,GT Line,Comfort & Convenience,Follow Me Home Headlamps,YES
+Volkswagen,Taigun,GT Line,Comfort & Convenience,Additional Features,Rear parcel tray
+Volkswagen,Taigun,GT Line,Comfort & Convenience,Power Windows,Front & Rear
+Volkswagen,Taigun,GT Line,Interior,Glove Box,YES
+Volkswagen,Taigun,GT Line,Interior,Lighting,Ambient light
+Volkswagen,Taigun,GT Line,Interior,Digital Cluster,YES
+Volkswagen,Taigun,GT Line,Interior,Digital Cluster Size,8
+Volkswagen,Taigun,GT Line,Interior,Upholstery,Fabric
+Volkswagen,Taigun,GT Line,Exterior,Adjustable Headlamps,YES
+Volkswagen,Taigun,GT Line,Exterior,Rain Sensing Wiper,YES
+Volkswagen,Taigun,GT Line,Exterior,Rear Window Wiper,YES
+Volkswagen,Taigun,GT Line,Exterior,Rear Window Washer,YES
+Volkswagen,Taigun,GT Line,Exterior,Rear Window Defogger,YES
+Volkswagen,Taigun,GT Line,Exterior,Wheel Covers,NO
+Volkswagen,Taigun,GT Line,Exterior,Alloy Wheels,YES
+Volkswagen,Taigun,GT Line,Exterior,Rear Spoiler,YES
+Volkswagen,Taigun,GT Line,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Volkswagen,Taigun,GT Line,Exterior,Cornering Headlamps,YES
+Volkswagen,Taigun,GT Line,Exterior,Roof Rails,YES
+Volkswagen,Taigun,GT Line,Exterior,Automatic Headlamps,YES
+Volkswagen,Taigun,GT Line,Exterior,Fog Lights,Rear
+Volkswagen,Taigun,GT Line,Exterior,Antenna,Shark Fin
+Volkswagen,Taigun,GT Line,Exterior,Sunroof,Single Pane
+Volkswagen,Taigun,GT Line,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Volkswagen,Taigun,GT Line,Exterior,Tyre Size,205/55 R17
+Volkswagen,Taigun,GT Line,Exterior,Tyre Type,Radial Tubeless
+Volkswagen,Taigun,GT Line,Exterior,Wheel Size,17 Inch
+Volkswagen,Taigun,GT Line,Exterior,LED DRLs,YES
+Volkswagen,Taigun,GT Line,Exterior,LED Headlamps,YES
+Volkswagen,Taigun,GT Line,Exterior,LED Taillights,YES
+Volkswagen,Taigun,GT Line,Safety,Anti-lock Braking System (ABS),YES
+Volkswagen,Taigun,GT Line,Safety,Brake Assist,YES
+Volkswagen,Taigun,GT Line,Safety,Central Locking,YES
+Volkswagen,Taigun,GT Line,Safety,Child Safety Locks,YES
+Volkswagen,Taigun,GT Line,Safety,No. of Airbags,6
+Volkswagen,Taigun,GT Line,Safety,Driver Airbag,YES
+Volkswagen,Taigun,GT Line,Safety,Passenger Airbag,YES
+Volkswagen,Taigun,GT Line,Safety,Side Airbag,YES
+Volkswagen,Taigun,GT Line,Safety,Side Airbag-Rear,NO
+Volkswagen,Taigun,GT Line,Safety,Day & Night Rear View Mirror,YES
+Volkswagen,Taigun,GT Line,Safety,Electronic Brakeforce Distribution (EBD),YES
+Volkswagen,Taigun,GT Line,Safety,Traction Control,YES
+Volkswagen,Taigun,GT Line,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Volkswagen,Taigun,GT Line,Safety,Engine Immobilizer,YES
+Volkswagen,Taigun,GT Line,Safety,Electronic Stability Control (ESC),YES
+Volkswagen,Taigun,GT Line,Safety,Rear Camera,With Guidedlines
+Volkswagen,Taigun,GT Line,Safety,Anti-Pinch Power Windows,Driver's Window
+Volkswagen,Taigun,GT Line,Safety,ISOFIX Child Seat Mounts,YES
+Volkswagen,Taigun,GT Line,Safety,Hill Assist,NO
+Volkswagen,Taigun,GT Line,Safety,Global NCAP Safety Rating,5 Star
+Volkswagen,Taigun,GT Line,Safety,Global NCAP Child Safety Rating,5 Star
+Volkswagen,Taigun,GT Line,Entertainment & Communication,Radio,YES
+Volkswagen,Taigun,GT Line,Entertainment & Communication,Wireless Phone Charging,YES
+Volkswagen,Taigun,GT Line,Entertainment & Communication,Bluetooth Connectivity,YES
+Volkswagen,Taigun,GT Line,Entertainment & Communication,Touchscreen,YES
+Volkswagen,Taigun,GT Line,Entertainment & Communication,Touchscreen Size,10.1 inch
+Volkswagen,Taigun,GT Line,Entertainment & Communication,Android Auto,YES
+Volkswagen,Taigun,GT Line,Entertainment & Communication,Apple CarPlay,YES
+Volkswagen,Taigun,GT Line,Entertainment & Communication,No. of Speakers,6
+Volkswagen,Taigun,GT Line,Entertainment & Communication,Usb Ports,YES
+Volkswagen,Taigun,GT Line,Entertainment & Communication,Inbuilt Apps,YouTube | Amazon Music | Spotify
+Volkswagen,Taigun,GT Line,Entertainment & Communication,Additional Features,Wireless1) App-Connect with Android AutoTM
+Volkswagen,Taigun,GT Line,Entertainment & Communication,Speakers,Front & Rear
+Volkswagen,Taigun,GT Line,Advance Internet Feature,Live Location,NO
+Volkswagen,Taigun,GT Line,Advance Internet Feature,PUC Expiry,NO
+Volkswagen,Taigun,GT Line,Advance Internet Feature,Insurance Expiry,NO
+Volkswagen,Taigun,GT Line,Advance Internet Feature,Inbuilt Assistant,NO
+Volkswagen,Taigun,GT Line,Advance Internet Feature,E-Call & I-Call,NO
+Volkswagen,Taigun,GT Line,Advance Internet Feature,Save Route/Place,NO
+Volkswagen,Taigun,GT Line,Advance Internet Feature,SOS Button,NO
+Volkswagen,Taigun,GT Line,Advance Internet Feature,Valet Mode,YES
+Volkswagen,Taigun,GT Line,Advance Internet Feature,SOS / Emergency Assistance,NO
+Volkswagen,Taigun,GT Line,Advance Internet Feature,Geo-fence Alert,NO
+Volkswagen,Taigun,GT Line,Advance Internet Feature,Inbuilt APPs,NO

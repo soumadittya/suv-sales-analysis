@@ -1,0 +1,73 @@
+company,model,variant,category,feature_name,feature_details
+Mini,Countryman C,Std,Engine & Transmission,Displacement,1499 cc
+Mini,Countryman C,Std,Engine & Transmission,Max Power,154.21bhp
+Mini,Countryman C,Std,Engine & Transmission,Max Torque,240Nm
+Mini,Countryman C,Std,Engine & Transmission,Transmission Type,Automatic
+Mini,Countryman C,Std,Engine & Transmission,Gearbox,7-Speed
+Mini,Countryman C,Std,Engine & Transmission,Drive Type,FWD
+Mini,Countryman C,Std,Fuel & Performance,Fuel Type,Petrol
+Mini,Countryman C,Std,Fuel & Performance,Petrol Mileage ARAI,15.92 kmpl
+Mini,Countryman C,Std,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Mini,Countryman C,Std,Fuel & Performance,Top Speed,212 kmph
+Mini,Countryman C,Std,Fuel & Performance,Acceleration,9 s
+Mini,Countryman C,Std,Fuel & Performance,0-100kmph,9 s
+Mini,Countryman C,Std,"Suspension, Steering & Brakes",Boot Space Rear Seat Folding,1450 Litres
+Mini,Countryman C,Std,Dimensions & Capacity,Length,4447 mm
+Mini,Countryman C,Std,Dimensions & Capacity,Width,1843 mm
+Mini,Countryman C,Std,Dimensions & Capacity,Height,1661 mm
+Mini,Countryman C,Std,Dimensions & Capacity,Boot Space,505 Litres
+Mini,Countryman C,Std,Dimensions & Capacity,Seating Capacity,5
+Mini,Countryman C,Std,Dimensions & Capacity,Ground Clearance Unladen,190 mm
+Mini,Countryman C,Std,Dimensions & Capacity,Wheel Base,2692 mm
+Mini,Countryman C,Std,Comfort & Convenience,Power Steering,YES
+Mini,Countryman C,Std,Comfort & Convenience,Air Conditioner,YES
+Mini,Countryman C,Std,Comfort & Convenience,Heater,YES
+Mini,Countryman C,Std,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Mini,Countryman C,Std,Comfort & Convenience,Electric Adjustable Seats,Front Only
+Mini,Countryman C,Std,Comfort & Convenience,Accessory Power Outlet,YES
+Mini,Countryman C,Std,Comfort & Convenience,Adjustable Headrest,YES
+Mini,Countryman C,Std,Comfort & Convenience,Parking Sensors,Front & Rear
+Mini,Countryman C,Std,Comfort & Convenience,KeyLess Entry,YES
+Mini,Countryman C,Std,Comfort & Convenience,Voice Commands,YES
+Mini,Countryman C,Std,Interior,Glove Box,YES
+Mini,Countryman C,Std,Interior,Upholstery,Leatherette
+Mini,Countryman C,Std,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Mini,Countryman C,Std,Exterior,Halogen Headlamps,NO
+Mini,Countryman C,Std,Exterior,Roof Rails,YES
+Mini,Countryman C,Std,Exterior,Antenna,Shark Fin
+Mini,Countryman C,Std,Exterior,Sunroof,Panoramic
+Mini,Countryman C,Std,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Mini,Countryman C,Std,Exterior,Exterior Camera,360° Camera
+Mini,Countryman C,Std,Exterior,Wheel Size,19 Inch
+Mini,Countryman C,Std,Exterior,LED Headlamps,YES
+Mini,Countryman C,Std,Safety,Central Locking,YES
+Mini,Countryman C,Std,Safety,Child Safety Locks,YES
+Mini,Countryman C,Std,Safety,Anti-Theft Alarm,YES
+Mini,Countryman C,Std,Safety,Day & Night Rear View Mirror,YES
+Mini,Countryman C,Std,Safety,Heads-Up Display (HUD),YES
+Mini,Countryman C,Std,Safety,360 View Camera,YES
+Mini,Countryman C,Std,Entertainment & Communication,Radio,YES
+Mini,Countryman C,Std,Entertainment & Communication,Wireless Phone Charging,YES
+Mini,Countryman C,Std,Entertainment & Communication,Bluetooth Connectivity,YES
+Mini,Countryman C,Std,Entertainment & Communication,Touchscreen,YES
+Mini,Countryman C,Std,Entertainment & Communication,Android Auto,YES
+Mini,Countryman C,Std,Entertainment & Communication,Apple CarPlay,YES
+Mini,Countryman C,Std,Entertainment & Communication,No. of Speakers,12
+Mini,Countryman C,Std,Entertainment & Communication,Usb Ports,YES
+Mini,Countryman C,Std,Entertainment & Communication,Speakers,Front & Rear
+Mini,Countryman C,Std,ADAS Feature,Forward Collision Warning,YES
+Mini,Countryman C,Std,ADAS Feature,Speed Assist System,YES
+Mini,Countryman C,Std,ADAS Feature,Lane Departure Warning,YES
+Mini,Countryman C,Std,ADAS Feature,Driver Attention Warning,YES
+Mini,Countryman C,Std,Advance Internet Feature,Live Location,YES
+Mini,Countryman C,Std,Advance Internet Feature,Remote Vehicle Status Check,YES
+Mini,Countryman C,Std,Advance Internet Feature,Inbuilt Assistant,YES
+Mini,Countryman C,Std,Advance Internet Feature,Live Weather,YES
+Mini,Countryman C,Std,Advance Internet Feature,E-Call & I-Call,YES
+Mini,Countryman C,Std,Advance Internet Feature,Over the Air (OTA) Updates,YES
+Mini,Countryman C,Std,Advance Internet Feature,Over Speeding Alert,YES
+Mini,Countryman C,Std,Advance Internet Feature,In Car Remote Control App,YES
+Mini,Countryman C,Std,Advance Internet Feature,Remote AC On/Off,YES
+Mini,Countryman C,Std,Advance Internet Feature,Remote Door Lock/Unlock,YES
+Mini,Countryman C,Std,Advance Internet Feature,SOS / Emergency Assistance,YES
+Mini,Countryman C,Std,Advance Internet Feature,Inbuilt APPs,Intelligent Personal Assistant

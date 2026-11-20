@@ -1,0 +1,94 @@
+company,model,variant,category,feature_name,feature_details
+Maruti Suzuki,Jimny,Zeta AT,Engine & Transmission,Engine Type,K15B
+Maruti Suzuki,Jimny,Zeta AT,Engine & Transmission,Displacement,1462 cc
+Maruti Suzuki,Jimny,Zeta AT,Engine & Transmission,Max Power,103bhp@6000rpm
+Maruti Suzuki,Jimny,Zeta AT,Engine & Transmission,Max Torque,134.2Nm@4000rpm
+Maruti Suzuki,Jimny,Zeta AT,Engine & Transmission,No. of Cylinders,4
+Maruti Suzuki,Jimny,Zeta AT,Engine & Transmission,Valves Per Cylinder,4
+Maruti Suzuki,Jimny,Zeta AT,Engine & Transmission,Fuel Supply System,Multipoint Injection
+Maruti Suzuki,Jimny,Zeta AT,Engine & Transmission,Transmission Type,Automatic
+Maruti Suzuki,Jimny,Zeta AT,Engine & Transmission,Gearbox,4-Speed
+Maruti Suzuki,Jimny,Zeta AT,Engine & Transmission,Drive Type,4WD
+Maruti Suzuki,Jimny,Zeta AT,Fuel & Performance,Fuel Type,Petrol
+Maruti Suzuki,Jimny,Zeta AT,Fuel & Performance,Petrol Mileage ARAI,16.39 kmpl
+Maruti Suzuki,Jimny,Zeta AT,Fuel & Performance,Petrol Fuel Tank Capacity,40 Litres
+Maruti Suzuki,Jimny,Zeta AT,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Maruti Suzuki,Jimny,Zeta AT,Fuel & Performance,Top Speed,155 kmph
+Maruti Suzuki,Jimny,Zeta AT,"Suspension, Steering & Brakes",Front Suspension,"Multi-link, Solid Axle"
+Maruti Suzuki,Jimny,Zeta AT,"Suspension, Steering & Brakes",Rear Suspension,"Multi-link, Solid Axle"
+Maruti Suzuki,Jimny,Zeta AT,"Suspension, Steering & Brakes",Steering Type,Electric
+Maruti Suzuki,Jimny,Zeta AT,"Suspension, Steering & Brakes",Steering Column,Tilt
+Maruti Suzuki,Jimny,Zeta AT,"Suspension, Steering & Brakes",Turning Radius,5.7 m
+Maruti Suzuki,Jimny,Zeta AT,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Maruti Suzuki,Jimny,Zeta AT,"Suspension, Steering & Brakes",Rear Brake Type,Drum
+Maruti Suzuki,Jimny,Zeta AT,Dimensions & Capacity,Length,3985 mm
+Maruti Suzuki,Jimny,Zeta AT,Dimensions & Capacity,Width,1645 mm
+Maruti Suzuki,Jimny,Zeta AT,Dimensions & Capacity,Height,1720 mm
+Maruti Suzuki,Jimny,Zeta AT,Dimensions & Capacity,Boot Space,211 Litres
+Maruti Suzuki,Jimny,Zeta AT,Dimensions & Capacity,Seating Capacity,4
+Maruti Suzuki,Jimny,Zeta AT,Dimensions & Capacity,Ground Clearance Unladen,210 mm
+Maruti Suzuki,Jimny,Zeta AT,Dimensions & Capacity,Wheel Base,2590 mm
+Maruti Suzuki,Jimny,Zeta AT,Dimensions & Capacity,Front Tread,1395 mm
+Maruti Suzuki,Jimny,Zeta AT,Dimensions & Capacity,Rear Tread,1405 mm
+Maruti Suzuki,Jimny,Zeta AT,Dimensions & Capacity,Kerb Weight,1210 kg
+Maruti Suzuki,Jimny,Zeta AT,Dimensions & Capacity,Gross Weight,1545 kg
+Maruti Suzuki,Jimny,Zeta AT,Dimensions & Capacity,Approach Angle,36°
+Maruti Suzuki,Jimny,Zeta AT,Dimensions & Capacity,Break-over Angle,24°
+Maruti Suzuki,Jimny,Zeta AT,Dimensions & Capacity,Departure Angle,46°
+Maruti Suzuki,Jimny,Zeta AT,Comfort & Convenience,Boot Opening,Manual
+Maruti Suzuki,Jimny,Zeta AT,Comfort & Convenience,Power Steering,YES
+Maruti Suzuki,Jimny,Zeta AT,Comfort & Convenience,Air Conditioner,YES
+Maruti Suzuki,Jimny,Zeta AT,Comfort & Convenience,Heater,YES
+Maruti Suzuki,Jimny,Zeta AT,Comfort & Convenience,Adjustable Steering,Height only
+Maruti Suzuki,Jimny,Zeta AT,Comfort & Convenience,Automatic Climate Control,NO
+Maruti Suzuki,Jimny,Zeta AT,Comfort & Convenience,Accessory Power Outlet,YES
+Maruti Suzuki,Jimny,Zeta AT,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Maruti Suzuki,Jimny,Zeta AT,Comfort & Convenience,Adjustable Headrest,YES
+Maruti Suzuki,Jimny,Zeta AT,Comfort & Convenience,Cruise Control,NO
+Maruti Suzuki,Jimny,Zeta AT,Comfort & Convenience,Parking Sensors,Rear
+Maruti Suzuki,Jimny,Zeta AT,Comfort & Convenience,Engine Start/Stop Button,NO
+Maruti Suzuki,Jimny,Zeta AT,Comfort & Convenience,Idle Start-Stop System,YES
+Maruti Suzuki,Jimny,Zeta AT,Comfort & Convenience,Power Windows,Front & Rear
+Maruti Suzuki,Jimny,Zeta AT,Interior,Leather Wrapped Steering Wheel,NO
+Maruti Suzuki,Jimny,Zeta AT,Interior,Glove Box,YES
+Maruti Suzuki,Jimny,Zeta AT,Interior,Digital Cluster,YES
+Maruti Suzuki,Jimny,Zeta AT,Interior,Upholstery,Fabric
+Maruti Suzuki,Jimny,Zeta AT,Exterior,Adjustable Headlamps,YES
+Maruti Suzuki,Jimny,Zeta AT,Exterior,Headlamp Washers,NO
+Maruti Suzuki,Jimny,Zeta AT,Exterior,Rear Window Wiper,YES
+Maruti Suzuki,Jimny,Zeta AT,Exterior,Rear Window Washer,YES
+Maruti Suzuki,Jimny,Zeta AT,Exterior,Rear Window Defogger,YES
+Maruti Suzuki,Jimny,Zeta AT,Exterior,Halogen Headlamps,YES
+Maruti Suzuki,Jimny,Zeta AT,Exterior,Automatic Headlamps,NO
+Maruti Suzuki,Jimny,Zeta AT,Exterior,Outside Rear View Mirror (ORVM),Powered
+Maruti Suzuki,Jimny,Zeta AT,Exterior,Tyre Size,195/80 R15
+Maruti Suzuki,Jimny,Zeta AT,Exterior,Tyre Type,Radial Tubeless
+Maruti Suzuki,Jimny,Zeta AT,Exterior,Wheel Size,15 Inch
+Maruti Suzuki,Jimny,Zeta AT,Exterior,LED Headlamps,NO
+Maruti Suzuki,Jimny,Zeta AT,Exterior,LED Fog Lamps,NO
+Maruti Suzuki,Jimny,Zeta AT,Safety,Anti-lock Braking System (ABS),YES
+Maruti Suzuki,Jimny,Zeta AT,Safety,Brake Assist,YES
+Maruti Suzuki,Jimny,Zeta AT,Safety,Central Locking,YES
+Maruti Suzuki,Jimny,Zeta AT,Safety,No. of Airbags,6
+Maruti Suzuki,Jimny,Zeta AT,Safety,Driver Airbag,YES
+Maruti Suzuki,Jimny,Zeta AT,Safety,Passenger Airbag,YES
+Maruti Suzuki,Jimny,Zeta AT,Safety,Side Airbag,YES
+Maruti Suzuki,Jimny,Zeta AT,Safety,Day & Night Rear View Mirror,YES
+Maruti Suzuki,Jimny,Zeta AT,Safety,Electronic Brakeforce Distribution (EBD),YES
+Maruti Suzuki,Jimny,Zeta AT,Safety,Traction Control,YES
+Maruti Suzuki,Jimny,Zeta AT,Safety,Engine Immobilizer,YES
+Maruti Suzuki,Jimny,Zeta AT,Safety,Electronic Stability Control (ESC),YES
+Maruti Suzuki,Jimny,Zeta AT,Safety,Rear Camera,With Guidedlines
+Maruti Suzuki,Jimny,Zeta AT,Safety,Anti-Pinch Power Windows,Driver's Window
+Maruti Suzuki,Jimny,Zeta AT,Safety,ISOFIX Child Seat Mounts,YES
+Maruti Suzuki,Jimny,Zeta AT,Safety,Hill Descent Control,YES
+Maruti Suzuki,Jimny,Zeta AT,Safety,Hill Assist,YES
+Maruti Suzuki,Jimny,Zeta AT,Entertainment & Communication,Radio,YES
+Maruti Suzuki,Jimny,Zeta AT,Entertainment & Communication,Bluetooth Connectivity,YES
+Maruti Suzuki,Jimny,Zeta AT,Entertainment & Communication,Touchscreen,YES
+Maruti Suzuki,Jimny,Zeta AT,Entertainment & Communication,Touchscreen Size,7 inch
+Maruti Suzuki,Jimny,Zeta AT,Entertainment & Communication,Android Auto,YES
+Maruti Suzuki,Jimny,Zeta AT,Entertainment & Communication,Apple CarPlay,YES
+Maruti Suzuki,Jimny,Zeta AT,Entertainment & Communication,No. of Speakers,4
+Maruti Suzuki,Jimny,Zeta AT,Entertainment & Communication,Usb Ports,YES
+Maruti Suzuki,Jimny,Zeta AT,Entertainment & Communication,Speakers,Front & Rear
