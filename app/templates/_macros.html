@@ -1,0 +1,27 @@
+{# Small pieces shared by the pages. Names follow the design system's components. #}
+
+{% macro badge(name, difference=none, show_difference=true) -%}
+  {%- if name is string -%}
+    <span class="vg-badge vg-badge--{{ badge_class.get(name, 'unknown') }}">{{ name }}
+      {%- set text = difference|difference_text if show_difference else "" -%}
+      {%- if text %} <span>{{ text }}</span>{% endif -%}
+    </span>
+  {%- endif -%}
+{%- endmacro %}
+
+{% macro sweet() -%}<span class="vg-badge vg-badge--sweet">Sweet spot</span>{%- endmacro %}
+
+{% macro result_row(r, note="") -%}
+<li class="vg-result">
+  <div class="vg-result-main">
+    <a class="vg-result-name" href="/variant/{{ r.slug }}">{{ r.name }}</a>
+    <span class="vg-result-meta">{{ r|meta_line }}{% if r.sweet_spot %} · {{ sweet() }}{% endif %}</span>
+    {% if note %}<span class="vg-result-meta">{{ note }}</span>{% endif %}
+    {% if r.beaten_slug %}<span class="vg-result-meta">At least as good and {% if r.saving > 0 %}{{ r.saving|lakh }} cheaper{% else %}the same price{% endif %}: <a href="/variant/{{ r.beaten_slug }}">{{ r.beaten_name }}</a></span>{% endif %}
+  </div>
+  <div class="vg-result-side">
+    <span class="vg-result-price">{{ r.ex_showroom_price|lakh }}</span>
+    {{ badge(r.badge, r.difference_pct) }}
+  </div>
+</li>
+{%- endmacro %}

@@ -1,5 +1,5 @@
 """Scrape the specs & features table of every CarDekho variant page listed in
-new_variant_links.csv and save one CSV per variant in new-variant-features/.
+data/new_variant_links.csv and save one CSV per variant in data/new-variant-features/.
 
 Each output file is named <company>-<model>-<variant>.csv (hyphens/spaces inside a
 name become "_") and has the columns:
@@ -8,10 +8,11 @@ Tick / cross icons on CarDekho are stored as YES / NO.
 
 Only the Python standard library is used. Re-running skips variants whose CSV
 already exists (use --force to re-scrape), so an interrupted run can be resumed.
+File paths default to the data/ folder next to scrapers/, so it runs from any folder.
 
-Usage:
-    python3 new_variant_features_scraper.py                # scrape everything
-    python3 new_variant_features_scraper.py --limit 5      # quick test
+Usage (from the project folder):
+    python3 scrapers/new_variant_features_scraper.py             # scrape everything
+    python3 scrapers/new_variant_features_scraper.py --limit 5   # quick test
 """
 import argparse
 import csv
@@ -26,6 +27,9 @@ import urllib.error
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from html.parser import HTMLParser
+
+# Default file locations: the data/ folder next to the scrapers/ folder.
+DATA_DIR = os.path.normpath(os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'data'))
 
 USER_AGENT = ('Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 '
               '(KHTML, like Gecko) Chrome/130.0 Safari/537.36')
@@ -231,9 +235,9 @@ def write_log(path, results):
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument('--links', default='new_variant_links.csv')
-    ap.add_argument('--out', default='new-variant-features')
-    ap.add_argument('--log', default='new_variant_features_log.csv')
+    ap.add_argument('--links', default=os.path.join(DATA_DIR, 'new_variant_links.csv'))
+    ap.add_argument('--out', default=os.path.join(DATA_DIR, 'new-variant-features'))
+    ap.add_argument('--log', default=os.path.join(DATA_DIR, 'new_variant_features_log.csv'))
     ap.add_argument('--cache', default='', help='optional folder to keep gzipped raw HTML')
     ap.add_argument('--workers', type=int, default=3)
     ap.add_argument('--delay', type=float, default=1.0, help='base seconds to wait before each request')

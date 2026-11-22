@@ -1,0 +1,334 @@
+company,model,fuel_type,manual_variant,automatic_variant,gearbox_type,price_gap,extra_features_part,gearbox_part
+Citroen,Aircross X,Petrol,Turbo Max 7 Seater,Turbo Max AT 7 Seater,"Automatic, type not listed",117000,7300.0,109700.0
+Citroen,Aircross X,Petrol,Aircross Turbo Max,Aircross Turbo Max AT,"Automatic, type not listed",117000,7000.0,110000.0
+Citroen,Aircross X,Petrol,Turbo Max 7 Seater,Turbo Max AT 7 Seater DT,"Automatic, type not listed",137000,7300.0,129700.0
+Citroen,Basalt X,Petrol,Plus Turbo,Plus Turbo AT,"Automatic, type not listed",125000,0.0,125000.0
+Citroen,Basalt X,Petrol,Plus Turbo Comfort Edition,Plus Turbo AT Comfort Edition,"Automatic, type not listed",125000,0.0,125000.0
+Citroen,Basalt X,Petrol,Max Turbo,Max Turbo AT,"Automatic, type not listed",127000,0.0,127000.0
+Citroen,Basalt X,Petrol,Max Turbo,Max Turbo AT DT,"Automatic, type not listed",148000,0.0,148000.0
+Honda,Elevate,Petrol,V,V CVT,CVT,150000,31300.0,118700.0
+Honda,Elevate,Petrol,VX,VX CVT,CVT,146000,35400.0,110600.0
+Honda,Elevate,Petrol,ZX,ZX CVT,CVT,150000,39200.0,110800.0
+Honda,Elevate,Petrol,ZX Plus,ZX Plus CVT,CVT,150000,42800.0,107200.0
+Honda,Elevate,Petrol,ZX Plus,ZX Plus Black CVT,CVT,160000,42800.0,117200.0
+Hyundai,Alcazar,Diesel,Corporate Diesel,Corporate Diesel AT,"Automatic, type not listed",137000,57000.0,80000.0
+Hyundai,Alcazar,Diesel,Platinum Diesel,Platinum Diesel AT,Torque-converter AT,121162,0.0,121200.0
+Hyundai,Alcazar,Diesel,Platinum Diesel,Platinum Diesel AT DT,Torque-converter AT,135645,0.0,135600.0
+Hyundai,Alcazar,Petrol,Prestige,Prestige DCT,DCT,127000,55000.0,72000.0
+Hyundai,Alcazar,Petrol,Platinum,Platinum DCT,DCT,121162,0.0,121200.0
+Hyundai,Alcazar,Petrol,Platinum,Platinum DT DCT,DCT,135645,0.0,135600.0
+Hyundai,Creta,Diesel,King Diesel,King Diesel AT,Torque-converter AT,88000,32800.0,55200.0
+Hyundai,Creta,Diesel,EX (O) Diesel Summer Edition,EX (O) Diesel AT Summer Edition,Torque-converter AT,135500,0.0,135500.0
+Hyundai,Creta,Diesel,EX (O) Diesel Summer Edition,EX (O) Diesel AT,Torque-converter AT,145800,0.0,145800.0
+Hyundai,Creta,Diesel,S (O) Diesel Summer Edition,S (O) Diesel AT Summer Edition,Torque-converter AT,145000,27400.0,117600.0
+Hyundai,Creta,Diesel,S (O) Diesel Summer Edition,S (O) Diesel AT,Torque-converter AT,155800,27400.0,128400.0
+Hyundai,Creta,Diesel,King Diesel,King Diesel AT DT,Torque-converter AT,103000,32800.0,70200.0
+Hyundai,Creta,Petrol,EX (O) Summer Edition,EX (O) iVT Summer Edition,CVT,135500,0.0,135500.0
+Hyundai,Creta,Petrol,EX (O) Summer Edition,EX(O) iVT,CVT,136300,0.0,136300.0
+Hyundai,Creta,Petrol,S (O) Summer Edition,S (O) iVT Summer Edition,CVT,145000,24600.0,120400.0
+Hyundai,Creta,Petrol,S (O) Summer Edition,S (O) iVT,CVT,145800,24600.0,121200.0
+Hyundai,Creta,Petrol,SX Premium Summer Edition,SX Premium iVT Summer Edition,CVT,144500,28300.0,116200.0
+Hyundai,Creta,Petrol,SX Premium Summer Edition,SX Premium iVT,CVT,145300,28300.0,117000.0
+Hyundai,Creta,Petrol,SX Premium Summer Edition,SX Premium iVT DT,CVT,160300,28300.0,132000.0
+Hyundai,Creta,Petrol,King,King iVT,CVT,141000,30000.0,111000.0
+Hyundai,Creta,Petrol,King,King Knight iVT,CVT,155500,30000.0,125500.0
+Hyundai,Creta,Petrol,King,King iVT DT,CVT,156000,30000.0,126000.0
+Hyundai,Creta,Petrol,King,King Knight iVT DT,CVT,169200,30000.0,139200.0
+Hyundai,Creta N Line,Petrol,N10,N10 DCT,DCT,91690,33000.0,58700.0
+Hyundai,Creta N Line,Petrol,N10,N10 DCT Dual Tone,DCT,106690,33000.0,73700.0
+Hyundai,Exter,Petrol,HX3,HX3 AMT,AMT,65000,0.0,65000.0
+Hyundai,Exter,Petrol,HX6,HX6 AMT,AMT,60000,13900.0,46100.0
+Hyundai,Exter,Petrol,HX6,HX6 Knight AMT,AMT,74900,13900.0,61000.0
+Hyundai,Exter,Petrol,HX6,HX6 AMT DT,AMT,75000,13900.0,61100.0
+Hyundai,Exter,Petrol,HX8,HX8 AMT,AMT,72000,14600.0,57400.0
+Hyundai,Venue,Diesel,HX 5 Diesel,HX 5 Diesel AT,Torque-converter AT,94500,19100.0,75400.0
+Hyundai,Venue,Petrol,HX 5 Turbo,HX 5 Turbo DCT,DCT,101500,17200.0,84300.0
+Hyundai,Venue,Petrol,HX 8 Turbo,HX 8 Turbo DCT,DCT,108500,30400.0,78100.0
+Hyundai,Venue,Petrol,HX 8 Turbo,HX 8 Turbo DCT Dual Tone,DCT,126500,30400.0,96100.0
+Hyundai,Venue N Line,Petrol,N6,N6 DCT,DCT,90000,18500.0,71500.0
+Hyundai,Venue N Line,Petrol,N6,N6 DCT Dual Tone,DCT,108000,18500.0,89500.0
+Jeep,Compass,Diesel,Trail Edition,Trail Edition AT,Torque-converter AT,186000,12900.0,173100.0
+Jeep,Compass,Diesel,2.0 Longitude Opt,2.0 Longitude Opt AT,Torque-converter AT,207000,12800.0,194200.0
+Jeep,Meridian,Diesel,Longitude 4x2,Longitude 4x2 AT,Torque-converter AT,420000,12700.0,407300.0
+Jeep,Meridian,Diesel,Longitude Plus 4x2,Longitude Plus 4x2 AT,Torque-converter AT,309000,14300.0,294700.0
+Jeep,Meridian,Diesel,Trail Edition,Trail Edition AT,Torque-converter AT,247000,16500.0,230500.0
+Jeep,Meridian,Diesel,Limited Opt 4x2,Limited Opt 4x2 AT,Torque-converter AT,374000,16500.0,357500.0
+Kia,Seltos,Diesel,HTE (O) Diesel,HTE (O) Diesel AT,"Automatic, type not listed",128500,24400.0,104100.0
+Kia,Seltos,Diesel,HTK Diesel,HTK Diesel AT,"Automatic, type not listed",130000,26100.0,103900.0
+Kia,Seltos,Diesel,HTK (O) Diesel,HTK (O) Diesel AT,"Automatic, type not listed",130000,60200.0,69800.0
+Kia,Seltos,Diesel,HTX Diesel,HTX Diesel AT,"Automatic, type not listed",130000,30400.0,99600.0
+Kia,Seltos,Diesel,HTX A Diesel,HTX A Diesel AT,"Automatic, type not listed",130000,32300.0,97700.0
+Kia,Seltos,Petrol,HTE (O),HTE (O) iVT,CVT,130000,21500.0,108500.0
+Kia,Seltos,Petrol,HTK,HTK iVT,CVT,130000,33900.0,96100.0
+Kia,Seltos,Petrol,HTK (O),HTK (O) iVT,CVT,130000,65900.0,64100.0
+Kia,Seltos,Petrol,HTX,HTX iVT,CVT,130000,40300.0,89700.0
+Kia,Seltos,Petrol,HTX A,HTX A iVT,CVT,130000,43000.0,87000.0
+Kia,Sonet,Diesel,HTE (O) Diesel,HTE (O) Diesel AT,"Automatic, type not listed",71000,7300.0,63700.0
+Kia,Sonet,Diesel,HTK (O) Diesel,HTK (O) Diesel AT,"Automatic, type not listed",109000,0.0,109000.0
+Kia,Sonet,Diesel,HTK Plus Diesel,HTK Plus Diesel AT,"Automatic, type not listed",80000,-1900.0,81900.0
+Kia,Sonet,Diesel,HTK Plus (O) Diesel,HTK Plus (O) Diesel AT,"Automatic, type not listed",80000,14800.0,65200.0
+Kia,Sonet,Diesel,HTX Diesel,HTX Diesel AT,Torque-converter AT,79000,43300.0,35700.0
+Kia,Sonet,Petrol,HTK (O) Turbo iMT,HTK (O) Turbo DCT,DCT,66000,0.0,66000.0
+Kia,Sonet,Petrol,HTK Plus (O) Turbo iMT,HTK Plus (O) Turbo DCT,DCT,80000,-1900.0,81900.0
+Kia,Syros,Diesel,HTK Plus Diesel,HTK Plus Diesel AT,"Automatic, type not listed",120000,101200.0,18800.0
+Kia,Syros,Diesel,HTK Plus Opt Diesel,HTK Plus Opt Diesel AT,"Automatic, type not listed",120000,20600.0,99400.0
+Kia,Syros,Petrol,HTK Plus Turbo,HTK Plus Turbo DCT,"Automatic, type not listed",120000,94200.0,25800.0
+Kia,Syros,Petrol,HTK Plus Opt Turbo,HTK Plus Opt Turbo DCT,"Automatic, type not listed",120000,19300.0,100700.0
+MG,Astor,Petrol,Select,Select CVT,CVT,116000,21100.0,94900.0
+MG,Astor,Petrol,Sharp Pro,Sharp Pro CVT,CVT,115000,22700.0,92300.0
+MG,Hector,Petrol,Sharp Pro,Sharp Pro CVT,CVT,110000,0.0,110000.0
+MG,Hector,Petrol,Smart Pro,Smart Pro CVT,CVT,120000,0.0,120000.0
+MG,Hector Plus,Petrol,Sharp Pro,Sharp Pro CVT,CVT,215000,0.0,215000.0
+Mahindra,Scorpio N,Diesel,Z4 Diesel MT,Z4 Diesel AT,"Automatic, type not listed",156653,141600.0,15000.0
+Mahindra,Scorpio N,Diesel,Z6 Diesel MT,Z6 Diesel AT,"Automatic, type not listed",165135,0.0,165100.0
+Mahindra,Scorpio N,Diesel,Z8S Diesel MT,Z8S Diesel AT,"Automatic, type not listed",109835,0.0,109800.0
+Mahindra,Scorpio N,Diesel,Z8 Diesel MT,Z8 Diesel AT,"Automatic, type not listed",154775,0.0,154800.0
+Mahindra,Scorpio N,Diesel,Z8T Diesel MT,Z8T Diesel AT,"Automatic, type not listed",170144,0.0,170100.0
+Mahindra,Scorpio N,Diesel,Z8L 7-Seater Diesel MT,Z8L 7-Seater Diesel AT,"Automatic, type not listed",159997,0.0,160000.0
+Mahindra,Scorpio N,Diesel,Z8L 6-Seater Diesel MT,Z8L 6-Seater Diesel AT,"Automatic, type not listed",152705,0.0,152700.0
+Mahindra,Scorpio N,Diesel,Z8T Diesel 4WD MT,Z8T Diesel 4WD AT,"Automatic, type not listed",153000,0.0,153000.0
+Mahindra,Scorpio N,Diesel,Z8L 7-Seater Diesel 4WD MT,Z8L 7-Seater Diesel 4WD AT,"Automatic, type not listed",123857,0.0,123900.0
+Mahindra,Scorpio N,Petrol,Z4 Petrol MT,Z4 Petrol AT,"Automatic, type not listed",159001,0.0,159000.0
+Mahindra,Scorpio N,Petrol,Z8S Petrol MT,Z8S Petrol AT,"Automatic, type not listed",147600,0.0,147600.0
+Mahindra,Scorpio N,Petrol,Z8T Petrol MT,Z8T Petrol AT,"Automatic, type not listed",146970,0.0,147000.0
+Mahindra,Scorpio N,Petrol,Z8L 7-Seater Petrol MT,Z8L 7-Seater Petrol AT,"Automatic, type not listed",155798,0.0,155800.0
+Mahindra,Scorpio N,Petrol,Z8L 6-Seater Petrol MT,Z8L 6-Seater Petrol AT,"Automatic, type not listed",136700,0.0,136700.0
+Mahindra,Thar OG,Diesel,Thar 2.2L LXT 4WD Diesel,Thar 2.2L LXT 4WD Diesel AT,"Automatic, type not listed",157000,0.0,157000.0
+Mahindra,Thar OG,Diesel,Thar 2.2L ZXT 4WD Diesel,Thar 2.2L ZXT 4WD Diesel AT,"Automatic, type not listed",150000,0.0,150000.0
+Mahindra,Thar OG,Petrol,Thar 2.0L LXT 4WD Petrol,Thar 2.0L LXT 4WD Petrol AT,"Automatic, type not listed",163000,0.0,163000.0
+Mahindra,Thar OG,Petrol,Thar 2.0L ZXT 4WD Petrol,Thar 2.0L ZXT 4WD Petrol AT,"Automatic, type not listed",115000,0.0,115000.0
+Mahindra,Thar ROXX,Diesel,AX7L 4WD Diesel,AX7L 4WD Diesel AT,Torque-converter AT,140500,92100.0,48400.0
+Mahindra,Thar ROXX,Diesel,MX3 RWD Diesel,MX3 RWD Diesel AT,"Automatic, type not listed",154000,0.0,154000.0
+Mahindra,Thar ROXX,Diesel,MX5 RWD Diesel,MX5 RWD Diesel AT,"Automatic, type not listed",158000,0.0,158000.0
+Mahindra,Thar ROXX,Diesel,Star Edition Diesel,Star Edition Diesel AT,"Automatic, type not listed",151000,74800.0,76200.0
+Mahindra,Thar ROXX,Diesel,AX7L RWD Diesel,AX7L RWD Diesel AT,"Automatic, type not listed",126000,81500.0,44500.0
+Mahindra,Thar ROXX,Petrol,MX5 RWD,MX5 RWD AT,"Automatic, type not listed",151000,96300.0,54700.0
+Mahindra,XUV 3XO,Diesel,AX7 Diesel,AX7 Diesel AMT,AMT,76000,0.0,76000.0
+Mahindra,XUV 3XO,Diesel,REVX EDGE (O) Diesel,REVX EDGE (O) Diesel AMT,"Automatic, type not listed",82000,0.0,82000.0
+Mahindra,XUV 3XO,Diesel,AX5 Diesel,AX5 Diesel AMT,AMT,80000,0.0,80000.0
+Mahindra,XUV 3XO,Petrol,REVX M (O),REVX M (O) AT,"Automatic, type not listed",90000,0.0,90000.0
+Mahindra,XUV 3XO,Petrol,REVX EDGE,REVX EDGE AT,"Automatic, type not listed",120000,0.0,120000.0
+Mahindra,XUV 3XO,Petrol,REVX EDGE (O),REVX EDGE (O) AT,"Automatic, type not listed",120000,0.0,120000.0
+Mahindra,XUV 3XO,Petrol,AX5,AX5 AT,Torque-converter AT,188100,0.0,188100.0
+Mahindra,XUV 3XO,Petrol,REVX A Turbo,REVX A Turbo AT,Torque-converter AT,112000,0.0,112000.0
+Mahindra,XUV 3XO,Petrol,AX5 L Turbo,AX5 L Turbo AT,Torque-converter AT,125000,0.0,125000.0
+Mahindra,XUV 3XO,Petrol,AX7 Turbo,AX7 Turbo AT,Torque-converter AT,114500,0.0,114500.0
+Mahindra,XUV 3XO,Petrol,AX7 L Turbo,AX7 L Turbo AT,Torque-converter AT,171000,-26500.0,197500.0
+Mahindra,XUV 7XO,Diesel,AX3 Diesel,AX3 Diesel AT,"Automatic, type not listed",150500,0.0,150500.0
+Mahindra,XUV 7XO,Diesel,AX5 Diesel,AX5 Diesel AT,"Automatic, type not listed",151000,0.0,151000.0
+Mahindra,XUV 7XO,Diesel,AX7 Diesel,AX7 Diesel AT,"Automatic, type not listed",135500,0.0,135500.0
+Mahindra,XUV 7XO,Diesel,AX7T Diesel,AX7T Diesel AT,"Automatic, type not listed",145999,0.0,146000.0
+Mahindra,XUV 7XO,Diesel,AX7T 6Str Diesel,AX7T 6Str Diesel AT,"Automatic, type not listed",146000,0.0,146000.0
+Mahindra,XUV 7XO,Diesel,AX7L Diesel,AX7L Diesel AT,"Automatic, type not listed",155500,0.0,155500.0
+Mahindra,XUV 7XO,Petrol,AX3,AX3 AT,"Automatic, type not listed",151000,0.0,151000.0
+Mahindra,XUV 7XO,Petrol,AX5,AX5 AT,"Automatic, type not listed",150499,0.0,150500.0
+Mahindra,XUV 7XO,Petrol,AX7,AX7 AT,"Automatic, type not listed",142500,0.0,142500.0
+Maruti Suzuki,Brezza,Petrol,VXi,VXi AT,"Automatic, type not listed",130000,16200.0,113800.0
+Maruti Suzuki,Brezza,Petrol,ZXi,ZXi AT,"Automatic, type not listed",130000,18300.0,111700.0
+Maruti Suzuki,Brezza,Petrol,ZXi,ZXi AT Dual Tone,"Automatic, type not listed",145600,18300.0,127300.0
+Maruti Suzuki,FRONX,Petrol,Delta,Delta AMT,AMT,50000,0.0,50000.0
+Maruti Suzuki,FRONX,Petrol,Delta Plus,Delta Plus AMT,AMT,50000,0.0,50000.0
+Maruti Suzuki,FRONX,Petrol,Zeta Turbo,Zeta Turbo AT,Torque-converter AT,128000,16900.0,111100.0
+Maruti Suzuki,FRONX,Petrol,Alpha Turbo,Alpha Turbo AT,Torque-converter AT,128000,18400.0,109600.0
+Maruti Suzuki,FRONX,Petrol,Alpha Turbo,Alpha Turbo DT AT,Torque-converter AT,142000,18400.0,123600.0
+Maruti Suzuki,Grand Vitara,Petrol,Delta,Delta AT,"Automatic, type not listed",135000,21100.0,113900.0
+Maruti Suzuki,Grand Vitara,Petrol,Zeta,Zeta AT,"Automatic, type not listed",135000,24000.0,111000.0
+Maruti Suzuki,Grand Vitara,Petrol,Zeta Opt,Zeta Opt AT,"Automatic, type not listed",135000,24100.0,110900.0
+Maruti Suzuki,Grand Vitara,Petrol,Zeta,Zeta AT DT,"Automatic, type not listed",150400,24000.0,126400.0
+Maruti Suzuki,Grand Vitara,Petrol,Zeta Opt,Zeta Opt AT DT,"Automatic, type not listed",155400,24100.0,131300.0
+Maruti Suzuki,Grand Vitara,Petrol,Alpha,Alpha AT,"Automatic, type not listed",135000,26600.0,108400.0
+Maruti Suzuki,Grand Vitara,Petrol,Alpha Opt,Alpha Opt AT,"Automatic, type not listed",135000,26700.0,108300.0
+Maruti Suzuki,Grand Vitara,Petrol,Alpha,Alpha AT DT,"Automatic, type not listed",150400,26600.0,123800.0
+Maruti Suzuki,Grand Vitara,Petrol,Alpha Opt,Alpha Opt AT DT,"Automatic, type not listed",150400,26700.0,123700.0
+Maruti Suzuki,Jimny,Petrol,Zeta,Zeta AT,"Automatic, type not listed",106000,0.0,106000.0
+Maruti Suzuki,Jimny,Petrol,Alpha,Alpha AT,"Automatic, type not listed",106000,0.0,106000.0
+Maruti Suzuki,Victoris,Petrol,VXI,VXI AT,"Automatic, type not listed",156000,20600.0,135400.0
+Maruti Suzuki,Victoris,Petrol,ZXI,ZXI AT,"Automatic, type not listed",156000,23600.0,132400.0
+Maruti Suzuki,Victoris,Petrol,ZXI (O),ZXI (O) AT,"Automatic, type not listed",156000,23800.0,132200.0
+Maruti Suzuki,Victoris,Petrol,ZXI,ZXI AT DT,"Automatic, type not listed",171400,23600.0,147800.0
+Maruti Suzuki,Victoris,Petrol,ZXI (O),ZXI (O) AT DT,"Automatic, type not listed",171400,23800.0,147600.0
+Maruti Suzuki,Victoris,Petrol,ZXI Plus,ZXI Plus AT,"Automatic, type not listed",195000,42700.0,152300.0
+Maruti Suzuki,Victoris,Petrol,ZXI Plus,ZXI Plus AT DT,"Automatic, type not listed",200400,42700.0,157700.0
+Maruti Suzuki,Victoris,Petrol,ZXI Plus (O),ZXI Plus (O) AT,"Automatic, type not listed",195000,43000.0,152000.0
+Maruti Suzuki,Victoris,Petrol,ZXI Plus (O),ZXI Plus (O) AT DT,"Automatic, type not listed",210400,43000.0,167400.0
+Nissan,Magnite,Petrol,Visia,Visia AMT,"Automatic, type not listed",60600,0.0,60600.0
+Nissan,Magnite,Petrol,Acenta,Acenta AMT,"Automatic, type not listed",55000,0.0,55000.0
+Nissan,Magnite,Petrol,N Connecta,N Connecta AMT,"Automatic, type not listed",55000,0.0,55000.0
+Nissan,Magnite,Petrol,KURO Edition,KURO Edition AMT,"Automatic, type not listed",55000,0.0,55000.0
+Nissan,Magnite,Petrol,Tekna,Tekna AMT,"Automatic, type not listed",55000,-4600.0,59600.0
+Nissan,Magnite,Petrol,Tekna Plus,Tekna Plus AMT,"Automatic, type not listed",55000,-4700.0,59700.0
+Nissan,Magnite,Petrol,N Connecta Turbo,N Connecta Turbo CVT,CVT,93000,0.0,93000.0
+Nissan,Magnite,Petrol,KURO Edition Turbo,KURO Edition Turbo CVT,CVT,83400,0.0,83400.0
+Nissan,Magnite,Petrol,Tekna Turbo,Tekna Turbo CVT,CVT,108000,0.0,108000.0
+Nissan,Magnite,Petrol,Tekna Plus Turbo,Tekna Plus Turbo CVT,CVT,104000,0.0,104000.0
+Nissan,Tekton,Petrol,N-Connecta T280 1.3-litre MT,N-Connecta T280 1.3-litre DCT,"Automatic, type not listed",150000,64300.0,85700.0
+Nissan,Tekton,Petrol,Tekna T280 1.3-litre MT,Tekna T280 1.3-litre DCT,"Automatic, type not listed",140000,82400.0,57600.0
+Renault,Duster,Petrol,Evolution 1.3 Turbo,Evolution 1.3 Turbo DCT,"Automatic, type not listed",150000,33100.0,116900.0
+Renault,Duster,Petrol,Adventure 1.3 Turbo,Adventure 1.3 Turbo DCT,DCT,140000,35600.0,104400.0
+Renault,Duster,Petrol,Techno Plus 1.3 Turbo,Techno Plus 1.3 Turbo DCT,DCT,140000,38900.0,101100.0
+Renault,Duster,Petrol,Techno Plus 1.3 Turbo,Techno Plus 1.3 Turbo DT DCT,DCT,160000,38900.0,121100.0
+Renault,Duster,Petrol,Iconic 1.3 Turbo,Iconic 1.3 Turbo DCT,DCT,150000,69500.0,80500.0
+Renault,Duster,Petrol,Iconic 1.3 Turbo,Iconic 1.3 Turbo DT DCT,DCT,170000,69500.0,100500.0
+Renault,Duster,Petrol,Iconic Launch Edition,Iconic Launch Edition DCT,DCT,150000,70400.0,79600.0
+Renault,Kiger,Petrol,Emotion Turbo,Emotion Turbo CVT,CVT,100000,0.0,100000.0
+Renault,Kiger,Petrol,Evolution,Evolution AMT,AMT,44000,0.0,44000.0
+Renault,Kiger,Petrol,Evolution Plus,Evolution Plus AMT,AMT,46000,0.0,46000.0
+Renault,Kiger,Petrol,Techno,Techno AMT,AMT,50000,0.0,50000.0
+Renault,Kiger,Petrol,Techno,Techno DT AMT,AMT,50000,0.0,50000.0
+Renault,Kiger,Petrol,Techno Turbo,Techno Turbo CVT,CVT,90000,0.0,90000.0
+Renault,Kiger,Petrol,Techno Turbo,Techno Turbo DT CVT,CVT,90000,0.0,90000.0
+Renault,Kiger,Petrol,Emotion Turbo,Emotion Turbo DT CVT,CVT,100000,0.0,100000.0
+Skoda,Kushaq,Petrol,1.0L Classic Plus,1.0L Classic Plus AT,"Automatic, type not listed",235000,48500.0,186500.0
+Skoda,Kushaq,Petrol,1.0L Signature,1.0L Signature AT,"Automatic, type not listed",100000,25500.0,74500.0
+Skoda,Kushaq,Petrol,1.0L Sportline,1.0L Sportline AT,"Automatic, type not listed",100000,25800.0,74200.0
+Skoda,Kushaq,Petrol,1.0L Prestige,1.0L Prestige AT,"Automatic, type not listed",85000,29400.0,55600.0
+Skoda,Kylaq,Petrol,Classic Plus,Classic Plus AT,Torque-converter AT,100000,0.0,100000.0
+Skoda,Kylaq,Petrol,Signature,Signature AT,Torque-converter AT,100000,16500.0,83500.0
+Skoda,Kylaq,Petrol,Signature Plus,Signature Plus AT,Torque-converter AT,100000,18700.0,81300.0
+Skoda,Kylaq,Petrol,Sportline,Sportline AT,Torque-converter AT,100000,19700.0,80300.0
+Skoda,Kylaq,Petrol,Prestige,Prestige AT,Torque-converter AT,100000,20600.0,79400.0
+Skoda,Kylaq,Petrol,Prestige Plus,Prestige Plus AT,Torque-converter AT,100000,21000.0,79000.0
+Tata,Curvv,Petrol,Pure X,Pure X DCT,DCT,130000,19100.0,110900.0
+Tata,Curvv,Petrol,Pure X Plus,Pure X Plus DCT,DCT,130000,20500.0,109500.0
+Tata,Curvv,Petrol,Pure X Plus,Pure X Plus Dark DCT,DCT,150000,20500.0,129500.0
+Tata,Curvv,Petrol,Creative X Plus,Creative X Plus DCT,DCT,130000,22400.0,107600.0
+Tata,Curvv,Petrol,Creative X Plus,Creative X Plus Dark DCT,DCT,155000,22400.0,132600.0
+Tata,Curvv,Petrol,Accomplished X,Accomplished X DCT,DCT,130000,24300.0,105700.0
+Tata,Curvv,Petrol,Accomplished X,Accomplished X Dark DCT,DCT,155000,24300.0,130700.0
+Tata,Harrier,Diesel,Pure X,Pure X AT,"Automatic, type not listed",150000,30400.0,119600.0
+Tata,Harrier,Diesel,Pure X,Pure X Dark AT,"Automatic, type not listed",205000,44300.0,160700.0
+Tata,Harrier,Diesel,Adventure X,Adventure X AT,"Automatic, type not listed",150000,32100.0,117900.0
+Tata,Harrier,Diesel,Adventure X Plus,Adventure X Plus AT,"Automatic, type not listed",155000,32800.0,122200.0
+Tata,Harrier,Diesel,Adventure X,Adventure X Dark AT,"Automatic, type not listed",205000,46800.0,158200.0
+Tata,Harrier,Diesel,Adventure X Plus,Adventure X Plus Dark AT,"Automatic, type not listed",205000,47800.0,157200.0
+Tata,Harrier,Diesel,Fearless X,Fearless X AT,"Automatic, type not listed",155000,37200.0,117800.0
+Tata,Harrier,Diesel,Fearless X,Fearless X Dark AT,"Automatic, type not listed",210000,54300.0,155700.0
+Tata,Harrier,Diesel,Fearless X Plus,Fearless X Plus AT,"Automatic, type not listed",145000,40700.0,104300.0
+Tata,Harrier,Diesel,Fearless X Plus,Fearless X Plus Dark AT,"Automatic, type not listed",200000,59300.0,140700.0
+Tata,Harrier,Diesel,Fearless Ultra,Fearless Ultra AT,"Automatic, type not listed",145000,41500.0,103500.0
+Tata,Harrier,Diesel,Fearless Ultra,Fearless Ultra Dark AT,"Automatic, type not listed",190000,60800.0,129200.0
+Tata,Harrier,Diesel,Fearless Ultra,Fearless Ultra Stealth AT,"Automatic, type not listed",206000,60800.0,145200.0
+Tata,Harrier,Petrol,Petrol Pure X,Petrol Pure X AT,"Automatic, type not listed",150000,28500.0,121500.0
+Tata,Harrier,Petrol,Petrol Pure X,Petrol Pure X DARK AT,"Automatic, type not listed",195000,41500.0,153500.0
+Tata,Harrier,Petrol,Petrol Adventure X,Petrol Adventure X AT,"Automatic, type not listed",160000,29900.0,130100.0
+Tata,Harrier,Petrol,Petrol Adventure X Plus,Petrol Adventure X Plus AT,"Automatic, type not listed",160000,30500.0,129500.0
+Tata,Harrier,Petrol,Petrol Adventure X,Petrol Adventure X DARK AT,"Automatic, type not listed",205000,61700.0,143300.0
+Tata,Harrier,Petrol,Petrol Adventure X Plus,Petrol Adventure X Plus DARK AT,"Automatic, type not listed",210000,44500.0,165500.0
+Tata,Harrier,Petrol,Petrol Fearless X,Petrol Fearless X AT,"Automatic, type not listed",175000,35100.0,139900.0
+Tata,Harrier,Petrol,Petrol Fearless X,Petrol Fearless X DARK AT,"Automatic, type not listed",230000,51200.0,178800.0
+Tata,Harrier,Petrol,Petrol Fearless X Plus,Petrol Fearless X Plus AT,"Automatic, type not listed",145000,38800.0,106200.0
+Tata,Harrier,Petrol,Petrol Fearless X Plus,Petrol Fearless X Plus DARK AT,"Automatic, type not listed",200000,56500.0,143500.0
+Tata,Harrier,Petrol,Petrol Fearless Ultra,Petrol Fearless Ultra AT,"Automatic, type not listed",145000,39600.0,105400.0
+Tata,Harrier,Petrol,Petrol Fearless Ultra,Petrol Fearless Ultra DARK AT,"Automatic, type not listed",190000,58000.0,132000.0
+Tata,Harrier,Petrol,Petrol Fearless Ultra,Petrol Fearless Ultra Red DARK AT,"Automatic, type not listed",200000,58000.0,142000.0
+Tata,Harrier,Petrol,Petrol Fearless Ultra,Petrol Fearless Ultra Stealth AT,"Automatic, type not listed",205000,58000.0,147000.0
+Tata,Nexon,Diesel,Pure Plus Diesel,Pure Plus Diesel AMT,"Automatic, type not listed",87000,17300.0,69700.0
+Tata,Nexon,Diesel,Pure Plus PS Diesel,Pure Plus PS Diesel AMT,"Automatic, type not listed",65000,18600.0,46400.0
+Tata,Nexon,Diesel,Creative Diesel,Creative Diesel AMT,AMT,60000,19700.0,40300.0
+Tata,Nexon,Diesel,Creative CAMO Diesel,Creative CAMO Diesel AMT,AMT,60000,20200.0,39800.0
+Tata,Nexon,Diesel,Creative Plus S Diesel,Creative Plus S Diesel AMT,AMT,65000,20200.0,44800.0
+Tata,Nexon,Diesel,Creative Plus S CAMO Diesel,Creative Plus S CAMO Diesel AMT,AMT,65000,20600.0,44400.0
+Tata,Nexon,Diesel,Creative Plus S Diesel,Creative Plus S Dark Diesel AMT,AMT,110000,20200.0,89800.0
+Tata,Nexon,Diesel,Creative Plus PS DT Diesel,Creative Plus PS DT Diesel AMT,AMT,65000,21900.0,43100.0
+Tata,Nexon,Diesel,Creative Plus PS DT Diesel,Creative Plus PS Dark Diesel AMT,AMT,105000,21900.0,83100.0
+Tata,Nexon,Diesel,Fearless Plus PS DT Diesel,Fearless Plus PS DT Diesel AMT,AMT,65000,50200.0,14800.0
+Tata,Nexon,Diesel,Fearless Plus PS DT Diesel,Fearless Plus PS Dark Diesel AMT,AMT,85000,50200.0,34800.0
+Tata,Nexon,Diesel,Fearless Plus PS DT Diesel,Fearless Plus PS Red Dark Diesel AMT,AMT,95000,50200.0,44800.0
+Tata,Nexon,Petrol,Smart Plus,Smart Plus AMT,AMT,70000,14300.0,55700.0
+Tata,Nexon,Petrol,Pure Plus,Pure Plus AMT,"Automatic, type not listed",65000,15700.0,49300.0
+Tata,Nexon,Petrol,Pure Plus S,Pure Plus S AMT,"Automatic, type not listed",63000,16300.0,46700.0
+Tata,Nexon,Petrol,Pure Plus PS,Pure Plus PS AMT,"Automatic, type not listed",55000,16900.0,38100.0
+Tata,Nexon,Petrol,Creative,Creative AMT,AMT,70000,17600.0,52400.0
+Tata,Nexon,Petrol,Creative CAMO,Creative CAMO AMT,AMT,95000,17600.0,77400.0
+Tata,Nexon,Petrol,Creative Plus S,Creative Plus S AMT,AMT,70000,18200.0,51800.0
+Tata,Nexon,Petrol,Creative,Creative DCA,DCT,125000,17600.0,107400.0
+Tata,Nexon,Petrol,Creative Plus S CAMO,Creative Plus S CAMO AMT,AMT,70000,18600.0,51400.0
+Tata,Nexon,Petrol,Creative Plus S,Creative Plus S Dark AMT,AMT,115000,18200.0,96800.0
+Tata,Nexon,Petrol,Creative CAMO,Creative CAMO DCA,DCT,150000,17600.0,132400.0
+Tata,Nexon,Petrol,Creative Plus PS DT,Creative Plus PS DT DCA,DCT,120000,19900.0,100100.0
+Tata,Nexon,Petrol,Creative Plus PS CAMO,Creative Plus PS CAMO DCA,DCT,120000,20300.0,99700.0
+Tata,Nexon,Petrol,Creative Plus PS DT,Creative Plus PS Dark DCA,DCT,157000,19900.0,137100.0
+Tata,Nexon,Petrol,Fearless Plus PS DT,Fearless Plus PS Dark DCA,DCT,102800,45900.0,56900.0
+Tata,Punch,CNG,Pure Plus CNG,Pure Plus CNG AMT,"Automatic, type not listed",57000,-4400.0,61400.0
+Tata,Punch,CNG,Adventure CNG,Adventure CNG AMT,"Automatic, type not listed",57000,-4800.0,61800.0
+Tata,Punch,CNG,Adventure S CNG,Adventure S CNG AMT,"Automatic, type not listed",57000,-4900.0,61900.0
+Tata,Punch,Petrol,Pure Plus,Pure Plus AMT,"Automatic, type not listed",58000,0.0,58000.0
+Tata,Punch,Petrol,Pure Plus S,Pure Plus S AMT,"Automatic, type not listed",58000,0.0,58000.0
+Tata,Punch,Petrol,Adventure,Adventure AMT,"Automatic, type not listed",58000,0.0,58000.0
+Tata,Punch,Petrol,Accomplished,Accomplished AMT,"Automatic, type not listed",58000,0.0,58000.0
+Tata,Punch,Petrol,Accomplished Plus S,Accomplished Plus S AMT,"Automatic, type not listed",58000,15900.0,42100.0
+Tata,Safari,Diesel,Accomplished Ultra,Accomplished Ultra Red Dark AT,"Automatic, type not listed",180000,42900.0,137100.0
+Tata,Safari,Diesel,Pure X,Pure X AT,"Automatic, type not listed",150000,31100.0,118900.0
+Tata,Safari,Diesel,Pure X,Pure X Dark AT,"Automatic, type not listed",205000,45400.0,159600.0
+Tata,Safari,Diesel,Adventure X Plus,Adventure X Plus AT,"Automatic, type not listed",165000,33700.0,131300.0
+Tata,Safari,Diesel,Adventure X Plus,Adventure X Plus Dark AT,"Automatic, type not listed",220000,49100.0,170900.0
+Tata,Safari,Diesel,Accomplished X,Accomplished X AT,"Automatic, type not listed",165000,38800.0,126200.0
+Tata,Safari,Diesel,Accomplished X,Accomplished X Dark AT,"Automatic, type not listed",220000,56500.0,163500.0
+Tata,Safari,Diesel,Accomplished X Plus,Accomplished X Plus AT,"Automatic, type not listed",145000,41900.0,103100.0
+Tata,Safari,Diesel,Accomplished X Plus 6S,Accomplished X Plus 6S AT,"Automatic, type not listed",145000,42100.0,102900.0
+Tata,Safari,Diesel,Accomplished X Plus,Accomplished X Plus Dark AT,"Automatic, type not listed",180000,41900.0,138100.0
+Tata,Safari,Diesel,Accomplished X Plus 6S,Accomplished X Plus 6S Dark AT,"Automatic, type not listed",180000,42100.0,137900.0
+Tata,Safari,Diesel,Accomplished Ultra,Accomplished Ultra AT,"Automatic, type not listed",145000,42900.0,102100.0
+Tata,Safari,Diesel,Accomplished Ultra 6S,Accomplished Ultra 6S AT,"Automatic, type not listed",145000,43100.0,101900.0
+Tata,Safari,Diesel,Accomplished Ultra,Accomplished Ultra DARK AT,"Automatic, type not listed",170000,42900.0,127100.0
+Tata,Safari,Diesel,Accomplished Ultra 6S,Accomplished Ultra 6S DARK AT,"Automatic, type not listed",170000,43100.0,126900.0
+Tata,Safari,Diesel,Accomplished Ultra 6S,Accomplished Ultra Red Dark 6S AT,"Automatic, type not listed",180000,43100.0,136900.0
+Tata,Safari,Diesel,Accomplished Ultra,Accomplished Ultra Stealth AT,"Automatic, type not listed",206000,42900.0,163100.0
+Tata,Safari,Diesel,Accomplished Ultra 6S,Accomplished Ultra 6S Stealth AT,"Automatic, type not listed",206000,43100.0,162900.0
+Tata,Safari,Petrol,Petrol Pure X,Petrol Pure X AT,"Automatic, type not listed",150000,29200.0,120800.0
+Tata,Safari,Petrol,Petrol Pure X,Petrol Pure X DARK AT,"Automatic, type not listed",200000,42600.0,157400.0
+Tata,Safari,Petrol,Petrol Adventure X Plus,Petrol Adventure X Plus AT,"Automatic, type not listed",165000,31500.0,133500.0
+Tata,Safari,Petrol,Petrol Adventure X Plus,Petrol Adventure X Plus DARK AT,"Automatic, type not listed",215000,45900.0,169100.0
+Tata,Safari,Petrol,Petrol Accomplished X,Petrol Accomplished X AT,"Automatic, type not listed",160000,37000.0,123000.0
+Tata,Safari,Petrol,Petrol Accomplished X,Petrol Accomplished X DARK AT,"Automatic, type not listed",210000,21400.0,188600.0
+Tata,Safari,Petrol,Petrol Accomplished X Plus,Petrol Accomplished X Plus AT,"Automatic, type not listed",145000,40000.0,105000.0
+Tata,Safari,Petrol,Petrol Accomplished X Plus 6S,Petrol Accomplished X Plus 6S AT,"Automatic, type not listed",145000,40200.0,104800.0
+Tata,Safari,Petrol,Petrol Accomplished X Plus,Petrol Accomplished X Plus DARK AT,"Automatic, type not listed",180000,40000.0,140000.0
+Tata,Safari,Petrol,Petrol Accomplished X Plus 6S,Petrol Accomplished X Plus 6S DARK AT,"Automatic, type not listed",180000,40200.0,139800.0
+Tata,Safari,Petrol,Petrol Accomplished Ultra,Petrol Accomplished Ultra AT,"Automatic, type not listed",145000,41000.0,104000.0
+Tata,Safari,Petrol,Petrol Accomplished Ultra 6S,Petrol Accomplished Ultra 6S AT,"Automatic, type not listed",145000,41200.0,103800.0
+Tata,Safari,Petrol,Petrol Accomplished Ultra,Petrol Accomplished Ultra DARK AT,"Automatic, type not listed",168500,41000.0,127500.0
+Tata,Safari,Petrol,Petrol Accomplished Ultra 6S,Petrol Accomplished Ultra 6S DARK AT,"Automatic, type not listed",168000,41200.0,126800.0
+Tata,Safari,Petrol,Petrol Accomplished Ultra,Petrol Accomplished Ultra Red DARK AT,"Automatic, type not listed",180000,41000.0,139000.0
+Tata,Safari,Petrol,Petrol Accomplished Ultra 6S,Petrol Accomplished Ultra Red DARK 6S AT,"Automatic, type not listed",180000,41200.0,138800.0
+Tata,Safari,Petrol,Petrol Accomplished Ultra,Petrol Accomplished Ultra Stealth AT,"Automatic, type not listed",206000,41000.0,165000.0
+Tata,Safari,Petrol,Petrol Accomplished Ultra 6S,Petrol Accomplished Ultra 6S Stealth AT,"Automatic, type not listed",200900,41200.0,159700.0
+Tata,Sierra,Diesel,Accomplished Plus Diesel,Accomplished Plus Diesel AT,"Automatic, type not listed",100000,35200.0,64800.0
+Tata,Sierra,Diesel,Pure Diesel,Pure Diesel AT,"Automatic, type not listed",140000,25300.0,114700.0
+Tata,Sierra,Diesel,Pure L (O) Diesel,Pure L (O) Diesel AT,"Automatic, type not listed",125000,27300.0,97700.0
+Tata,Sierra,Diesel,Pure L (O) Diesel,Pure L (O) Dark Diesel AT,"Automatic, type not listed",160000,27300.0,132700.0
+Tata,Sierra,Diesel,Pure Plus L Diesel,Pure Plus L Diesel AT,"Automatic, type not listed",130000,28500.0,101500.0
+Tata,Sierra,Diesel,Pure Plus L Diesel,Pure Plus L Dark Diesel AT,"Automatic, type not listed",160000,28500.0,131500.0
+Tata,Sierra,Diesel,Adventure Plus Diesel,Adventure Plus Diesel AT,"Automatic, type not listed",130000,30100.0,99900.0
+Tata,Sierra,Diesel,Adventure Plus L Diesel,Adventure Plus L Diesel AT,"Automatic, type not listed",130000,31600.0,98400.0
+Tata,Sierra,Diesel,Adventure Plus L Diesel,Adventure Plus L Dark Diesel AT,"Automatic, type not listed",160000,31600.0,128400.0
+Tata,Sierra,Diesel,Accomplished Diesel,Accomplished Diesel AT,"Automatic, type not listed",100000,32900.0,67100.0
+Tata,Sierra,Diesel,Accomplished Diesel,Accomplished Dark Diesel AT,"Automatic, type not listed",130000,32900.0,97100.0
+Tata,Sierra,Diesel,Accomplished Plus Diesel,Accomplished Plus Dark Diesel AT,"Automatic, type not listed",130000,35200.0,94800.0
+Tata,Sierra,Petrol,Pure,Pure DCA,"Automatic, type not listed",135000,22800.0,112200.0
+Tata,Sierra,Petrol,Pure L,Pure L DCA,"Automatic, type not listed",120000,23900.0,96100.0
+Tata,Sierra,Petrol,Pure L,Pure L Dark DCA,"Automatic, type not listed",140000,23900.0,116100.0
+Tata,Sierra,Petrol,Pure L (O),Pure L (O) DCA,"Automatic, type not listed",130000,24800.0,105200.0
+Tata,Sierra,Petrol,Pure L (O),Pure L (O) Dark DCA,"Automatic, type not listed",160000,24800.0,135200.0
+Tata,Sierra,Petrol,Pure Plus L,Pure Plus L DCA,"Automatic, type not listed",130000,26000.0,104000.0
+Tata,Sierra,Petrol,Pure Plus L,Pure Plus L Dark DCA,"Automatic, type not listed",160000,26000.0,134000.0
+Tata,Sierra,Petrol,Adventure Plus,Adventure Plus DCA,"Automatic, type not listed",130000,28000.0,102000.0
+Tata,Sierra,Petrol,Adventure Plus L,Adventure Plus L DCA,"Automatic, type not listed",130000,29500.0,100500.0
+Tata,Sierra,Petrol,Adventure Plus L,Adventure Plus L Dark DCA,"Automatic, type not listed",160000,29500.0,130500.0
+Toyota,Fortuner,Diesel,4X2 Diesel,4X2 Diesel AT,Torque-converter AT,224000,0.0,224000.0
+Toyota,Fortuner,Diesel,Leader Edition 4X2 Diesel MT,Leader Edition 4X2 Diesel AT,Torque-converter AT,221000,0.0,221000.0
+Toyota,Taisor,Petrol,V Turbo,V Turbo AT,Torque-converter AT,142000,19700.0,122300.0
+Toyota,Taisor,Petrol,S,S AMT,AMT,61000,0.0,61000.0
+Toyota,Taisor,Petrol,S Plus,S Plus AMT,AMT,61000,0.0,61000.0
+Toyota,Taisor,Petrol,G Turbo,G Turbo AT,Torque-converter AT,141000,18100.0,122900.0
+Toyota,Taisor,Petrol,V Turbo,V Turbo AT Dual Tone,Torque-converter AT,158000,19700.0,138300.0
+Toyota,Urban Cruiser Hyryder,Petrol,Hyryder S,Hyryder S AT,"Automatic, type not listed",135000,22200.0,112800.0
+Toyota,Urban Cruiser Hyryder,Petrol,Hyryder G Opt,Hyryder G Opt AT,"Automatic, type not listed",131000,25800.0,105200.0
+Toyota,Urban Cruiser Hyryder,Petrol,Hyryder G Opt,Hyryder G Opt Aero Black Edition AT,"Automatic, type not listed",162999,188000.0,-25000.0
+Toyota,Urban Cruiser Hyryder,Petrol,Hyryder V,Hyryder V AT,"Automatic, type not listed",125000,28500.0,96500.0
+Toyota,Urban Cruiser Hyryder,Petrol,Hyryder V,Hyryder V Dual Tone AT,"Automatic, type not listed",145000,28500.0,116500.0
+Toyota,Urban Cruiser Hyryder,Petrol,Hyryder V,Hyryder V Aero Black Edition AT,"Automatic, type not listed",156999,-31100.0,188100.0
+Volkswagen,Taigun,Petrol,Highline,Highline AT,Torque-converter AT,110000,29700.0,80300.0
+Volkswagen,Taigun,Petrol,Highline Plus,Highline Plus AT,Torque-converter AT,115000,33000.0,82000.0
+Volkswagen,Taigun,Petrol,GT Line,GT Line AT,Torque-converter AT,115000,33700.0,81300.0
+Volkswagen,Taigun,Petrol,Topline,Topline AT,Torque-converter AT,116000,28100.0,87900.0

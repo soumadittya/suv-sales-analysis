@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+env-suv-sales-analyis/
+
+# Local tool settings and OS files
+.claude/
+.DS_Store

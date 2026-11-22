@@ -1,83 +1,63 @@
-<h1> 📊 Decoding India’s SUV Market: A Full Data Scraping & Analysis Project (2020–2025)</h1>
+# SUV Value Guide
 
-This project presents a complete analysis of the Indian SUV market, focusing on the top 20 most-sold SUVs between 2020 and 2025. It studies each vehicle’s sales performance alongside its key specifications to understand which characteristics customers value the most—such as size, engine displacement, pricing, and feature set. By combining sales insights with technical attributes, the project highlights which SUVs dominate the market, which price segments attract buyers, and what patterns emerge across the highest-selling models, offering a clear, data-driven picture of India’s evolving SUV preferences.
+A small web app for Indian SUV buyers and car reviewers. It answers three questions:
 
+- Which variants have the features I need, within my budget?
+- Is this variant's price fair for what it offers?
+- Which trim of a model gives the most for the money?
 
-From a technical standpoint, the project is built entirely from scratch, including the creation of a fully custom dataset. Sales figures were scraped from Auto Punditz, and detailed car specifications were scraped from CarDekho.com, both using Selenium to reliably extract data from dynamically loaded webpages. The dataset was then cleaned, merged, and processed using Python libraries such as Pandas for data manipulation, NumPy for numerical operations, and Matplotlib/Seaborn for generating insightful visualizations. These visualizations help uncover relationships between price, dimensions, engine size, and sales, making trends easier to interpret and compare.
+It covers 1,399 SUV variants of 136 models from 25 brands, with New Delhi prices from CarDekho collected on 20 Nov 2026.
 
+**Live app:** _link to be added after the first Render deploy_
 
-This analysis is valuable for anyone interested in the automotive landscape—buyers looking for clarity, automobile enthusiasts exploring market trends, industry analysts studying consumer behaviour, and manufacturers seeking insights into customer preferences. It also serves as a learning resource for data analysts and data science practitioners, as it demonstrates how to build a complete end-to-end workflow: data scraping, dataset creation, cleaning, modeling, and visualization. With the entire codebase and dataset made publicly available, the project empowers others to extend the analysis, validate findings, or explore new dimensions of the Indian SUV market on their own.
+## How it works
 
-<h2>🔧 Getting Started: How to Run, Explore, and Modify the Code</h2>
+1. `scrapers/` collect every variant's features and prices from CarDekho into `data/`.
+2. `notebooks/suv_research.ipynb` cleans the data, builds the fair-price model and the trim ladders, and writes the results to `app_data/`. It shows how each data problem was found and why each fix was chosen.
+3. `app/` is a FastAPI app that reads `app_data/` and serves four pages: Find, Variant, Compare and About.
 
-Before running the project, it’s important to understand how the repository is organized and what each script or notebook is responsible for. The workflow follows a very logical sequence—from scraping raw data, to cleaning and merging it, to analyzing and visualizing it. Below is a clear breakdown of every major component.
+## Folders
 
-<h3> 📁 Key Folders </h3>
-    • scraped_auto_punditz_sales_data/
-      Stores all raw sales data scraped from AutoPunditz across the selected years.
-    • scraped_cardekho_top_20_models_features/
-      Contains feature details and price information scraped from CarDekho for the top 20 SUVs.
+```
+app/                       FastAPI app: routes, page templates, CSS
+app_data/                  the notebook's output, which the app reads (see its README)
+data/                      raw CarDekho data: one features file per variant, prices, scrape log
+notebooks/                 suv_research.ipynb
+scrapers/                  the two CarDekho scrapers (Python standard library only)
+tests/                     pytest tests for the app
+sales-analysis-2020-2025/  an earlier study of the 20 best-selling SUVs, with its own README
+requirements.txt           what the app needs to run (Render installs this)
+requirements-dev.txt       the app plus the tests and the notebook
+.python-version            Python 3.13
+```
 
+## Run it locally
 
+With Python 3.13, from this folder:
 
-<h3> 🧩 Scripts & Notebooks Explained (in execution order) </h3>
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements-dev.txt
+uvicorn app.main:app --reload
+```
 
-**1️⃣ checkbox_id_generator.py**
+Then open http://localhost:8000. Run the tests with `pytest -q`.
 
-This script dynamically generates the file checkbox_id.json, which contains the checkbox IDs corresponding to year filters on the AutoPunditz website.
-This JSON file is required by auto_punditz_sales_data_scraper.py to automatically select the years when scraping sales data.
+## Rebuild the app's data
 
-**2️⃣ auto_punditz_sales_data_scraper.py**
+Open `notebooks/suv_research.ipynb` and run every cell (Restart & Run All). It rewrites all the files in `app_data/`. Restart the app to load them.
 
-This script performs the actual scraping of monthly and yearly SUV sales data from AutoPunditz.com.
-It uses Selenium to:
-    • Load the website
-    • Select years based on the checkbox_id.json file
-    • Extract sales numbers
-    • Save the results inside scraped_auto_punditz_sales_data/.
+## Deploy on Render
 
-**3️⃣ filter_top_20_highest_selling_SUVs.ipynb**
+Create a Web Service from this repository on the `main` branch:
 
-After scraping, this notebook processes the raw sales data to:
-    • Aggregate sales
-    • Rank all SUV models
-    • Identify the top 20 highest-selling SUVs across 2020–2025
-    • Output a clean CSV containing only these models
+- **Build command:** `pip install -r requirements.txt`
+- **Start command:** `uvicorn app.main:app --host 0.0.0.0 --port $PORT`
+- **Instance type:** Free
 
-This filtered output becomes the input for the next scraping step.
+Render reads the Python version from `.python-version`, and every push to `main` redeploys the app. The free instance sleeps after 15 minutes without visitors, so the first page after a quiet spell can take about a minute to load.
 
-**4️⃣ cardekho_features_data_scraper.py**
+## Data
 
-Using the top 20 SUV list produced earlier, this script goes to CarDekho.com and automatically extracts:
-    • Technical specifications
-    • Safety features
-    • Convenience & comfort features
-    • Prices (start price, average price, max price)
-
-All scraped details are stored inside scraped_cardekho_top_20_models_features/.
-
-**5️⃣ process_features_and_prices.ipynb (Data Preparation Phase)**
-
-This notebook now combines:
-    • Sales data
-    • Technical features
-    • Safety features
-    • Essentials/features
-    • Price information
-
-It produces four new CSV files (specifications, safety, essentials, others).
-These CSVs are individually analyzed in the corresponding notebooks below.
-
-<h3>📊 Analysis Notebooks</h3>
-
-**📘 specifications.ipynb**
-
-Analyzes core vehicle specifications such as:
-    • Length
-    • Engine displacement
-    • Power output
-    • Torque
-    • Wheelbase
-    • Mileage
-
-Includes comparison charts and pattern visualizations to understand what specifications top-selling SUVs share.
+All data comes from CarDekho's variant pages. The prices are one snapshot: ex-showroom and on-road prices for New Delhi on 20 Nov 2026.

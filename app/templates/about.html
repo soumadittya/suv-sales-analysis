@@ -1,0 +1,50 @@
+{% extends "base.html" %}
+{% from "_macros.html" import badge, sweet %}
+{% set nav = "about" %}
+{% block title %}About the data · SUV Value Guide{% endblock %}
+
+{% block content %}
+<section class="vg-section vg-prose">
+  <h1 class="title">About the data</h1>
+  <p>SUV Value Guide is a small tool for people buying an SUV in India, and for people who review them. It answers three questions: which variants have what I need, is this price fair, and which trim gives the most for the money.</p>
+  <p class="vg-muted">It's an independent project, not linked to CarDekho or any carmaker.</p>
+</section>
+
+<section class="vg-section vg-prose" aria-labelledby="source-title">
+  <h2 class="heading" id="source-title">Where the numbers come from</h2>
+  <ul>
+    <li>CarDekho's pages for {{ "{:,}".format(counts.variants) }} SUV variants of {{ counts.models }} models from {{ counts.brands }} brands.</li>
+    <li>Ex-showroom and on-road prices in {{ counts.city }}, all collected on {{ counts.price_date }}.</li>
+    <li>Each variant's full spec sheet, as CarDekho lists it.</li>
+  </ul>
+</section>
+
+<section class="vg-section vg-prose" aria-labelledby="fair-title">
+  <h2 class="heading" id="fair-title">How the fair price works</h2>
+  <p>A price model learns what features, size, power, fuel, gearbox and brand usually add to an SUV's price, using all {{ "{:,}".format(counts.variants) }} variants. A variant's fair price is what the model expects it to cost.</p>
+  <p>Tested on models it had never seen, its typical error is {{ accuracy.typical_error }}. {{ accuracy.within_10 }} of its estimates are within 10% of the real price, and {{ accuracy.within_20 }} within 20%.</p>
+  <p>A price more than {{ accuracy.badge_cutoff }} above the fair price is {{ badge("Overpriced") }}, more than {{ accuracy.badge_cutoff }} below is {{ badge("Good value") }}, and anything in between is {{ badge("Fair") }}.</p>
+  <p class="small vg-muted">Today: {{ "{:,}".format(counts.badges["Fair"]) }} Fair, {{ counts.badges["Overpriced"] }} Overpriced, {{ counts.badges["Good value"] }} Good value, and {{ counts.badges["Not enough data"] }} with too little data to judge.</p>
+</section>
+
+<section class="vg-section vg-prose" aria-labelledby="sweet-title">
+  <h2 class="heading" id="sweet-title">How the sweet spot works</h2>
+  <p>The trims of one model, with the same fuel, gearbox and engine, are lined up from cheapest to dearest. Each step up is valued by what its added features usually cost between trims of the same model.</p>
+  <p>The {{ sweet() }} is the trim where the value gained since the cheapest trim, minus the extra money paid, is largest.</p>
+</section>
+
+<section class="vg-section vg-prose" aria-labelledby="limits-title">
+  <h2 class="heading" id="limits-title">What it can't tell you</h2>
+  <ul>
+    <li>These are list prices. Dealers often sell for less, and prices change.</li>
+    <li>Prices are for {{ counts.city }} only. Other cities can differ.</li>
+    <li>"Not listed" means CarDekho doesn't list a feature. It doesn't mean the car lacks it.</li>
+    <li>Feature values are averages across many cars: a guide, not a quote.</li>
+  </ul>
+</section>
+
+<section class="vg-section vg-prose" aria-labelledby="research-title">
+  <h2 class="heading" id="research-title">The research</h2>
+  <p>Every number here comes from a Jupyter notebook, <code>suv_research.ipynb</code>, that shows how it was worked out and what was tried along the way.</p>
+</section>
+{% endblock %}

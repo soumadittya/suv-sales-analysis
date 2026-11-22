@@ -1,0 +1,91 @@
+{% extends "base.html" %}
+{% from "_macros.html" import result_row %}
+{% set nav = "find" %}
+{% block title %}{% if searched %}“{{ q }}” · {% endif %}Find an SUV · SUV Value Guide{% endblock %}
+
+{% block content %}
+<section class="vg-section">
+  <h1 class="title">Find an SUV that's worth its price</h1>
+  <p class="vg-muted">Set a budget and tick what the car must have. You'll see every variant that fits, cheapest first, with a verdict on its price. {{ "{:,}".format(variants_total) }} variants from {{ models_total }} models.</p>
+</section>
+
+<form role="search" method="get" action="/" class="vg-section vg-search">
+  <label class="vg-label" for="q">Know the car already?</label>
+  <div class="vg-row">
+    <input class="vg-input" id="q" name="q" type="search" value="{{ q }}" placeholder="Search a model or variant, e.g. Creta SX">
+    <button class="vg-btn" type="submit">Search</button>
+  </div>
+</form>
+
+{% set more = options|rejectattr("main")|list %}
+{% set more_ticked = more|selectattr("key", "in", must)|list %}
+<form class="vg-panel" method="get" action="/" aria-label="Filters">
+  <div class="vg-fields">
+    <label class="vg-field" for="max"><span class="vg-label">Budget up to (₹ lakh)</span>
+      <input class="vg-input" id="max" name="max" type="number" inputmode="decimal" min="1" step="0.5" value="{{ budget }}" placeholder="Any"></label>
+    <label class="vg-field" for="fuel"><span class="vg-label">Fuel</span>
+      <select class="vg-select" id="fuel" name="fuel">
+        <option value="any">Any</option>
+        {% for f in fuels %}<option value="{{ f }}"{% if f == fuel %} selected{% endif %}>{{ f }}</option>{% endfor %}
+      </select></label>
+    <label class="vg-field" for="seats"><span class="vg-label">Seats</span>
+      <select class="vg-select" id="seats" name="seats">
+        <option value="any">Any</option>
+        {% for value, label in seat_choices.items() %}<option value="{{ value }}"{% if value == seats %} selected{% endif %}>{{ label }}</option>{% endfor %}
+      </select></label>
+  </div>
+  <fieldset class="vg-checks">
+    <legend class="vg-label">Must have</legend>
+    {% for o in options if o.main %}
+    <label class="vg-check"><input type="checkbox" id="opt-{{ o.key }}" name="must" value="{{ o.key }}"{% if o.key in must %} checked{% endif %}> {{ o.label }}</label>
+    {% endfor %}
+  </fieldset>
+  <details{% if more_ticked %} open{% endif %}>
+    <summary class="small vg-more">More options ({{ more|length }})</summary>
+    <fieldset class="vg-checks vg-checks--more">
+      <legend class="vg-sr">More must-have options</legend>
+      {% for o in more %}
+      <label class="vg-check"><input type="checkbox" id="opt-{{ o.key }}" name="must" value="{{ o.key }}"{% if o.key in must %} checked{% endif %}> {{ o.label }}</label>
+      {% endfor %}
+    </fieldset>
+  </details>
+  <div class="vg-actions">
+    <button class="vg-btn vg-btn--primary" type="submit">Show variants</button>
+    <a href="/">Clear</a>
+  </div>
+</form>
+
+{% if searched %}
+<section class="vg-section" aria-labelledby="results-title">
+  <div>
+    <h2 class="heading" id="results-title">{% if total %}{{ total }} variant{{ "s" if total != 1 }} match “{{ q }}”{% else %}Nothing matches “{{ q }}”{% endif %}</h2>
+    <p class="small vg-muted">{% if total %}Cheapest first{% if total >= 50 %}; showing the first 50, so add a word to narrow it down{% endif %}.{% else %}Try just the model name, like Creta or Nexon EV.{% endif %}</p>
+  </div>
+  {% if results %}<ol class="vg-results">{% for r in results %}{{ result_row(r) }}{% endfor %}</ol>{% endif %}
+</section>
+
+{% elif filtered %}
+<section class="vg-section" aria-labelledby="results-title">
+  <div class="vg-results-head">
+    <div>
+      <h2 class="heading" id="results-title">{% if total %}{{ "{:,}".format(total) }} variant{{ "s" if total != 1 }} match{{ "es" if total == 1 }}{% else %}No variants match{% endif %}</h2>
+      <p class="small vg-muted">
+        {%- if total %}From {{ models }} model{{ "s" if models != 1 }}{% if max_lakh %}, up to ₹{{ budget }} lakh{% endif %}, {{ "best value first" if sort == "value" else "cheapest first" }}.
+        {%- else %}Try a higher budget or fewer must-haves.{% endif -%}
+      </p>
+    </div>
+    {% if total > 1 %}
+    <p class="small">Sort:
+      {% if sort == "value" %}<a href="{{ sort_price_link }}">Lowest price</a> · <strong>Best value</strong>
+      {% else %}<strong>Lowest price</strong> · <a href="{{ sort_value_link }}">Best value</a>{% endif %}
+    </p>
+    {% endif %}
+  </div>
+  {% if results %}
+  <ol class="vg-results">{% for r in results %}{{ result_row(r) }}{% endfor %}</ol>
+  {% if total > limit %}<p><a class="vg-btn" href="{{ more_link }}">Show {{ [20, total - limit]|min }} more</a></p>{% endif %}
+  <p class="small vg-muted">Prices are ex-showroom in {{ source.city }}. A verdict compares the price with what similar SUVs cost; Sweet spot marks the best-value trim of its line-up. <a href="/about">How this works</a></p>
+  {% endif %}
+</section>
+{% endif %}
+{% endblock %}

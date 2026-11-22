@@ -5,8 +5,8 @@ import json
 import pandas as pd
 import os
 
-input_data_path = './remaining_cars.csv'
-output_data_directory = './remaining_cars_2'
+input_data_path = './suv_models - suv_models.csv'
+output_data_directory = './new_car_features'
 car_list = (pd.read_csv(input_data_path)).values.tolist()
 root_url_model = 'https://www.cardekho.com/'
 root_url_variant = 'https://www.cardekho.com/overview/' # '/' at the end is mandatory

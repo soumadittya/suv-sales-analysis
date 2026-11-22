@@ -1,4 +1,4 @@
-"""Build new_variant_prices.csv: one row per variant in new_variant_links.csv with the
+"""Build data/new_variant_prices.csv: one row per variant in data/new_variant_links.csv with the
 price table from its CarDekho variant page (the same page the features come from).
 
 Columns:
@@ -12,9 +12,10 @@ kept and the city-specific columns are left blank. A blank "others" or
 Pages are read from --cache (gzipped HTML saved by new_variant_features_scraper.py
 --cache) when available, so prices match the features snapshot; anything missing is
 downloaded. price_date is the date the page was downloaded.
+File paths default to the data/ folder next to scrapers/, so it runs from any folder.
 
-Usage:
-    python3 new_variant_prices_scraper.py --cache <html cache folder>
+Usage (from the project folder):
+    python3 scrapers/new_variant_prices_scraper.py --cache <html cache folder>
 """
 import argparse
 import csv
@@ -28,7 +29,7 @@ import time
 from concurrent.futures import ThreadPoolExecutor
 from html.parser import HTMLParser
 
-from new_variant_features_scraper import fetch, redirect_is_rename, same_page
+from new_variant_features_scraper import DATA_DIR, fetch, redirect_is_rename, same_page
 
 CITY = 'New Delhi'
 PRICE_COLUMNS = ['company', 'model', 'variant', 'ex_showroom_price', 'registration_charges',
@@ -185,8 +186,8 @@ def load_page(link, cache_dir, delay, listed_urls):
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument('--links', default='new_variant_links.csv')
-    ap.add_argument('--out', default='new_variant_prices.csv')
+    ap.add_argument('--links', default=os.path.join(DATA_DIR, 'new_variant_links.csv'))
+    ap.add_argument('--out', default=os.path.join(DATA_DIR, 'new_variant_prices.csv'))
     ap.add_argument('--cache', default='', help='folder of gzipped variant pages (read, and filled for misses)')
     ap.add_argument('--workers', type=int, default=3)
     ap.add_argument('--delay', type=float, default=1.0, help='base seconds to wait before each download')
