@@ -1,0 +1,131 @@
+company,model,variant,category,feature_name,feature_details
+Tata,Nexon,Pure Plus PS CNG,Engine & Transmission,Engine Type,1.2L Turbocharged Revotron
+Tata,Nexon,Pure Plus PS CNG,Engine & Transmission,Displacement,1199 cc
+Tata,Nexon,Pure Plus PS CNG,Engine & Transmission,Max Power,99bhp@5000rpm
+Tata,Nexon,Pure Plus PS CNG,Engine & Transmission,Max Torque,170Nm@2000rpm
+Tata,Nexon,Pure Plus PS CNG,Engine & Transmission,No. of Cylinders,3
+Tata,Nexon,Pure Plus PS CNG,Engine & Transmission,Valves Per Cylinder,4
+Tata,Nexon,Pure Plus PS CNG,Engine & Transmission,Turbo Charger,YES
+Tata,Nexon,Pure Plus PS CNG,Engine & Transmission,Transmission Type,Manual
+Tata,Nexon,Pure Plus PS CNG,Engine & Transmission,Gearbox,6-Speed
+Tata,Nexon,Pure Plus PS CNG,Engine & Transmission,Drive Type,FWD
+Tata,Nexon,Pure Plus PS CNG,Fuel & Performance,Fuel Type,CNG
+Tata,Nexon,Pure Plus PS CNG,Fuel & Performance,CNG Mileage ARAI,17.44 km/kg
+Tata,Nexon,Pure Plus PS CNG,Fuel & Performance,CNG Fuel Tank Capacity,60 Litres
+Tata,Nexon,Pure Plus PS CNG,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Tata,Nexon,Pure Plus PS CNG,Fuel & Performance,Top Speed,180 kmph
+Tata,Nexon,Pure Plus PS CNG,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Tata,Nexon,Pure Plus PS CNG,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Tata,Nexon,Pure Plus PS CNG,"Suspension, Steering & Brakes",Steering Type,Electric
+Tata,Nexon,Pure Plus PS CNG,"Suspension, Steering & Brakes",Steering Column,Tilt
+Tata,Nexon,Pure Plus PS CNG,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Tata,Nexon,Pure Plus PS CNG,"Suspension, Steering & Brakes",Rear Brake Type,Drum
+Tata,Nexon,Pure Plus PS CNG,Dimensions & Capacity,Length,3995 mm
+Tata,Nexon,Pure Plus PS CNG,Dimensions & Capacity,Width,1804 mm
+Tata,Nexon,Pure Plus PS CNG,Dimensions & Capacity,Height,1620 mm
+Tata,Nexon,Pure Plus PS CNG,Dimensions & Capacity,Boot Space,321 Litres
+Tata,Nexon,Pure Plus PS CNG,Dimensions & Capacity,Seating Capacity,5
+Tata,Nexon,Pure Plus PS CNG,Dimensions & Capacity,Ground Clearance Unladen,208 mm
+Tata,Nexon,Pure Plus PS CNG,Dimensions & Capacity,Wheel Base,2498 mm
+Tata,Nexon,Pure Plus PS CNG,Comfort & Convenience,Power Steering,YES
+Tata,Nexon,Pure Plus PS CNG,Comfort & Convenience,Air Conditioner,YES
+Tata,Nexon,Pure Plus PS CNG,Comfort & Convenience,Heater,YES
+Tata,Nexon,Pure Plus PS CNG,Comfort & Convenience,Adjustable Steering,Height only
+Tata,Nexon,Pure Plus PS CNG,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Tata,Nexon,Pure Plus PS CNG,Comfort & Convenience,Ventilated Seats,NO
+Tata,Nexon,Pure Plus PS CNG,Comfort & Convenience,Automatic Climate Control,NO
+Tata,Nexon,Pure Plus PS CNG,Comfort & Convenience,Air Quality Control,NO
+Tata,Nexon,Pure Plus PS CNG,Comfort & Convenience,Accessory Power Outlet,YES
+Tata,Nexon,Pure Plus PS CNG,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Tata,Nexon,Pure Plus PS CNG,Comfort & Convenience,Adjustable Headrest,YES
+Tata,Nexon,Pure Plus PS CNG,Comfort & Convenience,Rear Seat Centre Arm Rest,NO
+Tata,Nexon,Pure Plus PS CNG,Comfort & Convenience,Height Adjustable Front Seat Belts,NO
+Tata,Nexon,Pure Plus PS CNG,Comfort & Convenience,Rear AC Vents,YES
+Tata,Nexon,Pure Plus PS CNG,Comfort & Convenience,Cruise Control,YES
+Tata,Nexon,Pure Plus PS CNG,Comfort & Convenience,Parking Sensors,Rear
+Tata,Nexon,Pure Plus PS CNG,Comfort & Convenience,Foldable Rear Seat,Bench Folding
+Tata,Nexon,Pure Plus PS CNG,Comfort & Convenience,KeyLess Entry,YES
+Tata,Nexon,Pure Plus PS CNG,Comfort & Convenience,Engine Start/Stop Button,NO
+Tata,Nexon,Pure Plus PS CNG,Comfort & Convenience,Voice Commands,NO
+Tata,Nexon,Pure Plus PS CNG,Comfort & Convenience,Paddle Shifters,NO
+Tata,Nexon,Pure Plus PS CNG,Comfort & Convenience,USB Charger,Front
+Tata,Nexon,Pure Plus PS CNG,Comfort & Convenience,Central Console Armrest,YES
+Tata,Nexon,Pure Plus PS CNG,Comfort & Convenience,Drive Modes,NO
+Tata,Nexon,Pure Plus PS CNG,Comfort & Convenience,Follow Me Home Headlamps,YES
+Tata,Nexon,Pure Plus PS CNG,Comfort & Convenience,Voice assisted sunroof,NO
+Tata,Nexon,Pure Plus PS CNG,Comfort & Convenience,Power Windows,Front & Rear
+Tata,Nexon,Pure Plus PS CNG,Interior,Leather Wrapped Steering Wheel,NO
+Tata,Nexon,Pure Plus PS CNG,Interior,Glove Box,YES
+Tata,Nexon,Pure Plus PS CNG,Interior,Digital Cluster,YES
+Tata,Nexon,Pure Plus PS CNG,Interior,Digital Cluster Size,4
+Tata,Nexon,Pure Plus PS CNG,Interior,Upholstery,Fabric
+Tata,Nexon,Pure Plus PS CNG,Exterior,Adjustable Headlamps,YES
+Tata,Nexon,Pure Plus PS CNG,Exterior,Rain Sensing Wiper,YES
+Tata,Nexon,Pure Plus PS CNG,Exterior,Rear Window Wiper,YES
+Tata,Nexon,Pure Plus PS CNG,Exterior,Rear Window Washer,NO
+Tata,Nexon,Pure Plus PS CNG,Exterior,Rear Window Defogger,NO
+Tata,Nexon,Pure Plus PS CNG,Exterior,Wheel Covers,YES
+Tata,Nexon,Pure Plus PS CNG,Exterior,Alloy Wheels,NO
+Tata,Nexon,Pure Plus PS CNG,Exterior,Rear Spoiler,YES
+Tata,Nexon,Pure Plus PS CNG,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Tata,Nexon,Pure Plus PS CNG,Exterior,Cornering Foglamps,NO
+Tata,Nexon,Pure Plus PS CNG,Exterior,Roof Rails,YES
+Tata,Nexon,Pure Plus PS CNG,Exterior,Automatic Headlamps,YES
+Tata,Nexon,Pure Plus PS CNG,Exterior,Fog Lights,NO
+Tata,Nexon,Pure Plus PS CNG,Exterior,Antenna,Shark Fin
+Tata,Nexon,Pure Plus PS CNG,Exterior,Sunroof,Panoramic
+Tata,Nexon,Pure Plus PS CNG,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Tata,Nexon,Pure Plus PS CNG,Exterior,Tyre Size,195/60 R16
+Tata,Nexon,Pure Plus PS CNG,Exterior,Tyre Type,Radial Tubeless
+Tata,Nexon,Pure Plus PS CNG,Exterior,Wheel Size,16 Inch
+Tata,Nexon,Pure Plus PS CNG,Exterior,LED DRLs,YES
+Tata,Nexon,Pure Plus PS CNG,Exterior,LED Headlamps,YES
+Tata,Nexon,Pure Plus PS CNG,Exterior,LED Taillights,YES
+Tata,Nexon,Pure Plus PS CNG,Exterior,LED Fog Lamps,NO
+Tata,Nexon,Pure Plus PS CNG,Safety,Anti-lock Braking System (ABS),YES
+Tata,Nexon,Pure Plus PS CNG,Safety,Central Locking,YES
+Tata,Nexon,Pure Plus PS CNG,Safety,Child Safety Locks,YES
+Tata,Nexon,Pure Plus PS CNG,Safety,No. of Airbags,6
+Tata,Nexon,Pure Plus PS CNG,Safety,Driver Airbag,YES
+Tata,Nexon,Pure Plus PS CNG,Safety,Passenger Airbag,YES
+Tata,Nexon,Pure Plus PS CNG,Safety,Side Airbag,YES
+Tata,Nexon,Pure Plus PS CNG,Safety,Side Airbag-Rear,NO
+Tata,Nexon,Pure Plus PS CNG,Safety,Day & Night Rear View Mirror,YES
+Tata,Nexon,Pure Plus PS CNG,Safety,Electronic Brakeforce Distribution (EBD),YES
+Tata,Nexon,Pure Plus PS CNG,Safety,Tyre Pressure Monitoring System (TPMS),NO
+Tata,Nexon,Pure Plus PS CNG,Safety,Engine Immobilizer,YES
+Tata,Nexon,Pure Plus PS CNG,Safety,Electronic Stability Control (ESC),YES
+Tata,Nexon,Pure Plus PS CNG,Safety,Rear Camera,With Guidedlines
+Tata,Nexon,Pure Plus PS CNG,Safety,ISOFIX Child Seat Mounts,YES
+Tata,Nexon,Pure Plus PS CNG,Safety,360 View Camera,NO
+Tata,Nexon,Pure Plus PS CNG,Safety,Global NCAP Safety Rating,5 Star
+Tata,Nexon,Pure Plus PS CNG,Safety,Global NCAP Child Safety Rating,5 Star
+Tata,Nexon,Pure Plus PS CNG,Safety,Bharat NCAP Safety Rating,5 Star
+Tata,Nexon,Pure Plus PS CNG,Safety,Bharat NCAP Child Safety Rating,5 Star
+Tata,Nexon,Pure Plus PS CNG,Entertainment & Communication,Radio,YES
+Tata,Nexon,Pure Plus PS CNG,Entertainment & Communication,Wireless Phone Charging,NO
+Tata,Nexon,Pure Plus PS CNG,Entertainment & Communication,Bluetooth Connectivity,YES
+Tata,Nexon,Pure Plus PS CNG,Entertainment & Communication,Touchscreen,YES
+Tata,Nexon,Pure Plus PS CNG,Entertainment & Communication,Touchscreen Size,10.25 inch
+Tata,Nexon,Pure Plus PS CNG,Entertainment & Communication,Android Auto,YES
+Tata,Nexon,Pure Plus PS CNG,Entertainment & Communication,Apple CarPlay,YES
+Tata,Nexon,Pure Plus PS CNG,Entertainment & Communication,No. of Speakers,6
+Tata,Nexon,Pure Plus PS CNG,Entertainment & Communication,Usb Ports,YES
+Tata,Nexon,Pure Plus PS CNG,Entertainment & Communication,Additional Features,Wireless Android Auto & Apple Car Play
+Tata,Nexon,Pure Plus PS CNG,Entertainment & Communication,Speakers,Front & Rear
+Tata,Nexon,Pure Plus PS CNG,ADAS Feature,Forward Collision Warning,NO
+Tata,Nexon,Pure Plus PS CNG,ADAS Feature,Automatic Emergency Braking,NO
+Tata,Nexon,Pure Plus PS CNG,ADAS Feature,Traffic Sign Recognition,NO
+Tata,Nexon,Pure Plus PS CNG,ADAS Feature,Lane Departure Warning,NO
+Tata,Nexon,Pure Plus PS CNG,ADAS Feature,Lane Keep Assist,NO
+Tata,Nexon,Pure Plus PS CNG,ADAS Feature,Adaptive High Beam Assist,NO
+Tata,Nexon,Pure Plus PS CNG,ADAS Feature,Blind Spot Monitor,NO
+Tata,Nexon,Pure Plus PS CNG,Advance Internet Feature,Live Location,NO
+Tata,Nexon,Pure Plus PS CNG,Advance Internet Feature,Engine Start Alarm,NO
+Tata,Nexon,Pure Plus PS CNG,Advance Internet Feature,Remote Vehicle Status Check,NO
+Tata,Nexon,Pure Plus PS CNG,Advance Internet Feature,Navigation with Live Traffic,NO
+Tata,Nexon,Pure Plus PS CNG,Advance Internet Feature,Live Weather,NO
+Tata,Nexon,Pure Plus PS CNG,Advance Internet Feature,E-Call & I-Call,NO
+Tata,Nexon,Pure Plus PS CNG,Advance Internet Feature,Over the Air (OTA) Updates,NO
+Tata,Nexon,Pure Plus PS CNG,Advance Internet Feature,Remote AC On/Off,NO
+Tata,Nexon,Pure Plus PS CNG,Advance Internet Feature,Remote Vehicle Ignition Start/Stop,NO

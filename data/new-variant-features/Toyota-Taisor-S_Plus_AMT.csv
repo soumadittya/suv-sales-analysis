@@ -1,0 +1,118 @@
+company,model,variant,category,feature_name,feature_details
+Toyota,Taisor,S Plus AMT,Engine & Transmission,Engine Type,1.2L K-Series Dual Jet
+Toyota,Taisor,S Plus AMT,Engine & Transmission,Displacement,1197 cc
+Toyota,Taisor,S Plus AMT,Engine & Transmission,Max Power,88.5bhp@6000rpm
+Toyota,Taisor,S Plus AMT,Engine & Transmission,Max Torque,113Nm@4400rpm
+Toyota,Taisor,S Plus AMT,Engine & Transmission,No. of Cylinders,4
+Toyota,Taisor,S Plus AMT,Engine & Transmission,Valves Per Cylinder,4
+Toyota,Taisor,S Plus AMT,Engine & Transmission,Turbo Charger,NO
+Toyota,Taisor,S Plus AMT,Engine & Transmission,Transmission Type,Automatic
+Toyota,Taisor,S Plus AMT,Engine & Transmission,Gearbox,5-Speed AMT
+Toyota,Taisor,S Plus AMT,Engine & Transmission,Drive Type,FWD
+Toyota,Taisor,S Plus AMT,Fuel & Performance,Fuel Type,Petrol
+Toyota,Taisor,S Plus AMT,Fuel & Performance,Petrol Mileage ARAI,22.8 kmpl
+Toyota,Taisor,S Plus AMT,Fuel & Performance,Petrol Fuel Tank Capacity,37 Litres
+Toyota,Taisor,S Plus AMT,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Toyota,Taisor,S Plus AMT,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Toyota,Taisor,S Plus AMT,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Toyota,Taisor,S Plus AMT,"Suspension, Steering & Brakes",Steering Type,Electric
+Toyota,Taisor,S Plus AMT,"Suspension, Steering & Brakes",Steering Column,Tilt
+Toyota,Taisor,S Plus AMT,"Suspension, Steering & Brakes",Turning Radius,4.9 m
+Toyota,Taisor,S Plus AMT,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Toyota,Taisor,S Plus AMT,"Suspension, Steering & Brakes",Rear Brake Type,Drum
+Toyota,Taisor,S Plus AMT,Dimensions & Capacity,Length,3995 mm
+Toyota,Taisor,S Plus AMT,Dimensions & Capacity,Width,1765 mm
+Toyota,Taisor,S Plus AMT,Dimensions & Capacity,Height,1550 mm
+Toyota,Taisor,S Plus AMT,Dimensions & Capacity,Boot Space,308 Litres
+Toyota,Taisor,S Plus AMT,Dimensions & Capacity,Seating Capacity,5
+Toyota,Taisor,S Plus AMT,Dimensions & Capacity,Wheel Base,2520 mm
+Toyota,Taisor,S Plus AMT,Dimensions & Capacity,Kerb Weight,975 kg
+Toyota,Taisor,S Plus AMT,Dimensions & Capacity,Gross Weight,1450 kg
+Toyota,Taisor,S Plus AMT,Comfort & Convenience,Boot Opening,Manual
+Toyota,Taisor,S Plus AMT,Comfort & Convenience,Power Steering,YES
+Toyota,Taisor,S Plus AMT,Comfort & Convenience,Air Conditioner,YES
+Toyota,Taisor,S Plus AMT,Comfort & Convenience,Heater,YES
+Toyota,Taisor,S Plus AMT,Comfort & Convenience,Height Adjustable Driver Seat,NO
+Toyota,Taisor,S Plus AMT,Comfort & Convenience,Automatic Climate Control,YES
+Toyota,Taisor,S Plus AMT,Comfort & Convenience,Adjustable Headrest,YES
+Toyota,Taisor,S Plus AMT,Comfort & Convenience,Rear AC Vents,NO
+Toyota,Taisor,S Plus AMT,Comfort & Convenience,Cruise Control,NO
+Toyota,Taisor,S Plus AMT,Comfort & Convenience,Parking Sensors,Rear
+Toyota,Taisor,S Plus AMT,Comfort & Convenience,Real-Time Vehicle Tracking,NO
+Toyota,Taisor,S Plus AMT,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Toyota,Taisor,S Plus AMT,Comfort & Convenience,KeyLess Entry,YES
+Toyota,Taisor,S Plus AMT,Comfort & Convenience,Engine Start/Stop Button,NO
+Toyota,Taisor,S Plus AMT,Comfort & Convenience,Paddle Shifters,NO
+Toyota,Taisor,S Plus AMT,Comfort & Convenience,USB Charger,NO
+Toyota,Taisor,S Plus AMT,Comfort & Convenience,Central Console Armrest,NO
+Toyota,Taisor,S Plus AMT,Comfort & Convenience,Gear Shift Indicator,NO
+Toyota,Taisor,S Plus AMT,Comfort & Convenience,Idle Start-Stop System,YES
+Toyota,Taisor,S Plus AMT,Comfort & Convenience,Follow Me Home Headlamps,YES
+Toyota,Taisor,S Plus AMT,Comfort & Convenience,Power Windows,Front & Rear
+Toyota,Taisor,S Plus AMT,Interior,Leather Wrapped Steering Wheel,NO
+Toyota,Taisor,S Plus AMT,Interior,Glove Box,YES
+Toyota,Taisor,S Plus AMT,Interior,Additional Features,Rear Parcel Tray
+Toyota,Taisor,S Plus AMT,Interior,Digital Cluster,NO
+Toyota,Taisor,S Plus AMT,Interior,Digital Cluster Size,NO
+Toyota,Taisor,S Plus AMT,Interior,Upholstery,Fabric
+Toyota,Taisor,S Plus AMT,Exterior,Adjustable Headlamps,YES
+Toyota,Taisor,S Plus AMT,Exterior,Rear Window Wiper,NO
+Toyota,Taisor,S Plus AMT,Exterior,Rear Window Washer,NO
+Toyota,Taisor,S Plus AMT,Exterior,Rear Window Defogger,YES
+Toyota,Taisor,S Plus AMT,Exterior,Rear Spoiler,YES
+Toyota,Taisor,S Plus AMT,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Toyota,Taisor,S Plus AMT,Exterior,Halogen Headlamps,NO
+Toyota,Taisor,S Plus AMT,Exterior,Roof Rails,YES
+Toyota,Taisor,S Plus AMT,Exterior,Automatic Headlamps,YES
+Toyota,Taisor,S Plus AMT,Exterior,Antenna,Shark Fin
+Toyota,Taisor,S Plus AMT,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Toyota,Taisor,S Plus AMT,Exterior,Tyre Size,195/60 R16
+Toyota,Taisor,S Plus AMT,Exterior,Tyre Type,Tubeless & Radial
+Toyota,Taisor,S Plus AMT,Exterior,Wheel Size,16 Inch
+Toyota,Taisor,S Plus AMT,Exterior,LED DRLs,YES
+Toyota,Taisor,S Plus AMT,Exterior,LED Headlamps,YES
+Toyota,Taisor,S Plus AMT,Safety,Anti-lock Braking System (ABS),YES
+Toyota,Taisor,S Plus AMT,Safety,Central Locking,YES
+Toyota,Taisor,S Plus AMT,Safety,Child Safety Locks,YES
+Toyota,Taisor,S Plus AMT,Safety,Anti-Theft Alarm,YES
+Toyota,Taisor,S Plus AMT,Safety,No. of Airbags,6
+Toyota,Taisor,S Plus AMT,Safety,Driver Airbag,YES
+Toyota,Taisor,S Plus AMT,Safety,Passenger Airbag,YES
+Toyota,Taisor,S Plus AMT,Safety,Side Airbag,YES
+Toyota,Taisor,S Plus AMT,Safety,Day & Night Rear View Mirror,YES
+Toyota,Taisor,S Plus AMT,Safety,Electronic Brakeforce Distribution (EBD),YES
+Toyota,Taisor,S Plus AMT,Safety,Traction Control,YES
+Toyota,Taisor,S Plus AMT,Safety,Engine Immobilizer,YES
+Toyota,Taisor,S Plus AMT,Safety,Electronic Stability Control (ESC),YES
+Toyota,Taisor,S Plus AMT,Safety,Rear Camera,NO
+Toyota,Taisor,S Plus AMT,Safety,Anti-Pinch Power Windows,Driver's Window
+Toyota,Taisor,S Plus AMT,Safety,ISOFIX Child Seat Mounts,YES
+Toyota,Taisor,S Plus AMT,Safety,Heads-Up Display (HUD),NO
+Toyota,Taisor,S Plus AMT,Safety,Hill Assist,YES
+Toyota,Taisor,S Plus AMT,Safety,360 View Camera,NO
+Toyota,Taisor,S Plus AMT,Entertainment & Communication,Radio,YES
+Toyota,Taisor,S Plus AMT,Entertainment & Communication,Wireless Phone Charging,NO
+Toyota,Taisor,S Plus AMT,Entertainment & Communication,Bluetooth Connectivity,YES
+Toyota,Taisor,S Plus AMT,Entertainment & Communication,Touchscreen,YES
+Toyota,Taisor,S Plus AMT,Entertainment & Communication,Touchscreen Size,7 Inch
+Toyota,Taisor,S Plus AMT,Entertainment & Communication,Android Auto,YES
+Toyota,Taisor,S Plus AMT,Entertainment & Communication,Apple CarPlay,YES
+Toyota,Taisor,S Plus AMT,Entertainment & Communication,No. of Speakers,4
+Toyota,Taisor,S Plus AMT,Entertainment & Communication,Usb Ports,YES
+Toyota,Taisor,S Plus AMT,Entertainment & Communication,Additional Features,Android Auto & Apple CarPlay (Wireless)
+Toyota,Taisor,S Plus AMT,Entertainment & Communication,Speakers,Front & Rear
+Toyota,Taisor,S Plus AMT,Advance Internet Feature,Remote Immobiliser,NO
+Toyota,Taisor,S Plus AMT,Advance Internet Feature,Unauthorised Vehicle entry,NO
+Toyota,Taisor,S Plus AMT,Advance Internet Feature,Remote Vehicle Status Check,NO
+Toyota,Taisor,S Plus AMT,Advance Internet Feature,Over the Air (OTA) Updates,YES
+Toyota,Taisor,S Plus AMT,Advance Internet Feature,Google / Alexa Connectivity,NO
+Toyota,Taisor,S Plus AMT,Advance Internet Feature,Over Speeding Alert,NO
+Toyota,Taisor,S Plus AMT,Advance Internet Feature,Tow Away Alert,NO
+Toyota,Taisor,S Plus AMT,Advance Internet Feature,In Car Remote Control App,NO
+Toyota,Taisor,S Plus AMT,Advance Internet Feature,Smartwatch App,NO
+Toyota,Taisor,S Plus AMT,Advance Internet Feature,Valet Mode,NO
+Toyota,Taisor,S Plus AMT,Advance Internet Feature,Remote AC On/Off,NO
+Toyota,Taisor,S Plus AMT,Advance Internet Feature,Remote Door Lock/Unlock,NO
+Toyota,Taisor,S Plus AMT,Advance Internet Feature,Remote Vehicle Ignition Start/Stop,NO
+Toyota,Taisor,S Plus AMT,Advance Internet Feature,Remote Boot Open,NO
+Toyota,Taisor,S Plus AMT,Advance Internet Feature,Inbuilt APPs,NO

@@ -1,0 +1,127 @@
+company,model,variant,category,feature_name,feature_details
+Honda,Elevate,ZX CVT,Engine & Transmission,Engine Type,i-VTEC
+Honda,Elevate,ZX CVT,Engine & Transmission,Displacement,1498 cc
+Honda,Elevate,ZX CVT,Engine & Transmission,Max Power,119bhp@6600rpm
+Honda,Elevate,ZX CVT,Engine & Transmission,Max Torque,145Nm@4300rpm
+Honda,Elevate,ZX CVT,Engine & Transmission,No. of Cylinders,4
+Honda,Elevate,ZX CVT,Engine & Transmission,Valves Per Cylinder,4
+Honda,Elevate,ZX CVT,Engine & Transmission,Transmission Type,Automatic
+Honda,Elevate,ZX CVT,Engine & Transmission,Gearbox,CVT
+Honda,Elevate,ZX CVT,Engine & Transmission,Drive Type,FWD
+Honda,Elevate,ZX CVT,Fuel & Performance,Fuel Type,Petrol
+Honda,Elevate,ZX CVT,Fuel & Performance,Petrol Mileage ARAI,16.61 kmpl
+Honda,Elevate,ZX CVT,Fuel & Performance,Petrol Fuel Tank Capacity,40 Litres
+Honda,Elevate,ZX CVT,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Honda,Elevate,ZX CVT,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Honda,Elevate,ZX CVT,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Honda,Elevate,ZX CVT,"Suspension, Steering & Brakes",Shock Absorbers Type,Telescopic Hydraulic Nitrogen Gas-filled
+Honda,Elevate,ZX CVT,"Suspension, Steering & Brakes",Steering Type,Electric
+Honda,Elevate,ZX CVT,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Honda,Elevate,ZX CVT,"Suspension, Steering & Brakes",Turning Radius,5.2 m
+Honda,Elevate,ZX CVT,"Suspension, Steering & Brakes",Front Brake Type,Ventilated Disc
+Honda,Elevate,ZX CVT,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Honda,Elevate,ZX CVT,Dimensions & Capacity,Length,4312 mm
+Honda,Elevate,ZX CVT,Dimensions & Capacity,Width,1790 mm
+Honda,Elevate,ZX CVT,Dimensions & Capacity,Height,1650 mm
+Honda,Elevate,ZX CVT,Dimensions & Capacity,Boot Space,458 Litres
+Honda,Elevate,ZX CVT,Dimensions & Capacity,Seating Capacity,5
+Honda,Elevate,ZX CVT,Dimensions & Capacity,Ground Clearance Unladen,220 mm
+Honda,Elevate,ZX CVT,Dimensions & Capacity,Wheel Base,2650 mm
+Honda,Elevate,ZX CVT,Dimensions & Capacity,Front Tread,1540 mm
+Honda,Elevate,ZX CVT,Dimensions & Capacity,Rear Tread,1555 mm
+Honda,Elevate,ZX CVT,Dimensions & Capacity,Gross Weight,1700 kg
+Honda,Elevate,ZX CVT,Comfort & Convenience,Boot Opening,Electronic
+Honda,Elevate,ZX CVT,Comfort & Convenience,Power Steering,YES
+Honda,Elevate,ZX CVT,Comfort & Convenience,Air Conditioner,YES
+Honda,Elevate,ZX CVT,Comfort & Convenience,Heater,YES
+Honda,Elevate,ZX CVT,Comfort & Convenience,Adjustable Steering,Height & Reach
+Honda,Elevate,ZX CVT,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Honda,Elevate,ZX CVT,Comfort & Convenience,Automatic Climate Control,YES
+Honda,Elevate,ZX CVT,Comfort & Convenience,Air Quality Control,YES
+Honda,Elevate,ZX CVT,Comfort & Convenience,Accessory Power Outlet,YES
+Honda,Elevate,ZX CVT,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Honda,Elevate,ZX CVT,Comfort & Convenience,Adjustable Headrest,YES
+Honda,Elevate,ZX CVT,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Honda,Elevate,ZX CVT,Comfort & Convenience,Rear AC Vents,YES
+Honda,Elevate,ZX CVT,Comfort & Convenience,Parking Sensors,Rear
+Honda,Elevate,ZX CVT,Comfort & Convenience,Real-Time Vehicle Tracking,YES
+Honda,Elevate,ZX CVT,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Honda,Elevate,ZX CVT,Comfort & Convenience,KeyLess Entry,YES
+Honda,Elevate,ZX CVT,Comfort & Convenience,Engine Start/Stop Button,YES
+Honda,Elevate,ZX CVT,Comfort & Convenience,Voice Commands,YES
+Honda,Elevate,ZX CVT,Comfort & Convenience,Paddle Shifters,YES
+Honda,Elevate,ZX CVT,Comfort & Convenience,USB Charger,Front & Rear
+Honda,Elevate,ZX CVT,Comfort & Convenience,Central Console Armrest,With Storage
+Honda,Elevate,ZX CVT,Comfort & Convenience,Follow Me Home Headlamps,YES
+Honda,Elevate,ZX CVT,Comfort & Convenience,Power Windows,Front & Rear
+Honda,Elevate,ZX CVT,Comfort & Convenience,Cup Holders,Front & Rear
+Honda,Elevate,ZX CVT,Interior,Leather Wrapped Steering Wheel,YES
+Honda,Elevate,ZX CVT,Interior,Leather wrap gear-shift selector,YES
+Honda,Elevate,ZX CVT,Interior,Glove Box,YES
+Honda,Elevate,ZX CVT,Interior,Lighting,"Ambient light,Footwell Lamp"
+Honda,Elevate,ZX CVT,Interior,Digital Cluster,YES
+Honda,Elevate,ZX CVT,Interior,Digital Cluster Size,7
+Honda,Elevate,ZX CVT,Interior,Upholstery,Leatherette
+Honda,Elevate,ZX CVT,Exterior,Adjustable Headlamps,YES
+Honda,Elevate,ZX CVT,Exterior,Rear Window Wiper,YES
+Honda,Elevate,ZX CVT,Exterior,Rear Window Washer,YES
+Honda,Elevate,ZX CVT,Exterior,Rear Window Defogger,YES
+Honda,Elevate,ZX CVT,Exterior,Rear Spoiler,YES
+Honda,Elevate,ZX CVT,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Honda,Elevate,ZX CVT,Exterior,Projector Headlamps,YES
+Honda,Elevate,ZX CVT,Exterior,Roof Rails,YES
+Honda,Elevate,ZX CVT,Exterior,Automatic Headlamps,YES
+Honda,Elevate,ZX CVT,Exterior,Fog Lights,Front
+Honda,Elevate,ZX CVT,Exterior,Antenna,Shark Fin
+Honda,Elevate,ZX CVT,Exterior,Sunroof,Single Pane
+Honda,Elevate,ZX CVT,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Honda,Elevate,ZX CVT,Exterior,Exterior Camera,Rear View Camera
+Honda,Elevate,ZX CVT,Exterior,Tyre Size,215/55 R17
+Honda,Elevate,ZX CVT,Exterior,Tyre Type,Radial Tubeless
+Honda,Elevate,ZX CVT,Exterior,Wheel Size,17 Inch
+Honda,Elevate,ZX CVT,Exterior,LED DRLs,YES
+Honda,Elevate,ZX CVT,Exterior,LED Headlamps,YES
+Honda,Elevate,ZX CVT,Exterior,LED Taillights,YES
+Honda,Elevate,ZX CVT,Exterior,LED Fog Lamps,YES
+Honda,Elevate,ZX CVT,Safety,Anti-lock Braking System (ABS),YES
+Honda,Elevate,ZX CVT,Safety,Brake Assist,YES
+Honda,Elevate,ZX CVT,Safety,Central Locking,YES
+Honda,Elevate,ZX CVT,Safety,Child Safety Locks,YES
+Honda,Elevate,ZX CVT,Safety,Anti-Theft Alarm,YES
+Honda,Elevate,ZX CVT,Safety,No. of Airbags,6
+Honda,Elevate,ZX CVT,Safety,Day & Night Rear View Mirror,YES
+Honda,Elevate,ZX CVT,Safety,Electronic Brakeforce Distribution (EBD),YES
+Honda,Elevate,ZX CVT,Safety,Traction Control,YES
+Honda,Elevate,ZX CVT,Safety,Engine Immobilizer,YES
+Honda,Elevate,ZX CVT,Safety,Electronic Stability Control (ESC),YES
+Honda,Elevate,ZX CVT,Safety,Anti-Theft Device,YES
+Honda,Elevate,ZX CVT,Safety,Anti-Pinch Power Windows,Driver's Window
+Honda,Elevate,ZX CVT,Safety,ISOFIX Child Seat Mounts,YES
+Honda,Elevate,ZX CVT,Safety,Hill Assist,YES
+Honda,Elevate,ZX CVT,Safety,Safety Airbags,"Driver & Passenger, Front Side, Curtain"
+Honda,Elevate,ZX CVT,Entertainment & Communication,Radio,YES
+Honda,Elevate,ZX CVT,Entertainment & Communication,Wireless Phone Charging,YES
+Honda,Elevate,ZX CVT,Entertainment & Communication,Bluetooth Connectivity,YES
+Honda,Elevate,ZX CVT,Entertainment & Communication,Touchscreen,YES
+Honda,Elevate,ZX CVT,Entertainment & Communication,Touchscreen Size,10.25 inch
+Honda,Elevate,ZX CVT,Entertainment & Communication,Android Auto,YES
+Honda,Elevate,ZX CVT,Entertainment & Communication,Apple CarPlay,YES
+Honda,Elevate,ZX CVT,Entertainment & Communication,No. of Speakers,4
+Honda,Elevate,ZX CVT,Entertainment & Communication,Usb Ports,YES
+Honda,Elevate,ZX CVT,Entertainment & Communication,Tweeters,4
+Honda,Elevate,ZX CVT,Entertainment & Communication,Additional Features,"Premium Surround Sound System, Wireless Smartphone Connectivity (Android Auto, Apple CarPlay)"
+Honda,Elevate,ZX CVT,Entertainment & Communication,Speakers,Front & Rear
+Honda,Elevate,ZX CVT,ADAS Feature,Lane Keep Assist,YES
+Honda,Elevate,ZX CVT,ADAS Feature,Road Departure Mitigation System,YES
+Honda,Elevate,ZX CVT,ADAS Feature,Adaptive Cruise Control,YES
+Honda,Elevate,ZX CVT,ADAS Feature,Leading Vehicle Departure Alert,YES
+Honda,Elevate,ZX CVT,ADAS Feature,Adaptive High Beam Assist,YES
+Honda,Elevate,ZX CVT,Advance Internet Feature,Remote Vehicle Status Check,YES
+Honda,Elevate,ZX CVT,Advance Internet Feature,Google / Alexa Connectivity,YES
+Honda,Elevate,ZX CVT,Advance Internet Feature,Tow Away Alert,YES
+Honda,Elevate,ZX CVT,Advance Internet Feature,In Car Remote Control App,YES
+Honda,Elevate,ZX CVT,Advance Internet Feature,Smartwatch App,YES
+Honda,Elevate,ZX CVT,Advance Internet Feature,Remote AC On/Off,YES
+Honda,Elevate,ZX CVT,Advance Internet Feature,Remote Door Lock/Unlock,YES
+Honda,Elevate,ZX CVT,Advance Internet Feature,Remote Vehicle Ignition Start/Stop,YES
+Honda,Elevate,ZX CVT,Advance Internet Feature,Geo-fence Alert,YES

@@ -1,0 +1,92 @@
+company,model,variant,category,feature_name,feature_details
+Jeep,Wrangler,Unlimited,Engine & Transmission,Engine Type,2.0L Gme T4 Di
+Jeep,Wrangler,Unlimited,Engine & Transmission,Displacement,1995 cc
+Jeep,Wrangler,Unlimited,Engine & Transmission,Max Power,268.20bhp@5250rpm
+Jeep,Wrangler,Unlimited,Engine & Transmission,Max Torque,400Nm@3000rpm
+Jeep,Wrangler,Unlimited,Engine & Transmission,No. of Cylinders,4
+Jeep,Wrangler,Unlimited,Engine & Transmission,Valves Per Cylinder,4
+Jeep,Wrangler,Unlimited,Engine & Transmission,Transmission Type,Automatic
+Jeep,Wrangler,Unlimited,Engine & Transmission,Gearbox,8 Speed AT
+Jeep,Wrangler,Unlimited,Engine & Transmission,Drive Type,4WD
+Jeep,Wrangler,Unlimited,Fuel & Performance,Fuel Type,Petrol
+Jeep,Wrangler,Unlimited,Fuel & Performance,Petrol Mileage ARAI,11.4 kmpl
+Jeep,Wrangler,Unlimited,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Jeep,Wrangler,Unlimited,"Suspension, Steering & Brakes",Front Suspension,"Multi-link, Solid Axle"
+Jeep,Wrangler,Unlimited,"Suspension, Steering & Brakes",Rear Suspension,"Multi-link, Solid Axle"
+Jeep,Wrangler,Unlimited,"Suspension, Steering & Brakes",Steering Type,Electric
+Jeep,Wrangler,Unlimited,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Jeep,Wrangler,Unlimited,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Jeep,Wrangler,Unlimited,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Jeep,Wrangler,Unlimited,Dimensions & Capacity,Length,4867 mm
+Jeep,Wrangler,Unlimited,Dimensions & Capacity,Width,1894 mm
+Jeep,Wrangler,Unlimited,Dimensions & Capacity,Height,1853 mm
+Jeep,Wrangler,Unlimited,Dimensions & Capacity,Seating Capacity,5
+Jeep,Wrangler,Unlimited,Dimensions & Capacity,Ground Clearance Unladen,223 mm
+Jeep,Wrangler,Unlimited,Dimensions & Capacity,Wheel Base,3007 mm
+Jeep,Wrangler,Unlimited,Dimensions & Capacity,Kerb Weight,2042 kg
+Jeep,Wrangler,Unlimited,Dimensions & Capacity,Reported Boot Space,192 Litres
+Jeep,Wrangler,Unlimited,Comfort & Convenience,Boot Opening,Manual
+Jeep,Wrangler,Unlimited,Comfort & Convenience,Power Steering,YES
+Jeep,Wrangler,Unlimited,Comfort & Convenience,Air Conditioner,YES
+Jeep,Wrangler,Unlimited,Comfort & Convenience,Heater,YES
+Jeep,Wrangler,Unlimited,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Jeep,Wrangler,Unlimited,Comfort & Convenience,Electric Adjustable Seats,Front
+Jeep,Wrangler,Unlimited,Comfort & Convenience,Automatic Climate Control,YES
+Jeep,Wrangler,Unlimited,Comfort & Convenience,Accessory Power Outlet,YES
+Jeep,Wrangler,Unlimited,Comfort & Convenience,Parking Sensors,Rear
+Jeep,Wrangler,Unlimited,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Jeep,Wrangler,Unlimited,Comfort & Convenience,KeyLess Entry,YES
+Jeep,Wrangler,Unlimited,Comfort & Convenience,Engine Start/Stop Button,YES
+Jeep,Wrangler,Unlimited,Comfort & Convenience,Voice Commands,YES
+Jeep,Wrangler,Unlimited,Comfort & Convenience,USB Charger,Front & Rear
+Jeep,Wrangler,Unlimited,Comfort & Convenience,Central Console Armrest,With Storage
+Jeep,Wrangler,Unlimited,Comfort & Convenience,Idle Start-Stop System,YES
+Jeep,Wrangler,Unlimited,Interior,Leather Wrapped Steering Wheel,YES
+Jeep,Wrangler,Unlimited,Interior,Leather wrap gear-shift selector,YES
+Jeep,Wrangler,Unlimited,Interior,Glove Box,YES
+Jeep,Wrangler,Unlimited,Interior,Digital Cluster,YES
+Jeep,Wrangler,Unlimited,Interior,Digital Cluster Size,7 Inch
+Jeep,Wrangler,Unlimited,Interior,Upholstery,Leather
+Jeep,Wrangler,Unlimited,Exterior,Adjustable Headlamps,YES
+Jeep,Wrangler,Unlimited,Exterior,Rear Window Wiper,YES
+Jeep,Wrangler,Unlimited,Exterior,Rear Window Washer,YES
+Jeep,Wrangler,Unlimited,Exterior,Rear Window Defogger,YES
+Jeep,Wrangler,Unlimited,Exterior,Side Stepper,YES
+Jeep,Wrangler,Unlimited,Exterior,Fog Lights,Front & Rear
+Jeep,Wrangler,Unlimited,Exterior,Heated Outside Rear View Mirror,YES
+Jeep,Wrangler,Unlimited,Exterior,Tyre Size,255/70 R18
+Jeep,Wrangler,Unlimited,Exterior,Tyre Type,Tubeless & Radial
+Jeep,Wrangler,Unlimited,Exterior,LED DRLs,YES
+Jeep,Wrangler,Unlimited,Exterior,LED Headlamps,YES
+Jeep,Wrangler,Unlimited,Exterior,LED Taillights,YES
+Jeep,Wrangler,Unlimited,Exterior,LED Fog Lamps,YES
+Jeep,Wrangler,Unlimited,Safety,Anti-lock Braking System (ABS),YES
+Jeep,Wrangler,Unlimited,Safety,Brake Assist,YES
+Jeep,Wrangler,Unlimited,Safety,Central Locking,YES
+Jeep,Wrangler,Unlimited,Safety,Anti-Theft Alarm,YES
+Jeep,Wrangler,Unlimited,Safety,No. of Airbags,6
+Jeep,Wrangler,Unlimited,Safety,Driver Airbag,YES
+Jeep,Wrangler,Unlimited,Safety,Passenger Airbag,YES
+Jeep,Wrangler,Unlimited,Safety,Side Airbag,YES
+Jeep,Wrangler,Unlimited,Safety,Day & Night Rear View Mirror,YES
+Jeep,Wrangler,Unlimited,Safety,Electronic Brakeforce Distribution (EBD),YES
+Jeep,Wrangler,Unlimited,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Jeep,Wrangler,Unlimited,Safety,Engine Immobilizer,YES
+Jeep,Wrangler,Unlimited,Safety,Electronic Stability Control (ESC),YES
+Jeep,Wrangler,Unlimited,Safety,Rear Camera,With Guidedlines
+Jeep,Wrangler,Unlimited,Safety,Anti-Theft Device,YES
+Jeep,Wrangler,Unlimited,Safety,Hill Descent Control,YES
+Jeep,Wrangler,Unlimited,Safety,Hill Assist,YES
+Jeep,Wrangler,Unlimited,Entertainment & Communication,Radio,YES
+Jeep,Wrangler,Unlimited,Entertainment & Communication,Bluetooth Connectivity,YES
+Jeep,Wrangler,Unlimited,Entertainment & Communication,Touchscreen,YES
+Jeep,Wrangler,Unlimited,Entertainment & Communication,Touchscreen Size,12.3 inch
+Jeep,Wrangler,Unlimited,Entertainment & Communication,Android Auto,YES
+Jeep,Wrangler,Unlimited,Entertainment & Communication,Apple CarPlay,YES
+Jeep,Wrangler,Unlimited,Entertainment & Communication,No. of Speakers,8
+Jeep,Wrangler,Unlimited,Entertainment & Communication,Usb Ports,YES
+Jeep,Wrangler,Unlimited,Entertainment & Communication,Additional Features,8-Speaker Sound System With Overhead Sound Bar
+Jeep,Wrangler,Unlimited,Entertainment & Communication,Speakers,Front & Rear
+Jeep,Wrangler,Unlimited,ADAS Feature,Forward Collision Warning,YES
+Jeep,Wrangler,Unlimited,ADAS Feature,Adaptive Cruise Control,YES
+Jeep,Wrangler,Unlimited,ADAS Feature,Adaptive High Beam Assist,YES

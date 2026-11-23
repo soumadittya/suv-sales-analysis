@@ -1,0 +1,114 @@
+company,model,variant,category,feature_name,feature_details
+BMW,X6,M60i xDrive,Engine & Transmission,Engine Type,M TwinPower Turbo Petrol
+BMW,X6,M60i xDrive,Engine & Transmission,Displacement,4395 cc
+BMW,X6,M60i xDrive,Engine & Transmission,Max Power,523bhp@5500rpm
+BMW,X6,M60i xDrive,Engine & Transmission,Max Torque,750Nm@1800-4600rpm
+BMW,X6,M60i xDrive,Engine & Transmission,No. of Cylinders,8
+BMW,X6,M60i xDrive,Engine & Transmission,Valves Per Cylinder,4
+BMW,X6,M60i xDrive,Engine & Transmission,Turbo Charger,Twin
+BMW,X6,M60i xDrive,Engine & Transmission,Transmission Type,Automatic
+BMW,X6,M60i xDrive,Engine & Transmission,Gearbox,8 -Speed AT
+BMW,X6,M60i xDrive,Engine & Transmission,Drive Type,AWD
+BMW,X6,M60i xDrive,Fuel & Performance,Fuel Type,Petrol
+BMW,X6,M60i xDrive,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+BMW,X6,M60i xDrive,Fuel & Performance,Acceleration,4.3 s
+BMW,X6,M60i xDrive,Fuel & Performance,0-100kmph,4.3 s
+BMW,X6,M60i xDrive,"Suspension, Steering & Brakes",Steering Type,Electric
+BMW,X6,M60i xDrive,"Suspension, Steering & Brakes",Steering Gear Type,Rack & Pinion
+BMW,X6,M60i xDrive,"Suspension, Steering & Brakes",Front Brake Type,Disc
+BMW,X6,M60i xDrive,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+BMW,X6,M60i xDrive,Dimensions & Capacity,Seating Capacity,5
+BMW,X6,M60i xDrive,Comfort & Convenience,Power Steering,YES
+BMW,X6,M60i xDrive,Comfort & Convenience,Air Conditioner,YES
+BMW,X6,M60i xDrive,Comfort & Convenience,Heater,YES
+BMW,X6,M60i xDrive,Comfort & Convenience,Height Adjustable Driver Seat,YES
+BMW,X6,M60i xDrive,Comfort & Convenience,Ventilated Seats,YES
+BMW,X6,M60i xDrive,Comfort & Convenience,Electric Adjustable Seats,Front Only
+BMW,X6,M60i xDrive,Comfort & Convenience,Automatic Climate Control,YES
+BMW,X6,M60i xDrive,Comfort & Convenience,Air Quality Control,YES
+BMW,X6,M60i xDrive,Comfort & Convenience,Accessory Power Outlet,YES
+BMW,X6,M60i xDrive,Comfort & Convenience,Rear Seat Headrest,Adjustable
+BMW,X6,M60i xDrive,Comfort & Convenience,Adjustable Headrest,YES
+BMW,X6,M60i xDrive,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+BMW,X6,M60i xDrive,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+BMW,X6,M60i xDrive,Comfort & Convenience,Rear AC Vents,YES
+BMW,X6,M60i xDrive,Comfort & Convenience,Cruise Control,YES
+BMW,X6,M60i xDrive,Comfort & Convenience,Parking Sensors,Front & Rear
+BMW,X6,M60i xDrive,Comfort & Convenience,Foldable Rear Seat,40:20:40 Split
+BMW,X6,M60i xDrive,Comfort & Convenience,KeyLess Entry,YES
+BMW,X6,M60i xDrive,Comfort & Convenience,Engine Start/Stop Button,YES
+BMW,X6,M60i xDrive,Comfort & Convenience,Voice Commands,YES
+BMW,X6,M60i xDrive,Comfort & Convenience,Paddle Shifters,YES
+BMW,X6,M60i xDrive,Comfort & Convenience,USB Charger,Front & Rear
+BMW,X6,M60i xDrive,Comfort & Convenience,Central Console Armrest,With Storage
+BMW,X6,M60i xDrive,Comfort & Convenience,Idle Start-Stop System,YES
+BMW,X6,M60i xDrive,Comfort & Convenience,Power Windows,Front & Rear
+BMW,X6,M60i xDrive,Interior,Leather Wrapped Steering Wheel,YES
+BMW,X6,M60i xDrive,Interior,Leather wrap gear-shift selector,YES
+BMW,X6,M60i xDrive,Interior,Glove Box,YES
+BMW,X6,M60i xDrive,Interior,Lighting,Ambient light
+BMW,X6,M60i xDrive,Interior,Digital Cluster,YES
+BMW,X6,M60i xDrive,Interior,Digital Cluster Size,12.3
+BMW,X6,M60i xDrive,Interior,Upholstery,Leather
+BMW,X6,M60i xDrive,Exterior,Adjustable Headlamps,YES
+BMW,X6,M60i xDrive,Exterior,Rain Sensing Wiper,YES
+BMW,X6,M60i xDrive,Exterior,Alloy Wheels,YES
+BMW,X6,M60i xDrive,Exterior,Outside Rear View Mirror Turn Indicators,YES
+BMW,X6,M60i xDrive,Exterior,Cornering Headlamps,YES
+BMW,X6,M60i xDrive,Exterior,Automatic Headlamps,YES
+BMW,X6,M60i xDrive,Exterior,Antenna,Shark Fin
+BMW,X6,M60i xDrive,Exterior,Outside Rear View Mirror (ORVM),"Heated,Powered & Folding"
+BMW,X6,M60i xDrive,Exterior,Tyre Size,F 275/40 R21 - R 315/35 R21
+BMW,X6,M60i xDrive,Exterior,Tyre Type,Radial Tubeless
+BMW,X6,M60i xDrive,Exterior,LED DRLs,YES
+BMW,X6,M60i xDrive,Exterior,LED Headlamps,YES
+BMW,X6,M60i xDrive,Exterior,LED Taillights,YES
+BMW,X6,M60i xDrive,Safety,Anti-lock Braking System (ABS),YES
+BMW,X6,M60i xDrive,Safety,Brake Assist,YES
+BMW,X6,M60i xDrive,Safety,Central Locking,YES
+BMW,X6,M60i xDrive,Safety,Child Safety Locks,YES
+BMW,X6,M60i xDrive,Safety,Anti-Theft Alarm,YES
+BMW,X6,M60i xDrive,Safety,No. of Airbags,6
+BMW,X6,M60i xDrive,Safety,Driver Airbag,YES
+BMW,X6,M60i xDrive,Safety,Passenger Airbag,YES
+BMW,X6,M60i xDrive,Safety,Side Airbag,YES
+BMW,X6,M60i xDrive,Safety,Side Airbag-Rear,NO
+BMW,X6,M60i xDrive,Safety,Day & Night Rear View Mirror,YES
+BMW,X6,M60i xDrive,Safety,Electronic Brakeforce Distribution (EBD),YES
+BMW,X6,M60i xDrive,Safety,Traction Control,YES
+BMW,X6,M60i xDrive,Safety,Tyre Pressure Monitoring System (TPMS),YES
+BMW,X6,M60i xDrive,Safety,Electronic Stability Control (ESC),YES
+BMW,X6,M60i xDrive,Safety,Rear Camera,With Guidedlines
+BMW,X6,M60i xDrive,Safety,Anti-Theft Device,YES
+BMW,X6,M60i xDrive,Safety,ISOFIX Child Seat Mounts,YES
+BMW,X6,M60i xDrive,Safety,Heads-Up Display (HUD),YES
+BMW,X6,M60i xDrive,Safety,360 View Camera,YES
+BMW,X6,M60i xDrive,Entertainment & Communication,Radio,YES
+BMW,X6,M60i xDrive,Entertainment & Communication,Wireless Phone Charging,YES
+BMW,X6,M60i xDrive,Entertainment & Communication,Bluetooth Connectivity,YES
+BMW,X6,M60i xDrive,Entertainment & Communication,Touchscreen,YES
+BMW,X6,M60i xDrive,Entertainment & Communication,Touchscreen Size,14.9 inch
+BMW,X6,M60i xDrive,Entertainment & Communication,Android Auto,YES
+BMW,X6,M60i xDrive,Entertainment & Communication,Apple CarPlay,YES
+BMW,X6,M60i xDrive,Entertainment & Communication,No. of Speakers,16
+BMW,X6,M60i xDrive,Entertainment & Communication,Usb Ports,YES
+BMW,X6,M60i xDrive,Entertainment & Communication,Additional Features,Harman Kardon Surround Sound system
+BMW,X6,M60i xDrive,Entertainment & Communication,Speakers,Front & Rear
+BMW,X6,M60i xDrive,ADAS Feature,Forward Collision Warning,YES
+BMW,X6,M60i xDrive,ADAS Feature,Speed Assist System,YES
+BMW,X6,M60i xDrive,ADAS Feature,Traffic Sign Recognition,YES
+BMW,X6,M60i xDrive,ADAS Feature,Lane Departure Warning,YES
+BMW,X6,M60i xDrive,ADAS Feature,Driver Attention Warning,YES
+BMW,X6,M60i xDrive,ADAS Feature,Adaptive High Beam Assist,YES
+BMW,X6,M60i xDrive,ADAS Feature,Rear Cross Traffic Collision-Avoidance Assist,YES
+BMW,X6,M60i xDrive,Advance Internet Feature,Live Location,YES
+BMW,X6,M60i xDrive,Advance Internet Feature,Remote Vehicle Status Check,YES
+BMW,X6,M60i xDrive,Advance Internet Feature,Inbuilt Assistant,YES
+BMW,X6,M60i xDrive,Advance Internet Feature,E-Call & I-Call,YES
+BMW,X6,M60i xDrive,Advance Internet Feature,Over the Air (OTA) Updates,YES
+BMW,X6,M60i xDrive,Advance Internet Feature,Crash Notification,YES
+BMW,X6,M60i xDrive,Advance Internet Feature,RSA,YES
+BMW,X6,M60i xDrive,Advance Internet Feature,Over Speeding Alert,YES
+BMW,X6,M60i xDrive,Advance Internet Feature,In Car Remote Control App,YES
+BMW,X6,M60i xDrive,Advance Internet Feature,Remote AC On/Off,YES
+BMW,X6,M60i xDrive,Advance Internet Feature,Remote Door Lock/Unlock,YES

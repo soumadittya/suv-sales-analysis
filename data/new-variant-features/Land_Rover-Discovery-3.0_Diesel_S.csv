@@ -1,0 +1,103 @@
+company,model,variant,category,feature_name,feature_details
+Land Rover,Discovery,3.0 Diesel S,Engine & Transmission,Displacement,2996 cc
+Land Rover,Discovery,3.0 Diesel S,Engine & Transmission,Max Power,296.36bhp@4000rpm
+Land Rover,Discovery,3.0 Diesel S,Engine & Transmission,Max Torque,650Nm@1500-2500rpm
+Land Rover,Discovery,3.0 Diesel S,Engine & Transmission,No. of Cylinders,4
+Land Rover,Discovery,3.0 Diesel S,Engine & Transmission,Valves Per Cylinder,4
+Land Rover,Discovery,3.0 Diesel S,Engine & Transmission,Transmission Type,Automatic
+Land Rover,Discovery,3.0 Diesel S,Engine & Transmission,Drive Type,AWD
+Land Rover,Discovery,3.0 Diesel S,Fuel & Performance,Fuel Type,Diesel
+Land Rover,Discovery,3.0 Diesel S,Fuel & Performance,Diesel Mileage ARAI,12.37 kmpl
+Land Rover,Discovery,3.0 Diesel S,"Suspension, Steering & Brakes",Front Suspension,Air suspension
+Land Rover,Discovery,3.0 Diesel S,"Suspension, Steering & Brakes",Rear Suspension,Air suspension
+Land Rover,Discovery,3.0 Diesel S,"Suspension, Steering & Brakes",Steering Type,Electric
+Land Rover,Discovery,3.0 Diesel S,Dimensions & Capacity,Length,4956 mm
+Land Rover,Discovery,3.0 Diesel S,Dimensions & Capacity,Width,2220 mm
+Land Rover,Discovery,3.0 Diesel S,Dimensions & Capacity,Height,1888 mm
+Land Rover,Discovery,3.0 Diesel S,Dimensions & Capacity,Boot Space,123 Litres
+Land Rover,Discovery,3.0 Diesel S,Dimensions & Capacity,Seating Capacity,7
+Land Rover,Discovery,3.0 Diesel S,Dimensions & Capacity,Wheel Base,2923 mm
+Land Rover,Discovery,3.0 Diesel S,Dimensions & Capacity,Kerb Weight,2509 kg
+Land Rover,Discovery,3.0 Diesel S,Dimensions & Capacity,Reported Boot Space,258 Litres
+Land Rover,Discovery,3.0 Diesel S,Comfort & Convenience,Power Steering,YES
+Land Rover,Discovery,3.0 Diesel S,Comfort & Convenience,Air Conditioner,YES
+Land Rover,Discovery,3.0 Diesel S,Comfort & Convenience,Heater,YES
+Land Rover,Discovery,3.0 Diesel S,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Land Rover,Discovery,3.0 Diesel S,Comfort & Convenience,Ventilated Seats,YES
+Land Rover,Discovery,3.0 Diesel S,Comfort & Convenience,Electric Adjustable Seats,Front & Rear
+Land Rover,Discovery,3.0 Diesel S,Comfort & Convenience,Automatic Climate Control,YES
+Land Rover,Discovery,3.0 Diesel S,Comfort & Convenience,Air Quality Control,YES
+Land Rover,Discovery,3.0 Diesel S,Comfort & Convenience,Accessory Power Outlet,YES
+Land Rover,Discovery,3.0 Diesel S,Comfort & Convenience,Adjustable Headrest,YES
+Land Rover,Discovery,3.0 Diesel S,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Land Rover,Discovery,3.0 Diesel S,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Land Rover,Discovery,3.0 Diesel S,Comfort & Convenience,Rear AC Vents,YES
+Land Rover,Discovery,3.0 Diesel S,Comfort & Convenience,Lumbar Support,YES
+Land Rover,Discovery,3.0 Diesel S,Comfort & Convenience,Active noise cancellation,YES
+Land Rover,Discovery,3.0 Diesel S,Comfort & Convenience,Cruise Control,YES
+Land Rover,Discovery,3.0 Diesel S,Comfort & Convenience,Parking Sensors,Front & Rear
+Land Rover,Discovery,3.0 Diesel S,Comfort & Convenience,Real-Time Vehicle Tracking,YES
+Land Rover,Discovery,3.0 Diesel S,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Land Rover,Discovery,3.0 Diesel S,Comfort & Convenience,KeyLess Entry,YES
+Land Rover,Discovery,3.0 Diesel S,Comfort & Convenience,Engine Start/Stop Button,YES
+Land Rover,Discovery,3.0 Diesel S,Comfort & Convenience,Voice Commands,YES
+Land Rover,Discovery,3.0 Diesel S,Comfort & Convenience,Paddle Shifters,NO
+Land Rover,Discovery,3.0 Diesel S,Comfort & Convenience,USB Charger,Front & Rear
+Land Rover,Discovery,3.0 Diesel S,Comfort & Convenience,Central Console Armrest,YES
+Land Rover,Discovery,3.0 Diesel S,Comfort & Convenience,Gear Shift Indicator,YES
+Land Rover,Discovery,3.0 Diesel S,Comfort & Convenience,Follow Me Home Headlamps,YES
+Land Rover,Discovery,3.0 Diesel S,Interior,Leather Wrapped Steering Wheel,YES
+Land Rover,Discovery,3.0 Diesel S,Interior,Leather wrap gear-shift selector,YES
+Land Rover,Discovery,3.0 Diesel S,Interior,Glove Box,YES
+Land Rover,Discovery,3.0 Diesel S,Interior,Folding Table in The Rear,Optional
+Land Rover,Discovery,3.0 Diesel S,Exterior,Adjustable Headlamps,YES
+Land Rover,Discovery,3.0 Diesel S,Exterior,Rain Sensing Wiper,YES
+Land Rover,Discovery,3.0 Diesel S,Exterior,Rear Window Wiper,YES
+Land Rover,Discovery,3.0 Diesel S,Exterior,Rear Window Washer,YES
+Land Rover,Discovery,3.0 Diesel S,Exterior,Rear Window Defogger,YES
+Land Rover,Discovery,3.0 Diesel S,Exterior,Wheel Covers,NO
+Land Rover,Discovery,3.0 Diesel S,Exterior,Alloy Wheels,YES
+Land Rover,Discovery,3.0 Diesel S,Exterior,Rear Spoiler,YES
+Land Rover,Discovery,3.0 Diesel S,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Land Rover,Discovery,3.0 Diesel S,Exterior,Cornering Headlamps,YES
+Land Rover,Discovery,3.0 Diesel S,Exterior,Roof Rails,Optional
+Land Rover,Discovery,3.0 Diesel S,Exterior,Automatic Headlamps,YES
+Land Rover,Discovery,3.0 Diesel S,Exterior,Sun Roof,YES
+Land Rover,Discovery,3.0 Diesel S,Exterior,LED DRLs,YES
+Land Rover,Discovery,3.0 Diesel S,Exterior,LED Headlamps,YES
+Land Rover,Discovery,3.0 Diesel S,Exterior,LED Taillights,YES
+Land Rover,Discovery,3.0 Diesel S,Exterior,LED Fog Lamps,YES
+Land Rover,Discovery,3.0 Diesel S,Safety,Anti-lock Braking System (ABS),YES
+Land Rover,Discovery,3.0 Diesel S,Safety,Brake Assist,YES
+Land Rover,Discovery,3.0 Diesel S,Safety,Central Locking,YES
+Land Rover,Discovery,3.0 Diesel S,Safety,Child Safety Locks,YES
+Land Rover,Discovery,3.0 Diesel S,Safety,Anti-Theft Alarm,YES
+Land Rover,Discovery,3.0 Diesel S,Safety,No. of Airbags,8
+Land Rover,Discovery,3.0 Diesel S,Safety,Driver Airbag,YES
+Land Rover,Discovery,3.0 Diesel S,Safety,Passenger Airbag,YES
+Land Rover,Discovery,3.0 Diesel S,Safety,Side Airbag,YES
+Land Rover,Discovery,3.0 Diesel S,Safety,Side Airbag-Rear,YES
+Land Rover,Discovery,3.0 Diesel S,Safety,Day & Night Rear View Mirror,YES
+Land Rover,Discovery,3.0 Diesel S,Safety,Traction Control,YES
+Land Rover,Discovery,3.0 Diesel S,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Land Rover,Discovery,3.0 Diesel S,Safety,Engine Immobilizer,YES
+Land Rover,Discovery,3.0 Diesel S,Safety,Electronic Stability Control (ESC),YES
+Land Rover,Discovery,3.0 Diesel S,Safety,Anti-Theft Device,YES
+Land Rover,Discovery,3.0 Diesel S,Safety,Anti-Pinch Power Windows,Driver's Window
+Land Rover,Discovery,3.0 Diesel S,Safety,ISOFIX Child Seat Mounts,YES
+Land Rover,Discovery,3.0 Diesel S,Safety,Hill Descent Control,YES
+Land Rover,Discovery,3.0 Diesel S,Safety,Hill Assist,YES
+Land Rover,Discovery,3.0 Diesel S,Safety,360 View Camera,YES
+Land Rover,Discovery,3.0 Diesel S,Entertainment & Communication,Radio,YES
+Land Rover,Discovery,3.0 Diesel S,Entertainment & Communication,MirrorLink,YES
+Land Rover,Discovery,3.0 Diesel S,Entertainment & Communication,Wireless Phone Charging,YES
+Land Rover,Discovery,3.0 Diesel S,Entertainment & Communication,Bluetooth Connectivity,YES
+Land Rover,Discovery,3.0 Diesel S,Entertainment & Communication,Wi-Fi Connectivity,YES
+Land Rover,Discovery,3.0 Diesel S,Entertainment & Communication,Touchscreen,YES
+Land Rover,Discovery,3.0 Diesel S,Entertainment & Communication,Android Auto,YES
+Land Rover,Discovery,3.0 Diesel S,Entertainment & Communication,Apple CarPlay,YES
+Land Rover,Discovery,3.0 Diesel S,Entertainment & Communication,Rear Entertainment System,YES
+Land Rover,Discovery,3.0 Diesel S,Entertainment & Communication,Usb Ports,YES
+Land Rover,Discovery,3.0 Diesel S,Entertainment & Communication,Speakers,Front & Rear
+Land Rover,Discovery,3.0 Diesel S,ADAS Feature,Blind Spot Monitor,YES
+Land Rover,Discovery,3.0 Diesel S,ADAS Feature,Autonomous Parking,Semi

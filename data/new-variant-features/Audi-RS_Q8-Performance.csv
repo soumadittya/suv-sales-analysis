@@ -1,0 +1,92 @@
+company,model,variant,category,feature_name,feature_details
+Audi,RS Q8,Performance,Engine & Transmission,Engine Type,V8 Engine
+Audi,RS Q8,Performance,Engine & Transmission,Displacement,3998 cc
+Audi,RS Q8,Performance,Engine & Transmission,Max Power,632bhp
+Audi,RS Q8,Performance,Engine & Transmission,Max Torque,850Nm
+Audi,RS Q8,Performance,Engine & Transmission,No. of Cylinders,8
+Audi,RS Q8,Performance,Engine & Transmission,Valves Per Cylinder,4
+Audi,RS Q8,Performance,Engine & Transmission,Turbo Charger,Twin
+Audi,RS Q8,Performance,Engine & Transmission,Transmission Type,Automatic
+Audi,RS Q8,Performance,Engine & Transmission,Gearbox,8-Speed
+Audi,RS Q8,Performance,Engine & Transmission,Drive Type,AWD
+Audi,RS Q8,Performance,Fuel & Performance,Fuel Type,Petrol
+Audi,RS Q8,Performance,Fuel & Performance,Petrol Mileage ARAI,9 kmpl
+Audi,RS Q8,Performance,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Audi,RS Q8,Performance,Fuel & Performance,Top Speed,305 kmph
+Audi,RS Q8,Performance,Fuel & Performance,Acceleration,3.6 s
+Audi,RS Q8,Performance,Fuel & Performance,0-100kmph,3.6 s
+Audi,RS Q8,Performance,"Suspension, Steering & Brakes",Front Suspension,Air suspension
+Audi,RS Q8,Performance,"Suspension, Steering & Brakes",Rear Suspension,Air suspension
+Audi,RS Q8,Performance,"Suspension, Steering & Brakes",Steering Type,Electric
+Audi,RS Q8,Performance,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Audi,RS Q8,Performance,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Audi,RS Q8,Performance,Dimensions & Capacity,Length,5020 mm
+Audi,RS Q8,Performance,Dimensions & Capacity,Width,2005 mm
+Audi,RS Q8,Performance,Dimensions & Capacity,Height,1700 mm
+Audi,RS Q8,Performance,Dimensions & Capacity,Seating Capacity,5
+Audi,RS Q8,Performance,Dimensions & Capacity,Wheel Base,2995 mm
+Audi,RS Q8,Performance,Dimensions & Capacity,Reported Ground Clearance (Unladen),254 mm
+Audi,RS Q8,Performance,Comfort & Convenience,Boot Opening,Powered
+Audi,RS Q8,Performance,Comfort & Convenience,Power Steering,YES
+Audi,RS Q8,Performance,Comfort & Convenience,Air Conditioner,YES
+Audi,RS Q8,Performance,Comfort & Convenience,Heater,YES
+Audi,RS Q8,Performance,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Audi,RS Q8,Performance,Comfort & Convenience,Ventilated Seats,YES
+Audi,RS Q8,Performance,Comfort & Convenience,Electric Adjustable Seats,Front & Rear
+Audi,RS Q8,Performance,Comfort & Convenience,Automatic Climate Control,YES
+Audi,RS Q8,Performance,Comfort & Convenience,Accessory Power Outlet,YES
+Audi,RS Q8,Performance,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Audi,RS Q8,Performance,Comfort & Convenience,Adjustable Headrest,YES
+Audi,RS Q8,Performance,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Audi,RS Q8,Performance,Comfort & Convenience,Rear AC Vents,YES
+Audi,RS Q8,Performance,Comfort & Convenience,Lumbar Support,YES
+Audi,RS Q8,Performance,Comfort & Convenience,Cruise Control,YES
+Audi,RS Q8,Performance,Comfort & Convenience,Parking Sensors,YES
+Audi,RS Q8,Performance,Comfort & Convenience,KeyLess Entry,YES
+Audi,RS Q8,Performance,Comfort & Convenience,Engine Start/Stop Button,YES
+Audi,RS Q8,Performance,Comfort & Convenience,Paddle Shifters,YES
+Audi,RS Q8,Performance,Comfort & Convenience,Follow Me Home Headlamps,YES
+Audi,RS Q8,Performance,Comfort & Convenience,Power Windows,Front & Rear
+Audi,RS Q8,Performance,Comfort & Convenience,Cup Holders,Front Only
+Audi,RS Q8,Performance,Comfort & Convenience,Heated Seats,Front Only
+Audi,RS Q8,Performance,Interior,Leather Wrapped Steering Wheel,YES
+Audi,RS Q8,Performance,Interior,Glove Box,YES
+Audi,RS Q8,Performance,Interior,Lighting,Ambient light
+Audi,RS Q8,Performance,Interior,Upholstery,Leatherette
+Audi,RS Q8,Performance,Exterior,Adjustable Headlamps,YES
+Audi,RS Q8,Performance,Exterior,Rain Sensing Wiper,YES
+Audi,RS Q8,Performance,Exterior,Rear Window Wiper,YES
+Audi,RS Q8,Performance,Exterior,Rear Window Washer,YES
+Audi,RS Q8,Performance,Exterior,Rear Window Defogger,YES
+Audi,RS Q8,Performance,Exterior,Alloy Wheels,YES
+Audi,RS Q8,Performance,Exterior,Rear Spoiler,YES
+Audi,RS Q8,Performance,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Audi,RS Q8,Performance,Exterior,Automatic Headlamps,YES
+Audi,RS Q8,Performance,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Audi,RS Q8,Performance,Exterior,LED DRLs,YES
+Audi,RS Q8,Performance,Exterior,LED Headlamps,YES
+Audi,RS Q8,Performance,Exterior,LED Taillights,YES
+Audi,RS Q8,Performance,Exterior,LED Fog Lamps,YES
+Audi,RS Q8,Performance,Safety,Anti-lock Braking System (ABS),YES
+Audi,RS Q8,Performance,Safety,Brake Assist,YES
+Audi,RS Q8,Performance,Safety,Central Locking,YES
+Audi,RS Q8,Performance,Safety,Child Safety Locks,YES
+Audi,RS Q8,Performance,Safety,Anti-Theft Alarm,YES
+Audi,RS Q8,Performance,Safety,No. of Airbags,8
+Audi,RS Q8,Performance,Safety,Driver Airbag,YES
+Audi,RS Q8,Performance,Safety,Passenger Airbag,YES
+Audi,RS Q8,Performance,Safety,Side Airbag,YES
+Audi,RS Q8,Performance,Safety,Side Airbag-Rear,YES
+Audi,RS Q8,Performance,Safety,Day & Night Rear View Mirror,YES
+Audi,RS Q8,Performance,Safety,Traction Control,YES
+Audi,RS Q8,Performance,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Audi,RS Q8,Performance,Safety,360 View Camera,YES
+Audi,RS Q8,Performance,Entertainment & Communication,Radio,YES
+Audi,RS Q8,Performance,Entertainment & Communication,Wireless Phone Charging,YES
+Audi,RS Q8,Performance,Entertainment & Communication,Bluetooth Connectivity,YES
+Audi,RS Q8,Performance,Entertainment & Communication,Touchscreen,YES
+Audi,RS Q8,Performance,Entertainment & Communication,Android Auto,YES
+Audi,RS Q8,Performance,Entertainment & Communication,Apple CarPlay,YES
+Audi,RS Q8,Performance,Entertainment & Communication,Rear Entertainment System,YES
+Audi,RS Q8,Performance,Entertainment & Communication,Usb Ports,YES
+Audi,RS Q8,Performance,Entertainment & Communication,Speakers,Front & Rear

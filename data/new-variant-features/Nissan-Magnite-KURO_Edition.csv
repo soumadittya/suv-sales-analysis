@@ -1,0 +1,123 @@
+company,model,variant,category,feature_name,feature_details
+Nissan,Magnite,KURO Edition,Engine & Transmission,Engine Type,1.0 B4D
+Nissan,Magnite,KURO Edition,Engine & Transmission,Displacement,999 cc
+Nissan,Magnite,KURO Edition,Engine & Transmission,Max Power,71bhp@6250rpm
+Nissan,Magnite,KURO Edition,Engine & Transmission,Max Torque,96Nm@3400 -3600rpm
+Nissan,Magnite,KURO Edition,Engine & Transmission,No. of Cylinders,3
+Nissan,Magnite,KURO Edition,Engine & Transmission,Valves Per Cylinder,4
+Nissan,Magnite,KURO Edition,Engine & Transmission,Turbo Charger,NO
+Nissan,Magnite,KURO Edition,Engine & Transmission,Regenerative Braking,NO
+Nissan,Magnite,KURO Edition,Engine & Transmission,Transmission Type,Manual
+Nissan,Magnite,KURO Edition,Engine & Transmission,Gearbox,5-Speed
+Nissan,Magnite,KURO Edition,Engine & Transmission,Drive Type,FWD
+Nissan,Magnite,KURO Edition,Fuel & Performance,Fuel Type,Petrol
+Nissan,Magnite,KURO Edition,Fuel & Performance,Petrol Mileage ARAI,19.4 kmpl
+Nissan,Magnite,KURO Edition,Fuel & Performance,Petrol Fuel Tank Capacity,40 Litres
+Nissan,Magnite,KURO Edition,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Nissan,Magnite,KURO Edition,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Nissan,Magnite,KURO Edition,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Nissan,Magnite,KURO Edition,"Suspension, Steering & Brakes",Shock Absorbers Type,Double Acting
+Nissan,Magnite,KURO Edition,"Suspension, Steering & Brakes",Steering Type,Electric
+Nissan,Magnite,KURO Edition,"Suspension, Steering & Brakes",Steering Column,Tilt
+Nissan,Magnite,KURO Edition,"Suspension, Steering & Brakes",Turning Radius,5 m
+Nissan,Magnite,KURO Edition,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Nissan,Magnite,KURO Edition,"Suspension, Steering & Brakes",Rear Brake Type,Drum
+Nissan,Magnite,KURO Edition,"Suspension, Steering & Brakes",Boot Space Rear Seat Folding,690 Litres
+Nissan,Magnite,KURO Edition,Dimensions & Capacity,Length,3994 mm
+Nissan,Magnite,KURO Edition,Dimensions & Capacity,Width,1758 mm
+Nissan,Magnite,KURO Edition,Dimensions & Capacity,Height,1572 mm
+Nissan,Magnite,KURO Edition,Dimensions & Capacity,Boot Space,336 Litres
+Nissan,Magnite,KURO Edition,Dimensions & Capacity,Seating Capacity,5
+Nissan,Magnite,KURO Edition,Dimensions & Capacity,Ground Clearance Unladen,205 mm
+Nissan,Magnite,KURO Edition,Dimensions & Capacity,Wheel Base,2500 mm
+Nissan,Magnite,KURO Edition,Dimensions & Capacity,Kerb Weight,1019 kg
+Nissan,Magnite,KURO Edition,Dimensions & Capacity,Gross Weight,1402 kg
+Nissan,Magnite,KURO Edition,Comfort & Convenience,Boot Opening,Manual
+Nissan,Magnite,KURO Edition,Comfort & Convenience,Power Steering,YES
+Nissan,Magnite,KURO Edition,Comfort & Convenience,Air Conditioner,YES
+Nissan,Magnite,KURO Edition,Comfort & Convenience,Heater,YES
+Nissan,Magnite,KURO Edition,Comfort & Convenience,Adjustable Steering,Height only
+Nissan,Magnite,KURO Edition,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Nissan,Magnite,KURO Edition,Comfort & Convenience,Automatic Climate Control,YES
+Nissan,Magnite,KURO Edition,Comfort & Convenience,Air Quality Control,YES
+Nissan,Magnite,KURO Edition,Comfort & Convenience,Accessory Power Outlet,YES
+Nissan,Magnite,KURO Edition,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Nissan,Magnite,KURO Edition,Comfort & Convenience,Adjustable Headrest,YES
+Nissan,Magnite,KURO Edition,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Nissan,Magnite,KURO Edition,Comfort & Convenience,Rear AC Vents,YES
+Nissan,Magnite,KURO Edition,Comfort & Convenience,Cruise Control,NO
+Nissan,Magnite,KURO Edition,Comfort & Convenience,Parking Sensors,Rear
+Nissan,Magnite,KURO Edition,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Nissan,Magnite,KURO Edition,Comfort & Convenience,KeyLess Entry,YES
+Nissan,Magnite,KURO Edition,Comfort & Convenience,Engine Start/Stop Button,YES
+Nissan,Magnite,KURO Edition,Comfort & Convenience,Voice Commands,YES
+Nissan,Magnite,KURO Edition,Comfort & Convenience,USB Charger,Front & Rear
+Nissan,Magnite,KURO Edition,Comfort & Convenience,Central Console Armrest,With Storage
+Nissan,Magnite,KURO Edition,Comfort & Convenience,Gear Shift Indicator,YES
+Nissan,Magnite,KURO Edition,Comfort & Convenience,Glove Box light,YES
+Nissan,Magnite,KURO Edition,Comfort & Convenience,Power Windows,Front & Rear
+Nissan,Magnite,KURO Edition,Comfort & Convenience,Cup Holders,Front & Rear
+Nissan,Magnite,KURO Edition,Interior,Leather Wrapped Steering Wheel,NO
+Nissan,Magnite,KURO Edition,Interior,Glove Box,YES
+Nissan,Magnite,KURO Edition,Interior,Additional Features,Rear Parcel Tray
+Nissan,Magnite,KURO Edition,Interior,Digital Cluster,YES
+Nissan,Magnite,KURO Edition,Interior,Digital Cluster Size,7
+Nissan,Magnite,KURO Edition,Interior,Upholstery,Fabric
+Nissan,Magnite,KURO Edition,Exterior,Adjustable Headlamps,YES
+Nissan,Magnite,KURO Edition,Exterior,Rear Window Wiper,YES
+Nissan,Magnite,KURO Edition,Exterior,Rear Window Washer,YES
+Nissan,Magnite,KURO Edition,Exterior,Rear Window Defogger,YES
+Nissan,Magnite,KURO Edition,Exterior,Wheel Covers,NO
+Nissan,Magnite,KURO Edition,Exterior,Alloy Wheels,YES
+Nissan,Magnite,KURO Edition,Exterior,Rear Spoiler,YES
+Nissan,Magnite,KURO Edition,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Nissan,Magnite,KURO Edition,Exterior,Projector Headlamps,NO
+Nissan,Magnite,KURO Edition,Exterior,Roof Rails,YES
+Nissan,Magnite,KURO Edition,Exterior,Fog Lights,NO
+Nissan,Magnite,KURO Edition,Exterior,Antenna,Shark Fin
+Nissan,Magnite,KURO Edition,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Nissan,Magnite,KURO Edition,Exterior,Tyre Size,195/60 R16
+Nissan,Magnite,KURO Edition,Exterior,Tyre Type,Tubeless Radial
+Nissan,Magnite,KURO Edition,Exterior,Wheel Size,16 Inch
+Nissan,Magnite,KURO Edition,Exterior,LED DRLs,YES
+Nissan,Magnite,KURO Edition,Exterior,LED Headlamps,YES
+Nissan,Magnite,KURO Edition,Exterior,LED Taillights,NO
+Nissan,Magnite,KURO Edition,Exterior,LED Fog Lamps,NO
+Nissan,Magnite,KURO Edition,Safety,Anti-lock Braking System (ABS),YES
+Nissan,Magnite,KURO Edition,Safety,Brake Assist,YES
+Nissan,Magnite,KURO Edition,Safety,Central Locking,YES
+Nissan,Magnite,KURO Edition,Safety,Child Safety Locks,YES
+Nissan,Magnite,KURO Edition,Safety,Anti-Theft Alarm,YES
+Nissan,Magnite,KURO Edition,Safety,No. of Airbags,6
+Nissan,Magnite,KURO Edition,Safety,Driver Airbag,YES
+Nissan,Magnite,KURO Edition,Safety,Passenger Airbag,YES
+Nissan,Magnite,KURO Edition,Safety,Side Airbag,YES
+Nissan,Magnite,KURO Edition,Safety,Side Airbag-Rear,NO
+Nissan,Magnite,KURO Edition,Safety,Day & Night Rear View Mirror,YES
+Nissan,Magnite,KURO Edition,Safety,Electronic Brakeforce Distribution (EBD),YES
+Nissan,Magnite,KURO Edition,Safety,Traction Control,YES
+Nissan,Magnite,KURO Edition,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Nissan,Magnite,KURO Edition,Safety,Engine Immobilizer,YES
+Nissan,Magnite,KURO Edition,Safety,Electronic Stability Control (ESC),YES
+Nissan,Magnite,KURO Edition,Safety,Rear Camera,With Guidedlines
+Nissan,Magnite,KURO Edition,Safety,Anti-Theft Device,YES
+Nissan,Magnite,KURO Edition,Safety,Anti-Pinch Power Windows,Driver's Window
+Nissan,Magnite,KURO Edition,Safety,ISOFIX Child Seat Mounts,YES
+Nissan,Magnite,KURO Edition,Safety,Hill Assist,YES
+Nissan,Magnite,KURO Edition,Safety,360 View Camera,NO
+Nissan,Magnite,KURO Edition,Safety,Global NCAP Safety Rating,5 Star
+Nissan,Magnite,KURO Edition,Safety,Global NCAP Child Safety Rating,3 Star
+Nissan,Magnite,KURO Edition,Entertainment & Communication,Radio,YES
+Nissan,Magnite,KURO Edition,Entertainment & Communication,Wireless Phone Charging,NO
+Nissan,Magnite,KURO Edition,Entertainment & Communication,Bluetooth Connectivity,YES
+Nissan,Magnite,KURO Edition,Entertainment & Communication,Wi-Fi Connectivity,YES
+Nissan,Magnite,KURO Edition,Entertainment & Communication,Touchscreen,YES
+Nissan,Magnite,KURO Edition,Entertainment & Communication,Touchscreen Size,8 inch
+Nissan,Magnite,KURO Edition,Entertainment & Communication,Android Auto,YES
+Nissan,Magnite,KURO Edition,Entertainment & Communication,Apple CarPlay,YES
+Nissan,Magnite,KURO Edition,Entertainment & Communication,No. of Speakers,4
+Nissan,Magnite,KURO Edition,Entertainment & Communication,Usb Ports,YES
+Nissan,Magnite,KURO Edition,Entertainment & Communication,Tweeters,2
+Nissan,Magnite,KURO Edition,Entertainment & Communication,Additional Features,3D sound by ARKAMYS
+Nissan,Magnite,KURO Edition,Entertainment & Communication,Speakers,Front & Rear
+Nissan,Magnite,KURO Edition,Advance Internet Feature,Remote Vehicle Ignition Start/Stop,NO

@@ -1,0 +1,117 @@
+company,model,variant,category,feature_name,feature_details
+Kia,Syros,HTE Opt Diesel,Engine & Transmission,Engine Type,1.5L CRDi VGT
+Kia,Syros,HTE Opt Diesel,Engine & Transmission,Displacement,1493 cc
+Kia,Syros,HTE Opt Diesel,Engine & Transmission,Max Power,114bhp@4000rpm
+Kia,Syros,HTE Opt Diesel,Engine & Transmission,Max Torque,250Nm@1500-2750rpm
+Kia,Syros,HTE Opt Diesel,Engine & Transmission,No. of Cylinders,4
+Kia,Syros,HTE Opt Diesel,Engine & Transmission,Valves Per Cylinder,4
+Kia,Syros,HTE Opt Diesel,Engine & Transmission,Turbo Charger,YES
+Kia,Syros,HTE Opt Diesel,Engine & Transmission,Transmission Type,Manual
+Kia,Syros,HTE Opt Diesel,Engine & Transmission,Gearbox,6 Speed
+Kia,Syros,HTE Opt Diesel,Engine & Transmission,Drive Type,FWD
+Kia,Syros,HTE Opt Diesel,Fuel & Performance,Fuel Type,Diesel
+Kia,Syros,HTE Opt Diesel,Fuel & Performance,Diesel Fuel Tank Capacity,45 Litres
+Kia,Syros,HTE Opt Diesel,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Kia,Syros,HTE Opt Diesel,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Kia,Syros,HTE Opt Diesel,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Kia,Syros,HTE Opt Diesel,"Suspension, Steering & Brakes",Steering Type,Electric
+Kia,Syros,HTE Opt Diesel,"Suspension, Steering & Brakes",Steering Column,Tilt
+Kia,Syros,HTE Opt Diesel,"Suspension, Steering & Brakes",Steering Gear Type,Rack & Pinion
+Kia,Syros,HTE Opt Diesel,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Kia,Syros,HTE Opt Diesel,"Suspension, Steering & Brakes",Rear Brake Type,Drum
+Kia,Syros,HTE Opt Diesel,Dimensions & Capacity,Length,3995 mm
+Kia,Syros,HTE Opt Diesel,Dimensions & Capacity,Width,1805 mm
+Kia,Syros,HTE Opt Diesel,Dimensions & Capacity,Height,1680 mm
+Kia,Syros,HTE Opt Diesel,Dimensions & Capacity,Boot Space,465 Litres
+Kia,Syros,HTE Opt Diesel,Dimensions & Capacity,Seating Capacity,5
+Kia,Syros,HTE Opt Diesel,Dimensions & Capacity,Wheel Base,2550 mm
+Kia,Syros,HTE Opt Diesel,Comfort & Convenience,Power Steering,YES
+Kia,Syros,HTE Opt Diesel,Comfort & Convenience,Air Conditioner,YES
+Kia,Syros,HTE Opt Diesel,Comfort & Convenience,Heater,YES
+Kia,Syros,HTE Opt Diesel,Comfort & Convenience,Adjustable Steering,Height only
+Kia,Syros,HTE Opt Diesel,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Kia,Syros,HTE Opt Diesel,Comfort & Convenience,Ventilated Seats,NO
+Kia,Syros,HTE Opt Diesel,Comfort & Convenience,Electric Adjustable Seats,NO
+Kia,Syros,HTE Opt Diesel,Comfort & Convenience,Automatic Climate Control,NO
+Kia,Syros,HTE Opt Diesel,Comfort & Convenience,Accessory Power Outlet,YES
+Kia,Syros,HTE Opt Diesel,Comfort & Convenience,Rear Seat Headrest,Integrated
+Kia,Syros,HTE Opt Diesel,Comfort & Convenience,Adjustable Headrest,YES
+Kia,Syros,HTE Opt Diesel,Comfort & Convenience,Rear Seat Centre Arm Rest,NO
+Kia,Syros,HTE Opt Diesel,Comfort & Convenience,Rear AC Vents,YES
+Kia,Syros,HTE Opt Diesel,Comfort & Convenience,Cruise Control,NO
+Kia,Syros,HTE Opt Diesel,Comfort & Convenience,Parking Sensors,Rear
+Kia,Syros,HTE Opt Diesel,Comfort & Convenience,KeyLess Entry,YES
+Kia,Syros,HTE Opt Diesel,Comfort & Convenience,Engine Start/Stop Button,NO
+Kia,Syros,HTE Opt Diesel,Comfort & Convenience,Paddle Shifters,NO
+Kia,Syros,HTE Opt Diesel,Comfort & Convenience,Central Console Armrest,YES
+Kia,Syros,HTE Opt Diesel,Comfort & Convenience,Drive Modes,NO
+Kia,Syros,HTE Opt Diesel,Comfort & Convenience,Additional Features,Sunglass Holder
+Kia,Syros,HTE Opt Diesel,Comfort & Convenience,Drive Mode Types,NO
+Kia,Syros,HTE Opt Diesel,Comfort & Convenience,Power Windows,Front & Rear
+Kia,Syros,HTE Opt Diesel,Comfort & Convenience,Cup Holders,Front Only
+Kia,Syros,HTE Opt Diesel,Interior,Glove Box,YES
+Kia,Syros,HTE Opt Diesel,Interior,Digital Cluster,YES
+Kia,Syros,HTE Opt Diesel,Interior,Digital Cluster Size,12
+Kia,Syros,HTE Opt Diesel,Interior,Upholstery,Semi-Leatherette
+Kia,Syros,HTE Opt Diesel,Exterior,Rear Window Wiper,NO
+Kia,Syros,HTE Opt Diesel,Exterior,Rear Window Washer,NO
+Kia,Syros,HTE Opt Diesel,Exterior,Rear Window Defogger,NO
+Kia,Syros,HTE Opt Diesel,Exterior,Wheel Covers,NO
+Kia,Syros,HTE Opt Diesel,Exterior,Alloy Wheels,YES
+Kia,Syros,HTE Opt Diesel,Exterior,Rear Spoiler,YES
+Kia,Syros,HTE Opt Diesel,Exterior,Outside Rear View Mirror Turn Indicators,NO
+Kia,Syros,HTE Opt Diesel,Exterior,Roof Rails,NO
+Kia,Syros,HTE Opt Diesel,Exterior,Fog Lights,Front
+Kia,Syros,HTE Opt Diesel,Exterior,Antenna,Shark Fin
+Kia,Syros,HTE Opt Diesel,Exterior,Sunroof,Single Pane
+Kia,Syros,HTE Opt Diesel,Exterior,Outside Rear View Mirror (ORVM),Powered
+Kia,Syros,HTE Opt Diesel,Exterior,Tyre Size,215/60 R16
+Kia,Syros,HTE Opt Diesel,Exterior,Tyre Type,Radial Tubeless
+Kia,Syros,HTE Opt Diesel,Exterior,Wheel Size,16 Inch
+Kia,Syros,HTE Opt Diesel,Exterior,LED DRLs,NO
+Kia,Syros,HTE Opt Diesel,Exterior,LED Headlamps,NO
+Kia,Syros,HTE Opt Diesel,Exterior,LED Taillights,NO
+Kia,Syros,HTE Opt Diesel,Exterior,LED Fog Lamps,YES
+Kia,Syros,HTE Opt Diesel,Safety,Anti-lock Braking System (ABS),YES
+Kia,Syros,HTE Opt Diesel,Safety,Brake Assist,YES
+Kia,Syros,HTE Opt Diesel,Safety,Central Locking,YES
+Kia,Syros,HTE Opt Diesel,Safety,Child Safety Locks,YES
+Kia,Syros,HTE Opt Diesel,Safety,Anti-Theft Alarm,YES
+Kia,Syros,HTE Opt Diesel,Safety,No. of Airbags,6
+Kia,Syros,HTE Opt Diesel,Safety,Driver Airbag,YES
+Kia,Syros,HTE Opt Diesel,Safety,Passenger Airbag,YES
+Kia,Syros,HTE Opt Diesel,Safety,Side Airbag,YES
+Kia,Syros,HTE Opt Diesel,Safety,Side Airbag-Rear,NO
+Kia,Syros,HTE Opt Diesel,Safety,Day & Night Rear View Mirror,YES
+Kia,Syros,HTE Opt Diesel,Safety,Electronic Brakeforce Distribution (EBD),YES
+Kia,Syros,HTE Opt Diesel,Safety,Traction Control,NO
+Kia,Syros,HTE Opt Diesel,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Kia,Syros,HTE Opt Diesel,Safety,Electronic Stability Control (ESC),YES
+Kia,Syros,HTE Opt Diesel,Safety,Rear Camera,NO
+Kia,Syros,HTE Opt Diesel,Safety,ISOFIX Child Seat Mounts,YES
+Kia,Syros,HTE Opt Diesel,Safety,Hill Assist,YES
+Kia,Syros,HTE Opt Diesel,Safety,Bharat NCAP Safety Rating,5 Star
+Kia,Syros,HTE Opt Diesel,Safety,Bharat NCAP Child Safety Rating,5 Star
+Kia,Syros,HTE Opt Diesel,Entertainment & Communication,Radio,YES
+Kia,Syros,HTE Opt Diesel,Entertainment & Communication,Wireless Phone Charging,NO
+Kia,Syros,HTE Opt Diesel,Entertainment & Communication,Bluetooth Connectivity,YES
+Kia,Syros,HTE Opt Diesel,Entertainment & Communication,Touchscreen,YES
+Kia,Syros,HTE Opt Diesel,Entertainment & Communication,Touchscreen Size,10.25 inch
+Kia,Syros,HTE Opt Diesel,Entertainment & Communication,Android Auto,YES
+Kia,Syros,HTE Opt Diesel,Entertainment & Communication,Apple CarPlay,YES
+Kia,Syros,HTE Opt Diesel,Entertainment & Communication,No. of Speakers,6
+Kia,Syros,HTE Opt Diesel,Entertainment & Communication,Usb Ports,YES
+Kia,Syros,HTE Opt Diesel,Entertainment & Communication,Additional Features,Wireless Android Auto & Apple CarPlay
+Kia,Syros,HTE Opt Diesel,Entertainment & Communication,Speakers,Front & Rear
+Kia,Syros,HTE Opt Diesel,Advance Internet Feature,Live Location,NO
+Kia,Syros,HTE Opt Diesel,Advance Internet Feature,Remote Vehicle Status Check,NO
+Kia,Syros,HTE Opt Diesel,Advance Internet Feature,Inbuilt Assistant,NO
+Kia,Syros,HTE Opt Diesel,Advance Internet Feature,Hinglish Voice Commands,NO
+Kia,Syros,HTE Opt Diesel,Advance Internet Feature,Navigation with Live Traffic,NO
+Kia,Syros,HTE Opt Diesel,Advance Internet Feature,Over the Air (OTA) Updates,NO
+Kia,Syros,HTE Opt Diesel,Advance Internet Feature,Over Speeding Alert,NO
+Kia,Syros,HTE Opt Diesel,Advance Internet Feature,In Car Remote Control App,NO
+Kia,Syros,HTE Opt Diesel,Advance Internet Feature,Valet Mode,NO
+Kia,Syros,HTE Opt Diesel,Advance Internet Feature,Remote AC On/Off,NO
+Kia,Syros,HTE Opt Diesel,Advance Internet Feature,Remote Door Lock/Unlock,NO
+Kia,Syros,HTE Opt Diesel,Advance Internet Feature,Inbuilt APPs,NO

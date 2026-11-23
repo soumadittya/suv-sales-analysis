@@ -1,0 +1,120 @@
+company,model,variant,category,feature_name,feature_details
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Engine & Transmission,Battery Capacity,34.5 kWh
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Engine & Transmission,Motor Power,100 kW
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Engine & Transmission,Motor Type,PERMANENT MAGNET SYNCHRONOUS MOTOR (PMSM)
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Engine & Transmission,Max Power,149.55bhp
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Engine & Transmission,Max Torque,310Nm
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Engine & Transmission,Range,375 km
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Engine & Transmission,Range - Tested,289.5
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Engine & Transmission,Battery Warranty,8 Years or 160000 km
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Engine & Transmission,Battery Type,Lithium-Ion
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Engine & Transmission,Charging Time (A.C),6H 30 Min-7.2 kW-(0-100%)
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Engine & Transmission,Charging Time (D.C),50 min-50 kW-(0-80%)
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Engine & Transmission,Regenerative Braking,YES
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Engine & Transmission,Charging Port,CCS-II
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Engine & Transmission,Charging Options,3.3 kW AC | 7.2 kW AC | 50 kW DC
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Engine & Transmission,Charger Type,7.2 kW Wall Box Charger
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Engine & Transmission,Charging Time (15 A Plug Point),13.5H (0-100%)
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Engine & Transmission,Charging Time (7.2 kW AC Fast Charger),6.5H (0-100%)
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Engine & Transmission,Charging Time (50 kW DC Fast Charger),50 Min (0-80%)
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Engine & Transmission,Transmission Type,Automatic
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Engine & Transmission,Gearbox,Shift-by-wire AT
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Engine & Transmission,Drive Type,FWD
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Fuel & Performance,Fuel Type,Electric
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Fuel & Performance,Emission Norm Compliance,ZEV
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Fuel & Performance,Top Speed,150 kmph
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Fuel & Performance,Acceleration 0-100kmph,8.3 s
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Charging,Charging Time,6H 30 Min-AC-7.2 kW (0-100%)
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Charging,Fast Charging,YES
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,"Suspension, Steering & Brakes",Steering Type,Electric
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,"Suspension, Steering & Brakes",Braking (100-0kmph),42.61 s
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,"Suspension, Steering & Brakes",City driveability (20-80kmph),4.71 s
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,"Suspension, Steering & Brakes",Braking (80-0 kmph),27.38 s
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Dimensions & Capacity,Length,4200 mm
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Dimensions & Capacity,Width,1821 mm
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Dimensions & Capacity,Height,1634 mm
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Dimensions & Capacity,Boot Space,378 Litres
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Dimensions & Capacity,Seating Capacity,5
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Dimensions & Capacity,Wheel Base,2445 mm
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Dimensions & Capacity,Front Tread,1511 mm
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Dimensions & Capacity,Rear Tread,1563 mm
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Comfort & Convenience,Power Steering,YES
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Comfort & Convenience,Air Conditioner,YES
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Comfort & Convenience,Heater,YES
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Comfort & Convenience,Automatic Climate Control,YES
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Comfort & Convenience,Accessory Power Outlet,YES
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Comfort & Convenience,Adjustable Headrest,YES
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Comfort & Convenience,Rear AC Vents,YES
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Comfort & Convenience,Cruise Control,YES
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Comfort & Convenience,Parking Sensors,Rear
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Comfort & Convenience,KeyLess Entry,YES
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Comfort & Convenience,Engine Start/Stop Button,YES
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Comfort & Convenience,Voice Commands,YES
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Comfort & Convenience,USB Charger,Front & Rear
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Comfort & Convenience,Central Console Armrest,With Storage
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Comfort & Convenience,Drive Modes,3
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Comfort & Convenience,Follow Me Home Headlamps,YES
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Interior,Leather Wrapped Steering Wheel,YES
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Interior,Glove Box,YES
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Interior,Additional Features,SUNGLASS HOLDER
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Interior,Digital Cluster,Full
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Interior,Digital Cluster Size,10.25 inch
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Interior,Upholstery,Leatherette
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Exterior,Adjustable Headlamps,YES
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Exterior,Rain Sensing Wiper,YES
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Exterior,Rear Window Wiper,YES
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Exterior,Rear Window Washer,YES
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Exterior,Rear Window Defogger,YES
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Exterior,Wheel Covers,NO
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Exterior,Alloy Wheels,YES
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Exterior,Rear Spoiler,YES
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Exterior,Projector Headlamps,YES
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Exterior,Roof Rails,YES
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Exterior,Fog Lights,Front
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Exterior,Antenna,Shark Fin
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Exterior,Sunroof,Single Pane
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Exterior,Tyre Size,205/65 R16
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Exterior,Tyre Type,"Tubeless,Radial"
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Exterior,LED DRLs,YES
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Exterior,LED Taillights,YES
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Safety,Anti-lock Braking System (ABS),YES
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Safety,Central Locking,YES
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Safety,No. of Airbags,6
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Safety,Driver Airbag,YES
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Safety,Passenger Airbag,YES
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Safety,Side Airbag,YES
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Safety,Day & Night Rear View Mirror,YES
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Safety,Electronic Brakeforce Distribution (EBD),YES
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Safety,Engine Immobilizer,YES
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Safety,Electronic Stability Control (ESC),YES
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Safety,Rear Camera,With Guidedlines
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Safety,Anti-Theft Device,YES
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Safety,ISOFIX Child Seat Mounts,YES
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Safety,Hill Assist,YES
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Safety,Bharat NCAP Safety Rating,5 Star
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Safety,Bharat NCAP Child Safety Rating,5 Star
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Entertainment & Communication,Radio,YES
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Entertainment & Communication,Wireless Phone Charging,YES
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Entertainment & Communication,Bluetooth Connectivity,YES
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Entertainment & Communication,Touchscreen,YES
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Entertainment & Communication,Touchscreen Size,10.25 inch
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Entertainment & Communication,Android Auto,YES
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Entertainment & Communication,Apple CarPlay,YES
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Entertainment & Communication,No. of Speakers,4
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Entertainment & Communication,Usb Ports,YES
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Entertainment & Communication,Tweeters,2
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Entertainment & Communication,Additional Features,wireless android auto and apple car play compatibility
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Entertainment & Communication,Speakers,Front & Rear
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Advance Internet Feature,E-Call & I-Call,NO
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Advance Internet Feature,Google / Alexa Connectivity,YES
+Mahindra,XUV400 EV,EL Pro 34.5 kWh,Advance Internet Feature,Smartwatch App,YES

@@ -1,0 +1,103 @@
+company,model,variant,category,feature_name,feature_details
+Renault,Kiger,Evolution AMT,Engine & Transmission,Engine Type,1.0L Energy
+Renault,Kiger,Evolution AMT,Engine & Transmission,Displacement,999 cc
+Renault,Kiger,Evolution AMT,Engine & Transmission,Max Power,71bhp@6250rpm
+Renault,Kiger,Evolution AMT,Engine & Transmission,Max Torque,96Nm@3500rpm
+Renault,Kiger,Evolution AMT,Engine & Transmission,No. of Cylinders,3
+Renault,Kiger,Evolution AMT,Engine & Transmission,Valves Per Cylinder,4
+Renault,Kiger,Evolution AMT,Engine & Transmission,Fuel Supply System,MPFi
+Renault,Kiger,Evolution AMT,Engine & Transmission,Turbo Charger,NO
+Renault,Kiger,Evolution AMT,Engine & Transmission,Transmission Type,Automatic
+Renault,Kiger,Evolution AMT,Engine & Transmission,Gearbox,easy-R AMT
+Renault,Kiger,Evolution AMT,Engine & Transmission,Drive Type,FWD
+Renault,Kiger,Evolution AMT,Fuel & Performance,Fuel Type,Petrol
+Renault,Kiger,Evolution AMT,Fuel & Performance,Petrol Mileage ARAI,19.83 kmpl
+Renault,Kiger,Evolution AMT,Fuel & Performance,Petrol Fuel Tank Capacity,40 Litres
+Renault,Kiger,Evolution AMT,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Renault,Kiger,Evolution AMT,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Renault,Kiger,Evolution AMT,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Renault,Kiger,Evolution AMT,"Suspension, Steering & Brakes",Steering Type,Electric
+Renault,Kiger,Evolution AMT,"Suspension, Steering & Brakes",Steering Column,Tilt
+Renault,Kiger,Evolution AMT,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Renault,Kiger,Evolution AMT,"Suspension, Steering & Brakes",Rear Brake Type,Drum
+Renault,Kiger,Evolution AMT,Dimensions & Capacity,Length,3990 mm
+Renault,Kiger,Evolution AMT,Dimensions & Capacity,Width,1912 mm
+Renault,Kiger,Evolution AMT,Dimensions & Capacity,Height,1605 mm
+Renault,Kiger,Evolution AMT,Dimensions & Capacity,Boot Space,405 Litres
+Renault,Kiger,Evolution AMT,Dimensions & Capacity,Seating Capacity,5
+Renault,Kiger,Evolution AMT,Dimensions & Capacity,Ground Clearance Unladen,205 mm
+Renault,Kiger,Evolution AMT,Dimensions & Capacity,Wheel Base,2500 mm
+Renault,Kiger,Evolution AMT,Comfort & Convenience,Boot Opening,Manual
+Renault,Kiger,Evolution AMT,Comfort & Convenience,Power Steering,YES
+Renault,Kiger,Evolution AMT,Comfort & Convenience,Air Conditioner,YES
+Renault,Kiger,Evolution AMT,Comfort & Convenience,Heater,YES
+Renault,Kiger,Evolution AMT,Comfort & Convenience,Height Adjustable Driver Seat,NO
+Renault,Kiger,Evolution AMT,Comfort & Convenience,Ventilated Seats,NO
+Renault,Kiger,Evolution AMT,Comfort & Convenience,Automatic Climate Control,NO
+Renault,Kiger,Evolution AMT,Comfort & Convenience,Air Quality Control,YES
+Renault,Kiger,Evolution AMT,Comfort & Convenience,Accessory Power Outlet,YES
+Renault,Kiger,Evolution AMT,Comfort & Convenience,Adjustable Headrest,YES
+Renault,Kiger,Evolution AMT,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Renault,Kiger,Evolution AMT,Comfort & Convenience,Rear AC Vents,YES
+Renault,Kiger,Evolution AMT,Comfort & Convenience,Cruise Control,NO
+Renault,Kiger,Evolution AMT,Comfort & Convenience,Parking Sensors,Rear
+Renault,Kiger,Evolution AMT,Comfort & Convenience,Foldable Rear Seat,Bench Folding
+Renault,Kiger,Evolution AMT,Comfort & Convenience,KeyLess Entry,YES
+Renault,Kiger,Evolution AMT,Comfort & Convenience,Engine Start/Stop Button,NO
+Renault,Kiger,Evolution AMT,Comfort & Convenience,USB Charger,Front
+Renault,Kiger,Evolution AMT,Comfort & Convenience,Central Console Armrest,With Storage
+Renault,Kiger,Evolution AMT,Comfort & Convenience,Follow Me Home Headlamps,NO
+Renault,Kiger,Evolution AMT,Comfort & Convenience,Power Windows,Front & Rear
+Renault,Kiger,Evolution AMT,Interior,Glove Box,YES
+Renault,Kiger,Evolution AMT,Interior,Digital Cluster,YES
+Renault,Kiger,Evolution AMT,Interior,Digital Cluster Size,3.5
+Renault,Kiger,Evolution AMT,Interior,Upholstery,Fabric
+Renault,Kiger,Evolution AMT,Exterior,Adjustable Headlamps,YES
+Renault,Kiger,Evolution AMT,Exterior,Rain Sensing Wiper,NO
+Renault,Kiger,Evolution AMT,Exterior,Rear Window Wiper,NO
+Renault,Kiger,Evolution AMT,Exterior,Rear Window Washer,NO
+Renault,Kiger,Evolution AMT,Exterior,Rear Window Defogger,NO
+Renault,Kiger,Evolution AMT,Exterior,Rear Spoiler,YES
+Renault,Kiger,Evolution AMT,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Renault,Kiger,Evolution AMT,Exterior,Halogen Headlamps,NO
+Renault,Kiger,Evolution AMT,Exterior,Roof Rails,YES
+Renault,Kiger,Evolution AMT,Exterior,Antenna,Shark Fin
+Renault,Kiger,Evolution AMT,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Renault,Kiger,Evolution AMT,Exterior,Wheels Type,Steel with Cover
+Renault,Kiger,Evolution AMT,Exterior,Tyre Size,195/60
+Renault,Kiger,Evolution AMT,Exterior,Tyre Type,Radial Tubeless
+Renault,Kiger,Evolution AMT,Exterior,LED DRLs,YES
+Renault,Kiger,Evolution AMT,Exterior,LED Headlamps,NO
+Renault,Kiger,Evolution AMT,Exterior,LED Taillights,YES
+Renault,Kiger,Evolution AMT,Exterior,LED Fog Lamps,YES
+Renault,Kiger,Evolution AMT,Safety,Anti-lock Braking System (ABS),YES
+Renault,Kiger,Evolution AMT,Safety,Brake Assist,YES
+Renault,Kiger,Evolution AMT,Safety,Central Locking,YES
+Renault,Kiger,Evolution AMT,Safety,Child Safety Locks,YES
+Renault,Kiger,Evolution AMT,Safety,No. of Airbags,6
+Renault,Kiger,Evolution AMT,Safety,Driver Airbag,YES
+Renault,Kiger,Evolution AMT,Safety,Passenger Airbag,YES
+Renault,Kiger,Evolution AMT,Safety,Side Airbag,YES
+Renault,Kiger,Evolution AMT,Safety,Side Airbag-Rear,NO
+Renault,Kiger,Evolution AMT,Safety,Day & Night Rear View Mirror,YES
+Renault,Kiger,Evolution AMT,Safety,Electronic Brakeforce Distribution (EBD),YES
+Renault,Kiger,Evolution AMT,Safety,Traction Control,YES
+Renault,Kiger,Evolution AMT,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Renault,Kiger,Evolution AMT,Safety,Engine Immobilizer,YES
+Renault,Kiger,Evolution AMT,Safety,Electronic Stability Control (ESC),YES
+Renault,Kiger,Evolution AMT,Safety,Rear Camera,With Guidedlines
+Renault,Kiger,Evolution AMT,Safety,ISOFIX Child Seat Mounts,YES
+Renault,Kiger,Evolution AMT,Safety,Hill Assist,YES
+Renault,Kiger,Evolution AMT,Safety,360 View Camera,NO
+Renault,Kiger,Evolution AMT,Safety,Global NCAP Safety Rating,4 Star
+Renault,Kiger,Evolution AMT,Safety,Global NCAP Child Safety Rating,3 Star
+Renault,Kiger,Evolution AMT,Entertainment & Communication,Radio,YES
+Renault,Kiger,Evolution AMT,Entertainment & Communication,Wireless Phone Charging,NO
+Renault,Kiger,Evolution AMT,Entertainment & Communication,Bluetooth Connectivity,YES
+Renault,Kiger,Evolution AMT,Entertainment & Communication,Touchscreen,YES
+Renault,Kiger,Evolution AMT,Entertainment & Communication,Touchscreen Size,8 inch
+Renault,Kiger,Evolution AMT,Entertainment & Communication,Android Auto,YES
+Renault,Kiger,Evolution AMT,Entertainment & Communication,Apple CarPlay,YES
+Renault,Kiger,Evolution AMT,Entertainment & Communication,No. of Speakers,4
+Renault,Kiger,Evolution AMT,Entertainment & Communication,Usb Ports,YES
+Renault,Kiger,Evolution AMT,Entertainment & Communication,Speakers,Front & Rear

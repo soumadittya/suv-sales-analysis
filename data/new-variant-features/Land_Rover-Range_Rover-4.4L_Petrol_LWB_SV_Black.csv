@@ -1,0 +1,135 @@
+company,model,variant,category,feature_name,feature_details
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Engine & Transmission,Engine Type,4.4 L twin-turbo V8
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Engine & Transmission,Displacement,4395 cc
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Engine & Transmission,Max Power,523bhp@5500rpm
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Engine & Transmission,Max Torque,750Nm@1800-5400rpm
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Engine & Transmission,No. of Cylinders,8
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Engine & Transmission,Valves Per Cylinder,4
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Engine & Transmission,Fuel Supply System,MPi
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Engine & Transmission,Turbo Charger,twin
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Engine & Transmission,Transmission Type,Automatic
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Engine & Transmission,Gearbox,8-Speed
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Engine & Transmission,Hybrid Type,Mild Hybrid
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Engine & Transmission,Drive Type,AWD
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Fuel & Performance,Fuel Type,Petrol
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Fuel & Performance,Petrol Fuel Tank Capacity,90 Litres
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Fuel & Performance,Top Speed,261 kmph
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Fuel & Performance,Acceleration,4.7 s
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Fuel & Performance,0-100kmph,4.7 s
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,"Suspension, Steering & Brakes",Front Suspension,Air suspension
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,"Suspension, Steering & Brakes",Rear Suspension,Multi-link suspension
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,"Suspension, Steering & Brakes",Steering Type,Electric
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,"Suspension, Steering & Brakes",Steering Column,Tilt and Telescopic
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,"Suspension, Steering & Brakes",Front Brake Type,Ventilated Disc
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,"Suspension, Steering & Brakes",Rear Brake Type,Ventilated Disc
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Dimensions & Capacity,Length,5252 mm
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Dimensions & Capacity,Width,2209 mm
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Dimensions & Capacity,Height,1870 mm
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Dimensions & Capacity,Seating Capacity,7
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Dimensions & Capacity,Ground Clearance Unladen,219 mm
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Dimensions & Capacity,Wheel Base,3197 mm
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Dimensions & Capacity,Gross Weight,3390 kg
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Comfort & Convenience,Boot Opening,Hands-Free
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Comfort & Convenience,Power Steering,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Comfort & Convenience,Air Conditioner,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Comfort & Convenience,Heater,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Comfort & Convenience,Electric Adjustable Seats,Front Only
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Comfort & Convenience,Automatic Climate Control,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Comfort & Convenience,Air Quality Control,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Comfort & Convenience,Accessory Power Outlet,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Comfort & Convenience,Adjustable Headrest,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Comfort & Convenience,Rear AC Vents,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Comfort & Convenience,Cruise Control,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Comfort & Convenience,Parking Sensors,Front & Rear
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Comfort & Convenience,KeyLess Entry,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Comfort & Convenience,Voice Commands,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Comfort & Convenience,Paddle Shifters,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Comfort & Convenience,USB Charger,Front & Rear
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Comfort & Convenience,Central Console Armrest,With Storage
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Comfort & Convenience,Power Windows,Front & Rear
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Comfort & Convenience,Cup Holders,Front & Rear
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Comfort & Convenience,Heated Seats,Front Only
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Interior,Leather Wrapped Steering Wheel,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Interior,Glove Box,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Interior,Upholstery,Leather
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Exterior,Adjustable Headlamps,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Exterior,Rain Sensing Wiper,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Exterior,Rear Window Wiper,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Exterior,Rear Window Washer,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Exterior,Wheel Covers,NO
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Exterior,Alloy Wheels,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Exterior,Rear Spoiler,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Exterior,Automatic Headlamps,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Exterior,Fog Lights,Front & Rear
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Exterior,Antenna,Shark Fin
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Exterior,Sunroof,Panoramic
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Exterior,Heated Outside Rear View Mirror,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Exterior,Puddle Lamps,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Exterior,Tyre Size,285/45 R22
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Exterior,LED DRLs,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Exterior,LED Headlamps,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Exterior,LED Taillights,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Exterior,LED Fog Lamps,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Exterior,Additional Features,"Animated Directional Indicators, Pixel LED headlights with signature DRL"
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Safety,Anti-lock Braking System (ABS),YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Safety,Central Locking,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Safety,Child Safety Locks,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Safety,Anti-Theft Alarm,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Safety,No. of Airbags,6
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Safety,Driver Airbag,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Safety,Passenger Airbag,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Safety,Side Airbag,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Safety,Side Airbag-Rear,NO
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Safety,Day & Night Rear View Mirror,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Safety,Electronic Brakeforce Distribution (EBD),YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Safety,Traction Control,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Safety,Engine Immobilizer,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Safety,Electronic Stability Control (ESC),YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Safety,Rear Camera,Without Guidedlines
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Safety,Anti-Theft Device,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Safety,Anti-Pinch Power Windows,All Windows
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Safety,ISOFIX Child Seat Mounts,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Safety,Hill Descent Control,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Safety,Hill Assist,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Safety,360 View Camera,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Entertainment & Communication,Radio,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Entertainment & Communication,Wireless Phone Charging,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Entertainment & Communication,Bluetooth Connectivity,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Entertainment & Communication,Touchscreen,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Entertainment & Communication,Touchscreen Size,13.1 inch
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Entertainment & Communication,Android Auto,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Entertainment & Communication,Apple CarPlay,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Entertainment & Communication,No. of Speakers,34
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Entertainment & Communication,Usb Ports,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Entertainment & Communication,Subwoofer,2
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Entertainment & Communication,Rear Touchscreen,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Entertainment & Communication,Rear Touch Screen size,11.4 inch
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Entertainment & Communication,Additional Features,Meridian Signature Sound System
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Entertainment & Communication,Speakers,Front & Rear
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,ADAS Feature,Forward Collision Warning,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,ADAS Feature,Automatic Emergency Braking,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,ADAS Feature,Lane Departure Warning,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,ADAS Feature,Adaptive Cruise Control,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,ADAS Feature,Leading Vehicle Departure Alert,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,ADAS Feature,Adaptive High Beam Assist,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Advance Internet Feature,Live Location,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Advance Internet Feature,Remote Vehicle Status Check,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Advance Internet Feature,Navigation with Live Traffic,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Advance Internet Feature,E-Call & I-Call,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Advance Internet Feature,Crash Notification,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Advance Internet Feature,SOS Button,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Advance Internet Feature,Over Speeding Alert,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Advance Internet Feature,Tow Away Alert,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Advance Internet Feature,In Car Remote Control App,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Advance Internet Feature,Remote AC On/Off,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Advance Internet Feature,Remote Door Lock/Unlock,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Advance Internet Feature,SOS / Emergency Assistance,YES
+Land Rover,Range Rover,4.4L Petrol LWB SV Black,Advance Internet Feature,Inbuilt APPs,Pivi Pro

@@ -1,0 +1,128 @@
+company,model,variant,category,feature_name,feature_details
+Maruti Suzuki,Brezza,LXi,Engine & Transmission,Engine Type,K15C
+Maruti Suzuki,Brezza,LXi,Engine & Transmission,Displacement,1462 cc
+Maruti Suzuki,Brezza,LXi,Engine & Transmission,Max Power,102bhp@6000rpm
+Maruti Suzuki,Brezza,LXi,Engine & Transmission,Max Torque,139Nm@4400rpm
+Maruti Suzuki,Brezza,LXi,Engine & Transmission,No. of Cylinders,4
+Maruti Suzuki,Brezza,LXi,Engine & Transmission,Valves Per Cylinder,4
+Maruti Suzuki,Brezza,LXi,Engine & Transmission,Valve Configuration,DOHC
+Maruti Suzuki,Brezza,LXi,Engine & Transmission,Transmission Type,Manual
+Maruti Suzuki,Brezza,LXi,Engine & Transmission,Gearbox,6-Speed
+Maruti Suzuki,Brezza,LXi,Engine & Transmission,Drive Type,FWD
+Maruti Suzuki,Brezza,LXi,Fuel & Performance,Fuel Type,Petrol
+Maruti Suzuki,Brezza,LXi,Fuel & Performance,Petrol Mileage ARAI,21.09 kmpl
+Maruti Suzuki,Brezza,LXi,Fuel & Performance,Petrol Fuel Tank Capacity,48 Litres
+Maruti Suzuki,Brezza,LXi,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Maruti Suzuki,Brezza,LXi,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Maruti Suzuki,Brezza,LXi,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Maruti Suzuki,Brezza,LXi,"Suspension, Steering & Brakes",Steering Type,Electric
+Maruti Suzuki,Brezza,LXi,"Suspension, Steering & Brakes",Steering Column,Tilt
+Maruti Suzuki,Brezza,LXi,"Suspension, Steering & Brakes",Front Brake Type,Ventilated Disc
+Maruti Suzuki,Brezza,LXi,"Suspension, Steering & Brakes",Rear Brake Type,Drum
+Maruti Suzuki,Brezza,LXi,Dimensions & Capacity,Length,3995 mm
+Maruti Suzuki,Brezza,LXi,Dimensions & Capacity,Width,1790 mm
+Maruti Suzuki,Brezza,LXi,Dimensions & Capacity,Height,1685 mm
+Maruti Suzuki,Brezza,LXi,Dimensions & Capacity,Seating Capacity,5
+Maruti Suzuki,Brezza,LXi,Dimensions & Capacity,Wheel Base,2500 mm
+Maruti Suzuki,Brezza,LXi,Dimensions & Capacity,Reported Boot Space,328 Litres
+Maruti Suzuki,Brezza,LXi,Comfort & Convenience,Boot Opening,Manual
+Maruti Suzuki,Brezza,LXi,Comfort & Convenience,Power Steering,YES
+Maruti Suzuki,Brezza,LXi,Comfort & Convenience,Air Conditioner,YES
+Maruti Suzuki,Brezza,LXi,Comfort & Convenience,Heater,YES
+Maruti Suzuki,Brezza,LXi,Comfort & Convenience,Adjustable Steering,Height only
+Maruti Suzuki,Brezza,LXi,Comfort & Convenience,Height Adjustable Driver Seat,NO
+Maruti Suzuki,Brezza,LXi,Comfort & Convenience,Ventilated Seats,NO
+Maruti Suzuki,Brezza,LXi,Comfort & Convenience,Automatic Climate Control,NO
+Maruti Suzuki,Brezza,LXi,Comfort & Convenience,Air Quality Control,YES
+Maruti Suzuki,Brezza,LXi,Comfort & Convenience,Accessory Power Outlet,YES
+Maruti Suzuki,Brezza,LXi,Comfort & Convenience,Rear Seat Headrest,Integrated
+Maruti Suzuki,Brezza,LXi,Comfort & Convenience,Rear Seat Centre Arm Rest,NO
+Maruti Suzuki,Brezza,LXi,Comfort & Convenience,Height Adjustable Front Seat Belts,NO
+Maruti Suzuki,Brezza,LXi,Comfort & Convenience,Rear AC Vents,YES
+Maruti Suzuki,Brezza,LXi,Comfort & Convenience,Cruise Control,NO
+Maruti Suzuki,Brezza,LXi,Comfort & Convenience,Parking Sensors,Rear
+Maruti Suzuki,Brezza,LXi,Comfort & Convenience,Foldable Rear Seat,Bench Folding
+Maruti Suzuki,Brezza,LXi,Comfort & Convenience,KeyLess Entry,YES
+Maruti Suzuki,Brezza,LXi,Comfort & Convenience,Engine Start/Stop Button,NO
+Maruti Suzuki,Brezza,LXi,Comfort & Convenience,Voice Commands,NO
+Maruti Suzuki,Brezza,LXi,Comfort & Convenience,Paddle Shifters,NO
+Maruti Suzuki,Brezza,LXi,Comfort & Convenience,USB Charger,NO
+Maruti Suzuki,Brezza,LXi,Comfort & Convenience,Central Console Armrest,NO
+Maruti Suzuki,Brezza,LXi,Comfort & Convenience,Gear Shift Indicator,YES
+Maruti Suzuki,Brezza,LXi,Comfort & Convenience,Glove Box light,NO
+Maruti Suzuki,Brezza,LXi,Comfort & Convenience,Idle Start-Stop System,YES
+Maruti Suzuki,Brezza,LXi,Comfort & Convenience,Follow Me Home Headlamps,NO
+Maruti Suzuki,Brezza,LXi,Comfort & Convenience,Power Windows,Front & Rear
+Maruti Suzuki,Brezza,LXi,Interior,Leather Wrapped Steering Wheel,NO
+Maruti Suzuki,Brezza,LXi,Interior,Glove Box,YES
+Maruti Suzuki,Brezza,LXi,Interior,Digital Cluster,YES
+Maruti Suzuki,Brezza,LXi,Interior,Upholstery,Fabric
+Maruti Suzuki,Brezza,LXi,Interior,Ambient Light Colour (numbers),0
+Maruti Suzuki,Brezza,LXi,Exterior,Rear Window Wiper,NO
+Maruti Suzuki,Brezza,LXi,Exterior,Rear Window Washer,NO
+Maruti Suzuki,Brezza,LXi,Exterior,Rear Window Defogger,NO
+Maruti Suzuki,Brezza,LXi,Exterior,Wheel Covers,YES
+Maruti Suzuki,Brezza,LXi,Exterior,Alloy Wheels,NO
+Maruti Suzuki,Brezza,LXi,Exterior,Rear Spoiler,YES
+Maruti Suzuki,Brezza,LXi,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Maruti Suzuki,Brezza,LXi,Exterior,Projector Headlamps,YES
+Maruti Suzuki,Brezza,LXi,Exterior,Halogen Headlamps,YES
+Maruti Suzuki,Brezza,LXi,Exterior,Roof Rails,NO
+Maruti Suzuki,Brezza,LXi,Exterior,Automatic Headlamps,NO
+Maruti Suzuki,Brezza,LXi,Exterior,Fog Lights,NO
+Maruti Suzuki,Brezza,LXi,Exterior,Antenna,Shark Fin
+Maruti Suzuki,Brezza,LXi,Exterior,Sunroof,NO
+Maruti Suzuki,Brezza,LXi,Exterior,Outside Rear View Mirror (ORVM),Powered
+Maruti Suzuki,Brezza,LXi,Exterior,Tyre Size,215/60 R16
+Maruti Suzuki,Brezza,LXi,Exterior,Tyre Type,Radial & Tubeless
+Maruti Suzuki,Brezza,LXi,Exterior,Wheel Size,16 Inch
+Maruti Suzuki,Brezza,LXi,Exterior,LED DRLs,NO
+Maruti Suzuki,Brezza,LXi,Exterior,LED Headlamps,NO
+Maruti Suzuki,Brezza,LXi,Exterior,LED Taillights,YES
+Maruti Suzuki,Brezza,LXi,Exterior,LED Fog Lamps,NO
+Maruti Suzuki,Brezza,LXi,Safety,Anti-lock Braking System (ABS),YES
+Maruti Suzuki,Brezza,LXi,Safety,Central Locking,YES
+Maruti Suzuki,Brezza,LXi,Safety,Child Safety Locks,YES
+Maruti Suzuki,Brezza,LXi,Safety,Anti-Theft Alarm,YES
+Maruti Suzuki,Brezza,LXi,Safety,No. of Airbags,6
+Maruti Suzuki,Brezza,LXi,Safety,Driver Airbag,YES
+Maruti Suzuki,Brezza,LXi,Safety,Passenger Airbag,YES
+Maruti Suzuki,Brezza,LXi,Safety,Side Airbag,YES
+Maruti Suzuki,Brezza,LXi,Safety,Side Airbag-Rear,NO
+Maruti Suzuki,Brezza,LXi,Safety,Day & Night Rear View Mirror,YES
+Maruti Suzuki,Brezza,LXi,Safety,Electronic Brakeforce Distribution (EBD),YES
+Maruti Suzuki,Brezza,LXi,Safety,Tyre Pressure Monitoring System (TPMS),NO
+Maruti Suzuki,Brezza,LXi,Safety,Engine Immobilizer,YES
+Maruti Suzuki,Brezza,LXi,Safety,Electronic Stability Control (ESC),YES
+Maruti Suzuki,Brezza,LXi,Safety,Rear Camera,NO
+Maruti Suzuki,Brezza,LXi,Safety,Anti-Theft Device,YES
+Maruti Suzuki,Brezza,LXi,Safety,ISOFIX Child Seat Mounts,YES
+Maruti Suzuki,Brezza,LXi,Safety,Heads-Up Display (HUD),NO
+Maruti Suzuki,Brezza,LXi,Safety,Hill Assist,YES
+Maruti Suzuki,Brezza,LXi,Safety,360 View Camera,NO
+Maruti Suzuki,Brezza,LXi,Safety,Bharat NCAP Safety Rating,5 Star
+Maruti Suzuki,Brezza,LXi,Safety,Bharat NCAP Child Safety Rating,5 Star
+Maruti Suzuki,Brezza,LXi,Entertainment & Communication,Radio,NO
+Maruti Suzuki,Brezza,LXi,Entertainment & Communication,Wireless Phone Charging,NO
+Maruti Suzuki,Brezza,LXi,Entertainment & Communication,Bluetooth Connectivity,NO
+Maruti Suzuki,Brezza,LXi,Entertainment & Communication,Touchscreen,NO
+Maruti Suzuki,Brezza,LXi,Entertainment & Communication,Android Auto,NO
+Maruti Suzuki,Brezza,LXi,Entertainment & Communication,Apple CarPlay,NO
+Maruti Suzuki,Brezza,LXi,Entertainment & Communication,Usb Ports,NO
+Maruti Suzuki,Brezza,LXi,Entertainment & Communication,Speakers,NO
+Maruti Suzuki,Brezza,LXi,ADAS Feature,Blind Spot Monitor,NO
+Maruti Suzuki,Brezza,LXi,Advance Internet Feature,Remote Immobiliser,NO
+Maruti Suzuki,Brezza,LXi,Advance Internet Feature,Inbuilt Assistant,NO
+Maruti Suzuki,Brezza,LXi,Advance Internet Feature,Navigation with Live Traffic,NO
+Maruti Suzuki,Brezza,LXi,Advance Internet Feature,Send POI to Vehicle From App,NO
+Maruti Suzuki,Brezza,LXi,Advance Internet Feature,Over the Air (OTA) Updates,NO
+Maruti Suzuki,Brezza,LXi,Advance Internet Feature,Google / Alexa Connectivity,NO
+Maruti Suzuki,Brezza,LXi,Advance Internet Feature,Over Speeding Alert,NO
+Maruti Suzuki,Brezza,LXi,Advance Internet Feature,Tow Away Alert,NO
+Maruti Suzuki,Brezza,LXi,Advance Internet Feature,In Car Remote Control App,NO
+Maruti Suzuki,Brezza,LXi,Advance Internet Feature,Smartwatch App,NO
+Maruti Suzuki,Brezza,LXi,Advance Internet Feature,Valet Mode,NO
+Maruti Suzuki,Brezza,LXi,Advance Internet Feature,Remote AC On/Off,NO
+Maruti Suzuki,Brezza,LXi,Advance Internet Feature,Remote Door Lock/Unlock,NO
+Maruti Suzuki,Brezza,LXi,Advance Internet Feature,SOS / Emergency Assistance,NO
+Maruti Suzuki,Brezza,LXi,Advance Internet Feature,Geo-fence Alert,NO

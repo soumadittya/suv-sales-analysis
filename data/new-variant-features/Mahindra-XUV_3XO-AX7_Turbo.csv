@@ -1,0 +1,160 @@
+company,model,variant,category,feature_name,feature_details
+Mahindra,XUV 3XO,AX7 Turbo,Engine & Transmission,Engine Type,mStallion (TGDi) engine
+Mahindra,XUV 3XO,AX7 Turbo,Engine & Transmission,Displacement,1197 cc
+Mahindra,XUV 3XO,AX7 Turbo,Engine & Transmission,Max Power,128.73bhp@5000rpm
+Mahindra,XUV 3XO,AX7 Turbo,Engine & Transmission,Max Torque,230Nm@1500-3750rpm
+Mahindra,XUV 3XO,AX7 Turbo,Engine & Transmission,No. of Cylinders,3
+Mahindra,XUV 3XO,AX7 Turbo,Engine & Transmission,Valves Per Cylinder,4
+Mahindra,XUV 3XO,AX7 Turbo,Engine & Transmission,Turbo Charger,YES
+Mahindra,XUV 3XO,AX7 Turbo,Engine & Transmission,Transmission Type,Manual
+Mahindra,XUV 3XO,AX7 Turbo,Engine & Transmission,Gearbox,6-Speed
+Mahindra,XUV 3XO,AX7 Turbo,Engine & Transmission,Drive Type,FWD
+Mahindra,XUV 3XO,AX7 Turbo,Fuel & Performance,Fuel Type,Petrol
+Mahindra,XUV 3XO,AX7 Turbo,Fuel & Performance,Petrol Mileage ARAI,20.1 kmpl
+Mahindra,XUV 3XO,AX7 Turbo,Fuel & Performance,Petrol Fuel Tank Capacity,42 Litres
+Mahindra,XUV 3XO,AX7 Turbo,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Mahindra,XUV 3XO,AX7 Turbo,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Mahindra,XUV 3XO,AX7 Turbo,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Mahindra,XUV 3XO,AX7 Turbo,"Suspension, Steering & Brakes",Steering Type,Electric
+Mahindra,XUV 3XO,AX7 Turbo,"Suspension, Steering & Brakes",Turning Radius,5.3 m
+Mahindra,XUV 3XO,AX7 Turbo,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Mahindra,XUV 3XO,AX7 Turbo,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Mahindra,XUV 3XO,AX7 Turbo,Dimensions & Capacity,Length,3990 mm
+Mahindra,XUV 3XO,AX7 Turbo,Dimensions & Capacity,Width,1821 mm
+Mahindra,XUV 3XO,AX7 Turbo,Dimensions & Capacity,Height,1647 mm
+Mahindra,XUV 3XO,AX7 Turbo,Dimensions & Capacity,Boot Space,364 Litres
+Mahindra,XUV 3XO,AX7 Turbo,Dimensions & Capacity,Seating Capacity,5
+Mahindra,XUV 3XO,AX7 Turbo,Dimensions & Capacity,Wheel Base,2600 mm
+Mahindra,XUV 3XO,AX7 Turbo,Comfort & Convenience,Boot Opening,Electronic
+Mahindra,XUV 3XO,AX7 Turbo,Comfort & Convenience,Power Steering,YES
+Mahindra,XUV 3XO,AX7 Turbo,Comfort & Convenience,Air Conditioner,YES
+Mahindra,XUV 3XO,AX7 Turbo,Comfort & Convenience,Heater,YES
+Mahindra,XUV 3XO,AX7 Turbo,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Mahindra,XUV 3XO,AX7 Turbo,Comfort & Convenience,Ventilated Seats,NO
+Mahindra,XUV 3XO,AX7 Turbo,Comfort & Convenience,Electric Adjustable Seats,NO
+Mahindra,XUV 3XO,AX7 Turbo,Comfort & Convenience,Automatic Climate Control,YES
+Mahindra,XUV 3XO,AX7 Turbo,Comfort & Convenience,Accessory Power Outlet,YES
+Mahindra,XUV 3XO,AX7 Turbo,Comfort & Convenience,Adjustable Headrest,YES
+Mahindra,XUV 3XO,AX7 Turbo,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Mahindra,XUV 3XO,AX7 Turbo,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Mahindra,XUV 3XO,AX7 Turbo,Comfort & Convenience,Rear AC Vents,YES
+Mahindra,XUV 3XO,AX7 Turbo,Comfort & Convenience,Cruise Control,YES
+Mahindra,XUV 3XO,AX7 Turbo,Comfort & Convenience,Parking Sensors,Front & Rear
+Mahindra,XUV 3XO,AX7 Turbo,Comfort & Convenience,Real-Time Vehicle Tracking,YES
+Mahindra,XUV 3XO,AX7 Turbo,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Mahindra,XUV 3XO,AX7 Turbo,Comfort & Convenience,KeyLess Entry,YES
+Mahindra,XUV 3XO,AX7 Turbo,Comfort & Convenience,Engine Start/Stop Button,YES
+Mahindra,XUV 3XO,AX7 Turbo,Comfort & Convenience,Paddle Shifters,NO
+Mahindra,XUV 3XO,AX7 Turbo,Comfort & Convenience,USB Charger,Front & Rear
+Mahindra,XUV 3XO,AX7 Turbo,Comfort & Convenience,Central Console Armrest,With Storage
+Mahindra,XUV 3XO,AX7 Turbo,Comfort & Convenience,Glove Box light,YES
+Mahindra,XUV 3XO,AX7 Turbo,Comfort & Convenience,Idle Start-Stop System,YES
+Mahindra,XUV 3XO,AX7 Turbo,Comfort & Convenience,Follow Me Home Headlamps,YES
+Mahindra,XUV 3XO,AX7 Turbo,Comfort & Convenience,Power Windows,Front & Rear
+Mahindra,XUV 3XO,AX7 Turbo,Comfort & Convenience,Cup Holders,Front & Rear
+Mahindra,XUV 3XO,AX7 Turbo,Interior,Leather Wrapped Steering Wheel,YES
+Mahindra,XUV 3XO,AX7 Turbo,Interior,Leather wrap gear-shift selector,YES
+Mahindra,XUV 3XO,AX7 Turbo,Interior,Glove Box,YES
+Mahindra,XUV 3XO,AX7 Turbo,Interior,Folding Table in The Rear,NO
+Mahindra,XUV 3XO,AX7 Turbo,Interior,Digital Cluster,YES
+Mahindra,XUV 3XO,AX7 Turbo,Interior,Digital Cluster Size,10.25 Inch
+Mahindra,XUV 3XO,AX7 Turbo,Interior,Upholstery,Leatherette
+Mahindra,XUV 3XO,AX7 Turbo,Exterior,Adjustable Headlamps,YES
+Mahindra,XUV 3XO,AX7 Turbo,Exterior,Headlamp Washers,NO
+Mahindra,XUV 3XO,AX7 Turbo,Exterior,Rear Window Wiper,YES
+Mahindra,XUV 3XO,AX7 Turbo,Exterior,Rear Window Washer,YES
+Mahindra,XUV 3XO,AX7 Turbo,Exterior,Rear Window Defogger,YES
+Mahindra,XUV 3XO,AX7 Turbo,Exterior,Rear Spoiler,YES
+Mahindra,XUV 3XO,AX7 Turbo,Exterior,Side Stepper,NO
+Mahindra,XUV 3XO,AX7 Turbo,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Mahindra,XUV 3XO,AX7 Turbo,Exterior,Projector Headlamps,YES
+Mahindra,XUV 3XO,AX7 Turbo,Exterior,Halogen Headlamps,NO
+Mahindra,XUV 3XO,AX7 Turbo,Exterior,Cornering Foglamps,NO
+Mahindra,XUV 3XO,AX7 Turbo,Exterior,Roof Rails,YES
+Mahindra,XUV 3XO,AX7 Turbo,Exterior,Automatic Headlamps,YES
+Mahindra,XUV 3XO,AX7 Turbo,Exterior,Fog Lights,Front
+Mahindra,XUV 3XO,AX7 Turbo,Exterior,Convertible Top,NO
+Mahindra,XUV 3XO,AX7 Turbo,Exterior,Sunroof,Panoramic
+Mahindra,XUV 3XO,AX7 Turbo,Exterior,Heated Outside Rear View Mirror,NO
+Mahindra,XUV 3XO,AX7 Turbo,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Mahindra,XUV 3XO,AX7 Turbo,Exterior,Wheels Type,Alloy
+Mahindra,XUV 3XO,AX7 Turbo,Exterior,Tyre Size,215/55 R17
+Mahindra,XUV 3XO,AX7 Turbo,Exterior,Tyre Type,"Tubeless, Radial"
+Mahindra,XUV 3XO,AX7 Turbo,Exterior,Wheel Size,17 Inch
+Mahindra,XUV 3XO,AX7 Turbo,Exterior,LED DRLs,YES
+Mahindra,XUV 3XO,AX7 Turbo,Exterior,LED Headlamps,YES
+Mahindra,XUV 3XO,AX7 Turbo,Exterior,LED Taillights,YES
+Mahindra,XUV 3XO,AX7 Turbo,Exterior,LED Fog Lamps,YES
+Mahindra,XUV 3XO,AX7 Turbo,Exterior,Additional Features,Electronic Trumpet Horn
+Mahindra,XUV 3XO,AX7 Turbo,Safety,Anti-lock Braking System (ABS),YES
+Mahindra,XUV 3XO,AX7 Turbo,Safety,Brake Assist,YES
+Mahindra,XUV 3XO,AX7 Turbo,Safety,Central Locking,YES
+Mahindra,XUV 3XO,AX7 Turbo,Safety,Child Safety Locks,YES
+Mahindra,XUV 3XO,AX7 Turbo,Safety,Anti-Theft Alarm,YES
+Mahindra,XUV 3XO,AX7 Turbo,Safety,No. of Airbags,6
+Mahindra,XUV 3XO,AX7 Turbo,Safety,Driver Airbag,YES
+Mahindra,XUV 3XO,AX7 Turbo,Safety,Passenger Airbag,YES
+Mahindra,XUV 3XO,AX7 Turbo,Safety,Side Airbag,YES
+Mahindra,XUV 3XO,AX7 Turbo,Safety,Side Airbag-Rear,NO
+Mahindra,XUV 3XO,AX7 Turbo,Safety,Day & Night Rear View Mirror,YES
+Mahindra,XUV 3XO,AX7 Turbo,Safety,Electronic Brakeforce Distribution (EBD),YES
+Mahindra,XUV 3XO,AX7 Turbo,Safety,Traction Control,YES
+Mahindra,XUV 3XO,AX7 Turbo,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Mahindra,XUV 3XO,AX7 Turbo,Safety,Engine Immobilizer,YES
+Mahindra,XUV 3XO,AX7 Turbo,Safety,Electronic Stability Control (ESC),YES
+Mahindra,XUV 3XO,AX7 Turbo,Safety,Rear Camera,With Guidedlines
+Mahindra,XUV 3XO,AX7 Turbo,Safety,ISOFIX Child Seat Mounts,YES
+Mahindra,XUV 3XO,AX7 Turbo,Safety,Heads-Up Display (HUD),NO
+Mahindra,XUV 3XO,AX7 Turbo,Safety,360 View Camera,NO
+Mahindra,XUV 3XO,AX7 Turbo,Safety,Global NCAP Safety Rating,5 Star
+Mahindra,XUV 3XO,AX7 Turbo,Safety,Global NCAP Child Safety Rating,5 Star
+Mahindra,XUV 3XO,AX7 Turbo,Safety,Bharat NCAP Safety Rating,5 Star
+Mahindra,XUV 3XO,AX7 Turbo,Safety,Bharat NCAP Child Safety Rating,5 Star
+Mahindra,XUV 3XO,AX7 Turbo,Entertainment & Communication,Radio,YES
+Mahindra,XUV 3XO,AX7 Turbo,Entertainment & Communication,Wireless Phone Charging,YES
+Mahindra,XUV 3XO,AX7 Turbo,Entertainment & Communication,Bluetooth Connectivity,YES
+Mahindra,XUV 3XO,AX7 Turbo,Entertainment & Communication,Touchscreen,YES
+Mahindra,XUV 3XO,AX7 Turbo,Entertainment & Communication,Touchscreen Size,10.25 inch
+Mahindra,XUV 3XO,AX7 Turbo,Entertainment & Communication,Android Auto,YES
+Mahindra,XUV 3XO,AX7 Turbo,Entertainment & Communication,Apple CarPlay,YES
+Mahindra,XUV 3XO,AX7 Turbo,Entertainment & Communication,No. of Speakers,7
+Mahindra,XUV 3XO,AX7 Turbo,Entertainment & Communication,Usb Ports,YES
+Mahindra,XUV 3XO,AX7 Turbo,Entertainment & Communication,Tweeters,2
+Mahindra,XUV 3XO,AX7 Turbo,Entertainment & Communication,Subwoofer,1
+Mahindra,XUV 3XO,AX7 Turbo,Entertainment & Communication,Additional Features,Harman Kardon Premium Audio with Amplifier & Sub-woofer
+Mahindra,XUV 3XO,AX7 Turbo,Entertainment & Communication,Speakers,Front & Rear
+Mahindra,XUV 3XO,AX7 Turbo,Entertainment & Communication,Dolby Atmos,YES
+Mahindra,XUV 3XO,AX7 Turbo,ADAS Feature,Forward Collision Warning,NO
+Mahindra,XUV 3XO,AX7 Turbo,ADAS Feature,Automatic Emergency Braking,NO
+Mahindra,XUV 3XO,AX7 Turbo,ADAS Feature,Traffic Sign Recognition,NO
+Mahindra,XUV 3XO,AX7 Turbo,ADAS Feature,Lane Departure Warning,NO
+Mahindra,XUV 3XO,AX7 Turbo,ADAS Feature,Lane Keep Assist,NO
+Mahindra,XUV 3XO,AX7 Turbo,ADAS Feature,Adaptive Cruise Control,NO
+Mahindra,XUV 3XO,AX7 Turbo,ADAS Feature,Adaptive High Beam Assist,NO
+Mahindra,XUV 3XO,AX7 Turbo,ADAS Feature,Blind Spot Monitor,NO
+Mahindra,XUV 3XO,AX7 Turbo,ADAS Feature,Autonomous Parking,NO
+Mahindra,XUV 3XO,AX7 Turbo,Advance Internet Feature,Live Location,YES
+Mahindra,XUV 3XO,AX7 Turbo,Advance Internet Feature,Remote Immobiliser,YES
+Mahindra,XUV 3XO,AX7 Turbo,Advance Internet Feature,Unauthorised Vehicle entry,YES
+Mahindra,XUV 3XO,AX7 Turbo,Advance Internet Feature,Engine Start Alarm,YES
+Mahindra,XUV 3XO,AX7 Turbo,Advance Internet Feature,Remote Vehicle Status Check,YES
+Mahindra,XUV 3XO,AX7 Turbo,Advance Internet Feature,PUC Expiry,YES
+Mahindra,XUV 3XO,AX7 Turbo,Advance Internet Feature,Insurance Expiry,YES
+Mahindra,XUV 3XO,AX7 Turbo,Advance Internet Feature,E-Manual,YES
+Mahindra,XUV 3XO,AX7 Turbo,Advance Internet Feature,Inbuilt Assistant,YES
+Mahindra,XUV 3XO,AX7 Turbo,Advance Internet Feature,Navigation with Live Traffic,YES
+Mahindra,XUV 3XO,AX7 Turbo,Advance Internet Feature,Send POI to Vehicle From App,YES
+Mahindra,XUV 3XO,AX7 Turbo,Advance Internet Feature,Live Weather,YES
+Mahindra,XUV 3XO,AX7 Turbo,Advance Internet Feature,E-Call & I-Call,YES
+Mahindra,XUV 3XO,AX7 Turbo,Advance Internet Feature,Over the Air (OTA) Updates,YES
+Mahindra,XUV 3XO,AX7 Turbo,Advance Internet Feature,Google / Alexa Connectivity,YES
+Mahindra,XUV 3XO,AX7 Turbo,Advance Internet Feature,Save Route/Place,YES
+Mahindra,XUV 3XO,AX7 Turbo,Advance Internet Feature,SOS Button,YES
+Mahindra,XUV 3XO,AX7 Turbo,Advance Internet Feature,RSA,YES
+Mahindra,XUV 3XO,AX7 Turbo,Advance Internet Feature,Over Speeding Alert,YES
+Mahindra,XUV 3XO,AX7 Turbo,Advance Internet Feature,Tow Away Alert,YES
+Mahindra,XUV 3XO,AX7 Turbo,Advance Internet Feature,Valet Mode,YES
+Mahindra,XUV 3XO,AX7 Turbo,Advance Internet Feature,Remote AC On/Off,YES
+Mahindra,XUV 3XO,AX7 Turbo,Advance Internet Feature,Remote Door Lock/Unlock,YES
+Mahindra,XUV 3XO,AX7 Turbo,Advance Internet Feature,Remote Vehicle Ignition Start/Stop,YES
+Mahindra,XUV 3XO,AX7 Turbo,Advance Internet Feature,Geo-fence Alert,YES

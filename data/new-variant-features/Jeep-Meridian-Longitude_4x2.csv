@@ -1,0 +1,131 @@
+company,model,variant,category,feature_name,feature_details
+Jeep,Meridian,Longitude 4x2,Engine & Transmission,Engine Type,2.0L Multijet
+Jeep,Meridian,Longitude 4x2,Engine & Transmission,Displacement,1956 cc
+Jeep,Meridian,Longitude 4x2,Engine & Transmission,Max Power,168bhp@3750rpm
+Jeep,Meridian,Longitude 4x2,Engine & Transmission,Max Torque,350Nm@1750-2500rpm
+Jeep,Meridian,Longitude 4x2,Engine & Transmission,No. of Cylinders,4
+Jeep,Meridian,Longitude 4x2,Engine & Transmission,Valves Per Cylinder,4
+Jeep,Meridian,Longitude 4x2,Engine & Transmission,Turbo Charger,YES
+Jeep,Meridian,Longitude 4x2,Engine & Transmission,Transmission Type,Manual
+Jeep,Meridian,Longitude 4x2,Engine & Transmission,Gearbox,6-Speed
+Jeep,Meridian,Longitude 4x2,Engine & Transmission,Drive Type,FWD
+Jeep,Meridian,Longitude 4x2,Fuel & Performance,Fuel Type,Diesel
+Jeep,Meridian,Longitude 4x2,Fuel & Performance,Diesel Fuel Tank Capacity,60 Litres
+Jeep,Meridian,Longitude 4x2,Fuel & Performance,Diesel Highway Mileage,12 kmpl
+Jeep,Meridian,Longitude 4x2,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Jeep,Meridian,Longitude 4x2,"Suspension, Steering & Brakes",Front Suspension,Multi-link suspension
+Jeep,Meridian,Longitude 4x2,"Suspension, Steering & Brakes",Rear Suspension,Double wishbone suspension
+Jeep,Meridian,Longitude 4x2,"Suspension, Steering & Brakes",Steering Type,Electric
+Jeep,Meridian,Longitude 4x2,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Jeep,Meridian,Longitude 4x2,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Jeep,Meridian,Longitude 4x2,Dimensions & Capacity,Length,4769 mm
+Jeep,Meridian,Longitude 4x2,Dimensions & Capacity,Width,1859 mm
+Jeep,Meridian,Longitude 4x2,Dimensions & Capacity,Height,1698 mm
+Jeep,Meridian,Longitude 4x2,Dimensions & Capacity,Seating Capacity,5
+Jeep,Meridian,Longitude 4x2,Dimensions & Capacity,Wheel Base,2782 mm
+Jeep,Meridian,Longitude 4x2,Comfort & Convenience,Boot Opening,Manual
+Jeep,Meridian,Longitude 4x2,Comfort & Convenience,Power Steering,YES
+Jeep,Meridian,Longitude 4x2,Comfort & Convenience,Air Conditioner,YES
+Jeep,Meridian,Longitude 4x2,Comfort & Convenience,Heater,YES
+Jeep,Meridian,Longitude 4x2,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Jeep,Meridian,Longitude 4x2,Comfort & Convenience,Ventilated Seats,NO
+Jeep,Meridian,Longitude 4x2,Comfort & Convenience,Electric Adjustable Seats,NO
+Jeep,Meridian,Longitude 4x2,Comfort & Convenience,Automatic Climate Control,YES
+Jeep,Meridian,Longitude 4x2,Comfort & Convenience,Accessory Power Outlet,YES
+Jeep,Meridian,Longitude 4x2,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Jeep,Meridian,Longitude 4x2,Comfort & Convenience,Adjustable Headrest,YES
+Jeep,Meridian,Longitude 4x2,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Jeep,Meridian,Longitude 4x2,Comfort & Convenience,Rear AC Vents,YES
+Jeep,Meridian,Longitude 4x2,Comfort & Convenience,Lumbar Support,NO
+Jeep,Meridian,Longitude 4x2,Comfort & Convenience,Cruise Control,NO
+Jeep,Meridian,Longitude 4x2,Comfort & Convenience,Parking Sensors,Rear
+Jeep,Meridian,Longitude 4x2,Comfort & Convenience,Real-Time Vehicle Tracking,NO
+Jeep,Meridian,Longitude 4x2,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Jeep,Meridian,Longitude 4x2,Comfort & Convenience,KeyLess Entry,YES
+Jeep,Meridian,Longitude 4x2,Comfort & Convenience,Engine Start/Stop Button,YES
+Jeep,Meridian,Longitude 4x2,Comfort & Convenience,Voice Commands,YES
+Jeep,Meridian,Longitude 4x2,Comfort & Convenience,USB Charger,Front & Rear
+Jeep,Meridian,Longitude 4x2,Comfort & Convenience,Central Console Armrest,With Storage
+Jeep,Meridian,Longitude 4x2,Comfort & Convenience,Gear Shift Indicator,YES
+Jeep,Meridian,Longitude 4x2,Comfort & Convenience,Follow Me Home Headlamps,YES
+Jeep,Meridian,Longitude 4x2,Comfort & Convenience,Power Windows,Front & Rear
+Jeep,Meridian,Longitude 4x2,Comfort & Convenience,Cup Holders,Front & Rear
+Jeep,Meridian,Longitude 4x2,Interior,Leather Wrapped Steering Wheel,NO
+Jeep,Meridian,Longitude 4x2,Interior,Glove Box,YES
+Jeep,Meridian,Longitude 4x2,Interior,Digital Cluster,YES
+Jeep,Meridian,Longitude 4x2,Interior,Digital Cluster Size,7
+Jeep,Meridian,Longitude 4x2,Interior,Upholstery,Vinyl
+Jeep,Meridian,Longitude 4x2,Exterior,Adjustable Headlamps,YES
+Jeep,Meridian,Longitude 4x2,Exterior,Rain Sensing Wiper,YES
+Jeep,Meridian,Longitude 4x2,Exterior,Rear Window Wiper,YES
+Jeep,Meridian,Longitude 4x2,Exterior,Rear Window Washer,YES
+Jeep,Meridian,Longitude 4x2,Exterior,Rear Window Defogger,YES
+Jeep,Meridian,Longitude 4x2,Exterior,Wheel Covers,NO
+Jeep,Meridian,Longitude 4x2,Exterior,Alloy Wheels,YES
+Jeep,Meridian,Longitude 4x2,Exterior,Rear Spoiler,YES
+Jeep,Meridian,Longitude 4x2,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Jeep,Meridian,Longitude 4x2,Exterior,Projector Headlamps,YES
+Jeep,Meridian,Longitude 4x2,Exterior,Cornering Foglamps,NO
+Jeep,Meridian,Longitude 4x2,Exterior,Roof Rails,YES
+Jeep,Meridian,Longitude 4x2,Exterior,Fog Lights,Rear
+Jeep,Meridian,Longitude 4x2,Exterior,Antenna,Shark Fin
+Jeep,Meridian,Longitude 4x2,Exterior,Sunroof,NO
+Jeep,Meridian,Longitude 4x2,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Jeep,Meridian,Longitude 4x2,Exterior,Tyre Type,Radial Tubeless
+Jeep,Meridian,Longitude 4x2,Exterior,LED DRLs,YES
+Jeep,Meridian,Longitude 4x2,Exterior,LED Headlamps,YES
+Jeep,Meridian,Longitude 4x2,Exterior,LED Taillights,YES
+Jeep,Meridian,Longitude 4x2,Exterior,LED Fog Lamps,NO
+Jeep,Meridian,Longitude 4x2,Safety,Anti-lock Braking System (ABS),YES
+Jeep,Meridian,Longitude 4x2,Safety,Central Locking,YES
+Jeep,Meridian,Longitude 4x2,Safety,Child Safety Locks,YES
+Jeep,Meridian,Longitude 4x2,Safety,Anti-Theft Alarm,NO
+Jeep,Meridian,Longitude 4x2,Safety,No. of Airbags,6
+Jeep,Meridian,Longitude 4x2,Safety,Driver Airbag,YES
+Jeep,Meridian,Longitude 4x2,Safety,Passenger Airbag,YES
+Jeep,Meridian,Longitude 4x2,Safety,Side Airbag,YES
+Jeep,Meridian,Longitude 4x2,Safety,Side Airbag-Rear,NO
+Jeep,Meridian,Longitude 4x2,Safety,Day & Night Rear View Mirror,YES
+Jeep,Meridian,Longitude 4x2,Safety,Electronic Brakeforce Distribution (EBD),YES
+Jeep,Meridian,Longitude 4x2,Safety,Traction Control,YES
+Jeep,Meridian,Longitude 4x2,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Jeep,Meridian,Longitude 4x2,Safety,Engine Immobilizer,YES
+Jeep,Meridian,Longitude 4x2,Safety,Electronic Stability Control (ESC),YES
+Jeep,Meridian,Longitude 4x2,Safety,Rear Camera,With Guidedlines
+Jeep,Meridian,Longitude 4x2,Safety,ISOFIX Child Seat Mounts,YES
+Jeep,Meridian,Longitude 4x2,Safety,Hill Descent Control,NO
+Jeep,Meridian,Longitude 4x2,Safety,Hill Assist,YES
+Jeep,Meridian,Longitude 4x2,Safety,360 View Camera,NO
+Jeep,Meridian,Longitude 4x2,Safety,Global NCAP Safety Rating,5 Star
+Jeep,Meridian,Longitude 4x2,Entertainment & Communication,Radio,YES
+Jeep,Meridian,Longitude 4x2,Entertainment & Communication,Wireless Phone Charging,NO
+Jeep,Meridian,Longitude 4x2,Entertainment & Communication,Bluetooth Connectivity,YES
+Jeep,Meridian,Longitude 4x2,Entertainment & Communication,Touchscreen,YES
+Jeep,Meridian,Longitude 4x2,Entertainment & Communication,Touchscreen Size,10.1 inch
+Jeep,Meridian,Longitude 4x2,Entertainment & Communication,Android Auto,YES
+Jeep,Meridian,Longitude 4x2,Entertainment & Communication,Apple CarPlay,YES
+Jeep,Meridian,Longitude 4x2,Entertainment & Communication,No. of Speakers,6
+Jeep,Meridian,Longitude 4x2,Entertainment & Communication,Usb Ports,YES
+Jeep,Meridian,Longitude 4x2,Entertainment & Communication,Additional Features,Android Auto & Apple Car Play
+Jeep,Meridian,Longitude 4x2,Entertainment & Communication,Speakers,Front & Rear
+Jeep,Meridian,Longitude 4x2,ADAS Feature,Forward Collision Warning,NO
+Jeep,Meridian,Longitude 4x2,ADAS Feature,Traffic Sign Recognition,NO
+Jeep,Meridian,Longitude 4x2,ADAS Feature,Lane Departure Warning,NO
+Jeep,Meridian,Longitude 4x2,ADAS Feature,Lane Keep Assist,NO
+Jeep,Meridian,Longitude 4x2,ADAS Feature,Driver Attention Warning,NO
+Jeep,Meridian,Longitude 4x2,ADAS Feature,Adaptive Cruise Control,NO
+Jeep,Meridian,Longitude 4x2,ADAS Feature,Adaptive High Beam Assist,NO
+Jeep,Meridian,Longitude 4x2,ADAS Feature,Blind Spot Monitor,NO
+Jeep,Meridian,Longitude 4x2,Advance Internet Feature,Unauthorised Vehicle entry,NO
+Jeep,Meridian,Longitude 4x2,Advance Internet Feature,Navigation with Live Traffic,NO
+Jeep,Meridian,Longitude 4x2,Advance Internet Feature,Send POI to Vehicle From App,NO
+Jeep,Meridian,Longitude 4x2,Advance Internet Feature,Google / Alexa Connectivity,NO
+Jeep,Meridian,Longitude 4x2,Advance Internet Feature,SOS Button,NO
+Jeep,Meridian,Longitude 4x2,Advance Internet Feature,RSA,NO
+Jeep,Meridian,Longitude 4x2,Advance Internet Feature,Smartwatch App,NO
+Jeep,Meridian,Longitude 4x2,Advance Internet Feature,Valet Mode,NO
+Jeep,Meridian,Longitude 4x2,Advance Internet Feature,Remote AC On/Off,NO
+Jeep,Meridian,Longitude 4x2,Advance Internet Feature,Remote Door Lock/Unlock,NO
+Jeep,Meridian,Longitude 4x2,Advance Internet Feature,Remote Vehicle Ignition Start/Stop,NO
+Jeep,Meridian,Longitude 4x2,Advance Internet Feature,SOS / Emergency Assistance,NO
+Jeep,Meridian,Longitude 4x2,Advance Internet Feature,Geo-fence Alert,NO

@@ -1,0 +1,115 @@
+company,model,variant,category,feature_name,feature_details
+Mahindra,Scorpio N,Z6 Diesel AT,Engine & Transmission,Engine Type,mHawk (CRDi)
+Mahindra,Scorpio N,Z6 Diesel AT,Engine & Transmission,Displacement,2198 cc
+Mahindra,Scorpio N,Z6 Diesel AT,Engine & Transmission,Max Power,172.45bhp@3500rpm
+Mahindra,Scorpio N,Z6 Diesel AT,Engine & Transmission,Max Torque,400Nm@1750-2750rpm
+Mahindra,Scorpio N,Z6 Diesel AT,Engine & Transmission,No. of Cylinders,4
+Mahindra,Scorpio N,Z6 Diesel AT,Engine & Transmission,Valves Per Cylinder,4
+Mahindra,Scorpio N,Z6 Diesel AT,Engine & Transmission,Turbo Charger,YES
+Mahindra,Scorpio N,Z6 Diesel AT,Engine & Transmission,Transmission Type,Automatic
+Mahindra,Scorpio N,Z6 Diesel AT,Engine & Transmission,Gearbox,6-Speed
+Mahindra,Scorpio N,Z6 Diesel AT,Engine & Transmission,Drive Type,RWD
+Mahindra,Scorpio N,Z6 Diesel AT,Fuel & Performance,Fuel Type,Diesel
+Mahindra,Scorpio N,Z6 Diesel AT,Fuel & Performance,Diesel Fuel Tank Capacity,57 Litres
+Mahindra,Scorpio N,Z6 Diesel AT,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Mahindra,Scorpio N,Z6 Diesel AT,"Suspension, Steering & Brakes",Front Suspension,Double wishbone suspension
+Mahindra,Scorpio N,Z6 Diesel AT,"Suspension, Steering & Brakes",Rear Suspension,"Multi-link, Solid Axle"
+Mahindra,Scorpio N,Z6 Diesel AT,"Suspension, Steering & Brakes",Steering Type,Electric
+Mahindra,Scorpio N,Z6 Diesel AT,"Suspension, Steering & Brakes",Steering Column,Tilt
+Mahindra,Scorpio N,Z6 Diesel AT,"Suspension, Steering & Brakes",Front Brake Type,Ventilated Disc
+Mahindra,Scorpio N,Z6 Diesel AT,"Suspension, Steering & Brakes",Rear Brake Type,Ventilated Disc
+Mahindra,Scorpio N,Z6 Diesel AT,"Suspension, Steering & Brakes",Boot Space Rear Seat Folding,786 Litres
+Mahindra,Scorpio N,Z6 Diesel AT,Dimensions & Capacity,Length,4662 mm
+Mahindra,Scorpio N,Z6 Diesel AT,Dimensions & Capacity,Width,1917 mm
+Mahindra,Scorpio N,Z6 Diesel AT,Dimensions & Capacity,Height,1857 mm
+Mahindra,Scorpio N,Z6 Diesel AT,Dimensions & Capacity,Seating Capacity,7
+Mahindra,Scorpio N,Z6 Diesel AT,Dimensions & Capacity,Wheel Base,2750 mm
+Mahindra,Scorpio N,Z6 Diesel AT,Comfort & Convenience,Boot Opening,Manual
+Mahindra,Scorpio N,Z6 Diesel AT,Comfort & Convenience,Power Steering,YES
+Mahindra,Scorpio N,Z6 Diesel AT,Comfort & Convenience,Air Conditioner,YES
+Mahindra,Scorpio N,Z6 Diesel AT,Comfort & Convenience,Heater,YES
+Mahindra,Scorpio N,Z6 Diesel AT,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Mahindra,Scorpio N,Z6 Diesel AT,Comfort & Convenience,Ventilated Seats,NO
+Mahindra,Scorpio N,Z6 Diesel AT,Comfort & Convenience,Electric Adjustable Seats,NO
+Mahindra,Scorpio N,Z6 Diesel AT,Comfort & Convenience,Automatic Climate Control,NO
+Mahindra,Scorpio N,Z6 Diesel AT,Comfort & Convenience,Accessory Power Outlet,YES
+Mahindra,Scorpio N,Z6 Diesel AT,Comfort & Convenience,Adjustable Headrest,YES
+Mahindra,Scorpio N,Z6 Diesel AT,Comfort & Convenience,Rear AC Vents,YES
+Mahindra,Scorpio N,Z6 Diesel AT,Comfort & Convenience,Lumbar Support,YES
+Mahindra,Scorpio N,Z6 Diesel AT,Comfort & Convenience,Cruise Control,YES
+Mahindra,Scorpio N,Z6 Diesel AT,Comfort & Convenience,Parking Sensors,Rear
+Mahindra,Scorpio N,Z6 Diesel AT,Comfort & Convenience,KeyLess Entry,NO
+Mahindra,Scorpio N,Z6 Diesel AT,Comfort & Convenience,Engine Start/Stop Button,NO
+Mahindra,Scorpio N,Z6 Diesel AT,Comfort & Convenience,USB Charger,Front & Rear
+Mahindra,Scorpio N,Z6 Diesel AT,Comfort & Convenience,Gear Shift Indicator,NO
+Mahindra,Scorpio N,Z6 Diesel AT,Comfort & Convenience,Idle Start-Stop System,YES
+Mahindra,Scorpio N,Z6 Diesel AT,Comfort & Convenience,Power Windows,Front & Rear
+Mahindra,Scorpio N,Z6 Diesel AT,Interior,Leather Wrapped Steering Wheel,NO
+Mahindra,Scorpio N,Z6 Diesel AT,Interior,Leather wrap gear-shift selector,NO
+Mahindra,Scorpio N,Z6 Diesel AT,Interior,Glove Box,YES
+Mahindra,Scorpio N,Z6 Diesel AT,Interior,Digital Cluster,YES
+Mahindra,Scorpio N,Z6 Diesel AT,Interior,Digital Cluster Size,4.19 inch
+Mahindra,Scorpio N,Z6 Diesel AT,Interior,Upholstery,Fabric
+Mahindra,Scorpio N,Z6 Diesel AT,Exterior,Adjustable Headlamps,YES
+Mahindra,Scorpio N,Z6 Diesel AT,Exterior,Rear Window Wiper,YES
+Mahindra,Scorpio N,Z6 Diesel AT,Exterior,Rear Window Washer,YES
+Mahindra,Scorpio N,Z6 Diesel AT,Exterior,Rear Window Defogger,YES
+Mahindra,Scorpio N,Z6 Diesel AT,Exterior,Rear Spoiler,YES
+Mahindra,Scorpio N,Z6 Diesel AT,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Mahindra,Scorpio N,Z6 Diesel AT,Exterior,Projector Headlamps,NO
+Mahindra,Scorpio N,Z6 Diesel AT,Exterior,Halogen Headlamps,YES
+Mahindra,Scorpio N,Z6 Diesel AT,Exterior,Roof Rails,YES
+Mahindra,Scorpio N,Z6 Diesel AT,Exterior,Fog Lights,NO
+Mahindra,Scorpio N,Z6 Diesel AT,Exterior,Antenna,Shark Fin
+Mahindra,Scorpio N,Z6 Diesel AT,Exterior,Sunroof,Single Pane
+Mahindra,Scorpio N,Z6 Diesel AT,Exterior,Outside Rear View Mirror (ORVM),Powered
+Mahindra,Scorpio N,Z6 Diesel AT,Exterior,Tyre Size,245/65 R17
+Mahindra,Scorpio N,Z6 Diesel AT,Exterior,Tyre Type,Tubeless
+Mahindra,Scorpio N,Z6 Diesel AT,Exterior,Wheel Size,17 Inch
+Mahindra,Scorpio N,Z6 Diesel AT,Exterior,LED DRLs,NO
+Mahindra,Scorpio N,Z6 Diesel AT,Exterior,LED Headlamps,NO
+Mahindra,Scorpio N,Z6 Diesel AT,Exterior,LED Taillights,YES
+Mahindra,Scorpio N,Z6 Diesel AT,Exterior,LED Fog Lamps,NO
+Mahindra,Scorpio N,Z6 Diesel AT,Safety,Anti-lock Braking System (ABS),YES
+Mahindra,Scorpio N,Z6 Diesel AT,Safety,Central Locking,YES
+Mahindra,Scorpio N,Z6 Diesel AT,Safety,Child Safety Locks,YES
+Mahindra,Scorpio N,Z6 Diesel AT,Safety,No. of Airbags,2
+Mahindra,Scorpio N,Z6 Diesel AT,Safety,Driver Airbag,YES
+Mahindra,Scorpio N,Z6 Diesel AT,Safety,Passenger Airbag,YES
+Mahindra,Scorpio N,Z6 Diesel AT,Safety,Side Airbag,NO
+Mahindra,Scorpio N,Z6 Diesel AT,Safety,Side Airbag-Rear,NO
+Mahindra,Scorpio N,Z6 Diesel AT,Safety,Electronic Brakeforce Distribution (EBD),YES
+Mahindra,Scorpio N,Z6 Diesel AT,Safety,Tyre Pressure Monitoring System (TPMS),NO
+Mahindra,Scorpio N,Z6 Diesel AT,Safety,Engine Immobilizer,YES
+Mahindra,Scorpio N,Z6 Diesel AT,Safety,Electronic Stability Control (ESC),YES
+Mahindra,Scorpio N,Z6 Diesel AT,Safety,Anti-Pinch Power Windows,Driver's Window
+Mahindra,Scorpio N,Z6 Diesel AT,Safety,ISOFIX Child Seat Mounts,YES
+Mahindra,Scorpio N,Z6 Diesel AT,Safety,Hill Descent Control,YES
+Mahindra,Scorpio N,Z6 Diesel AT,Safety,Hill Assist,YES
+Mahindra,Scorpio N,Z6 Diesel AT,Entertainment & Communication,Radio,YES
+Mahindra,Scorpio N,Z6 Diesel AT,Entertainment & Communication,Wireless Phone Charging,NO
+Mahindra,Scorpio N,Z6 Diesel AT,Entertainment & Communication,Bluetooth Connectivity,YES
+Mahindra,Scorpio N,Z6 Diesel AT,Entertainment & Communication,Touchscreen,YES
+Mahindra,Scorpio N,Z6 Diesel AT,Entertainment & Communication,Touchscreen Size,8 inch
+Mahindra,Scorpio N,Z6 Diesel AT,Entertainment & Communication,Android Auto,Wired
+Mahindra,Scorpio N,Z6 Diesel AT,Entertainment & Communication,Apple CarPlay,Wired
+Mahindra,Scorpio N,Z6 Diesel AT,Entertainment & Communication,No. of Speakers,4
+Mahindra,Scorpio N,Z6 Diesel AT,Entertainment & Communication,Usb Ports,YES
+Mahindra,Scorpio N,Z6 Diesel AT,Entertainment & Communication,Inbuilt Apps,NO
+Mahindra,Scorpio N,Z6 Diesel AT,Entertainment & Communication,Speakers,Front & Rear
+Mahindra,Scorpio N,Z6 Diesel AT,ADAS Feature,Forward Collision Warning,NO
+Mahindra,Scorpio N,Z6 Diesel AT,ADAS Feature,Automatic Emergency Braking,NO
+Mahindra,Scorpio N,Z6 Diesel AT,ADAS Feature,Traffic Sign Recognition,NO
+Mahindra,Scorpio N,Z6 Diesel AT,ADAS Feature,Lane Departure Warning,NO
+Mahindra,Scorpio N,Z6 Diesel AT,ADAS Feature,Lane Keep Assist,NO
+Mahindra,Scorpio N,Z6 Diesel AT,ADAS Feature,Driver Attention Warning,NO
+Mahindra,Scorpio N,Z6 Diesel AT,ADAS Feature,Adaptive Cruise Control,NO
+Mahindra,Scorpio N,Z6 Diesel AT,ADAS Feature,Adaptive High Beam Assist,NO
+Mahindra,Scorpio N,Z6 Diesel AT,Advance Internet Feature,Live Location,NO
+Mahindra,Scorpio N,Z6 Diesel AT,Advance Internet Feature,Remote Vehicle Status Check,NO
+Mahindra,Scorpio N,Z6 Diesel AT,Advance Internet Feature,Google / Alexa Connectivity,NO
+Mahindra,Scorpio N,Z6 Diesel AT,Advance Internet Feature,In Car Remote Control App,NO
+Mahindra,Scorpio N,Z6 Diesel AT,Advance Internet Feature,Remote AC On/Off,NO
+Mahindra,Scorpio N,Z6 Diesel AT,Advance Internet Feature,Remote Door Lock/Unlock,NO
+Mahindra,Scorpio N,Z6 Diesel AT,Advance Internet Feature,Remote Vehicle Ignition Start/Stop,NO
+Mahindra,Scorpio N,Z6 Diesel AT,Advance Internet Feature,SOS / Emergency Assistance,NO

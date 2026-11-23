@@ -1,0 +1,129 @@
+company,model,variant,category,feature_name,feature_details
+Kia,Seltos,GTX A iVT,Engine & Transmission,Engine Type,SmartStream G1.5
+Kia,Seltos,GTX A iVT,Engine & Transmission,Displacement,1497 cc
+Kia,Seltos,GTX A iVT,Engine & Transmission,Max Power,113bhp@6300rpm
+Kia,Seltos,GTX A iVT,Engine & Transmission,Max Torque,144Nm@4500rpm
+Kia,Seltos,GTX A iVT,Engine & Transmission,No. of Cylinders,4
+Kia,Seltos,GTX A iVT,Engine & Transmission,Valves Per Cylinder,4
+Kia,Seltos,GTX A iVT,Engine & Transmission,Fuel Supply System,MPi
+Kia,Seltos,GTX A iVT,Engine & Transmission,Turbo Charger,NO
+Kia,Seltos,GTX A iVT,Engine & Transmission,Transmission Type,Automatic
+Kia,Seltos,GTX A iVT,Engine & Transmission,Gearbox,iVT
+Kia,Seltos,GTX A iVT,Engine & Transmission,Drive Type,2WD
+Kia,Seltos,GTX A iVT,Fuel & Performance,Fuel Type,Petrol
+Kia,Seltos,GTX A iVT,Fuel & Performance,Petrol Fuel Tank Capacity,47 Litres
+Kia,Seltos,GTX A iVT,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Kia,Seltos,GTX A iVT,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Kia,Seltos,GTX A iVT,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Kia,Seltos,GTX A iVT,"Suspension, Steering & Brakes",Steering Type,Electric
+Kia,Seltos,GTX A iVT,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Kia,Seltos,GTX A iVT,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Kia,Seltos,GTX A iVT,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Kia,Seltos,GTX A iVT,Dimensions & Capacity,Length,4460 mm
+Kia,Seltos,GTX A iVT,Dimensions & Capacity,Width,1830 mm
+Kia,Seltos,GTX A iVT,Dimensions & Capacity,Height,1635 mm
+Kia,Seltos,GTX A iVT,Dimensions & Capacity,Boot Space,447 Litres
+Kia,Seltos,GTX A iVT,Dimensions & Capacity,Seating Capacity,5
+Kia,Seltos,GTX A iVT,Dimensions & Capacity,Wheel Base,2690 mm
+Kia,Seltos,GTX A iVT,Comfort & Convenience,Power Steering,YES
+Kia,Seltos,GTX A iVT,Comfort & Convenience,Air Conditioner,YES
+Kia,Seltos,GTX A iVT,Comfort & Convenience,Heater,YES
+Kia,Seltos,GTX A iVT,Comfort & Convenience,Adjustable Steering,Height & Reach
+Kia,Seltos,GTX A iVT,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Kia,Seltos,GTX A iVT,Comfort & Convenience,Ventilated Seats,YES
+Kia,Seltos,GTX A iVT,Comfort & Convenience,Electric Adjustable Seats,Driver Seat Only
+Kia,Seltos,GTX A iVT,Comfort & Convenience,Automatic Climate Control,YES
+Kia,Seltos,GTX A iVT,Comfort & Convenience,Accessory Power Outlet,YES
+Kia,Seltos,GTX A iVT,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Kia,Seltos,GTX A iVT,Comfort & Convenience,Adjustable Headrest,YES
+Kia,Seltos,GTX A iVT,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Kia,Seltos,GTX A iVT,Comfort & Convenience,Rear AC Vents,YES
+Kia,Seltos,GTX A iVT,Comfort & Convenience,Lumbar Support,YES
+Kia,Seltos,GTX A iVT,Comfort & Convenience,Cruise Control,YES
+Kia,Seltos,GTX A iVT,Comfort & Convenience,Parking Sensors,Front & Rear
+Kia,Seltos,GTX A iVT,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Kia,Seltos,GTX A iVT,Comfort & Convenience,KeyLess Entry,YES
+Kia,Seltos,GTX A iVT,Comfort & Convenience,Engine Start/Stop Button,YES
+Kia,Seltos,GTX A iVT,Comfort & Convenience,Paddle Shifters,YES
+Kia,Seltos,GTX A iVT,Comfort & Convenience,USB Charger,Front & Rear
+Kia,Seltos,GTX A iVT,Comfort & Convenience,Central Console Armrest,YES
+Kia,Seltos,GTX A iVT,Comfort & Convenience,Drive Modes,3
+Kia,Seltos,GTX A iVT,Comfort & Convenience,Additional Features,Sunglass holder
+Kia,Seltos,GTX A iVT,Comfort & Convenience,Drive Mode Types,ECO | NORMAL | SPORTS
+Kia,Seltos,GTX A iVT,Comfort & Convenience,Power Windows,Front & Rear
+Kia,Seltos,GTX A iVT,Comfort & Convenience,Cup Holders,Front & Rear
+Kia,Seltos,GTX A iVT,Interior,Leather Wrapped Steering Wheel,YES
+Kia,Seltos,GTX A iVT,Interior,Glove Box,YES
+Kia,Seltos,GTX A iVT,Interior,Lighting,Ambient light
+Kia,Seltos,GTX A iVT,Interior,Additional Features,Rear Parcel Shelf
+Kia,Seltos,GTX A iVT,Interior,Digital Cluster,YES
+Kia,Seltos,GTX A iVT,Interior,Digital Cluster Size,12.3
+Kia,Seltos,GTX A iVT,Interior,Upholstery,Leatherette
+Kia,Seltos,GTX A iVT,Interior,Ambient Light Colour (numbers),64
+Kia,Seltos,GTX A iVT,Exterior,Adjustable Headlamps,YES
+Kia,Seltos,GTX A iVT,Exterior,Rear Window Wiper,YES
+Kia,Seltos,GTX A iVT,Exterior,Rear Window Defogger,YES
+Kia,Seltos,GTX A iVT,Exterior,Rear Spoiler,YES
+Kia,Seltos,GTX A iVT,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Kia,Seltos,GTX A iVT,Exterior,Projector Headlamps,YES
+Kia,Seltos,GTX A iVT,Exterior,Roof Rails,YES
+Kia,Seltos,GTX A iVT,Exterior,Automatic Headlamps,YES
+Kia,Seltos,GTX A iVT,Exterior,Fog Lights,Front
+Kia,Seltos,GTX A iVT,Exterior,Antenna,Shark Fin
+Kia,Seltos,GTX A iVT,Exterior,Sunroof,Panoramic
+Kia,Seltos,GTX A iVT,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Kia,Seltos,GTX A iVT,Exterior,Wheels Type,Alloy
+Kia,Seltos,GTX A iVT,Exterior,Tyre Size,215/55 R18
+Kia,Seltos,GTX A iVT,Exterior,Tyre Type,Radial Tubeless
+Kia,Seltos,GTX A iVT,Exterior,Wheel Size,18 Inch
+Kia,Seltos,GTX A iVT,Exterior,LED DRLs,YES
+Kia,Seltos,GTX A iVT,Exterior,LED Headlamps,YES
+Kia,Seltos,GTX A iVT,Exterior,LED Taillights,YES
+Kia,Seltos,GTX A iVT,Exterior,LED Fog Lamps,YES
+Kia,Seltos,GTX A iVT,Safety,Anti-lock Braking System (ABS),YES
+Kia,Seltos,GTX A iVT,Safety,Brake Assist,YES
+Kia,Seltos,GTX A iVT,Safety,Central Locking,YES
+Kia,Seltos,GTX A iVT,Safety,Child Safety Locks,YES
+Kia,Seltos,GTX A iVT,Safety,No. of Airbags,6
+Kia,Seltos,GTX A iVT,Safety,Driver Airbag,YES
+Kia,Seltos,GTX A iVT,Safety,Passenger Airbag,YES
+Kia,Seltos,GTX A iVT,Safety,Side Airbag,YES
+Kia,Seltos,GTX A iVT,Safety,Day & Night Rear View Mirror,YES
+Kia,Seltos,GTX A iVT,Safety,Electronic Brakeforce Distribution (EBD),YES
+Kia,Seltos,GTX A iVT,Safety,Traction Control,YES
+Kia,Seltos,GTX A iVT,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Kia,Seltos,GTX A iVT,Safety,Engine Immobilizer,YES
+Kia,Seltos,GTX A iVT,Safety,Electronic Stability Control (ESC),YES
+Kia,Seltos,GTX A iVT,Safety,Rear Camera,With Guidedlines
+Kia,Seltos,GTX A iVT,Safety,Anti-Pinch Power Windows,Driver's Window
+Kia,Seltos,GTX A iVT,Safety,ISOFIX Child Seat Mounts,YES
+Kia,Seltos,GTX A iVT,Safety,Hill Descent Control,YES
+Kia,Seltos,GTX A iVT,Safety,Hill Assist,YES
+Kia,Seltos,GTX A iVT,Safety,360 View Camera,YES
+Kia,Seltos,GTX A iVT,Safety,Bharat NCAP Safety Rating,5 Star
+Kia,Seltos,GTX A iVT,Safety,Bharat NCAP Child Safety Rating,5 Star
+Kia,Seltos,GTX A iVT,Entertainment & Communication,Radio,YES
+Kia,Seltos,GTX A iVT,Entertainment & Communication,Wireless Phone Charging,YES
+Kia,Seltos,GTX A iVT,Entertainment & Communication,Bluetooth Connectivity,YES
+Kia,Seltos,GTX A iVT,Entertainment & Communication,Touchscreen,YES
+Kia,Seltos,GTX A iVT,Entertainment & Communication,Touchscreen Size,12.3 inch
+Kia,Seltos,GTX A iVT,Entertainment & Communication,Android Auto,YES
+Kia,Seltos,GTX A iVT,Entertainment & Communication,Apple CarPlay,YES
+Kia,Seltos,GTX A iVT,Entertainment & Communication,No. of Speakers,8
+Kia,Seltos,GTX A iVT,Entertainment & Communication,Usb Ports,YES
+Kia,Seltos,GTX A iVT,Entertainment & Communication,Additional Features,Wireless Android Auto/Apple CarPlay
+Kia,Seltos,GTX A iVT,Entertainment & Communication,Speakers,Front & Rear
+Kia,Seltos,GTX A iVT,ADAS Feature,Forward Collision Warning,YES
+Kia,Seltos,GTX A iVT,ADAS Feature,Blind Spot Collision Avoidance Assist,YES
+Kia,Seltos,GTX A iVT,ADAS Feature,Lane Departure Warning,YES
+Kia,Seltos,GTX A iVT,ADAS Feature,Lane Keep Assist,YES
+Kia,Seltos,GTX A iVT,ADAS Feature,Driver Attention Warning,YES
+Kia,Seltos,GTX A iVT,ADAS Feature,Adaptive Cruise Control,YES
+Kia,Seltos,GTX A iVT,ADAS Feature,Leading Vehicle Departure Alert,YES
+Kia,Seltos,GTX A iVT,ADAS Feature,Adaptive High Beam Assist,YES
+Kia,Seltos,GTX A iVT,ADAS Feature,Rear Cross Traffic Alert,YES
+Kia,Seltos,GTX A iVT,ADAS Feature,Rear Cross Traffic Collision-Avoidance Assist,YES
+Kia,Seltos,GTX A iVT,ADAS Feature,Blind Spot Monitor,YES
+Kia,Seltos,GTX A iVT,Advance Internet Feature,Over the Air (OTA) Updates,YES
+Kia,Seltos,GTX A iVT,Advance Internet Feature,Over Speeding Alert,YES
+Kia,Seltos,GTX A iVT,Advance Internet Feature,Inbuilt APPs,Kia Connect 2.0

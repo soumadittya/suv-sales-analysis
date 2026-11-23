@@ -1,0 +1,96 @@
+company,model,variant,category,feature_name,feature_details
+Maruti Suzuki,Jimny,Alpha,Engine & Transmission,Engine Type,K15B
+Maruti Suzuki,Jimny,Alpha,Engine & Transmission,Displacement,1462 cc
+Maruti Suzuki,Jimny,Alpha,Engine & Transmission,Max Power,103bhp@6000rpm
+Maruti Suzuki,Jimny,Alpha,Engine & Transmission,Max Torque,134.2Nm@4000rpm
+Maruti Suzuki,Jimny,Alpha,Engine & Transmission,No. of Cylinders,4
+Maruti Suzuki,Jimny,Alpha,Engine & Transmission,Valves Per Cylinder,4
+Maruti Suzuki,Jimny,Alpha,Engine & Transmission,Fuel Supply System,Multipoint Injection
+Maruti Suzuki,Jimny,Alpha,Engine & Transmission,Transmission Type,Manual
+Maruti Suzuki,Jimny,Alpha,Engine & Transmission,Gearbox,5-Speed
+Maruti Suzuki,Jimny,Alpha,Engine & Transmission,Drive Type,4WD
+Maruti Suzuki,Jimny,Alpha,Fuel & Performance,Fuel Type,Petrol
+Maruti Suzuki,Jimny,Alpha,Fuel & Performance,Petrol Mileage ARAI,16.94 kmpl
+Maruti Suzuki,Jimny,Alpha,Fuel & Performance,Petrol Fuel Tank Capacity,40 Litres
+Maruti Suzuki,Jimny,Alpha,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Maruti Suzuki,Jimny,Alpha,Fuel & Performance,Top Speed,155 kmph
+Maruti Suzuki,Jimny,Alpha,"Suspension, Steering & Brakes",Front Suspension,"Multi-link, Solid Axle"
+Maruti Suzuki,Jimny,Alpha,"Suspension, Steering & Brakes",Rear Suspension,"Multi-link, Solid Axle"
+Maruti Suzuki,Jimny,Alpha,"Suspension, Steering & Brakes",Steering Type,Electric
+Maruti Suzuki,Jimny,Alpha,"Suspension, Steering & Brakes",Steering Column,Tilt
+Maruti Suzuki,Jimny,Alpha,"Suspension, Steering & Brakes",Turning Radius,5.7 m
+Maruti Suzuki,Jimny,Alpha,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Maruti Suzuki,Jimny,Alpha,"Suspension, Steering & Brakes",Rear Brake Type,Drum
+Maruti Suzuki,Jimny,Alpha,Dimensions & Capacity,Length,3985 mm
+Maruti Suzuki,Jimny,Alpha,Dimensions & Capacity,Width,1645 mm
+Maruti Suzuki,Jimny,Alpha,Dimensions & Capacity,Height,1720 mm
+Maruti Suzuki,Jimny,Alpha,Dimensions & Capacity,Boot Space,211 Litres
+Maruti Suzuki,Jimny,Alpha,Dimensions & Capacity,Seating Capacity,4
+Maruti Suzuki,Jimny,Alpha,Dimensions & Capacity,Ground Clearance Unladen,210 mm
+Maruti Suzuki,Jimny,Alpha,Dimensions & Capacity,Wheel Base,2590 mm
+Maruti Suzuki,Jimny,Alpha,Dimensions & Capacity,Front Tread,1395 mm
+Maruti Suzuki,Jimny,Alpha,Dimensions & Capacity,Rear Tread,1405 mm
+Maruti Suzuki,Jimny,Alpha,Dimensions & Capacity,Kerb Weight,1195 kg
+Maruti Suzuki,Jimny,Alpha,Dimensions & Capacity,Gross Weight,1545 kg
+Maruti Suzuki,Jimny,Alpha,Dimensions & Capacity,Approach Angle,36°
+Maruti Suzuki,Jimny,Alpha,Dimensions & Capacity,Break-over Angle,24°
+Maruti Suzuki,Jimny,Alpha,Dimensions & Capacity,Departure Angle,46°
+Maruti Suzuki,Jimny,Alpha,Comfort & Convenience,Boot Opening,Manual
+Maruti Suzuki,Jimny,Alpha,Comfort & Convenience,Power Steering,YES
+Maruti Suzuki,Jimny,Alpha,Comfort & Convenience,Air Conditioner,YES
+Maruti Suzuki,Jimny,Alpha,Comfort & Convenience,Heater,YES
+Maruti Suzuki,Jimny,Alpha,Comfort & Convenience,Adjustable Steering,Height only
+Maruti Suzuki,Jimny,Alpha,Comfort & Convenience,Automatic Climate Control,YES
+Maruti Suzuki,Jimny,Alpha,Comfort & Convenience,Accessory Power Outlet,YES
+Maruti Suzuki,Jimny,Alpha,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Maruti Suzuki,Jimny,Alpha,Comfort & Convenience,Adjustable Headrest,YES
+Maruti Suzuki,Jimny,Alpha,Comfort & Convenience,Cruise Control,YES
+Maruti Suzuki,Jimny,Alpha,Comfort & Convenience,Parking Sensors,Rear
+Maruti Suzuki,Jimny,Alpha,Comfort & Convenience,Engine Start/Stop Button,YES
+Maruti Suzuki,Jimny,Alpha,Comfort & Convenience,Idle Start-Stop System,YES
+Maruti Suzuki,Jimny,Alpha,Comfort & Convenience,Power Windows,Front & Rear
+Maruti Suzuki,Jimny,Alpha,Interior,Leather Wrapped Steering Wheel,YES
+Maruti Suzuki,Jimny,Alpha,Interior,Glove Box,YES
+Maruti Suzuki,Jimny,Alpha,Interior,Digital Cluster,YES
+Maruti Suzuki,Jimny,Alpha,Interior,Upholstery,Fabric
+Maruti Suzuki,Jimny,Alpha,Exterior,Adjustable Headlamps,YES
+Maruti Suzuki,Jimny,Alpha,Exterior,Headlamp Washers,YES
+Maruti Suzuki,Jimny,Alpha,Exterior,Rear Window Wiper,YES
+Maruti Suzuki,Jimny,Alpha,Exterior,Rear Window Washer,YES
+Maruti Suzuki,Jimny,Alpha,Exterior,Rear Window Defogger,YES
+Maruti Suzuki,Jimny,Alpha,Exterior,Wheel Covers,NO
+Maruti Suzuki,Jimny,Alpha,Exterior,Alloy Wheels,YES
+Maruti Suzuki,Jimny,Alpha,Exterior,Halogen Headlamps,NO
+Maruti Suzuki,Jimny,Alpha,Exterior,Automatic Headlamps,YES
+Maruti Suzuki,Jimny,Alpha,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Maruti Suzuki,Jimny,Alpha,Exterior,Tyre Size,195/80 R15
+Maruti Suzuki,Jimny,Alpha,Exterior,Tyre Type,Radial Tubeless
+Maruti Suzuki,Jimny,Alpha,Exterior,Wheel Size,15 Inch
+Maruti Suzuki,Jimny,Alpha,Exterior,LED Headlamps,YES
+Maruti Suzuki,Jimny,Alpha,Exterior,LED Fog Lamps,YES
+Maruti Suzuki,Jimny,Alpha,Safety,Anti-lock Braking System (ABS),YES
+Maruti Suzuki,Jimny,Alpha,Safety,Brake Assist,YES
+Maruti Suzuki,Jimny,Alpha,Safety,Central Locking,YES
+Maruti Suzuki,Jimny,Alpha,Safety,No. of Airbags,6
+Maruti Suzuki,Jimny,Alpha,Safety,Driver Airbag,YES
+Maruti Suzuki,Jimny,Alpha,Safety,Passenger Airbag,YES
+Maruti Suzuki,Jimny,Alpha,Safety,Side Airbag,YES
+Maruti Suzuki,Jimny,Alpha,Safety,Day & Night Rear View Mirror,YES
+Maruti Suzuki,Jimny,Alpha,Safety,Electronic Brakeforce Distribution (EBD),YES
+Maruti Suzuki,Jimny,Alpha,Safety,Traction Control,YES
+Maruti Suzuki,Jimny,Alpha,Safety,Engine Immobilizer,YES
+Maruti Suzuki,Jimny,Alpha,Safety,Electronic Stability Control (ESC),YES
+Maruti Suzuki,Jimny,Alpha,Safety,Rear Camera,With Guidedlines
+Maruti Suzuki,Jimny,Alpha,Safety,Anti-Pinch Power Windows,Driver's Window
+Maruti Suzuki,Jimny,Alpha,Safety,ISOFIX Child Seat Mounts,YES
+Maruti Suzuki,Jimny,Alpha,Safety,Hill Descent Control,YES
+Maruti Suzuki,Jimny,Alpha,Safety,Hill Assist,YES
+Maruti Suzuki,Jimny,Alpha,Entertainment & Communication,Radio,YES
+Maruti Suzuki,Jimny,Alpha,Entertainment & Communication,Bluetooth Connectivity,YES
+Maruti Suzuki,Jimny,Alpha,Entertainment & Communication,Touchscreen,YES
+Maruti Suzuki,Jimny,Alpha,Entertainment & Communication,Touchscreen Size,9 inch
+Maruti Suzuki,Jimny,Alpha,Entertainment & Communication,Android Auto,YES
+Maruti Suzuki,Jimny,Alpha,Entertainment & Communication,Apple CarPlay,YES
+Maruti Suzuki,Jimny,Alpha,Entertainment & Communication,No. of Speakers,4
+Maruti Suzuki,Jimny,Alpha,Entertainment & Communication,Usb Ports,YES
+Maruti Suzuki,Jimny,Alpha,Entertainment & Communication,Speakers,Front & Rear

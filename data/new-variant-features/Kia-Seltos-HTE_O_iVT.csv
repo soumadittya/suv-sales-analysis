@@ -1,0 +1,124 @@
+company,model,variant,category,feature_name,feature_details
+Kia,Seltos,HTE (O) iVT,Engine & Transmission,Engine Type,SmartStream G1.5
+Kia,Seltos,HTE (O) iVT,Engine & Transmission,Displacement,1497 cc
+Kia,Seltos,HTE (O) iVT,Engine & Transmission,Max Power,113bhp@6300rpm
+Kia,Seltos,HTE (O) iVT,Engine & Transmission,Max Torque,144Nm@4500rpm
+Kia,Seltos,HTE (O) iVT,Engine & Transmission,No. of Cylinders,4
+Kia,Seltos,HTE (O) iVT,Engine & Transmission,Valves Per Cylinder,4
+Kia,Seltos,HTE (O) iVT,Engine & Transmission,Fuel Supply System,MPi
+Kia,Seltos,HTE (O) iVT,Engine & Transmission,Turbo Charger,NO
+Kia,Seltos,HTE (O) iVT,Engine & Transmission,Transmission Type,Automatic
+Kia,Seltos,HTE (O) iVT,Engine & Transmission,Gearbox,iVT
+Kia,Seltos,HTE (O) iVT,Engine & Transmission,Drive Type,2WD
+Kia,Seltos,HTE (O) iVT,Fuel & Performance,Fuel Type,Petrol
+Kia,Seltos,HTE (O) iVT,Fuel & Performance,Petrol Mileage ARAI,16.5 kmpl
+Kia,Seltos,HTE (O) iVT,Fuel & Performance,Petrol Fuel Tank Capacity,47 Litres
+Kia,Seltos,HTE (O) iVT,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Kia,Seltos,HTE (O) iVT,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Kia,Seltos,HTE (O) iVT,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Kia,Seltos,HTE (O) iVT,"Suspension, Steering & Brakes",Steering Type,Electric
+Kia,Seltos,HTE (O) iVT,"Suspension, Steering & Brakes",Steering Column,Tilt
+Kia,Seltos,HTE (O) iVT,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Kia,Seltos,HTE (O) iVT,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Kia,Seltos,HTE (O) iVT,Dimensions & Capacity,Length,4460 mm
+Kia,Seltos,HTE (O) iVT,Dimensions & Capacity,Width,1830 mm
+Kia,Seltos,HTE (O) iVT,Dimensions & Capacity,Height,1635 mm
+Kia,Seltos,HTE (O) iVT,Dimensions & Capacity,Boot Space,447 Litres
+Kia,Seltos,HTE (O) iVT,Dimensions & Capacity,Seating Capacity,5
+Kia,Seltos,HTE (O) iVT,Dimensions & Capacity,Wheel Base,2690 mm
+Kia,Seltos,HTE (O) iVT,Comfort & Convenience,Power Steering,YES
+Kia,Seltos,HTE (O) iVT,Comfort & Convenience,Air Conditioner,YES
+Kia,Seltos,HTE (O) iVT,Comfort & Convenience,Heater,YES
+Kia,Seltos,HTE (O) iVT,Comfort & Convenience,Adjustable Steering,Height only
+Kia,Seltos,HTE (O) iVT,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Kia,Seltos,HTE (O) iVT,Comfort & Convenience,Ventilated Seats,NO
+Kia,Seltos,HTE (O) iVT,Comfort & Convenience,Electric Adjustable Seats,NO
+Kia,Seltos,HTE (O) iVT,Comfort & Convenience,Automatic Climate Control,NO
+Kia,Seltos,HTE (O) iVT,Comfort & Convenience,Accessory Power Outlet,YES
+Kia,Seltos,HTE (O) iVT,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Kia,Seltos,HTE (O) iVT,Comfort & Convenience,Adjustable Headrest,YES
+Kia,Seltos,HTE (O) iVT,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Kia,Seltos,HTE (O) iVT,Comfort & Convenience,Rear AC Vents,YES
+Kia,Seltos,HTE (O) iVT,Comfort & Convenience,Lumbar Support,NO
+Kia,Seltos,HTE (O) iVT,Comfort & Convenience,Cruise Control,YES
+Kia,Seltos,HTE (O) iVT,Comfort & Convenience,Parking Sensors,Rear
+Kia,Seltos,HTE (O) iVT,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Kia,Seltos,HTE (O) iVT,Comfort & Convenience,KeyLess Entry,YES
+Kia,Seltos,HTE (O) iVT,Comfort & Convenience,Engine Start/Stop Button,NO
+Kia,Seltos,HTE (O) iVT,Comfort & Convenience,Paddle Shifters,YES
+Kia,Seltos,HTE (O) iVT,Comfort & Convenience,USB Charger,Front & Rear
+Kia,Seltos,HTE (O) iVT,Comfort & Convenience,Central Console Armrest,YES
+Kia,Seltos,HTE (O) iVT,Comfort & Convenience,Drive Modes,3
+Kia,Seltos,HTE (O) iVT,Comfort & Convenience,Additional Features,Sunglass Holder
+Kia,Seltos,HTE (O) iVT,Comfort & Convenience,Drive Mode Types,ECO | NORMAL | SPORTS
+Kia,Seltos,HTE (O) iVT,Comfort & Convenience,Power Windows,Front & Rear
+Kia,Seltos,HTE (O) iVT,Comfort & Convenience,Cup Holders,Front & Rear
+Kia,Seltos,HTE (O) iVT,Interior,Leather Wrapped Steering Wheel,NO
+Kia,Seltos,HTE (O) iVT,Interior,Glove Box,YES
+Kia,Seltos,HTE (O) iVT,Interior,Digital Cluster,YES
+Kia,Seltos,HTE (O) iVT,Interior,Digital Cluster Size,4.2
+Kia,Seltos,HTE (O) iVT,Interior,Upholstery,Semi-Leatherette
+Kia,Seltos,HTE (O) iVT,Exterior,Adjustable Headlamps,YES
+Kia,Seltos,HTE (O) iVT,Exterior,Rear Window Wiper,NO
+Kia,Seltos,HTE (O) iVT,Exterior,Rear Window Defogger,NO
+Kia,Seltos,HTE (O) iVT,Exterior,Rear Spoiler,YES
+Kia,Seltos,HTE (O) iVT,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Kia,Seltos,HTE (O) iVT,Exterior,Projector Headlamps,NO
+Kia,Seltos,HTE (O) iVT,Exterior,Roof Rails,YES
+Kia,Seltos,HTE (O) iVT,Exterior,Automatic Headlamps,YES
+Kia,Seltos,HTE (O) iVT,Exterior,Fog Lights,NO
+Kia,Seltos,HTE (O) iVT,Exterior,Antenna,Shark Fin
+Kia,Seltos,HTE (O) iVT,Exterior,Sunroof,NO
+Kia,Seltos,HTE (O) iVT,Exterior,Outside Rear View Mirror (ORVM),Powered
+Kia,Seltos,HTE (O) iVT,Exterior,Wheels Type,Steel with Cover
+Kia,Seltos,HTE (O) iVT,Exterior,Tyre Size,205/65 R16
+Kia,Seltos,HTE (O) iVT,Exterior,Tyre Type,Radial Tubeless
+Kia,Seltos,HTE (O) iVT,Exterior,Wheel Size,16 Inch
+Kia,Seltos,HTE (O) iVT,Exterior,LED DRLs,YES
+Kia,Seltos,HTE (O) iVT,Exterior,LED Headlamps,YES
+Kia,Seltos,HTE (O) iVT,Exterior,LED Taillights,YES
+Kia,Seltos,HTE (O) iVT,Exterior,LED Fog Lamps,NO
+Kia,Seltos,HTE (O) iVT,Safety,Anti-lock Braking System (ABS),YES
+Kia,Seltos,HTE (O) iVT,Safety,Brake Assist,YES
+Kia,Seltos,HTE (O) iVT,Safety,Central Locking,YES
+Kia,Seltos,HTE (O) iVT,Safety,Child Safety Locks,YES
+Kia,Seltos,HTE (O) iVT,Safety,No. of Airbags,6
+Kia,Seltos,HTE (O) iVT,Safety,Driver Airbag,YES
+Kia,Seltos,HTE (O) iVT,Safety,Passenger Airbag,YES
+Kia,Seltos,HTE (O) iVT,Safety,Side Airbag,YES
+Kia,Seltos,HTE (O) iVT,Safety,Day & Night Rear View Mirror,YES
+Kia,Seltos,HTE (O) iVT,Safety,Electronic Brakeforce Distribution (EBD),YES
+Kia,Seltos,HTE (O) iVT,Safety,Traction Control,YES
+Kia,Seltos,HTE (O) iVT,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Kia,Seltos,HTE (O) iVT,Safety,Engine Immobilizer,YES
+Kia,Seltos,HTE (O) iVT,Safety,Electronic Stability Control (ESC),YES
+Kia,Seltos,HTE (O) iVT,Safety,Rear Camera,With Guidedlines
+Kia,Seltos,HTE (O) iVT,Safety,Anti-Pinch Power Windows,Driver's Window
+Kia,Seltos,HTE (O) iVT,Safety,ISOFIX Child Seat Mounts,YES
+Kia,Seltos,HTE (O) iVT,Safety,Hill Descent Control,YES
+Kia,Seltos,HTE (O) iVT,Safety,Hill Assist,YES
+Kia,Seltos,HTE (O) iVT,Safety,360 View Camera,NO
+Kia,Seltos,HTE (O) iVT,Safety,Bharat NCAP Safety Rating,5 Star
+Kia,Seltos,HTE (O) iVT,Safety,Bharat NCAP Child Safety Rating,5 Star
+Kia,Seltos,HTE (O) iVT,Entertainment & Communication,Radio,YES
+Kia,Seltos,HTE (O) iVT,Entertainment & Communication,Wireless Phone Charging,NO
+Kia,Seltos,HTE (O) iVT,Entertainment & Communication,Bluetooth Connectivity,YES
+Kia,Seltos,HTE (O) iVT,Entertainment & Communication,Touchscreen,YES
+Kia,Seltos,HTE (O) iVT,Entertainment & Communication,Touchscreen Size,10.25 inch
+Kia,Seltos,HTE (O) iVT,Entertainment & Communication,Android Auto,YES
+Kia,Seltos,HTE (O) iVT,Entertainment & Communication,Apple CarPlay,YES
+Kia,Seltos,HTE (O) iVT,Entertainment & Communication,No. of Speakers,6
+Kia,Seltos,HTE (O) iVT,Entertainment & Communication,Usb Ports,YES
+Kia,Seltos,HTE (O) iVT,Entertainment & Communication,Additional Features,Wireless Android Auto/Apple CarPlay
+Kia,Seltos,HTE (O) iVT,Entertainment & Communication,Speakers,Front & Rear
+Kia,Seltos,HTE (O) iVT,ADAS Feature,Forward Collision Warning,NO
+Kia,Seltos,HTE (O) iVT,ADAS Feature,Blind Spot Collision Avoidance Assist,NO
+Kia,Seltos,HTE (O) iVT,ADAS Feature,Lane Departure Warning,NO
+Kia,Seltos,HTE (O) iVT,ADAS Feature,Lane Keep Assist,NO
+Kia,Seltos,HTE (O) iVT,ADAS Feature,Driver Attention Warning,NO
+Kia,Seltos,HTE (O) iVT,ADAS Feature,Adaptive Cruise Control,NO
+Kia,Seltos,HTE (O) iVT,ADAS Feature,Leading Vehicle Departure Alert,NO
+Kia,Seltos,HTE (O) iVT,ADAS Feature,Adaptive High Beam Assist,NO
+Kia,Seltos,HTE (O) iVT,ADAS Feature,Rear Cross Traffic Alert,NO
+Kia,Seltos,HTE (O) iVT,ADAS Feature,Rear Cross Traffic Collision-Avoidance Assist,NO
+Kia,Seltos,HTE (O) iVT,ADAS Feature,Blind Spot Monitor,NO

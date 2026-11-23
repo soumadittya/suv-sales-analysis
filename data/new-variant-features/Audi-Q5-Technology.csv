@@ -1,0 +1,118 @@
+company,model,variant,category,feature_name,feature_details
+Audi,Q5,Technology,Engine & Transmission,Engine Type,2.0 L TFSI
+Audi,Q5,Technology,Engine & Transmission,Displacement,1984 cc
+Audi,Q5,Technology,Engine & Transmission,Max Power,245.59bhp@5000-6000rpm
+Audi,Q5,Technology,Engine & Transmission,Max Torque,370Nm@1600-4300bhp
+Audi,Q5,Technology,Engine & Transmission,No. of Cylinders,4
+Audi,Q5,Technology,Engine & Transmission,Valves Per Cylinder,4
+Audi,Q5,Technology,Engine & Transmission,Transmission Type,Automatic
+Audi,Q5,Technology,Engine & Transmission,Gearbox,7-Speed AT
+Audi,Q5,Technology,Engine & Transmission,Drive Type,AWD
+Audi,Q5,Technology,Fuel & Performance,Fuel Type,Petrol
+Audi,Q5,Technology,Fuel & Performance,Petrol Mileage ARAI,13.47 kmpl
+Audi,Q5,Technology,Fuel & Performance,Petrol Fuel Tank Capacity,70 Litres
+Audi,Q5,Technology,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Audi,Q5,Technology,Fuel & Performance,Top Speed,240 kmph
+Audi,Q5,Technology,Fuel & Performance,Acceleration,6.1 s
+Audi,Q5,Technology,Fuel & Performance,0-100kmph,6.1 s
+Audi,Q5,Technology,"Suspension, Steering & Brakes",Front Suspension,Multi-link suspension
+Audi,Q5,Technology,"Suspension, Steering & Brakes",Rear Suspension,Multi-link suspension
+Audi,Q5,Technology,"Suspension, Steering & Brakes",Steering Type,Electric
+Audi,Q5,Technology,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Audi,Q5,Technology,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Audi,Q5,Technology,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Audi,Q5,Technology,Dimensions & Capacity,Length,4682 mm
+Audi,Q5,Technology,Dimensions & Capacity,Width,1893 mm
+Audi,Q5,Technology,Dimensions & Capacity,Height,1653 mm
+Audi,Q5,Technology,Dimensions & Capacity,Boot Space,520 Litres
+Audi,Q5,Technology,Dimensions & Capacity,Seating Capacity,5
+Audi,Q5,Technology,Dimensions & Capacity,Wheel Base,2827 mm
+Audi,Q5,Technology,Dimensions & Capacity,Kerb Weight,1970 kg
+Audi,Q5,Technology,Comfort & Convenience,Boot Opening,Electronic
+Audi,Q5,Technology,Comfort & Convenience,Power Steering,YES
+Audi,Q5,Technology,Comfort & Convenience,Air Conditioner,YES
+Audi,Q5,Technology,Comfort & Convenience,Heater,YES
+Audi,Q5,Technology,Comfort & Convenience,Adjustable Steering,Height & Reach
+Audi,Q5,Technology,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Audi,Q5,Technology,Comfort & Convenience,Electric Adjustable Seats,Front
+Audi,Q5,Technology,Comfort & Convenience,Automatic Climate Control,YES
+Audi,Q5,Technology,Comfort & Convenience,Air Quality Control,YES
+Audi,Q5,Technology,Comfort & Convenience,Accessory Power Outlet,YES
+Audi,Q5,Technology,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Audi,Q5,Technology,Comfort & Convenience,Adjustable Headrest,YES
+Audi,Q5,Technology,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Audi,Q5,Technology,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Audi,Q5,Technology,Comfort & Convenience,Rear AC Vents,YES
+Audi,Q5,Technology,Comfort & Convenience,Cruise Control,YES
+Audi,Q5,Technology,Comfort & Convenience,Parking Sensors,Front & Rear
+Audi,Q5,Technology,Comfort & Convenience,KeyLess Entry,YES
+Audi,Q5,Technology,Comfort & Convenience,Engine Start/Stop Button,YES
+Audi,Q5,Technology,Comfort & Convenience,Voice Commands,YES
+Audi,Q5,Technology,Comfort & Convenience,USB Charger,Front & Rear
+Audi,Q5,Technology,Comfort & Convenience,Central Console Armrest,With Storage
+Audi,Q5,Technology,Comfort & Convenience,Drive Modes,6
+Audi,Q5,Technology,Comfort & Convenience,Glove Box light,YES
+Audi,Q5,Technology,Comfort & Convenience,Idle Start-Stop System,YES
+Audi,Q5,Technology,Comfort & Convenience,Follow Me Home Headlamps,YES
+Audi,Q5,Technology,Comfort & Convenience,Additional Features,"navigation on a 3D Map to other control functions, voice control with natural language interaction or improved character,Sensor controlled boot-lid operation"
+Audi,Q5,Technology,Comfort & Convenience,Power Windows,Front & Rear
+Audi,Q5,Technology,Comfort & Convenience,Cup Holders,Front & Rear
+Audi,Q5,Technology,Interior,Glove Box,YES
+Audi,Q5,Technology,Interior,Digital Cluster,YES
+Audi,Q5,Technology,Interior,Digital Cluster Size,12.29
+Audi,Q5,Technology,Interior,Upholstery,Leather
+Audi,Q5,Technology,Interior,Ambient Light Colour (numbers),30
+Audi,Q5,Technology,Exterior,Adjustable Headlamps,YES
+Audi,Q5,Technology,Exterior,Rain Sensing Wiper,YES
+Audi,Q5,Technology,Exterior,Rear Window Wiper,YES
+Audi,Q5,Technology,Exterior,Rear Window Washer,YES
+Audi,Q5,Technology,Exterior,Rear Window Defogger,YES
+Audi,Q5,Technology,Exterior,Alloy Wheels,YES
+Audi,Q5,Technology,Exterior,Rear Spoiler,YES
+Audi,Q5,Technology,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Audi,Q5,Technology,Exterior,Cornering Headlamps,YES
+Audi,Q5,Technology,Exterior,Roof Rails,YES
+Audi,Q5,Technology,Exterior,Automatic Headlamps,YES
+Audi,Q5,Technology,Exterior,Antenna,Shark Fin
+Audi,Q5,Technology,Exterior,Sunroof,Panoramic
+Audi,Q5,Technology,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Audi,Q5,Technology,Exterior,Tyre Size,235/55 R19
+Audi,Q5,Technology,Exterior,Tyre Type,Radial Tubeless
+Audi,Q5,Technology,Exterior,LED DRLs,YES
+Audi,Q5,Technology,Exterior,LED Headlamps,YES
+Audi,Q5,Technology,Exterior,LED Taillights,YES
+Audi,Q5,Technology,Exterior,Additional Features,Singleframe grille with vertical struts
+Audi,Q5,Technology,Safety,Anti-lock Braking System (ABS),YES
+Audi,Q5,Technology,Safety,Brake Assist,YES
+Audi,Q5,Technology,Safety,Central Locking,YES
+Audi,Q5,Technology,Safety,Child Safety Locks,YES
+Audi,Q5,Technology,Safety,Anti-Theft Alarm,YES
+Audi,Q5,Technology,Safety,No. of Airbags,8
+Audi,Q5,Technology,Safety,Driver Airbag,YES
+Audi,Q5,Technology,Safety,Passenger Airbag,YES
+Audi,Q5,Technology,Safety,Side Airbag,YES
+Audi,Q5,Technology,Safety,Side Airbag-Rear,YES
+Audi,Q5,Technology,Safety,Day & Night Rear View Mirror,YES
+Audi,Q5,Technology,Safety,Electronic Brakeforce Distribution (EBD),YES
+Audi,Q5,Technology,Safety,Traction Control,YES
+Audi,Q5,Technology,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Audi,Q5,Technology,Safety,Engine Immobilizer,YES
+Audi,Q5,Technology,Safety,Electronic Stability Control (ESC),YES
+Audi,Q5,Technology,Safety,Rear Camera,With Guidedlines
+Audi,Q5,Technology,Safety,Anti-Theft Device,YES
+Audi,Q5,Technology,Safety,Anti-Pinch Power Windows,Driver's Window
+Audi,Q5,Technology,Safety,ISOFIX Child Seat Mounts,YES
+Audi,Q5,Technology,Safety,Hill Descent Control,YES
+Audi,Q5,Technology,Safety,Hill Assist,YES
+Audi,Q5,Technology,Safety,360 View Camera,YES
+Audi,Q5,Technology,Entertainment & Communication,Radio,YES
+Audi,Q5,Technology,Entertainment & Communication,Wireless Phone Charging,YES
+Audi,Q5,Technology,Entertainment & Communication,Bluetooth Connectivity,YES
+Audi,Q5,Technology,Entertainment & Communication,Touchscreen,YES
+Audi,Q5,Technology,Entertainment & Communication,Touchscreen Size,10 inch
+Audi,Q5,Technology,Entertainment & Communication,Android Auto,YES
+Audi,Q5,Technology,Entertainment & Communication,Apple CarPlay,YES
+Audi,Q5,Technology,Entertainment & Communication,No. of Speakers,19
+Audi,Q5,Technology,Entertainment & Communication,Usb Ports,YES
+Audi,Q5,Technology,Entertainment & Communication,Additional Features,"3D Premium Sound System, centre speaker and subwoofer, with a 16-channel amplifier the output of 755 watts"
+Audi,Q5,Technology,Entertainment & Communication,Speakers,Front & Rear

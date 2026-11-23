@@ -1,0 +1,146 @@
+company,model,variant,category,feature_name,feature_details
+MG,Windsor EV,Exclusive,Engine & Transmission,Battery Capacity,38 kWh
+MG,Windsor EV,Exclusive,Engine & Transmission,Motor Power,100 kW
+MG,Windsor EV,Exclusive,Engine & Transmission,Motor Type,Permanent Magnet Synchronous
+MG,Windsor EV,Exclusive,Engine & Transmission,Max Power,134bhp
+MG,Windsor EV,Exclusive,Engine & Transmission,Max Torque,200Nm
+MG,Windsor EV,Exclusive,Engine & Transmission,Range,332 km
+MG,Windsor EV,Exclusive,Engine & Transmission,Battery Type,Lithium-ion
+MG,Windsor EV,Exclusive,Engine & Transmission,Charging Time (A.C),7 H-7.4kW (10-100%)
+MG,Windsor EV,Exclusive,Engine & Transmission,Charging Time (D.C),45 Min-45kW (20-80%)
+MG,Windsor EV,Exclusive,Engine & Transmission,Regenerative Braking,YES
+MG,Windsor EV,Exclusive,Engine & Transmission,Charging Port,CCS-II
+MG,Windsor EV,Exclusive,Engine & Transmission,Charging Options,3.3 kW portable cable + 7.4 kW AC fast charger; max DC 45 kW
+MG,Windsor EV,Exclusive,Engine & Transmission,Transmission Type,Automatic
+MG,Windsor EV,Exclusive,Engine & Transmission,Gearbox,1-Speed
+MG,Windsor EV,Exclusive,Engine & Transmission,Drive Type,FWD
+MG,Windsor EV,Exclusive,Fuel & Performance,Fuel Type,Electric
+MG,Windsor EV,Exclusive,Fuel & Performance,Emission Norm Compliance,ZEV
+MG,Windsor EV,Exclusive,Charging,Charging Time,45 Min-45kW (20-80%)
+MG,Windsor EV,Exclusive,Charging,Fast Charging,YES
+MG,Windsor EV,Exclusive,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+MG,Windsor EV,Exclusive,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+MG,Windsor EV,Exclusive,"Suspension, Steering & Brakes",Steering Type,Electric
+MG,Windsor EV,Exclusive,"Suspension, Steering & Brakes",Steering Column,Tilt & telescopic
+MG,Windsor EV,Exclusive,"Suspension, Steering & Brakes",Front Brake Type,Disc
+MG,Windsor EV,Exclusive,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+MG,Windsor EV,Exclusive,Dimensions & Capacity,Length,4295 mm
+MG,Windsor EV,Exclusive,Dimensions & Capacity,Width,2126 mm
+MG,Windsor EV,Exclusive,Dimensions & Capacity,Height,1677 mm
+MG,Windsor EV,Exclusive,Dimensions & Capacity,Boot Space,604 Litres
+MG,Windsor EV,Exclusive,Dimensions & Capacity,Seating Capacity,5
+MG,Windsor EV,Exclusive,Dimensions & Capacity,Ground Clearance Unladen,186 mm
+MG,Windsor EV,Exclusive,Dimensions & Capacity,Wheel Base,2700 mm
+MG,Windsor EV,Exclusive,Comfort & Convenience,Boot Opening,Electronic
+MG,Windsor EV,Exclusive,Comfort & Convenience,Power Steering,YES
+MG,Windsor EV,Exclusive,Comfort & Convenience,Air Conditioner,YES
+MG,Windsor EV,Exclusive,Comfort & Convenience,Heater,YES
+MG,Windsor EV,Exclusive,Comfort & Convenience,Adjustable Steering,Height & Reach
+MG,Windsor EV,Exclusive,Comfort & Convenience,Height Adjustable Driver Seat,YES
+MG,Windsor EV,Exclusive,Comfort & Convenience,Ventilated Seats,NO
+MG,Windsor EV,Exclusive,Comfort & Convenience,Automatic Climate Control,YES
+MG,Windsor EV,Exclusive,Comfort & Convenience,Air Quality Control,NO
+MG,Windsor EV,Exclusive,Comfort & Convenience,Accessory Power Outlet,YES
+MG,Windsor EV,Exclusive,Comfort & Convenience,Rear Seat Headrest,Adjustable
+MG,Windsor EV,Exclusive,Comfort & Convenience,Adjustable Headrest,YES
+MG,Windsor EV,Exclusive,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+MG,Windsor EV,Exclusive,Comfort & Convenience,Rear AC Vents,YES
+MG,Windsor EV,Exclusive,Comfort & Convenience,Cruise Control,YES
+MG,Windsor EV,Exclusive,Comfort & Convenience,Parking Sensors,Rear
+MG,Windsor EV,Exclusive,Comfort & Convenience,Real-Time Vehicle Tracking,YES
+MG,Windsor EV,Exclusive,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+MG,Windsor EV,Exclusive,Comfort & Convenience,KeyLess Entry,YES
+MG,Windsor EV,Exclusive,Comfort & Convenience,Voice Commands,YES
+MG,Windsor EV,Exclusive,Comfort & Convenience,USB Charger,Front & Rear
+MG,Windsor EV,Exclusive,Comfort & Convenience,Central Console Armrest,With Storage
+MG,Windsor EV,Exclusive,Comfort & Convenience,Drive Modes,4
+MG,Windsor EV,Exclusive,Comfort & Convenience,Follow Me Home Headlamps,YES
+MG,Windsor EV,Exclusive,Comfort & Convenience,Voice assisted sunroof,NO
+MG,Windsor EV,Exclusive,Comfort & Convenience,Drive Mode Types,Eco+|Eco| Normal |Sports
+MG,Windsor EV,Exclusive,Comfort & Convenience,Power Windows,Front & Rear
+MG,Windsor EV,Exclusive,Comfort & Convenience,Cup Holders,Front & Rear
+MG,Windsor EV,Exclusive,Interior,Leather Wrapped Steering Wheel,YES
+MG,Windsor EV,Exclusive,Interior,Glove Box,YES
+MG,Windsor EV,Exclusive,Interior,Additional Features,Inside Rear View Mirror-Auto Dimming
+MG,Windsor EV,Exclusive,Interior,Digital Cluster,YES
+MG,Windsor EV,Exclusive,Interior,Digital Cluster Size,8.8
+MG,Windsor EV,Exclusive,Interior,Upholstery,Leatherette
+MG,Windsor EV,Exclusive,Interior,Ambient Light Colour (numbers),NO
+MG,Windsor EV,Exclusive,Exterior,Adjustable Headlamps,YES
+MG,Windsor EV,Exclusive,Exterior,Rain Sensing Wiper,YES
+MG,Windsor EV,Exclusive,Exterior,Rear Window Defogger,YES
+MG,Windsor EV,Exclusive,Exterior,Rear Spoiler,YES
+MG,Windsor EV,Exclusive,Exterior,Outside Rear View Mirror Turn Indicators,YES
+MG,Windsor EV,Exclusive,Exterior,Projector Headlamps,YES
+MG,Windsor EV,Exclusive,Exterior,Cornering Headlamps,YES
+MG,Windsor EV,Exclusive,Exterior,Roof Rails,YES
+MG,Windsor EV,Exclusive,Exterior,Automatic Headlamps,YES
+MG,Windsor EV,Exclusive,Exterior,Fog Lights,Rear
+MG,Windsor EV,Exclusive,Exterior,Sunroof,NO
+MG,Windsor EV,Exclusive,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+MG,Windsor EV,Exclusive,Exterior,Wheels Type,Alloy
+MG,Windsor EV,Exclusive,Exterior,Tyre Size,215/55 R18
+MG,Windsor EV,Exclusive,Exterior,Tyre Type,"Tubeless, Radial"
+MG,Windsor EV,Exclusive,Exterior,Wheel Size,18 Inch
+MG,Windsor EV,Exclusive,Exterior,LED DRLs,YES
+MG,Windsor EV,Exclusive,Exterior,LED Headlamps,YES
+MG,Windsor EV,Exclusive,Exterior,LED Taillights,YES
+MG,Windsor EV,Exclusive,Exterior,LED Fog Lamps,YES
+MG,Windsor EV,Exclusive,Exterior,Additional Features,Smart Flush Door Handles
+MG,Windsor EV,Exclusive,Safety,Anti-lock Braking System (ABS),YES
+MG,Windsor EV,Exclusive,Safety,Brake Assist,YES
+MG,Windsor EV,Exclusive,Safety,Central Locking,YES
+MG,Windsor EV,Exclusive,Safety,Child Safety Locks,YES
+MG,Windsor EV,Exclusive,Safety,Anti-Theft Alarm,YES
+MG,Windsor EV,Exclusive,Safety,No. of Airbags,6
+MG,Windsor EV,Exclusive,Safety,Driver Airbag,YES
+MG,Windsor EV,Exclusive,Safety,Passenger Airbag,YES
+MG,Windsor EV,Exclusive,Safety,Side Airbag,YES
+MG,Windsor EV,Exclusive,Safety,Side Airbag-Rear,NO
+MG,Windsor EV,Exclusive,Safety,Day & Night Rear View Mirror,YES
+MG,Windsor EV,Exclusive,Safety,Electronic Brakeforce Distribution (EBD),YES
+MG,Windsor EV,Exclusive,Safety,Tyre Pressure Monitoring System (TPMS),YES
+MG,Windsor EV,Exclusive,Safety,Engine Immobilizer,YES
+MG,Windsor EV,Exclusive,Safety,Electronic Stability Control (ESC),YES
+MG,Windsor EV,Exclusive,Safety,Rear Camera,With Guidedlines
+MG,Windsor EV,Exclusive,Safety,Anti-Pinch Power Windows,All Windows
+MG,Windsor EV,Exclusive,Safety,ISOFIX Child Seat Mounts,YES
+MG,Windsor EV,Exclusive,Safety,Hill Descent Control,YES
+MG,Windsor EV,Exclusive,Safety,Hill Assist,YES
+MG,Windsor EV,Exclusive,Safety,360 View Camera,YES
+MG,Windsor EV,Exclusive,Entertainment & Communication,Radio,YES
+MG,Windsor EV,Exclusive,Entertainment & Communication,Wireless Phone Charging,YES
+MG,Windsor EV,Exclusive,Entertainment & Communication,Bluetooth Connectivity,YES
+MG,Windsor EV,Exclusive,Entertainment & Communication,Wi-Fi Connectivity,YES
+MG,Windsor EV,Exclusive,Entertainment & Communication,Touchscreen,YES
+MG,Windsor EV,Exclusive,Entertainment & Communication,Touchscreen Size,15.6 inch
+MG,Windsor EV,Exclusive,Entertainment & Communication,Android Auto,YES
+MG,Windsor EV,Exclusive,Entertainment & Communication,Apple CarPlay,YES
+MG,Windsor EV,Exclusive,Entertainment & Communication,No. of Speakers,6
+MG,Windsor EV,Exclusive,Entertainment & Communication,Usb Ports,YES
+MG,Windsor EV,Exclusive,Entertainment & Communication,Inbuilt Apps,JioSaavn
+MG,Windsor EV,Exclusive,Entertainment & Communication,Tweeters,2
+MG,Windsor EV,Exclusive,Entertainment & Communication,Additional Features,Wireless Android Auto & Apple Carplay
+MG,Windsor EV,Exclusive,Entertainment & Communication,Speakers,Front & Rear
+MG,Windsor EV,Exclusive,ADAS Feature,Forward Collision Warning,NO
+MG,Windsor EV,Exclusive,ADAS Feature,Automatic Emergency Braking,NO
+MG,Windsor EV,Exclusive,ADAS Feature,Lane Departure Warning,NO
+MG,Windsor EV,Exclusive,ADAS Feature,Lane Keep Assist,NO
+MG,Windsor EV,Exclusive,ADAS Feature,Lane Departure Prevention Assist,NO
+MG,Windsor EV,Exclusive,ADAS Feature,Adaptive Cruise Control,NO
+MG,Windsor EV,Exclusive,ADAS Feature,Adaptive High Beam Assist,NO
+MG,Windsor EV,Exclusive,ADAS Feature,Rear Cross Traffic Collision-Avoidance Assist,NO
+MG,Windsor EV,Exclusive,Advance Internet Feature,Live Location,YES
+MG,Windsor EV,Exclusive,Advance Internet Feature,Engine Start Alarm,YES
+MG,Windsor EV,Exclusive,Advance Internet Feature,Remote Vehicle Status Check,YES
+MG,Windsor EV,Exclusive,Advance Internet Feature,Digital Car Key,YES
+MG,Windsor EV,Exclusive,Advance Internet Feature,Hinglish Voice Commands,YES
+MG,Windsor EV,Exclusive,Advance Internet Feature,E-Call & I-Call,YES
+MG,Windsor EV,Exclusive,Advance Internet Feature,Over the Air (OTA) Updates,YES
+MG,Windsor EV,Exclusive,Advance Internet Feature,Google / Alexa Connectivity,YES
+MG,Windsor EV,Exclusive,Advance Internet Feature,In Car Remote Control App,YES
+MG,Windsor EV,Exclusive,Advance Internet Feature,Smartwatch App,YES
+MG,Windsor EV,Exclusive,Advance Internet Feature,Valet Mode,YES
+MG,Windsor EV,Exclusive,Advance Internet Feature,Remote AC On/Off,YES
+MG,Windsor EV,Exclusive,Advance Internet Feature,Remote Door Lock/Unlock,YES
+MG,Windsor EV,Exclusive,Advance Internet Feature,Geo-fence Alert,YES

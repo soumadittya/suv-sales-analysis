@@ -1,0 +1,116 @@
+company,model,variant,category,feature_name,feature_details
+Nissan,Magnite,Visia,Engine & Transmission,Engine Type,1.0 B4D
+Nissan,Magnite,Visia,Engine & Transmission,Displacement,999 cc
+Nissan,Magnite,Visia,Engine & Transmission,Max Power,71bhp@6250rpm
+Nissan,Magnite,Visia,Engine & Transmission,Max Torque,96Nm@3400 -3600rpm
+Nissan,Magnite,Visia,Engine & Transmission,No. of Cylinders,3
+Nissan,Magnite,Visia,Engine & Transmission,Valves Per Cylinder,4
+Nissan,Magnite,Visia,Engine & Transmission,Turbo Charger,NO
+Nissan,Magnite,Visia,Engine & Transmission,Transmission Type,Manual
+Nissan,Magnite,Visia,Engine & Transmission,Gearbox,5-Speed
+Nissan,Magnite,Visia,Engine & Transmission,Drive Type,FWD
+Nissan,Magnite,Visia,Fuel & Performance,Fuel Type,Petrol
+Nissan,Magnite,Visia,Fuel & Performance,Petrol Mileage ARAI,19.4 kmpl
+Nissan,Magnite,Visia,Fuel & Performance,Petrol Fuel Tank Capacity,40 Litres
+Nissan,Magnite,Visia,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Nissan,Magnite,Visia,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Nissan,Magnite,Visia,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Nissan,Magnite,Visia,"Suspension, Steering & Brakes",Shock Absorbers Type,Double Acting
+Nissan,Magnite,Visia,"Suspension, Steering & Brakes",Steering Type,Electric
+Nissan,Magnite,Visia,"Suspension, Steering & Brakes",Steering Column,Tilt
+Nissan,Magnite,Visia,"Suspension, Steering & Brakes",Turning Radius,5 m
+Nissan,Magnite,Visia,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Nissan,Magnite,Visia,"Suspension, Steering & Brakes",Rear Brake Type,Drum
+Nissan,Magnite,Visia,Dimensions & Capacity,Length,3994 mm
+Nissan,Magnite,Visia,Dimensions & Capacity,Width,1758 mm
+Nissan,Magnite,Visia,Dimensions & Capacity,Height,1572 mm
+Nissan,Magnite,Visia,Dimensions & Capacity,Boot Space,336 Litres
+Nissan,Magnite,Visia,Dimensions & Capacity,Seating Capacity,5
+Nissan,Magnite,Visia,Dimensions & Capacity,Ground Clearance Unladen,205 mm
+Nissan,Magnite,Visia,Dimensions & Capacity,Wheel Base,2500 mm
+Nissan,Magnite,Visia,Dimensions & Capacity,Kerb Weight,1019 kg
+Nissan,Magnite,Visia,Dimensions & Capacity,Gross Weight,1402 kg
+Nissan,Magnite,Visia,Comfort & Convenience,Boot Opening,Manual
+Nissan,Magnite,Visia,Comfort & Convenience,Power Steering,YES
+Nissan,Magnite,Visia,Comfort & Convenience,Air Conditioner,YES
+Nissan,Magnite,Visia,Comfort & Convenience,Heater,YES
+Nissan,Magnite,Visia,Comfort & Convenience,Adjustable Steering,Height only
+Nissan,Magnite,Visia,Comfort & Convenience,Height Adjustable Driver Seat,NO
+Nissan,Magnite,Visia,Comfort & Convenience,Automatic Climate Control,NO
+Nissan,Magnite,Visia,Comfort & Convenience,Air Quality Control,YES
+Nissan,Magnite,Visia,Comfort & Convenience,Accessory Power Outlet,YES
+Nissan,Magnite,Visia,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Nissan,Magnite,Visia,Comfort & Convenience,Adjustable Headrest,YES
+Nissan,Magnite,Visia,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Nissan,Magnite,Visia,Comfort & Convenience,Rear AC Vents,NO
+Nissan,Magnite,Visia,Comfort & Convenience,Cruise Control,NO
+Nissan,Magnite,Visia,Comfort & Convenience,Parking Sensors,Rear
+Nissan,Magnite,Visia,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Nissan,Magnite,Visia,Comfort & Convenience,KeyLess Entry,NO
+Nissan,Magnite,Visia,Comfort & Convenience,Engine Start/Stop Button,NO
+Nissan,Magnite,Visia,Comfort & Convenience,Voice Commands,NO
+Nissan,Magnite,Visia,Comfort & Convenience,USB Charger,NO
+Nissan,Magnite,Visia,Comfort & Convenience,Central Console Armrest,NO
+Nissan,Magnite,Visia,Comfort & Convenience,Gear Shift Indicator,YES
+Nissan,Magnite,Visia,Comfort & Convenience,Glove Box light,NO
+Nissan,Magnite,Visia,Comfort & Convenience,Power Windows,Front & Rear
+Nissan,Magnite,Visia,Comfort & Convenience,Cup Holders,Front & Rear
+Nissan,Magnite,Visia,Interior,Leather Wrapped Steering Wheel,NO
+Nissan,Magnite,Visia,Interior,Glove Box,YES
+Nissan,Magnite,Visia,Interior,Digital Cluster,YES
+Nissan,Magnite,Visia,Interior,Digital Cluster Size,3.5
+Nissan,Magnite,Visia,Interior,Upholstery,Fabric
+Nissan,Magnite,Visia,Exterior,Adjustable Headlamps,YES
+Nissan,Magnite,Visia,Exterior,Rear Window Wiper,NO
+Nissan,Magnite,Visia,Exterior,Rear Window Washer,NO
+Nissan,Magnite,Visia,Exterior,Rear Window Defogger,NO
+Nissan,Magnite,Visia,Exterior,Wheel Covers,NO
+Nissan,Magnite,Visia,Exterior,Alloy Wheels,NO
+Nissan,Magnite,Visia,Exterior,Rear Spoiler,YES
+Nissan,Magnite,Visia,Exterior,Outside Rear View Mirror Turn Indicators,NO
+Nissan,Magnite,Visia,Exterior,Projector Headlamps,NO
+Nissan,Magnite,Visia,Exterior,Roof Rails,YES
+Nissan,Magnite,Visia,Exterior,Automatic Headlamps,NO
+Nissan,Magnite,Visia,Exterior,Fog Lights,NO
+Nissan,Magnite,Visia,Exterior,Antenna,NO
+Nissan,Magnite,Visia,Exterior,Outside Rear View Mirror (ORVM),Manual
+Nissan,Magnite,Visia,Exterior,Tyre Size,195/60R16
+Nissan,Magnite,Visia,Exterior,Tyre Type,Tubeless Radial
+Nissan,Magnite,Visia,Exterior,Wheel Size,16 Inch
+Nissan,Magnite,Visia,Exterior,LED DRLs,NO
+Nissan,Magnite,Visia,Exterior,LED Headlamps,NO
+Nissan,Magnite,Visia,Exterior,LED Taillights,NO
+Nissan,Magnite,Visia,Exterior,LED Fog Lamps,NO
+Nissan,Magnite,Visia,Safety,Anti-lock Braking System (ABS),YES
+Nissan,Magnite,Visia,Safety,Brake Assist,YES
+Nissan,Magnite,Visia,Safety,Central Locking,NO
+Nissan,Magnite,Visia,Safety,Child Safety Locks,YES
+Nissan,Magnite,Visia,Safety,Anti-Theft Alarm,NO
+Nissan,Magnite,Visia,Safety,No. of Airbags,6
+Nissan,Magnite,Visia,Safety,Driver Airbag,YES
+Nissan,Magnite,Visia,Safety,Passenger Airbag,YES
+Nissan,Magnite,Visia,Safety,Side Airbag,YES
+Nissan,Magnite,Visia,Safety,Side Airbag-Rear,NO
+Nissan,Magnite,Visia,Safety,Day & Night Rear View Mirror,YES
+Nissan,Magnite,Visia,Safety,Electronic Brakeforce Distribution (EBD),YES
+Nissan,Magnite,Visia,Safety,Traction Control,YES
+Nissan,Magnite,Visia,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Nissan,Magnite,Visia,Safety,Engine Immobilizer,YES
+Nissan,Magnite,Visia,Safety,Electronic Stability Control (ESC),YES
+Nissan,Magnite,Visia,Safety,Rear Camera,NO
+Nissan,Magnite,Visia,Safety,Anti-Theft Device,NO
+Nissan,Magnite,Visia,Safety,ISOFIX Child Seat Mounts,YES
+Nissan,Magnite,Visia,Safety,Hill Assist,YES
+Nissan,Magnite,Visia,Safety,360 View Camera,NO
+Nissan,Magnite,Visia,Safety,Global NCAP Safety Rating,5 Star
+Nissan,Magnite,Visia,Safety,Global NCAP Child Safety Rating,3 Star
+Nissan,Magnite,Visia,Entertainment & Communication,Radio,NO
+Nissan,Magnite,Visia,Entertainment & Communication,Wireless Phone Charging,NO
+Nissan,Magnite,Visia,Entertainment & Communication,Bluetooth Connectivity,NO
+Nissan,Magnite,Visia,Entertainment & Communication,Wi-Fi Connectivity,NO
+Nissan,Magnite,Visia,Entertainment & Communication,Touchscreen,NO
+Nissan,Magnite,Visia,Entertainment & Communication,Android Auto,NO
+Nissan,Magnite,Visia,Entertainment & Communication,Apple CarPlay,NO
+Nissan,Magnite,Visia,Entertainment & Communication,Usb Ports,NO
+Nissan,Magnite,Visia,Entertainment & Communication,Speakers,NO
+Nissan,Magnite,Visia,Advance Internet Feature,Remote Vehicle Ignition Start/Stop,NO

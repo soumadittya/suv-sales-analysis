@@ -1,0 +1,102 @@
+company,model,variant,category,feature_name,feature_details
+Citroen,Aircross X,You,Engine & Transmission,Engine Type,PURETECH 82
+Citroen,Aircross X,You,Engine & Transmission,Displacement,1199 cc
+Citroen,Aircross X,You,Engine & Transmission,Max Power,81bhp@5750rpm
+Citroen,Aircross X,You,Engine & Transmission,Max Torque,115Nm@3750rpm
+Citroen,Aircross X,You,Engine & Transmission,No. of Cylinders,3
+Citroen,Aircross X,You,Engine & Transmission,Valves Per Cylinder,4
+Citroen,Aircross X,You,Engine & Transmission,Turbo Charger,NO
+Citroen,Aircross X,You,Engine & Transmission,Transmission Type,Manual
+Citroen,Aircross X,You,Engine & Transmission,Gearbox,5-Speed
+Citroen,Aircross X,You,Engine & Transmission,Drive Type,FWD
+Citroen,Aircross X,You,Fuel & Performance,Fuel Type,Petrol
+Citroen,Aircross X,You,Fuel & Performance,Petrol Mileage ARAI,17.5 kmpl
+Citroen,Aircross X,You,Fuel & Performance,Petrol Fuel Tank Capacity,45 Litres
+Citroen,Aircross X,You,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Citroen,Aircross X,You,Fuel & Performance,Top Speed,160 kmph
+Citroen,Aircross X,You,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Citroen,Aircross X,You,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Citroen,Aircross X,You,"Suspension, Steering & Brakes",Steering Type,Electric
+Citroen,Aircross X,You,"Suspension, Steering & Brakes",Turning Radius,5.4 m
+Citroen,Aircross X,You,"Suspension, Steering & Brakes",Front Brake Type,Ventilated Disc
+Citroen,Aircross X,You,"Suspension, Steering & Brakes",Rear Brake Type,Drum
+Citroen,Aircross X,You,Dimensions & Capacity,Length,4323 mm
+Citroen,Aircross X,You,Dimensions & Capacity,Width,1796 mm
+Citroen,Aircross X,You,Dimensions & Capacity,Height,1665 mm
+Citroen,Aircross X,You,Dimensions & Capacity,Boot Space,444 Litres
+Citroen,Aircross X,You,Dimensions & Capacity,Seating Capacity,5
+Citroen,Aircross X,You,Dimensions & Capacity,Ground Clearance Unladen,200 mm
+Citroen,Aircross X,You,Dimensions & Capacity,Wheel Base,2671 mm
+Citroen,Aircross X,You,Dimensions & Capacity,Front Tread,1534 mm
+Citroen,Aircross X,You,Dimensions & Capacity,Kerb Weight,1135-1160 kg
+Citroen,Aircross X,You,Dimensions & Capacity,Gross Weight,1545-1570 kg
+Citroen,Aircross X,You,Comfort & Convenience,Boot Opening,Manual
+Citroen,Aircross X,You,Comfort & Convenience,Power Steering,YES
+Citroen,Aircross X,You,Comfort & Convenience,Air Conditioner,YES
+Citroen,Aircross X,You,Comfort & Convenience,Heater,YES
+Citroen,Aircross X,You,Comfort & Convenience,Height Adjustable Driver Seat,NO
+Citroen,Aircross X,You,Comfort & Convenience,Ventilated Seats,NO
+Citroen,Aircross X,You,Comfort & Convenience,Automatic Climate Control,NO
+Citroen,Aircross X,You,Comfort & Convenience,Accessory Power Outlet,YES
+Citroen,Aircross X,You,Comfort & Convenience,Adjustable Headrest,NO
+Citroen,Aircross X,You,Comfort & Convenience,Rear Seat Centre Arm Rest,NO
+Citroen,Aircross X,You,Comfort & Convenience,Rear AC Vents,NO
+Citroen,Aircross X,You,Comfort & Convenience,Cruise Control,NO
+Citroen,Aircross X,You,Comfort & Convenience,Parking Sensors,Rear
+Citroen,Aircross X,You,Comfort & Convenience,Foldable Rear Seat,Bench Folding
+Citroen,Aircross X,You,Comfort & Convenience,KeyLess Entry,YES
+Citroen,Aircross X,You,Comfort & Convenience,Engine Start/Stop Button,NO
+Citroen,Aircross X,You,Comfort & Convenience,USB Charger,NO
+Citroen,Aircross X,You,Comfort & Convenience,Gear Shift Indicator,YES
+Citroen,Aircross X,You,Comfort & Convenience,Power Windows,Front & Rear
+Citroen,Aircross X,You,Interior,Leather Wrapped Steering Wheel,NO
+Citroen,Aircross X,You,Interior,Glove Box,YES
+Citroen,Aircross X,You,Interior,Upholstery,Fabric
+Citroen,Aircross X,You,Exterior,Rear Window Wiper,NO
+Citroen,Aircross X,You,Exterior,Rear Window Washer,NO
+Citroen,Aircross X,You,Exterior,Rear Window Defogger,NO
+Citroen,Aircross X,You,Exterior,Wheel Covers,YES
+Citroen,Aircross X,You,Exterior,Alloy Wheels,NO
+Citroen,Aircross X,You,Exterior,Rear Spoiler,YES
+Citroen,Aircross X,You,Exterior,Outside Rear View Mirror Turn Indicators,NO
+Citroen,Aircross X,You,Exterior,Projector Headlamps,NO
+Citroen,Aircross X,You,Exterior,Halogen Headlamps,YES
+Citroen,Aircross X,You,Exterior,Roof Rails,NO
+Citroen,Aircross X,You,Exterior,Fog Lights,NO
+Citroen,Aircross X,You,Exterior,Outside Rear View Mirror (ORVM),Powered
+Citroen,Aircross X,You,Exterior,Tyre Size,205/65 R16
+Citroen,Aircross X,You,Exterior,Tyre Type,Radial Tubeless
+Citroen,Aircross X,You,Exterior,Wheel Size,16 Inch
+Citroen,Aircross X,You,Exterior,LED DRLs,NO
+Citroen,Aircross X,You,Exterior,LED Taillights,YES
+Citroen,Aircross X,You,Safety,Anti-lock Braking System (ABS),YES
+Citroen,Aircross X,You,Safety,Central Locking,YES
+Citroen,Aircross X,You,Safety,Child Safety Locks,YES
+Citroen,Aircross X,You,Safety,No. of Airbags,6
+Citroen,Aircross X,You,Safety,Driver Airbag,YES
+Citroen,Aircross X,You,Safety,Passenger Airbag,YES
+Citroen,Aircross X,You,Safety,Side Airbag,YES
+Citroen,Aircross X,You,Safety,Side Airbag-Rear,NO
+Citroen,Aircross X,You,Safety,Day & Night Rear View Mirror,YES
+Citroen,Aircross X,You,Safety,Electronic Brakeforce Distribution (EBD),YES
+Citroen,Aircross X,You,Safety,Tyre Pressure Monitoring System (TPMS),NO
+Citroen,Aircross X,You,Safety,Engine Immobilizer,YES
+Citroen,Aircross X,You,Safety,Electronic Stability Control (ESC),YES
+Citroen,Aircross X,You,Safety,Rear Camera,NO
+Citroen,Aircross X,You,Safety,ISOFIX Child Seat Mounts,YES
+Citroen,Aircross X,You,Safety,Hill Assist,YES
+Citroen,Aircross X,You,Safety,Bharat NCAP Safety Rating,5 Star
+Citroen,Aircross X,You,Safety,Bharat NCAP Child Safety Rating,4 Star
+Citroen,Aircross X,You,Entertainment & Communication,Radio,NO
+Citroen,Aircross X,You,Entertainment & Communication,Wireless Phone Charging,NO
+Citroen,Aircross X,You,Entertainment & Communication,Bluetooth Connectivity,NO
+Citroen,Aircross X,You,Entertainment & Communication,Touchscreen,NO
+Citroen,Aircross X,You,Entertainment & Communication,Android Auto,NO
+Citroen,Aircross X,You,Entertainment & Communication,Apple CarPlay,NO
+Citroen,Aircross X,You,Entertainment & Communication,Usb Ports,NO
+Citroen,Aircross X,You,Entertainment & Communication,Speakers,NO
+Citroen,Aircross X,You,Advance Internet Feature,In Car Remote Control App,NO
+Citroen,Aircross X,You,Advance Internet Feature,Remote AC On/Off,NO
+Citroen,Aircross X,You,Advance Internet Feature,Remote Door Lock/Unlock,NO
+Citroen,Aircross X,You,Advance Internet Feature,Remote Vehicle Ignition Start/Stop,NO
+Citroen,Aircross X,You,Advance Internet Feature,Geo-fence Alert,NO

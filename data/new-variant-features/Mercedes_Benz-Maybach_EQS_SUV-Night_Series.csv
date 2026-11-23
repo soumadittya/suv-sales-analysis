@@ -1,0 +1,109 @@
+company,model,variant,category,feature_name,feature_details
+Mercedes-Benz,Maybach EQS SUV,Night Series,Engine & Transmission,Battery Capacity,122 kWh
+Mercedes-Benz,Maybach EQS SUV,Night Series,Engine & Transmission,Motor Power,484 kW
+Mercedes-Benz,Maybach EQS SUV,Night Series,Engine & Transmission,Motor Type,Permanent Magnet Synchronous
+Mercedes-Benz,Maybach EQS SUV,Night Series,Engine & Transmission,Max Power,649bhp
+Mercedes-Benz,Maybach EQS SUV,Night Series,Engine & Transmission,Max Torque,955Nm
+Mercedes-Benz,Maybach EQS SUV,Night Series,Engine & Transmission,Range,611 km
+Mercedes-Benz,Maybach EQS SUV,Night Series,Engine & Transmission,Battery Type,Lithium-ion
+Mercedes-Benz,Maybach EQS SUV,Night Series,Engine & Transmission,Charging Time (A.C),6.25min | 22 kW (0-100%)
+Mercedes-Benz,Maybach EQS SUV,Night Series,Engine & Transmission,Charging Time (D.C),31 min| DC-200 kW(10-80%)
+Mercedes-Benz,Maybach EQS SUV,Night Series,Engine & Transmission,Regenerative Braking,YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Engine & Transmission,Charging Port,CCS-II
+Mercedes-Benz,Maybach EQS SUV,Night Series,Engine & Transmission,Transmission Type,Automatic
+Mercedes-Benz,Maybach EQS SUV,Night Series,Engine & Transmission,Drive Type,AWD
+Mercedes-Benz,Maybach EQS SUV,Night Series,Fuel & Performance,Fuel Type,Electric
+Mercedes-Benz,Maybach EQS SUV,Night Series,Fuel & Performance,Emission Norm Compliance,ZEV
+Mercedes-Benz,Maybach EQS SUV,Night Series,Fuel & Performance,Top Speed,210 kmph
+Mercedes-Benz,Maybach EQS SUV,Night Series,Fuel & Performance,Acceleration 0-100kmph,4.4 s
+Mercedes-Benz,Maybach EQS SUV,Night Series,Charging,Charging Time,31 min| DC-200 kW(10-80%)
+Mercedes-Benz,Maybach EQS SUV,Night Series,"Suspension, Steering & Brakes",Front Suspension,Air suspension
+Mercedes-Benz,Maybach EQS SUV,Night Series,"Suspension, Steering & Brakes",Rear Suspension,Air suspension
+Mercedes-Benz,Maybach EQS SUV,Night Series,"Suspension, Steering & Brakes",Steering Type,Electric
+Mercedes-Benz,Maybach EQS SUV,Night Series,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Mercedes-Benz,Maybach EQS SUV,Night Series,"Suspension, Steering & Brakes",Turning Radius,11.9 m
+Mercedes-Benz,Maybach EQS SUV,Night Series,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Mercedes-Benz,Maybach EQS SUV,Night Series,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Mercedes-Benz,Maybach EQS SUV,Night Series,Dimensions & Capacity,Length,5125 mm
+Mercedes-Benz,Maybach EQS SUV,Night Series,Dimensions & Capacity,Width,2157 mm
+Mercedes-Benz,Maybach EQS SUV,Night Series,Dimensions & Capacity,Height,1721 mm
+Mercedes-Benz,Maybach EQS SUV,Night Series,Dimensions & Capacity,Boot Space,440 Litres
+Mercedes-Benz,Maybach EQS SUV,Night Series,Dimensions & Capacity,Seating Capacity,4
+Mercedes-Benz,Maybach EQS SUV,Night Series,Dimensions & Capacity,Wheel Base,3210 mm
+Mercedes-Benz,Maybach EQS SUV,Night Series,Dimensions & Capacity,Kerb Weight,3075 kg
+Mercedes-Benz,Maybach EQS SUV,Night Series,Comfort & Convenience,Power Steering,YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Comfort & Convenience,Air Conditioner,YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Comfort & Convenience,Heater,YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Comfort & Convenience,Adjustable Steering,Powered Adjustment
+Mercedes-Benz,Maybach EQS SUV,Night Series,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Comfort & Convenience,Automatic Climate Control,YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Comfort & Convenience,Air Quality Control,YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Comfort & Convenience,Accessory Power Outlet,YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Mercedes-Benz,Maybach EQS SUV,Night Series,Comfort & Convenience,Adjustable Headrest,YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Comfort & Convenience,Rear AC Vents,YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Comfort & Convenience,Lumbar Support,YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Comfort & Convenience,Cruise Control,YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Comfort & Convenience,Parking Sensors,Front & Rear
+Mercedes-Benz,Maybach EQS SUV,Night Series,Comfort & Convenience,Real-Time Vehicle Tracking,YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Comfort & Convenience,KeyLess Entry,YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Comfort & Convenience,Engine Start/Stop Button,YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Comfort & Convenience,Voice Commands,YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Comfort & Convenience,USB Charger,Front & Rear
+Mercedes-Benz,Maybach EQS SUV,Night Series,Comfort & Convenience,Glove Box light,YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Comfort & Convenience,Follow Me Home Headlamps,YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Comfort & Convenience,Power Windows,Front & Rear
+Mercedes-Benz,Maybach EQS SUV,Night Series,Comfort & Convenience,Cup Holders,Front & Rear
+Mercedes-Benz,Maybach EQS SUV,Night Series,Interior,Leather Wrapped Steering Wheel,YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Interior,Glove Box,YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Interior,Digital Cluster,YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Interior,Upholstery,Leather
+Mercedes-Benz,Maybach EQS SUV,Night Series,Exterior,Adjustable Headlamps,YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Exterior,Rain Sensing Wiper,YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Exterior,Rear Window Wiper,YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Exterior,Rear Window Washer,YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Exterior,Rear Window Defogger,YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Exterior,Wheel Covers,NO
+Mercedes-Benz,Maybach EQS SUV,Night Series,Exterior,Alloy Wheels,YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Exterior,Rear Spoiler,YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Exterior,Projector Headlamps,YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Exterior,Automatic Headlamps,YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Exterior,Sunroof,Panoramic
+Mercedes-Benz,Maybach EQS SUV,Night Series,Exterior,Tyre Type,Radial Tubeless
+Mercedes-Benz,Maybach EQS SUV,Night Series,Exterior,LED DRLs,YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Exterior,LED Headlamps,YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Exterior,LED Taillights,YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Exterior,LED Fog Lamps,YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Safety,Anti-lock Braking System (ABS),YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Safety,Brake Assist,YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Safety,Central Locking,YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Safety,Child Safety Locks,YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Safety,Anti-Theft Alarm,YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Safety,No. of Airbags,11
+Mercedes-Benz,Maybach EQS SUV,Night Series,Safety,Driver Airbag,YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Safety,Passenger Airbag,YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Safety,Side Airbag,YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Safety,Side Airbag-Rear,YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Safety,Day & Night Rear View Mirror,YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Safety,Electronic Brakeforce Distribution (EBD),YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Safety,Traction Control,YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Safety,Electronic Stability Control (ESC),YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Safety,Rear Camera,With Guidedlines
+Mercedes-Benz,Maybach EQS SUV,Night Series,Safety,Anti-Theft Device,YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Safety,Anti-Pinch Power Windows,All Windows
+Mercedes-Benz,Maybach EQS SUV,Night Series,Safety,ISOFIX Child Seat Mounts,YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Safety,Hill Descent Control,YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Safety,Hill Assist,YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Safety,360 View Camera,YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Entertainment & Communication,Radio,YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Entertainment & Communication,Wireless Phone Charging,YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Entertainment & Communication,Bluetooth Connectivity,YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Entertainment & Communication,Touchscreen,YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Entertainment & Communication,Android Auto,YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Entertainment & Communication,Apple CarPlay,YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Entertainment & Communication,Usb Ports,YES
+Mercedes-Benz,Maybach EQS SUV,Night Series,Entertainment & Communication,Speakers,Front & Rear
+Mercedes-Benz,Maybach EQS SUV,Night Series,ADAS Feature,Autonomous Parking,Full

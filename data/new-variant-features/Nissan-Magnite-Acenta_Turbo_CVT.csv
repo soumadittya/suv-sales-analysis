@@ -1,0 +1,116 @@
+company,model,variant,category,feature_name,feature_details
+Nissan,Magnite,Acenta Turbo CVT,Engine & Transmission,Engine Type,1.0 HRA0 TURBO
+Nissan,Magnite,Acenta Turbo CVT,Engine & Transmission,Displacement,999 cc
+Nissan,Magnite,Acenta Turbo CVT,Engine & Transmission,Max Power,99bhp@5000rpm
+Nissan,Magnite,Acenta Turbo CVT,Engine & Transmission,Max Torque,152Nm@2200-4400rpm
+Nissan,Magnite,Acenta Turbo CVT,Engine & Transmission,No. of Cylinders,3
+Nissan,Magnite,Acenta Turbo CVT,Engine & Transmission,Valves Per Cylinder,4
+Nissan,Magnite,Acenta Turbo CVT,Engine & Transmission,Turbo Charger,YES
+Nissan,Magnite,Acenta Turbo CVT,Engine & Transmission,Transmission Type,Automatic
+Nissan,Magnite,Acenta Turbo CVT,Engine & Transmission,Gearbox,CVT
+Nissan,Magnite,Acenta Turbo CVT,Engine & Transmission,Drive Type,FWD
+Nissan,Magnite,Acenta Turbo CVT,Fuel & Performance,Fuel Type,Petrol
+Nissan,Magnite,Acenta Turbo CVT,Fuel & Performance,Petrol Mileage ARAI,17.9 kmpl
+Nissan,Magnite,Acenta Turbo CVT,Fuel & Performance,Petrol Fuel Tank Capacity,40 Litres
+Nissan,Magnite,Acenta Turbo CVT,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Nissan,Magnite,Acenta Turbo CVT,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Nissan,Magnite,Acenta Turbo CVT,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Nissan,Magnite,Acenta Turbo CVT,"Suspension, Steering & Brakes",Shock Absorbers Type,Double Acting
+Nissan,Magnite,Acenta Turbo CVT,"Suspension, Steering & Brakes",Steering Type,Electric
+Nissan,Magnite,Acenta Turbo CVT,"Suspension, Steering & Brakes",Steering Column,Tilt
+Nissan,Magnite,Acenta Turbo CVT,"Suspension, Steering & Brakes",Turning Radius,5 m
+Nissan,Magnite,Acenta Turbo CVT,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Nissan,Magnite,Acenta Turbo CVT,"Suspension, Steering & Brakes",Rear Brake Type,Drum
+Nissan,Magnite,Acenta Turbo CVT,Dimensions & Capacity,Length,3994 mm
+Nissan,Magnite,Acenta Turbo CVT,Dimensions & Capacity,Width,1758 mm
+Nissan,Magnite,Acenta Turbo CVT,Dimensions & Capacity,Height,1572 mm
+Nissan,Magnite,Acenta Turbo CVT,Dimensions & Capacity,Boot Space,336 Litres
+Nissan,Magnite,Acenta Turbo CVT,Dimensions & Capacity,Seating Capacity,5
+Nissan,Magnite,Acenta Turbo CVT,Dimensions & Capacity,Ground Clearance Unladen,205 mm
+Nissan,Magnite,Acenta Turbo CVT,Dimensions & Capacity,Wheel Base,2500 mm
+Nissan,Magnite,Acenta Turbo CVT,Dimensions & Capacity,Kerb Weight,1103 kg
+Nissan,Magnite,Acenta Turbo CVT,Dimensions & Capacity,Gross Weight,1486 kg
+Nissan,Magnite,Acenta Turbo CVT,Comfort & Convenience,Boot Opening,Manual
+Nissan,Magnite,Acenta Turbo CVT,Comfort & Convenience,Power Steering,YES
+Nissan,Magnite,Acenta Turbo CVT,Comfort & Convenience,Air Conditioner,YES
+Nissan,Magnite,Acenta Turbo CVT,Comfort & Convenience,Heater,YES
+Nissan,Magnite,Acenta Turbo CVT,Comfort & Convenience,Adjustable Steering,Height only
+Nissan,Magnite,Acenta Turbo CVT,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Nissan,Magnite,Acenta Turbo CVT,Comfort & Convenience,Automatic Climate Control,YES
+Nissan,Magnite,Acenta Turbo CVT,Comfort & Convenience,Air Quality Control,YES
+Nissan,Magnite,Acenta Turbo CVT,Comfort & Convenience,Accessory Power Outlet,YES
+Nissan,Magnite,Acenta Turbo CVT,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Nissan,Magnite,Acenta Turbo CVT,Comfort & Convenience,Adjustable Headrest,YES
+Nissan,Magnite,Acenta Turbo CVT,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Nissan,Magnite,Acenta Turbo CVT,Comfort & Convenience,Rear AC Vents,NO
+Nissan,Magnite,Acenta Turbo CVT,Comfort & Convenience,Cruise Control,NO
+Nissan,Magnite,Acenta Turbo CVT,Comfort & Convenience,Parking Sensors,Rear
+Nissan,Magnite,Acenta Turbo CVT,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Nissan,Magnite,Acenta Turbo CVT,Comfort & Convenience,KeyLess Entry,YES
+Nissan,Magnite,Acenta Turbo CVT,Comfort & Convenience,Engine Start/Stop Button,YES
+Nissan,Magnite,Acenta Turbo CVT,Comfort & Convenience,Voice Commands,NO
+Nissan,Magnite,Acenta Turbo CVT,Comfort & Convenience,USB Charger,NO
+Nissan,Magnite,Acenta Turbo CVT,Comfort & Convenience,Central Console Armrest,NO
+Nissan,Magnite,Acenta Turbo CVT,Comfort & Convenience,Gear Shift Indicator,NO
+Nissan,Magnite,Acenta Turbo CVT,Comfort & Convenience,Glove Box light,NO
+Nissan,Magnite,Acenta Turbo CVT,Comfort & Convenience,Power Windows,Front & Rear
+Nissan,Magnite,Acenta Turbo CVT,Comfort & Convenience,Cup Holders,Front & Rear
+Nissan,Magnite,Acenta Turbo CVT,Interior,Leather Wrapped Steering Wheel,NO
+Nissan,Magnite,Acenta Turbo CVT,Interior,Glove Box,NO
+Nissan,Magnite,Acenta Turbo CVT,Interior,Digital Cluster,YES
+Nissan,Magnite,Acenta Turbo CVT,Interior,Digital Cluster Size,3.5
+Nissan,Magnite,Acenta Turbo CVT,Interior,Upholstery,Fabric
+Nissan,Magnite,Acenta Turbo CVT,Exterior,Adjustable Headlamps,YES
+Nissan,Magnite,Acenta Turbo CVT,Exterior,Rear Window Wiper,YES
+Nissan,Magnite,Acenta Turbo CVT,Exterior,Rear Window Washer,YES
+Nissan,Magnite,Acenta Turbo CVT,Exterior,Rear Window Defogger,YES
+Nissan,Magnite,Acenta Turbo CVT,Exterior,Wheel Covers,YES
+Nissan,Magnite,Acenta Turbo CVT,Exterior,Alloy Wheels,NO
+Nissan,Magnite,Acenta Turbo CVT,Exterior,Rear Spoiler,YES
+Nissan,Magnite,Acenta Turbo CVT,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Nissan,Magnite,Acenta Turbo CVT,Exterior,Projector Headlamps,NO
+Nissan,Magnite,Acenta Turbo CVT,Exterior,Roof Rails,YES
+Nissan,Magnite,Acenta Turbo CVT,Exterior,Fog Lights,NO
+Nissan,Magnite,Acenta Turbo CVT,Exterior,Antenna,Shark Fin
+Nissan,Magnite,Acenta Turbo CVT,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Nissan,Magnite,Acenta Turbo CVT,Exterior,Tyre Size,195/60R16
+Nissan,Magnite,Acenta Turbo CVT,Exterior,Tyre Type,Tubeless Radial
+Nissan,Magnite,Acenta Turbo CVT,Exterior,Wheel Size,16 Inch
+Nissan,Magnite,Acenta Turbo CVT,Exterior,LED DRLs,NO
+Nissan,Magnite,Acenta Turbo CVT,Exterior,LED Headlamps,NO
+Nissan,Magnite,Acenta Turbo CVT,Exterior,LED Taillights,NO
+Nissan,Magnite,Acenta Turbo CVT,Exterior,LED Fog Lamps,NO
+Nissan,Magnite,Acenta Turbo CVT,Safety,Anti-lock Braking System (ABS),YES
+Nissan,Magnite,Acenta Turbo CVT,Safety,Brake Assist,YES
+Nissan,Magnite,Acenta Turbo CVT,Safety,Central Locking,YES
+Nissan,Magnite,Acenta Turbo CVT,Safety,Child Safety Locks,YES
+Nissan,Magnite,Acenta Turbo CVT,Safety,Anti-Theft Alarm,YES
+Nissan,Magnite,Acenta Turbo CVT,Safety,No. of Airbags,6
+Nissan,Magnite,Acenta Turbo CVT,Safety,Driver Airbag,YES
+Nissan,Magnite,Acenta Turbo CVT,Safety,Passenger Airbag,YES
+Nissan,Magnite,Acenta Turbo CVT,Safety,Side Airbag,YES
+Nissan,Magnite,Acenta Turbo CVT,Safety,Side Airbag-Rear,NO
+Nissan,Magnite,Acenta Turbo CVT,Safety,Day & Night Rear View Mirror,YES
+Nissan,Magnite,Acenta Turbo CVT,Safety,Electronic Brakeforce Distribution (EBD),YES
+Nissan,Magnite,Acenta Turbo CVT,Safety,Traction Control,YES
+Nissan,Magnite,Acenta Turbo CVT,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Nissan,Magnite,Acenta Turbo CVT,Safety,Engine Immobilizer,YES
+Nissan,Magnite,Acenta Turbo CVT,Safety,Electronic Stability Control (ESC),YES
+Nissan,Magnite,Acenta Turbo CVT,Safety,Rear Camera,With Guidedlines
+Nissan,Magnite,Acenta Turbo CVT,Safety,Anti-Theft Device,YES
+Nissan,Magnite,Acenta Turbo CVT,Safety,Anti-Pinch Power Windows,Driver's Window
+Nissan,Magnite,Acenta Turbo CVT,Safety,ISOFIX Child Seat Mounts,YES
+Nissan,Magnite,Acenta Turbo CVT,Safety,Hill Assist,YES
+Nissan,Magnite,Acenta Turbo CVT,Safety,360 View Camera,NO
+Nissan,Magnite,Acenta Turbo CVT,Entertainment & Communication,Radio,YES
+Nissan,Magnite,Acenta Turbo CVT,Entertainment & Communication,Wireless Phone Charging,NO
+Nissan,Magnite,Acenta Turbo CVT,Entertainment & Communication,Bluetooth Connectivity,YES
+Nissan,Magnite,Acenta Turbo CVT,Entertainment & Communication,Wi-Fi Connectivity,YES
+Nissan,Magnite,Acenta Turbo CVT,Entertainment & Communication,Touchscreen,YES
+Nissan,Magnite,Acenta Turbo CVT,Entertainment & Communication,Touchscreen Size,9 inch
+Nissan,Magnite,Acenta Turbo CVT,Entertainment & Communication,Android Auto,YES
+Nissan,Magnite,Acenta Turbo CVT,Entertainment & Communication,Apple CarPlay,YES
+Nissan,Magnite,Acenta Turbo CVT,Entertainment & Communication,No. of Speakers,4
+Nissan,Magnite,Acenta Turbo CVT,Entertainment & Communication,Usb Ports,NO
+Nissan,Magnite,Acenta Turbo CVT,Entertainment & Communication,Speakers,Front & Rear
+Nissan,Magnite,Acenta Turbo CVT,Advance Internet Feature,Remote Vehicle Ignition Start/Stop,NO

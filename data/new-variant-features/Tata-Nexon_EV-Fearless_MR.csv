@@ -1,0 +1,139 @@
+company,model,variant,category,feature_name,feature_details
+Tata,Nexon EV,Fearless MR,Engine & Transmission,Battery Capacity,30 kWh
+Tata,Nexon EV,Fearless MR,Engine & Transmission,Motor Power,95 kW
+Tata,Nexon EV,Fearless MR,Engine & Transmission,Motor Type,Permanent Magnet Synchronous AC Motor
+Tata,Nexon EV,Fearless MR,Engine & Transmission,Max Power,127bhp
+Tata,Nexon EV,Fearless MR,Engine & Transmission,Max Torque,215Nm
+Tata,Nexon EV,Fearless MR,Engine & Transmission,Range,275 km
+Tata,Nexon EV,Fearless MR,Engine & Transmission,Battery Warranty,"8 years/1,60,000 km"
+Tata,Nexon EV,Fearless MR,Engine & Transmission,Battery Type,Lithium-Ion
+Tata,Nexon EV,Fearless MR,Engine & Transmission,Charging Time (A.C),7.2kW - 10 to 100% - 4 hrs 18 mins
+Tata,Nexon EV,Fearless MR,Engine & Transmission,Charging Time (D.C),50kW - 10 to 80% - 56 mins
+Tata,Nexon EV,Fearless MR,Engine & Transmission,Regenerative Braking,YES
+Tata,Nexon EV,Fearless MR,Engine & Transmission,Regenerative Braking Levels,4
+Tata,Nexon EV,Fearless MR,Engine & Transmission,Charging Port,CCS-II
+Tata,Nexon EV,Fearless MR,Engine & Transmission,Charging Options,"3.3 kW AC Wall Box, 7.2 kW AC Wall Box, 50 kW DC Fast Charger, 15A plug point"
+Tata,Nexon EV,Fearless MR,Engine & Transmission,Charger Type,3.3 kW AC Wall Box
+Tata,Nexon EV,Fearless MR,Engine & Transmission,Charging Time (15 A Plug Point),10 to 100% - 10 hrs 30 mins
+Tata,Nexon EV,Fearless MR,Engine & Transmission,Transmission Type,Automatic
+Tata,Nexon EV,Fearless MR,Engine & Transmission,Gearbox,1-Speed
+Tata,Nexon EV,Fearless MR,Engine & Transmission,Drive Type,FWD
+Tata,Nexon EV,Fearless MR,Fuel & Performance,Fuel Type,Electric
+Tata,Nexon EV,Fearless MR,Fuel & Performance,Emission Norm Compliance,ZEV
+Tata,Nexon EV,Fearless MR,Fuel & Performance,Acceleration 0-100kmph,9.2 s
+Tata,Nexon EV,Fearless MR,Charging,Charging Time,50kW - 10 to 80% - 56 mins
+Tata,Nexon EV,Fearless MR,Charging,Fast Charging,YES
+Tata,Nexon EV,Fearless MR,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Tata,Nexon EV,Fearless MR,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Tata,Nexon EV,Fearless MR,"Suspension, Steering & Brakes",Steering Type,Electric
+Tata,Nexon EV,Fearless MR,"Suspension, Steering & Brakes",Turning Radius,5.3 m
+Tata,Nexon EV,Fearless MR,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Tata,Nexon EV,Fearless MR,"Suspension, Steering & Brakes",Rear Brake Type,Drum
+Tata,Nexon EV,Fearless MR,Dimensions & Capacity,Length,3995 mm
+Tata,Nexon EV,Fearless MR,Dimensions & Capacity,Width,1802 mm
+Tata,Nexon EV,Fearless MR,Dimensions & Capacity,Height,1625 mm
+Tata,Nexon EV,Fearless MR,Dimensions & Capacity,Boot Space,350 Litres
+Tata,Nexon EV,Fearless MR,Dimensions & Capacity,Seating Capacity,5
+Tata,Nexon EV,Fearless MR,Dimensions & Capacity,Ground Clearance Unladen,205 mm
+Tata,Nexon EV,Fearless MR,Dimensions & Capacity,Wheel Base,2498 mm
+Tata,Nexon EV,Fearless MR,Comfort & Convenience,Boot Opening,Electronic
+Tata,Nexon EV,Fearless MR,Comfort & Convenience,Power Steering,YES
+Tata,Nexon EV,Fearless MR,Comfort & Convenience,Air Conditioner,YES
+Tata,Nexon EV,Fearless MR,Comfort & Convenience,Heater,YES
+Tata,Nexon EV,Fearless MR,Comfort & Convenience,Adjustable Steering,Height only
+Tata,Nexon EV,Fearless MR,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Tata,Nexon EV,Fearless MR,Comfort & Convenience,Ventilated Seats,NO
+Tata,Nexon EV,Fearless MR,Comfort & Convenience,Automatic Climate Control,YES
+Tata,Nexon EV,Fearless MR,Comfort & Convenience,Air Quality Control,NO
+Tata,Nexon EV,Fearless MR,Comfort & Convenience,Accessory Power Outlet,YES
+Tata,Nexon EV,Fearless MR,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Tata,Nexon EV,Fearless MR,Comfort & Convenience,Adjustable Headrest,YES
+Tata,Nexon EV,Fearless MR,Comfort & Convenience,Rear Seat Centre Arm Rest,NO
+Tata,Nexon EV,Fearless MR,Comfort & Convenience,Rear AC Vents,YES
+Tata,Nexon EV,Fearless MR,Comfort & Convenience,Cruise Control,NO
+Tata,Nexon EV,Fearless MR,Comfort & Convenience,Parking Sensors,Rear
+Tata,Nexon EV,Fearless MR,Comfort & Convenience,Foldable Rear Seat,Bench Folding
+Tata,Nexon EV,Fearless MR,Comfort & Convenience,KeyLess Entry,YES
+Tata,Nexon EV,Fearless MR,Comfort & Convenience,Engine Start/Stop Button,YES
+Tata,Nexon EV,Fearless MR,Comfort & Convenience,Voice Commands,YES
+Tata,Nexon EV,Fearless MR,Comfort & Convenience,Paddle Shifters,YES
+Tata,Nexon EV,Fearless MR,Comfort & Convenience,USB Charger,Front & Rear
+Tata,Nexon EV,Fearless MR,Comfort & Convenience,Central Console Armrest,NO
+Tata,Nexon EV,Fearless MR,Comfort & Convenience,Drive Modes,3
+Tata,Nexon EV,Fearless MR,Comfort & Convenience,Glove Box light,YES
+Tata,Nexon EV,Fearless MR,Comfort & Convenience,Voice assisted sunroof,NO
+Tata,Nexon EV,Fearless MR,Comfort & Convenience,Vechicle to Vehicle Charging,NO
+Tata,Nexon EV,Fearless MR,Comfort & Convenience,Vehicle to Load Charging,NO
+Tata,Nexon EV,Fearless MR,Comfort & Convenience,Drive Mode Types,Eco-City-Sport
+Tata,Nexon EV,Fearless MR,Comfort & Convenience,Power Windows,Front & Rear
+Tata,Nexon EV,Fearless MR,Interior,Glove Box,YES
+Tata,Nexon EV,Fearless MR,Interior,Additional Features,Rear parcel tray
+Tata,Nexon EV,Fearless MR,Interior,Digital Cluster,YES
+Tata,Nexon EV,Fearless MR,Interior,Digital Cluster Size,10.25
+Tata,Nexon EV,Fearless MR,Interior,Upholstery,Fabric
+Tata,Nexon EV,Fearless MR,Exterior,Adjustable Headlamps,YES
+Tata,Nexon EV,Fearless MR,Exterior,Rain Sensing Wiper,NO
+Tata,Nexon EV,Fearless MR,Exterior,Rear Window Wiper,YES
+Tata,Nexon EV,Fearless MR,Exterior,Rear Window Washer,YES
+Tata,Nexon EV,Fearless MR,Exterior,Rear Window Defogger,YES
+Tata,Nexon EV,Fearless MR,Exterior,Rear Spoiler,YES
+Tata,Nexon EV,Fearless MR,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Tata,Nexon EV,Fearless MR,Exterior,Projector Headlamps,NO
+Tata,Nexon EV,Fearless MR,Exterior,Cornering Foglamps,YES
+Tata,Nexon EV,Fearless MR,Exterior,Roof Rails,YES
+Tata,Nexon EV,Fearless MR,Exterior,Automatic Headlamps,NO
+Tata,Nexon EV,Fearless MR,Exterior,Fog Lights,Front
+Tata,Nexon EV,Fearless MR,Exterior,Antenna,Shark fin
+Tata,Nexon EV,Fearless MR,Exterior,Sunroof,NO
+Tata,Nexon EV,Fearless MR,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Tata,Nexon EV,Fearless MR,Exterior,Wheels Type,Alloy
+Tata,Nexon EV,Fearless MR,Exterior,Tyre Size,215/60 R16
+Tata,Nexon EV,Fearless MR,Exterior,Tyre Type,Tubeless Radial
+Tata,Nexon EV,Fearless MR,Exterior,Wheel Size,16 Inch
+Tata,Nexon EV,Fearless MR,Exterior,LED DRLs,YES
+Tata,Nexon EV,Fearless MR,Exterior,LED Headlamps,YES
+Tata,Nexon EV,Fearless MR,Exterior,LED Taillights,YES
+Tata,Nexon EV,Fearless MR,Exterior,LED Fog Lamps,YES
+Tata,Nexon EV,Fearless MR,Safety,Anti-lock Braking System (ABS),YES
+Tata,Nexon EV,Fearless MR,Safety,Brake Assist,YES
+Tata,Nexon EV,Fearless MR,Safety,Central Locking,YES
+Tata,Nexon EV,Fearless MR,Safety,Child Safety Locks,YES
+Tata,Nexon EV,Fearless MR,Safety,No. of Airbags,6
+Tata,Nexon EV,Fearless MR,Safety,Driver Airbag,YES
+Tata,Nexon EV,Fearless MR,Safety,Passenger Airbag,YES
+Tata,Nexon EV,Fearless MR,Safety,Side Airbag,YES
+Tata,Nexon EV,Fearless MR,Safety,Side Airbag-Rear,NO
+Tata,Nexon EV,Fearless MR,Safety,Day & Night Rear View Mirror,YES
+Tata,Nexon EV,Fearless MR,Safety,Electronic Brakeforce Distribution (EBD),YES
+Tata,Nexon EV,Fearless MR,Safety,Traction Control,YES
+Tata,Nexon EV,Fearless MR,Safety,Tyre Pressure Monitoring System (TPMS),NO
+Tata,Nexon EV,Fearless MR,Safety,Engine Immobilizer,YES
+Tata,Nexon EV,Fearless MR,Safety,Electronic Stability Control (ESC),YES
+Tata,Nexon EV,Fearless MR,Safety,Rear Camera,With Guidedlines
+Tata,Nexon EV,Fearless MR,Safety,ISOFIX Child Seat Mounts,YES
+Tata,Nexon EV,Fearless MR,Safety,Hill Assist,YES
+Tata,Nexon EV,Fearless MR,Safety,360 View Camera,NO
+Tata,Nexon EV,Fearless MR,Entertainment & Communication,Radio,YES
+Tata,Nexon EV,Fearless MR,Entertainment & Communication,Wireless Phone Charging,NO
+Tata,Nexon EV,Fearless MR,Entertainment & Communication,Bluetooth Connectivity,YES
+Tata,Nexon EV,Fearless MR,Entertainment & Communication,Wi-Fi Connectivity,YES
+Tata,Nexon EV,Fearless MR,Entertainment & Communication,Touchscreen,YES
+Tata,Nexon EV,Fearless MR,Entertainment & Communication,Touchscreen Size,10.25 inch
+Tata,Nexon EV,Fearless MR,Entertainment & Communication,Android Auto,YES
+Tata,Nexon EV,Fearless MR,Entertainment & Communication,Apple CarPlay,YES
+Tata,Nexon EV,Fearless MR,Entertainment & Communication,No. of Speakers,4
+Tata,Nexon EV,Fearless MR,Entertainment & Communication,Usb Ports,YES
+Tata,Nexon EV,Fearless MR,Entertainment & Communication,Tweeters,4
+Tata,Nexon EV,Fearless MR,Entertainment & Communication,Additional Features,WIRELESS ANDROID AUTO APPLE CARPLAY
+Tata,Nexon EV,Fearless MR,Entertainment & Communication,Speakers,Front & Rear
+Tata,Nexon EV,Fearless MR,ADAS Feature,Blind Spot Monitor,NO
+Tata,Nexon EV,Fearless MR,Advance Internet Feature,Inbuilt Assistant,YES
+Tata,Nexon EV,Fearless MR,Advance Internet Feature,Navigation with Live Traffic,YES
+Tata,Nexon EV,Fearless MR,Advance Internet Feature,Over the Air (OTA) Updates,YES
+Tata,Nexon EV,Fearless MR,Advance Internet Feature,Google / Alexa Connectivity,YES
+Tata,Nexon EV,Fearless MR,Advance Internet Feature,In Car Remote Control App,YES
+Tata,Nexon EV,Fearless MR,Advance Internet Feature,Smartwatch App,YES
+Tata,Nexon EV,Fearless MR,Advance Internet Feature,Remote AC On/Off,YES
+Tata,Nexon EV,Fearless MR,Advance Internet Feature,Remote Door Lock/Unlock,YES
+Tata,Nexon EV,Fearless MR,Advance Internet Feature,SOS / Emergency Assistance,NO
+Tata,Nexon EV,Fearless MR,Advance Internet Feature,Inbuilt APPs,iRA.ev

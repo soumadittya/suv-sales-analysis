@@ -1,0 +1,129 @@
+company,model,variant,category,feature_name,feature_details
+Hyundai,IONIQ 5,Long Range RWD,Engine & Transmission,Battery Capacity,84 kWh
+Hyundai,IONIQ 5,Long Range RWD,Engine & Transmission,Motor Power,160 kW
+Hyundai,IONIQ 5,Long Range RWD,Engine & Transmission,Motor Type,Permanent magnet synchronous
+Hyundai,IONIQ 5,Long Range RWD,Engine & Transmission,Max Power,225bhp
+Hyundai,IONIQ 5,Long Range RWD,Engine & Transmission,Range,690 km
+Hyundai,IONIQ 5,Long Range RWD,Engine & Transmission,Battery Warranty,8 Years or 160000 km
+Hyundai,IONIQ 5,Long Range RWD,Engine & Transmission,Battery Type,Lithium-Ion
+Hyundai,IONIQ 5,Long Range RWD,Engine & Transmission,Charging Time (A.C),7H 35Min-11 kW AC-(10-100%)
+Hyundai,IONIQ 5,Long Range RWD,Engine & Transmission,Charging Time (D.C),18Min-350 kW DC-(10-80%)
+Hyundai,IONIQ 5,Long Range RWD,Engine & Transmission,Regenerative Braking,YES
+Hyundai,IONIQ 5,Long Range RWD,Engine & Transmission,Charging Port,CCS-II
+Hyundai,IONIQ 5,Long Range RWD,Engine & Transmission,Charging Options,11 kW AC | 350 kW DC
+Hyundai,IONIQ 5,Long Range RWD,Engine & Transmission,Charger Type,2.8 kW AC | 11 kW AC Wall Box Charger
+Hyundai,IONIQ 5,Long Range RWD,Engine & Transmission,Transmission Type,Automatic
+Hyundai,IONIQ 5,Long Range RWD,Engine & Transmission,Gearbox,1-Speed
+Hyundai,IONIQ 5,Long Range RWD,Engine & Transmission,Drive Type,RWD
+Hyundai,IONIQ 5,Long Range RWD,Fuel & Performance,Fuel Type,Electric
+Hyundai,IONIQ 5,Long Range RWD,Fuel & Performance,Emission Norm Compliance,ZEV
+Hyundai,IONIQ 5,Long Range RWD,Charging,Fast Charging,YES
+Hyundai,IONIQ 5,Long Range RWD,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Hyundai,IONIQ 5,Long Range RWD,"Suspension, Steering & Brakes",Rear Suspension,Multi-link suspension
+Hyundai,IONIQ 5,Long Range RWD,"Suspension, Steering & Brakes",Steering Type,Electric
+Hyundai,IONIQ 5,Long Range RWD,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Hyundai,IONIQ 5,Long Range RWD,"Suspension, Steering & Brakes",Steering Gear Type,Rack & Pinion
+Hyundai,IONIQ 5,Long Range RWD,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Hyundai,IONIQ 5,Long Range RWD,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Hyundai,IONIQ 5,Long Range RWD,Dimensions & Capacity,Length,4655 mm
+Hyundai,IONIQ 5,Long Range RWD,Dimensions & Capacity,Width,1890 mm
+Hyundai,IONIQ 5,Long Range RWD,Dimensions & Capacity,Height,1625 mm
+Hyundai,IONIQ 5,Long Range RWD,Dimensions & Capacity,Seating Capacity,5
+Hyundai,IONIQ 5,Long Range RWD,Dimensions & Capacity,Wheel Base,3000 mm
+Hyundai,IONIQ 5,Long Range RWD,Comfort & Convenience,Boot Opening,Hands-Free
+Hyundai,IONIQ 5,Long Range RWD,Comfort & Convenience,Power Steering,YES
+Hyundai,IONIQ 5,Long Range RWD,Comfort & Convenience,Air Conditioner,YES
+Hyundai,IONIQ 5,Long Range RWD,Comfort & Convenience,Heater,YES
+Hyundai,IONIQ 5,Long Range RWD,Comfort & Convenience,Adjustable Steering,Height & Reach
+Hyundai,IONIQ 5,Long Range RWD,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Hyundai,IONIQ 5,Long Range RWD,Comfort & Convenience,Ventilated Seats,YES
+Hyundai,IONIQ 5,Long Range RWD,Comfort & Convenience,Electric Adjustable Seats,Front
+Hyundai,IONIQ 5,Long Range RWD,Comfort & Convenience,Automatic Climate Control,YES
+Hyundai,IONIQ 5,Long Range RWD,Comfort & Convenience,Accessory Power Outlet,YES
+Hyundai,IONIQ 5,Long Range RWD,Comfort & Convenience,Adjustable Headrest,YES
+Hyundai,IONIQ 5,Long Range RWD,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Hyundai,IONIQ 5,Long Range RWD,Comfort & Convenience,Rear AC Vents,YES
+Hyundai,IONIQ 5,Long Range RWD,Comfort & Convenience,Lumbar Support,YES
+Hyundai,IONIQ 5,Long Range RWD,Comfort & Convenience,Cruise Control,YES
+Hyundai,IONIQ 5,Long Range RWD,Comfort & Convenience,Parking Sensors,Front & Rear
+Hyundai,IONIQ 5,Long Range RWD,Comfort & Convenience,KeyLess Entry,YES
+Hyundai,IONIQ 5,Long Range RWD,Comfort & Convenience,Engine Start/Stop Button,YES
+Hyundai,IONIQ 5,Long Range RWD,Comfort & Convenience,USB Charger,Front
+Hyundai,IONIQ 5,Long Range RWD,Comfort & Convenience,Central Console Armrest,With Storage
+Hyundai,IONIQ 5,Long Range RWD,Comfort & Convenience,Additional Features,Side Parking Sensors
+Hyundai,IONIQ 5,Long Range RWD,Comfort & Convenience,Vechicle to Vehicle Charging,YES
+Hyundai,IONIQ 5,Long Range RWD,Comfort & Convenience,Vehicle to Load Charging,YES
+Hyundai,IONIQ 5,Long Range RWD,Comfort & Convenience,Power Windows,Front & Rear
+Hyundai,IONIQ 5,Long Range RWD,Comfort & Convenience,Cup Holders,Front & Rear
+Hyundai,IONIQ 5,Long Range RWD,Comfort & Convenience,Heated Seats,Front & Rear
+Hyundai,IONIQ 5,Long Range RWD,Interior,Glove Box,YES
+Hyundai,IONIQ 5,Long Range RWD,Interior,Lighting,Ambient light
+Hyundai,IONIQ 5,Long Range RWD,Interior,Digital Cluster,YES
+Hyundai,IONIQ 5,Long Range RWD,Interior,Digital Cluster Size,12.3 Inch
+Hyundai,IONIQ 5,Long Range RWD,Interior,Upholstery,Leather
+Hyundai,IONIQ 5,Long Range RWD,Exterior,Adjustable Headlamps,YES
+Hyundai,IONIQ 5,Long Range RWD,Exterior,Rain Sensing Wiper,YES
+Hyundai,IONIQ 5,Long Range RWD,Exterior,Rear Window Wiper,YES
+Hyundai,IONIQ 5,Long Range RWD,Exterior,Rear Window Defogger,YES
+Hyundai,IONIQ 5,Long Range RWD,Exterior,Alloy Wheels,YES
+Hyundai,IONIQ 5,Long Range RWD,Exterior,Rear Spoiler,YES
+Hyundai,IONIQ 5,Long Range RWD,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Hyundai,IONIQ 5,Long Range RWD,Exterior,Antenna,Shark Fin
+Hyundai,IONIQ 5,Long Range RWD,Exterior,Sunroof,Panoramic
+Hyundai,IONIQ 5,Long Range RWD,Exterior,Heated Outside Rear View Mirror,YES
+Hyundai,IONIQ 5,Long Range RWD,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Hyundai,IONIQ 5,Long Range RWD,Exterior,Tyre Size,255/45 R20
+Hyundai,IONIQ 5,Long Range RWD,Exterior,Tyre Type,Radial Tubeless
+Hyundai,IONIQ 5,Long Range RWD,Exterior,LED DRLs,YES
+Hyundai,IONIQ 5,Long Range RWD,Exterior,LED Headlamps,YES
+Hyundai,IONIQ 5,Long Range RWD,Exterior,LED Taillights,YES
+Hyundai,IONIQ 5,Long Range RWD,Exterior,Additional Features,"Active air flap (AAF), Frunk(57) ,Panoramic glass roof"
+Hyundai,IONIQ 5,Long Range RWD,Safety,Anti-lock Braking System (ABS),YES
+Hyundai,IONIQ 5,Long Range RWD,Safety,Brake Assist,YES
+Hyundai,IONIQ 5,Long Range RWD,Safety,Central Locking,YES
+Hyundai,IONIQ 5,Long Range RWD,Safety,Child Safety Locks,YES
+Hyundai,IONIQ 5,Long Range RWD,Safety,No. of Airbags,6
+Hyundai,IONIQ 5,Long Range RWD,Safety,Driver Airbag,YES
+Hyundai,IONIQ 5,Long Range RWD,Safety,Passenger Airbag,YES
+Hyundai,IONIQ 5,Long Range RWD,Safety,Side Airbag,YES
+Hyundai,IONIQ 5,Long Range RWD,Safety,Side Airbag-Rear,NO
+Hyundai,IONIQ 5,Long Range RWD,Safety,Day & Night Rear View Mirror,YES
+Hyundai,IONIQ 5,Long Range RWD,Safety,Electronic Brakeforce Distribution (EBD),YES
+Hyundai,IONIQ 5,Long Range RWD,Safety,Traction Control,YES
+Hyundai,IONIQ 5,Long Range RWD,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Hyundai,IONIQ 5,Long Range RWD,Safety,Electronic Stability Control (ESC),YES
+Hyundai,IONIQ 5,Long Range RWD,Safety,Rear Camera,With Guidedlines
+Hyundai,IONIQ 5,Long Range RWD,Safety,ISOFIX Child Seat Mounts,YES
+Hyundai,IONIQ 5,Long Range RWD,Safety,Hill Assist,YES
+Hyundai,IONIQ 5,Long Range RWD,Safety,360 View Camera,YES
+Hyundai,IONIQ 5,Long Range RWD,Entertainment & Communication,Radio,YES
+Hyundai,IONIQ 5,Long Range RWD,Entertainment & Communication,Wireless Phone Charging,YES
+Hyundai,IONIQ 5,Long Range RWD,Entertainment & Communication,Bluetooth Connectivity,YES
+Hyundai,IONIQ 5,Long Range RWD,Entertainment & Communication,Touchscreen,YES
+Hyundai,IONIQ 5,Long Range RWD,Entertainment & Communication,Touchscreen Size,12.3 inch
+Hyundai,IONIQ 5,Long Range RWD,Entertainment & Communication,Android Auto,YES
+Hyundai,IONIQ 5,Long Range RWD,Entertainment & Communication,Apple CarPlay,YES
+Hyundai,IONIQ 5,Long Range RWD,Entertainment & Communication,No. of Speakers,8
+Hyundai,IONIQ 5,Long Range RWD,Entertainment & Communication,Usb Ports,YES
+Hyundai,IONIQ 5,Long Range RWD,Entertainment & Communication,Inbuilt Apps,Hyundai Bluelink connected car technology
+Hyundai,IONIQ 5,Long Range RWD,Entertainment & Communication,Additional Features,Wireless Android Auto & Apple CarPlay | Bose premium sound system (8 Speakers)
+Hyundai,IONIQ 5,Long Range RWD,Entertainment & Communication,Speakers,Front & Rear
+Hyundai,IONIQ 5,Long Range RWD,ADAS Feature,Forward Collision Warning,YES
+Hyundai,IONIQ 5,Long Range RWD,ADAS Feature,Blind Spot Collision Avoidance Assist,YES
+Hyundai,IONIQ 5,Long Range RWD,ADAS Feature,Lane Departure Warning,YES
+Hyundai,IONIQ 5,Long Range RWD,ADAS Feature,Lane Keep Assist,YES
+Hyundai,IONIQ 5,Long Range RWD,ADAS Feature,Driver Attention Warning,YES
+Hyundai,IONIQ 5,Long Range RWD,ADAS Feature,Adaptive Cruise Control,YES
+Hyundai,IONIQ 5,Long Range RWD,ADAS Feature,Leading Vehicle Departure Alert,YES
+Hyundai,IONIQ 5,Long Range RWD,ADAS Feature,Adaptive High Beam Assist,YES
+Hyundai,IONIQ 5,Long Range RWD,ADAS Feature,Rear Cross Traffic Alert,YES
+Hyundai,IONIQ 5,Long Range RWD,ADAS Feature,Rear Cross Traffic Collision-Avoidance Assist,YES
+Hyundai,IONIQ 5,Long Range RWD,ADAS Feature,Blind Spot Monitor,YES
+Hyundai,IONIQ 5,Long Range RWD,Advance Internet Feature,Live Location,YES
+Hyundai,IONIQ 5,Long Range RWD,Advance Internet Feature,Remote Vehicle Status Check,YES
+Hyundai,IONIQ 5,Long Range RWD,Advance Internet Feature,Over the Air (OTA) Updates,YES
+Hyundai,IONIQ 5,Long Range RWD,Advance Internet Feature,Google / Alexa Connectivity,YES
+Hyundai,IONIQ 5,Long Range RWD,Advance Internet Feature,In Car Remote Control App,YES
+Hyundai,IONIQ 5,Long Range RWD,Advance Internet Feature,Remote AC On/Off,YES
+Hyundai,IONIQ 5,Long Range RWD,Advance Internet Feature,Remote Door Lock/Unlock,YES
+Hyundai,IONIQ 5,Long Range RWD,Advance Internet Feature,Inbuilt APPs,Bluelink

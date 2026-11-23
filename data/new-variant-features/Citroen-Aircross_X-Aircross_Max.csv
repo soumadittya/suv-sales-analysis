@@ -1,0 +1,107 @@
+company,model,variant,category,feature_name,feature_details
+Citroen,Aircross X,Aircross Max,Engine & Transmission,Engine Type,PURETECH 82
+Citroen,Aircross X,Aircross Max,Engine & Transmission,Displacement,1199 cc
+Citroen,Aircross X,Aircross Max,Engine & Transmission,Max Power,81bhp@5750rpm
+Citroen,Aircross X,Aircross Max,Engine & Transmission,Max Torque,115Nm@3750rpm
+Citroen,Aircross X,Aircross Max,Engine & Transmission,No. of Cylinders,3
+Citroen,Aircross X,Aircross Max,Engine & Transmission,Valves Per Cylinder,4
+Citroen,Aircross X,Aircross Max,Engine & Transmission,Turbo Charger,NO
+Citroen,Aircross X,Aircross Max,Engine & Transmission,Transmission Type,Manual
+Citroen,Aircross X,Aircross Max,Engine & Transmission,Gearbox,5-Speed
+Citroen,Aircross X,Aircross Max,Engine & Transmission,Drive Type,FWD
+Citroen,Aircross X,Aircross Max,Fuel & Performance,Fuel Type,Petrol
+Citroen,Aircross X,Aircross Max,Fuel & Performance,Petrol Mileage ARAI,17.5 kmpl
+Citroen,Aircross X,Aircross Max,Fuel & Performance,Petrol Fuel Tank Capacity,45 Litres
+Citroen,Aircross X,Aircross Max,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Citroen,Aircross X,Aircross Max,Fuel & Performance,Top Speed,160 kmph
+Citroen,Aircross X,Aircross Max,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Citroen,Aircross X,Aircross Max,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Citroen,Aircross X,Aircross Max,"Suspension, Steering & Brakes",Steering Type,Electric
+Citroen,Aircross X,Aircross Max,"Suspension, Steering & Brakes",Steering Column,Tilt
+Citroen,Aircross X,Aircross Max,"Suspension, Steering & Brakes",Turning Radius,5.4 m
+Citroen,Aircross X,Aircross Max,"Suspension, Steering & Brakes",Front Brake Type,Ventilated Disc
+Citroen,Aircross X,Aircross Max,"Suspension, Steering & Brakes",Rear Brake Type,Drum
+Citroen,Aircross X,Aircross Max,Dimensions & Capacity,Length,4323 mm
+Citroen,Aircross X,Aircross Max,Dimensions & Capacity,Width,1796 mm
+Citroen,Aircross X,Aircross Max,Dimensions & Capacity,Height,1665 mm
+Citroen,Aircross X,Aircross Max,Dimensions & Capacity,Boot Space,444 Litres
+Citroen,Aircross X,Aircross Max,Dimensions & Capacity,Seating Capacity,5
+Citroen,Aircross X,Aircross Max,Dimensions & Capacity,Ground Clearance Unladen,200 mm
+Citroen,Aircross X,Aircross Max,Dimensions & Capacity,Wheel Base,2671 mm
+Citroen,Aircross X,Aircross Max,Dimensions & Capacity,Kerb Weight,1135-1160 kg
+Citroen,Aircross X,Aircross Max,Dimensions & Capacity,Gross Weight,1545-1570 kg
+Citroen,Aircross X,Aircross Max,Comfort & Convenience,Boot Opening,Manual
+Citroen,Aircross X,Aircross Max,Comfort & Convenience,Power Steering,YES
+Citroen,Aircross X,Aircross Max,Comfort & Convenience,Air Conditioner,YES
+Citroen,Aircross X,Aircross Max,Comfort & Convenience,Heater,YES
+Citroen,Aircross X,Aircross Max,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Citroen,Aircross X,Aircross Max,Comfort & Convenience,Ventilated Seats,YES
+Citroen,Aircross X,Aircross Max,Comfort & Convenience,Automatic Climate Control,YES
+Citroen,Aircross X,Aircross Max,Comfort & Convenience,Accessory Power Outlet,YES
+Citroen,Aircross X,Aircross Max,Comfort & Convenience,Adjustable Headrest,YES
+Citroen,Aircross X,Aircross Max,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Citroen,Aircross X,Aircross Max,Comfort & Convenience,Rear AC Vents,YES
+Citroen,Aircross X,Aircross Max,Comfort & Convenience,Cruise Control,NO
+Citroen,Aircross X,Aircross Max,Comfort & Convenience,Parking Sensors,Rear
+Citroen,Aircross X,Aircross Max,Comfort & Convenience,Foldable Rear Seat,Bench Folding
+Citroen,Aircross X,Aircross Max,Comfort & Convenience,KeyLess Entry,YES
+Citroen,Aircross X,Aircross Max,Comfort & Convenience,Engine Start/Stop Button,YES
+Citroen,Aircross X,Aircross Max,Comfort & Convenience,USB Charger,Front & Rear
+Citroen,Aircross X,Aircross Max,Comfort & Convenience,Gear Shift Indicator,YES
+Citroen,Aircross X,Aircross Max,Comfort & Convenience,Power Windows,Front & Rear
+Citroen,Aircross X,Aircross Max,Interior,Leather Wrapped Steering Wheel,YES
+Citroen,Aircross X,Aircross Max,Interior,Glove Box,YES
+Citroen,Aircross X,Aircross Max,Interior,Digital Cluster,Full
+Citroen,Aircross X,Aircross Max,Interior,Digital Cluster Size,7 inch
+Citroen,Aircross X,Aircross Max,Interior,Upholstery,Leatherette
+Citroen,Aircross X,Aircross Max,Exterior,Rear Window Wiper,YES
+Citroen,Aircross X,Aircross Max,Exterior,Rear Window Washer,YES
+Citroen,Aircross X,Aircross Max,Exterior,Rear Window Defogger,YES
+Citroen,Aircross X,Aircross Max,Exterior,Wheel Covers,NO
+Citroen,Aircross X,Aircross Max,Exterior,Alloy Wheels,YES
+Citroen,Aircross X,Aircross Max,Exterior,Rear Spoiler,YES
+Citroen,Aircross X,Aircross Max,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Citroen,Aircross X,Aircross Max,Exterior,Projector Headlamps,YES
+Citroen,Aircross X,Aircross Max,Exterior,Halogen Headlamps,NO
+Citroen,Aircross X,Aircross Max,Exterior,Roof Rails,YES
+Citroen,Aircross X,Aircross Max,Exterior,Fog Lights,Front
+Citroen,Aircross X,Aircross Max,Exterior,Antenna,Shark Fin
+Citroen,Aircross X,Aircross Max,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Citroen,Aircross X,Aircross Max,Exterior,Tyre Size,205/65 R16
+Citroen,Aircross X,Aircross Max,Exterior,Tyre Type,Radial Tubeless
+Citroen,Aircross X,Aircross Max,Exterior,Wheel Size,16 Inch
+Citroen,Aircross X,Aircross Max,Exterior,LED DRLs,YES
+Citroen,Aircross X,Aircross Max,Exterior,LED Taillights,YES
+Citroen,Aircross X,Aircross Max,Safety,Anti-lock Braking System (ABS),YES
+Citroen,Aircross X,Aircross Max,Safety,Central Locking,YES
+Citroen,Aircross X,Aircross Max,Safety,Child Safety Locks,YES
+Citroen,Aircross X,Aircross Max,Safety,No. of Airbags,6
+Citroen,Aircross X,Aircross Max,Safety,Driver Airbag,YES
+Citroen,Aircross X,Aircross Max,Safety,Passenger Airbag,YES
+Citroen,Aircross X,Aircross Max,Safety,Side Airbag,YES
+Citroen,Aircross X,Aircross Max,Safety,Side Airbag-Rear,NO
+Citroen,Aircross X,Aircross Max,Safety,Day & Night Rear View Mirror,YES
+Citroen,Aircross X,Aircross Max,Safety,Electronic Brakeforce Distribution (EBD),YES
+Citroen,Aircross X,Aircross Max,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Citroen,Aircross X,Aircross Max,Safety,Engine Immobilizer,YES
+Citroen,Aircross X,Aircross Max,Safety,Electronic Stability Control (ESC),YES
+Citroen,Aircross X,Aircross Max,Safety,Rear Camera,With Guidedlines
+Citroen,Aircross X,Aircross Max,Safety,ISOFIX Child Seat Mounts,YES
+Citroen,Aircross X,Aircross Max,Safety,Hill Assist,YES
+Citroen,Aircross X,Aircross Max,Entertainment & Communication,Radio,YES
+Citroen,Aircross X,Aircross Max,Entertainment & Communication,Wireless Phone Charging,YES
+Citroen,Aircross X,Aircross Max,Entertainment & Communication,Bluetooth Connectivity,YES
+Citroen,Aircross X,Aircross Max,Entertainment & Communication,Touchscreen,YES
+Citroen,Aircross X,Aircross Max,Entertainment & Communication,Touchscreen Size,10.23 inch
+Citroen,Aircross X,Aircross Max,Entertainment & Communication,Android Auto,YES
+Citroen,Aircross X,Aircross Max,Entertainment & Communication,Apple CarPlay,YES
+Citroen,Aircross X,Aircross Max,Entertainment & Communication,No. of Speakers,4
+Citroen,Aircross X,Aircross Max,Entertainment & Communication,Usb Ports,YES
+Citroen,Aircross X,Aircross Max,Entertainment & Communication,Tweeters,2
+Citroen,Aircross X,Aircross Max,Entertainment & Communication,Additional Features,Wireless Smartphone Connectiviy
+Citroen,Aircross X,Aircross Max,Entertainment & Communication,Speakers,Front & Rear
+Citroen,Aircross X,Aircross Max,Advance Internet Feature,In Car Remote Control App,NO
+Citroen,Aircross X,Aircross Max,Advance Internet Feature,Remote AC On/Off,NO
+Citroen,Aircross X,Aircross Max,Advance Internet Feature,Remote Door Lock/Unlock,NO
+Citroen,Aircross X,Aircross Max,Advance Internet Feature,Remote Vehicle Ignition Start/Stop,NO
+Citroen,Aircross X,Aircross Max,Advance Internet Feature,Geo-fence Alert,NO

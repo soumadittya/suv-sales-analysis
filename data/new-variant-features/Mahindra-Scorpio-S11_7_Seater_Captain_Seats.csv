@@ -1,0 +1,94 @@
+company,model,variant,category,feature_name,feature_details
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Engine & Transmission,Engine Type,mHAWK 4 Cylinder
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Engine & Transmission,Displacement,2184 cc
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Engine & Transmission,Max Power,130bhp@3750rpm
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Engine & Transmission,Max Torque,300Nm@1600-2800rpm
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Engine & Transmission,No. of Cylinders,4
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Engine & Transmission,Valves Per Cylinder,4
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Engine & Transmission,Fuel Supply System,CRDi
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Engine & Transmission,Turbo Charger,YES
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Engine & Transmission,Transmission Type,Manual
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Engine & Transmission,Gearbox,6-Speed
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Engine & Transmission,Drive Type,RWD
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Fuel & Performance,Fuel Type,Diesel
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Fuel & Performance,Diesel Mileage ARAI,14.44 kmpl
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Fuel & Performance,Diesel Fuel Tank Capacity,60 Litres
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Fuel & Performance,Top Speed,165 kmph
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),"Suspension, Steering & Brakes",Front Suspension,Double wishbone suspension
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),"Suspension, Steering & Brakes",Rear Suspension,Multi-link suspension
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),"Suspension, Steering & Brakes",Shock Absorbers Type,Hydraulic
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),"Suspension, Steering & Brakes",Steering Type,Hydraulic
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),"Suspension, Steering & Brakes",Steering Column,Tilt
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),"Suspension, Steering & Brakes",Turning Radius,5.4 m
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),"Suspension, Steering & Brakes",Front Brake Type,Disc
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),"Suspension, Steering & Brakes",Rear Brake Type,Drum
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),"Suspension, Steering & Brakes",Braking (100-0kmph),41.50 s
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),"Suspension, Steering & Brakes",0-100Kmph (Tested),14.01 s
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),"Suspension, Steering & Brakes",Braking (80-0 kmph),26.14 s
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Dimensions & Capacity,Length,4456 mm
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Dimensions & Capacity,Width,1820 mm
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Dimensions & Capacity,Height,1995 mm
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Dimensions & Capacity,Boot Space,460 Litres
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Dimensions & Capacity,Seating Capacity,7
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Dimensions & Capacity,Wheel Base,2680 mm
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Comfort & Convenience,Boot Opening,Manual
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Comfort & Convenience,Power Steering,YES
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Comfort & Convenience,Air Conditioner,YES
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Comfort & Convenience,Heater,YES
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Comfort & Convenience,Height Adjustable Driver Seat,YES
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Comfort & Convenience,Automatic Climate Control,YES
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Comfort & Convenience,Accessory Power Outlet,YES
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Comfort & Convenience,Adjustable Headrest,YES
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Comfort & Convenience,Height Adjustable Front Seat Belts,NO
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Comfort & Convenience,Rear AC Vents,YES
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Comfort & Convenience,Cruise Control,YES
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Comfort & Convenience,Parking Sensors,Rear
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Comfort & Convenience,KeyLess Entry,YES
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Comfort & Convenience,Central Console Armrest,YES
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Comfort & Convenience,Gear Shift Indicator,YES
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Comfort & Convenience,Idle Start-Stop System,YES
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Comfort & Convenience,Follow Me Home Headlamps,YES
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Comfort & Convenience,Cup Holders,Front & Rear
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Interior,Leather Wrapped Steering Wheel,YES
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Interior,Glove Box,YES
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Interior,Additional Features,Roof Mounted Sunglass Holder
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Interior,Upholstery,Fabric
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Exterior,Rear Window Wiper,YES
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Exterior,Rear Window Washer,YES
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Exterior,Rear Window Defogger,YES
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Exterior,Alloy Wheels,YES
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Exterior,Rear Spoiler,YES
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Exterior,Side Stepper,YES
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Exterior,Outside Rear View Mirror Turn Indicators,NO
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Exterior,Projector Headlamps,YES
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Exterior,Automatic Headlamps,YES
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Exterior,Fog Lights,Front
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Exterior,Sunroof,NO
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Exterior,Outside Rear View Mirror (ORVM),Powered
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Exterior,Tyre Size,235/65 R17
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Exterior,Tyre Type,Radial
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Exterior,Wheel Size,17 Inch
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Exterior,LED DRLs,YES
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Exterior,LED Taillights,YES
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Safety,Anti-lock Braking System (ABS),YES
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Safety,Central Locking,YES
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Safety,Child Safety Locks,YES
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Safety,Anti-Theft Alarm,YES
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Safety,No. of Airbags,2
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Safety,Driver Airbag,YES
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Safety,Passenger Airbag,YES
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Safety,Side Airbag,NO
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Safety,Side Airbag-Rear,NO
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Safety,Day & Night Rear View Mirror,YES
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Safety,Electronic Brakeforce Distribution (EBD),YES
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Safety,Engine Immobilizer,YES
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Safety,Anti-Theft Device,YES
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Entertainment & Communication,Radio,YES
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Entertainment & Communication,Bluetooth Connectivity,YES
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Entertainment & Communication,Touchscreen,YES
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Entertainment & Communication,Touchscreen Size,9 inch
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Entertainment & Communication,No. of Speakers,4
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Entertainment & Communication,Usb Ports,YES
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Entertainment & Communication,Tweeters,2
+Mahindra,Scorpio,S11 7-Seater (Captain Seats),Entertainment & Communication,Speakers,Front & Rear

@@ -1,0 +1,8 @@
+# Packages the web app needs to run. Render installs this file on every deploy.
+# Versions match the project venv the app was built and tested with.
+fastapi==0.165.0
+starlette==1.10.0
+uvicorn==0.54.0
+jinja2==3.1.6
+pandas==3.1.1
+numpy==2.5.4

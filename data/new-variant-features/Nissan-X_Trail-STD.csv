@@ -1,0 +1,121 @@
+company,model,variant,category,feature_name,feature_details
+Nissan,X-Trail,STD,Engine & Transmission,Engine Type,KR15 VC-TURBO
+Nissan,X-Trail,STD,Engine & Transmission,Displacement,1498 cc
+Nissan,X-Trail,STD,Engine & Transmission,Max Power,161bhp@4800rpm
+Nissan,X-Trail,STD,Engine & Transmission,Max Torque,300Nm@2800-3600rpm
+Nissan,X-Trail,STD,Engine & Transmission,No. of Cylinders,3
+Nissan,X-Trail,STD,Engine & Transmission,Valves Per Cylinder,4
+Nissan,X-Trail,STD,Engine & Transmission,Turbo Charger,YES
+Nissan,X-Trail,STD,Engine & Transmission,Transmission Type,Automatic
+Nissan,X-Trail,STD,Engine & Transmission,Gearbox,CVT
+Nissan,X-Trail,STD,Engine & Transmission,Drive Type,FWD
+Nissan,X-Trail,STD,Fuel & Performance,Fuel Type,Petrol
+Nissan,X-Trail,STD,Fuel & Performance,Petrol Fuel Tank Capacity,55 Litres
+Nissan,X-Trail,STD,Fuel & Performance,Petrol Highway Mileage,13.7 kmpl
+Nissan,X-Trail,STD,Fuel & Performance,Secondary Fuel Type,Electric
+Nissan,X-Trail,STD,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Nissan,X-Trail,STD,Fuel & Performance,Top Speed,200 kmph
+Nissan,X-Trail,STD,Fuel & Performance,Acceleration,9.6 s
+Nissan,X-Trail,STD,Fuel & Performance,0-100kmph,9.6 s
+Nissan,X-Trail,STD,"Suspension, Steering & Brakes",Shock Absorbers Type,Twin Tube
+Nissan,X-Trail,STD,"Suspension, Steering & Brakes",Steering Type,Electric
+Nissan,X-Trail,STD,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Nissan,X-Trail,STD,"Suspension, Steering & Brakes",Turning Radius,5.5 m
+Nissan,X-Trail,STD,"Suspension, Steering & Brakes",Front Brake Type,Ventilated Disc
+Nissan,X-Trail,STD,"Suspension, Steering & Brakes",Rear Brake Type,Ventilated Disc
+Nissan,X-Trail,STD,"Suspension, Steering & Brakes",Boot Space Rear Seat Folding,585 Litres
+Nissan,X-Trail,STD,Dimensions & Capacity,Length,4680 mm
+Nissan,X-Trail,STD,Dimensions & Capacity,Width,1840 mm
+Nissan,X-Trail,STD,Dimensions & Capacity,Height,1725 mm
+Nissan,X-Trail,STD,Dimensions & Capacity,Boot Space,177 Litres
+Nissan,X-Trail,STD,Dimensions & Capacity,Seating Capacity,7
+Nissan,X-Trail,STD,Dimensions & Capacity,Ground Clearance Unladen,210 mm
+Nissan,X-Trail,STD,Dimensions & Capacity,Wheel Base,2705 mm
+Nissan,X-Trail,STD,Dimensions & Capacity,Kerb Weight,1676 kg
+Nissan,X-Trail,STD,Dimensions & Capacity,Gross Weight,2285 kg
+Nissan,X-Trail,STD,Comfort & Convenience,Power Steering,YES
+Nissan,X-Trail,STD,Comfort & Convenience,Air Conditioner,YES
+Nissan,X-Trail,STD,Comfort & Convenience,Heater,YES
+Nissan,X-Trail,STD,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Nissan,X-Trail,STD,Comfort & Convenience,Electric Adjustable Seats,NO
+Nissan,X-Trail,STD,Comfort & Convenience,Automatic Climate Control,YES
+Nissan,X-Trail,STD,Comfort & Convenience,Air Quality Control,NO
+Nissan,X-Trail,STD,Comfort & Convenience,Accessory Power Outlet,YES
+Nissan,X-Trail,STD,Comfort & Convenience,Adjustable Headrest,YES
+Nissan,X-Trail,STD,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Nissan,X-Trail,STD,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Nissan,X-Trail,STD,Comfort & Convenience,Rear AC Vents,YES
+Nissan,X-Trail,STD,Comfort & Convenience,Lumbar Support,YES
+Nissan,X-Trail,STD,Comfort & Convenience,Cruise Control,YES
+Nissan,X-Trail,STD,Comfort & Convenience,Parking Sensors,Front & Rear
+Nissan,X-Trail,STD,Comfort & Convenience,Foldable Rear Seat,40:20:40 Split
+Nissan,X-Trail,STD,Comfort & Convenience,KeyLess Entry,YES
+Nissan,X-Trail,STD,Comfort & Convenience,Engine Start/Stop Button,YES
+Nissan,X-Trail,STD,Comfort & Convenience,Paddle Shifters,YES
+Nissan,X-Trail,STD,Comfort & Convenience,USB Charger,Front & Rear
+Nissan,X-Trail,STD,Comfort & Convenience,Central Console Armrest,With Storage
+Nissan,X-Trail,STD,Comfort & Convenience,Drive Modes,3
+Nissan,X-Trail,STD,Comfort & Convenience,Idle Start-Stop System,YES
+Nissan,X-Trail,STD,Comfort & Convenience,Follow Me Home Headlamps,YES
+Nissan,X-Trail,STD,Comfort & Convenience,Drive Mode Types,Normal|Eco|Sport
+Nissan,X-Trail,STD,Comfort & Convenience,Power Windows,Front & Rear
+Nissan,X-Trail,STD,Comfort & Convenience,Cup Holders,Front & Rear
+Nissan,X-Trail,STD,Interior,Leather Wrapped Steering Wheel,YES
+Nissan,X-Trail,STD,Interior,Glove Box,YES
+Nissan,X-Trail,STD,Interior,Folding Table in The Rear,YES
+Nissan,X-Trail,STD,Interior,Additional Features,Sunglass Holder
+Nissan,X-Trail,STD,Interior,Digital Cluster,YES
+Nissan,X-Trail,STD,Interior,Digital Cluster Size,12.28
+Nissan,X-Trail,STD,Interior,Upholstery,Fabric
+Nissan,X-Trail,STD,Exterior,Adjustable Headlamps,YES
+Nissan,X-Trail,STD,Exterior,Rain Sensing Wiper,YES
+Nissan,X-Trail,STD,Exterior,Rear Window Wiper,YES
+Nissan,X-Trail,STD,Exterior,Rear Window Defogger,YES
+Nissan,X-Trail,STD,Exterior,Alloy Wheels,YES
+Nissan,X-Trail,STD,Exterior,Rear Spoiler,YES
+Nissan,X-Trail,STD,Exterior,Side Stepper,NO
+Nissan,X-Trail,STD,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Nissan,X-Trail,STD,Exterior,Halogen Headlamps,NO
+Nissan,X-Trail,STD,Exterior,Roof Rails,YES
+Nissan,X-Trail,STD,Exterior,Automatic Headlamps,YES
+Nissan,X-Trail,STD,Exterior,Antenna,Shark Fin
+Nissan,X-Trail,STD,Exterior,Sunroof,Panoramic
+Nissan,X-Trail,STD,Exterior,Heated Outside Rear View Mirror,NO
+Nissan,X-Trail,STD,Exterior,Tyre Size,255/45 R20
+Nissan,X-Trail,STD,Exterior,Tyre Type,Radial Tubeless
+Nissan,X-Trail,STD,Exterior,LED DRLs,YES
+Nissan,X-Trail,STD,Exterior,LED Headlamps,YES
+Nissan,X-Trail,STD,Exterior,LED Taillights,YES
+Nissan,X-Trail,STD,Safety,Anti-lock Braking System (ABS),YES
+Nissan,X-Trail,STD,Safety,Brake Assist,YES
+Nissan,X-Trail,STD,Safety,Central Locking,YES
+Nissan,X-Trail,STD,Safety,Child Safety Locks,YES
+Nissan,X-Trail,STD,Safety,Anti-Theft Alarm,YES
+Nissan,X-Trail,STD,Safety,No. of Airbags,7
+Nissan,X-Trail,STD,Safety,Driver Airbag,YES
+Nissan,X-Trail,STD,Safety,Passenger Airbag,YES
+Nissan,X-Trail,STD,Safety,Side Airbag,YES
+Nissan,X-Trail,STD,Safety,Side Airbag-Rear,NO
+Nissan,X-Trail,STD,Safety,Day & Night Rear View Mirror,YES
+Nissan,X-Trail,STD,Safety,Electronic Brakeforce Distribution (EBD),YES
+Nissan,X-Trail,STD,Safety,Traction Control,YES
+Nissan,X-Trail,STD,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Nissan,X-Trail,STD,Safety,Engine Immobilizer,YES
+Nissan,X-Trail,STD,Safety,Electronic Stability Control (ESC),YES
+Nissan,X-Trail,STD,Safety,Rear Camera,With Guidedlines
+Nissan,X-Trail,STD,Safety,Anti-Theft Device,YES
+Nissan,X-Trail,STD,Safety,Anti-Pinch Power Windows,Driver's Window
+Nissan,X-Trail,STD,Safety,Hill Descent Control,NO
+Nissan,X-Trail,STD,Safety,Hill Assist,YES
+Nissan,X-Trail,STD,Safety,360 View Camera,YES
+Nissan,X-Trail,STD,Entertainment & Communication,Radio,YES
+Nissan,X-Trail,STD,Entertainment & Communication,Wireless Phone Charging,YES
+Nissan,X-Trail,STD,Entertainment & Communication,Bluetooth Connectivity,YES
+Nissan,X-Trail,STD,Entertainment & Communication,Touchscreen,YES
+Nissan,X-Trail,STD,Entertainment & Communication,Touchscreen Size,8 inch
+Nissan,X-Trail,STD,Entertainment & Communication,Android Auto,YES
+Nissan,X-Trail,STD,Entertainment & Communication,Apple CarPlay,YES
+Nissan,X-Trail,STD,Entertainment & Communication,No. of Speakers,4
+Nissan,X-Trail,STD,Entertainment & Communication,Rear Touchscreen,NO
+Nissan,X-Trail,STD,Entertainment & Communication,Speakers,Front & Rear
+Nissan,X-Trail,STD,ADAS Feature,Autonomous Parking,NO

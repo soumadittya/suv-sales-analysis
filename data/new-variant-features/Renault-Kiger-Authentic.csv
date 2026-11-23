@@ -1,0 +1,98 @@
+company,model,variant,category,feature_name,feature_details
+Renault,Kiger,Authentic,Engine & Transmission,Engine Type,1.0L Energy
+Renault,Kiger,Authentic,Engine & Transmission,Displacement,999 cc
+Renault,Kiger,Authentic,Engine & Transmission,Max Power,71bhp@6250rpm
+Renault,Kiger,Authentic,Engine & Transmission,Max Torque,96Nm@3500rpm
+Renault,Kiger,Authentic,Engine & Transmission,No. of Cylinders,3
+Renault,Kiger,Authentic,Engine & Transmission,Valves Per Cylinder,4
+Renault,Kiger,Authentic,Engine & Transmission,Fuel Supply System,MPFi
+Renault,Kiger,Authentic,Engine & Transmission,Turbo Charger,NO
+Renault,Kiger,Authentic,Engine & Transmission,Transmission Type,Manual
+Renault,Kiger,Authentic,Engine & Transmission,Gearbox,5-Speed
+Renault,Kiger,Authentic,Engine & Transmission,Drive Type,FWD
+Renault,Kiger,Authentic,Fuel & Performance,Fuel Type,Petrol
+Renault,Kiger,Authentic,Fuel & Performance,Petrol Mileage ARAI,19.71 kmpl
+Renault,Kiger,Authentic,Fuel & Performance,Petrol Fuel Tank Capacity,40 Litres
+Renault,Kiger,Authentic,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Renault,Kiger,Authentic,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Renault,Kiger,Authentic,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Renault,Kiger,Authentic,"Suspension, Steering & Brakes",Steering Type,Electric
+Renault,Kiger,Authentic,"Suspension, Steering & Brakes",Steering Column,NO
+Renault,Kiger,Authentic,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Renault,Kiger,Authentic,"Suspension, Steering & Brakes",Rear Brake Type,Drum
+Renault,Kiger,Authentic,Dimensions & Capacity,Length,3990 mm
+Renault,Kiger,Authentic,Dimensions & Capacity,Width,1912 mm
+Renault,Kiger,Authentic,Dimensions & Capacity,Height,1605 mm
+Renault,Kiger,Authentic,Dimensions & Capacity,Boot Space,405 Litres
+Renault,Kiger,Authentic,Dimensions & Capacity,Seating Capacity,5
+Renault,Kiger,Authentic,Dimensions & Capacity,Ground Clearance Unladen,205 mm
+Renault,Kiger,Authentic,Dimensions & Capacity,Wheel Base,2500 mm
+Renault,Kiger,Authentic,Comfort & Convenience,Boot Opening,Manual
+Renault,Kiger,Authentic,Comfort & Convenience,Power Steering,YES
+Renault,Kiger,Authentic,Comfort & Convenience,Air Conditioner,YES
+Renault,Kiger,Authentic,Comfort & Convenience,Heater,YES
+Renault,Kiger,Authentic,Comfort & Convenience,Height Adjustable Driver Seat,NO
+Renault,Kiger,Authentic,Comfort & Convenience,Ventilated Seats,NO
+Renault,Kiger,Authentic,Comfort & Convenience,Automatic Climate Control,NO
+Renault,Kiger,Authentic,Comfort & Convenience,Air Quality Control,YES
+Renault,Kiger,Authentic,Comfort & Convenience,Accessory Power Outlet,YES
+Renault,Kiger,Authentic,Comfort & Convenience,Adjustable Headrest,YES
+Renault,Kiger,Authentic,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Renault,Kiger,Authentic,Comfort & Convenience,Rear AC Vents,NO
+Renault,Kiger,Authentic,Comfort & Convenience,Cruise Control,NO
+Renault,Kiger,Authentic,Comfort & Convenience,Parking Sensors,Rear
+Renault,Kiger,Authentic,Comfort & Convenience,KeyLess Entry,YES
+Renault,Kiger,Authentic,Comfort & Convenience,Engine Start/Stop Button,NO
+Renault,Kiger,Authentic,Comfort & Convenience,USB Charger,Front
+Renault,Kiger,Authentic,Comfort & Convenience,Central Console Armrest,With Storage
+Renault,Kiger,Authentic,Comfort & Convenience,Follow Me Home Headlamps,NO
+Renault,Kiger,Authentic,Comfort & Convenience,Power Windows,Front & Rear
+Renault,Kiger,Authentic,Comfort & Convenience,Cup Holders,Front & Rear
+Renault,Kiger,Authentic,Interior,Glove Box,YES
+Renault,Kiger,Authentic,Interior,Digital Cluster,YES
+Renault,Kiger,Authentic,Interior,Digital Cluster Size,3.5
+Renault,Kiger,Authentic,Interior,Upholstery,Fabric
+Renault,Kiger,Authentic,Exterior,Adjustable Headlamps,YES
+Renault,Kiger,Authentic,Exterior,Rain Sensing Wiper,NO
+Renault,Kiger,Authentic,Exterior,Rear Window Wiper,NO
+Renault,Kiger,Authentic,Exterior,Rear Window Washer,NO
+Renault,Kiger,Authentic,Exterior,Rear Window Defogger,NO
+Renault,Kiger,Authentic,Exterior,Rear Spoiler,YES
+Renault,Kiger,Authentic,Exterior,Outside Rear View Mirror Turn Indicators,NO
+Renault,Kiger,Authentic,Exterior,Halogen Headlamps,YES
+Renault,Kiger,Authentic,Exterior,Roof Rails,YES
+Renault,Kiger,Authentic,Exterior,Outside Rear View Mirror (ORVM),Manual
+Renault,Kiger,Authentic,Exterior,Wheels Type,Steel with Cover
+Renault,Kiger,Authentic,Exterior,Tyre Size,195/60
+Renault,Kiger,Authentic,Exterior,Tyre Type,Radial Tubeless
+Renault,Kiger,Authentic,Exterior,LED DRLs,YES
+Renault,Kiger,Authentic,Exterior,LED Headlamps,NO
+Renault,Kiger,Authentic,Exterior,LED Taillights,YES
+Renault,Kiger,Authentic,Exterior,LED Fog Lamps,NO
+Renault,Kiger,Authentic,Safety,Anti-lock Braking System (ABS),YES
+Renault,Kiger,Authentic,Safety,Brake Assist,YES
+Renault,Kiger,Authentic,Safety,Central Locking,YES
+Renault,Kiger,Authentic,Safety,Child Safety Locks,YES
+Renault,Kiger,Authentic,Safety,No. of Airbags,6
+Renault,Kiger,Authentic,Safety,Driver Airbag,YES
+Renault,Kiger,Authentic,Safety,Passenger Airbag,YES
+Renault,Kiger,Authentic,Safety,Side Airbag,YES
+Renault,Kiger,Authentic,Safety,Side Airbag-Rear,NO
+Renault,Kiger,Authentic,Safety,Day & Night Rear View Mirror,NO
+Renault,Kiger,Authentic,Safety,Electronic Brakeforce Distribution (EBD),YES
+Renault,Kiger,Authentic,Safety,Traction Control,YES
+Renault,Kiger,Authentic,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Renault,Kiger,Authentic,Safety,Engine Immobilizer,YES
+Renault,Kiger,Authentic,Safety,Electronic Stability Control (ESC),YES
+Renault,Kiger,Authentic,Safety,Rear Camera,NO
+Renault,Kiger,Authentic,Safety,ISOFIX Child Seat Mounts,YES
+Renault,Kiger,Authentic,Safety,Hill Assist,YES
+Renault,Kiger,Authentic,Safety,360 View Camera,NO
+Renault,Kiger,Authentic,Safety,Global NCAP Safety Rating,4 Star
+Renault,Kiger,Authentic,Safety,Global NCAP Child Safety Rating,3 Star
+Renault,Kiger,Authentic,Entertainment & Communication,Radio,YES
+Renault,Kiger,Authentic,Entertainment & Communication,Wireless Phone Charging,NO
+Renault,Kiger,Authentic,Entertainment & Communication,Bluetooth Connectivity,NO
+Renault,Kiger,Authentic,Entertainment & Communication,Touchscreen,NO
+Renault,Kiger,Authentic,Entertainment & Communication,Usb Ports,YES
+Renault,Kiger,Authentic,Entertainment & Communication,Speakers,Front Only

@@ -1,0 +1,501 @@
+,company,model,variant,price_start,price_avg,price_max,sales,CNG Highway Mileage,CNG Mileage ARAI,Child Safety Locks,Connectivity,Apple CarPlay,Diesel Highway Mileage,Diesel Mileage ARAI,Petrol Highway Mileage,Petrol Mileage ARAI,Drive Type,Fuel Type,Gearbox,Length,No. of Cylinders,Transmission Type,Displacement
+0,HYUNDAI,CRETA,Creta E,12.07,20.1021,25.44,626200.0,,,YES,,NO,,,,17.4 kmpl,FWD,Petrol,6-Speed,4330 mm,4,Manual,1497 cc
+1,HYUNDAI,CRETA,Creta E Diesel,12.07,20.1021,25.44,626200.0,,,YES,,NO,,21.8 kmpl,,,FWD,Diesel,6-Speed,4330 mm,4,Manual,1493 cc
+2,HYUNDAI,CRETA,Creta EX,12.07,20.1021,25.44,626200.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,17.4 kmpl,FWD,Petrol,6-Speed,4330 mm,4,Manual,1497 cc
+3,HYUNDAI,CRETA,Creta EX (O),12.07,20.1021,25.44,626200.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,17.4 kmpl,FWD,Petrol,6-Speed,4330 mm,4,Manual,1497 cc
+4,HYUNDAI,CRETA,Creta EX (O) Diesel,12.07,20.1021,25.44,626200.0,,,YES,"Android Auto, Apple CarPlay",YES,,21.8 kmpl,,,FWD,Diesel,6-Speed,4330 mm,4,Manual,1493 cc
+5,HYUNDAI,CRETA,Creta EX (O) Diesel AT,12.07,20.1021,25.44,626200.0,,,YES,Android Auto,YES,,19.1 kmpl,,,FWD,Diesel,6-Speed AT,4330 mm,4,Automatic,1493 cc
+6,HYUNDAI,CRETA,Creta EX Diesel,12.07,20.1021,25.44,626200.0,,,YES,"Android Auto, Apple CarPlay",YES,,21.8 kmpl,,,FWD,Diesel,6-Speed,4330 mm,4,Manual,1493 cc
+7,HYUNDAI,CRETA,Creta EX(O) iVT,12.07,20.1021,25.44,626200.0,,,YES,Android Auto,YES,,,,17.7 kmpl,FWD,Petrol,6-Speed iVT,4330 mm,4,Automatic,1497 cc
+8,HYUNDAI,CRETA,Creta King,12.07,20.1021,25.44,626200.0,,,YES,Android Auto,YES,,,,17.4 kmpl,FWD,Petrol,6-Speed,4330 mm,4,Manual,1497 cc
+9,HYUNDAI,CRETA,Creta King DT,12.07,20.1021,25.44,626200.0,,,YES,Android Auto,YES,,,,17.4 kmpl,FWD,Petrol,6-Speed,4330 mm,4,Manual,1497 cc
+10,HYUNDAI,CRETA,Creta King Diesel,12.07,20.1021,25.44,626200.0,,,YES,Android Auto,YES,,21.8 kmpl,,,FWD,Diesel,6-Speed,4330 mm,4,Manual,1493 cc
+11,HYUNDAI,CRETA,Creta King Diesel AT,12.07,20.1021,25.44,626200.0,,,YES,Android Auto,YES,,19.1 kmpl,,,FWD,Diesel,6-Speed AT,4330 mm,4,Automatic,1493 cc
+12,HYUNDAI,CRETA,Creta King Diesel AT DT,12.07,20.1021,25.44,626200.0,,,YES,Android Auto,YES,,19.1 kmpl,,,FWD,Diesel,6-Speed AT,4330 mm,4,Automatic,1493 cc
+13,HYUNDAI,CRETA,Creta King Diesel DT,12.07,20.1021,25.44,626200.0,,,YES,Android Auto,YES,,21.8 kmpl,,,FWD,Diesel,6-Speed,4330 mm,4,Manual,1493 cc
+14,HYUNDAI,CRETA,Creta King Knight Diesel AT,12.07,20.1021,25.44,626200.0,,,YES,Android Auto,YES,,19.1 kmpl,,,FWD,Diesel,6-Speed AT,4330 mm,4,Automatic,1493 cc
+15,HYUNDAI,CRETA,Creta King Knight Diesel AT DT,12.07,20.1021,25.44,626200.0,,,YES,Android Auto,YES,,19.1 kmpl,,,FWD,Diesel,6-Speed AT,4330 mm,4,Automatic,1493 cc
+16,HYUNDAI,CRETA,Creta King Knight iVT,12.07,20.1021,25.44,626200.0,,,YES,Android Auto,YES,,,,17.7 kmpl,FWD,Petrol,6-Speed iVT,4330 mm,4,Automatic,1497 cc
+17,HYUNDAI,CRETA,Creta King Knight iVT DT,12.07,20.1021,25.44,626200.0,,,YES,Android Auto,YES,,,,17.7 kmpl,FWD,Petrol,6-Speed iVT,4330 mm,4,Automatic,1497 cc
+18,HYUNDAI,CRETA,Creta King Limited Edition Diesel AT,12.07,20.1021,25.44,626200.0,,,YES,Android Auto,YES,,19.1 kmpl,,,FWD,Diesel,6-Speed AT,4330 mm,4,Automatic,1493 cc
+19,HYUNDAI,CRETA,Creta King Limited Edition iVT,12.07,20.1021,25.44,626200.0,,,YES,Android Auto,YES,,,,17.7 kmpl,FWD,Petrol,6-Speed iVT,4330 mm,4,Automatic,1497 cc
+20,HYUNDAI,CRETA,Creta King Turbo DCT,12.07,20.1021,25.44,626200.0,,,YES,Android Auto,YES,,,,18.4 kmpl,FWD,Petrol,7-Speed DCT,4330 mm,4,Automatic,1482 cc
+21,HYUNDAI,CRETA,Creta King Turbo DCT DT,12.07,20.1021,25.44,626200.0,,,YES,Android Auto,YES,,,,18.4 kmpl,FWD,Petrol,7-Speed DCT,4330 mm,4,Automatic,1482 cc
+22,HYUNDAI,CRETA,Creta King iVT,12.07,20.1021,25.44,626200.0,,,YES,Android Auto,YES,,,,17.7 kmpl,FWD,Petrol,6-Speed iVT,4330 mm,4,Automatic,1497 cc
+23,HYUNDAI,CRETA,Creta King iVT DT,12.07,20.1021,25.44,626200.0,,,YES,Android Auto,YES,,,,17.7 kmpl,FWD,Petrol,6-Speed iVT,4330 mm,4,Automatic,1497 cc
+24,HYUNDAI,CRETA,Creta S,12.07,20.1021,25.44,626200.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,17.4 kmpl,FWD,Petrol,6-Speed,4330 mm,4,Manual,1497 cc
+25,HYUNDAI,CRETA,Creta S (O),12.07,20.1021,25.44,626200.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,17.4 kmpl,FWD,Petrol,6-Speed,4330 mm,4,Manual,1497 cc
+26,HYUNDAI,CRETA,Creta S (O) Diesel,12.07,20.1021,25.44,626200.0,,,YES,"Android Auto, Apple CarPlay",YES,,21.8 kmpl,,,FWD,Diesel,6-Speed,4330 mm,4,Manual,1493 cc
+27,HYUNDAI,CRETA,Creta S (O) Diesel AT,12.07,20.1021,25.44,626200.0,,,YES,Android Auto,YES,,19.1 kmpl,,,FWD,Diesel,6-Speed AT,4330 mm,4,Automatic,1493 cc
+28,HYUNDAI,CRETA,Creta S (O) Knight,12.07,20.1021,25.44,626200.0,,,YES,,YES,,,,17.4 kmpl,FWD,Petrol,,4330 mm,4,Manual,1497 cc
+29,HYUNDAI,CRETA,Creta S (O) Knight DT,12.07,20.1021,25.44,626200.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,17.4 kmpl,FWD,Petrol,6-Speed,4330 mm,4,Manual,1497 cc
+30,HYUNDAI,CRETA,Creta S (O) Knight Diesel,12.07,20.1021,25.44,626200.0,,,YES,"Android Auto, Apple CarPlay",YES,,21.8 kmpl,,,FWD,Diesel,6-Speed,4330 mm,4,Manual,1493 cc
+31,HYUNDAI,CRETA,Creta S (O) Knight Diesel AT,12.07,20.1021,25.44,626200.0,,,YES,Android Auto,YES,,19.1 kmpl,,,FWD,Diesel,6-Speed AT,4330 mm,4,Automatic,1493 cc
+32,HYUNDAI,CRETA,Creta S (O) Knight Diesel AT DT,12.07,20.1021,25.44,626200.0,,,YES,Android Auto,YES,,19.1 kmpl,,,FWD,Diesel,6-Speed AT,4330 mm,4,Automatic,1493 cc
+33,HYUNDAI,CRETA,Creta S (O) Knight Diesel DT,12.07,20.1021,25.44,626200.0,,,YES,"Android Auto, Apple CarPlay",YES,,21.8 kmpl,,,FWD,Diesel,6-Speed,4330 mm,4,Manual,1493 cc
+34,HYUNDAI,CRETA,Creta S (O) Knight iVT,12.07,20.1021,25.44,626200.0,,,YES,Android Auto,YES,,,,17.7 kmpl,FWD,Petrol,6-Speed iVT,4330 mm,4,Automatic,1497 cc
+35,HYUNDAI,CRETA,Creta S (O) Knight iVT DT,12.07,20.1021,25.44,626200.0,,,YES,Android Auto,YES,,,,17.7 kmpl,FWD,Petrol,6-Speed iVT,4330 mm,4,Automatic,1497 cc
+36,HYUNDAI,CRETA,Creta S (O) iVT,12.07,20.1021,25.44,626200.0,,,YES,Android Auto,YES,,,,17.7 kmpl,FWD,Petrol,6-Speed iVT,4330 mm,4,Automatic,1497 cc
+37,HYUNDAI,CRETA,Creta S Diesel,12.07,20.1021,25.44,626200.0,,,YES,"Android Auto, Apple CarPlay",YES,,21.8 kmpl,,,FWD,Diesel,6-Speed,4330 mm,4,Manual,1493 cc
+38,HYUNDAI,CRETA,Creta SX,12.07,20.1021,25.44,626200.0,,,YES,Android Auto,YES,,,,17.4 kmpl,FWD,Petrol,6-Speed,4330 mm,4,Manual,1497 cc
+39,HYUNDAI,CRETA,Creta SX (O),12.07,20.1021,25.44,626200.0,,,YES,Android Auto,YES,,,,17.4 kmpl,FWD,Petrol,6-Speed,4330 mm,4,Manual,1497 cc
+40,HYUNDAI,CRETA,Creta SX (O) DT,12.07,20.1021,25.44,626200.0,,,YES,Android Auto,YES,,,,17.4 kmpl,FWD,Petrol,6-Speed,4330 mm,4,Manual,1497 cc
+41,HYUNDAI,CRETA,Creta SX (O) Diesel,12.07,20.1021,25.44,626200.0,,,YES,Android Auto,YES,,21.8 kmpl,,,FWD,Diesel,6-Speed,4330 mm,4,Manual,1493 cc
+42,HYUNDAI,CRETA,Creta SX (O) Diesel AT,12.07,20.1021,25.44,626200.0,,,YES,Android Auto,YES,,19.1 kmpl,,,FWD,Diesel,6-Speed AT,4330 mm,4,Automatic,1493 cc
+43,HYUNDAI,CRETA,Creta SX (O) Diesel AT DT,12.07,20.1021,25.44,626200.0,,,YES,Android Auto,YES,,19.1 kmpl,,,FWD,Diesel,6-Speed AT,4330 mm,4,Automatic,1493 cc
+44,HYUNDAI,CRETA,Creta SX (O) Diesel DT,12.07,20.1021,25.44,626200.0,,,YES,Android Auto,YES,,21.8 kmpl,,,FWD,Diesel,6-Speed,4330 mm,4,Manual,1493 cc
+45,HYUNDAI,CRETA,Creta SX (O) Knight,12.07,20.1021,25.44,626200.0,,,YES,Android Auto,YES,,,,17.4 kmpl,FWD,Petrol,6-Speed,4330 mm,4,Manual,1497 cc
+46,HYUNDAI,CRETA,Creta SX (O) Knight DT,12.07,20.1021,25.44,626200.0,,,YES,Android Auto,YES,,,,17.4 kmpl,FWD,Petrol,6-Speed,4330 mm,4,Manual,1497 cc
+47,HYUNDAI,CRETA,Creta SX (O) Knight Diesel,12.07,20.1021,25.44,626200.0,,,YES,Android Auto,YES,,21.8 kmpl,,,FWD,Diesel,6-Speed,4330 mm,4,Manual,1493 cc
+48,HYUNDAI,CRETA,Creta SX (O) Knight Diesel AT,12.07,20.1021,25.44,626200.0,,,YES,Android Auto,YES,,19.1 kmpl,,,FWD,Diesel,6-Speed AT,4330 mm,4,Automatic,1493 cc
+49,HYUNDAI,CRETA,Creta SX (O) Knight Diesel AT DT,12.07,20.1021,25.44,626200.0,,,YES,Android Auto,YES,,19.1 kmpl,,,FWD,Diesel,6-Speed AT,4330 mm,4,Automatic,1493 cc
+50,HYUNDAI,CRETA,Creta SX (O) Knight Diesel DT,12.07,20.1021,25.44,626200.0,,,YES,Android Auto,YES,,21.8 kmpl,,,FWD,Diesel,6-Speed,4330 mm,4,Manual,1493 cc
+51,HYUNDAI,CRETA,Creta SX (O) Knight iVT,12.07,20.1021,25.44,626200.0,,,YES,Android Auto,YES,,,,17.7 kmpl,FWD,Petrol,6-Speed iVT,4330 mm,4,Automatic,1497 cc
+52,HYUNDAI,CRETA,Creta SX (O) Knight iVT DT,12.07,20.1021,25.44,626200.0,,,YES,Android Auto,YES,,,,17.7 kmpl,FWD,Petrol,6-Speed iVT,4330 mm,4,Automatic,1497 cc
+53,HYUNDAI,CRETA,Creta SX (O) Turbo DCT,12.07,20.1021,25.44,626200.0,,,YES,Android Auto,YES,,,,18.4 kmpl,FWD,Petrol,7-Speed DCT,4330 mm,4,Automatic,1482 cc
+54,HYUNDAI,CRETA,Creta SX (O) Turbo DCT DT,12.07,20.1021,25.44,626200.0,,,YES,Android Auto,YES,,,,18.4 kmpl,FWD,Petrol,7-Speed DCT,4330 mm,4,Automatic,1482 cc
+55,HYUNDAI,CRETA,Creta SX (O) iVT,12.07,20.1021,25.44,626200.0,,,YES,Android Auto,YES,,,,17.7 kmpl,FWD,Petrol,6-Speed iVT,4330 mm,4,Automatic,1497 cc
+56,HYUNDAI,CRETA,Creta SX (O) iVT DT,12.07,20.1021,25.44,626200.0,,,YES,Android Auto,YES,,,,17.7 kmpl,FWD,Petrol,6-Speed iVT,4330 mm,4,Automatic,1497 cc
+57,HYUNDAI,CRETA,Creta SX DT,12.07,20.1021,25.44,626200.0,,,YES,Android Auto,YES,,,,17.4 kmpl,FWD,Petrol,6-Speed,4330 mm,4,Manual,1497 cc
+58,HYUNDAI,CRETA,Creta SX Premium,12.07,20.1021,25.44,626200.0,,,YES,Android Auto,YES,,,,17.4 kmpl,FWD,Petrol,6-Speed,4330 mm,4,Manual,1497 cc
+59,HYUNDAI,CRETA,Creta SX Premium DT,12.07,20.1021,25.44,626200.0,,,YES,Android Auto,YES,,,,17.4 kmpl,FWD,Petrol,6-Speed,4330 mm,4,Manual,1497 cc
+60,HYUNDAI,CRETA,Creta SX Premium DT Diesel,12.07,20.1021,25.44,626200.0,,,YES,Android Auto,YES,,21.8 kmpl,,,FWD,Diesel,6-Speed,4330 mm,4,Manual,1493 cc
+61,HYUNDAI,CRETA,Creta SX Premium Diesel,12.07,20.1021,25.44,626200.0,,,YES,Android Auto,YES,,21.8 kmpl,,,FWD,Diesel,6-Speed,4330 mm,4,Manual,1493 cc
+62,HYUNDAI,CRETA,Creta SX Premium iVT,12.07,20.1021,25.44,626200.0,,,YES,Android Auto,YES,,,,17.7 kmpl,FWD,Petrol,6-Speed iVT,4330 mm,4,Automatic,1497 cc
+63,HYUNDAI,CRETA,Creta SX Premium iVT DT,12.07,20.1021,25.44,626200.0,,,YES,Android Auto,YES,,,,17.7 kmpl,FWD,Petrol,6-Speed iVT,4330 mm,4,Automatic,1497 cc
+64,HYUNDAI,CRETA,Creta SX Tech,12.07,20.1021,25.44,626200.0,,,YES,Android Auto,YES,,,,17.4 kmpl,FWD,Petrol,6-Speed,4330 mm,4,Manual,1497 cc
+65,HYUNDAI,CRETA,Creta SX Tech DT,12.07,20.1021,25.44,626200.0,,,YES,Android Auto,YES,,,,17.4 kmpl,FWD,Petrol,6-Speed,4330 mm,4,Manual,1497 cc
+66,HYUNDAI,CRETA,Creta SX Tech Diesel,12.07,20.1021,25.44,626200.0,,,YES,Android Auto,YES,,21.8 kmpl,,,FWD,Diesel,6-Speed,4330 mm,4,Manual,1493 cc
+67,HYUNDAI,CRETA,Creta SX Tech Diesel DT,12.07,20.1021,25.44,626200.0,,,YES,Android Auto,YES,,21.8 kmpl,,,FWD,Diesel,6-Speed,4330 mm,4,Manual,1493 cc
+68,HYUNDAI,CRETA,Creta SX Tech iVT,12.07,20.1021,25.44,626200.0,,,YES,Android Auto,YES,,,,17.7 kmpl,FWD,Petrol,6-Speed iVT,4330 mm,4,Automatic,1497 cc
+69,HYUNDAI,CRETA,Creta SX Tech iVT DT,12.07,20.1021,25.44,626200.0,,,YES,Android Auto,YES,,,,17.7 kmpl,FWD,Petrol,6-Speed iVT,4330 mm,4,Automatic,1497 cc
+70,HYUNDAI,EXTER,Exter EX,6.42,9.469564102564103,11.53,148600.0,,,YES,,NO,,,,19.4 kmpl,FWD,Petrol,5-Speed,3815 mm,4,Manual,1197 cc
+71,HYUNDAI,EXTER,Exter EX Dual CNG,6.42,9.469564102564103,11.53,148600.0,,19.4 km/kg,YES,,NO,,,,,FWD,CNG,5-Speed,3815 mm,4,Manual,1197 cc
+72,HYUNDAI,EXTER,Exter EX Opt,6.42,9.469564102564103,11.53,148600.0,,,YES,,NO,,,,19.4 kmpl,FWD,Petrol,5-Speed,3815 mm,4,Manual,1197 cc
+73,HYUNDAI,EXTER,Exter S,6.42,9.469564102564103,11.53,148600.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,19.4 kmpl,FWD,Petrol,5-Speed,3815 mm,4,Manual,1197 cc
+74,HYUNDAI,EXTER,Exter S AMT,6.42,9.469564102564103,11.53,148600.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,19.2 kmpl,FWD,Petrol,5 Speed AMT,3815 mm,4,Automatic,1197 cc
+75,HYUNDAI,EXTER,Exter S Executive CNG,6.42,9.469564102564103,11.53,148600.0,,27.1 km/kg,YES,"Android Auto, Apple CarPlay",YES,,,,,FWD,CNG,5-Speed,3815 mm,4,Manual,1197 cc
+76,HYUNDAI,EXTER,Exter S Executive Dual CNG,6.42,9.469564102564103,11.53,148600.0,,27.1 km/kg,YES,,YES,,,,,FWD,CNG,5-Speed,3815 mm,4,Manual,1197 cc
+77,HYUNDAI,EXTER,Exter S Executive Plus Dual CNG,6.42,9.469564102564103,11.53,148600.0,,27.1 km/kg,YES,,YES,,,,,FWD,CNG,5-Speed,3815 mm,4,Manual,1197 cc
+78,HYUNDAI,EXTER,Exter S Plus,6.42,9.469564102564103,11.53,148600.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,19.2 kmpl,FWD,Petrol,5 Speed AMT,3815 mm,4,Manual,1197 cc
+79,HYUNDAI,EXTER,Exter S Plus AMT,6.42,9.469564102564103,11.53,148600.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,19.2 kmpl,FWD,Petrol,5 Speed AMT,3815 mm,4,Automatic,1197 cc
+80,HYUNDAI,EXTER,Exter S Smart,6.42,9.469564102564103,11.53,148600.0,,,YES,,NO,,,,19.4 kmpl,FWD,Petrol,5-Speed,3815 mm,4,Manual,1197 cc
+81,HYUNDAI,EXTER,Exter S Smart AMT,6.42,9.469564102564103,11.53,148600.0,,,YES,,NO,,,,19.2 kmpl,FWD,Petrol,5 Speed AMT,3815 mm,4,Automatic,1197 cc
+82,HYUNDAI,EXTER,Exter S Smart Dual CNG,6.42,9.469564102564103,11.53,148600.0,,27.1 km/kg,YES,,YES,,,,,FWD,CNG,5-Speed,3815 mm,4,Manual,1197 cc
+83,HYUNDAI,EXTER,Exter SX,6.42,9.469564102564103,11.53,148600.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,19.4 kmpl,FWD,Petrol,5-Speed,3815 mm,4,Manual,1197 cc
+84,HYUNDAI,EXTER,Exter SX AMT,6.42,9.469564102564103,11.53,148600.0,,,YES,,YES,,,,19.2 kmpl,FWD,Petrol,5 Speed AMT,3815 mm,4,Automatic,1197 cc
+85,HYUNDAI,EXTER,Exter SX CNG,6.42,9.469564102564103,11.53,148600.0,,27.1 km/kg,YES,,YES,,,,,FWD,CNG,5-Speed,3815 mm,4,Manual,1197 cc
+86,HYUNDAI,EXTER,Exter SX DT,6.42,9.469564102564103,11.53,148600.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,19.4 kmpl,FWD,Petrol,5-Speed,3815 mm,4,Manual,1197 cc
+87,HYUNDAI,EXTER,Exter SX DT AMT,6.42,9.469564102564103,11.53,148600.0,,,YES,,YES,,,,19.2 kmpl,FWD,Petrol,5 Speed AMT,3815 mm,4,Automatic,1197 cc
+88,HYUNDAI,EXTER,Exter SX Dual CNG,6.42,9.469564102564103,11.53,148600.0,,27.1 km/kg,YES,,YES,,,,,FWD,CNG,5-Speed,3815 mm,4,Manual,1197 cc
+89,HYUNDAI,EXTER,Exter SX Dual Knight CNG,6.42,9.469564102564103,11.53,148600.0,,27.1 km/kg,YES,,YES,,,,,FWD,CNG,5-Speed,3815 mm,4,Manual,1197 cc
+90,HYUNDAI,EXTER,Exter SX Knight,6.42,9.469564102564103,11.53,148600.0,,,YES,,YES,,,,19.4 kmpl,FWD,Petrol,5-Speed,3815 mm,4,Manual,1197 cc
+91,HYUNDAI,EXTER,Exter SX Knight AMT,6.42,9.469564102564103,11.53,148600.0,,,YES,,YES,,,,19.2 kmpl,FWD,Petrol,5 Speed AMT,3815 mm,4,Automatic,1197 cc
+92,HYUNDAI,EXTER,Exter SX Knight DT,6.42,9.469564102564103,11.53,148600.0,,,YES,,YES,,,,19.4 kmpl,FWD,Petrol,5-Speed,3815 mm,4,Manual,1197 cc
+93,HYUNDAI,EXTER,Exter SX Knight DT AMT,6.42,9.469564102564103,11.53,148600.0,,,YES,,YES,,,,19.2 kmpl,FWD,Petrol,5 Speed AMT,3815 mm,4,Automatic,1197 cc
+94,HYUNDAI,EXTER,Exter SX Opt,6.42,9.469564102564103,11.53,148600.0,,,YES,,YES,,,,19.4 kmpl,FWD,Petrol,5-Speed,3815 mm,4,Manual,1197 cc
+95,HYUNDAI,EXTER,Exter SX Opt AMT,6.42,9.469564102564103,11.53,148600.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,19.2 kmpl,FWD,Petrol,5 Speed AMT,3815 mm,4,Automatic,1197 cc
+96,HYUNDAI,EXTER,Exter SX Opt Connect AMT,6.42,9.469564102564103,11.53,148600.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,19.2 kmpl,FWD,Petrol,5 Speed AMT,3815 mm,4,Automatic,1197 cc
+97,HYUNDAI,EXTER,Exter SX Opt Connect DT,6.42,9.469564102564103,11.53,148600.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,19.4 kmpl,FWD,Petrol,5-Speed,3815 mm,4,Manual,1197 cc
+98,HYUNDAI,EXTER,Exter SX Opt Connect DT AMT,6.42,9.469564102564103,11.53,148600.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,19.2 kmpl,FWD,Petrol,5 Speed AMT,3815 mm,4,Automatic,1197 cc
+99,HYUNDAI,EXTER,Exter SX Opt Connect Knight,6.42,9.469564102564103,11.53,148600.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,19.4 kmpl,FWD,Petrol,5-Speed,3815 mm,4,Manual,1197 cc
+100,HYUNDAI,EXTER,Exter SX Opt Connect Knight AMT,6.42,9.469564102564103,11.53,148600.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,19.2 kmpl,FWD,Petrol,5 Speed AMT,3815 mm,4,Automatic,1197 cc
+101,HYUNDAI,EXTER,Exter SX Opt Connect Knight DT,6.42,9.469564102564103,11.53,148600.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,19.4 kmpl,FWD,Petrol,5-Speed,3815 mm,4,Manual,1197 cc
+102,HYUNDAI,EXTER,Exter SX Opt Connect Knight DT AMT,6.42,9.469564102564103,11.53,148600.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,19.2 kmpl,FWD,Petrol,5 Speed AMT,3815 mm,4,Automatic,1197 cc
+103,HYUNDAI,EXTER,Exter SX Smart,6.42,9.469564102564103,11.53,148600.0,,,YES,,NO,,,,19.4 kmpl,FWD,Petrol,5-Speed,3815 mm,4,Manual,1197 cc
+104,HYUNDAI,EXTER,Exter SX Smart AMT,6.42,9.469564102564103,11.53,148600.0,,,YES,,NO,,,,19.2 kmpl,FWD,Petrol,5 Speed AMT,3815 mm,4,Automatic,1197 cc
+105,HYUNDAI,EXTER,Exter SX Smart Dual CNG,6.42,9.469564102564103,11.53,148600.0,,27.1 km/kg,YES,,YES,,,,,FWD,CNG,5-Speed,3815 mm,4,Manual,1197 cc
+106,HYUNDAI,EXTER,Exter SX Tech,6.42,9.469564102564103,11.53,148600.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,19.4 kmpl,FWD,Petrol,5-Speed,3815 mm,4,Manual,1197 cc
+107,HYUNDAI,EXTER,Exter SX Tech AMT,6.42,9.469564102564103,11.53,148600.0,,,YES,,YES,,,,19.2 kmpl,FWD,Petrol,5 Speed AMT,3815 mm,4,Automatic,1197 cc
+108,HYUNDAI,EXTER,Exter SX Tech CNG,6.42,9.469564102564103,11.53,148600.0,,27.1 km/kg,YES,,YES,,,,,FWD,CNG,5-Speed,3815 mm,4,Manual,1197 cc
+109,HYUNDAI,VENUE,Venue HX 10 Diesel AT,8.9,13.626038461538462,19.38,473500.0,,,YES,,YES,,17.9 kmpl,,,FWD,Diesel,6 -Speed AT,3995 mm,4,Automatic,1493 cc
+110,HYUNDAI,VENUE,Venue HX 10 Diesel AT Dual Tone,8.9,13.626038461538462,19.38,473500.0,,,YES,,YES,,17.9 kmpl,,,FWD,Diesel,6 -Speed AT,3995 mm,4,Automatic,1493 cc
+111,HYUNDAI,VENUE,Venue HX 10 Turbo DCT,8.9,13.626038461538462,19.38,473500.0,,,YES,,YES,,,,20 kmpl,FWD,Petrol,7-Speed DCT,3995 mm,3,Automatic,998 cc
+112,HYUNDAI,VENUE,Venue HX 10 Turbo DCT Dual Tone,8.9,13.626038461538462,19.38,473500.0,,,YES,,YES,,,,20 kmpl,FWD,Petrol,7-Speed DCT,3995 mm,3,Automatic,998 cc
+113,HYUNDAI,VENUE,Venue HX 2,8.9,13.626038461538462,19.38,473500.0,,,YES,,YES,,,,18.5 kmpl,FWD,Petrol,5-Speed,3995 mm,4,Manual,1197 cc
+114,HYUNDAI,VENUE,Venue HX 2 Diesel,8.9,13.626038461538462,19.38,473500.0,,,YES,,YES,,20.99 kmpl,,,FWD,Diesel,6 - Speed,3995 mm,4,Manual,1493 cc
+115,HYUNDAI,VENUE,Venue HX 2 Turbo,8.9,13.626038461538462,19.38,473500.0,,,YES,,YES,,,,18.74 kmpl,FWD,Petrol,6 - Speed,3995 mm,3,Manual,998 cc
+116,HYUNDAI,VENUE,Venue HX 4,8.9,13.626038461538462,19.38,473500.0,,,YES,,YES,,,,18.5 kmpl,FWD,Petrol,5-Speed,3995 mm,4,Manual,1197 cc
+117,HYUNDAI,VENUE,Venue HX 5,8.9,13.626038461538462,19.38,473500.0,,,YES,,YES,,,,18.5 kmpl,FWD,Petrol,5-Speed,3995 mm,4,Manual,1197 cc
+118,HYUNDAI,VENUE,Venue HX 5 Diesel,8.9,13.626038461538462,19.38,473500.0,,,YES,,YES,,20.99 kmpl,,,FWD,Diesel,6 - Speed,3995 mm,4,Manual,1493 cc
+119,HYUNDAI,VENUE,Venue HX 5 Diesel AT,8.9,13.626038461538462,19.38,473500.0,,,YES,,YES,,17.9 kmpl,,,FWD,Diesel,6 - Speed AT,3995 mm,4,Automatic,1493 cc
+120,HYUNDAI,VENUE,Venue HX 5 Plus,8.9,13.626038461538462,19.38,473500.0,,,YES,,YES,,,,18.5 kmpl,FWD,Petrol,5-Speed,3995 mm,4,Manual,1197 cc
+121,HYUNDAI,VENUE,Venue HX 5 Turbo,8.9,13.626038461538462,19.38,473500.0,,,YES,,YES,,,,18.74 kmpl,FWD,Petrol,6 - Speed,3995 mm,3,Manual,998 cc
+122,HYUNDAI,VENUE,Venue HX 5 Turbo DCT,8.9,13.626038461538462,19.38,473500.0,,,YES,,YES,,,,20 kmpl,FWD,Petrol,7 - Speed DCT,3995 mm,3,Automatic,998 cc
+123,HYUNDAI,VENUE,Venue HX 6,8.9,13.626038461538462,19.38,473500.0,,,YES,,YES,,,,18.5 kmpl,FWD,Petrol,5-Speed,3995 mm,4,Manual,1197 cc
+124,HYUNDAI,VENUE,Venue HX 6 Dual Tone,8.9,13.626038461538462,19.38,473500.0,,,YES,,YES,,,,18.5 kmpl,FWD,Petrol,5-Speed,3995 mm,4,Manual,1197 cc
+125,HYUNDAI,VENUE,Venue HX 6 Turbo DCT,8.9,13.626038461538462,19.38,473500.0,,,YES,,YES,,,,20 kmpl,FWD,Petrol,7-Speed DCT,3995 mm,3,Automatic,998 cc
+126,HYUNDAI,VENUE,Venue HX 6 Turbo DCT DT,8.9,13.626038461538462,19.38,473500.0,,,YES,,YES,,,,20 kmpl,FWD,Petrol,7-Speed DCT,3995 mm,3,Automatic,998 cc
+127,HYUNDAI,VENUE,Venue HX 6T,8.9,13.626038461538462,19.38,473500.0,,,YES,,YES,,,,18.5 kmpl,FWD,Petrol,5-speed,3995 mm,4,Manual,1197 cc
+128,HYUNDAI,VENUE,Venue HX 6T Dual Tone,8.9,13.626038461538462,19.38,473500.0,,,YES,,YES,,,,18.5 kmpl,FWD,Petrol,5-Speed,3995 mm,4,Manual,1197 cc
+129,HYUNDAI,VENUE,Venue HX 7 Diesel,8.9,13.626038461538462,19.38,473500.0,,,YES,,YES,,20.99 kmpl,,,FWD,Diesel,6-Speed,3995 mm,4,Manual,1493 cc
+130,HYUNDAI,VENUE,Venue HX 7 Diesel Dual Tone,8.9,13.626038461538462,19.38,473500.0,,,YES,,YES,,20.99 kmpl,,,FWD,Diesel,6-Speed,3995 mm,4,Manual,1493 cc
+131,HYUNDAI,VENUE,Venue HX 8 Turbo,8.9,13.626038461538462,19.38,473500.0,,,YES,,YES,,,,18.74 kmpl,FWD,Petrol,6-Speed,3995 mm,3,Manual,998 cc
+132,HYUNDAI,VENUE,Venue HX 8 Turbo DCT,8.9,13.626038461538462,19.38,473500.0,,,YES,,YES,,,,20 kmpl,FWD,Petrol,7-Speed DCT,3995 mm,3,Automatic,998 cc
+133,HYUNDAI,VENUE,Venue HX 8 Turbo DCT Dual Tone,8.9,13.626038461538462,19.38,473500.0,,,YES,,YES,,,,20 kmpl,FWD,Petrol,7-Speed DCT,3995 mm,3,Automatic,998 cc
+134,HYUNDAI,VENUE,Venue HX 8 Turbo Dual Tone,8.9,13.626038461538462,19.38,473500.0,,,YES,,YES,,,,18.74 kmpl,FWD,Petrol,6-Speed,3995 mm,3,Manual,998 cc
+135,KIA,CARENS,Carens Premium Opt,12.07,14.001333333333333,15.8,210775.0,,,YES,"Android Auto, Apple CarPlay",YES,,,15.58 kmpl,,FWD,Petrol,6-Speed,4540 mm,4,Manual,1497 cc
+136,KIA,CARENS,Carens Premium Opt CNG,12.07,14.001333333333333,15.8,210775.0,15.58 km/kg,,YES,"Android Auto, Apple CarPlay",YES,,,,,FWD,CNG,6-Speed,4540 mm,4,Manual,1497 cc
+137,KIA,CARENS,Carens Premium Opt Diesel,12.07,14.001333333333333,15.8,210775.0,,,YES,"Android Auto, Apple CarPlay",YES,15.58 kmpl,,,,FWD,Diesel,6-Speed,4540 mm,4,Manual,1493 cc
+138,KIA,SELTOS,Seltos GTX A Diesel AT,12.07,19.74465,24.74,369400.0,,,YES,,YES,,,,,2WD,Diesel,6-Speed,4460 mm,4,Automatic,1493 cc
+139,KIA,SELTOS,Seltos GTX A TGDi DCT,12.07,19.74465,24.74,369400.0,,,YES,,YES,,,,,2WD,Petrol,7-Speed,4460 mm,4,Automatic,1482 cc
+140,KIA,SELTOS,Seltos GTX A iVT,12.07,19.74465,24.74,369400.0,,,YES,,YES,,,,,2WD,Petrol,6-Speed,4460 mm,4,Automatic,1497 cc
+141,KIA,SELTOS,Seltos GTX Diesel AT,12.07,19.74465,24.74,369400.0,,,YES,,YES,,,,,2WD,Diesel,6-Speed,4460 mm,4,Automatic,1493 cc
+142,KIA,SELTOS,Seltos GTX TGDi DCT,12.07,19.74465,24.74,369400.0,,,YES,,YES,,,,,2WD,Petrol,7-Speed,4460 mm,4,Automatic,1482 cc
+143,KIA,SELTOS,Seltos GTX iVT,12.07,19.74465,24.74,369400.0,,,YES,,YES,,,,,2WD,Petrol,6-Speed,4460 mm,4,Automatic,1497 cc
+144,KIA,SELTOS,Seltos HTE,12.07,19.74465,24.74,369400.0,,,YES,,YES,,,,,2WD,Petrol,6-Speed,4460 mm,4,Manual,1497 cc
+145,KIA,SELTOS,Seltos HTE Diesel,12.07,19.74465,24.74,369400.0,,,YES,,YES,,,,,2WD,Diesel,6-Speed,4460 mm,4,Manual,1493 cc
+146,KIA,SELTOS,Seltos HTE Opt,12.07,19.74465,24.74,369400.0,,,YES,,YES,,,,,2WD,Petrol,6-Speed,4460 mm,4,Manual,1497 cc
+147,KIA,SELTOS,Seltos HTE Opt Diesel,12.07,19.74465,24.74,369400.0,,,YES,,YES,,,,,2WD,Diesel,6-Speed,4460 mm,4,Manual,1493 cc
+148,KIA,SELTOS,Seltos HTE Opt Diesel AT,12.07,19.74465,24.74,369400.0,,,YES,,YES,,,,,2WD,Diesel,6-Speed,4460 mm,4,Automatic,1493 cc
+149,KIA,SELTOS,Seltos HTE Opt TGDi iMT,12.07,19.74465,24.74,369400.0,,,YES,,YES,,,,,2WD,Petrol,6-Speed,4460 mm,4,Manual,1482 cc
+150,KIA,SELTOS,Seltos HTE Opt iVT,12.07,19.74465,24.74,369400.0,,,YES,,YES,,,,,2WD,Petrol,6-Speed,4460 mm,4,Automatic,1497 cc
+151,KIA,SELTOS,Seltos HTK,12.07,19.74465,24.74,369400.0,,,YES,,YES,,,,,2WD,Petrol,6-Speed,4460 mm,4,Manual,1497 cc
+152,KIA,SELTOS,Seltos HTK Diesel,12.07,19.74465,24.74,369400.0,,,YES,,YES,,,,,2WD,Diesel,6-Speed,4460 mm,4,Manual,1493 cc
+153,KIA,SELTOS,Seltos HTK Diesel AT,12.07,19.74465,24.74,369400.0,,,YES,,YES,,,,,2WD,Diesel,6-Speed,4460 mm,4,Automatic,1493 cc
+154,KIA,SELTOS,Seltos HTK Opt,12.07,19.74465,24.74,369400.0,,,YES,,YES,,,,,2WD,Petrol,6-Speed,4460 mm,4,Manual,1497 cc
+155,KIA,SELTOS,Seltos HTK Opt Diesel,12.07,19.74465,24.74,369400.0,,,YES,,YES,,,,,2WD,Diesel,6-Speed,4460 mm,4,Manual,1493 cc
+156,KIA,SELTOS,Seltos HTK Opt Diesel AT,12.07,19.74465,24.74,369400.0,,,YES,,YES,,,,,2WD,Diesel,6-Speed,4460 mm,4,Automatic,1493 cc
+157,KIA,SELTOS,Seltos HTK Opt TGDi DCT,12.07,19.74465,24.74,369400.0,,,YES,,YES,,,,,2WD,Petrol,7-Speed,4460 mm,4,Automatic,1482 cc
+158,KIA,SELTOS,Seltos HTK Opt TGDi iMT,12.07,19.74465,24.74,369400.0,,,YES,,YES,,,,,2WD,Petrol,6-Speed,4460 mm,4,Manual,1482 cc
+159,KIA,SELTOS,Seltos HTK Opt iVT,12.07,19.74465,24.74,369400.0,,,YES,,YES,,,,,2WD,Petrol,6-Speed,4460 mm,4,Automatic,1497 cc
+160,KIA,SELTOS,Seltos HTK TGDi iMT,12.07,19.74465,24.74,369400.0,,,YES,,YES,,,,,2WD,Petrol,6-Speed,4460 mm,4,Manual,1482 cc
+161,KIA,SELTOS,Seltos HTK iVT,12.07,19.74465,24.74,369400.0,,,YES,,YES,,,,,2WD,Petrol,6-Speed,4460 mm,4,Automatic,1497 cc
+162,KIA,SELTOS,Seltos HTX,12.07,19.74465,24.74,369400.0,,,YES,,YES,,,,,2WD,Petrol,6-Speed,4460 mm,4,Manual,1497 cc
+163,KIA,SELTOS,Seltos HTX A,12.07,19.74465,24.74,369400.0,,,YES,,YES,,,,,2WD,Petrol,6-Speed,4460 mm,4,Manual,1497 cc
+164,KIA,SELTOS,Seltos HTX A Diesel,12.07,19.74465,24.74,369400.0,,,YES,,YES,,,,,2WD,Diesel,6-Speed,4460 mm,4,Manual,1493 cc
+165,KIA,SELTOS,Seltos HTX A Diesel AT,12.07,19.74465,24.74,369400.0,,,YES,,YES,,,,,2WD,Diesel,6-Speed,4460 mm,4,Automatic,1493 cc
+166,KIA,SELTOS,Seltos HTX A TGDi DCT,12.07,19.74465,24.74,369400.0,,,YES,,YES,,,,,2WD,Petrol,7-Speed,4460 mm,4,Automatic,1482 cc
+167,KIA,SELTOS,Seltos HTX A iVT,12.07,19.74465,24.74,369400.0,,,YES,,YES,,,,,2WD,Petrol,6-Speed,4460 mm,4,Automatic,1497 cc
+168,KIA,SELTOS,Seltos HTX Diesel,12.07,19.74465,24.74,369400.0,,,YES,,YES,,,,,2WD,Diesel,6-Speed,4460 mm,4,Manual,1493 cc
+169,KIA,SELTOS,Seltos HTX Diesel AT,12.07,19.74465,24.74,369400.0,,,YES,,YES,,,,,2WD,Diesel,6-Speed,4460 mm,4,Automatic,1493 cc
+170,KIA,SELTOS,Seltos HTX TGDi DCT,12.07,19.74465,24.74,369400.0,,,YES,,YES,,,,,2WD,Petrol,7-Speed,4460 mm,4,Automatic,1482 cc
+171,KIA,SELTOS,Seltos HTX iVT,12.07,19.74465,24.74,369400.0,,,YES,,YES,,,,,2WD,Petrol,6-Speed,4460 mm,4,Automatic,1497 cc
+172,KIA,SELTOS,Seltos X Line A Diesel AT,,,,369400.0,,,YES,,YES,,,,,2WD,Diesel,6-Speed,4460 mm,4,Automatic,1493 cc
+173,KIA,SELTOS,Seltos X Line A TGDi DCT,,,,369400.0,,,YES,,YES,,,,,2WD,Petrol,7-Speed,4460 mm,4,Automatic,1482 cc
+174,KIA,SELTOS,Seltos X Line A iVT,,,,369400.0,,,YES,,YES,,,,,2WD,Petrol,6-Speed,4460 mm,4,Automatic,1497 cc
+175,KIA,SELTOS,Seltos X Line Diesel AT,,,,369400.0,,,YES,,YES,,,,,2WD,Diesel,6-Speed,4460 mm,4,Automatic,1493 cc
+176,KIA,SELTOS,Seltos X Line TGDi DCT,,,,369400.0,,,YES,,YES,,,,,2WD,Petrol,7-Speed,4460 mm,4,Automatic,1482 cc
+177,KIA,SELTOS,Seltos X Line iVT,,,,369400.0,,,YES,,YES,,,,,2WD,Petrol,6-Speed,4460 mm,4,Automatic,1497 cc
+178,KIA,SONET,Sonet GTX Plus Diesel AT,8.23,12.010666666666665,17.31,349210.0,,,YES,"Android Auto, Apple CarPlay",YES,,19 kmpl,,,FWD,Diesel,6-Speed AT,3995 mm,4,Automatic,1493 cc
+179,KIA,SONET,Sonet GTX Plus Turbo DCT,8.23,12.010666666666665,17.31,349210.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,18.4 kmpl,FWD,Petrol,7-Speed DCT,3995 mm,3,Automatic,998 cc
+180,KIA,SONET,Sonet HTE,8.23,12.010666666666665,17.31,349210.0,,,YES,,NO,,,,18.4 kmpl,FWD,Petrol,5-Speed,3995 mm,4,Manual,1197 cc
+181,KIA,SONET,Sonet HTE (O),8.23,12.010666666666665,17.31,349210.0,,,YES,,NO,,,,18.4 kmpl,FWD,Petrol,5-Speed,3995 mm,4,Manual,1197 cc
+182,KIA,SONET,Sonet HTE (O) Diesel,8.23,12.010666666666665,17.31,349210.0,,,YES,,NO,,24.1 kmpl,,,FWD,Diesel,6-Speed,3995 mm,4,Manual,1493 cc
+183,KIA,SONET,Sonet HTK,8.23,12.010666666666665,17.31,349210.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,18.4 kmpl,FWD,Petrol,5-Speed,3995 mm,4,Manual,1197 cc
+184,KIA,SONET,Sonet HTK (O),8.23,12.010666666666665,17.31,349210.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,18.4 kmpl,FWD,Petrol,5-Speed,3995 mm,4,Manual,1197 cc
+185,KIA,SONET,Sonet HTK (O) Diesel,8.23,12.010666666666665,17.31,349210.0,,,YES,"Android Auto, Apple CarPlay",YES,,24.1 kmpl,,,FWD,Diesel,6-Speed,3995 mm,4,Manual,1493 cc
+186,KIA,SONET,Sonet HTK (O) Turbo iMT,8.23,12.010666666666665,17.31,349210.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,18.4 kmpl,FWD,Petrol,6-Speed iMT,3995 mm,3,Manual,998 cc
+187,KIA,SONET,Sonet HTK Plus,8.23,12.010666666666665,17.31,349210.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,18.4 kmpl,FWD,Petrol,5-Speed,3995 mm,4,Manual,1197 cc
+188,KIA,SONET,Sonet HTK Plus (O),8.23,12.010666666666665,17.31,349210.0,,,,"Android Auto, Apple CarPlay",YES,,,,18.4 kmpl,FWD,Petrol,5-Speed,3995 mm,4,Manual,1197 cc
+189,KIA,SONET,Sonet HTK Plus (O) Diesel,8.23,12.010666666666665,17.31,349210.0,,,,"Android Auto, Apple CarPlay",YES,,24.1 kmpl,,,FWD,Diesel,6-Speed,3995 mm,4,Manual,1493 cc
+190,KIA,SONET,Sonet HTK Plus (O) Turbo iMT,8.23,12.010666666666665,17.31,349210.0,,,,"Android Auto, Apple CarPlay",YES,,,,18.4 kmpl,FWD,Petrol,6-Speed iMT,3995 mm,3,Manual,998 cc
+191,KIA,SONET,Sonet HTK Plus Diesel,8.23,12.010666666666665,17.31,349210.0,,,,"Android Auto, Apple CarPlay",YES,,24.1 kmpl,,,FWD,Diesel,6-Speed,3995 mm,4,Manual,1493 cc
+192,KIA,SONET,Sonet HTK Plus Turbo iMT,8.23,12.010666666666665,17.31,349210.0,,,,"Android Auto, Apple CarPlay",YES,,,,18.4 kmpl,FWD,Petrol,6-Speed iMT,3995 mm,3,Manual,998 cc
+193,KIA,SONET,Sonet HTK Turbo iMT,8.23,12.010666666666665,17.31,349210.0,,,,"Android Auto, Apple CarPlay",YES,,,,18.4 kmpl,FWD,Petrol,6-Speed iMT,3995 mm,3,Manual,998 cc
+194,KIA,SONET,Sonet HTX Diesel,8.23,12.010666666666665,17.31,349210.0,,,,"Android Auto, Apple CarPlay",YES,,24.1 kmpl,,,FWD,Diesel,6-Speed,3995 mm,4,Manual,1493 cc
+195,KIA,SONET,Sonet HTX Diesel AT,8.23,12.010666666666665,17.31,349210.0,,,,"Android Auto, Apple CarPlay",YES,,19 kmpl,,,FWD,Diesel,6-Speed AT,3995 mm,4,Automatic,1493 cc
+196,KIA,SONET,Sonet HTX Turbo DCT,8.23,12.010666666666665,17.31,349210.0,,,,"Android Auto, Apple CarPlay",YES,,,,18.4 kmpl,FWD,Petrol,7-Speed DCT,3995 mm,3,Automatic,998 cc
+197,KIA,SONET,Sonet HTX Turbo iMT,8.23,12.010666666666665,17.31,349210.0,,,,"Android Auto, Apple CarPlay",YES,,,,18.4 kmpl,FWD,Petrol,6-Speed iMT,3995 mm,3,Manual,998 cc
+198,KIA,SONET,Sonet X line Turbo DCT,,,,349210.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,18.4 kmpl,FWD,Petrol,7-Speed DCT,3995 mm,3,Automatic,998 cc
+199,MAHINDRA,BOLERO,Bolero B4,9.04,10.4635,11.91,371400.0,,,YES,,NO,,16 kmpl,,,RWD,Diesel,5-Speed,3995 mm,3,Manual,1493 cc
+200,MAHINDRA,BOLERO,Bolero B6,9.04,10.4635,11.91,371400.0,,,YES,,NO,,16 kmpl,,,RWD,Diesel,5-Speed,3995 mm,3,Manual,1493 cc
+201,MAHINDRA,BOLERO,Bolero B6 Opt,9.04,10.4635,11.91,371400.0,,,YES,,NO,,16 kmpl,,,RWD,Diesel,5-Speed,3995 mm,3,Manual,1493 cc
+202,MAHINDRA,BOLERO,Bolero B8,9.04,10.4635,11.91,371400.0,,,YES,,NO,,16 kmpl,,,RWD,Diesel,5-Speed,3995 mm,3,Manual,1493 cc
+203,MAHINDRA,SCORPIO,Scorpio S,14.88,17.9755,21.09,422000.0,,,,,,,14.44 kmpl,,,RWD,Diesel,6-Speed,4456 mm,4,Manual,2184 cc
+204,MAHINDRA,SCORPIO,Scorpio S 11,14.88,17.9755,21.09,422000.0,,,,,,,14.44 kmpl,,,RWD,Diesel,6-Speed,4456 mm,4,Manual,2184 cc
+205,MAHINDRA,SCORPIO,Scorpio S 11 7CC,14.88,17.9755,21.09,422000.0,,,,,,,14.44 kmpl,,,RWD,Diesel,6-Speed,4456 mm,4,Manual,2184 cc
+206,MAHINDRA,SCORPIO,Scorpio S 9 Seater,14.88,17.9755,21.09,422000.0,,,,,,,14.44 kmpl,,,RWD,Diesel,6-Speed,4456 mm,4,Manual,2184 cc
+207,MAHINDRA,THAR,Thar AXT RWD Diesel,11.08,17.070857142857143,21.69,235100.0,,,,,NO,11 kmpl,,,,RWD,Diesel,6-Speed,3985 mm,4,Manual,1497 cc
+208,MAHINDRA,THAR,Thar LXT 4WD,11.08,17.070857142857143,21.69,235100.0,,,,"Android Auto, Apple CarPlay",YES,,,,,4WD,Petrol,6-Speed,3985 mm,4,Manual,1997 cc
+209,MAHINDRA,THAR,Thar LXT 4WD AT,11.08,17.070857142857143,21.69,235100.0,,,,"Android Auto, Apple CarPlay",YES,,,9 kmpl,,4WD,Petrol,6-Speed,3985 mm,4,Automatic,1997 cc
+210,MAHINDRA,THAR,Thar LXT 4WD Diesel,11.08,17.070857142857143,21.69,235100.0,,,,"Android Auto, Apple CarPlay",YES,11 kmpl,,,,4WD,Diesel,6-Speed,3985 mm,4,Manual,1497 cc
+211,MAHINDRA,THAR,Thar LXT 4WD Diesel AT,11.08,17.070857142857143,21.69,235100.0,,,,"Android Auto, Apple CarPlay",YES,11 kmpl,,,,4WD,Diesel,6-Speed,3985 mm,4,Automatic,2184 cc
+212,MAHINDRA,THAR,Thar LXT RWD AT,11.08,17.070857142857143,21.69,235100.0,,,,"Android Auto, Apple CarPlay",YES,,,9 kmpl,,RWD,Petrol,6-Speed,3985 mm,4,Automatic,1997 cc
+213,MAHINDRA,THAR,Thar LXT RWD Diesel,11.08,17.070857142857143,21.69,235100.0,,,,"Android Auto, Apple CarPlay",YES,,,,,RWD,Diesel,6-Speed,3985 mm,4,Manual,1497 cc
+214,MARUTI,ERTIGA,Ertiga Lxi (O),9.75,11.384333333333332,13.33,585400.0,,,YES,,NO,,,,20.51 kmpl,FWD,Petrol,5-Speed,4395 mm,4,Manual,1462 cc
+215,MARUTI,ERTIGA,Ertiga VXi (O),9.75,11.384333333333332,13.33,585400.0,,,YES,,NO,,,,20.51 kmpl,FWD,Petrol,5-Speed,4395 mm,4,Manual,1462 cc
+216,MARUTI,ERTIGA,Ertiga VXi (O) CNG,9.75,11.384333333333332,13.33,585400.0,,26.11 km/kg,YES,,NO,,,,,FWD,CNG,5-Speed,4395 mm,4,Manual,1462 cc
+217,MARUTI,FRONX,FRONX Alpha Turbo,7.73,10.6745,14.73,301300.0,,,,"Android Auto, Apple CarPlay",YES,,,,21.5 kmpl,FWD,Petrol,5-Speed,3995 mm,3,Manual,998 cc
+218,MARUTI,FRONX,FRONX Alpha Turbo AT,7.73,10.6745,14.73,301300.0,,,,"Android Auto, Apple CarPlay",YES,,,,20.01 kmpl,FWD,Petrol,6-Speed AT,3995 mm,3,Automatic,998 cc
+219,MARUTI,FRONX,FRONX Alpha Turbo DT,7.73,10.6745,14.73,301300.0,,,,"Android Auto, Apple CarPlay",YES,,,,21.5 kmpl,FWD,Petrol,5-Speed,3995 mm,3,Manual,998 cc
+220,MARUTI,FRONX,FRONX Alpha Turbo DT AT,7.73,10.6745,14.73,301300.0,,,,"Android Auto, Apple CarPlay",YES,,,,20.01 kmpl,FWD,Petrol,6-Speed AT,3995 mm,3,Automatic,998 cc
+221,MARUTI,FRONX,FRONX Delta,7.73,10.6745,14.73,301300.0,,,,"Android Auto, Apple CarPlay",YES,,,,21.79 kmpl,FWD,Petrol,5-Speed,3995 mm,4,Manual,1197 cc
+222,MARUTI,FRONX,FRONX Delta AMT,7.73,10.6745,14.73,301300.0,,,,"Android Auto, Apple CarPlay",YES,,,,22.89 kmpl,FWD,Petrol,5-Speed AMT,3995 mm,4,Automatic,1197 cc
+223,MARUTI,FRONX,FRONX Delta CNG,7.73,10.6745,14.73,301300.0,,28.51 km/kg,,"Android Auto, Apple CarPlay",YES,,,,,FWD,CNG,5-Speed,3995 mm,4,Manual,1197 cc
+224,MARUTI,FRONX,FRONX Delta Plus,7.73,10.6745,14.73,301300.0,,,,"Android Auto, Apple CarPlay",YES,,,,21.79 kmpl,FWD,Petrol,5-Speed,3995 mm,4,Manual,1197 cc
+225,MARUTI,FRONX,FRONX Delta Plus AMT,7.73,10.6745,14.73,301300.0,,,,"Android Auto, Apple CarPlay",YES,,,,22.89 kmpl,FWD,Petrol,5-Speed AMT,3995 mm,4,Automatic,1197 cc
+226,MARUTI,FRONX,FRONX Delta Plus Opt,7.73,10.6745,14.73,301300.0,,,,"Android Auto, Apple CarPlay",YES,,,,21.79 kmpl,FWD,Petrol,5-Speed,3995 mm,4,Manual,1197 cc
+227,MARUTI,FRONX,FRONX Delta Plus Opt AMT,7.73,10.6745,14.73,301300.0,,,,"Android Auto, Apple CarPlay",YES,,,,22.89 kmpl,FWD,Petrol,5-Speed AMT,3995 mm,4,Automatic,1197 cc
+228,MARUTI,FRONX,FRONX Delta Plus Turbo,7.73,10.6745,14.73,301300.0,,,,"Android Auto, Apple CarPlay",YES,,,,21.5 kmpl,FWD,Petrol,5-Speed,3995 mm,3,Manual,998 cc
+229,MARUTI,FRONX,FRONX Sigma,7.73,10.6745,14.73,301300.0,,,,,NO,,,,21.79 kmpl,FWD,Petrol,5-Speed,3995 mm,4,Manual,1197 cc
+230,MARUTI,FRONX,FRONX Sigma CNG,7.73,10.6745,14.73,301300.0,,28.51 km/kg,,,NO,,,,,FWD,CNG,5-Speed,3995 mm,4,Manual,1197 cc
+231,MARUTI,FRONX,FRONX Zeta Turbo,7.73,10.6745,14.73,301300.0,,,,"Android Auto, Apple CarPlay",YES,,,,21.5 kmpl,FWD,Petrol,5-Speed,3995 mm,3,Manual,998 cc
+232,MARUTI,FRONX,FRONX Zeta Turbo AT,7.73,10.6745,14.73,301300.0,,,,"Android Auto, Apple CarPlay",YES,,,,20.01 kmpl,FWD,Petrol,6-Speed AT,3995 mm,3,Automatic,998 cc
+233,MARUTI,GRAND VITARA,Grand Vitara Alpha,11.94,18.335285714285714,22.88,296400.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,21.11 kmpl,FWD,Petrol,5-Speed,4345 mm,4,Manual,1462 cc
+234,MARUTI,GRAND VITARA,Grand Vitara Alpha AT,11.94,18.335285714285714,22.88,296400.0,,,YES,"Android Auto, Apple CarPlay",YES,,,19.05 kmpl,20.58 kmpl,FWD,Petrol,6-Speed,4345 mm,4,Automatic,1462 cc
+235,MARUTI,GRAND VITARA,Grand Vitara Alpha AT DT,11.94,18.335285714285714,22.88,296400.0,,,YES,"Android Auto, Apple CarPlay",YES,,,19.05 kmpl,20.58 kmpl,FWD,Petrol,6-Speed,4345 mm,4,Automatic,1462 cc
+236,MARUTI,GRAND VITARA,Grand Vitara Alpha AWD AT,11.94,18.335285714285714,22.88,296400.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,19.38 kmpl,AWD,Petrol,5-Speed,4345 mm,4,Automatic,1462 cc
+237,MARUTI,GRAND VITARA,Grand Vitara Alpha AWD AT DT,11.94,18.335285714285714,22.88,296400.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,19.38 kmpl,AWD,Petrol,5-Speed,4345 mm,4,Automatic,1462 cc
+238,MARUTI,GRAND VITARA,Grand Vitara Alpha AWD Opt AT,11.94,18.335285714285714,22.88,296400.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,19.38 kmpl,AWD,Petrol,5-Speed,4345 mm,4,Automatic,1462 cc
+239,MARUTI,GRAND VITARA,Grand Vitara Alpha DT,11.94,18.335285714285714,22.88,296400.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,21.11 kmpl,FWD,Petrol,5-Speed,4345 mm,4,Manual,1462 cc
+240,MARUTI,GRAND VITARA,Grand Vitara Alpha Opt,11.94,18.335285714285714,22.88,296400.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,21.11 kmpl,FWD,Petrol,5-Speed,4345 mm,4,Manual,1462 cc
+241,MARUTI,GRAND VITARA,Grand Vitara Alpha Opt AT,11.94,18.335285714285714,22.88,296400.0,,,YES,"Android Auto, Apple CarPlay",YES,,,19.05 kmpl,20.58 kmpl,FWD,Petrol,6-Speed,4345 mm,4,Automatic,1462 cc
+242,MARUTI,GRAND VITARA,Grand Vitara Alpha Opt AT DT,11.94,18.335285714285714,22.88,296400.0,,,YES,"Android Auto, Apple CarPlay",YES,,,19.05 kmpl,20.58 kmpl,FWD,Petrol,6-Speed,4345 mm,4,Automatic,1462 cc
+243,MARUTI,GRAND VITARA,Grand Vitara Alpha Opt DT,11.94,18.335285714285714,22.88,296400.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,21.11 kmpl,FWD,Petrol,5-Speed,4345 mm,4,Manual,1462 cc
+244,MARUTI,GRAND VITARA,Grand Vitara Delta,11.94,18.335285714285714,22.88,296400.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,21.11 kmpl,FWD,Petrol,5-Speed,4345 mm,4,Manual,1462 cc
+245,MARUTI,GRAND VITARA,Grand Vitara Delta AT,11.94,18.335285714285714,22.88,296400.0,,,YES,"Android Auto, Apple CarPlay",YES,,,19.05 kmpl,20.58 kmpl,FWD,Petrol,6-Speed,4345 mm,4,Automatic,1462 cc
+246,MARUTI,GRAND VITARA,Grand Vitara Delta CNG,11.94,18.335285714285714,22.88,296400.0,,26.6 km/kg,YES,"Android Auto, Apple CarPlay",YES,,,,,FWD,CNG,5-Speed,4345 mm,4,Manual,1462 cc
+247,MARUTI,GRAND VITARA,Grand Vitara Delta Plus Hybrid CVT,11.94,18.335285714285714,22.88,296400.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,27.97 kmpl,FWD,Petrol,E-CVT,4345 mm,3,Automatic,1490 cc
+248,MARUTI,GRAND VITARA,Grand Vitara Sigma,11.94,18.335285714285714,22.88,296400.0,,,YES,,NO,,,,21.11 kmpl,FWD,Petrol,5-Speed,4345 mm,4,Manual,1462 cc
+249,MARUTI,GRAND VITARA,Grand Vitara Zeta,11.94,18.335285714285714,22.88,296400.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,21.11 kmpl,FWD,Petrol,5-Speed,4345 mm,4,Manual,1462 cc
+250,MARUTI,GRAND VITARA,Grand Vitara Zeta AT,11.94,18.335285714285714,22.88,296400.0,,,YES,"Android Auto, Apple CarPlay",YES,,,19.05 kmpl,20.58 kmpl,FWD,Petrol,6-Speed,4345 mm,4,Automatic,1462 cc
+251,MARUTI,GRAND VITARA,Grand Vitara Zeta AT DT,11.94,18.335285714285714,22.88,296400.0,,,YES,"Android Auto, Apple CarPlay",YES,,,19.05 kmpl,20.58 kmpl,FWD,Petrol,6-Speed,4345 mm,4,Automatic,1462 cc
+252,MARUTI,GRAND VITARA,Grand Vitara Zeta CNG,11.94,18.335285714285714,22.88,296400.0,,26.6 km/kg,YES,"Android Auto, Apple CarPlay",YES,,,,,FWD,CNG,5-Speed,4345 mm,4,Manual,1462 cc
+253,MARUTI,GRAND VITARA,Grand Vitara Zeta DT,11.94,18.335285714285714,22.88,296400.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,21.11 kmpl,FWD,Petrol,5-Speed,4345 mm,4,Manual,1462 cc
+254,MARUTI,GRAND VITARA,Grand Vitara Zeta Opt,11.94,18.335285714285714,22.88,296400.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,21.11 kmpl,FWD,Petrol,5-Speed,4345 mm,4,Manual,1462 cc
+255,MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT,11.94,18.335285714285714,22.88,296400.0,,,YES,"Android Auto, Apple CarPlay",YES,,,19.05 kmpl,20.58 kmpl,FWD,Petrol,6-Speed,4345 mm,4,Automatic,1462 cc
+256,MARUTI,GRAND VITARA,Grand Vitara Zeta Opt AT DT,11.94,18.335285714285714,22.88,296400.0,,,YES,"Android Auto, Apple CarPlay",YES,,,19.05 kmpl,20.58 kmpl,FWD,Petrol,6-Speed,4345 mm,4,Automatic,1462 cc
+257,MARUTI,GRAND VITARA,Grand Vitara Zeta Opt DT,11.94,18.335285714285714,22.88,296400.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,21.11 kmpl,FWD,Petrol,5-Speed,4345 mm,4,Manual,1462 cc
+258,MARUTI,GRAND VITARA,Grand Vitara Zeta Plus Hybrid CVT,11.94,18.335285714285714,22.88,296400.0,,,YES,"Android Auto, Apple CarPlay",YES,,,21.97 kmpl,27.97 kmpl,FWD,Petrol,E-CVT,4345 mm,3,Automatic,1490 cc
+259,MARUTI,GRAND VITARA,Grand Vitara Zeta Plus Hybrid CVT DT,11.94,18.335285714285714,22.88,296400.0,,,YES,"Android Auto, Apple CarPlay",YES,,,21.97 kmpl,27.97 kmpl,FWD,Petrol,E-CVT,4345 mm,3,Automatic,1490 cc
+260,MARUTI,GRAND VITARA,Grand Vitara Zeta Plus Opt Hybrid CVT,11.94,18.335285714285714,22.88,296400.0,,,YES,"Android Auto, Apple CarPlay",YES,,,21.97 kmpl,27.97 kmpl,FWD,Petrol,E-CVT,4345 mm,3,Automatic,1490 cc
+261,MARUTI,S PRESSO,S Presso LXI CNG,3.94,4.73575,5.63,173620.0,,32.73 km/kg,YES,,NO,,,,,FWD,CNG,5-Speed,3565 mm,3,Manual,998 cc
+262,MARUTI,S PRESSO,S Presso LXi,3.94,4.73575,5.63,173620.0,,,YES,,NO,,,,24.12 kmpl,FWD,Petrol,5-Speed,3565 mm,3,Manual,998 cc
+263,MARUTI,S PRESSO,S Presso STD,3.94,4.73575,5.63,173620.0,,,YES,,NO,,,,24.12 kmpl,FWD,Petrol,5-Speed,3565 mm,3,Manual,998 cc
+264,MARUTI,S PRESSO,S Presso VXI,3.94,4.73575,5.63,173620.0,,,YES,,NO,,,,24.76 kmpl,FWD,Petrol,5-Speed,3565 mm,3,Manual,998 cc
+265,MARUTI,VITARA BREZZA,Vitara Brezza LXI,,,,618300.0,,,YES,,NO,,,18 kmpl,17.03 kmpl,FWD,Petrol,5 Speed,3995 mm,4,Manual,1462 cc
+266,MARUTI,VITARA BREZZA,Vitara Brezza VXI,,,,618300.0,,,YES,,NO,,,,17.03 kmpl,FWD,Petrol,5 Speed,3995 mm,4,Manual,1462 cc
+267,MARUTI,VITARA BREZZA,Vitara Brezza VXI AT,,,,618300.0,,,YES,,NO,,,,18.76 kmpl,FWD,Petrol,4 Speed,3995 mm,4,Automatic,1462 cc
+268,MARUTI,VITARA BREZZA,Vitara Brezza ZXI,,,,618300.0,,,YES,,YES,,,,17.03 kmpl,FWD,Petrol,5 Speed,3995 mm,4,Manual,1462 cc
+269,MARUTI,VITARA BREZZA,Vitara Brezza ZXI AT,,,,618300.0,,,YES,,YES,,,,18.76 kmpl,FWD,Petrol,4 Speed,3995 mm,4,Automatic,1462 cc
+270,MARUTI,VITARA BREZZA,Vitara Brezza ZXI Plus,,,,618300.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,17.03 kmpl,FWD,Petrol,5 Speed,3995 mm,4,Manual,1462 cc
+271,MARUTI,VITARA BREZZA,Vitara Brezza ZXI Plus AT,,,,618300.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,18.76 kmpl,FWD,Petrol,4 Speed,3995 mm,4,Automatic,1462 cc
+272,MARUTI,VITARA BREZZA,Vitara Brezza ZXI Plus AT Dual Tone,,,,618300.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,18.76 kmpl,FWD,Petrol,4 Speed,3995 mm,4,Automatic,1462 cc
+273,MARUTI,VITARA BREZZA,Vitara Brezza ZXI Plus Dual Tone,,,,618300.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,17.03 kmpl,FWD,Petrol,5 Speed,3995 mm,4,Manual,1462 cc
+274,MARUTI,XL6,XL6 Alpha,12.8,15.393333333333334,17.8,158282.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,20.97 kmpl,FWD,Petrol,5-Speed,4445 mm,4,Manual,1462 cc
+275,MARUTI,XL6,XL6 Alpha AT,12.8,15.393333333333334,17.8,158282.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,20.27 kmpl,FWD,Petrol,6-Speed AT,4445 mm,4,Automatic,1462 cc
+276,MARUTI,XL6,XL6 Alpha Plus,12.8,15.393333333333334,17.8,158282.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,20.97 kmpl,FWD,Petrol,5-Speed,4445 mm,4,Manual,1462 cc
+277,MARUTI,XL6,XL6 Alpha Plus AT,12.8,15.393333333333334,17.8,158282.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,20.27 kmpl,FWD,Petrol,6-Speed AT,4445 mm,4,Automatic,1462 cc
+278,MARUTI,XL6,XL6 Alpha Plus AT Dual Tone,12.8,15.393333333333334,17.8,158282.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,20.27 kmpl,FWD,Petrol,6-Speed AT,4445 mm,4,Automatic,1462 cc
+279,MARUTI,XL6,XL6 Alpha Plus Dual Tone,12.8,15.393333333333334,17.8,158282.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,20.97 kmpl,FWD,Petrol,5-Speed,4445 mm,4,Manual,1462 cc
+280,MARUTI,XL6,XL6 Zeta,12.8,15.393333333333334,17.8,158282.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,20.97 kmpl,FWD,Petrol,5-Speed,4445 mm,4,Manual,1462 cc
+281,MARUTI,XL6,XL6 Zeta AT,12.8,15.393333333333334,17.8,158282.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,20.27 kmpl,FWD,Petrol,6-Speed AT,4445 mm,4,Automatic,1462 cc
+282,MARUTI,XL6,XL6 Zeta CNG,12.8,15.393333333333334,17.8,158282.0,,26.32 km/kg,YES,"Android Auto, Apple CarPlay",YES,,,,,FWD,CNG,5-Speed,4445 mm,4,Manual,1462 cc
+283,TATA,NEXON,Nexon Creative,8.15,13.43215,17.6,631100.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,17.44 kmpl,FWD,Petrol,6-Speed,3995 mm,3,Manual,1199 cc
+284,TATA,NEXON,Nexon Creative AMT,8.15,13.43215,17.6,631100.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,17.18 kmpl,FWD,Petrol,6-Speed AMT,3995 mm,3,Automatic,1199 cc
+285,TATA,NEXON,Nexon Creative CNG,8.15,13.43215,17.6,631100.0,,17.44 km/kg,YES,"Android Auto, Apple CarPlay",YES,,,,,FWD,CNG,6-Speed,3995 mm,3,Manual,1199 cc
+286,TATA,NEXON,Nexon Creative DCA,8.15,13.43215,17.6,631100.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,17.01 kmpl,FWD,Petrol,7-Speed DCA,3995 mm,3,Automatic,1199 cc
+287,TATA,NEXON,Nexon Creative Diesel,8.15,13.43215,17.6,631100.0,,,YES,"Android Auto, Apple CarPlay",YES,,23.23 kmpl,,,FWD,Diesel,6-Speed,3995 mm,4,Manual,1497 cc
+288,TATA,NEXON,Nexon Creative Diesel AMT,8.15,13.43215,17.6,631100.0,,,YES,"Android Auto, Apple CarPlay",YES,,24.08 kmpl,,,FWD,Diesel,6-Speed AMT,3995 mm,4,Automatic,1497 cc
+289,TATA,NEXON,Nexon Creative Plus PS DT,8.15,13.43215,17.6,631100.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,17.44 kmpl,FWD,Petrol,6-Speed,3995 mm,3,Manual,1199 cc
+290,TATA,NEXON,Nexon Creative Plus PS DT CNG,8.15,13.43215,17.6,631100.0,,17.44 km/kg,YES,"Android Auto, Apple CarPlay",YES,,,,,FWD,CNG,6-Speed,3995 mm,3,Manual,1199 cc
+291,TATA,NEXON,Nexon Creative Plus PS DT DCA,8.15,13.43215,17.6,631100.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,17.01 kmpl,FWD,Petrol,7-Speed DCA,3995 mm,3,Automatic,1199 cc
+292,TATA,NEXON,Nexon Creative Plus PS DT Diesel,8.15,13.43215,17.6,631100.0,,,YES,"Android Auto, Apple CarPlay",YES,,23.23 kmpl,,,FWD,Diesel,6-Speed,3995 mm,4,Manual,1497 cc
+293,TATA,NEXON,Nexon Creative Plus PS DT Diesel AMT,8.15,13.43215,17.6,631100.0,,,YES,"Android Auto, Apple CarPlay",YES,,24.08 kmpl,,,FWD,Diesel,6-Speed AMT,3995 mm,4,Automatic,1497 cc
+294,TATA,NEXON,Nexon Creative Plus PS Dark,8.15,13.43215,17.6,631100.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,17.44 kmpl,FWD,Petrol,6-Speed,3995 mm,3,Manual,1199 cc
+295,TATA,NEXON,Nexon Creative Plus PS Dark CNG,8.15,13.43215,17.6,631100.0,,17.44 km/kg,YES,"Android Auto, Apple CarPlay",YES,,,,,FWD,CNG,6-Speed,3995 mm,3,Manual,1199 cc
+296,TATA,NEXON,Nexon Creative Plus PS Dark DCA,8.15,13.43215,17.6,631100.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,17.01 kmpl,FWD,Petrol,7-Speed DCA,3995 mm,3,Automatic,1199 cc
+297,TATA,NEXON,Nexon Creative Plus PS Dark Diesel,8.15,13.43215,17.6,631100.0,,,YES,"Android Auto, Apple CarPlay",YES,,23.23 kmpl,,,FWD,Diesel,6-Speed,3995 mm,4,Manual,1497 cc
+298,TATA,NEXON,Nexon Creative Plus PS Dark Diesel AMT,8.15,13.43215,17.6,631100.0,,,YES,"Android Auto, Apple CarPlay",YES,,24.08 kmpl,,,FWD,Diesel,6-Speed AMT,3995 mm,4,Automatic,1497 cc
+299,TATA,NEXON,Nexon Creative Plus S,8.15,13.43215,17.6,631100.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,17.44 kmpl,FWD,Petrol,6-Speed,3995 mm,3,Manual,1199 cc
+300,TATA,NEXON,Nexon Creative Plus S AMT,8.15,13.43215,17.6,631100.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,17.18 kmpl,FWD,Petrol,6-Speed AMT,3995 mm,3,Automatic,1199 cc
+301,TATA,NEXON,Nexon Creative Plus S CNG,8.15,13.43215,17.6,631100.0,,17.44 km/kg,YES,"Android Auto, Apple CarPlay",YES,,,,,FWD,CNG,6-Speed,3995 mm,3,Manual,1199 cc
+302,TATA,NEXON,Nexon Creative Plus S Dark,8.15,13.43215,17.6,631100.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,17.44 kmpl,FWD,Petrol,6-Speed,3995 mm,3,Manual,1199 cc
+303,TATA,NEXON,Nexon Creative Plus S Dark AMT,8.15,13.43215,17.6,631100.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,17.18 kmpl,FWD,Petrol,6-Speed AMT,3995 mm,3,Automatic,1199 cc
+304,TATA,NEXON,Nexon Creative Plus S Dark CNG,8.15,13.43215,17.6,631100.0,,17.44 km/kg,YES,"Android Auto, Apple CarPlay",YES,,,,,FWD,CNG,6-Speed,3995 mm,3,Manual,1199 cc
+305,TATA,NEXON,Nexon Creative Plus S Dark Diesel,8.15,13.43215,17.6,631100.0,,,YES,"Android Auto, Apple CarPlay",YES,,23.23 kmpl,,,FWD,Diesel,6-Speed,3995 mm,4,Manual,1497 cc
+306,TATA,NEXON,Nexon Creative Plus S Dark Diesel AMT,8.15,13.43215,17.6,631100.0,,,YES,"Android Auto, Apple CarPlay",YES,,24.08 kmpl,,,FWD,Diesel,6-Speed AMT,3995 mm,4,Automatic,1497 cc
+307,TATA,NEXON,Nexon Creative Plus S Diesel,8.15,13.43215,17.6,631100.0,,,YES,"Android Auto, Apple CarPlay",YES,,23.23 kmpl,,,FWD,Diesel,6-Speed,3995 mm,4,Manual,1497 cc
+308,TATA,NEXON,Nexon Creative Plus S Diesel AMT,8.15,13.43215,17.6,631100.0,,,YES,"Android Auto, Apple CarPlay",YES,,24.08 kmpl,,,FWD,Diesel,6-Speed AMT,3995 mm,4,Automatic,1497 cc
+309,TATA,NEXON,Nexon Fearless Plus A PS DT DCA,8.15,13.43215,17.6,631100.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,17.01 kmpl,FWD,Petrol,7-Speed DCA,3995 mm,3,Automatic,1199 cc
+310,TATA,NEXON,Nexon Fearless Plus A PS Dark DCA,8.15,13.43215,17.6,631100.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,17.01 kmpl,FWD,Petrol,7-Speed DCA,3995 mm,3,Automatic,1199 cc
+311,TATA,NEXON,Nexon Fearless Plus A PS Red Dark DCA,8.15,13.43215,17.6,631100.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,17.01 kmpl,FWD,Petrol,7-Speed DCA,3995 mm,3,Automatic,1199 cc
+312,TATA,NEXON,Nexon Fearless Plus PS DT,8.15,13.43215,17.6,631100.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,17.44 kmpl,FWD,Petrol,6-Speed,3995 mm,3,Manual,1199 cc
+313,TATA,NEXON,Nexon Fearless Plus PS DT CNG,8.15,13.43215,17.6,631100.0,,17.44 km/kg,YES,"Android Auto, Apple CarPlay",YES,,,,,FWD,CNG,6-Speed,3995 mm,3,Manual,1199 cc
+314,TATA,NEXON,Nexon Fearless Plus PS DT DCA,8.15,13.43215,17.6,631100.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,17.01 kmpl,FWD,Petrol,7-Speed DCA,3995 mm,3,Automatic,1199 cc
+315,TATA,NEXON,Nexon Fearless Plus PS DT Diesel,8.15,13.43215,17.6,631100.0,,,YES,"Android Auto, Apple CarPlay",YES,,23.23 kmpl,,,FWD,Diesel,6-Speed,3995 mm,4,Manual,1497 cc
+316,TATA,NEXON,Nexon Fearless Plus PS DT Diesel AMT,8.15,13.43215,17.6,631100.0,,,YES,"Android Auto, Apple CarPlay",YES,,24.08 kmpl,,,FWD,Diesel,6-Speed AMT,3995 mm,4,Automatic,1497 cc
+317,TATA,NEXON,Nexon Fearless Plus PS Dark,8.15,13.43215,17.6,631100.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,17.44 kmpl,FWD,Petrol,6-Speed,3995 mm,3,Manual,1199 cc
+318,TATA,NEXON,Nexon Fearless Plus PS Dark CNG,8.15,13.43215,17.6,631100.0,,17.44 km/kg,YES,"Android Auto, Apple CarPlay",YES,,,,,FWD,CNG,6-Speed,3995 mm,3,Manual,1199 cc
+319,TATA,NEXON,Nexon Fearless Plus PS Dark DCA,8.15,13.43215,17.6,631100.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,17.01 kmpl,FWD,Petrol,7-Speed DCA,3995 mm,3,Automatic,1199 cc
+320,TATA,NEXON,Nexon Fearless Plus PS Dark Diesel,8.15,13.43215,17.6,631100.0,,,YES,"Android Auto, Apple CarPlay",YES,,23.23 kmpl,,,FWD,Diesel,6-Speed,3995 mm,4,Manual,1497 cc
+321,TATA,NEXON,Nexon Fearless Plus PS Dark Diesel AMT,8.15,13.43215,17.6,631100.0,,,YES,"Android Auto, Apple CarPlay",YES,,24.08 kmpl,,,FWD,Diesel,6-Speed AMT,3995 mm,4,Automatic,1497 cc
+322,TATA,NEXON,Nexon Fearless Plus PS Red Dark,8.15,13.43215,17.6,631100.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,17.44 kmpl,FWD,Petrol,6-Speed,3995 mm,3,Manual,1199 cc
+323,TATA,NEXON,Nexon Fearless Plus PS Red Dark CNG,8.15,13.43215,17.6,631100.0,,17.44 km/kg,YES,"Android Auto, Apple CarPlay",YES,,,,,FWD,CNG,6-Speed,3995 mm,3,Manual,1199 cc
+324,TATA,NEXON,Nexon Fearless Plus PS Red Dark Diesel,8.15,13.43215,17.6,631100.0,,,YES,"Android Auto, Apple CarPlay",YES,,23.23 kmpl,,,FWD,Diesel,6-Speed,3995 mm,4,Manual,1497 cc
+325,TATA,NEXON,Nexon Pure Plus,8.15,13.43215,17.6,631100.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,17.44 kmpl,FWD,Petrol,6-Speed,3995 mm,3,Manual,1199 cc
+326,TATA,NEXON,Nexon Pure Plus AMT,8.15,13.43215,17.6,631100.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,17.18 kmpl,FWD,Petrol,6-Speed,3995 mm,3,Automatic,1199 cc
+327,TATA,NEXON,Nexon Pure Plus CNG,8.15,13.43215,17.6,631100.0,,17.44 km/kg,YES,"Android Auto, Apple CarPlay",YES,,,,,FWD,CNG,6-Speed,3995 mm,3,Manual,1199 cc
+328,TATA,NEXON,Nexon Pure Plus Diesel,8.15,13.43215,17.6,631100.0,,,YES,"Android Auto, Apple CarPlay",YES,,23.23 kmpl,,,FWD,Diesel,6-Speed,3995 mm,4,Manual,1497 cc
+329,TATA,NEXON,Nexon Pure Plus Diesel AMT,8.15,13.43215,17.6,631100.0,,,YES,"Android Auto, Apple CarPlay",YES,,24.08 kmpl,,,FWD,Diesel,6-Speed,3995 mm,4,Automatic,1497 cc
+330,TATA,NEXON,Nexon Pure Plus S,8.15,13.43215,17.6,631100.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,17.44 kmpl,FWD,Petrol,6-Speed,3995 mm,3,Manual,1199 cc
+331,TATA,NEXON,Nexon Pure Plus S AMT,8.15,13.43215,17.6,631100.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,17.18 kmpl,FWD,Petrol,6-Speed,3995 mm,3,Automatic,1199 cc
+332,TATA,NEXON,Nexon Pure Plus S CNG,8.15,13.43215,17.6,631100.0,,17.44 km/kg,YES,"Android Auto, Apple CarPlay",YES,,,,,FWD,CNG,6-Speed,3995 mm,3,Manual,1199 cc
+333,TATA,NEXON,Nexon Pure Plus S Diesel,8.15,13.43215,17.6,631100.0,,,YES,"Android Auto, Apple CarPlay",YES,,23.23 kmpl,,,FWD,Diesel,6-Speed,3995 mm,4,Manual,1497 cc
+334,TATA,NEXON,Nexon Smart,8.15,13.43215,17.6,631100.0,,,YES,,NO,,,,17.44 kmpl,FWD,Petrol,5-Speed,3995 mm,3,Manual,1199 cc
+335,TATA,NEXON,Nexon Smart CNG,8.15,13.43215,17.6,631100.0,,17.44 km/kg,YES,,NO,,,,,FWD,CNG,6-Speed,3995 mm,3,Manual,1199 cc
+336,TATA,NEXON,Nexon Smart Plus,8.15,13.43215,17.6,631100.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,17.44 kmpl,FWD,Petrol,5-Speed,3995 mm,3,Manual,1199 cc
+337,TATA,NEXON,Nexon Smart Plus AMT,8.15,13.43215,17.6,631100.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,17.18 kmpl,FWD,Petrol,6-Speed AMT,3995 mm,3,Automatic,1199 cc
+338,TATA,NEXON,Nexon Smart Plus CNG,8.15,13.43215,17.6,631100.0,,17.44 km/kg,YES,"Android Auto, Apple CarPlay",YES,,,,,FWD,CNG,6-Speed,3995 mm,3,Manual,1199 cc
+339,TATA,NEXON,Nexon Smart Plus Diesel,8.15,13.43215,17.6,631100.0,,,YES,"Android Auto, Apple CarPlay",YES,,23.23 kmpl,,,FWD,Diesel,6-Speed,3995 mm,4,Manual,1497 cc
+340,TATA,NEXON,Nexon Smart Plus S,8.15,13.43215,17.6,631100.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,17.44 kmpl,FWD,Petrol,5-Speed,3995 mm,3,Manual,1199 cc
+341,TATA,NEXON,Nexon Smart Plus S CNG,8.15,13.43215,17.6,631100.0,,17.44 km/kg,YES,"Android Auto, Apple CarPlay",YES,,,,,FWD,CNG,6-Speed,3995 mm,3,Manual,1199 cc
+342,TATA,NEXON,Nexon Smart Plus S Diesel,8.15,13.43215,17.6,631100.0,,,YES,"Android Auto, Apple CarPlay",YES,,23.23 kmpl,,,FWD,Diesel,6-Speed,3995 mm,4,Manual,1497 cc
+343,TATA,PUNCH,Punch Accomplished,6.27,9.550884615384616,13.07,552800.0,,,YES,,YES,,,,,FWD,Petrol,5-Speed,3876 mm,3,Manual,1199 cc
+344,TATA,PUNCH,Punch Accomplished AMT,6.27,9.550884615384616,13.07,552800.0,,,YES,,YES,,,,,FWD,Petrol,5-Speed,3876 mm,3,Automatic,1199 cc
+345,TATA,PUNCH,Punch Accomplished CNG,6.27,9.550884615384616,13.07,552800.0,,,YES,,YES,,,,,FWD,CNG,5-Speed,3876 mm,3,Manual,1199 cc
+346,TATA,PUNCH,Punch Accomplished Plus S,6.27,9.550884615384616,13.07,552800.0,,,YES,,YES,,,,,FWD,Petrol,5-Speed,3876 mm,3,Manual,1199 cc
+347,TATA,PUNCH,Punch Accomplished Plus S AMT,6.27,9.550884615384616,13.07,552800.0,,,YES,,YES,,,,,FWD,Petrol,5-Speed,3876 mm,3,Automatic,1199 cc
+348,TATA,PUNCH,Punch Accomplished Plus S CNG AMT,6.27,9.550884615384616,13.07,552800.0,,,YES,,YES,,,,,FWD,CNG,5-Speed,3876 mm,3,Automatic,1199 cc
+349,TATA,PUNCH,Punch Accomplished Plus S Turbo,6.27,9.550884615384616,13.07,552800.0,,,YES,,YES,,,,,FWD,Petrol,6-Speed,3876 mm,3,Manual,1199 cc
+350,TATA,PUNCH,Punch Adventure,6.27,9.550884615384616,13.07,552800.0,,,YES,,YES,,,,,FWD,Petrol,5-Speed,3876 mm,3,Manual,1199 cc
+351,TATA,PUNCH,Punch Adventure AMT,6.27,9.550884615384616,13.07,552800.0,,,YES,,YES,,,,,FWD,Petrol,5-Speed,3876 mm,3,Automatic,1199 cc
+352,TATA,PUNCH,Punch Adventure CNG,6.27,9.550884615384616,13.07,552800.0,,,YES,,YES,,,,,FWD,CNG,5-Speed,3876 mm,3,Manual,1199 cc
+353,TATA,PUNCH,Punch Adventure CNG AMT,6.27,9.550884615384616,13.07,552800.0,,,YES,,YES,,,,,FWD,CNG,5-Speed,3876 mm,3,Automatic,1199 cc
+354,TATA,PUNCH,Punch Adventure S,6.27,9.550884615384616,13.07,552800.0,,,YES,,YES,,,,,FWD,Petrol,5-Speed,3876 mm,3,Manual,1199 cc
+355,TATA,PUNCH,Punch Adventure S CNG,6.27,9.550884615384616,13.07,552800.0,,,YES,,YES,,,,,FWD,CNG,5-Speed,3876 mm,3,Manual,1199 cc
+356,TATA,PUNCH,Punch Adventure S CNG AMT,6.27,9.550884615384616,13.07,552800.0,,,YES,,YES,,,,,FWD,CNG,5-Speed,3876 mm,3,Automatic,1199 cc
+357,TATA,PUNCH,Punch Adventure Turbo,6.27,9.550884615384616,13.07,552800.0,,,YES,,YES,,,,,FWD,Petrol,6-Speed,3876 mm,3,Manual,1199 cc
+358,TATA,PUNCH,Punch Pure,6.27,9.550884615384616,13.07,552800.0,,,YES,,NO,,,,,FWD,Petrol,5-Speed,3876 mm,3,Manual,1199 cc
+359,TATA,PUNCH,Punch Pure CNG,6.27,9.550884615384616,13.07,552800.0,,,YES,,NO,,,,,FWD,CNG,5-Speed,3876 mm,3,Manual,1199 cc
+360,TATA,PUNCH,Punch Pure Plus,6.27,9.550884615384616,13.07,552800.0,,,YES,,YES,,,,,FWD,Petrol,5-Speed,3876 mm,3,Manual,1199 cc
+361,TATA,PUNCH,Punch Pure Plus AMT,6.27,9.550884615384616,13.07,552800.0,,,YES,,YES,,,,,FWD,Petrol,5-Speed,3876 mm,3,Automatic,1199 cc
+362,TATA,PUNCH,Punch Pure Plus CNG,6.27,9.550884615384616,13.07,552800.0,,,YES,,YES,,,,,FWD,CNG,5-Speed,3876 mm,3,Manual,1199 cc
+363,TATA,PUNCH,Punch Pure Plus CNG AMT,6.27,9.550884615384616,13.07,552800.0,,,YES,,YES,,,,,FWD,CNG,5-Speed,3876 mm,3,Automatic,1199 cc
+364,TATA,PUNCH,Punch Pure Plus S,6.27,9.550884615384616,13.07,552800.0,,,YES,,YES,,,,,FWD,Petrol,5-Speed,3876 mm,3,Manual,1199 cc
+365,TATA,PUNCH,Punch Pure Plus S AMT,6.27,9.550884615384616,13.07,552800.0,,,YES,,YES,,,,,FWD,Petrol,5-Speed,3876 mm,3,Automatic,1199 cc
+366,TATA,PUNCH,Punch Pure Plus S CNG,6.27,9.550884615384616,13.07,552800.0,,,YES,,YES,,,,,FWD,CNG,5-Speed,3876 mm,3,Manual,1199 cc
+367,TATA,PUNCH,Punch Smart,6.27,9.550884615384616,13.07,552800.0,,,YES,,NO,,,,,FWD,Petrol,5-Speed,3876 mm,3,Manual,1199 cc
+368,TATA,PUNCH,Punch Smart CNG,6.27,9.550884615384616,13.07,552800.0,,,YES,,NO,,,,,FWD,CNG,5-Speed,3876 mm,3,Manual,1199 cc
+369,TOYOTA,HYRYDER,Hyryder G Opt,12.29,19.273333333333333,25.11,132200.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,21.12 kmpl,FWD,Petrol,5-Speed,4365 mm,4,Manual,1462 cc
+370,TOYOTA,HYRYDER,Hyryder G Opt AT,12.29,19.273333333333333,25.11,132200.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,20.58 kmpl,FWD,Petrol,6-Speed,4365 mm,4,Automatic,1462 cc
+371,TOYOTA,HYRYDER,Hyryder G Opt HYBRID,12.29,19.273333333333333,25.11,132200.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,27.97 kmpl,FWD,Petrol,5-Speed,4365 mm,3,Automatic,1490 cc
+372,TOYOTA,HYRYDER,Hyryder G Opt HYBRID Dual Tone,12.29,19.273333333333333,25.11,132200.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,27.97 kmpl,FWD,Petrol,5-Speed,4365 mm,3,Automatic,1490 cc
+373,TOYOTA,HYRYDER,Hyryder V AWD AT,12.29,19.273333333333333,25.11,132200.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,19.39 kmpl,AWD,Petrol,5-Speed,4365 mm,4,Automatic,1462 cc
+374,TOYOTA,HYRYDER,Hyryder V AWD Dual Tone AT,12.29,19.273333333333333,25.11,132200.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,19.39 kmpl,AWD,Petrol,5-Speed,4365 mm,4,Automatic,1462 cc
+375,TOYOTA,HYRYDER,Hyryder V Dual Tone,12.29,19.273333333333333,25.11,132200.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,21.12 kmpl,FWD,Petrol,5-Speed,4365 mm,4,Manual,1462 cc
+376,TOYOTA,HYRYDER,Hyryder V Dual Tone AT,12.29,19.273333333333333,25.11,132200.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,20.58 kmpl,FWD,Petrol,6-Speed,4365 mm,4,Automatic,1462 cc
+377,TOYOTA,HYRYDER,Hyryder V HYBRID Dual Tone,12.29,19.273333333333333,25.11,132200.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,27.97 kmpl,FWD,Petrol,5-Speed,4365 mm,3,Automatic,1490 cc
+378,TOYOTA,HYRYDER,Urban Cruiser Hyryder E,12.29,19.273333333333333,25.11,132200.0,,,YES,,NO,,,,21.12 kmpl,FWD,Petrol,5-Speed,4365 mm,4,Manual,1462 cc
+379,TOYOTA,HYRYDER,Urban Cruiser Hyryder G CNG,12.29,19.273333333333333,25.11,132200.0,,26.6 km/kg,YES,"Android Auto, Apple CarPlay",YES,,,,,FWD,CNG,5-Speed,4365 mm,4,Manual,1462 cc
+380,TOYOTA,HYRYDER,Urban Cruiser Hyryder S,12.29,19.273333333333333,25.11,132200.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,21.12 kmpl,FWD,Petrol,5-Speed,4365 mm,4,Manual,1462 cc
+381,TOYOTA,HYRYDER,Urban Cruiser Hyryder S AT,12.29,19.273333333333333,25.11,132200.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,20.58 kmpl,FWD,Petrol,6-Speed,4365 mm,4,Automatic,1462 cc
+382,TOYOTA,HYRYDER,Urban Cruiser Hyryder S CNG,12.29,19.273333333333333,25.11,132200.0,,26.6 km/kg,YES,"Android Auto, Apple CarPlay",YES,,,,,FWD,CNG,5-Speed,4365 mm,4,Manual,1462 cc
+383,TOYOTA,HYRYDER,Urban Cruiser Hyryder S HYBRID,12.29,19.273333333333333,25.11,132200.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,27.97 kmpl,FWD,Petrol,5-Speed,4365 mm,3,Automatic,1490 cc
+384,TOYOTA,HYRYDER,Urban Cruiser Hyryder V,12.29,19.273333333333333,25.11,132200.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,21.12 kmpl,FWD,Petrol,5-Speed,4365 mm,4,Manual,1462 cc
+385,TOYOTA,HYRYDER,Urban Cruiser Hyryder V AT,12.29,19.273333333333333,25.11,132200.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,20.58 kmpl,FWD,Petrol,6-Speed,4365 mm,4,Automatic,1462 cc
+386,TOYOTA,HYRYDER,Urban Cruiser Hyryder V HYBRID,12.29,19.273333333333333,25.11,132200.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,27.97 kmpl,FWD,Petrol,5-Speed,4365 mm,3,Automatic,1490 cc
+387,mahindra,XUV 300,XUV 3XO AX5,8.21,12.835379310344829,18.22,263751.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,18.89 kmpl,FWD,Petrol,6-Speed,3990 mm,3,Manual,1197 cc
+388,mahindra,XUV 300,XUV 3XO AX5 AT,8.21,12.835379310344829,18.22,263751.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,17.96 kmpl,FWD,Petrol,6-Speed AT,3990 mm,3,Automatic,1197 cc
+389,mahindra,XUV 300,XUV 3XO AX5 Diesel,8.21,12.835379310344829,18.22,263751.0,,,YES,"Android Auto, Apple CarPlay",YES,,20.6 kmpl,,,FWD,Diesel,6-Speed,3990 mm,4,Manual,1498 cc
+390,mahindra,XUV 300,XUV 3XO AX5 Diesel AMT,8.21,12.835379310344829,18.22,263751.0,,,YES,"Android Auto, Apple CarPlay",YES,,20.6 kmpl,,,FWD,Diesel,6-Speed AMT,3990 mm,4,Automatic,1498 cc
+391,mahindra,XUV 300,XUV 3XO AX5 L Turbo,8.21,12.835379310344829,18.22,263751.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,20.1 kmpl,FWD,Petrol,6-Speed,3990 mm,3,Manual,1197 cc
+392,mahindra,XUV 300,XUV 3XO AX5 L Turbo AT,8.21,12.835379310344829,18.22,263751.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,18.2 kmpl,FWD,Petrol,6-Speed AT,3990 mm,3,Automatic,1197 cc
+393,mahindra,XUV 300,XUV 3XO AX7 Diesel,8.21,12.835379310344829,18.22,263751.0,,,YES,"Android Auto, Apple CarPlay",YES,21.2 kmpl,18.89 kmpl,,,FWD,Diesel,6-Speed,3990 mm,4,Manual,1498 cc
+394,mahindra,XUV 300,XUV 3XO AX7 Diesel AMT,8.21,12.835379310344829,18.22,263751.0,,,YES,"Android Auto, Apple CarPlay",YES,21.2 kmpl,,,,FWD,Diesel,6-Speed AMT,3990 mm,4,Automatic,1498 cc
+395,mahindra,XUV 300,XUV 3XO AX7 L Diesel,8.21,12.835379310344829,18.22,263751.0,,,YES,"Android Auto, Apple CarPlay",YES,20.6 kmpl,,,,FWD,Diesel,6-Speed,3990 mm,4,Manual,1498 cc
+396,mahindra,XUV 300,XUV 3XO AX7 L Turbo,8.21,12.835379310344829,18.22,263751.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,20.1 kmpl,FWD,Petrol,6-Speed,3990 mm,3,Manual,1197 cc
+397,mahindra,XUV 300,XUV 3XO AX7 L Turbo AT,8.21,12.835379310344829,18.22,263751.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,18.2 kmpl,FWD,Petrol,6-Speed AT,3990 mm,3,Automatic,1197 cc
+398,mahindra,XUV 300,XUV 3XO AX7 Turbo,8.21,12.835379310344829,18.22,263751.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,20.1 kmpl,FWD,Petrol,6-Speed,3990 mm,3,Manual,1197 cc
+399,mahindra,XUV 300,XUV 3XO AX7 Turbo AT,8.21,12.835379310344829,18.22,263751.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,18.2 kmpl,FWD,Petrol,6-Speed AT,3990 mm,3,Automatic,1197 cc
+400,mahindra,XUV 300,XUV 3XO MX1,8.21,12.835379310344829,18.22,263751.0,,,YES,,NO,,,,18.89 kmpl,FWD,Petrol,6-Speed,3990 mm,3,Manual,1197 cc
+401,mahindra,XUV 300,XUV 3XO MX2 Pro,8.21,12.835379310344829,18.22,263751.0,,,YES,,NO,,,,18.89 kmpl,FWD,Petrol,6-Speed,3990 mm,3,Manual,1197 cc
+402,mahindra,XUV 300,XUV 3XO MX2 Pro AT,8.21,12.835379310344829,18.22,263751.0,,,YES,,NO,,,,17.96 kmpl,FWD,Petrol,6-Speed,3990 mm,3,Automatic,1197 cc
+403,mahindra,XUV 300,XUV 3XO MX2 Pro Diesel,8.21,12.835379310344829,18.22,263751.0,,,YES,,NO,20.6 kmpl,,,,FWD,Diesel,6-Speed,3990 mm,4,Manual,1498 cc
+404,mahindra,XUV 300,XUV 3XO MX2 diesel,8.21,12.835379310344829,18.22,263751.0,,,YES,,NO,20.6 kmpl,,,,FWD,Diesel,6-Speed,3990 mm,4,Manual,1498 cc
+405,mahindra,XUV 300,XUV 3XO MX3,8.21,12.835379310344829,18.22,263751.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,18.89 kmpl,FWD,Petrol,6-Speed,3990 mm,3,Manual,1197 cc
+406,mahindra,XUV 300,XUV 3XO MX3 AT,8.21,12.835379310344829,18.22,263751.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,17.96 kmpl,FWD,Petrol,6-Speed AT,3990 mm,3,Automatic,1197 cc
+407,mahindra,XUV 300,XUV 3XO MX3 Diesel,8.21,12.835379310344829,18.22,263751.0,,,YES,"Android Auto, Apple CarPlay",YES,20.6 kmpl,,,,FWD,Diesel,6-Speed,3990 mm,4,Manual,1498 cc
+408,mahindra,XUV 300,XUV 3XO MX3 Diesel AMT,8.21,12.835379310344829,18.22,263751.0,,,YES,"Android Auto, Apple CarPlay",YES,20.6 kmpl,,,,FWD,Diesel,6-Speed AMT,3990 mm,4,Automatic,1498 cc
+409,mahindra,XUV 300,XUV 3XO MX3 Pro,8.21,12.835379310344829,18.22,263751.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,18.89 kmpl,FWD,Petrol,6-Speed,3990 mm,3,Manual,1197 cc
+410,mahindra,XUV 300,XUV 3XO MX3 Pro AT,8.21,12.835379310344829,18.22,263751.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,17.96 kmpl,FWD,Petrol,6-Speed AT,3990 mm,3,Automatic,1197 cc
+411,mahindra,XUV 300,XUV 3XO MX3 Pro Diesel,8.21,12.835379310344829,18.22,263751.0,,,YES,"Android Auto, Apple CarPlay",YES,20.6 kmpl,,,,FWD,Diesel,6-Speed,3990 mm,4,Manual,1498 cc
+412,mahindra,XUV 300,XUV 3XO REVX A Turbo,8.21,12.835379310344829,18.22,263751.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,20.1 kmpl,FWD,Petrol,6-Speed,3990 mm,3,Manual,1197 cc
+413,mahindra,XUV 300,XUV 3XO REVX A Turbo AT,8.21,12.835379310344829,18.22,263751.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,18.2 kmpl,FWD,Petrol,6-Speed AT,3990 mm,3,Automatic,1197 cc
+414,mahindra,XUV 300,XUV 3XO REVX M,8.21,12.835379310344829,18.22,263751.0,,,YES,"Android Auto, Apple CarPlay",NO,,,,18.89 kmpl,FWD,Petrol,6-Speed,3990 mm,3,Manual,1197 cc
+415,mahindra,XUV 300,XUV 3XO REVX M (O),8.21,12.835379310344829,18.22,263751.0,,,YES,"Android Auto, Apple CarPlay",NO,,,,18.89 kmpl,FWD,Petrol,6-Speed,3990 mm,3,Manual,1197 cc
+416,mahindra,XUV 300,XUV300 W2,,,,263751.0,,,YES,,NO,,,,16.82 kmpl,FWD,Petrol,6-Speed,3995 mm,3,Manual,1197 cc
+417,mahindra,XUV 300,XUV300 W4,,,,263751.0,,,YES,,NO,,,,,FWD,Petrol,6-Speed,3995 mm,3,Manual,1197 cc
+418,mahindra,XUV 300,XUV300 W4 BSIV,,,,263751.0,,,YES,,,,,,17 kmpl,FWD,Petrol,6 Speed,3995 mm,3,Manual,1197 cc
+419,mahindra,XUV 300,XUV300 W4 BSVI,,,,263751.0,,,YES,,NO,,,,16.82 kmpl,,Petrol,6 Speed,3995 mm,3,Manual,1197 cc
+420,mahindra,XUV 300,XUV300 W4 Diesel,,,,263751.0,,,YES,,NO,,,,,FWD,Diesel,6-Speed,3995 mm,4,Manual,1497 cc
+421,mahindra,XUV 300,XUV300 W4 Diesel BSIV,,,,263751.0,,,YES,,,,20 kmpl,,,FWD,Diesel,6 Speed,3995 mm,4,Manual,1497 cc
+422,mahindra,XUV 300,XUV300 W4 Diesel BSVI,,,,263751.0,,,YES,,NO,22 kmpl,20.1 kmpl,,,,Diesel,6 Speed,3995 mm,4,Manual,1497 cc
+423,mahindra,XUV 300,XUV300 W4 Turbo,,,,263751.0,,,YES,,NO,,,,,FWD,Petrol,6-Speed,3995 mm,3,Manual,1197 cc
+424,mahindra,XUV 300,XUV300 W6,,,,263751.0,,,YES,,NO,,,,,FWD,Petrol,6-Speed,3995 mm,3,Manual,1197 cc
+425,mahindra,XUV 300,XUV300 W6 AMT,,,,263751.0,,,YES,,NO,,,,,FWD,Petrol,6-Speed,3995 mm,3,Automatic,1197 cc
+426,mahindra,XUV 300,XUV300 W6 AMT Diesel BSIV,,,,263751.0,,,YES,,,,20 kmpl,,,FWD,Diesel,6 Speed,3995 mm,4,Automatic,1497 cc
+427,mahindra,XUV 300,XUV300 W6 AMT Diesel BSVI,,,,263751.0,,,YES,,NO,,20 kmpl,,,FWD,Diesel,6 Speed,3995 mm,4,Automatic,1497 cc
+428,mahindra,XUV 300,XUV300 W6 AMT Diesel Sunroof BSVI,,,,263751.0,,,YES,,NO,21 kmpl,20 kmpl,,,FWD,Diesel,6-speed AutoSHIFT,3995 mm,4,Automatic,1497 cc
+429,mahindra,XUV 300,XUV300 W6 AMT Sunroof BSVI,,,,263751.0,,,YES,,NO,,,,17 kmpl,FWD,Petrol,6-speed AutoSHIFT,3995 mm,3,Automatic,1197 cc
+430,mahindra,XUV 300,XUV300 W6 AMT Sunroof NT BSVI,,,,263751.0,,,YES,,NO,,,,16.5 kmpl,,Petrol,6 Speed,3995 mm,3,Automatic,1197 cc
+431,mahindra,XUV 300,XUV300 W6 BSIV,,,,263751.0,,,YES,,,,,,17 kmpl,FWD,Petrol,6 Speed,3995 mm,3,Manual,1197 cc
+432,mahindra,XUV 300,XUV300 W6 BSVI,,,,263751.0,,,YES,,NO,,,,17 kmpl,FWD,Petrol,6 Speed,3995 mm,3,Manual,1197 cc
+433,mahindra,XUV 300,XUV300 W6 Diesel,,,,263751.0,,,YES,,NO,,,,,FWD,Diesel,6-Speed,3995 mm,4,Manual,1497 cc
+434,mahindra,XUV 300,XUV300 W6 Diesel BSIV,,,,263751.0,,,YES,,,,20 kmpl,,,FWD,Diesel,6 Speed,3995 mm,4,Manual,1497 cc
+435,mahindra,XUV 300,XUV300 W6 Diesel BSVI,,,,263751.0,,,YES,,NO,,20 kmpl,,,FWD,Diesel,6 Speed,3995 mm,4,Manual,1497 cc
+436,mahindra,XUV 300,XUV300 W6 Diesel Sunroof BSVI,,,,263751.0,,,YES,,NO,22 kmpl,20 kmpl,,,FWD,Diesel,6 Speed,3995 mm,4,Manual,1497 cc
+437,mahindra,XUV 300,XUV300 W6 Diesel Sunroof NT BSVI,,,,263751.0,,,YES,,NO,22 kmpl,20.1 kmpl,,,,Diesel,6 Speed,3995 mm,4,Manual,1497 cc
+438,mahindra,XUV 300,XUV300 W6 Sunroof BSVI,,,,263751.0,,,YES,,NO,,,,17 kmpl,FWD,Petrol,6 Speed,3995 mm,3,Manual,1197 cc
+439,mahindra,XUV 300,XUV300 W6 Sunroof NT BSVI,,,,263751.0,,,YES,,NO,,,,16.82 kmpl,,Petrol,6 Speed,3995 mm,3,Manual,1197 cc
+440,mahindra,XUV 300,XUV300 W6 Turbo,,,,263751.0,,,YES,,NO,,,,,FWD,Petrol,6-Speed,3995 mm,3,Manual,1197 cc
+441,mahindra,XUV 300,XUV300 W6 Turbosport BSVI,,,,263751.0,,,YES,,NO,,,,16.82 kmpl,,Petrol,6 Speed,3995 mm,3,Manual,1197 cc
+442,mahindra,XUV 300,XUV300 W8,,,,263751.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,16.82 kmpl,FWD,Petrol,6-Speed,3995 mm,3,Manual,1197 cc
+443,mahindra,XUV 300,XUV300 W8 AMT Diesel BSIV,,,,263751.0,,,YES,"Android Auto, Apple CarPlay",,,17 kmpl,,,FWD,Diesel,6 Speed,3995 mm,4,Automatic,1497 cc
+444,mahindra,XUV 300,XUV300 W8 AMT Diesel BSVI,,,,263751.0,,,YES,"Android Auto, Apple CarPlay",YES,,17 kmpl,,,FWD,Diesel,6 Speed,3995 mm,4,Automatic,1497 cc
+445,mahindra,XUV 300,XUV300 W8 BSIV,,,,263751.0,,,YES,"Android Auto, Apple CarPlay",,,,,17 kmpl,FWD,Petrol,6 Speed,3995 mm,3,Manual,1197 cc
+446,mahindra,XUV 300,XUV300 W8 BSVI,,,,263751.0,,,YES,,YES,,,,16.82 kmpl,,Petrol,6 Speed,3995 mm,3,Manual,1197 cc
+447,mahindra,XUV 300,XUV300 W8 DT,,,,263751.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,16.82 kmpl,FWD,Petrol,6-Speed,3995 mm,3,Manual,1197 cc
+448,mahindra,XUV 300,XUV300 W8 Diesel BSIV,,,,263751.0,,,YES,"Android Auto, Apple CarPlay",,,20 kmpl,,,FWD,Diesel,6 Speed,3995 mm,4,Manual,1497 cc
+449,mahindra,XUV 300,XUV300 W8 Diesel BSVI,,,,263751.0,,,YES,"Android Auto, Apple CarPlay",YES,,20 kmpl,,,FWD,Diesel,6 Speed,3995 mm,4,Manual,1497 cc
+450,mahindra,XUV 300,XUV300 W8 Option BSIV,,,,263751.0,,,YES,"Android Auto, Apple CarPlay",,,,,17 kmpl,FWD,Petrol,6 Speed,3995 mm,3,Manual,1197 cc
+451,mahindra,XUV 300,XUV300 W8 Option Diesel BSIV,,,,263751.0,,,YES,"Android Auto, Apple CarPlay",,,20 kmpl,,,FWD,Diesel,6 Speed,3995 mm,4,Manual,1497 cc
+452,mahindra,XUV 300,XUV300 W8 Option Dual Tone BSIV,,,,263751.0,,,YES,"Android Auto, Apple CarPlay",,,,,17 kmpl,FWD,Petrol,6 Speed,3995 mm,4,Manual,1197 cc
+453,mahindra,XUV 300,XUV300 W8 Turbo,,,,263751.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,17 kmpl,FWD,Petrol,6-Speed,3995 mm,3,Manual,1197 cc
+454,mahindra,XUV 300,XUV300 W8 Turbo DT,,,,263751.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,17 kmpl,FWD,Petrol,6-Speed,3995 mm,3,Manual,1197 cc
+455,mahindra,XUV 300,XUV300 W8 Turbosport BSVI,,,,263751.0,,,YES,,YES,,,,17 kmpl,,Petrol,6 Speed,3995 mm,3,Manual,1197 cc
+456,mahindra,XUV 300,XUV300 W8 Turbosport Dual Tone BSVI,,,,263751.0,,,YES,,YES,,,,18.24 kmpl,,Petrol,6 Speed,3995 mm,3,Manual,1197 cc
+457,mahindra,XUV 700,XUV700 AX5 7 Str,15.64,21.549214285714285,26.06,265100.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,15 kmpl,FWD,Petrol,6-Speed,4695 mm,4,Manual,1999 cc
+458,mahindra,XUV 700,XUV700 AX5 7 Str AT,15.64,21.549214285714285,26.06,265100.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,13 kmpl,FWD,Petrol,6-Speed,4695 mm,4,Automatic,1999 cc
+459,mahindra,XUV 700,XUV700 AX5 7 Str Diesel,15.64,21.549214285714285,26.06,265100.0,,,YES,"Android Auto, Apple CarPlay",YES,,17 kmpl,,,FWD,Diesel,6-Speed,4695 mm,4,Manual,2198 cc
+460,mahindra,XUV 700,XUV700 AX5 7 Str Diesel AT,15.64,21.549214285714285,26.06,265100.0,,,YES,"Android Auto, Apple CarPlay",YES,,16.57 kmpl,,,FWD,Diesel,6-Speed,4695 mm,4,Automatic,2198 cc
+461,mahindra,XUV 700,XUV700 AX5 E 7 Str,15.64,21.549214285714285,26.06,265100.0,,,YES,"Android Auto, Apple CarPlay",YES,,,17 kmpl,,FWD,Petrol,6-Speed,4695 mm,4,Manual,1999 cc
+462,mahindra,XUV 700,XUV700 AX5 S 7 Str,15.64,21.549214285714285,26.06,265100.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,15 kmpl,FWD,Petrol,6-Speed,4695 mm,4,Manual,1999 cc
+463,mahindra,XUV 700,XUV700 AX5 S 7 Str AT,15.64,21.549214285714285,26.06,265100.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,13 kmpl,FWD,Petrol,6-Speed,4695 mm,4,Automatic,1999 cc
+464,mahindra,XUV 700,XUV700 AX5 S 7 Str Diesel,15.64,21.549214285714285,26.06,265100.0,,,YES,"Android Auto, Apple CarPlay",YES,,17 kmpl,,,FWD,Diesel,6-Speed,4695 mm,4,Manual,2198 cc
+465,mahindra,XUV 700,XUV700 AX5 S 7 Str Diesel AT,15.64,21.549214285714285,26.06,265100.0,,,YES,"Android Auto, Apple CarPlay",YES,,16.57 kmpl,,,FWD,Diesel,6-Speed,4695 mm,4,Automatic,2198 cc
+466,mahindra,XUV 700,XUV700 AX5 S E 7Str,15.64,21.549214285714285,26.06,265100.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,15 kmpl,FWD,Petrol,6-Speed,4695 mm,4,Manual,1999 cc
+467,mahindra,XUV 700,XUV700 AX7 6 Str,15.64,21.549214285714285,26.06,265100.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,15 kmpl,FWD,Petrol,6-Speed,4695 mm,4,Manual,1999 cc
+468,mahindra,XUV 700,XUV700 AX7 6 Str Diesel,15.64,21.549214285714285,26.06,265100.0,,,YES,"Android Auto, Apple CarPlay",YES,,17 kmpl,,,FWD,Diesel,6-Speed,4695 mm,4,Manual,2198 cc
+469,mahindra,XUV 700,XUV700 AX7 6 Str Diesel AT,15.64,21.549214285714285,26.06,265100.0,,,YES,"Android Auto, Apple CarPlay",YES,,16.57 kmpl,,,FWD,Diesel,6-Speed,4695 mm,4,Automatic,2198 cc
+470,mahindra,XUV 700,XUV700 AX7 6Str AT,15.64,21.549214285714285,26.06,265100.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,13 kmpl,FWD,Petrol,6-Speed,4695 mm,4,Automatic,1999 cc
+471,mahindra,XUV 700,XUV700 AX7 7Str,15.64,21.549214285714285,26.06,265100.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,15 kmpl,FWD,Petrol,6-Speed,4695 mm,4,Manual,1999 cc
+472,mahindra,XUV 700,XUV700 AX7 7Str AT,15.64,21.549214285714285,26.06,265100.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,13 kmpl,FWD,Petrol,6-Speed,4695 mm,4,Automatic,1999 cc
+473,mahindra,XUV 700,XUV700 AX7 7Str Diesel,15.64,21.549214285714285,26.06,265100.0,,,YES,"Android Auto, Apple CarPlay",YES,,17 kmpl,,,FWD,Diesel,6-Speed,4695 mm,4,Manual,2198 cc
+474,mahindra,XUV 700,XUV700 AX7 7Str Diesel AT,15.64,21.549214285714285,26.06,265100.0,,,YES,"Android Auto, Apple CarPlay",YES,,16.57 kmpl,,,FWD,Diesel,6-Speed,4695 mm,4,Automatic,2198 cc
+475,mahindra,XUV 700,XUV700 AX7 Ebony Edition 6Str,15.64,21.549214285714285,26.06,265100.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,15 kmpl,FWD,Petrol,6-Speed,4695 mm,4,Manual,1999 cc
+476,mahindra,XUV 700,XUV700 AX7 Ebony Edition 6Str AT,15.64,21.549214285714285,26.06,265100.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,13 kmpl,FWD,Petrol,6-Speed,4695 mm,4,Automatic,1999 cc
+477,mahindra,XUV 700,XUV700 AX7 Ebony Edition 6Str Diesel,15.64,21.549214285714285,26.06,265100.0,,,YES,"Android Auto, Apple CarPlay",YES,,17 kmpl,,,FWD,Diesel,6-Speed,4695 mm,4,Manual,2198 cc
+478,mahindra,XUV 700,XUV700 AX7 Ebony Edition 7Str,15.64,21.549214285714285,26.06,265100.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,15 kmpl,FWD,Petrol,6-Speed,4695 mm,4,Manual,1999 cc
+479,mahindra,XUV 700,XUV700 AX7 Ebony Edition 7Str AT,15.64,21.549214285714285,26.06,265100.0,,,YES,"Android Auto, Apple CarPlay",YES,,,,13 kmpl,FWD,Petrol,6-Speed,4695 mm,4,Automatic,1999 cc
+480,mahindra,XUV 700,XUV700 AX7 Ebony Edition 7Str Diesel,15.64,21.549214285714285,26.06,265100.0,,,YES,"Android Auto, Apple CarPlay",YES,,17 kmpl,,,FWD,Diesel,6-Speed,4695 mm,4,Manual,2198 cc
+481,mahindra,XUV 700,XUV700 MX 7Str,15.64,21.549214285714285,26.06,265100.0,,,YES,Android Auto,NO,,,,15 kmpl,FWD,Petrol,6-Speed,4695 mm,4,Manual,1999 cc
+482,mahindra,XUV 700,XUV700 MX 7Str Diesel,15.64,21.549214285714285,26.06,265100.0,,,YES,Android Auto,NO,,17 kmpl,,,FWD,Diesel,6-Speed,4695 mm,4,Manual,2198 cc
+483,mahindra,XUV 700,XUV700 MX E 7Str,15.64,21.549214285714285,26.06,265100.0,,,YES,Android Auto,NO,,,,15 kmpl,FWD,Petrol,6-Speed,4695 mm,4,Manual,1999 cc
+484,mahindra,XUV 700,XUV700 MX E 7Str Diesel,15.64,21.549214285714285,26.06,265100.0,,,YES,Android Auto,NO,,17 kmpl,,,FWD,Diesel,6-Speed,4695 mm,4,Manual,2198 cc
+485,maruti,VITARA BREZZA,Brezza Lxi,9.13,12.7982,16.09,618300.0,,,,,NO,,,21.97 kmpl,17.38 kmpl,FWD,Petrol,5-Speed,3995 mm,4,Manual,1462 cc
+486,maruti,VITARA BREZZA,Brezza Lxi CNG,9.13,12.7982,16.09,618300.0,25.51 km/kg,,,,NO,,,,,FWD,CNG,5-Speed,3995 mm,4,Manual,1462 cc
+487,maruti,VITARA BREZZA,Brezza Vxi,9.13,12.7982,16.09,618300.0,,,,"Android Auto, Apple CarPlay",YES,,,21.97 kmpl,17.38 kmpl,FWD,Petrol,5-Speed,3995 mm,4,Manual,1462 cc
+488,maruti,VITARA BREZZA,Brezza Vxi AT,9.13,12.7982,16.09,618300.0,,,,"Android Auto, Apple CarPlay",YES,,,20.5 kmpl,19.8 kmpl,FWD,Petrol,6-Speed,3995 mm,4,Automatic,1462 cc
+489,maruti,VITARA BREZZA,Brezza Vxi CNG,9.13,12.7982,16.09,618300.0,25.51 km/kg,,,"Android Auto, Apple CarPlay",YES,,,,,FWD,CNG,5-Speed,3995 mm,4,Manual,1462 cc
+490,maruti,VITARA BREZZA,Brezza Zxi,9.13,12.7982,16.09,618300.0,,,,"Android Auto, Apple CarPlay",YES,,,21.97 kmpl,19.89 kmpl,FWD,Petrol,5-Speed,3995 mm,4,Manual,1462 cc
+491,maruti,VITARA BREZZA,Brezza Zxi AT,9.13,12.7982,16.09,618300.0,,,,"Android Auto, Apple CarPlay",YES,,,20.5 kmpl,19.8 kmpl,FWD,Petrol,6-Speed,3995 mm,4,Automatic,1462 cc
+492,maruti,VITARA BREZZA,Brezza Zxi AT DT,9.13,12.7982,16.09,618300.0,,,,"Android Auto, Apple CarPlay",YES,,,20.5 kmpl,19.8 kmpl,FWD,Petrol,6-Speed,3995 mm,4,Automatic,1462 cc
+493,maruti,VITARA BREZZA,Brezza Zxi CNG,9.13,12.7982,16.09,618300.0,25.51 km/kg,,,"Android Auto, Apple CarPlay",YES,,,,,FWD,CNG,5-Speed,3995 mm,4,Manual,1462 cc
+494,maruti,VITARA BREZZA,Brezza Zxi CNG DT,9.13,12.7982,16.09,618300.0,25.51 km/kg,,,"Android Auto, Apple CarPlay",YES,,,,,FWD,CNG,5-Speed,3995 mm,4,Manual,1462 cc
+495,maruti,VITARA BREZZA,Brezza Zxi DT,9.13,12.7982,16.09,618300.0,,,,"Android Auto, Apple CarPlay",YES,,,21.97 kmpl,19.89 kmpl,FWD,Petrol,5-Speed,3995 mm,4,Manual,1462 cc
+496,maruti,VITARA BREZZA,Brezza Zxi Plus,9.13,12.7982,16.09,618300.0,,,,"Android Auto, Apple CarPlay",YES,,,21.97 kmpl,19.89 kmpl,FWD,Petrol,5-Speed,3995 mm,4,Manual,1462 cc
+497,maruti,VITARA BREZZA,Brezza Zxi Plus AT,9.13,12.7982,16.09,618300.0,,,,"Android Auto, Apple CarPlay",YES,,,20.5 kmpl,19.8 kmpl,FWD,Petrol,6-Speed,3995 mm,4,Automatic,1462 cc
+498,maruti,VITARA BREZZA,Brezza Zxi Plus AT DT,9.13,12.7982,16.09,618300.0,,,,"Android Auto, Apple CarPlay",YES,,,20.5 kmpl,19.8 kmpl,FWD,Petrol,6-Speed,3995 mm,4,Automatic,1462 cc
+499,maruti,VITARA BREZZA,Brezza Zxi Plus DT,9.13,12.7982,16.09,618300.0,,,,"Android Auto, Apple CarPlay",YES,,,21.97 kmpl,19.89 kmpl,FWD,Petrol,5-Speed,3995 mm,4,Manual,1462 cc

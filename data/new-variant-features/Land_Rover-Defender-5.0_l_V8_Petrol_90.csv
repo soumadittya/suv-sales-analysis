@@ -1,0 +1,142 @@
+company,model,variant,category,feature_name,feature_details
+Land Rover,Defender,5.0 l V8 Petrol 90,Engine & Transmission,Engine Type,5.0 Litre P525 V8 Petrol
+Land Rover,Defender,5.0 l V8 Petrol 90,Engine & Transmission,Displacement,5000 cc
+Land Rover,Defender,5.0 l V8 Petrol 90,Engine & Transmission,Max Power,420bhp@5500-6600rpm
+Land Rover,Defender,5.0 l V8 Petrol 90,Engine & Transmission,Max Torque,550Nm@1800-5000rpm
+Land Rover,Defender,5.0 l V8 Petrol 90,Engine & Transmission,No. of Cylinders,8
+Land Rover,Defender,5.0 l V8 Petrol 90,Engine & Transmission,Valves Per Cylinder,4
+Land Rover,Defender,5.0 l V8 Petrol 90,Engine & Transmission,Turbo Charger,NO
+Land Rover,Defender,5.0 l V8 Petrol 90,Engine & Transmission,Super Charge,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Engine & Transmission,Transmission Type,Automatic
+Land Rover,Defender,5.0 l V8 Petrol 90,Engine & Transmission,Gearbox,8-Speed
+Land Rover,Defender,5.0 l V8 Petrol 90,Engine & Transmission,Drive Type,AWD
+Land Rover,Defender,5.0 l V8 Petrol 90,Fuel & Performance,Fuel Type,Petrol
+Land Rover,Defender,5.0 l V8 Petrol 90,Fuel & Performance,Petrol Mileage ARAI,6.8 kmpl
+Land Rover,Defender,5.0 l V8 Petrol 90,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Land Rover,Defender,5.0 l V8 Petrol 90,Fuel & Performance,Top Speed,240 kmph
+Land Rover,Defender,5.0 l V8 Petrol 90,Fuel & Performance,Acceleration,5.2
+Land Rover,Defender,5.0 l V8 Petrol 90,Fuel & Performance,0-100kmph,5.2
+Land Rover,Defender,5.0 l V8 Petrol 90,"Suspension, Steering & Brakes",Front Suspension,Air suspension
+Land Rover,Defender,5.0 l V8 Petrol 90,"Suspension, Steering & Brakes",Rear Suspension,Air suspension
+Land Rover,Defender,5.0 l V8 Petrol 90,"Suspension, Steering & Brakes",Steering Type,Electric
+Land Rover,Defender,5.0 l V8 Petrol 90,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Land Rover,Defender,5.0 l V8 Petrol 90,"Suspension, Steering & Brakes",Steering Gear Type,Rack & Pinion
+Land Rover,Defender,5.0 l V8 Petrol 90,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Land Rover,Defender,5.0 l V8 Petrol 90,"Suspension, Steering & Brakes",Rear Brake Type,Ventilated Disc
+Land Rover,Defender,5.0 l V8 Petrol 90,Dimensions & Capacity,Length,4323 mm
+Land Rover,Defender,5.0 l V8 Petrol 90,Dimensions & Capacity,Width,2105 mm
+Land Rover,Defender,5.0 l V8 Petrol 90,Dimensions & Capacity,Height,1969 mm
+Land Rover,Defender,5.0 l V8 Petrol 90,Dimensions & Capacity,Seating Capacity,5
+Land Rover,Defender,5.0 l V8 Petrol 90,Dimensions & Capacity,Wheel Base,2587 mm
+Land Rover,Defender,5.0 l V8 Petrol 90,Dimensions & Capacity,Gross Weight,3040 kg
+Land Rover,Defender,5.0 l V8 Petrol 90,Comfort & Convenience,Boot Opening,Powered
+Land Rover,Defender,5.0 l V8 Petrol 90,Comfort & Convenience,Power Steering,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Comfort & Convenience,Air Conditioner,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Comfort & Convenience,Heater,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Comfort & Convenience,Adjustable Steering,Height & Reach
+Land Rover,Defender,5.0 l V8 Petrol 90,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Comfort & Convenience,Ventilated Seats,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Comfort & Convenience,Electric Adjustable Seats,Front
+Land Rover,Defender,5.0 l V8 Petrol 90,Comfort & Convenience,Automatic Climate Control,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Comfort & Convenience,Air Quality Control,NO
+Land Rover,Defender,5.0 l V8 Petrol 90,Comfort & Convenience,Accessory Power Outlet,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Land Rover,Defender,5.0 l V8 Petrol 90,Comfort & Convenience,Adjustable Headrest,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Comfort & Convenience,Rear AC Vents,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Comfort & Convenience,Cruise Control,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Comfort & Convenience,Parking Sensors,Front & Rear
+Land Rover,Defender,5.0 l V8 Petrol 90,Comfort & Convenience,KeyLess Entry,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Comfort & Convenience,Engine Start/Stop Button,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Comfort & Convenience,Voice Commands,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Comfort & Convenience,Paddle Shifters,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Comfort & Convenience,USB Charger,Front & Rear
+Land Rover,Defender,5.0 l V8 Petrol 90,Comfort & Convenience,Follow Me Home Headlamps,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Comfort & Convenience,Power Windows,Front & Rear
+Land Rover,Defender,5.0 l V8 Petrol 90,Comfort & Convenience,Cup Holders,Front & Rear
+Land Rover,Defender,5.0 l V8 Petrol 90,Comfort & Convenience,Heated Seats,Front Only
+Land Rover,Defender,5.0 l V8 Petrol 90,Interior,Glove Box,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Interior,Lighting,"Ambient light, Footwell Lamp"
+Land Rover,Defender,5.0 l V8 Petrol 90,Interior,Digital Cluster,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Interior,Upholstery,Leather
+Land Rover,Defender,5.0 l V8 Petrol 90,Interior,Ambient Light Colour (numbers),64
+Land Rover,Defender,5.0 l V8 Petrol 90,Exterior,Adjustable Headlamps,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Exterior,Rain Sensing Wiper,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Exterior,Rear Window Wiper,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Exterior,Rear Window Washer,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Exterior,Rear Window Defogger,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Exterior,Wheel Covers,NO
+Land Rover,Defender,5.0 l V8 Petrol 90,Exterior,Alloy Wheels,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Exterior,Roof Rails,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Exterior,Automatic Headlamps,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Exterior,Fog Lights,Front & Rear
+Land Rover,Defender,5.0 l V8 Petrol 90,Exterior,Antenna,Shark Fin
+Land Rover,Defender,5.0 l V8 Petrol 90,Exterior,Sunroof,Panoramic
+Land Rover,Defender,5.0 l V8 Petrol 90,Exterior,Heated Outside Rear View Mirror,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Land Rover,Defender,5.0 l V8 Petrol 90,Exterior,Tyre Type,Radial Tubeless
+Land Rover,Defender,5.0 l V8 Petrol 90,Exterior,LED DRLs,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Exterior,LED Headlamps,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Exterior,LED Taillights,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Exterior,LED Fog Lamps,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Safety,Anti-lock Braking System (ABS),YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Safety,Brake Assist,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Safety,Central Locking,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Safety,Child Safety Locks,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Safety,Anti-Theft Alarm,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Safety,No. of Airbags,6
+Land Rover,Defender,5.0 l V8 Petrol 90,Safety,Driver Airbag,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Safety,Passenger Airbag,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Safety,Side Airbag,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Safety,Side Airbag-Rear,NO
+Land Rover,Defender,5.0 l V8 Petrol 90,Safety,Day & Night Rear View Mirror,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Safety,Electronic Brakeforce Distribution (EBD),YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Safety,Traction Control,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Safety,Engine Immobilizer,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Safety,Electronic Stability Control (ESC),YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Safety,Rear Camera,With Guidedlines
+Land Rover,Defender,5.0 l V8 Petrol 90,Safety,Anti-Pinch Power Windows,All Windows
+Land Rover,Defender,5.0 l V8 Petrol 90,Safety,ISOFIX Child Seat Mounts,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Safety,Hill Descent Control,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Safety,Hill Assist,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Safety,360 View Camera,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Entertainment & Communication,Radio,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Entertainment & Communication,Wireless Phone Charging,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Entertainment & Communication,Bluetooth Connectivity,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Entertainment & Communication,Touchscreen,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Entertainment & Communication,Touchscreen Size,13.1 inch
+Land Rover,Defender,5.0 l V8 Petrol 90,Entertainment & Communication,Android Auto,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Entertainment & Communication,Apple CarPlay,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Entertainment & Communication,No. of Speakers,14
+Land Rover,Defender,5.0 l V8 Petrol 90,Entertainment & Communication,Usb Ports,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Entertainment & Communication,Subwoofer,1
+Land Rover,Defender,5.0 l V8 Petrol 90,Entertainment & Communication,Additional Features,Meridian Surround Sound System
+Land Rover,Defender,5.0 l V8 Petrol 90,Entertainment & Communication,Speakers,Front & Rear
+Land Rover,Defender,5.0 l V8 Petrol 90,ADAS Feature,Forward Collision Warning,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,ADAS Feature,Blind Spot Collision Avoidance Assist,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,ADAS Feature,Lane Departure Warning,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,ADAS Feature,Lane Departure Prevention Assist,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,ADAS Feature,Road Departure Mitigation System,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,ADAS Feature,Driver Attention Warning,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,ADAS Feature,Adaptive Cruise Control,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,ADAS Feature,Leading Vehicle Departure Alert,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,ADAS Feature,Adaptive High Beam Assist,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,ADAS Feature,Rear Cross Traffic Alert,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,ADAS Feature,Rear Cross Traffic Collision-Avoidance Assist,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,ADAS Feature,Blind Spot Monitor,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Advance Internet Feature,Remote Vehicle Status Check,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Advance Internet Feature,Navigation with Live Traffic,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Advance Internet Feature,Live Weather,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Advance Internet Feature,E-Call & I-Call,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Advance Internet Feature,Crash Notification,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Advance Internet Feature,SOS Button,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Advance Internet Feature,RSA,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Advance Internet Feature,Over Speeding Alert,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Advance Internet Feature,Tow Away Alert,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Advance Internet Feature,In Car Remote Control App,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Advance Internet Feature,Valet Mode,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Advance Internet Feature,Remote AC On/Off,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Advance Internet Feature,Remote Door Lock/Unlock,YES
+Land Rover,Defender,5.0 l V8 Petrol 90,Advance Internet Feature,SOS / Emergency Assistance,YES

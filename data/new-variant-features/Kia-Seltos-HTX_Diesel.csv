@@ -1,0 +1,130 @@
+company,model,variant,category,feature_name,feature_details
+Kia,Seltos,HTX Diesel,Engine & Transmission,Engine Type,1.5l CRDi VGT
+Kia,Seltos,HTX Diesel,Engine & Transmission,Displacement,1493 cc
+Kia,Seltos,HTX Diesel,Engine & Transmission,Max Power,114bhp@4000rpm
+Kia,Seltos,HTX Diesel,Engine & Transmission,Max Torque,250Nm@1500-2750rpm
+Kia,Seltos,HTX Diesel,Engine & Transmission,No. of Cylinders,4
+Kia,Seltos,HTX Diesel,Engine & Transmission,Valves Per Cylinder,4
+Kia,Seltos,HTX Diesel,Engine & Transmission,Fuel Supply System,CRDI
+Kia,Seltos,HTX Diesel,Engine & Transmission,Turbo Charger,YES
+Kia,Seltos,HTX Diesel,Engine & Transmission,Transmission Type,Manual
+Kia,Seltos,HTX Diesel,Engine & Transmission,Gearbox,6-Speed
+Kia,Seltos,HTX Diesel,Engine & Transmission,Drive Type,2WD
+Kia,Seltos,HTX Diesel,Fuel & Performance,Fuel Type,Diesel
+Kia,Seltos,HTX Diesel,Fuel & Performance,Diesel Mileage ARAI,19.4 kmpl
+Kia,Seltos,HTX Diesel,Fuel & Performance,Diesel Fuel Tank Capacity,47 Litres
+Kia,Seltos,HTX Diesel,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Kia,Seltos,HTX Diesel,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Kia,Seltos,HTX Diesel,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Kia,Seltos,HTX Diesel,"Suspension, Steering & Brakes",Steering Type,Electric
+Kia,Seltos,HTX Diesel,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Kia,Seltos,HTX Diesel,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Kia,Seltos,HTX Diesel,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Kia,Seltos,HTX Diesel,Dimensions & Capacity,Length,4460 mm
+Kia,Seltos,HTX Diesel,Dimensions & Capacity,Width,1830 mm
+Kia,Seltos,HTX Diesel,Dimensions & Capacity,Height,1635 mm
+Kia,Seltos,HTX Diesel,Dimensions & Capacity,Boot Space,447 Litres
+Kia,Seltos,HTX Diesel,Dimensions & Capacity,Seating Capacity,5
+Kia,Seltos,HTX Diesel,Dimensions & Capacity,Wheel Base,2690 mm
+Kia,Seltos,HTX Diesel,Comfort & Convenience,Power Steering,YES
+Kia,Seltos,HTX Diesel,Comfort & Convenience,Air Conditioner,YES
+Kia,Seltos,HTX Diesel,Comfort & Convenience,Heater,YES
+Kia,Seltos,HTX Diesel,Comfort & Convenience,Adjustable Steering,Height & Reach
+Kia,Seltos,HTX Diesel,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Kia,Seltos,HTX Diesel,Comfort & Convenience,Ventilated Seats,YES
+Kia,Seltos,HTX Diesel,Comfort & Convenience,Electric Adjustable Seats,NO
+Kia,Seltos,HTX Diesel,Comfort & Convenience,Automatic Climate Control,YES
+Kia,Seltos,HTX Diesel,Comfort & Convenience,Accessory Power Outlet,YES
+Kia,Seltos,HTX Diesel,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Kia,Seltos,HTX Diesel,Comfort & Convenience,Adjustable Headrest,YES
+Kia,Seltos,HTX Diesel,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Kia,Seltos,HTX Diesel,Comfort & Convenience,Rear AC Vents,YES
+Kia,Seltos,HTX Diesel,Comfort & Convenience,Lumbar Support,NO
+Kia,Seltos,HTX Diesel,Comfort & Convenience,Cruise Control,YES
+Kia,Seltos,HTX Diesel,Comfort & Convenience,Parking Sensors,Front & Rear
+Kia,Seltos,HTX Diesel,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Kia,Seltos,HTX Diesel,Comfort & Convenience,KeyLess Entry,YES
+Kia,Seltos,HTX Diesel,Comfort & Convenience,Engine Start/Stop Button,YES
+Kia,Seltos,HTX Diesel,Comfort & Convenience,Paddle Shifters,NO
+Kia,Seltos,HTX Diesel,Comfort & Convenience,USB Charger,Front & Rear
+Kia,Seltos,HTX Diesel,Comfort & Convenience,Central Console Armrest,YES
+Kia,Seltos,HTX Diesel,Comfort & Convenience,Drive Modes,NO
+Kia,Seltos,HTX Diesel,Comfort & Convenience,Additional Features,Sunglass holder
+Kia,Seltos,HTX Diesel,Comfort & Convenience,Drive Mode Types,NA
+Kia,Seltos,HTX Diesel,Comfort & Convenience,Power Windows,Front & Rear
+Kia,Seltos,HTX Diesel,Comfort & Convenience,Cup Holders,Front & Rear
+Kia,Seltos,HTX Diesel,Interior,Leather Wrapped Steering Wheel,YES
+Kia,Seltos,HTX Diesel,Interior,Glove Box,YES
+Kia,Seltos,HTX Diesel,Interior,Lighting,Ambient light
+Kia,Seltos,HTX Diesel,Interior,Additional Features,Rear Parcel Shelf
+Kia,Seltos,HTX Diesel,Interior,Digital Cluster,YES
+Kia,Seltos,HTX Diesel,Interior,Digital Cluster Size,4.2
+Kia,Seltos,HTX Diesel,Interior,Upholstery,Leatherette
+Kia,Seltos,HTX Diesel,Interior,Ambient Light Colour (numbers),64
+Kia,Seltos,HTX Diesel,Exterior,Adjustable Headlamps,YES
+Kia,Seltos,HTX Diesel,Exterior,Rear Window Wiper,YES
+Kia,Seltos,HTX Diesel,Exterior,Rear Window Defogger,YES
+Kia,Seltos,HTX Diesel,Exterior,Rear Spoiler,YES
+Kia,Seltos,HTX Diesel,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Kia,Seltos,HTX Diesel,Exterior,Projector Headlamps,NO
+Kia,Seltos,HTX Diesel,Exterior,Roof Rails,YES
+Kia,Seltos,HTX Diesel,Exterior,Automatic Headlamps,YES
+Kia,Seltos,HTX Diesel,Exterior,Fog Lights,Front
+Kia,Seltos,HTX Diesel,Exterior,Antenna,Shark Fin
+Kia,Seltos,HTX Diesel,Exterior,Sunroof,Panoramic
+Kia,Seltos,HTX Diesel,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Kia,Seltos,HTX Diesel,Exterior,Wheels Type,Alloy
+Kia,Seltos,HTX Diesel,Exterior,Tyre Size,215/60 R17
+Kia,Seltos,HTX Diesel,Exterior,Tyre Type,Radial Tubeless
+Kia,Seltos,HTX Diesel,Exterior,Wheel Size,17 Inch
+Kia,Seltos,HTX Diesel,Exterior,LED DRLs,YES
+Kia,Seltos,HTX Diesel,Exterior,LED Headlamps,YES
+Kia,Seltos,HTX Diesel,Exterior,LED Taillights,YES
+Kia,Seltos,HTX Diesel,Exterior,LED Fog Lamps,YES
+Kia,Seltos,HTX Diesel,Safety,Anti-lock Braking System (ABS),YES
+Kia,Seltos,HTX Diesel,Safety,Brake Assist,YES
+Kia,Seltos,HTX Diesel,Safety,Central Locking,YES
+Kia,Seltos,HTX Diesel,Safety,Child Safety Locks,YES
+Kia,Seltos,HTX Diesel,Safety,No. of Airbags,6
+Kia,Seltos,HTX Diesel,Safety,Driver Airbag,YES
+Kia,Seltos,HTX Diesel,Safety,Passenger Airbag,YES
+Kia,Seltos,HTX Diesel,Safety,Side Airbag,YES
+Kia,Seltos,HTX Diesel,Safety,Day & Night Rear View Mirror,YES
+Kia,Seltos,HTX Diesel,Safety,Electronic Brakeforce Distribution (EBD),YES
+Kia,Seltos,HTX Diesel,Safety,Traction Control,YES
+Kia,Seltos,HTX Diesel,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Kia,Seltos,HTX Diesel,Safety,Engine Immobilizer,YES
+Kia,Seltos,HTX Diesel,Safety,Electronic Stability Control (ESC),YES
+Kia,Seltos,HTX Diesel,Safety,Rear Camera,With Guidedlines
+Kia,Seltos,HTX Diesel,Safety,Anti-Pinch Power Windows,Driver's Window
+Kia,Seltos,HTX Diesel,Safety,ISOFIX Child Seat Mounts,YES
+Kia,Seltos,HTX Diesel,Safety,Hill Descent Control,YES
+Kia,Seltos,HTX Diesel,Safety,Hill Assist,YES
+Kia,Seltos,HTX Diesel,Safety,360 View Camera,NO
+Kia,Seltos,HTX Diesel,Safety,Bharat NCAP Safety Rating,5 Star
+Kia,Seltos,HTX Diesel,Safety,Bharat NCAP Child Safety Rating,5 Star
+Kia,Seltos,HTX Diesel,Entertainment & Communication,Radio,YES
+Kia,Seltos,HTX Diesel,Entertainment & Communication,Wireless Phone Charging,YES
+Kia,Seltos,HTX Diesel,Entertainment & Communication,Bluetooth Connectivity,YES
+Kia,Seltos,HTX Diesel,Entertainment & Communication,Touchscreen,YES
+Kia,Seltos,HTX Diesel,Entertainment & Communication,Touchscreen Size,12.3 inch
+Kia,Seltos,HTX Diesel,Entertainment & Communication,Android Auto,YES
+Kia,Seltos,HTX Diesel,Entertainment & Communication,Apple CarPlay,YES
+Kia,Seltos,HTX Diesel,Entertainment & Communication,No. of Speakers,8
+Kia,Seltos,HTX Diesel,Entertainment & Communication,Usb Ports,YES
+Kia,Seltos,HTX Diesel,Entertainment & Communication,Additional Features,Wireless Android Auto/Apple CarPlay
+Kia,Seltos,HTX Diesel,Entertainment & Communication,Speakers,Front & Rear
+Kia,Seltos,HTX Diesel,ADAS Feature,Forward Collision Warning,NO
+Kia,Seltos,HTX Diesel,ADAS Feature,Blind Spot Collision Avoidance Assist,NO
+Kia,Seltos,HTX Diesel,ADAS Feature,Lane Departure Warning,NO
+Kia,Seltos,HTX Diesel,ADAS Feature,Lane Keep Assist,NO
+Kia,Seltos,HTX Diesel,ADAS Feature,Driver Attention Warning,NO
+Kia,Seltos,HTX Diesel,ADAS Feature,Adaptive Cruise Control,NO
+Kia,Seltos,HTX Diesel,ADAS Feature,Leading Vehicle Departure Alert,NO
+Kia,Seltos,HTX Diesel,ADAS Feature,Adaptive High Beam Assist,NO
+Kia,Seltos,HTX Diesel,ADAS Feature,Rear Cross Traffic Alert,NO
+Kia,Seltos,HTX Diesel,ADAS Feature,Rear Cross Traffic Collision-Avoidance Assist,NO
+Kia,Seltos,HTX Diesel,ADAS Feature,Blind Spot Monitor,NO
+Kia,Seltos,HTX Diesel,Advance Internet Feature,Over the Air (OTA) Updates,YES
+Kia,Seltos,HTX Diesel,Advance Internet Feature,Over Speeding Alert,YES
+Kia,Seltos,HTX Diesel,Advance Internet Feature,Inbuilt APPs,Kia Connect 2.0

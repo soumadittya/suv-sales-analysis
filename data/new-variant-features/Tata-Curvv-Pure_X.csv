@@ -1,0 +1,121 @@
+company,model,variant,category,feature_name,feature_details
+Tata,Curvv,Pure X,Engine & Transmission,Engine Type,1.2 L REVOTRON
+Tata,Curvv,Pure X,Engine & Transmission,Displacement,1199 cc
+Tata,Curvv,Pure X,Engine & Transmission,Max Power,118bhp@5500rpm
+Tata,Curvv,Pure X,Engine & Transmission,Max Torque,170Nm@1750-4000rpm
+Tata,Curvv,Pure X,Engine & Transmission,No. of Cylinders,3
+Tata,Curvv,Pure X,Engine & Transmission,Valves Per Cylinder,4
+Tata,Curvv,Pure X,Engine & Transmission,Turbo Charger,YES
+Tata,Curvv,Pure X,Engine & Transmission,Transmission Type,Manual
+Tata,Curvv,Pure X,Engine & Transmission,Gearbox,6-Speed
+Tata,Curvv,Pure X,Engine & Transmission,Drive Type,FWD
+Tata,Curvv,Pure X,Fuel & Performance,Fuel Type,Petrol
+Tata,Curvv,Pure X,Fuel & Performance,Petrol Fuel Tank Capacity,44 Litres
+Tata,Curvv,Pure X,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Tata,Curvv,Pure X,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Tata,Curvv,Pure X,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Tata,Curvv,Pure X,"Suspension, Steering & Brakes",Steering Type,Electric
+Tata,Curvv,Pure X,"Suspension, Steering & Brakes",Steering Column,Tilt
+Tata,Curvv,Pure X,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Tata,Curvv,Pure X,"Suspension, Steering & Brakes",Rear Brake Type,Drum
+Tata,Curvv,Pure X,Dimensions & Capacity,Length,4308 mm
+Tata,Curvv,Pure X,Dimensions & Capacity,Width,1810 mm
+Tata,Curvv,Pure X,Dimensions & Capacity,Height,1630 mm
+Tata,Curvv,Pure X,Dimensions & Capacity,Boot Space,500 Litres
+Tata,Curvv,Pure X,Dimensions & Capacity,Seating Capacity,5
+Tata,Curvv,Pure X,Dimensions & Capacity,Wheel Base,2560 mm
+Tata,Curvv,Pure X,Comfort & Convenience,Boot Opening,Electronic
+Tata,Curvv,Pure X,Comfort & Convenience,Power Steering,YES
+Tata,Curvv,Pure X,Comfort & Convenience,Air Conditioner,YES
+Tata,Curvv,Pure X,Comfort & Convenience,Heater,YES
+Tata,Curvv,Pure X,Comfort & Convenience,Adjustable Steering,Height only
+Tata,Curvv,Pure X,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Tata,Curvv,Pure X,Comfort & Convenience,Ventilated Seats,NO
+Tata,Curvv,Pure X,Comfort & Convenience,Electric Adjustable Seats,NO
+Tata,Curvv,Pure X,Comfort & Convenience,Automatic Climate Control,YES
+Tata,Curvv,Pure X,Comfort & Convenience,Air Quality Control,NO
+Tata,Curvv,Pure X,Comfort & Convenience,Accessory Power Outlet,YES
+Tata,Curvv,Pure X,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Tata,Curvv,Pure X,Comfort & Convenience,Height Adjustable Front Seat Belts,NO
+Tata,Curvv,Pure X,Comfort & Convenience,Rear AC Vents,YES
+Tata,Curvv,Pure X,Comfort & Convenience,Cruise Control,YES
+Tata,Curvv,Pure X,Comfort & Convenience,Parking Sensors,Rear
+Tata,Curvv,Pure X,Comfort & Convenience,Foldable Rear Seat,Bench Folding
+Tata,Curvv,Pure X,Comfort & Convenience,KeyLess Entry,YES
+Tata,Curvv,Pure X,Comfort & Convenience,Engine Start/Stop Button,YES
+Tata,Curvv,Pure X,Comfort & Convenience,Voice Commands,YES
+Tata,Curvv,Pure X,Comfort & Convenience,Paddle Shifters,NO
+Tata,Curvv,Pure X,Comfort & Convenience,USB Charger,Front & Rear
+Tata,Curvv,Pure X,Comfort & Convenience,Central Console Armrest,With Storage
+Tata,Curvv,Pure X,Comfort & Convenience,Drive Modes,3
+Tata,Curvv,Pure X,Comfort & Convenience,Voice assisted sunroof,NO
+Tata,Curvv,Pure X,Comfort & Convenience,Drive Mode Types,"Eco, City & Sports"
+Tata,Curvv,Pure X,Comfort & Convenience,Power Windows,Front & Rear
+Tata,Curvv,Pure X,Interior,Leather Wrapped Steering Wheel,NO
+Tata,Curvv,Pure X,Interior,Leather wrap gear-shift selector,NO
+Tata,Curvv,Pure X,Interior,Glove Box,YES
+Tata,Curvv,Pure X,Interior,Lighting,"Boot Lamp, Glove Box Lamp"
+Tata,Curvv,Pure X,Interior,Digital Cluster,YES
+Tata,Curvv,Pure X,Interior,Digital Cluster Size,4
+Tata,Curvv,Pure X,Interior,Upholstery,Fabric
+Tata,Curvv,Pure X,Exterior,Rain Sensing Wiper,NO
+Tata,Curvv,Pure X,Exterior,Rear Window Defogger,NO
+Tata,Curvv,Pure X,Exterior,Rear Spoiler,YES
+Tata,Curvv,Pure X,Exterior,Cornering Foglamps,NO
+Tata,Curvv,Pure X,Exterior,Automatic Headlamps,NO
+Tata,Curvv,Pure X,Exterior,Fog Lights,NO
+Tata,Curvv,Pure X,Exterior,Antenna,Shark Fin
+Tata,Curvv,Pure X,Exterior,Sunroof,NO
+Tata,Curvv,Pure X,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Tata,Curvv,Pure X,Exterior,Wheels Type,Steel with Cover
+Tata,Curvv,Pure X,Exterior,Tyre Size,215/60/R17
+Tata,Curvv,Pure X,Exterior,Tyre Type,Radial Tubeless
+Tata,Curvv,Pure X,Exterior,Wheel Size,17 Inch
+Tata,Curvv,Pure X,Exterior,LED DRLs,YES
+Tata,Curvv,Pure X,Exterior,LED Headlamps,YES
+Tata,Curvv,Pure X,Exterior,LED Taillights,YES
+Tata,Curvv,Pure X,Exterior,LED Fog Lamps,NO
+Tata,Curvv,Pure X,Exterior,Additional Features,Flush Door Handle with Welcome Light
+Tata,Curvv,Pure X,Safety,Anti-lock Braking System (ABS),YES
+Tata,Curvv,Pure X,Safety,Central Locking,YES
+Tata,Curvv,Pure X,Safety,Child Safety Locks,YES
+Tata,Curvv,Pure X,Safety,No. of Airbags,6
+Tata,Curvv,Pure X,Safety,Day & Night Rear View Mirror,YES
+Tata,Curvv,Pure X,Safety,Electronic Brakeforce Distribution (EBD),YES
+Tata,Curvv,Pure X,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Tata,Curvv,Pure X,Safety,Electronic Stability Control (ESC),YES
+Tata,Curvv,Pure X,Safety,Rear Camera,With Guidedlines
+Tata,Curvv,Pure X,Safety,ISOFIX Child Seat Mounts,YES
+Tata,Curvv,Pure X,Safety,Blind Spot Camera,NO
+Tata,Curvv,Pure X,Safety,Hill Descent Control,NO
+Tata,Curvv,Pure X,Safety,Hill Assist,YES
+Tata,Curvv,Pure X,Safety,360 View Camera,NO
+Tata,Curvv,Pure X,Safety,Bharat NCAP Safety Rating,5 Star
+Tata,Curvv,Pure X,Safety,Bharat NCAP Child Safety Rating,5 Star
+Tata,Curvv,Pure X,Safety,Safety Airbags,"Driver & Passenger, Front Side, Curtain"
+Tata,Curvv,Pure X,Entertainment & Communication,Radio,YES
+Tata,Curvv,Pure X,Entertainment & Communication,Wireless Phone Charging,NO
+Tata,Curvv,Pure X,Entertainment & Communication,Bluetooth Connectivity,YES
+Tata,Curvv,Pure X,Entertainment & Communication,Wi-Fi Connectivity,YES
+Tata,Curvv,Pure X,Entertainment & Communication,Touchscreen,YES
+Tata,Curvv,Pure X,Entertainment & Communication,Touchscreen Size,10.25 inch
+Tata,Curvv,Pure X,Entertainment & Communication,Android Auto,YES
+Tata,Curvv,Pure X,Entertainment & Communication,Apple CarPlay,YES
+Tata,Curvv,Pure X,Entertainment & Communication,No. of Speakers,4
+Tata,Curvv,Pure X,Entertainment & Communication,Usb Ports,YES
+Tata,Curvv,Pure X,Entertainment & Communication,Tweeters,2
+Tata,Curvv,Pure X,Entertainment & Communication,Speakers,Front & Rear
+Tata,Curvv,Pure X,ADAS Feature,Forward Collision Warning,NO
+Tata,Curvv,Pure X,ADAS Feature,Automatic Emergency Braking,NO
+Tata,Curvv,Pure X,ADAS Feature,Traffic Sign Recognition,NO
+Tata,Curvv,Pure X,ADAS Feature,Lane Departure Warning,NO
+Tata,Curvv,Pure X,ADAS Feature,Lane Keep Assist,NO
+Tata,Curvv,Pure X,ADAS Feature,Driver Attention Warning,NO
+Tata,Curvv,Pure X,ADAS Feature,Adaptive Cruise Control,NO
+Tata,Curvv,Pure X,ADAS Feature,Adaptive High Beam Assist,NO
+Tata,Curvv,Pure X,ADAS Feature,Rear Cross Traffic Alert,NO
+Tata,Curvv,Pure X,ADAS Feature,Blind Spot Monitor,NO
+Tata,Curvv,Pure X,Advance Internet Feature,Remote Vehicle Status Check,NO
+Tata,Curvv,Pure X,Advance Internet Feature,Inbuilt Assistant,NO
+Tata,Curvv,Pure X,Advance Internet Feature,Google / Alexa Connectivity,NO
+Tata,Curvv,Pure X,Advance Internet Feature,RSA,NO

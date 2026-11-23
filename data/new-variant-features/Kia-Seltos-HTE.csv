@@ -1,0 +1,122 @@
+company,model,variant,category,feature_name,feature_details
+Kia,Seltos,HTE,Engine & Transmission,Engine Type,SmartStream G1.5
+Kia,Seltos,HTE,Engine & Transmission,Displacement,1497 cc
+Kia,Seltos,HTE,Engine & Transmission,Max Power,113bhp@6300rpm
+Kia,Seltos,HTE,Engine & Transmission,Max Torque,144Nm@4500rpm
+Kia,Seltos,HTE,Engine & Transmission,No. of Cylinders,4
+Kia,Seltos,HTE,Engine & Transmission,Valves Per Cylinder,4
+Kia,Seltos,HTE,Engine & Transmission,Fuel Supply System,MPi
+Kia,Seltos,HTE,Engine & Transmission,Turbo Charger,NO
+Kia,Seltos,HTE,Engine & Transmission,Transmission Type,Manual
+Kia,Seltos,HTE,Engine & Transmission,Gearbox,6-Speed
+Kia,Seltos,HTE,Engine & Transmission,Drive Type,2WD
+Kia,Seltos,HTE,Fuel & Performance,Fuel Type,Petrol
+Kia,Seltos,HTE,Fuel & Performance,Petrol Mileage ARAI,16.5 kmpl
+Kia,Seltos,HTE,Fuel & Performance,Petrol Fuel Tank Capacity,47 Litres
+Kia,Seltos,HTE,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Kia,Seltos,HTE,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Kia,Seltos,HTE,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Kia,Seltos,HTE,"Suspension, Steering & Brakes",Steering Type,Electric
+Kia,Seltos,HTE,"Suspension, Steering & Brakes",Steering Column,Tilt
+Kia,Seltos,HTE,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Kia,Seltos,HTE,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Kia,Seltos,HTE,Dimensions & Capacity,Length,4460 mm
+Kia,Seltos,HTE,Dimensions & Capacity,Width,1830 mm
+Kia,Seltos,HTE,Dimensions & Capacity,Height,1635 mm
+Kia,Seltos,HTE,Dimensions & Capacity,Boot Space,447 Litres
+Kia,Seltos,HTE,Dimensions & Capacity,Seating Capacity,5
+Kia,Seltos,HTE,Dimensions & Capacity,Wheel Base,2690 mm
+Kia,Seltos,HTE,Comfort & Convenience,Power Steering,YES
+Kia,Seltos,HTE,Comfort & Convenience,Air Conditioner,YES
+Kia,Seltos,HTE,Comfort & Convenience,Heater,YES
+Kia,Seltos,HTE,Comfort & Convenience,Adjustable Steering,Height only
+Kia,Seltos,HTE,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Kia,Seltos,HTE,Comfort & Convenience,Ventilated Seats,NO
+Kia,Seltos,HTE,Comfort & Convenience,Electric Adjustable Seats,NO
+Kia,Seltos,HTE,Comfort & Convenience,Automatic Climate Control,NO
+Kia,Seltos,HTE,Comfort & Convenience,Accessory Power Outlet,YES
+Kia,Seltos,HTE,Comfort & Convenience,Rear Seat Headrest,Integrated
+Kia,Seltos,HTE,Comfort & Convenience,Adjustable Headrest,YES
+Kia,Seltos,HTE,Comfort & Convenience,Rear Seat Centre Arm Rest,NO
+Kia,Seltos,HTE,Comfort & Convenience,Rear AC Vents,YES
+Kia,Seltos,HTE,Comfort & Convenience,Lumbar Support,NO
+Kia,Seltos,HTE,Comfort & Convenience,Cruise Control,YES
+Kia,Seltos,HTE,Comfort & Convenience,Parking Sensors,Rear
+Kia,Seltos,HTE,Comfort & Convenience,Foldable Rear Seat,Bench Folding
+Kia,Seltos,HTE,Comfort & Convenience,KeyLess Entry,YES
+Kia,Seltos,HTE,Comfort & Convenience,Engine Start/Stop Button,NO
+Kia,Seltos,HTE,Comfort & Convenience,Paddle Shifters,NO
+Kia,Seltos,HTE,Comfort & Convenience,USB Charger,Front & Rear
+Kia,Seltos,HTE,Comfort & Convenience,Central Console Armrest,YES
+Kia,Seltos,HTE,Comfort & Convenience,Drive Modes,NO
+Kia,Seltos,HTE,Comfort & Convenience,Additional Features,Sunglass Holder
+Kia,Seltos,HTE,Comfort & Convenience,Power Windows,Front & Rear
+Kia,Seltos,HTE,Comfort & Convenience,Cup Holders,Front Only
+Kia,Seltos,HTE,Interior,Leather Wrapped Steering Wheel,NO
+Kia,Seltos,HTE,Interior,Glove Box,YES
+Kia,Seltos,HTE,Interior,Digital Cluster,YES
+Kia,Seltos,HTE,Interior,Digital Cluster Size,4.2
+Kia,Seltos,HTE,Interior,Upholstery,Fabric
+Kia,Seltos,HTE,Exterior,Adjustable Headlamps,YES
+Kia,Seltos,HTE,Exterior,Rear Window Wiper,NO
+Kia,Seltos,HTE,Exterior,Rear Window Defogger,NO
+Kia,Seltos,HTE,Exterior,Rear Spoiler,YES
+Kia,Seltos,HTE,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Kia,Seltos,HTE,Exterior,Projector Headlamps,NO
+Kia,Seltos,HTE,Exterior,Roof Rails,NO
+Kia,Seltos,HTE,Exterior,Automatic Headlamps,YES
+Kia,Seltos,HTE,Exterior,Fog Lights,NO
+Kia,Seltos,HTE,Exterior,Antenna,Shark Fin
+Kia,Seltos,HTE,Exterior,Sunroof,NO
+Kia,Seltos,HTE,Exterior,Outside Rear View Mirror (ORVM),Powered
+Kia,Seltos,HTE,Exterior,Wheels Type,Steel with Cover
+Kia,Seltos,HTE,Exterior,Tyre Size,205/65 R16
+Kia,Seltos,HTE,Exterior,Tyre Type,Radial Tubeless
+Kia,Seltos,HTE,Exterior,Wheel Size,16 Inch
+Kia,Seltos,HTE,Exterior,LED DRLs,YES
+Kia,Seltos,HTE,Exterior,LED Headlamps,YES
+Kia,Seltos,HTE,Exterior,LED Taillights,YES
+Kia,Seltos,HTE,Exterior,LED Fog Lamps,NO
+Kia,Seltos,HTE,Safety,Anti-lock Braking System (ABS),YES
+Kia,Seltos,HTE,Safety,Brake Assist,YES
+Kia,Seltos,HTE,Safety,Central Locking,YES
+Kia,Seltos,HTE,Safety,Child Safety Locks,YES
+Kia,Seltos,HTE,Safety,No. of Airbags,6
+Kia,Seltos,HTE,Safety,Driver Airbag,YES
+Kia,Seltos,HTE,Safety,Passenger Airbag,YES
+Kia,Seltos,HTE,Safety,Side Airbag,YES
+Kia,Seltos,HTE,Safety,Day & Night Rear View Mirror,YES
+Kia,Seltos,HTE,Safety,Electronic Brakeforce Distribution (EBD),YES
+Kia,Seltos,HTE,Safety,Traction Control,YES
+Kia,Seltos,HTE,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Kia,Seltos,HTE,Safety,Engine Immobilizer,YES
+Kia,Seltos,HTE,Safety,Electronic Stability Control (ESC),YES
+Kia,Seltos,HTE,Safety,Rear Camera,With Guidedlines
+Kia,Seltos,HTE,Safety,ISOFIX Child Seat Mounts,YES
+Kia,Seltos,HTE,Safety,Hill Descent Control,YES
+Kia,Seltos,HTE,Safety,Hill Assist,YES
+Kia,Seltos,HTE,Safety,360 View Camera,NO
+Kia,Seltos,HTE,Safety,Bharat NCAP Safety Rating,5 Star
+Kia,Seltos,HTE,Safety,Bharat NCAP Child Safety Rating,5 Star
+Kia,Seltos,HTE,Entertainment & Communication,Radio,YES
+Kia,Seltos,HTE,Entertainment & Communication,Wireless Phone Charging,NO
+Kia,Seltos,HTE,Entertainment & Communication,Bluetooth Connectivity,YES
+Kia,Seltos,HTE,Entertainment & Communication,Touchscreen,YES
+Kia,Seltos,HTE,Entertainment & Communication,Touchscreen Size,10.25 inch
+Kia,Seltos,HTE,Entertainment & Communication,Android Auto,YES
+Kia,Seltos,HTE,Entertainment & Communication,Apple CarPlay,YES
+Kia,Seltos,HTE,Entertainment & Communication,No. of Speakers,6
+Kia,Seltos,HTE,Entertainment & Communication,Usb Ports,YES
+Kia,Seltos,HTE,Entertainment & Communication,Additional Features,Wireless Android Auto/Apple CarPlay
+Kia,Seltos,HTE,Entertainment & Communication,Speakers,Front & Rear
+Kia,Seltos,HTE,ADAS Feature,Forward Collision Warning,NO
+Kia,Seltos,HTE,ADAS Feature,Blind Spot Collision Avoidance Assist,NO
+Kia,Seltos,HTE,ADAS Feature,Lane Departure Warning,NO
+Kia,Seltos,HTE,ADAS Feature,Lane Keep Assist,NO
+Kia,Seltos,HTE,ADAS Feature,Driver Attention Warning,NO
+Kia,Seltos,HTE,ADAS Feature,Adaptive Cruise Control,NO
+Kia,Seltos,HTE,ADAS Feature,Leading Vehicle Departure Alert,NO
+Kia,Seltos,HTE,ADAS Feature,Adaptive High Beam Assist,NO
+Kia,Seltos,HTE,ADAS Feature,Rear Cross Traffic Alert,NO
+Kia,Seltos,HTE,ADAS Feature,Rear Cross Traffic Collision-Avoidance Assist,NO
+Kia,Seltos,HTE,ADAS Feature,Blind Spot Monitor,NO

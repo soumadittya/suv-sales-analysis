@@ -1,0 +1,146 @@
+company,model,variant,category,feature_name,feature_details
+Mahindra,XUV 3XO EV,AX5,Engine & Transmission,Battery Capacity,39.4 kWh
+Mahindra,XUV 3XO EV,AX5,Engine & Transmission,Motor Power,100 kW
+Mahindra,XUV 3XO EV,AX5,Engine & Transmission,Motor Type,Permanent Magnet Synchronous
+Mahindra,XUV 3XO EV,AX5,Engine & Transmission,Max Power,147.51bhp
+Mahindra,XUV 3XO EV,AX5,Engine & Transmission,Max Torque,310Nm
+Mahindra,XUV 3XO EV,AX5,Engine & Transmission,Range,456 km
+Mahindra,XUV 3XO EV,AX5,Engine & Transmission,Battery Type,Lithium lon
+Mahindra,XUV 3XO EV,AX5,Engine & Transmission,Charging Time (A.C),6H 30 Min-7.2 kW (0-100%)
+Mahindra,XUV 3XO EV,AX5,Engine & Transmission,Charging Time (D.C),24Min-(10-80%)-350kW
+Mahindra,XUV 3XO EV,AX5,Engine & Transmission,Regenerative Braking,YES
+Mahindra,XUV 3XO EV,AX5,Engine & Transmission,Charging Port,CCS-II
+Mahindra,XUV 3XO EV,AX5,Engine & Transmission,Charging Options,7.2 kW AC | 6.5 KW AC | 50 kW DC
+Mahindra,XUV 3XO EV,AX5,Engine & Transmission,Charging Time (15 A Plug Point),13.5H (0-100%)
+Mahindra,XUV 3XO EV,AX5,Engine & Transmission,Charging Time (7.2 kW AC Fast Charger),6.5 H (0-100%)
+Mahindra,XUV 3XO EV,AX5,Engine & Transmission,Charging Time (50 kW DC Fast Charger),50 Min (0-80%)
+Mahindra,XUV 3XO EV,AX5,Engine & Transmission,Transmission Type,Automatic
+Mahindra,XUV 3XO EV,AX5,Engine & Transmission,Gearbox,Shift-by-wire AT
+Mahindra,XUV 3XO EV,AX5,Engine & Transmission,Drive Type,FWD
+Mahindra,XUV 3XO EV,AX5,Fuel & Performance,Fuel Type,Electric
+Mahindra,XUV 3XO EV,AX5,Fuel & Performance,Emission Norm Compliance,ZEV
+Mahindra,XUV 3XO EV,AX5,Charging,Fast Charging,YES
+Mahindra,XUV 3XO EV,AX5,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Mahindra,XUV 3XO EV,AX5,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Mahindra,XUV 3XO EV,AX5,"Suspension, Steering & Brakes",Steering Type,Electric
+Mahindra,XUV 3XO EV,AX5,"Suspension, Steering & Brakes",Turning Radius,5.3
+Mahindra,XUV 3XO EV,AX5,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Mahindra,XUV 3XO EV,AX5,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Mahindra,XUV 3XO EV,AX5,Dimensions & Capacity,Length,3990 mm
+Mahindra,XUV 3XO EV,AX5,Dimensions & Capacity,Width,1821 mm
+Mahindra,XUV 3XO EV,AX5,Dimensions & Capacity,Height,1653 mm
+Mahindra,XUV 3XO EV,AX5,Dimensions & Capacity,Boot Space,364 Litres
+Mahindra,XUV 3XO EV,AX5,Dimensions & Capacity,Seating Capacity,5
+Mahindra,XUV 3XO EV,AX5,Dimensions & Capacity,Ground Clearance Unladen,190 mm
+Mahindra,XUV 3XO EV,AX5,Dimensions & Capacity,Wheel Base,2600 mm
+Mahindra,XUV 3XO EV,AX5,Comfort & Convenience,Boot Opening,Electronic
+Mahindra,XUV 3XO EV,AX5,Comfort & Convenience,Power Steering,YES
+Mahindra,XUV 3XO EV,AX5,Comfort & Convenience,Air Conditioner,YES
+Mahindra,XUV 3XO EV,AX5,Comfort & Convenience,Heater,YES
+Mahindra,XUV 3XO EV,AX5,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Mahindra,XUV 3XO EV,AX5,Comfort & Convenience,Automatic Climate Control,YES
+Mahindra,XUV 3XO EV,AX5,Comfort & Convenience,Air Quality Control,YES
+Mahindra,XUV 3XO EV,AX5,Comfort & Convenience,Accessory Power Outlet,YES
+Mahindra,XUV 3XO EV,AX5,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Mahindra,XUV 3XO EV,AX5,Comfort & Convenience,Adjustable Headrest,YES
+Mahindra,XUV 3XO EV,AX5,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Mahindra,XUV 3XO EV,AX5,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Mahindra,XUV 3XO EV,AX5,Comfort & Convenience,Rear AC Vents,YES
+Mahindra,XUV 3XO EV,AX5,Comfort & Convenience,Cruise Control,YES
+Mahindra,XUV 3XO EV,AX5,Comfort & Convenience,Parking Sensors,Rear
+Mahindra,XUV 3XO EV,AX5,Comfort & Convenience,Real-Time Vehicle Tracking,YES
+Mahindra,XUV 3XO EV,AX5,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Mahindra,XUV 3XO EV,AX5,Comfort & Convenience,KeyLess Entry,YES
+Mahindra,XUV 3XO EV,AX5,Comfort & Convenience,Engine Start/Stop Button,YES
+Mahindra,XUV 3XO EV,AX5,Comfort & Convenience,Voice Commands,YES
+Mahindra,XUV 3XO EV,AX5,Comfort & Convenience,USB Charger,Front & Rear
+Mahindra,XUV 3XO EV,AX5,Comfort & Convenience,Central Console Armrest,With Storage
+Mahindra,XUV 3XO EV,AX5,Comfort & Convenience,Drive Modes,3
+Mahindra,XUV 3XO EV,AX5,Comfort & Convenience,Drive Mode Types,Fun | Fast | Fearless
+Mahindra,XUV 3XO EV,AX5,Comfort & Convenience,Power Windows,Front & Rear
+Mahindra,XUV 3XO EV,AX5,Comfort & Convenience,Cup Holders,Front & Rear
+Mahindra,XUV 3XO EV,AX5,Interior,Leather Wrapped Steering Wheel,YES
+Mahindra,XUV 3XO EV,AX5,Interior,Leather wrap gear-shift selector,YES
+Mahindra,XUV 3XO EV,AX5,Interior,Glove Box,NO
+Mahindra,XUV 3XO EV,AX5,Interior,Digital Cluster,YES
+Mahindra,XUV 3XO EV,AX5,Interior,Digital Cluster Size,10.25
+Mahindra,XUV 3XO EV,AX5,Interior,Upholstery,Fabric
+Mahindra,XUV 3XO EV,AX5,Exterior,Adjustable Headlamps,YES
+Mahindra,XUV 3XO EV,AX5,Exterior,Rain Sensing Wiper,YES
+Mahindra,XUV 3XO EV,AX5,Exterior,Rear Window Wiper,YES
+Mahindra,XUV 3XO EV,AX5,Exterior,Rear Window Washer,YES
+Mahindra,XUV 3XO EV,AX5,Exterior,Rear Window Defogger,YES
+Mahindra,XUV 3XO EV,AX5,Exterior,Wheel Covers,NO
+Mahindra,XUV 3XO EV,AX5,Exterior,Alloy Wheels,YES
+Mahindra,XUV 3XO EV,AX5,Exterior,Rear Spoiler,YES
+Mahindra,XUV 3XO EV,AX5,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Mahindra,XUV 3XO EV,AX5,Exterior,Projector Headlamps,YES
+Mahindra,XUV 3XO EV,AX5,Exterior,Roof Rails,YES
+Mahindra,XUV 3XO EV,AX5,Exterior,Automatic Headlamps,YES
+Mahindra,XUV 3XO EV,AX5,Exterior,Fog Lights,NO
+Mahindra,XUV 3XO EV,AX5,Exterior,Antenna,Shark Fin
+Mahindra,XUV 3XO EV,AX5,Exterior,Sunroof,Single Pane
+Mahindra,XUV 3XO EV,AX5,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Mahindra,XUV 3XO EV,AX5,Exterior,Tyre Size,135/90 R16
+Mahindra,XUV 3XO EV,AX5,Exterior,Tyre Type,Tubeless Radial
+Mahindra,XUV 3XO EV,AX5,Exterior,LED DRLs,YES
+Mahindra,XUV 3XO EV,AX5,Exterior,LED Headlamps,YES
+Mahindra,XUV 3XO EV,AX5,Exterior,LED Taillights,YES
+Mahindra,XUV 3XO EV,AX5,Exterior,LED Fog Lamps,NO
+Mahindra,XUV 3XO EV,AX5,Safety,Anti-lock Braking System (ABS),YES
+Mahindra,XUV 3XO EV,AX5,Safety,Central Locking,YES
+Mahindra,XUV 3XO EV,AX5,Safety,Child Safety Locks,YES
+Mahindra,XUV 3XO EV,AX5,Safety,No. of Airbags,6
+Mahindra,XUV 3XO EV,AX5,Safety,Driver Airbag,YES
+Mahindra,XUV 3XO EV,AX5,Safety,Passenger Airbag,YES
+Mahindra,XUV 3XO EV,AX5,Safety,Side Airbag,YES
+Mahindra,XUV 3XO EV,AX5,Safety,Side Airbag-Rear,NO
+Mahindra,XUV 3XO EV,AX5,Safety,Day & Night Rear View Mirror,YES
+Mahindra,XUV 3XO EV,AX5,Safety,Electronic Brakeforce Distribution (EBD),YES
+Mahindra,XUV 3XO EV,AX5,Safety,Traction Control,YES
+Mahindra,XUV 3XO EV,AX5,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Mahindra,XUV 3XO EV,AX5,Safety,Electronic Stability Control (ESC),YES
+Mahindra,XUV 3XO EV,AX5,Safety,Rear Camera,With Guidedlines
+Mahindra,XUV 3XO EV,AX5,Safety,Anti-Pinch Power Windows,Driver's Window
+Mahindra,XUV 3XO EV,AX5,Safety,ISOFIX Child Seat Mounts,YES
+Mahindra,XUV 3XO EV,AX5,Safety,360 View Camera,NO
+Mahindra,XUV 3XO EV,AX5,Entertainment & Communication,Radio,YES
+Mahindra,XUV 3XO EV,AX5,Entertainment & Communication,Wireless Phone Charging,YES
+Mahindra,XUV 3XO EV,AX5,Entertainment & Communication,Bluetooth Connectivity,YES
+Mahindra,XUV 3XO EV,AX5,Entertainment & Communication,Touchscreen,YES
+Mahindra,XUV 3XO EV,AX5,Entertainment & Communication,Touchscreen Size,10.25 inch
+Mahindra,XUV 3XO EV,AX5,Entertainment & Communication,Android Auto,YES
+Mahindra,XUV 3XO EV,AX5,Entertainment & Communication,Apple CarPlay,YES
+Mahindra,XUV 3XO EV,AX5,Entertainment & Communication,No. of Speakers,6
+Mahindra,XUV 3XO EV,AX5,Entertainment & Communication,Usb Ports,YES
+Mahindra,XUV 3XO EV,AX5,Entertainment & Communication,Additional Features,Wireless Android Auto & Apple CarPlay
+Mahindra,XUV 3XO EV,AX5,Entertainment & Communication,Speakers,Front & Rear
+Mahindra,XUV 3XO EV,AX5,ADAS Feature,Forward Collision Warning,NO
+Mahindra,XUV 3XO EV,AX5,ADAS Feature,Automatic Emergency Braking,NO
+Mahindra,XUV 3XO EV,AX5,ADAS Feature,Speed Assist System,NO
+Mahindra,XUV 3XO EV,AX5,ADAS Feature,Traffic Sign Recognition,NO
+Mahindra,XUV 3XO EV,AX5,ADAS Feature,Lane Departure Warning,NO
+Mahindra,XUV 3XO EV,AX5,ADAS Feature,Lane Keep Assist,NO
+Mahindra,XUV 3XO EV,AX5,ADAS Feature,Lane Departure Prevention Assist,NO
+Mahindra,XUV 3XO EV,AX5,ADAS Feature,Adaptive Cruise Control,NO
+Mahindra,XUV 3XO EV,AX5,ADAS Feature,Adaptive High Beam Assist,NO
+Mahindra,XUV 3XO EV,AX5,ADAS Feature,Rear Cross Traffic Alert,NO
+Mahindra,XUV 3XO EV,AX5,ADAS Feature,Blind Spot Monitor,NO
+Mahindra,XUV 3XO EV,AX5,Advance Internet Feature,Live Location,YES
+Mahindra,XUV 3XO EV,AX5,Advance Internet Feature,Unauthorised Vehicle entry,YES
+Mahindra,XUV 3XO EV,AX5,Advance Internet Feature,Remote Vehicle Status Check,YES
+Mahindra,XUV 3XO EV,AX5,Advance Internet Feature,Insurance Expiry,YES
+Mahindra,XUV 3XO EV,AX5,Advance Internet Feature,Navigation with Live Traffic,YES
+Mahindra,XUV 3XO EV,AX5,Advance Internet Feature,Live Weather,YES
+Mahindra,XUV 3XO EV,AX5,Advance Internet Feature,E-Call & I-Call,YES
+Mahindra,XUV 3XO EV,AX5,Advance Internet Feature,Google / Alexa Connectivity,YES
+Mahindra,XUV 3XO EV,AX5,Advance Internet Feature,Save Route/Place,YES
+Mahindra,XUV 3XO EV,AX5,Advance Internet Feature,Crash Notification,YES
+Mahindra,XUV 3XO EV,AX5,Advance Internet Feature,SOS Button,YES
+Mahindra,XUV 3XO EV,AX5,Advance Internet Feature,RSA,YES
+Mahindra,XUV 3XO EV,AX5,Advance Internet Feature,Over Speeding Alert,YES
+Mahindra,XUV 3XO EV,AX5,Advance Internet Feature,In Car Remote Control App,YES
+Mahindra,XUV 3XO EV,AX5,Advance Internet Feature,Valet Mode,YES
+Mahindra,XUV 3XO EV,AX5,Advance Internet Feature,Remote Door Lock/Unlock,YES
+Mahindra,XUV 3XO EV,AX5,Advance Internet Feature,Geo-fence Alert,YES
+Mahindra,XUV 3XO EV,AX5,Advance Internet Feature,Inbuilt APPs,ADRENOX

@@ -1,0 +1,86 @@
+company,model,variant,category,feature_name,feature_details
+Mercedes-Benz,GLA,200,Engine & Transmission,Displacement,1332 cc
+Mercedes-Benz,GLA,200,Engine & Transmission,Max Power,160.92bhp
+Mercedes-Benz,GLA,200,Engine & Transmission,Max Torque,270Nm
+Mercedes-Benz,GLA,200,Engine & Transmission,No. of Cylinders,4
+Mercedes-Benz,GLA,200,Engine & Transmission,Valves Per Cylinder,4
+Mercedes-Benz,GLA,200,Engine & Transmission,Turbo Charger,YES
+Mercedes-Benz,GLA,200,Engine & Transmission,Transmission Type,Automatic
+Mercedes-Benz,GLA,200,Engine & Transmission,Gearbox,7-Speed DCT
+Mercedes-Benz,GLA,200,Engine & Transmission,Drive Type,FWD
+Mercedes-Benz,GLA,200,Fuel & Performance,Fuel Type,Petrol
+Mercedes-Benz,GLA,200,Fuel & Performance,Petrol Mileage ARAI,17.4 kmpl
+Mercedes-Benz,GLA,200,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Mercedes-Benz,GLA,200,Fuel & Performance,Top Speed,210 kmph
+Mercedes-Benz,GLA,200,Fuel & Performance,Acceleration,8.9 s
+Mercedes-Benz,GLA,200,Fuel & Performance,0-100kmph,8.9 s
+Mercedes-Benz,GLA,200,"Suspension, Steering & Brakes",Front Suspension,Air suspension
+Mercedes-Benz,GLA,200,"Suspension, Steering & Brakes",Rear Suspension,Air suspension
+Mercedes-Benz,GLA,200,"Suspension, Steering & Brakes",Steering Type,Electric
+Mercedes-Benz,GLA,200,"Suspension, Steering & Brakes",Boot Space Rear Seat Folding,1420 Litres
+Mercedes-Benz,GLA,200,Dimensions & Capacity,Length,4412 mm
+Mercedes-Benz,GLA,200,Dimensions & Capacity,Width,2020 mm
+Mercedes-Benz,GLA,200,Dimensions & Capacity,Height,1616 mm
+Mercedes-Benz,GLA,200,Dimensions & Capacity,Boot Space,425 Litres
+Mercedes-Benz,GLA,200,Dimensions & Capacity,Seating Capacity,5
+Mercedes-Benz,GLA,200,Dimensions & Capacity,Wheel Base,2651 mm
+Mercedes-Benz,GLA,200,Dimensions & Capacity,Front Tread,1511 mm
+Mercedes-Benz,GLA,200,Dimensions & Capacity,Rear Tread,1606 mm
+Mercedes-Benz,GLA,200,Dimensions & Capacity,Kerb Weight,1570 kg
+Mercedes-Benz,GLA,200,Dimensions & Capacity,Gross Weight,2070 kg
+Mercedes-Benz,GLA,200,Dimensions & Capacity,Reported Ground Clearance (Unladen),183 mm
+Mercedes-Benz,GLA,200,Comfort & Convenience,Boot Opening,Automatic
+Mercedes-Benz,GLA,200,Comfort & Convenience,Power Steering,YES
+Mercedes-Benz,GLA,200,Comfort & Convenience,Air Conditioner,YES
+Mercedes-Benz,GLA,200,Comfort & Convenience,Heater,YES
+Mercedes-Benz,GLA,200,Comfort & Convenience,Adjustable Steering,YES
+Mercedes-Benz,GLA,200,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Mercedes-Benz,GLA,200,Comfort & Convenience,Accessory Power Outlet,YES
+Mercedes-Benz,GLA,200,Comfort & Convenience,Rear Seat Headrest,YES
+Mercedes-Benz,GLA,200,Comfort & Convenience,Adjustable Headrest,YES
+Mercedes-Benz,GLA,200,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Mercedes-Benz,GLA,200,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Mercedes-Benz,GLA,200,Comfort & Convenience,Cruise Control,YES
+Mercedes-Benz,GLA,200,Comfort & Convenience,Parking Sensors,Rear
+Mercedes-Benz,GLA,200,Comfort & Convenience,KeyLess Entry,YES
+Mercedes-Benz,GLA,200,Comfort & Convenience,Engine Start/Stop Button,YES
+Mercedes-Benz,GLA,200,Comfort & Convenience,Paddle Shifters,YES
+Mercedes-Benz,GLA,200,Comfort & Convenience,USB Charger,Front
+Mercedes-Benz,GLA,200,Comfort & Convenience,Follow Me Home Headlamps,YES
+Mercedes-Benz,GLA,200,Comfort & Convenience,Additional Features,Digital Key Handover
+Mercedes-Benz,GLA,200,Interior,Leather Wrapped Steering Wheel,YES
+Mercedes-Benz,GLA,200,Interior,Glove Box,YES
+Mercedes-Benz,GLA,200,Interior,Digital Cluster,YES
+Mercedes-Benz,GLA,200,Interior,Upholstery,Leatherette
+Mercedes-Benz,GLA,200,Exterior,Alloy Wheels,YES
+Mercedes-Benz,GLA,200,Exterior,Rear Spoiler,YES
+Mercedes-Benz,GLA,200,Exterior,Projector Headlamps,YES
+Mercedes-Benz,GLA,200,Exterior,Sunroof,Panoramic
+Mercedes-Benz,GLA,200,Exterior,Tyre Type,Radial Tubeless
+Mercedes-Benz,GLA,200,Exterior,LED DRLs,YES
+Mercedes-Benz,GLA,200,Exterior,LED Headlamps,YES
+Mercedes-Benz,GLA,200,Exterior,LED Taillights,YES
+Mercedes-Benz,GLA,200,Safety,Anti-lock Braking System (ABS),YES
+Mercedes-Benz,GLA,200,Safety,Brake Assist,YES
+Mercedes-Benz,GLA,200,Safety,Central Locking,YES
+Mercedes-Benz,GLA,200,Safety,Child Safety Locks,YES
+Mercedes-Benz,GLA,200,Safety,No. of Airbags,7
+Mercedes-Benz,GLA,200,Safety,Driver Airbag,YES
+Mercedes-Benz,GLA,200,Safety,Passenger Airbag,YES
+Mercedes-Benz,GLA,200,Safety,Side Airbag,YES
+Mercedes-Benz,GLA,200,Safety,Day & Night Rear View Mirror,YES
+Mercedes-Benz,GLA,200,Safety,Electronic Brakeforce Distribution (EBD),YES
+Mercedes-Benz,GLA,200,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Mercedes-Benz,GLA,200,Safety,Engine Immobilizer,YES
+Mercedes-Benz,GLA,200,Safety,Electronic Stability Control (ESC),YES
+Mercedes-Benz,GLA,200,Safety,Rear Camera,With Guidedlines
+Mercedes-Benz,GLA,200,Safety,Hill Assist,YES
+Mercedes-Benz,GLA,200,Safety,360 View Camera,YES
+Mercedes-Benz,GLA,200,Entertainment & Communication,Radio,YES
+Mercedes-Benz,GLA,200,Entertainment & Communication,Bluetooth Connectivity,YES
+Mercedes-Benz,GLA,200,Entertainment & Communication,Touchscreen,YES
+Mercedes-Benz,GLA,200,Entertainment & Communication,Android Auto,YES
+Mercedes-Benz,GLA,200,Entertainment & Communication,Apple CarPlay,YES
+Mercedes-Benz,GLA,200,Entertainment & Communication,Usb Ports,YES
+Mercedes-Benz,GLA,200,Entertainment & Communication,Speakers,Front & Rear
+Mercedes-Benz,GLA,200,ADAS Feature,Blind Spot Monitor,YES

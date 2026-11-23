@@ -1,0 +1,117 @@
+company,model,variant,category,feature_name,feature_details
+Toyota,Fortuner Legender,Neo Drive,Engine & Transmission,Engine Type,2.8 L Diesel engine
+Toyota,Fortuner Legender,Neo Drive,Engine & Transmission,Displacement,2755 cc
+Toyota,Fortuner Legender,Neo Drive,Engine & Transmission,Max Power,201.15bhp@3000-3400rpm
+Toyota,Fortuner Legender,Neo Drive,Engine & Transmission,Max Torque,500Nm@1600-2800rpm
+Toyota,Fortuner Legender,Neo Drive,Engine & Transmission,No. of Cylinders,4
+Toyota,Fortuner Legender,Neo Drive,Engine & Transmission,Valves Per Cylinder,4
+Toyota,Fortuner Legender,Neo Drive,Engine & Transmission,Valve Configuration,DOHC
+Toyota,Fortuner Legender,Neo Drive,Engine & Transmission,Fuel Supply System,Direct Injection
+Toyota,Fortuner Legender,Neo Drive,Engine & Transmission,Turbo Charger,YES
+Toyota,Fortuner Legender,Neo Drive,Engine & Transmission,Transmission Type,Automatic
+Toyota,Fortuner Legender,Neo Drive,Engine & Transmission,Gearbox,6-Speed with Sequential Shift
+Toyota,Fortuner Legender,Neo Drive,Engine & Transmission,Drive Type,4WD
+Toyota,Fortuner Legender,Neo Drive,Fuel & Performance,Fuel Type,Diesel
+Toyota,Fortuner Legender,Neo Drive,Fuel & Performance,Diesel Fuel Tank Capacity,80 Litres
+Toyota,Fortuner Legender,Neo Drive,Fuel & Performance,Diesel Highway Mileage,14.4 kmpl
+Toyota,Fortuner Legender,Neo Drive,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Toyota,Fortuner Legender,Neo Drive,Fuel & Performance,Top Speed,190 kmph
+Toyota,Fortuner Legender,Neo Drive,"Suspension, Steering & Brakes",Front Suspension,Double wishbone suspension
+Toyota,Fortuner Legender,Neo Drive,"Suspension, Steering & Brakes",Rear Suspension,Multi-link suspension
+Toyota,Fortuner Legender,Neo Drive,"Suspension, Steering & Brakes",Steering Type,Hydraulic
+Toyota,Fortuner Legender,Neo Drive,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Toyota,Fortuner Legender,Neo Drive,"Suspension, Steering & Brakes",Turning Radius,5.8 m
+Toyota,Fortuner Legender,Neo Drive,"Suspension, Steering & Brakes",Front Brake Type,Ventilated Disc
+Toyota,Fortuner Legender,Neo Drive,"Suspension, Steering & Brakes",Rear Brake Type,Ventilated Disc
+Toyota,Fortuner Legender,Neo Drive,Dimensions & Capacity,Length,4795 mm
+Toyota,Fortuner Legender,Neo Drive,Dimensions & Capacity,Width,1855 mm
+Toyota,Fortuner Legender,Neo Drive,Dimensions & Capacity,Height,1835 mm
+Toyota,Fortuner Legender,Neo Drive,Dimensions & Capacity,Seating Capacity,7
+Toyota,Fortuner Legender,Neo Drive,Dimensions & Capacity,Wheel Base,2745 mm
+Toyota,Fortuner Legender,Neo Drive,Dimensions & Capacity,Gross Weight,2510 kg
+Toyota,Fortuner Legender,Neo Drive,Dimensions & Capacity,Reported Boot Space,296 Litres
+Toyota,Fortuner Legender,Neo Drive,Comfort & Convenience,Boot Opening,Electronic
+Toyota,Fortuner Legender,Neo Drive,Comfort & Convenience,Power Steering,YES
+Toyota,Fortuner Legender,Neo Drive,Comfort & Convenience,Air Conditioner,YES
+Toyota,Fortuner Legender,Neo Drive,Comfort & Convenience,Heater,YES
+Toyota,Fortuner Legender,Neo Drive,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Toyota,Fortuner Legender,Neo Drive,Comfort & Convenience,Ventilated Seats,NO
+Toyota,Fortuner Legender,Neo Drive,Comfort & Convenience,Electric Adjustable Seats,Front Only
+Toyota,Fortuner Legender,Neo Drive,Comfort & Convenience,Automatic Climate Control,YES
+Toyota,Fortuner Legender,Neo Drive,Comfort & Convenience,Accessory Power Outlet,YES
+Toyota,Fortuner Legender,Neo Drive,Comfort & Convenience,Adjustable Headrest,YES
+Toyota,Fortuner Legender,Neo Drive,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Toyota,Fortuner Legender,Neo Drive,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Toyota,Fortuner Legender,Neo Drive,Comfort & Convenience,Rear AC Vents,YES
+Toyota,Fortuner Legender,Neo Drive,Comfort & Convenience,Lumbar Support,YES
+Toyota,Fortuner Legender,Neo Drive,Comfort & Convenience,Cruise Control,YES
+Toyota,Fortuner Legender,Neo Drive,Comfort & Convenience,Parking Sensors,Front & Rear
+Toyota,Fortuner Legender,Neo Drive,Comfort & Convenience,Real-Time Vehicle Tracking,YES
+Toyota,Fortuner Legender,Neo Drive,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Toyota,Fortuner Legender,Neo Drive,Comfort & Convenience,KeyLess Entry,YES
+Toyota,Fortuner Legender,Neo Drive,Comfort & Convenience,Engine Start/Stop Button,YES
+Toyota,Fortuner Legender,Neo Drive,Comfort & Convenience,Voice Commands,YES
+Toyota,Fortuner Legender,Neo Drive,Comfort & Convenience,Paddle Shifters,YES
+Toyota,Fortuner Legender,Neo Drive,Comfort & Convenience,USB Charger,Front & Rear
+Toyota,Fortuner Legender,Neo Drive,Comfort & Convenience,Central Console Armrest,YES
+Toyota,Fortuner Legender,Neo Drive,Comfort & Convenience,Drive Modes,3
+Toyota,Fortuner Legender,Neo Drive,Comfort & Convenience,Idle Start-Stop System,YES
+Toyota,Fortuner Legender,Neo Drive,Comfort & Convenience,Drive Mode Types,ECO / NORMAL / SPORT
+Toyota,Fortuner Legender,Neo Drive,Interior,Leather Wrapped Steering Wheel,YES
+Toyota,Fortuner Legender,Neo Drive,Interior,Leather wrap gear-shift selector,YES
+Toyota,Fortuner Legender,Neo Drive,Interior,Glove Box,YES
+Toyota,Fortuner Legender,Neo Drive,Interior,Lighting,"Ambient light,Footwell Lamp"
+Toyota,Fortuner Legender,Neo Drive,Interior,Digital Cluster,YES
+Toyota,Fortuner Legender,Neo Drive,Interior,Upholstery,Leatherette
+Toyota,Fortuner Legender,Neo Drive,Exterior,Adjustable Headlamps,YES
+Toyota,Fortuner Legender,Neo Drive,Exterior,Rear Window Wiper,YES
+Toyota,Fortuner Legender,Neo Drive,Exterior,Rear Window Washer,YES
+Toyota,Fortuner Legender,Neo Drive,Exterior,Rear Window Defogger,YES
+Toyota,Fortuner Legender,Neo Drive,Exterior,Wheel Covers,NO
+Toyota,Fortuner Legender,Neo Drive,Exterior,Alloy Wheels,YES
+Toyota,Fortuner Legender,Neo Drive,Exterior,Rear Spoiler,YES
+Toyota,Fortuner Legender,Neo Drive,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Toyota,Fortuner Legender,Neo Drive,Exterior,Roof Rails,YES
+Toyota,Fortuner Legender,Neo Drive,Exterior,Automatic Headlamps,YES
+Toyota,Fortuner Legender,Neo Drive,Exterior,Fog Lights,Front & Rear
+Toyota,Fortuner Legender,Neo Drive,Exterior,Puddle Lamps,YES
+Toyota,Fortuner Legender,Neo Drive,Exterior,Tyre Size,265/60 R18
+Toyota,Fortuner Legender,Neo Drive,Exterior,Tyre Type,Tubeless
+Toyota,Fortuner Legender,Neo Drive,Exterior,LED DRLs,YES
+Toyota,Fortuner Legender,Neo Drive,Exterior,LED Headlamps,YES
+Toyota,Fortuner Legender,Neo Drive,Exterior,LED Taillights,YES
+Toyota,Fortuner Legender,Neo Drive,Exterior,LED Fog Lamps,YES
+Toyota,Fortuner Legender,Neo Drive,Safety,Anti-lock Braking System (ABS),YES
+Toyota,Fortuner Legender,Neo Drive,Safety,Brake Assist,YES
+Toyota,Fortuner Legender,Neo Drive,Safety,Central Locking,YES
+Toyota,Fortuner Legender,Neo Drive,Safety,Child Safety Locks,YES
+Toyota,Fortuner Legender,Neo Drive,Safety,Anti-Theft Alarm,YES
+Toyota,Fortuner Legender,Neo Drive,Safety,No. of Airbags,7
+Toyota,Fortuner Legender,Neo Drive,Safety,Driver Airbag,YES
+Toyota,Fortuner Legender,Neo Drive,Safety,Passenger Airbag,YES
+Toyota,Fortuner Legender,Neo Drive,Safety,Side Airbag,YES
+Toyota,Fortuner Legender,Neo Drive,Safety,Side Airbag-Rear,NO
+Toyota,Fortuner Legender,Neo Drive,Safety,Day & Night Rear View Mirror,YES
+Toyota,Fortuner Legender,Neo Drive,Safety,Electronic Brakeforce Distribution (EBD),YES
+Toyota,Fortuner Legender,Neo Drive,Safety,Traction Control,YES
+Toyota,Fortuner Legender,Neo Drive,Safety,Engine Immobilizer,YES
+Toyota,Fortuner Legender,Neo Drive,Safety,Electronic Stability Control (ESC),YES
+Toyota,Fortuner Legender,Neo Drive,Safety,Rear Camera,With Guidedlines
+Toyota,Fortuner Legender,Neo Drive,Safety,Anti-Theft Device,YES
+Toyota,Fortuner Legender,Neo Drive,Safety,Anti-Pinch Power Windows,All Windows
+Toyota,Fortuner Legender,Neo Drive,Safety,ISOFIX Child Seat Mounts,YES
+Toyota,Fortuner Legender,Neo Drive,Safety,Hill Assist,YES
+Toyota,Fortuner Legender,Neo Drive,Entertainment & Communication,Radio,YES
+Toyota,Fortuner Legender,Neo Drive,Entertainment & Communication,Wireless Phone Charging,YES
+Toyota,Fortuner Legender,Neo Drive,Entertainment & Communication,Bluetooth Connectivity,YES
+Toyota,Fortuner Legender,Neo Drive,Entertainment & Communication,Touchscreen,YES
+Toyota,Fortuner Legender,Neo Drive,Entertainment & Communication,Touchscreen Size,8 inch
+Toyota,Fortuner Legender,Neo Drive,Entertainment & Communication,Android Auto,YES
+Toyota,Fortuner Legender,Neo Drive,Entertainment & Communication,Apple CarPlay,YES
+Toyota,Fortuner Legender,Neo Drive,Entertainment & Communication,No. of Speakers,11
+Toyota,Fortuner Legender,Neo Drive,Entertainment & Communication,Usb Ports,YES
+Toyota,Fortuner Legender,Neo Drive,Entertainment & Communication,Additional Features,Premium JBL Speakers (11N Speakers Including Subwoofer & Ampli er)
+Toyota,Fortuner Legender,Neo Drive,Entertainment & Communication,Speakers,Front & Rear
+Toyota,Fortuner Legender,Neo Drive,Advance Internet Feature,E-Call & I-Call,YES
+Toyota,Fortuner Legender,Neo Drive,Advance Internet Feature,SOS / Emergency Assistance,YES
+Toyota,Fortuner Legender,Neo Drive,Advance Internet Feature,Geo-fence Alert,YES

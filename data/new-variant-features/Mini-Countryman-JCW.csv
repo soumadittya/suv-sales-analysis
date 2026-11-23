@@ -1,0 +1,110 @@
+company,model,variant,category,feature_name,feature_details
+Mini,Countryman,JCW,Engine & Transmission,Engine Type,2-litre turbo-petrol
+Mini,Countryman,JCW,Engine & Transmission,Displacement,1998 cc
+Mini,Countryman,JCW,Engine & Transmission,Max Power,296bhp
+Mini,Countryman,JCW,Engine & Transmission,Max Torque,400Nm
+Mini,Countryman,JCW,Engine & Transmission,No. of Cylinders,4
+Mini,Countryman,JCW,Engine & Transmission,Valves Per Cylinder,4
+Mini,Countryman,JCW,Engine & Transmission,Turbo Charger,YES
+Mini,Countryman,JCW,Engine & Transmission,Transmission Type,Automatic
+Mini,Countryman,JCW,Engine & Transmission,Gearbox,7-Speed DCT
+Mini,Countryman,JCW,Engine & Transmission,Drive Type,AWD
+Mini,Countryman,JCW,Fuel & Performance,Fuel Type,Petrol
+Mini,Countryman,JCW,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Mini,Countryman,JCW,Fuel & Performance,Top Speed,250 kmph
+Mini,Countryman,JCW,Fuel & Performance,Acceleration,5.4 s
+Mini,Countryman,JCW,Fuel & Performance,0-100kmph,5.4 s
+Mini,Countryman,JCW,"Suspension, Steering & Brakes",Steering Type,Electric
+Mini,Countryman,JCW,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Mini,Countryman,JCW,"Suspension, Steering & Brakes",Steering Gear Type,Rack & Pinion
+Mini,Countryman,JCW,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Mini,Countryman,JCW,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Mini,Countryman,JCW,Dimensions & Capacity,Length,4299 mm
+Mini,Countryman,JCW,Dimensions & Capacity,Width,1822 mm
+Mini,Countryman,JCW,Dimensions & Capacity,Height,1557 mm
+Mini,Countryman,JCW,Dimensions & Capacity,Seating Capacity,5
+Mini,Countryman,JCW,Dimensions & Capacity,Ground Clearance Unladen,149 mm
+Mini,Countryman,JCW,Dimensions & Capacity,Wheel Base,2620 mm
+Mini,Countryman,JCW,Comfort & Convenience,Power Steering,YES
+Mini,Countryman,JCW,Comfort & Convenience,Air Conditioner,YES
+Mini,Countryman,JCW,Comfort & Convenience,Heater,YES
+Mini,Countryman,JCW,Comfort & Convenience,Adjustable Steering,Height & Reach
+Mini,Countryman,JCW,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Mini,Countryman,JCW,Comfort & Convenience,Automatic Climate Control,YES
+Mini,Countryman,JCW,Comfort & Convenience,Air Quality Control,YES
+Mini,Countryman,JCW,Comfort & Convenience,Accessory Power Outlet,YES
+Mini,Countryman,JCW,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Mini,Countryman,JCW,Comfort & Convenience,Adjustable Headrest,YES
+Mini,Countryman,JCW,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Mini,Countryman,JCW,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Mini,Countryman,JCW,Comfort & Convenience,Rear AC Vents,YES
+Mini,Countryman,JCW,Comfort & Convenience,Lumbar Support,YES
+Mini,Countryman,JCW,Comfort & Convenience,Cruise Control,YES
+Mini,Countryman,JCW,Comfort & Convenience,Parking Sensors,Rear
+Mini,Countryman,JCW,Comfort & Convenience,Real-Time Vehicle Tracking,YES
+Mini,Countryman,JCW,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Mini,Countryman,JCW,Comfort & Convenience,KeyLess Entry,YES
+Mini,Countryman,JCW,Comfort & Convenience,Engine Start/Stop Button,YES
+Mini,Countryman,JCW,Comfort & Convenience,Paddle Shifters,YES
+Mini,Countryman,JCW,Comfort & Convenience,USB Charger,Front
+Mini,Countryman,JCW,Comfort & Convenience,Central Console Armrest,YES
+Mini,Countryman,JCW,Comfort & Convenience,Idle Start-Stop System,YES
+Mini,Countryman,JCW,Comfort & Convenience,Follow Me Home Headlamps,YES
+Mini,Countryman,JCW,Comfort & Convenience,Voice assisted sunroof,YES
+Mini,Countryman,JCW,Comfort & Convenience,Power Windows,Front & Rear
+Mini,Countryman,JCW,Comfort & Convenience,Cup Holders,Front Only
+Mini,Countryman,JCW,Interior,Glove Box,YES
+Mini,Countryman,JCW,Interior,Lighting,"Ambient light,Footwell Lamp"
+Mini,Countryman,JCW,Interior,Digital Cluster,YES
+Mini,Countryman,JCW,Interior,Upholstery,Leatherette
+Mini,Countryman,JCW,Exterior,Adjustable Headlamps,YES
+Mini,Countryman,JCW,Exterior,Alloy Wheels,YES
+Mini,Countryman,JCW,Exterior,Rear Spoiler,YES
+Mini,Countryman,JCW,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Mini,Countryman,JCW,Exterior,Roof Rails,YES
+Mini,Countryman,JCW,Exterior,Automatic Headlamps,YES
+Mini,Countryman,JCW,Exterior,Antenna,Shark Fin
+Mini,Countryman,JCW,Exterior,Sunroof,Panoramic
+Mini,Countryman,JCW,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Mini,Countryman,JCW,Exterior,LED DRLs,YES
+Mini,Countryman,JCW,Exterior,LED Headlamps,YES
+Mini,Countryman,JCW,Exterior,LED Taillights,YES
+Mini,Countryman,JCW,Safety,Anti-lock Braking System (ABS),YES
+Mini,Countryman,JCW,Safety,Brake Assist,YES
+Mini,Countryman,JCW,Safety,Central Locking,YES
+Mini,Countryman,JCW,Safety,Child Safety Locks,YES
+Mini,Countryman,JCW,Safety,Anti-Theft Alarm,YES
+Mini,Countryman,JCW,Safety,No. of Airbags,6
+Mini,Countryman,JCW,Safety,Driver Airbag,YES
+Mini,Countryman,JCW,Safety,Passenger Airbag,YES
+Mini,Countryman,JCW,Safety,Side Airbag,YES
+Mini,Countryman,JCW,Safety,Day & Night Rear View Mirror,YES
+Mini,Countryman,JCW,Safety,Electronic Brakeforce Distribution (EBD),YES
+Mini,Countryman,JCW,Safety,Traction Control,YES
+Mini,Countryman,JCW,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Mini,Countryman,JCW,Safety,Engine Immobilizer,YES
+Mini,Countryman,JCW,Safety,Electronic Stability Control (ESC),YES
+Mini,Countryman,JCW,Safety,Rear Camera,With Guidedlines
+Mini,Countryman,JCW,Safety,Anti-Theft Device,YES
+Mini,Countryman,JCW,Safety,Anti-Pinch Power Windows,Driver's Window
+Mini,Countryman,JCW,Safety,ISOFIX Child Seat Mounts,YES
+Mini,Countryman,JCW,Safety,Heads-Up Display (HUD),YES
+Mini,Countryman,JCW,Safety,Blind Spot Camera,YES
+Mini,Countryman,JCW,Safety,Hill Assist,YES
+Mini,Countryman,JCW,Safety,360 View Camera,YES
+Mini,Countryman,JCW,Entertainment & Communication,Radio,YES
+Mini,Countryman,JCW,Entertainment & Communication,Wireless Phone Charging,YES
+Mini,Countryman,JCW,Entertainment & Communication,Bluetooth Connectivity,YES
+Mini,Countryman,JCW,Entertainment & Communication,Touchscreen,YES
+Mini,Countryman,JCW,Entertainment & Communication,Android Auto,YES
+Mini,Countryman,JCW,Entertainment & Communication,Apple CarPlay,YES
+Mini,Countryman,JCW,Entertainment & Communication,Usb Ports,YES
+Mini,Countryman,JCW,Entertainment & Communication,Speakers,Front & Rear
+Mini,Countryman,JCW,ADAS Feature,Forward Collision Warning,YES
+Mini,Countryman,JCW,ADAS Feature,Automatic Emergency Braking,YES
+Mini,Countryman,JCW,ADAS Feature,Traffic Sign Recognition,YES
+Mini,Countryman,JCW,ADAS Feature,Lane Departure Warning,YES
+Mini,Countryman,JCW,ADAS Feature,Lane Keep Assist,YES
+Mini,Countryman,JCW,ADAS Feature,Adaptive Cruise Control,YES
+Mini,Countryman,JCW,ADAS Feature,Rear Cross Traffic Alert,YES
+Mini,Countryman,JCW,ADAS Feature,Blind Spot Monitor,YES

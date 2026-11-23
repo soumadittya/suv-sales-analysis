@@ -1,0 +1,134 @@
+company,model,variant,category,feature_name,feature_details
+Hyundai,Creta,EX,Engine & Transmission,Engine Type,1.5L MPi
+Hyundai,Creta,EX,Engine & Transmission,Displacement,1497 cc
+Hyundai,Creta,EX,Engine & Transmission,Max Power,113.18bhp@6300rpm
+Hyundai,Creta,EX,Engine & Transmission,Max Torque,143.8Nm@4500rpm
+Hyundai,Creta,EX,Engine & Transmission,No. of Cylinders,4
+Hyundai,Creta,EX,Engine & Transmission,Valves Per Cylinder,4
+Hyundai,Creta,EX,Engine & Transmission,Valve Configuration,DOHC
+Hyundai,Creta,EX,Engine & Transmission,Fuel Supply System,MPi
+Hyundai,Creta,EX,Engine & Transmission,Turbo Charger,NO
+Hyundai,Creta,EX,Engine & Transmission,Transmission Type,Manual
+Hyundai,Creta,EX,Engine & Transmission,Gearbox,6-Speed
+Hyundai,Creta,EX,Engine & Transmission,Drive Type,FWD
+Hyundai,Creta,EX,Fuel & Performance,Fuel Type,Petrol
+Hyundai,Creta,EX,Fuel & Performance,Petrol Mileage ARAI,17.4 kmpl
+Hyundai,Creta,EX,Fuel & Performance,Petrol Fuel Tank Capacity,50 Litres
+Hyundai,Creta,EX,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Hyundai,Creta,EX,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Hyundai,Creta,EX,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Hyundai,Creta,EX,"Suspension, Steering & Brakes",Steering Type,Electric
+Hyundai,Creta,EX,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Hyundai,Creta,EX,"Suspension, Steering & Brakes",Steering Gear Type,Rack & Pinion
+Hyundai,Creta,EX,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Hyundai,Creta,EX,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Hyundai,Creta,EX,Dimensions & Capacity,Length,4330 mm
+Hyundai,Creta,EX,Dimensions & Capacity,Width,1790 mm
+Hyundai,Creta,EX,Dimensions & Capacity,Height,1635 mm
+Hyundai,Creta,EX,Dimensions & Capacity,Seating Capacity,5
+Hyundai,Creta,EX,Dimensions & Capacity,Wheel Base,2610 mm
+Hyundai,Creta,EX,Dimensions & Capacity,Reported Boot Space,433 Litres
+Hyundai,Creta,EX,Comfort & Convenience,Boot Opening,Electronic
+Hyundai,Creta,EX,Comfort & Convenience,Power Steering,YES
+Hyundai,Creta,EX,Comfort & Convenience,Air Conditioner,YES
+Hyundai,Creta,EX,Comfort & Convenience,Heater,YES
+Hyundai,Creta,EX,Comfort & Convenience,Adjustable Steering,Height & Reach
+Hyundai,Creta,EX,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Hyundai,Creta,EX,Comfort & Convenience,Ventilated Seats,NO
+Hyundai,Creta,EX,Comfort & Convenience,Electric Adjustable Seats,NO
+Hyundai,Creta,EX,Comfort & Convenience,Automatic Climate Control,NO
+Hyundai,Creta,EX,Comfort & Convenience,Accessory Power Outlet,YES
+Hyundai,Creta,EX,Comfort & Convenience,Rear Seat Headrest,Integrated
+Hyundai,Creta,EX,Comfort & Convenience,Adjustable Headrest,YES
+Hyundai,Creta,EX,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Hyundai,Creta,EX,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Hyundai,Creta,EX,Comfort & Convenience,Rear AC Vents,YES
+Hyundai,Creta,EX,Comfort & Convenience,Cruise Control,NO
+Hyundai,Creta,EX,Comfort & Convenience,Parking Sensors,Rear
+Hyundai,Creta,EX,Comfort & Convenience,Real-Time Vehicle Tracking,NO
+Hyundai,Creta,EX,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Hyundai,Creta,EX,Comfort & Convenience,KeyLess Entry,YES
+Hyundai,Creta,EX,Comfort & Convenience,Engine Start/Stop Button,YES
+Hyundai,Creta,EX,Comfort & Convenience,Voice Commands,YES
+Hyundai,Creta,EX,Comfort & Convenience,Paddle Shifters,NO
+Hyundai,Creta,EX,Comfort & Convenience,USB Charger,Front & Rear
+Hyundai,Creta,EX,Comfort & Convenience,Central Console Armrest,With Storage
+Hyundai,Creta,EX,Comfort & Convenience,Drive Modes,NO
+Hyundai,Creta,EX,Comfort & Convenience,Idle Start-Stop System,YES
+Hyundai,Creta,EX,Comfort & Convenience,Additional Features,Sunglass holder
+Hyundai,Creta,EX,Comfort & Convenience,Power Windows,Front & Rear
+Hyundai,Creta,EX,Interior,Glove Box,YES
+Hyundai,Creta,EX,Interior,Upholstery,Fabric
+Hyundai,Creta,EX,Exterior,Rain Sensing Wiper,NO
+Hyundai,Creta,EX,Exterior,Rear Window Wiper,NO
+Hyundai,Creta,EX,Exterior,Rear Window Washer,NO
+Hyundai,Creta,EX,Exterior,Rear Window Defogger,NO
+Hyundai,Creta,EX,Exterior,Wheel Covers,YES
+Hyundai,Creta,EX,Exterior,Alloy Wheels,NO
+Hyundai,Creta,EX,Exterior,Rear Spoiler,YES
+Hyundai,Creta,EX,Exterior,Outside Rear View Mirror Turn Indicators,NO
+Hyundai,Creta,EX,Exterior,Projector Headlamps,YES
+Hyundai,Creta,EX,Exterior,Roof Rails,NO
+Hyundai,Creta,EX,Exterior,Automatic Headlamps,NO
+Hyundai,Creta,EX,Exterior,Antenna,Shark Fin
+Hyundai,Creta,EX,Exterior,Sunroof,NO
+Hyundai,Creta,EX,Exterior,Puddle Lamps,NO
+Hyundai,Creta,EX,Exterior,Outside Rear View Mirror (ORVM),Powered
+Hyundai,Creta,EX,Exterior,Tyre Size,205/65 R16
+Hyundai,Creta,EX,Exterior,Tyre Type,Radial Tubeless
+Hyundai,Creta,EX,Exterior,Wheel Size,16 Inch
+Hyundai,Creta,EX,Exterior,LED DRLs,NO
+Hyundai,Creta,EX,Exterior,LED Headlamps,NO
+Hyundai,Creta,EX,Exterior,LED Taillights,NO
+Hyundai,Creta,EX,Safety,Anti-lock Braking System (ABS),YES
+Hyundai,Creta,EX,Safety,Brake Assist,YES
+Hyundai,Creta,EX,Safety,Central Locking,YES
+Hyundai,Creta,EX,Safety,Child Safety Locks,YES
+Hyundai,Creta,EX,Safety,Anti-Theft Alarm,YES
+Hyundai,Creta,EX,Safety,No. of Airbags,6
+Hyundai,Creta,EX,Safety,Driver Airbag,YES
+Hyundai,Creta,EX,Safety,Passenger Airbag,YES
+Hyundai,Creta,EX,Safety,Side Airbag,YES
+Hyundai,Creta,EX,Safety,Side Airbag-Rear,NO
+Hyundai,Creta,EX,Safety,Day & Night Rear View Mirror,YES
+Hyundai,Creta,EX,Safety,Electronic Brakeforce Distribution (EBD),YES
+Hyundai,Creta,EX,Safety,Traction Control,YES
+Hyundai,Creta,EX,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Hyundai,Creta,EX,Safety,Engine Immobilizer,YES
+Hyundai,Creta,EX,Safety,Electronic Stability Control (ESC),YES
+Hyundai,Creta,EX,Safety,Rear Camera,NO
+Hyundai,Creta,EX,Safety,Anti-Theft Device,YES
+Hyundai,Creta,EX,Safety,ISOFIX Child Seat Mounts,YES
+Hyundai,Creta,EX,Safety,Hill Assist,YES
+Hyundai,Creta,EX,Safety,360 View Camera,NO
+Hyundai,Creta,EX,Entertainment & Communication,Radio,YES
+Hyundai,Creta,EX,Entertainment & Communication,Wireless Phone Charging,NO
+Hyundai,Creta,EX,Entertainment & Communication,Bluetooth Connectivity,YES
+Hyundai,Creta,EX,Entertainment & Communication,Touchscreen,YES
+Hyundai,Creta,EX,Entertainment & Communication,Touchscreen Size,8 inch
+Hyundai,Creta,EX,Entertainment & Communication,Android Auto,YES
+Hyundai,Creta,EX,Entertainment & Communication,Apple CarPlay,YES
+Hyundai,Creta,EX,Entertainment & Communication,No. of Speakers,4
+Hyundai,Creta,EX,Entertainment & Communication,Usb Ports,YES
+Hyundai,Creta,EX,Entertainment & Communication,Inbuilt Apps,NO
+Hyundai,Creta,EX,Entertainment & Communication,Tweeters,2
+Hyundai,Creta,EX,Entertainment & Communication,Additional Features,Wireless Android Auto & Apple CarPlay
+Hyundai,Creta,EX,Entertainment & Communication,Speakers,Front & Rear
+Hyundai,Creta,EX,ADAS Feature,Forward Collision Warning,NO
+Hyundai,Creta,EX,ADAS Feature,Blind Spot Collision Avoidance Assist,NO
+Hyundai,Creta,EX,ADAS Feature,Lane Departure Warning,NO
+Hyundai,Creta,EX,ADAS Feature,Lane Keep Assist,NO
+Hyundai,Creta,EX,ADAS Feature,Driver Attention Warning,NO
+Hyundai,Creta,EX,ADAS Feature,Adaptive Cruise Control,NO
+Hyundai,Creta,EX,ADAS Feature,Leading Vehicle Departure Alert,NO
+Hyundai,Creta,EX,ADAS Feature,Adaptive High Beam Assist,NO
+Hyundai,Creta,EX,ADAS Feature,Rear Cross Traffic Alert,NO
+Hyundai,Creta,EX,ADAS Feature,Rear Cross Traffic Collision-Avoidance Assist,NO
+Hyundai,Creta,EX,ADAS Feature,Blind Spot Monitor,NO
+Hyundai,Creta,EX,Advance Internet Feature,Live Location,NO
+Hyundai,Creta,EX,Advance Internet Feature,Over the Air (OTA) Updates,NO
+Hyundai,Creta,EX,Advance Internet Feature,Google / Alexa Connectivity,NO
+Hyundai,Creta,EX,Advance Internet Feature,SOS Button,NO
+Hyundai,Creta,EX,Advance Internet Feature,RSA,NO
+Hyundai,Creta,EX,Advance Internet Feature,Remote Vehicle Ignition Start/Stop,NO
+Hyundai,Creta,EX,Advance Internet Feature,Geo-fence Alert,NO

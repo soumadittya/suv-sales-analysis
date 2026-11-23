@@ -1,0 +1,107 @@
+company,model,variant,category,feature_name,feature_details
+Skoda,Kodiaq,Lounge,Engine & Transmission,Engine Type,Turbocharged Petrol
+Skoda,Kodiaq,Lounge,Engine & Transmission,Displacement,1984 cc
+Skoda,Kodiaq,Lounge,Engine & Transmission,Max Power,201bhp@4500 - 6000rpm
+Skoda,Kodiaq,Lounge,Engine & Transmission,Max Torque,320Nm@1500-4400rpm
+Skoda,Kodiaq,Lounge,Engine & Transmission,No. of Cylinders,4
+Skoda,Kodiaq,Lounge,Engine & Transmission,Valves Per Cylinder,4
+Skoda,Kodiaq,Lounge,Engine & Transmission,Turbo Charger,YES
+Skoda,Kodiaq,Lounge,Engine & Transmission,Transmission Type,Automatic
+Skoda,Kodiaq,Lounge,Engine & Transmission,Gearbox,7-speed DSG
+Skoda,Kodiaq,Lounge,Engine & Transmission,Drive Type,4x4
+Skoda,Kodiaq,Lounge,Fuel & Performance,Fuel Type,Petrol
+Skoda,Kodiaq,Lounge,Fuel & Performance,Petrol Mileage ARAI,14.86 kmpl
+Skoda,Kodiaq,Lounge,Fuel & Performance,Petrol Fuel Tank Capacity,62 Litres
+Skoda,Kodiaq,Lounge,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Skoda,Kodiaq,Lounge,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Skoda,Kodiaq,Lounge,"Suspension, Steering & Brakes",Rear Suspension,Multi-link suspension
+Skoda,Kodiaq,Lounge,"Suspension, Steering & Brakes",Steering Type,Electric
+Skoda,Kodiaq,Lounge,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Skoda,Kodiaq,Lounge,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Skoda,Kodiaq,Lounge,Dimensions & Capacity,Length,4758 mm
+Skoda,Kodiaq,Lounge,Dimensions & Capacity,Width,1864 mm
+Skoda,Kodiaq,Lounge,Dimensions & Capacity,Height,1679 mm
+Skoda,Kodiaq,Lounge,Dimensions & Capacity,Boot Space,786 Litres
+Skoda,Kodiaq,Lounge,Dimensions & Capacity,Seating Capacity,5
+Skoda,Kodiaq,Lounge,Dimensions & Capacity,Ground Clearance (Laden),155 mm
+Skoda,Kodiaq,Lounge,Dimensions & Capacity,Wheel Base,2791 mm
+Skoda,Kodiaq,Lounge,Dimensions & Capacity,Kerb Weight,1795 kg
+Skoda,Kodiaq,Lounge,Dimensions & Capacity,Gross Weight,2390 kg
+Skoda,Kodiaq,Lounge,Comfort & Convenience,Power Steering,YES
+Skoda,Kodiaq,Lounge,Comfort & Convenience,Air Conditioner,YES
+Skoda,Kodiaq,Lounge,Comfort & Convenience,Heater,YES
+Skoda,Kodiaq,Lounge,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Skoda,Kodiaq,Lounge,Comfort & Convenience,Ventilated Seats,NO
+Skoda,Kodiaq,Lounge,Comfort & Convenience,Electric Adjustable Seats,NO
+Skoda,Kodiaq,Lounge,Comfort & Convenience,Automatic Climate Control,YES
+Skoda,Kodiaq,Lounge,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Skoda,Kodiaq,Lounge,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Skoda,Kodiaq,Lounge,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Skoda,Kodiaq,Lounge,Comfort & Convenience,Cruise Control,YES
+Skoda,Kodiaq,Lounge,Comfort & Convenience,Parking Sensors,Front & Rear
+Skoda,Kodiaq,Lounge,Comfort & Convenience,Foldable Rear Seat,40:20:40 Split
+Skoda,Kodiaq,Lounge,Comfort & Convenience,KeyLess Entry,YES
+Skoda,Kodiaq,Lounge,Comfort & Convenience,Paddle Shifters,YES
+Skoda,Kodiaq,Lounge,Comfort & Convenience,USB Charger,Front & Rear
+Skoda,Kodiaq,Lounge,Comfort & Convenience,Central Console Armrest,With Storage
+Skoda,Kodiaq,Lounge,Comfort & Convenience,Drive Modes,6
+Skoda,Kodiaq,Lounge,Comfort & Convenience,Power Windows,Front & Rear
+Skoda,Kodiaq,Lounge,Comfort & Convenience,Cup Holders,Front & Rear
+Skoda,Kodiaq,Lounge,Comfort & Convenience,Heated Seats,NO
+Skoda,Kodiaq,Lounge,Interior,Leather Wrapped Steering Wheel,YES
+Skoda,Kodiaq,Lounge,Interior,Glove Box,YES
+Skoda,Kodiaq,Lounge,Interior,Lighting,Ambient light
+Skoda,Kodiaq,Lounge,Interior,Additional Features,IRVM with auto-dimming
+Skoda,Kodiaq,Lounge,Interior,Digital Cluster,YES
+Skoda,Kodiaq,Lounge,Interior,Digital Cluster Size,10.24
+Skoda,Kodiaq,Lounge,Interior,Upholstery,Fabric
+Skoda,Kodiaq,Lounge,Exterior,Alloy Wheels,YES
+Skoda,Kodiaq,Lounge,Exterior,Tinted Glass,YES
+Skoda,Kodiaq,Lounge,Exterior,Rear Spoiler,YES
+Skoda,Kodiaq,Lounge,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Skoda,Kodiaq,Lounge,Exterior,Roof Rails,YES
+Skoda,Kodiaq,Lounge,Exterior,Sunroof,Panoramic
+Skoda,Kodiaq,Lounge,Exterior,Heated Outside Rear View Mirror,YES
+Skoda,Kodiaq,Lounge,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Skoda,Kodiaq,Lounge,Exterior,Tyre Size,235/55 R18
+Skoda,Kodiaq,Lounge,Exterior,Tyre Type,"Tubeless,Radial"
+Skoda,Kodiaq,Lounge,Exterior,LED Headlamps,YES
+Skoda,Kodiaq,Lounge,Safety,Anti-lock Braking System (ABS),YES
+Skoda,Kodiaq,Lounge,Safety,Brake Assist,YES
+Skoda,Kodiaq,Lounge,Safety,Central Locking,YES
+Skoda,Kodiaq,Lounge,Safety,Child Safety Locks,YES
+Skoda,Kodiaq,Lounge,Safety,Anti-Theft Alarm,YES
+Skoda,Kodiaq,Lounge,Safety,No. of Airbags,9
+Skoda,Kodiaq,Lounge,Safety,Driver Airbag,YES
+Skoda,Kodiaq,Lounge,Safety,Passenger Airbag,YES
+Skoda,Kodiaq,Lounge,Safety,Side Airbag,YES
+Skoda,Kodiaq,Lounge,Safety,Side Airbag-Rear,YES
+Skoda,Kodiaq,Lounge,Safety,Day & Night Rear View Mirror,YES
+Skoda,Kodiaq,Lounge,Safety,Electronic Brakeforce Distribution (EBD),YES
+Skoda,Kodiaq,Lounge,Safety,Traction Control,YES
+Skoda,Kodiaq,Lounge,Safety,Electronic Stability Control (ESC),YES
+Skoda,Kodiaq,Lounge,Safety,Rear Camera,With Guidedlines
+Skoda,Kodiaq,Lounge,Safety,Anti-Theft Device,YES
+Skoda,Kodiaq,Lounge,Safety,Anti-Pinch Power Windows,All Windows
+Skoda,Kodiaq,Lounge,Safety,ISOFIX Child Seat Mounts,YES
+Skoda,Kodiaq,Lounge,Safety,Hill Descent Control,YES
+Skoda,Kodiaq,Lounge,Safety,Hill Assist,YES
+Skoda,Kodiaq,Lounge,Safety,360 View Camera,NO
+Skoda,Kodiaq,Lounge,Entertainment & Communication,Wireless Phone Charging,YES
+Skoda,Kodiaq,Lounge,Entertainment & Communication,Bluetooth Connectivity,YES
+Skoda,Kodiaq,Lounge,Entertainment & Communication,Touchscreen,YES
+Skoda,Kodiaq,Lounge,Entertainment & Communication,Touchscreen Size,10.40 inch
+Skoda,Kodiaq,Lounge,Entertainment & Communication,Android Auto,YES
+Skoda,Kodiaq,Lounge,Entertainment & Communication,Apple CarPlay,YES
+Skoda,Kodiaq,Lounge,Entertainment & Communication,No. of Speakers,9
+Skoda,Kodiaq,Lounge,Entertainment & Communication,Inbuilt Apps,MyŠkoda Plus
+Skoda,Kodiaq,Lounge,Entertainment & Communication,Subwoofer,1
+Skoda,Kodiaq,Lounge,Entertainment & Communication,Additional Features,Wireless Android Auto & Apple CarPlay Compatibility
+Skoda,Kodiaq,Lounge,Entertainment & Communication,Speakers,Front & Rear
+Skoda,Kodiaq,Lounge,ADAS Feature,Forward Collision Warning,NO
+Skoda,Kodiaq,Lounge,ADAS Feature,Automatic Emergency Braking,NO
+Skoda,Kodiaq,Lounge,ADAS Feature,Blind Spot Collision Avoidance Assist,NO
+Skoda,Kodiaq,Lounge,ADAS Feature,Lane Keep Assist,NO
+Skoda,Kodiaq,Lounge,ADAS Feature,Adaptive Cruise Control,NO
+Skoda,Kodiaq,Lounge,ADAS Feature,Adaptive High Beam Assist,NO
+Skoda,Kodiaq,Lounge,ADAS Feature,Rear Cross Traffic Alert,NO

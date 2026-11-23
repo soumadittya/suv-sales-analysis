@@ -1,0 +1,33 @@
+if_a_car_has,it_usually_has,support,confidence,lift
+Adaptive cruise control,Electric driver seat,0.209,0.945,2.112
+4x4 / AWD,150+ bhp,0.138,0.91,2.088
+ADAS (automatic emergency braking),Electric driver seat,0.19,0.933,2.086
+Adaptive cruise control,Wireless phone charging,0.214,0.965,1.608
+Adaptive cruise control,Leather or leatherette seats,0.21,0.948,1.568
+Ventilated seats,Wireless phone charging,0.411,0.938,1.564
+ADAS (automatic emergency braking),Wireless phone charging,0.189,0.93,1.55
+ADAS (automatic emergency braking),Leather or leatherette seats,0.189,0.93,1.538
+Heads-up display,Wireless phone charging,0.088,0.911,1.519
+Electric driver seat,Leather or leatherette seats,0.41,0.917,1.516
+Ventilated seats,Leather or leatherette seats,0.397,0.905,1.497
+Adaptive cruise control,Rear disc brakes,0.219,0.99,1.482
+Panoramic sunroof,Any sunroof,0.513,1.0,1.48
+ADAS (automatic emergency braking),Rear disc brakes,0.198,0.972,1.454
+Powered or hands-free boot,Rear disc brakes,0.226,0.958,1.433
+Electric driver seat,Rear disc brakes,0.418,0.935,1.398
+ADAS (automatic emergency braking),10-inch or bigger touchscreen,0.199,0.975,1.378
+Adaptive cruise control,10-inch or bigger touchscreen,0.215,0.971,1.372
+ADAS (automatic emergency braking),Any sunroof,0.188,0.923,1.366
+Electric driver seat,10-inch or bigger touchscreen,0.413,0.923,1.305
+Front parking sensors,10-inch or bigger touchscreen,0.409,0.911,1.287
+Heads-up display,LED headlamps,0.096,1.0,1.264
+Heads-up display,Cruise control,0.096,0.993,1.25
+ADAS (automatic emergency braking),Cruise control,0.201,0.986,1.242
+Electric driver seat,Cruise control,0.437,0.976,1.229
+Powered or hands-free boot,Cruise control,0.23,0.976,1.229
+Ventilated seats,Cruise control,0.425,0.971,1.222
+Adaptive cruise control,Cruise control,0.214,0.968,1.219
+Front parking sensors,Cruise control,0.433,0.965,1.215
+Panoramic sunroof,Cruise control,0.494,0.964,1.214
+Paddle shifters,Cruise control,0.369,0.959,1.208
+360° camera,Cruise control,0.467,0.953,1.2

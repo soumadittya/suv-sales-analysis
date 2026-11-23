@@ -1,0 +1,134 @@
+company,model,variant,category,feature_name,feature_details
+Hyundai,Creta,SX,Engine & Transmission,Engine Type,1.5L MPi
+Hyundai,Creta,SX,Engine & Transmission,Displacement,1497 cc
+Hyundai,Creta,SX,Engine & Transmission,Max Power,113.18bhp@6300rpm
+Hyundai,Creta,SX,Engine & Transmission,Max Torque,143.8Nm@4500rpm
+Hyundai,Creta,SX,Engine & Transmission,No. of Cylinders,4
+Hyundai,Creta,SX,Engine & Transmission,Valves Per Cylinder,4
+Hyundai,Creta,SX,Engine & Transmission,Valve Configuration,DOHC
+Hyundai,Creta,SX,Engine & Transmission,Fuel Supply System,MPi
+Hyundai,Creta,SX,Engine & Transmission,Turbo Charger,NO
+Hyundai,Creta,SX,Engine & Transmission,Transmission Type,Manual
+Hyundai,Creta,SX,Engine & Transmission,Gearbox,6-Speed
+Hyundai,Creta,SX,Engine & Transmission,Drive Type,FWD
+Hyundai,Creta,SX,Fuel & Performance,Fuel Type,Petrol
+Hyundai,Creta,SX,Fuel & Performance,Petrol Mileage ARAI,17.4 kmpl
+Hyundai,Creta,SX,Fuel & Performance,Petrol Fuel Tank Capacity,50 Litres
+Hyundai,Creta,SX,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Hyundai,Creta,SX,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Hyundai,Creta,SX,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Hyundai,Creta,SX,"Suspension, Steering & Brakes",Steering Type,Electric
+Hyundai,Creta,SX,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Hyundai,Creta,SX,"Suspension, Steering & Brakes",Steering Gear Type,Rack & Pinion
+Hyundai,Creta,SX,"Suspension, Steering & Brakes",Turning Radius,5.3 m
+Hyundai,Creta,SX,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Hyundai,Creta,SX,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Hyundai,Creta,SX,"Suspension, Steering & Brakes",Boot Space Rear Seat Folding,Litres
+Hyundai,Creta,SX,Dimensions & Capacity,Length,4330 mm
+Hyundai,Creta,SX,Dimensions & Capacity,Width,1790 mm
+Hyundai,Creta,SX,Dimensions & Capacity,Height,1635 mm
+Hyundai,Creta,SX,Dimensions & Capacity,Seating Capacity,5
+Hyundai,Creta,SX,Dimensions & Capacity,Wheel Base,2610 mm
+Hyundai,Creta,SX,Dimensions & Capacity,Reported Boot Space,433 Litres
+Hyundai,Creta,SX,Comfort & Convenience,Boot Opening,Electronic
+Hyundai,Creta,SX,Comfort & Convenience,Power Steering,YES
+Hyundai,Creta,SX,Comfort & Convenience,Air Conditioner,YES
+Hyundai,Creta,SX,Comfort & Convenience,Heater,YES
+Hyundai,Creta,SX,Comfort & Convenience,Adjustable Steering,Height & Reach
+Hyundai,Creta,SX,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Hyundai,Creta,SX,Comfort & Convenience,Ventilated Seats,NO
+Hyundai,Creta,SX,Comfort & Convenience,Electric Adjustable Seats,NO
+Hyundai,Creta,SX,Comfort & Convenience,Automatic Climate Control,YES
+Hyundai,Creta,SX,Comfort & Convenience,Accessory Power Outlet,YES
+Hyundai,Creta,SX,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Hyundai,Creta,SX,Comfort & Convenience,Adjustable Headrest,YES
+Hyundai,Creta,SX,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Hyundai,Creta,SX,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Hyundai,Creta,SX,Comfort & Convenience,Rear AC Vents,YES
+Hyundai,Creta,SX,Comfort & Convenience,Cruise Control,YES
+Hyundai,Creta,SX,Comfort & Convenience,Parking Sensors,Rear
+Hyundai,Creta,SX,Comfort & Convenience,Real-Time Vehicle Tracking,YES
+Hyundai,Creta,SX,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Hyundai,Creta,SX,Comfort & Convenience,KeyLess Entry,YES
+Hyundai,Creta,SX,Comfort & Convenience,Engine Start/Stop Button,YES
+Hyundai,Creta,SX,Comfort & Convenience,Voice Commands,YES
+Hyundai,Creta,SX,Comfort & Convenience,Paddle Shifters,NO
+Hyundai,Creta,SX,Comfort & Convenience,USB Charger,Front & Rear
+Hyundai,Creta,SX,Comfort & Convenience,Central Console Armrest,With Storage
+Hyundai,Creta,SX,Comfort & Convenience,Drive Modes,NO
+Hyundai,Creta,SX,Comfort & Convenience,Idle Start-Stop System,YES
+Hyundai,Creta,SX,Comfort & Convenience,Additional Features,Sunglass holder
+Hyundai,Creta,SX,Interior,Additional Features,Rear parcel tray
+Hyundai,Creta,SX,Interior,Upholstery,Leatherette
+Hyundai,Creta,SX,Exterior,Rain Sensing Wiper,NO
+Hyundai,Creta,SX,Exterior,Rear Window Wiper,YES
+Hyundai,Creta,SX,Exterior,Rear Window Washer,YES
+Hyundai,Creta,SX,Exterior,Rear Window Defogger,YES
+Hyundai,Creta,SX,Exterior,Wheel Covers,NO
+Hyundai,Creta,SX,Exterior,Alloy Wheels,YES
+Hyundai,Creta,SX,Exterior,Rear Spoiler,YES
+Hyundai,Creta,SX,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Hyundai,Creta,SX,Exterior,Projector Headlamps,NO
+Hyundai,Creta,SX,Exterior,Roof Rails,YES
+Hyundai,Creta,SX,Exterior,Automatic Headlamps,YES
+Hyundai,Creta,SX,Exterior,Antenna,Shark Fin
+Hyundai,Creta,SX,Exterior,Sunroof,Panoramic
+Hyundai,Creta,SX,Exterior,Puddle Lamps,YES
+Hyundai,Creta,SX,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Hyundai,Creta,SX,Exterior,Tyre Size,215/60 R17
+Hyundai,Creta,SX,Exterior,Tyre Type,Radial Tubeless
+Hyundai,Creta,SX,Exterior,LED DRLs,YES
+Hyundai,Creta,SX,Exterior,LED Headlamps,YES
+Hyundai,Creta,SX,Exterior,LED Taillights,YES
+Hyundai,Creta,SX,Safety,Anti-lock Braking System (ABS),YES
+Hyundai,Creta,SX,Safety,Brake Assist,YES
+Hyundai,Creta,SX,Safety,Central Locking,YES
+Hyundai,Creta,SX,Safety,Child Safety Locks,YES
+Hyundai,Creta,SX,Safety,Anti-Theft Alarm,YES
+Hyundai,Creta,SX,Safety,No. of Airbags,6
+Hyundai,Creta,SX,Safety,Driver Airbag,YES
+Hyundai,Creta,SX,Safety,Passenger Airbag,YES
+Hyundai,Creta,SX,Safety,Side Airbag,YES
+Hyundai,Creta,SX,Safety,Side Airbag-Rear,NO
+Hyundai,Creta,SX,Safety,Day & Night Rear View Mirror,YES
+Hyundai,Creta,SX,Safety,Electronic Brakeforce Distribution (EBD),YES
+Hyundai,Creta,SX,Safety,Traction Control,YES
+Hyundai,Creta,SX,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Hyundai,Creta,SX,Safety,Engine Immobilizer,YES
+Hyundai,Creta,SX,Safety,Electronic Stability Control (ESC),YES
+Hyundai,Creta,SX,Safety,Rear Camera,With Guidedlines
+Hyundai,Creta,SX,Safety,Anti-Pinch Power Windows,Driver's Window
+Hyundai,Creta,SX,Safety,ISOFIX Child Seat Mounts,YES
+Hyundai,Creta,SX,Safety,Hill Assist,YES
+Hyundai,Creta,SX,Safety,360 View Camera,NO
+Hyundai,Creta,SX,Entertainment & Communication,Radio,YES
+Hyundai,Creta,SX,Entertainment & Communication,Wireless Phone Charging,YES
+Hyundai,Creta,SX,Entertainment & Communication,Bluetooth Connectivity,YES
+Hyundai,Creta,SX,Entertainment & Communication,Touchscreen,YES
+Hyundai,Creta,SX,Entertainment & Communication,Touchscreen Size,10.25 inch
+Hyundai,Creta,SX,Entertainment & Communication,Android Auto,YES
+Hyundai,Creta,SX,Entertainment & Communication,Apple CarPlay,YES
+Hyundai,Creta,SX,Entertainment & Communication,No. of Speakers,4
+Hyundai,Creta,SX,Entertainment & Communication,Usb Ports,YES
+Hyundai,Creta,SX,Entertainment & Communication,Inbuilt Apps,JioSaavan
+Hyundai,Creta,SX,Entertainment & Communication,Tweeters,2
+Hyundai,Creta,SX,Entertainment & Communication,Additional Features,Wireless Android Auto & Apple CarPlay
+Hyundai,Creta,SX,Entertainment & Communication,Speakers,Front & Rear
+Hyundai,Creta,SX,ADAS Feature,Forward Collision Warning,NO
+Hyundai,Creta,SX,ADAS Feature,Blind Spot Collision Avoidance Assist,NO
+Hyundai,Creta,SX,ADAS Feature,Lane Departure Warning,NO
+Hyundai,Creta,SX,ADAS Feature,Lane Keep Assist,NO
+Hyundai,Creta,SX,ADAS Feature,Driver Attention Warning,NO
+Hyundai,Creta,SX,ADAS Feature,Adaptive Cruise Control,NO
+Hyundai,Creta,SX,ADAS Feature,Leading Vehicle Departure Alert,NO
+Hyundai,Creta,SX,ADAS Feature,Adaptive High Beam Assist,NO
+Hyundai,Creta,SX,ADAS Feature,Rear Cross Traffic Alert,NO
+Hyundai,Creta,SX,ADAS Feature,Rear Cross Traffic Collision-Avoidance Assist,NO
+Hyundai,Creta,SX,ADAS Feature,Blind Spot Monitor,NO
+Hyundai,Creta,SX,Advance Internet Feature,Live Location,YES
+Hyundai,Creta,SX,Advance Internet Feature,Over the Air (OTA) Updates,YES
+Hyundai,Creta,SX,Advance Internet Feature,Google / Alexa Connectivity,YES
+Hyundai,Creta,SX,Advance Internet Feature,SOS Button,YES
+Hyundai,Creta,SX,Advance Internet Feature,RSA,YES
+Hyundai,Creta,SX,Advance Internet Feature,Remote Vehicle Ignition Start/Stop,YES
+Hyundai,Creta,SX,Advance Internet Feature,Geo-fence Alert,YES

@@ -1,0 +1,100 @@
+company,model,variant,category,feature_name,feature_details
+Jeep,Wrangler,Willys 41 Special Edition,Engine & Transmission,Engine Type,2.0L Gme T4 Di
+Jeep,Wrangler,Willys 41 Special Edition,Engine & Transmission,Displacement,1995 cc
+Jeep,Wrangler,Willys 41 Special Edition,Engine & Transmission,Max Power,268.20bhp@5250rpm
+Jeep,Wrangler,Willys 41 Special Edition,Engine & Transmission,Max Torque,400Nm@3000rpm
+Jeep,Wrangler,Willys 41 Special Edition,Engine & Transmission,No. of Cylinders,4
+Jeep,Wrangler,Willys 41 Special Edition,Engine & Transmission,Valves Per Cylinder,4
+Jeep,Wrangler,Willys 41 Special Edition,Engine & Transmission,Transmission Type,Automatic
+Jeep,Wrangler,Willys 41 Special Edition,Engine & Transmission,Gearbox,8 Speed AT
+Jeep,Wrangler,Willys 41 Special Edition,Engine & Transmission,Drive Type,4WD
+Jeep,Wrangler,Willys 41 Special Edition,Fuel & Performance,Fuel Type,Petrol
+Jeep,Wrangler,Willys 41 Special Edition,Fuel & Performance,Petrol Mileage ARAI,10.6 kmpl
+Jeep,Wrangler,Willys 41 Special Edition,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Jeep,Wrangler,Willys 41 Special Edition,"Suspension, Steering & Brakes",Front Suspension,"Multi-link, Solid Axle"
+Jeep,Wrangler,Willys 41 Special Edition,"Suspension, Steering & Brakes",Rear Suspension,"Multi-link, Solid Axle"
+Jeep,Wrangler,Willys 41 Special Edition,"Suspension, Steering & Brakes",Steering Type,Electric
+Jeep,Wrangler,Willys 41 Special Edition,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Jeep,Wrangler,Willys 41 Special Edition,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Jeep,Wrangler,Willys 41 Special Edition,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Jeep,Wrangler,Willys 41 Special Edition,Dimensions & Capacity,Length,4867 mm
+Jeep,Wrangler,Willys 41 Special Edition,Dimensions & Capacity,Width,1931 mm
+Jeep,Wrangler,Willys 41 Special Edition,Dimensions & Capacity,Height,1864 mm
+Jeep,Wrangler,Willys 41 Special Edition,Dimensions & Capacity,Seating Capacity,5
+Jeep,Wrangler,Willys 41 Special Edition,Dimensions & Capacity,Ground Clearance Unladen,237 mm
+Jeep,Wrangler,Willys 41 Special Edition,Dimensions & Capacity,Wheel Base,3007 mm
+Jeep,Wrangler,Willys 41 Special Edition,Dimensions & Capacity,Kerb Weight,2146 kg
+Jeep,Wrangler,Willys 41 Special Edition,Dimensions & Capacity,Reported Boot Space,192 Litres
+Jeep,Wrangler,Willys 41 Special Edition,Comfort & Convenience,Boot Opening,Manual
+Jeep,Wrangler,Willys 41 Special Edition,Comfort & Convenience,Power Steering,YES
+Jeep,Wrangler,Willys 41 Special Edition,Comfort & Convenience,Air Conditioner,YES
+Jeep,Wrangler,Willys 41 Special Edition,Comfort & Convenience,Heater,YES
+Jeep,Wrangler,Willys 41 Special Edition,Comfort & Convenience,Adjustable Steering,NO
+Jeep,Wrangler,Willys 41 Special Edition,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Jeep,Wrangler,Willys 41 Special Edition,Comfort & Convenience,Electric Adjustable Seats,Front
+Jeep,Wrangler,Willys 41 Special Edition,Comfort & Convenience,Automatic Climate Control,YES
+Jeep,Wrangler,Willys 41 Special Edition,Comfort & Convenience,Accessory Power Outlet,YES
+Jeep,Wrangler,Willys 41 Special Edition,Comfort & Convenience,Parking Sensors,Rear
+Jeep,Wrangler,Willys 41 Special Edition,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Jeep,Wrangler,Willys 41 Special Edition,Comfort & Convenience,KeyLess Entry,YES
+Jeep,Wrangler,Willys 41 Special Edition,Comfort & Convenience,Engine Start/Stop Button,YES
+Jeep,Wrangler,Willys 41 Special Edition,Comfort & Convenience,Voice Commands,YES
+Jeep,Wrangler,Willys 41 Special Edition,Comfort & Convenience,USB Charger,Front & Rear
+Jeep,Wrangler,Willys 41 Special Edition,Comfort & Convenience,Central Console Armrest,With Storage
+Jeep,Wrangler,Willys 41 Special Edition,Comfort & Convenience,Gear Shift Indicator,NO
+Jeep,Wrangler,Willys 41 Special Edition,Comfort & Convenience,Idle Start-Stop System,YES
+Jeep,Wrangler,Willys 41 Special Edition,Interior,Leather Wrapped Steering Wheel,YES
+Jeep,Wrangler,Willys 41 Special Edition,Interior,Leather wrap gear-shift selector,YES
+Jeep,Wrangler,Willys 41 Special Edition,Interior,Glove Box,YES
+Jeep,Wrangler,Willys 41 Special Edition,Interior,Additional Features,"12-Way Power Front Seats,Nappa High-Wear Leather In Black With Rubicon Red Accent Stitching,Soft Touch Premium Leather Finish Dash, Sun Visors With Illuminated,Premium Cabin package For Reduced wind And Road Noise (Acoustic Laminated Front door Glass,Acoustic Front Seat Area carpet),Cargo Compartment Floor mat"
+Jeep,Wrangler,Willys 41 Special Edition,Interior,Digital Cluster,YES
+Jeep,Wrangler,Willys 41 Special Edition,Interior,Digital Cluster Size,7 Inch
+Jeep,Wrangler,Willys 41 Special Edition,Interior,Upholstery,Leather
+Jeep,Wrangler,Willys 41 Special Edition,Exterior,Adjustable Headlamps,YES
+Jeep,Wrangler,Willys 41 Special Edition,Exterior,Rear Window Wiper,YES
+Jeep,Wrangler,Willys 41 Special Edition,Exterior,Rear Window Washer,YES
+Jeep,Wrangler,Willys 41 Special Edition,Exterior,Rear Window Defogger,YES
+Jeep,Wrangler,Willys 41 Special Edition,Exterior,Alloy Wheels,YES
+Jeep,Wrangler,Willys 41 Special Edition,Exterior,Side Stepper,NO
+Jeep,Wrangler,Willys 41 Special Edition,Exterior,Roof Rails,YES
+Jeep,Wrangler,Willys 41 Special Edition,Exterior,Fog Lights,Front & Rear
+Jeep,Wrangler,Willys 41 Special Edition,Exterior,Antenna,Trail Ready Front Windshield
+Jeep,Wrangler,Willys 41 Special Edition,Exterior,Heated Outside Rear View Mirror,YES
+Jeep,Wrangler,Willys 41 Special Edition,Exterior,Tyre Size,255/75 R17
+Jeep,Wrangler,Willys 41 Special Edition,Exterior,Tyre Type,"Tubeless, Radial"
+Jeep,Wrangler,Willys 41 Special Edition,Exterior,LED DRLs,YES
+Jeep,Wrangler,Willys 41 Special Edition,Exterior,LED Headlamps,YES
+Jeep,Wrangler,Willys 41 Special Edition,Exterior,LED Taillights,YES
+Jeep,Wrangler,Willys 41 Special Edition,Exterior,LED Fog Lamps,YES
+Jeep,Wrangler,Willys 41 Special Edition,Exterior,Additional Features,"Door Mirrors; Black,Silver Grill Inserts,Grey Grill Inserts,Unique Front And Rear Bumpers With Grey Bezels,Fender Flares - Black,Black Fuel Filler Door,Windshield Wipers - Variable & Intermittent,Full-Framed Removable Doors,Windshield With Corning Gorilla Glass,Freedom Panel Storage Bag,Rear Tow Hooks In Red,High-Clearance Front Fender Flares,Power Dome Vanted Hood With Rubicon Decal"
+Jeep,Wrangler,Willys 41 Special Edition,Safety,Anti-lock Braking System (ABS),YES
+Jeep,Wrangler,Willys 41 Special Edition,Safety,Brake Assist,YES
+Jeep,Wrangler,Willys 41 Special Edition,Safety,Central Locking,YES
+Jeep,Wrangler,Willys 41 Special Edition,Safety,Anti-Theft Alarm,YES
+Jeep,Wrangler,Willys 41 Special Edition,Safety,No. of Airbags,6
+Jeep,Wrangler,Willys 41 Special Edition,Safety,Driver Airbag,YES
+Jeep,Wrangler,Willys 41 Special Edition,Safety,Passenger Airbag,YES
+Jeep,Wrangler,Willys 41 Special Edition,Safety,Side Airbag,YES
+Jeep,Wrangler,Willys 41 Special Edition,Safety,Day & Night Rear View Mirror,YES
+Jeep,Wrangler,Willys 41 Special Edition,Safety,Electronic Brakeforce Distribution (EBD),YES
+Jeep,Wrangler,Willys 41 Special Edition,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Jeep,Wrangler,Willys 41 Special Edition,Safety,Engine Immobilizer,YES
+Jeep,Wrangler,Willys 41 Special Edition,Safety,Electronic Stability Control (ESC),YES
+Jeep,Wrangler,Willys 41 Special Edition,Safety,Rear Camera,With Guidedlines
+Jeep,Wrangler,Willys 41 Special Edition,Safety,Anti-Theft Device,YES
+Jeep,Wrangler,Willys 41 Special Edition,Safety,Hill Descent Control,YES
+Jeep,Wrangler,Willys 41 Special Edition,Safety,Hill Assist,YES
+Jeep,Wrangler,Willys 41 Special Edition,Entertainment & Communication,Radio,YES
+Jeep,Wrangler,Willys 41 Special Edition,Entertainment & Communication,Bluetooth Connectivity,YES
+Jeep,Wrangler,Willys 41 Special Edition,Entertainment & Communication,Touchscreen,YES
+Jeep,Wrangler,Willys 41 Special Edition,Entertainment & Communication,Touchscreen Size,12.3 Inch
+Jeep,Wrangler,Willys 41 Special Edition,Entertainment & Communication,Android Auto,YES
+Jeep,Wrangler,Willys 41 Special Edition,Entertainment & Communication,Apple CarPlay,YES
+Jeep,Wrangler,Willys 41 Special Edition,Entertainment & Communication,No. of Speakers,8
+Jeep,Wrangler,Willys 41 Special Edition,Entertainment & Communication,Usb Ports,YES
+Jeep,Wrangler,Willys 41 Special Edition,Entertainment & Communication,Subwoofer,1
+Jeep,Wrangler,Willys 41 Special Edition,Entertainment & Communication,Additional Features,Premium 9 Speaker Audio (Alpine) System
+Jeep,Wrangler,Willys 41 Special Edition,Entertainment & Communication,Speakers,Front & Rear
+Jeep,Wrangler,Willys 41 Special Edition,ADAS Feature,Forward Collision Warning,YES
+Jeep,Wrangler,Willys 41 Special Edition,ADAS Feature,Adaptive Cruise Control,YES
+Jeep,Wrangler,Willys 41 Special Edition,ADAS Feature,Adaptive High Beam Assist,YES

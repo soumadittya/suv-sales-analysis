@@ -1,0 +1,137 @@
+company,model,variant,category,feature_name,feature_details
+Maruti Suzuki,FRONX,Alpha Turbo DT,Engine & Transmission,Engine Type,1.0L Turbo Boosterjet
+Maruti Suzuki,FRONX,Alpha Turbo DT,Engine & Transmission,Displacement,998 cc
+Maruti Suzuki,FRONX,Alpha Turbo DT,Engine & Transmission,Max Power,98.69bhp@5500rpm
+Maruti Suzuki,FRONX,Alpha Turbo DT,Engine & Transmission,Max Torque,147.6Nm@2000-4500rpm
+Maruti Suzuki,FRONX,Alpha Turbo DT,Engine & Transmission,No. of Cylinders,3
+Maruti Suzuki,FRONX,Alpha Turbo DT,Engine & Transmission,Valves Per Cylinder,4
+Maruti Suzuki,FRONX,Alpha Turbo DT,Engine & Transmission,Turbo Charger,YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Engine & Transmission,Transmission Type,Manual
+Maruti Suzuki,FRONX,Alpha Turbo DT,Engine & Transmission,Gearbox,5-Speed
+Maruti Suzuki,FRONX,Alpha Turbo DT,Engine & Transmission,Drive Type,FWD
+Maruti Suzuki,FRONX,Alpha Turbo DT,Fuel & Performance,Fuel Type,Petrol
+Maruti Suzuki,FRONX,Alpha Turbo DT,Fuel & Performance,Petrol Mileage ARAI,21.5 kmpl
+Maruti Suzuki,FRONX,Alpha Turbo DT,Fuel & Performance,Petrol Fuel Tank Capacity,37 Litres
+Maruti Suzuki,FRONX,Alpha Turbo DT,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Maruti Suzuki,FRONX,Alpha Turbo DT,Fuel & Performance,Top Speed,180 kmph
+Maruti Suzuki,FRONX,Alpha Turbo DT,Fuel & Performance,Acceleration,10.38 s
+Maruti Suzuki,FRONX,Alpha Turbo DT,Fuel & Performance,0-100kmph,10.38 s
+Maruti Suzuki,FRONX,Alpha Turbo DT,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Maruti Suzuki,FRONX,Alpha Turbo DT,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Maruti Suzuki,FRONX,Alpha Turbo DT,"Suspension, Steering & Brakes",Steering Type,Electric
+Maruti Suzuki,FRONX,Alpha Turbo DT,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Maruti Suzuki,FRONX,Alpha Turbo DT,"Suspension, Steering & Brakes",Turning Radius,4.9 m
+Maruti Suzuki,FRONX,Alpha Turbo DT,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Maruti Suzuki,FRONX,Alpha Turbo DT,"Suspension, Steering & Brakes",Rear Brake Type,Drum
+Maruti Suzuki,FRONX,Alpha Turbo DT,"Suspension, Steering & Brakes",Braking (100-0kmph),41.30 s
+Maruti Suzuki,FRONX,Alpha Turbo DT,"Suspension, Steering & Brakes",Braking (80-0 kmph),26.23 s
+Maruti Suzuki,FRONX,Alpha Turbo DT,Dimensions & Capacity,Length,3995 mm
+Maruti Suzuki,FRONX,Alpha Turbo DT,Dimensions & Capacity,Width,1765 mm
+Maruti Suzuki,FRONX,Alpha Turbo DT,Dimensions & Capacity,Height,1550 mm
+Maruti Suzuki,FRONX,Alpha Turbo DT,Dimensions & Capacity,Boot Space,308 Litres
+Maruti Suzuki,FRONX,Alpha Turbo DT,Dimensions & Capacity,Seating Capacity,5
+Maruti Suzuki,FRONX,Alpha Turbo DT,Dimensions & Capacity,Wheel Base,2520 mm
+Maruti Suzuki,FRONX,Alpha Turbo DT,Dimensions & Capacity,Kerb Weight,1015-1030 kg
+Maruti Suzuki,FRONX,Alpha Turbo DT,Dimensions & Capacity,Gross Weight,1480 kg
+Maruti Suzuki,FRONX,Alpha Turbo DT,Comfort & Convenience,Power Steering,YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Comfort & Convenience,Air Conditioner,YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Comfort & Convenience,Heater,YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Comfort & Convenience,Automatic Climate Control,YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Comfort & Convenience,Accessory Power Outlet,YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Comfort & Convenience,Adjustable Headrest,YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Comfort & Convenience,Rear AC Vents,YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Comfort & Convenience,Cruise Control,YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Comfort & Convenience,Parking Sensors,Rear
+Maruti Suzuki,FRONX,Alpha Turbo DT,Comfort & Convenience,Real-Time Vehicle Tracking,YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Maruti Suzuki,FRONX,Alpha Turbo DT,Comfort & Convenience,KeyLess Entry,YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Comfort & Convenience,Engine Start/Stop Button,YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Comfort & Convenience,Voice Commands,YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Comfort & Convenience,Paddle Shifters,NO
+Maruti Suzuki,FRONX,Alpha Turbo DT,Comfort & Convenience,USB Charger,Front & Rear
+Maruti Suzuki,FRONX,Alpha Turbo DT,Comfort & Convenience,Central Console Armrest,With Storage
+Maruti Suzuki,FRONX,Alpha Turbo DT,Comfort & Convenience,Gear Shift Indicator,YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Comfort & Convenience,Idle Start-Stop System,YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Comfort & Convenience,Follow Me Home Headlamps,YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Comfort & Convenience,Power Windows,Front & Rear
+Maruti Suzuki,FRONX,Alpha Turbo DT,Comfort & Convenience,Cup Holders,Front Only
+Maruti Suzuki,FRONX,Alpha Turbo DT,Interior,Leather Wrapped Steering Wheel,YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Interior,Glove Box,YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Interior,Additional Features,Rear Parcel Tray
+Maruti Suzuki,FRONX,Alpha Turbo DT,Interior,Digital Cluster,YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Interior,Upholstery,Fabric
+Maruti Suzuki,FRONX,Alpha Turbo DT,Exterior,Rear Window Wiper,YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Exterior,Rear Window Washer,YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Exterior,Rear Window Defogger,YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Exterior,Rear Spoiler,YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Exterior,Projector Headlamps,NO
+Maruti Suzuki,FRONX,Alpha Turbo DT,Exterior,Antenna,Shark Fin
+Maruti Suzuki,FRONX,Alpha Turbo DT,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Maruti Suzuki,FRONX,Alpha Turbo DT,Exterior,Tyre Size,195/60 R16
+Maruti Suzuki,FRONX,Alpha Turbo DT,Exterior,Tyre Type,Radial Tubeless
+Maruti Suzuki,FRONX,Alpha Turbo DT,Exterior,Wheel Size,16 Inch
+Maruti Suzuki,FRONX,Alpha Turbo DT,Exterior,LED DRLs,YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Exterior,LED Headlamps,YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Exterior,LED Taillights,YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Safety,Anti-lock Braking System (ABS),YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Safety,Central Locking,YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Safety,Anti-Theft Alarm,YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Safety,No. of Airbags,6
+Maruti Suzuki,FRONX,Alpha Turbo DT,Safety,Driver Airbag,YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Safety,Passenger Airbag,YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Safety,Side Airbag,YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Safety,Side Airbag-Rear,NO
+Maruti Suzuki,FRONX,Alpha Turbo DT,Safety,Day & Night Rear View Mirror,YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Safety,Electronic Brakeforce Distribution (EBD),YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Safety,Engine Immobilizer,YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Safety,Electronic Stability Control (ESC),YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Safety,Rear Camera,With Guidedlines
+Maruti Suzuki,FRONX,Alpha Turbo DT,Safety,Anti-Theft Device,YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Safety,ISOFIX Child Seat Mounts,YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Safety,Heads-Up Display (HUD),YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Safety,Hill Assist,YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Safety,360 View Camera,YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Entertainment & Communication,Radio,YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Entertainment & Communication,Wireless Phone Charging,YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Entertainment & Communication,Bluetooth Connectivity,YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Entertainment & Communication,Touchscreen,YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Entertainment & Communication,Touchscreen Size,9 inch
+Maruti Suzuki,FRONX,Alpha Turbo DT,Entertainment & Communication,Android Auto,YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Entertainment & Communication,Apple CarPlay,YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Entertainment & Communication,No. of Speakers,4
+Maruti Suzuki,FRONX,Alpha Turbo DT,Entertainment & Communication,Usb Ports,YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Entertainment & Communication,Tweeters,2
+Maruti Suzuki,FRONX,Alpha Turbo DT,Entertainment & Communication,Additional Features,"ARKAMYS Premium Sound System, Android Auto and Apple CarPlay (Wireless)"
+Maruti Suzuki,FRONX,Alpha Turbo DT,Entertainment & Communication,Speakers,Front & Rear
+Maruti Suzuki,FRONX,Alpha Turbo DT,ADAS Feature,Forward Collision Warning,NO
+Maruti Suzuki,FRONX,Alpha Turbo DT,ADAS Feature,Automatic Emergency Braking,NO
+Maruti Suzuki,FRONX,Alpha Turbo DT,ADAS Feature,Oncoming Lane Mitigation,NO
+Maruti Suzuki,FRONX,Alpha Turbo DT,ADAS Feature,Speed Assist System,NO
+Maruti Suzuki,FRONX,Alpha Turbo DT,ADAS Feature,Traffic Sign Recognition,NO
+Maruti Suzuki,FRONX,Alpha Turbo DT,ADAS Feature,Blind Spot Collision Avoidance Assist,NO
+Maruti Suzuki,FRONX,Alpha Turbo DT,ADAS Feature,Lane Departure Warning,NO
+Maruti Suzuki,FRONX,Alpha Turbo DT,ADAS Feature,Lane Keep Assist,NO
+Maruti Suzuki,FRONX,Alpha Turbo DT,ADAS Feature,Lane Departure Prevention Assist,NO
+Maruti Suzuki,FRONX,Alpha Turbo DT,ADAS Feature,Road Departure Mitigation System,NO
+Maruti Suzuki,FRONX,Alpha Turbo DT,ADAS Feature,Driver Attention Warning,NO
+Maruti Suzuki,FRONX,Alpha Turbo DT,ADAS Feature,Adaptive Cruise Control,NO
+Maruti Suzuki,FRONX,Alpha Turbo DT,ADAS Feature,Leading Vehicle Departure Alert,NO
+Maruti Suzuki,FRONX,Alpha Turbo DT,ADAS Feature,Adaptive High Beam Assist,NO
+Maruti Suzuki,FRONX,Alpha Turbo DT,ADAS Feature,Rear Cross Traffic Alert,NO
+Maruti Suzuki,FRONX,Alpha Turbo DT,ADAS Feature,Rear Cross Traffic Collision-Avoidance Assist,NO
+Maruti Suzuki,FRONX,Alpha Turbo DT,Advance Internet Feature,Live Location,YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Advance Internet Feature,Remote Immobiliser,YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Advance Internet Feature,Unauthorised Vehicle entry,YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Advance Internet Feature,E-Call & I-Call,NO
+Maruti Suzuki,FRONX,Alpha Turbo DT,Advance Internet Feature,Over the Air (OTA) Updates,YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Advance Internet Feature,Google / Alexa Connectivity,YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Advance Internet Feature,Over Speeding Alert,YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Advance Internet Feature,Tow Away Alert,YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Advance Internet Feature,Smartwatch App,YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Advance Internet Feature,Valet Mode,YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Advance Internet Feature,Remote AC On/Off,NO
+Maruti Suzuki,FRONX,Alpha Turbo DT,Advance Internet Feature,Remote Door Lock/Unlock,YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Advance Internet Feature,SOS / Emergency Assistance,YES
+Maruti Suzuki,FRONX,Alpha Turbo DT,Advance Internet Feature,Geo-fence Alert,YES

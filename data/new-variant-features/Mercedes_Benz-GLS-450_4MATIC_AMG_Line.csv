@@ -1,0 +1,149 @@
+company,model,variant,category,feature_name,feature_details
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Engine & Transmission,Engine Type,M256M
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Engine & Transmission,Displacement,2999 cc
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Engine & Transmission,Max Power,375.48bhp@5800-6100rpm
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Engine & Transmission,Max Torque,500Nm@800-5000rpm
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Engine & Transmission,No. of Cylinders,6
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Engine & Transmission,Valves Per Cylinder,4
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Engine & Transmission,Transmission Type,Automatic
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Engine & Transmission,Gearbox,9-Speed TRONIC AT
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Engine & Transmission,Drive Type,AWD
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Fuel & Performance,Fuel Type,Petrol
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Fuel & Performance,Petrol Highway Mileage,12 kmpl
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Fuel & Performance,Top Speed,250 kmph
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Fuel & Performance,Acceleration,6.1 s
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Fuel & Performance,0-100kmph,6.1 s
+Mercedes-Benz,GLS,450 4MATIC AMG Line,"Suspension, Steering & Brakes",Front Suspension,Air suspension
+Mercedes-Benz,GLS,450 4MATIC AMG Line,"Suspension, Steering & Brakes",Rear Suspension,Air suspension
+Mercedes-Benz,GLS,450 4MATIC AMG Line,"Suspension, Steering & Brakes",Steering Type,electric
+Mercedes-Benz,GLS,450 4MATIC AMG Line,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Mercedes-Benz,GLS,450 4MATIC AMG Line,"Suspension, Steering & Brakes",Steering Gear Type,Rack & Pinion
+Mercedes-Benz,GLS,450 4MATIC AMG Line,"Suspension, Steering & Brakes",Front Brake Type,Ventilated Disc
+Mercedes-Benz,GLS,450 4MATIC AMG Line,"Suspension, Steering & Brakes",Rear Brake Type,Ventilated Disc
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Dimensions & Capacity,Length,5209 mm
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Dimensions & Capacity,Width,2157 mm
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Dimensions & Capacity,Height,1823 mm
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Dimensions & Capacity,Seating Capacity,7
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Dimensions & Capacity,Wheel Base,2610 mm
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Dimensions & Capacity,Gross Weight,3250 kg
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Dimensions & Capacity,Approach Angle,27°
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Dimensions & Capacity,Break-over Angle,15°
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Dimensions & Capacity,Departure Angle,24°
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Dimensions & Capacity,Reported Boot Space,355 Litres
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Comfort & Convenience,Boot Opening,Automatic
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Comfort & Convenience,Power Steering,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Comfort & Convenience,Air Conditioner,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Comfort & Convenience,Heater,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Comfort & Convenience,Adjustable Steering,NO
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Comfort & Convenience,Ventilated Seats,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Comfort & Convenience,Electric Adjustable Seats,Front
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Comfort & Convenience,Automatic Climate Control,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Comfort & Convenience,Air Quality Control,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Comfort & Convenience,Accessory Power Outlet,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Comfort & Convenience,Adjustable Headrest,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Comfort & Convenience,Rear AC Vents,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Comfort & Convenience,Lumbar Support,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Comfort & Convenience,Active noise cancellation,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Comfort & Convenience,Cruise Control,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Comfort & Convenience,Parking Sensors,Front & Rear
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Comfort & Convenience,Real-Time Vehicle Tracking,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Comfort & Convenience,Foldable Rear Seat,50:50 Split
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Comfort & Convenience,KeyLess Entry,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Comfort & Convenience,Engine Start/Stop Button,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Comfort & Convenience,Voice Commands,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Comfort & Convenience,Paddle Shifters,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Comfort & Convenience,USB Charger,Front & Rear
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Comfort & Convenience,Central Console Armrest,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Comfort & Convenience,Gear Shift Indicator,NO
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Comfort & Convenience,Glove Box light,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Comfort & Convenience,Idle Start-Stop System,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Comfort & Convenience,Follow Me Home Headlamps,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Interior,Leather Wrapped Steering Wheel,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Interior,Leather wrap gear-shift selector,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Interior,Glove Box,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Interior,Additional Features,"""Mirror package (interior mirror can also register distracting headlights from behind,Depending on the glare and ambient light,it dims automatically),Interior Chrome Package( Controls and trim in the interior door area in silver chrome, EASY-ENTRY switch in silver chrome, Controls to the left of the steering wheel in silver chrome, Hand flatterer, control switch and cup holder on the center console are made or framed in silver chrome, Climate control panel in silver chrome), Widescreen Cockpit (select the display from “Classic”, “Sport”, “Progressive” and “Subtle” display styles), Multifunction steering wheel in nappa leather, EASY-PACK cargo area cover(Removable roller blind to protect and rear seats protects your Luggage,EASY-PACK cargo area cover at any time and store), Velour floor mats(can be removed, vacuumed or cleaned), MBUX rear tablet (7.4-inch MBUX rear tablet, Use all the MBUX multimedia system and control comfort features),"""
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Interior,Upholstery,Leather
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Exterior,Adjustable Headlamps,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Exterior,Rain Sensing Wiper,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Exterior,Rear Window Wiper,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Exterior,Rear Window Washer,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Exterior,Rear Window Defogger,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Exterior,Alloy Wheels,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Exterior,Rear Spoiler,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Exterior,Side Stepper,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Exterior,Cornering Headlamps,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Exterior,Roof Rails,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Exterior,Automatic Headlamps,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Exterior,Fog Lights,Front
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Exterior,Sunroof,Panoramic
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Exterior,Heated Outside Rear View Mirror,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Exterior,Tyre Type,"Tubeless,Radial"
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Exterior,LED DRLs,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Exterior,LED Headlamps,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Exterior,LED Taillights,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Exterior,LED Fog Lamps,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Exterior,Additional Features,"""MULTIBEAM LED(headlight LEDs to adapt to traffic situations),Aluminium-look, illuminated running boards with rubber studs,Mirror package (fold the exterior mirrors electrically,), Under body protection, 5-triple-spoke light-alloy wheels,"""
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Safety,Anti-lock Braking System (ABS),YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Safety,Brake Assist,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Safety,Central Locking,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Safety,Child Safety Locks,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Safety,Anti-Theft Alarm,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Safety,No. of Airbags,10
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Safety,Driver Airbag,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Safety,Passenger Airbag,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Safety,Side Airbag,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Safety,Side Airbag-Rear,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Safety,Day & Night Rear View Mirror,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Safety,Electronic Brakeforce Distribution (EBD),YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Safety,Acoustic Vehicle Alert System,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Safety,Traction Control,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Safety,Engine Immobilizer,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Safety,Electronic Stability Control (ESC),YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Safety,Rear Camera,With Guidedlines
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Safety,Anti-Theft Device,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Safety,Anti-Pinch Power Windows,Driver and Passenger
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Safety,ISOFIX Child Seat Mounts,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Safety,Hill Assist,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Safety,360 View Camera,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Entertainment & Communication,Radio,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Entertainment & Communication,Wireless Phone Charging,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Entertainment & Communication,Bluetooth Connectivity,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Entertainment & Communication,Touchscreen,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Entertainment & Communication,Touchscreen Size,12.3 Inch
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Entertainment & Communication,Android Auto,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Entertainment & Communication,Apple CarPlay,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Entertainment & Communication,No. of Speakers,13
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Entertainment & Communication,Rear Entertainment System,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Entertainment & Communication,Usb Ports,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Entertainment & Communication,Inbuilt Apps,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Entertainment & Communication,Rear Touchscreen,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Entertainment & Communication,Rear Touch Screen size,7.4 inch
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Entertainment & Communication,Additional Features,"""Burmester surround sound system( 590 watts of system power,audio experience with Dolby Atmos,Advanced noise compensation (VNC) dynamically adapts music and sounds),Sound Personalization (option for personal profile),Wireless charging system for mobile devices at the front and rear, MBUX Entertainment (Music streaming like Amazon Music, Apple Music, Spotify into vehicles, providing access to internet radio stations and podcasts),MBUX Entertainment and Extended functions(Music streaming like Amazon Music, Apple Music, Spotify into vehicles, providing access to internet radio stations and podcasts,Natural language understanding,Learning-capable MBUX language assistant,Personal profiles(Customize your mood by saving individual theme worlds, such as DYNAMIC SELECT driving programs, radio stations, and ambient lighting.), Prediction functions(personal assistant for phone number on the multimedia system, Hard-Disc Navigation(Hard-Disc navigation,2D and 3D map display, MBUX voice assistant to input data and start route guidance, even understanding everyday language, online connectivity, map data is updated as needed and automatically via the mobile network.), Smartphone integration (Wireless smartphone integration supports Android Auto and Apple CarPlay, Display apps from selected third-party providers, Access to current software and data e.g. for navigation, traffic information, contact details, messaging, telephony, media, IP radio,User interface optimized for driving,Control of smartphone functions via voice control), MBUX rear tablet (7.4-inch MBUX rear tablet, Use all the MBUX multimedia system and control comfort features,HDMI or Bluetooth via mobile device, tablet or laptop. It Has touch and voice input both), Power closing (servo closing function pulls your doors gently and almost silently into the lock),"""
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Entertainment & Communication,Speakers,Front & Rear
+Mercedes-Benz,GLS,450 4MATIC AMG Line,ADAS Feature,Speed Assist System,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,ADAS Feature,Blind Spot Monitor,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Advance Internet Feature,Live Location,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Advance Internet Feature,Remote Immobiliser,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Advance Internet Feature,Remote Vehicle Status Check,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Advance Internet Feature,Digital Car Key,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Advance Internet Feature,Hinglish Voice Commands,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Advance Internet Feature,Navigation with Live Traffic,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Advance Internet Feature,E-Call & I-Call,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Advance Internet Feature,Google / Alexa Connectivity,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Advance Internet Feature,SOS Button,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Advance Internet Feature,Over Speeding Alert,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Advance Internet Feature,In Car Remote Control App,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Advance Internet Feature,Valet Mode,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Advance Internet Feature,Remote AC On/Off,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Advance Internet Feature,Remote Door Lock/Unlock,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Advance Internet Feature,Remote Vehicle Ignition Start/Stop,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Advance Internet Feature,Remote Boot Open,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Advance Internet Feature,SOS / Emergency Assistance,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Advance Internet Feature,Geo-fence Alert,YES
+Mercedes-Benz,GLS,450 4MATIC AMG Line,Advance Internet Feature,Inbuilt APPs,MBUX

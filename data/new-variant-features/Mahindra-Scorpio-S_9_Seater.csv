@@ -1,0 +1,89 @@
+company,model,variant,category,feature_name,feature_details
+Mahindra,Scorpio,S 9-Seater,Engine & Transmission,Engine Type,mHAWK 4 Cylinder
+Mahindra,Scorpio,S 9-Seater,Engine & Transmission,Displacement,2184 cc
+Mahindra,Scorpio,S 9-Seater,Engine & Transmission,Max Power,130bhp@3750rpm
+Mahindra,Scorpio,S 9-Seater,Engine & Transmission,Max Torque,300Nm@1600-2800rpm
+Mahindra,Scorpio,S 9-Seater,Engine & Transmission,No. of Cylinders,4
+Mahindra,Scorpio,S 9-Seater,Engine & Transmission,Valves Per Cylinder,4
+Mahindra,Scorpio,S 9-Seater,Engine & Transmission,Fuel Supply System,CRDi
+Mahindra,Scorpio,S 9-Seater,Engine & Transmission,Turbo Charger,YES
+Mahindra,Scorpio,S 9-Seater,Engine & Transmission,Transmission Type,Manual
+Mahindra,Scorpio,S 9-Seater,Engine & Transmission,Gearbox,6-Speed
+Mahindra,Scorpio,S 9-Seater,Engine & Transmission,Drive Type,RWD
+Mahindra,Scorpio,S 9-Seater,Fuel & Performance,Fuel Type,Diesel
+Mahindra,Scorpio,S 9-Seater,Fuel & Performance,Diesel Mileage ARAI,14.44 kmpl
+Mahindra,Scorpio,S 9-Seater,Fuel & Performance,Diesel Fuel Tank Capacity,60 Litres
+Mahindra,Scorpio,S 9-Seater,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Mahindra,Scorpio,S 9-Seater,Fuel & Performance,Top Speed,165 kmph
+Mahindra,Scorpio,S 9-Seater,"Suspension, Steering & Brakes",Front Suspension,Double wishbone suspension
+Mahindra,Scorpio,S 9-Seater,"Suspension, Steering & Brakes",Rear Suspension,Multi-link suspension
+Mahindra,Scorpio,S 9-Seater,"Suspension, Steering & Brakes",Shock Absorbers Type,Hydraulic
+Mahindra,Scorpio,S 9-Seater,"Suspension, Steering & Brakes",Steering Type,Hydraulic
+Mahindra,Scorpio,S 9-Seater,"Suspension, Steering & Brakes",Steering Column,Tilt
+Mahindra,Scorpio,S 9-Seater,"Suspension, Steering & Brakes",Turning Radius,5.4
+Mahindra,Scorpio,S 9-Seater,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Mahindra,Scorpio,S 9-Seater,"Suspension, Steering & Brakes",Rear Brake Type,Drum
+Mahindra,Scorpio,S 9-Seater,"Suspension, Steering & Brakes",Braking (100-0kmph),41.50 s
+Mahindra,Scorpio,S 9-Seater,"Suspension, Steering & Brakes",0-100Kmph (Tested),14.01
+Mahindra,Scorpio,S 9-Seater,"Suspension, Steering & Brakes",Braking (80-0 kmph),26.14 s
+Mahindra,Scorpio,S 9-Seater,Dimensions & Capacity,Length,4456 mm
+Mahindra,Scorpio,S 9-Seater,Dimensions & Capacity,Width,1820 mm
+Mahindra,Scorpio,S 9-Seater,Dimensions & Capacity,Height,1995 mm
+Mahindra,Scorpio,S 9-Seater,Dimensions & Capacity,Boot Space,460 Litres
+Mahindra,Scorpio,S 9-Seater,Dimensions & Capacity,Seating Capacity,9
+Mahindra,Scorpio,S 9-Seater,Dimensions & Capacity,Wheel Base,2680 mm
+Mahindra,Scorpio,S 9-Seater,Comfort & Convenience,Boot Opening,Manual
+Mahindra,Scorpio,S 9-Seater,Comfort & Convenience,Power Steering,YES
+Mahindra,Scorpio,S 9-Seater,Comfort & Convenience,Air Conditioner,YES
+Mahindra,Scorpio,S 9-Seater,Comfort & Convenience,Heater,YES
+Mahindra,Scorpio,S 9-Seater,Comfort & Convenience,Height Adjustable Driver Seat,NO
+Mahindra,Scorpio,S 9-Seater,Comfort & Convenience,Automatic Climate Control,NO
+Mahindra,Scorpio,S 9-Seater,Comfort & Convenience,Accessory Power Outlet,YES
+Mahindra,Scorpio,S 9-Seater,Comfort & Convenience,Adjustable Headrest,YES
+Mahindra,Scorpio,S 9-Seater,Comfort & Convenience,Height Adjustable Front Seat Belts,NO
+Mahindra,Scorpio,S 9-Seater,Comfort & Convenience,Rear AC Vents,YES
+Mahindra,Scorpio,S 9-Seater,Comfort & Convenience,Cruise Control,NO
+Mahindra,Scorpio,S 9-Seater,Comfort & Convenience,Parking Sensors,Rear
+Mahindra,Scorpio,S 9-Seater,Comfort & Convenience,KeyLess Entry,NO
+Mahindra,Scorpio,S 9-Seater,Comfort & Convenience,Central Console Armrest,NO
+Mahindra,Scorpio,S 9-Seater,Comfort & Convenience,Gear Shift Indicator,NO
+Mahindra,Scorpio,S 9-Seater,Comfort & Convenience,Idle Start-Stop System,YES
+Mahindra,Scorpio,S 9-Seater,Comfort & Convenience,Follow Me Home Headlamps,NO
+Mahindra,Scorpio,S 9-Seater,Interior,Leather Wrapped Steering Wheel,NO
+Mahindra,Scorpio,S 9-Seater,Interior,Glove Box,YES
+Mahindra,Scorpio,S 9-Seater,Interior,Upholstery,Vinyl
+Mahindra,Scorpio,S 9-Seater,Exterior,Rear Window Wiper,NO
+Mahindra,Scorpio,S 9-Seater,Exterior,Rear Window Washer,NO
+Mahindra,Scorpio,S 9-Seater,Exterior,Rear Window Defogger,NO
+Mahindra,Scorpio,S 9-Seater,Exterior,Alloy Wheels,NO
+Mahindra,Scorpio,S 9-Seater,Exterior,Rear Spoiler,NO
+Mahindra,Scorpio,S 9-Seater,Exterior,Side Stepper,NO
+Mahindra,Scorpio,S 9-Seater,Exterior,Outside Rear View Mirror Turn Indicators,NO
+Mahindra,Scorpio,S 9-Seater,Exterior,Projector Headlamps,NO
+Mahindra,Scorpio,S 9-Seater,Exterior,Automatic Headlamps,NO
+Mahindra,Scorpio,S 9-Seater,Exterior,Fog Lights,NO
+Mahindra,Scorpio,S 9-Seater,Exterior,Sunroof,NO
+Mahindra,Scorpio,S 9-Seater,Exterior,Outside Rear View Mirror (ORVM),Manual
+Mahindra,Scorpio,S 9-Seater,Exterior,Tyre Size,235/65 R17
+Mahindra,Scorpio,S 9-Seater,Exterior,Tyre Type,Radial
+Mahindra,Scorpio,S 9-Seater,Exterior,Wheel Size,17 Inch
+Mahindra,Scorpio,S 9-Seater,Exterior,LED DRLs,NO
+Mahindra,Scorpio,S 9-Seater,Exterior,LED Taillights,YES
+Mahindra,Scorpio,S 9-Seater,Safety,Anti-lock Braking System (ABS),YES
+Mahindra,Scorpio,S 9-Seater,Safety,Central Locking,YES
+Mahindra,Scorpio,S 9-Seater,Safety,Child Safety Locks,YES
+Mahindra,Scorpio,S 9-Seater,Safety,Anti-Theft Alarm,NO
+Mahindra,Scorpio,S 9-Seater,Safety,No. of Airbags,2
+Mahindra,Scorpio,S 9-Seater,Safety,Driver Airbag,YES
+Mahindra,Scorpio,S 9-Seater,Safety,Passenger Airbag,YES
+Mahindra,Scorpio,S 9-Seater,Safety,Side Airbag,NO
+Mahindra,Scorpio,S 9-Seater,Safety,Side Airbag-Rear,NO
+Mahindra,Scorpio,S 9-Seater,Safety,Day & Night Rear View Mirror,YES
+Mahindra,Scorpio,S 9-Seater,Safety,Electronic Brakeforce Distribution (EBD),YES
+Mahindra,Scorpio,S 9-Seater,Safety,Engine Immobilizer,YES
+Mahindra,Scorpio,S 9-Seater,Safety,Anti-Theft Device,NO
+Mahindra,Scorpio,S 9-Seater,Entertainment & Communication,Radio,NO
+Mahindra,Scorpio,S 9-Seater,Entertainment & Communication,Bluetooth Connectivity,NO
+Mahindra,Scorpio,S 9-Seater,Entertainment & Communication,Touchscreen,NO
+Mahindra,Scorpio,S 9-Seater,Entertainment & Communication,Usb Ports,NO
+Mahindra,Scorpio,S 9-Seater,Entertainment & Communication,Speakers,NO

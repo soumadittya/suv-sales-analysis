@@ -1,0 +1,92 @@
+company,model,variant,category,feature_name,feature_details
+Audi,Q3 Sportback,40TFSI Quattro,Engine & Transmission,Engine Type,40 TFSI quattro
+Audi,Q3 Sportback,40TFSI Quattro,Engine & Transmission,Displacement,1984 cc
+Audi,Q3 Sportback,40TFSI Quattro,Engine & Transmission,Max Power,187.74bhp@4200-6000rpm
+Audi,Q3 Sportback,40TFSI Quattro,Engine & Transmission,Max Torque,320Nm@1500-4100rpm
+Audi,Q3 Sportback,40TFSI Quattro,Engine & Transmission,No. of Cylinders,4
+Audi,Q3 Sportback,40TFSI Quattro,Engine & Transmission,Valves Per Cylinder,4
+Audi,Q3 Sportback,40TFSI Quattro,Engine & Transmission,Transmission Type,Automatic
+Audi,Q3 Sportback,40TFSI Quattro,Engine & Transmission,Gearbox,7-Speed
+Audi,Q3 Sportback,40TFSI Quattro,Engine & Transmission,Drive Type,AWD
+Audi,Q3 Sportback,40TFSI Quattro,Fuel & Performance,Fuel Type,Petrol
+Audi,Q3 Sportback,40TFSI Quattro,Fuel & Performance,Petrol Fuel Tank Capacity,62 Litres
+Audi,Q3 Sportback,40TFSI Quattro,Fuel & Performance,Petrol Highway Mileage,14.93 kmpl
+Audi,Q3 Sportback,40TFSI Quattro,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Audi,Q3 Sportback,40TFSI Quattro,Fuel & Performance,Top Speed,220 kmph
+Audi,Q3 Sportback,40TFSI Quattro,Fuel & Performance,Acceleration,7.3 Sec
+Audi,Q3 Sportback,40TFSI Quattro,Fuel & Performance,0-100kmph,7.3 Sec
+Audi,Q3 Sportback,40TFSI Quattro,"Suspension, Steering & Brakes",Steering Type,Electric
+Audi,Q3 Sportback,40TFSI Quattro,Dimensions & Capacity,Length,4518 mm
+Audi,Q3 Sportback,40TFSI Quattro,Dimensions & Capacity,Width,2022 mm
+Audi,Q3 Sportback,40TFSI Quattro,Dimensions & Capacity,Height,1558 mm
+Audi,Q3 Sportback,40TFSI Quattro,Dimensions & Capacity,Boot Space,380 Litres
+Audi,Q3 Sportback,40TFSI Quattro,Dimensions & Capacity,Seating Capacity,5
+Audi,Q3 Sportback,40TFSI Quattro,Dimensions & Capacity,Wheel Base,2651 mm
+Audi,Q3 Sportback,40TFSI Quattro,Dimensions & Capacity,Kerb Weight,1595 kg
+Audi,Q3 Sportback,40TFSI Quattro,Dimensions & Capacity,Reported Ground Clearance (Unladen),200 mm
+Audi,Q3 Sportback,40TFSI Quattro,Comfort & Convenience,Power Steering,YES
+Audi,Q3 Sportback,40TFSI Quattro,Comfort & Convenience,Power Boot,YES
+Audi,Q3 Sportback,40TFSI Quattro,Comfort & Convenience,Air Conditioner,YES
+Audi,Q3 Sportback,40TFSI Quattro,Comfort & Convenience,Heater,YES
+Audi,Q3 Sportback,40TFSI Quattro,Comfort & Convenience,Adjustable Steering,YES
+Audi,Q3 Sportback,40TFSI Quattro,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Audi,Q3 Sportback,40TFSI Quattro,Comfort & Convenience,Electric Adjustable Seats,Front
+Audi,Q3 Sportback,40TFSI Quattro,Comfort & Convenience,Automatic Climate Control,YES
+Audi,Q3 Sportback,40TFSI Quattro,Comfort & Convenience,Low Fuel Warning Light,YES
+Audi,Q3 Sportback,40TFSI Quattro,Comfort & Convenience,Accessory Power Outlet,YES
+Audi,Q3 Sportback,40TFSI Quattro,Comfort & Convenience,Rear Seat Headrest,YES
+Audi,Q3 Sportback,40TFSI Quattro,Comfort & Convenience,Adjustable Headrest,YES
+Audi,Q3 Sportback,40TFSI Quattro,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Audi,Q3 Sportback,40TFSI Quattro,Comfort & Convenience,Rear AC Vents,YES
+Audi,Q3 Sportback,40TFSI Quattro,Comfort & Convenience,Lumbar Support,YES
+Audi,Q3 Sportback,40TFSI Quattro,Comfort & Convenience,Cruise Control,YES
+Audi,Q3 Sportback,40TFSI Quattro,Comfort & Convenience,Parking Sensors,Front & Rear
+Audi,Q3 Sportback,40TFSI Quattro,Comfort & Convenience,Navigation System,YES
+Audi,Q3 Sportback,40TFSI Quattro,Comfort & Convenience,KeyLess Entry,YES
+Audi,Q3 Sportback,40TFSI Quattro,Comfort & Convenience,Engine Start/Stop Button,YES
+Audi,Q3 Sportback,40TFSI Quattro,Comfort & Convenience,USB Charger,Front
+Audi,Q3 Sportback,40TFSI Quattro,Comfort & Convenience,Central Console Armrest,With Storage
+Audi,Q3 Sportback,40TFSI Quattro,Comfort & Convenience,Gear Shift Indicator,NO
+Audi,Q3 Sportback,40TFSI Quattro,Interior,Electronic Multi-Tripmeter,YES
+Audi,Q3 Sportback,40TFSI Quattro,Interior,Leather Seats,YES
+Audi,Q3 Sportback,40TFSI Quattro,Interior,Leather Wrapped Steering Wheel,YES
+Audi,Q3 Sportback,40TFSI Quattro,Interior,Glove Box,YES
+Audi,Q3 Sportback,40TFSI Quattro,Interior,Digital Clock,YES
+Audi,Q3 Sportback,40TFSI Quattro,Exterior,Adjustable Headlamps,YES
+Audi,Q3 Sportback,40TFSI Quattro,Exterior,Fog Lights - Front,YES
+Audi,Q3 Sportback,40TFSI Quattro,Exterior,Wheel Covers,NO
+Audi,Q3 Sportback,40TFSI Quattro,Exterior,Alloy Wheels,YES
+Audi,Q3 Sportback,40TFSI Quattro,Exterior,Power Antenna,NO
+Audi,Q3 Sportback,40TFSI Quattro,Exterior,Rear Spoiler,YES
+Audi,Q3 Sportback,40TFSI Quattro,Exterior,Roof Rails,NO
+Audi,Q3 Sportback,40TFSI Quattro,Exterior,Sun Roof,YES
+Audi,Q3 Sportback,40TFSI Quattro,Exterior,Tyre Size,235/55 R18
+Audi,Q3 Sportback,40TFSI Quattro,Exterior,Tyre Type,"Tubeless,Radial"
+Audi,Q3 Sportback,40TFSI Quattro,Exterior,LED DRLs,YES
+Audi,Q3 Sportback,40TFSI Quattro,Exterior,LED Headlamps,YES
+Audi,Q3 Sportback,40TFSI Quattro,Exterior,LED Taillights,YES
+Audi,Q3 Sportback,40TFSI Quattro,Safety,Anti-lock Braking System (ABS),YES
+Audi,Q3 Sportback,40TFSI Quattro,Safety,Central Locking,YES
+Audi,Q3 Sportback,40TFSI Quattro,Safety,Child Safety Locks,YES
+Audi,Q3 Sportback,40TFSI Quattro,Safety,No. of Airbags,6
+Audi,Q3 Sportback,40TFSI Quattro,Safety,Driver Airbag,YES
+Audi,Q3 Sportback,40TFSI Quattro,Safety,Passenger Airbag,YES
+Audi,Q3 Sportback,40TFSI Quattro,Safety,Side Airbag,YES
+Audi,Q3 Sportback,40TFSI Quattro,Safety,Side Airbag-Rear,NO
+Audi,Q3 Sportback,40TFSI Quattro,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Audi,Q3 Sportback,40TFSI Quattro,Safety,Engine Immobilizer,YES
+Audi,Q3 Sportback,40TFSI Quattro,Safety,Electronic Stability Control (ESC),YES
+Audi,Q3 Sportback,40TFSI Quattro,Safety,Anti-Theft Device,YES
+Audi,Q3 Sportback,40TFSI Quattro,Safety,ISOFIX Child Seat Mounts,YES
+Audi,Q3 Sportback,40TFSI Quattro,Safety,Hill Assist,YES
+Audi,Q3 Sportback,40TFSI Quattro,Entertainment & Communication,Radio,YES
+Audi,Q3 Sportback,40TFSI Quattro,Entertainment & Communication,Wireless Phone Charging,YES
+Audi,Q3 Sportback,40TFSI Quattro,Entertainment & Communication,USB & Auxiliary input,YES
+Audi,Q3 Sportback,40TFSI Quattro,Entertainment & Communication,Bluetooth Connectivity,YES
+Audi,Q3 Sportback,40TFSI Quattro,Entertainment & Communication,Touchscreen,YES
+Audi,Q3 Sportback,40TFSI Quattro,Entertainment & Communication,Touchscreen Size,"10"" inch"
+Audi,Q3 Sportback,40TFSI Quattro,Entertainment & Communication,Android Auto,YES
+Audi,Q3 Sportback,40TFSI Quattro,Entertainment & Communication,Apple CarPlay,YES
+Audi,Q3 Sportback,40TFSI Quattro,Entertainment & Communication,No. of Speakers,10
+Audi,Q3 Sportback,40TFSI Quattro,Entertainment & Communication,Usb Ports,YES
+Audi,Q3 Sportback,40TFSI Quattro,Entertainment & Communication,Speakers,Front & Rear

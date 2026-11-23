@@ -1,0 +1,68 @@
+{% extends "base.html" %}
+{% from "_macros.html" import badge %}
+{% set nav = "compare" %}
+{% block title %}Compare · SUV Value Guide{% endblock %}
+{% block wide %}vg-wrap--wide{% endblock %}
+
+{% block content %}
+<section class="vg-section">
+  <h1 class="title">Compare</h1>
+  <p class="vg-muted">Up to {{ max_compare }} variants side by side. This page's link keeps the list, so you can share it.</p>
+  {% if slugs|length < max_compare %}
+  <form method="get" action="/compare" class="vg-row vg-add">
+    {% for s in slugs %}<input type="hidden" name="v" value="{{ s }}">{% endfor %}
+    {% if diff %}<input type="hidden" name="diff" value="1">{% endif %}
+    <label class="vg-field" for="add"><span class="vg-label">Add a variant</span>
+      <input class="vg-input" id="add" name="add" type="search" value="{{ add }}" placeholder="Search a model or variant"></label>
+    <button class="vg-btn vg-btn--primary" type="submit">Add</button>
+  </form>
+  {% endif %}
+  {% if message %}<p class="small">{{ message }}</p>{% endif %}
+  {% if choices %}
+  <div class="vg-section">
+    <p class="small">Several variants match “{{ add }}”. Pick one:</p>
+    <ul class="vg-results">
+      {% for name, link, price in choices %}
+      <li class="vg-result"><div class="vg-result-main"><a class="vg-result-name" href="{{ link }}">{{ name }}</a></div><div class="vg-result-side"><span class="vg-result-price">{{ price|lakh }}</span></div></li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+  {% if chosen|length > 1 %}
+  <p class="small"><a href="{{ diff_link }}">{{ "Show all rows" if diff else "Show only rows that differ" }}</a></p>
+  {% endif %}
+</section>
+
+{% if chosen %}
+<div class="vg-table-wrap">
+  <table class="vg-table vg-compare">
+    <thead>
+      <tr>
+        <th scope="col">Spec</th>
+        {% for c in chosen %}
+        <th scope="col"><a class="vg-compare-name" href="/variant/{{ c.slug }}">{{ c.name }}</a><a class="vg-remove" href="{{ remove_links[c.slug] }}">Remove</a></th>
+        {% endfor %}
+      </tr>
+    </thead>
+    <tbody>
+      {% for row in rows %}
+        {% if loop.first or row.group != loop.previtem.group %}
+        <tr class="vg-group"><th scope="rowgroup" colspan="{{ chosen|length + 1 }}">{{ row.group }}</th></tr>
+        {% endif %}
+        <tr>
+          <th scope="row">{{ row.label }}</th>
+          {% for value in row["values"] %}
+            {% if row.kind == "verdict" %}<td>{{ badge(value[0], none) }}{% if value[1] %} <span class="small vg-muted">{{ value[1] }}</span>{% endif %}</td>
+            {% else %}<td{% if value == NOT_LISTED %} class="vg-muted"{% endif %}>{{ value }}</td>{% endif %}
+          {% endfor %}
+        </tr>
+      {% endfor %}
+      {% if not rows %}<tr><td colspan="{{ chosen|length + 1 }}" class="vg-muted">These variants don't differ on any row here.</td></tr>{% endif %}
+    </tbody>
+  </table>
+</div>
+<p class="small vg-muted">"Not listed" means CarDekho doesn't list it. It doesn't mean the car lacks it.</p>
+{% else %}
+<p class="vg-muted">Nothing to compare yet. Add a variant above, or press Compare on any variant's page.</p>
+{% endif %}
+{% endblock %}

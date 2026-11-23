@@ -1,0 +1,138 @@
+company,model,variant,category,feature_name,feature_details
+Porsche,Macan,Standard,Engine & Transmission,Engine Type,Twin-Turbocharged Engine
+Porsche,Macan,Standard,Engine & Transmission,Displacement,1984 cc
+Porsche,Macan,Standard,Engine & Transmission,Max Power,261.49bhp@5000-6500rpm
+Porsche,Macan,Standard,Engine & Transmission,Max Torque,400Nm@1800-4500rpm
+Porsche,Macan,Standard,Engine & Transmission,No. of Cylinders,4
+Porsche,Macan,Standard,Engine & Transmission,Valves Per Cylinder,4
+Porsche,Macan,Standard,Engine & Transmission,Turbo Charger,YES
+Porsche,Macan,Standard,Engine & Transmission,Super Charge,NO
+Porsche,Macan,Standard,Engine & Transmission,Transmission Type,Automatic
+Porsche,Macan,Standard,Engine & Transmission,Gearbox,7-Speed PDK
+Porsche,Macan,Standard,Engine & Transmission,Drive Type,AWD
+Porsche,Macan,Standard,Fuel & Performance,Fuel Type,Petrol
+Porsche,Macan,Standard,Fuel & Performance,Petrol Fuel Tank Capacity,65 Litres
+Porsche,Macan,Standard,Fuel & Performance,Petrol Highway Mileage,10.2 kmpl
+Porsche,Macan,Standard,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Porsche,Macan,Standard,Fuel & Performance,Top Speed,232 kmph
+Porsche,Macan,Standard,Fuel & Performance,Acceleration,6.4 s
+Porsche,Macan,Standard,Fuel & Performance,0-100kmph,6.4 s
+Porsche,Macan,Standard,"Suspension, Steering & Brakes",Steering Type,Power
+Porsche,Macan,Standard,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Porsche,Macan,Standard,"Suspension, Steering & Brakes",Steering Gear Type,Rack & Pinion
+Porsche,Macan,Standard,"Suspension, Steering & Brakes",Turning Radius,12.0 m
+Porsche,Macan,Standard,"Suspension, Steering & Brakes",Front Brake Type,Ventilated Disc
+Porsche,Macan,Standard,"Suspension, Steering & Brakes",Rear Brake Type,Ventilated Disc
+Porsche,Macan,Standard,Dimensions & Capacity,Length,4726 mm
+Porsche,Macan,Standard,Dimensions & Capacity,Width,2097 mm
+Porsche,Macan,Standard,Dimensions & Capacity,Height,1621 mm
+Porsche,Macan,Standard,Dimensions & Capacity,Boot Space,458 Litres
+Porsche,Macan,Standard,Dimensions & Capacity,Seating Capacity,5
+Porsche,Macan,Standard,Dimensions & Capacity,Ground Clearance Unladen,202 mm
+Porsche,Macan,Standard,Dimensions & Capacity,Wheel Base,2600 mm
+Porsche,Macan,Standard,Dimensions & Capacity,Kerb Weight,1845 kg
+Porsche,Macan,Standard,Dimensions & Capacity,Gross Weight,2510 kg
+Porsche,Macan,Standard,Comfort & Convenience,Power Steering,YES
+Porsche,Macan,Standard,Comfort & Convenience,Air Conditioner,YES
+Porsche,Macan,Standard,Comfort & Convenience,Heater,YES
+Porsche,Macan,Standard,Comfort & Convenience,Adjustable Steering,YES
+Porsche,Macan,Standard,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Porsche,Macan,Standard,Comfort & Convenience,Electric Adjustable Seats,Front
+Porsche,Macan,Standard,Comfort & Convenience,Automatic Climate Control,YES
+Porsche,Macan,Standard,Comfort & Convenience,Air Quality Control,YES
+Porsche,Macan,Standard,Comfort & Convenience,Remote Trunk Opener,NO
+Porsche,Macan,Standard,Comfort & Convenience,Low Fuel Warning Light,YES
+Porsche,Macan,Standard,Comfort & Convenience,Accessory Power Outlet,YES
+Porsche,Macan,Standard,Comfort & Convenience,Rear Seat Headrest,YES
+Porsche,Macan,Standard,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Porsche,Macan,Standard,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Porsche,Macan,Standard,Comfort & Convenience,Rear AC Vents,YES
+Porsche,Macan,Standard,Comfort & Convenience,Lumbar Support,YES
+Porsche,Macan,Standard,Comfort & Convenience,Cruise Control,YES
+Porsche,Macan,Standard,Comfort & Convenience,Parking Sensors,Rear
+Porsche,Macan,Standard,Comfort & Convenience,Navigation System,YES
+Porsche,Macan,Standard,Comfort & Convenience,Foldable Rear Seat,NO
+Porsche,Macan,Standard,Comfort & Convenience,KeyLess Entry,YES
+Porsche,Macan,Standard,Comfort & Convenience,Engine Start/Stop Button,YES
+Porsche,Macan,Standard,Comfort & Convenience,Voice Commands,YES
+Porsche,Macan,Standard,Comfort & Convenience,Paddle Shifters,YES
+Porsche,Macan,Standard,Comfort & Convenience,Central Console Armrest,YES
+Porsche,Macan,Standard,Comfort & Convenience,Gear Shift Indicator,NO
+Porsche,Macan,Standard,Comfort & Convenience,Drive Modes,2
+Porsche,Macan,Standard,Comfort & Convenience,Follow Me Home Headlamps,NO
+Porsche,Macan,Standard,Interior,Electronic Multi-Tripmeter,YES
+Porsche,Macan,Standard,Interior,Leather Seats,YES
+Porsche,Macan,Standard,Interior,Fabric Upholstery,NO
+Porsche,Macan,Standard,Interior,Leather Wrapped Steering Wheel,YES
+Porsche,Macan,Standard,Interior,Glove Box,YES
+Porsche,Macan,Standard,Interior,Digital Clock,YES
+Porsche,Macan,Standard,Interior,Outside Temperature Display,YES
+Porsche,Macan,Standard,Interior,Driving Experience Control Eco,NO
+Porsche,Macan,Standard,Interior,Folding Table in The Rear,NO
+Porsche,Macan,Standard,Exterior,Adjustable Headlamps,YES
+Porsche,Macan,Standard,Exterior,Fog Lights - Front,NO
+Porsche,Macan,Standard,Exterior,Fog Lights - Rear,NO
+Porsche,Macan,Standard,Exterior,Rain Sensing Wiper,YES
+Porsche,Macan,Standard,Exterior,Rear Window Wiper,YES
+Porsche,Macan,Standard,Exterior,Rear Window Washer,YES
+Porsche,Macan,Standard,Exterior,Rear Window Defogger,YES
+Porsche,Macan,Standard,Exterior,Wheel Covers,NO
+Porsche,Macan,Standard,Exterior,Alloy Wheels,YES
+Porsche,Macan,Standard,Exterior,Power Antenna,NO
+Porsche,Macan,Standard,Exterior,Tinted Glass,NO
+Porsche,Macan,Standard,Exterior,Rear Spoiler,YES
+Porsche,Macan,Standard,Exterior,Side Stepper,NO
+Porsche,Macan,Standard,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Porsche,Macan,Standard,Exterior,Halogen Headlamps,NO
+Porsche,Macan,Standard,Exterior,Roof Rails,NO
+Porsche,Macan,Standard,Exterior,Automatic Headlamps,YES
+Porsche,Macan,Standard,Exterior,Trunk Opener,Smart
+Porsche,Macan,Standard,Exterior,Sun Roof,YES
+Porsche,Macan,Standard,Exterior,Wheel Size,R19 Inch
+Porsche,Macan,Standard,Exterior,Additional Features,"Panoramic Glass sunroof,MMI Navigation with MMI Touch Response"
+Porsche,Macan,Standard,Safety,Anti-lock Braking System (ABS),YES
+Porsche,Macan,Standard,Safety,Brake Assist,YES
+Porsche,Macan,Standard,Safety,Central Locking,YES
+Porsche,Macan,Standard,Safety,Power Door Locks,YES
+Porsche,Macan,Standard,Safety,Child Safety Locks,YES
+Porsche,Macan,Standard,Safety,Anti-Theft Alarm,NO
+Porsche,Macan,Standard,Safety,No. of Airbags,6
+Porsche,Macan,Standard,Safety,Driver Airbag,YES
+Porsche,Macan,Standard,Safety,Passenger Airbag,YES
+Porsche,Macan,Standard,Safety,Side Airbag,YES
+Porsche,Macan,Standard,Safety,Side Airbag-Rear,YES
+Porsche,Macan,Standard,Safety,Day & Night Rear View Mirror,YES
+Porsche,Macan,Standard,Safety,Passenger Side Rear View Mirror,YES
+Porsche,Macan,Standard,Safety,Rear Seat Belts,YES
+Porsche,Macan,Standard,Safety,Side Impact Beams,YES
+Porsche,Macan,Standard,Safety,Front Impact Beams,YES
+Porsche,Macan,Standard,Safety,Traction Control,YES
+Porsche,Macan,Standard,Safety,Adjustable Seats,YES
+Porsche,Macan,Standard,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Porsche,Macan,Standard,Safety,Vehicle Stability Control System,YES
+Porsche,Macan,Standard,Safety,Engine Immobilizer,YES
+Porsche,Macan,Standard,Safety,Crash Sensor,YES
+Porsche,Macan,Standard,Safety,Centrally Mounted Fuel Tank,YES
+Porsche,Macan,Standard,Safety,Engine Check Warning,YES
+Porsche,Macan,Standard,Safety,Clutch Lock,NO
+Porsche,Macan,Standard,Safety,EBD,YES
+Porsche,Macan,Standard,Safety,Rear Camera,NO
+Porsche,Macan,Standard,Safety,Anti-Theft Device,YES
+Porsche,Macan,Standard,Safety,Anti-Pinch Power Windows,All
+Porsche,Macan,Standard,Safety,ISOFIX Child Seat Mounts,YES
+Porsche,Macan,Standard,Safety,Heads-Up Display (HUD),NO
+Porsche,Macan,Standard,Safety,Hill Descent Control,NO
+Porsche,Macan,Standard,Safety,Hill Assist,YES
+Porsche,Macan,Standard,Safety,360 View Camera,NO
+Porsche,Macan,Standard,Entertainment & Communication,Radio,YES
+Porsche,Macan,Standard,Entertainment & Communication,Audio System Remote Control,NO
+Porsche,Macan,Standard,Entertainment & Communication,USB & Auxiliary input,YES
+Porsche,Macan,Standard,Entertainment & Communication,Bluetooth Connectivity,YES
+Porsche,Macan,Standard,Entertainment & Communication,Touchscreen,YES
+Porsche,Macan,Standard,Entertainment & Communication,Touchscreen Size,10.9
+Porsche,Macan,Standard,Entertainment & Communication,No. of Speakers,10
+Porsche,Macan,Standard,Entertainment & Communication,Rear Entertainment System,NO
+Porsche,Macan,Standard,Entertainment & Communication,Usb Ports,YES
+Porsche,Macan,Standard,Entertainment & Communication,Additional Features,Sound Package Plus with 150-watt output
+Porsche,Macan,Standard,Entertainment & Communication,Speakers,Front & Rear
+Porsche,Macan,Standard,ADAS Feature,Blind Spot Monitor,NO

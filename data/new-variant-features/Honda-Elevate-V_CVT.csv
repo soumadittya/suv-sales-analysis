@@ -1,0 +1,125 @@
+company,model,variant,category,feature_name,feature_details
+Honda,Elevate,V CVT,Engine & Transmission,Engine Type,i-VTEC
+Honda,Elevate,V CVT,Engine & Transmission,Displacement,1498 cc
+Honda,Elevate,V CVT,Engine & Transmission,Max Power,119bhp@6600rpm
+Honda,Elevate,V CVT,Engine & Transmission,Max Torque,145Nm@4300rpm
+Honda,Elevate,V CVT,Engine & Transmission,No. of Cylinders,4
+Honda,Elevate,V CVT,Engine & Transmission,Valves Per Cylinder,4
+Honda,Elevate,V CVT,Engine & Transmission,Transmission Type,Automatic
+Honda,Elevate,V CVT,Engine & Transmission,Gearbox,CVT
+Honda,Elevate,V CVT,Engine & Transmission,Drive Type,FWD
+Honda,Elevate,V CVT,Fuel & Performance,Fuel Type,Petrol
+Honda,Elevate,V CVT,Fuel & Performance,Petrol Mileage ARAI,16.61 kmpl
+Honda,Elevate,V CVT,Fuel & Performance,Petrol Fuel Tank Capacity,40 Litres
+Honda,Elevate,V CVT,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Honda,Elevate,V CVT,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Honda,Elevate,V CVT,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Honda,Elevate,V CVT,"Suspension, Steering & Brakes",Shock Absorbers Type,Telescopic Hydraulic Nitrogen Gas-filled
+Honda,Elevate,V CVT,"Suspension, Steering & Brakes",Steering Type,Electric
+Honda,Elevate,V CVT,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Honda,Elevate,V CVT,"Suspension, Steering & Brakes",Turning Radius,5.2 m
+Honda,Elevate,V CVT,"Suspension, Steering & Brakes",Front Brake Type,Ventilated Disc
+Honda,Elevate,V CVT,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Honda,Elevate,V CVT,Dimensions & Capacity,Length,4312 mm
+Honda,Elevate,V CVT,Dimensions & Capacity,Width,1790 mm
+Honda,Elevate,V CVT,Dimensions & Capacity,Height,1650 mm
+Honda,Elevate,V CVT,Dimensions & Capacity,Boot Space,458 Litres
+Honda,Elevate,V CVT,Dimensions & Capacity,Seating Capacity,5
+Honda,Elevate,V CVT,Dimensions & Capacity,Ground Clearance Unladen,220 mm
+Honda,Elevate,V CVT,Dimensions & Capacity,Wheel Base,2650 mm
+Honda,Elevate,V CVT,Dimensions & Capacity,Front Tread,1540 mm
+Honda,Elevate,V CVT,Dimensions & Capacity,Rear Tread,1555 mm
+Honda,Elevate,V CVT,Dimensions & Capacity,Gross Weight,1700 kg
+Honda,Elevate,V CVT,Comfort & Convenience,Boot Opening,Electronic
+Honda,Elevate,V CVT,Comfort & Convenience,Power Steering,YES
+Honda,Elevate,V CVT,Comfort & Convenience,Air Conditioner,YES
+Honda,Elevate,V CVT,Comfort & Convenience,Heater,YES
+Honda,Elevate,V CVT,Comfort & Convenience,Adjustable Steering,Height & Reach
+Honda,Elevate,V CVT,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Honda,Elevate,V CVT,Comfort & Convenience,Automatic Climate Control,YES
+Honda,Elevate,V CVT,Comfort & Convenience,Air Quality Control,YES
+Honda,Elevate,V CVT,Comfort & Convenience,Accessory Power Outlet,YES
+Honda,Elevate,V CVT,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Honda,Elevate,V CVT,Comfort & Convenience,Adjustable Headrest,YES
+Honda,Elevate,V CVT,Comfort & Convenience,Rear Seat Centre Arm Rest,NO
+Honda,Elevate,V CVT,Comfort & Convenience,Rear AC Vents,YES
+Honda,Elevate,V CVT,Comfort & Convenience,Parking Sensors,Rear
+Honda,Elevate,V CVT,Comfort & Convenience,Real-Time Vehicle Tracking,YES
+Honda,Elevate,V CVT,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Honda,Elevate,V CVT,Comfort & Convenience,KeyLess Entry,YES
+Honda,Elevate,V CVT,Comfort & Convenience,Engine Start/Stop Button,YES
+Honda,Elevate,V CVT,Comfort & Convenience,Voice Commands,YES
+Honda,Elevate,V CVT,Comfort & Convenience,Paddle Shifters,YES
+Honda,Elevate,V CVT,Comfort & Convenience,USB Charger,Front & Rear
+Honda,Elevate,V CVT,Comfort & Convenience,Central Console Armrest,With Storage
+Honda,Elevate,V CVT,Comfort & Convenience,Follow Me Home Headlamps,YES
+Honda,Elevate,V CVT,Comfort & Convenience,Power Windows,Front & Rear
+Honda,Elevate,V CVT,Comfort & Convenience,Cup Holders,Front Only
+Honda,Elevate,V CVT,Interior,Leather Wrapped Steering Wheel,NO
+Honda,Elevate,V CVT,Interior,Leather wrap gear-shift selector,NO
+Honda,Elevate,V CVT,Interior,Glove Box,YES
+Honda,Elevate,V CVT,Interior,Digital Cluster,YES
+Honda,Elevate,V CVT,Interior,Digital Cluster Size,7
+Honda,Elevate,V CVT,Interior,Upholstery,Fabric
+Honda,Elevate,V CVT,Exterior,Adjustable Headlamps,YES
+Honda,Elevate,V CVT,Exterior,Rear Window Wiper,NO
+Honda,Elevate,V CVT,Exterior,Rear Window Washer,NO
+Honda,Elevate,V CVT,Exterior,Rear Window Defogger,YES
+Honda,Elevate,V CVT,Exterior,Rear Spoiler,YES
+Honda,Elevate,V CVT,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Honda,Elevate,V CVT,Exterior,Projector Headlamps,YES
+Honda,Elevate,V CVT,Exterior,Roof Rails,NO
+Honda,Elevate,V CVT,Exterior,Automatic Headlamps,NO
+Honda,Elevate,V CVT,Exterior,Fog Lights,NO
+Honda,Elevate,V CVT,Exterior,Antenna,Shark Fin
+Honda,Elevate,V CVT,Exterior,Sunroof,NO
+Honda,Elevate,V CVT,Exterior,Outside Rear View Mirror (ORVM),Powered
+Honda,Elevate,V CVT,Exterior,Exterior Camera,Rear View Camera
+Honda,Elevate,V CVT,Exterior,Tyre Size,215/60 R16
+Honda,Elevate,V CVT,Exterior,Tyre Type,Radial Tubeless
+Honda,Elevate,V CVT,Exterior,Wheel Size,16 Inch
+Honda,Elevate,V CVT,Exterior,LED DRLs,YES
+Honda,Elevate,V CVT,Exterior,LED Headlamps,YES
+Honda,Elevate,V CVT,Exterior,LED Taillights,YES
+Honda,Elevate,V CVT,Exterior,LED Fog Lamps,NO
+Honda,Elevate,V CVT,Safety,Anti-lock Braking System (ABS),YES
+Honda,Elevate,V CVT,Safety,Brake Assist,YES
+Honda,Elevate,V CVT,Safety,Central Locking,YES
+Honda,Elevate,V CVT,Safety,Child Safety Locks,YES
+Honda,Elevate,V CVT,Safety,Anti-Theft Alarm,YES
+Honda,Elevate,V CVT,Safety,No. of Airbags,6
+Honda,Elevate,V CVT,Safety,Day & Night Rear View Mirror,YES
+Honda,Elevate,V CVT,Safety,Electronic Brakeforce Distribution (EBD),YES
+Honda,Elevate,V CVT,Safety,Traction Control,YES
+Honda,Elevate,V CVT,Safety,Engine Immobilizer,YES
+Honda,Elevate,V CVT,Safety,Electronic Stability Control (ESC),YES
+Honda,Elevate,V CVT,Safety,Anti-Theft Device,YES
+Honda,Elevate,V CVT,Safety,Anti-Pinch Power Windows,Driver's Window
+Honda,Elevate,V CVT,Safety,ISOFIX Child Seat Mounts,YES
+Honda,Elevate,V CVT,Safety,Hill Assist,YES
+Honda,Elevate,V CVT,Safety,Safety Airbags,"Driver & Passenger, Front Side, Curtain"
+Honda,Elevate,V CVT,Entertainment & Communication,Radio,YES
+Honda,Elevate,V CVT,Entertainment & Communication,Wireless Phone Charging,NO
+Honda,Elevate,V CVT,Entertainment & Communication,Bluetooth Connectivity,YES
+Honda,Elevate,V CVT,Entertainment & Communication,Touchscreen,YES
+Honda,Elevate,V CVT,Entertainment & Communication,Touchscreen Size,8 inch
+Honda,Elevate,V CVT,Entertainment & Communication,Android Auto,YES
+Honda,Elevate,V CVT,Entertainment & Communication,Apple CarPlay,YES
+Honda,Elevate,V CVT,Entertainment & Communication,No. of Speakers,4
+Honda,Elevate,V CVT,Entertainment & Communication,Usb Ports,YES
+Honda,Elevate,V CVT,Entertainment & Communication,Additional Features,"Premium Surround Sound System, Wireless Smartphone Connectivity (Android Auto, Apple CarPlay)"
+Honda,Elevate,V CVT,Entertainment & Communication,Speakers,Front & Rear
+Honda,Elevate,V CVT,ADAS Feature,Lane Keep Assist,NO
+Honda,Elevate,V CVT,ADAS Feature,Road Departure Mitigation System,NO
+Honda,Elevate,V CVT,ADAS Feature,Adaptive Cruise Control,NO
+Honda,Elevate,V CVT,ADAS Feature,Leading Vehicle Departure Alert,NO
+Honda,Elevate,V CVT,ADAS Feature,Adaptive High Beam Assist,NO
+Honda,Elevate,V CVT,Advance Internet Feature,Remote Vehicle Status Check,YES
+Honda,Elevate,V CVT,Advance Internet Feature,Google / Alexa Connectivity,YES
+Honda,Elevate,V CVT,Advance Internet Feature,Tow Away Alert,YES
+Honda,Elevate,V CVT,Advance Internet Feature,In Car Remote Control App,YES
+Honda,Elevate,V CVT,Advance Internet Feature,Smartwatch App,YES
+Honda,Elevate,V CVT,Advance Internet Feature,Remote AC On/Off,YES
+Honda,Elevate,V CVT,Advance Internet Feature,Remote Door Lock/Unlock,YES
+Honda,Elevate,V CVT,Advance Internet Feature,Remote Vehicle Ignition Start/Stop,YES
+Honda,Elevate,V CVT,Advance Internet Feature,Geo-fence Alert,YES

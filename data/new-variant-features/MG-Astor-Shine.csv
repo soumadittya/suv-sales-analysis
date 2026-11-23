@@ -1,0 +1,134 @@
+company,model,variant,category,feature_name,feature_details
+MG,Astor,Shine,Engine & Transmission,Engine Type,VTi-TECH
+MG,Astor,Shine,Engine & Transmission,Displacement,1498 cc
+MG,Astor,Shine,Engine & Transmission,Max Power,108.49bhp@6000rpm
+MG,Astor,Shine,Engine & Transmission,Max Torque,144Nm@4400rpm
+MG,Astor,Shine,Engine & Transmission,No. of Cylinders,4
+MG,Astor,Shine,Engine & Transmission,Valves Per Cylinder,4
+MG,Astor,Shine,Engine & Transmission,Turbo Charger,NO
+MG,Astor,Shine,Engine & Transmission,Transmission Type,Manual
+MG,Astor,Shine,Engine & Transmission,Gearbox,5-Speed
+MG,Astor,Shine,Engine & Transmission,Drive Type,FWD
+MG,Astor,Shine,Fuel & Performance,Fuel Type,Petrol
+MG,Astor,Shine,Fuel & Performance,Petrol Mileage ARAI,15.43 kmpl
+MG,Astor,Shine,Fuel & Performance,Petrol Fuel Tank Capacity,48 Litres
+MG,Astor,Shine,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+MG,Astor,Shine,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+MG,Astor,Shine,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+MG,Astor,Shine,"Suspension, Steering & Brakes",Steering Type,Electric
+MG,Astor,Shine,"Suspension, Steering & Brakes",Steering Column,Tilt
+MG,Astor,Shine,"Suspension, Steering & Brakes",Front Brake Type,Disc
+MG,Astor,Shine,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+MG,Astor,Shine,Dimensions & Capacity,Length,4323 mm
+MG,Astor,Shine,Dimensions & Capacity,Width,1809 mm
+MG,Astor,Shine,Dimensions & Capacity,Height,1650 mm
+MG,Astor,Shine,Dimensions & Capacity,Seating Capacity,5
+MG,Astor,Shine,Dimensions & Capacity,Wheel Base,2585 mm
+MG,Astor,Shine,Dimensions & Capacity,Reported Boot Space,488 Litres
+MG,Astor,Shine,Comfort & Convenience,Power Steering,YES
+MG,Astor,Shine,Comfort & Convenience,Air Conditioner,YES
+MG,Astor,Shine,Comfort & Convenience,Heater,YES
+MG,Astor,Shine,Comfort & Convenience,Height Adjustable Driver Seat,YES
+MG,Astor,Shine,Comfort & Convenience,Ventilated Seats,NO
+MG,Astor,Shine,Comfort & Convenience,Electric Adjustable Seats,NO
+MG,Astor,Shine,Comfort & Convenience,Automatic Climate Control,YES
+MG,Astor,Shine,Comfort & Convenience,Air Quality Control,YES
+MG,Astor,Shine,Comfort & Convenience,Accessory Power Outlet,YES
+MG,Astor,Shine,Comfort & Convenience,Adjustable Headrest,YES
+MG,Astor,Shine,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+MG,Astor,Shine,Comfort & Convenience,Rear AC Vents,YES
+MG,Astor,Shine,Comfort & Convenience,Cruise Control,YES
+MG,Astor,Shine,Comfort & Convenience,Parking Sensors,Rear
+MG,Astor,Shine,Comfort & Convenience,Real-Time Vehicle Tracking,NO
+MG,Astor,Shine,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+MG,Astor,Shine,Comfort & Convenience,KeyLess Entry,YES
+MG,Astor,Shine,Comfort & Convenience,Engine Start/Stop Button,YES
+MG,Astor,Shine,Comfort & Convenience,USB Charger,Front & Rear
+MG,Astor,Shine,Comfort & Convenience,Follow Me Home Headlamps,YES
+MG,Astor,Shine,Comfort & Convenience,Voice assisted sunroof,NO
+MG,Astor,Shine,Comfort & Convenience,Power Windows,Front & Rear
+MG,Astor,Shine,Comfort & Convenience,Cup Holders,Front & Rear
+MG,Astor,Shine,Interior,Leather Wrapped Steering Wheel,NO
+MG,Astor,Shine,Interior,Glove Box,YES
+MG,Astor,Shine,Interior,Digital Cluster,YES
+MG,Astor,Shine,Interior,Digital Cluster Size,3.5 inch
+MG,Astor,Shine,Interior,Upholstery,Fabric
+MG,Astor,Shine,Exterior,Adjustable Headlamps,YES
+MG,Astor,Shine,Exterior,Rain Sensing Wiper,NO
+MG,Astor,Shine,Exterior,Rear Window Wiper,YES
+MG,Astor,Shine,Exterior,Rear Window Washer,YES
+MG,Astor,Shine,Exterior,Rear Window Defogger,YES
+MG,Astor,Shine,Exterior,Wheel Covers,NO
+MG,Astor,Shine,Exterior,Alloy Wheels,YES
+MG,Astor,Shine,Exterior,Rear Spoiler,YES
+MG,Astor,Shine,Exterior,Outside Rear View Mirror Turn Indicators,YES
+MG,Astor,Shine,Exterior,Cornering Foglamps,YES
+MG,Astor,Shine,Exterior,Roof Rails,YES
+MG,Astor,Shine,Exterior,Fog Lights,Front & Rear
+MG,Astor,Shine,Exterior,Antenna,Shark Fin
+MG,Astor,Shine,Exterior,Sunroof,Panoramic
+MG,Astor,Shine,Exterior,Heated Outside Rear View Mirror,NO
+MG,Astor,Shine,Exterior,Outside Rear View Mirror (ORVM),Powered
+MG,Astor,Shine,Exterior,Tyre Size,215/55 R17
+MG,Astor,Shine,Exterior,Tyre Type,Radial Tubeless
+MG,Astor,Shine,Exterior,Wheel Size,17 Inch
+MG,Astor,Shine,Exterior,LED DRLs,YES
+MG,Astor,Shine,Exterior,LED Headlamps,YES
+MG,Astor,Shine,Exterior,LED Taillights,YES
+MG,Astor,Shine,Safety,Anti-lock Braking System (ABS),YES
+MG,Astor,Shine,Safety,Brake Assist,YES
+MG,Astor,Shine,Safety,Central Locking,YES
+MG,Astor,Shine,Safety,Child Safety Locks,YES
+MG,Astor,Shine,Safety,Anti-Theft Alarm,YES
+MG,Astor,Shine,Safety,No. of Airbags,2
+MG,Astor,Shine,Safety,Day & Night Rear View Mirror,YES
+MG,Astor,Shine,Safety,Electronic Brakeforce Distribution (EBD),YES
+MG,Astor,Shine,Safety,Traction Control,YES
+MG,Astor,Shine,Safety,Tyre Pressure Monitoring System (TPMS),NO
+MG,Astor,Shine,Safety,Engine Immobilizer,YES
+MG,Astor,Shine,Safety,Electronic Stability Control (ESC),YES
+MG,Astor,Shine,Safety,Rear Camera,With Guidedlines
+MG,Astor,Shine,Safety,Anti-Theft Device,YES
+MG,Astor,Shine,Safety,ISOFIX Child Seat Mounts,YES
+MG,Astor,Shine,Safety,Hill Descent Control,YES
+MG,Astor,Shine,Safety,Hill Assist,YES
+MG,Astor,Shine,Safety,360 View Camera,NO
+MG,Astor,Shine,Safety,Safety Airbags,Driver & Passenger
+MG,Astor,Shine,Entertainment & Communication,Radio,YES
+MG,Astor,Shine,Entertainment & Communication,Wireless Phone Charging,NO
+MG,Astor,Shine,Entertainment & Communication,Bluetooth Connectivity,YES
+MG,Astor,Shine,Entertainment & Communication,Wi-Fi Connectivity,NO
+MG,Astor,Shine,Entertainment & Communication,Touchscreen,YES
+MG,Astor,Shine,Entertainment & Communication,Touchscreen Size,10.1 inch
+MG,Astor,Shine,Entertainment & Communication,Android Auto,YES
+MG,Astor,Shine,Entertainment & Communication,Apple CarPlay,YES
+MG,Astor,Shine,Entertainment & Communication,No. of Speakers,6
+MG,Astor,Shine,Entertainment & Communication,Usb Ports,YES
+MG,Astor,Shine,Entertainment & Communication,Inbuilt Apps,NA
+MG,Astor,Shine,Entertainment & Communication,Tweeters,2
+MG,Astor,Shine,Entertainment & Communication,Speakers,Front & Rear
+MG,Astor,Shine,ADAS Feature,Forward Collision Warning,NO
+MG,Astor,Shine,ADAS Feature,Automatic Emergency Braking,NO
+MG,Astor,Shine,ADAS Feature,Blind Spot Collision Avoidance Assist,NO
+MG,Astor,Shine,ADAS Feature,Lane Departure Warning,NO
+MG,Astor,Shine,ADAS Feature,Lane Keep Assist,NO
+MG,Astor,Shine,ADAS Feature,Lane Departure Prevention Assist,NO
+MG,Astor,Shine,ADAS Feature,Adaptive Cruise Control,NO
+MG,Astor,Shine,ADAS Feature,Rear Cross Traffic Alert,NO
+MG,Astor,Shine,ADAS Feature,Blind Spot Monitor,NO
+MG,Astor,Shine,Advance Internet Feature,Live Location,NO
+MG,Astor,Shine,Advance Internet Feature,Remote Immobiliser,NO
+MG,Astor,Shine,Advance Internet Feature,Engine Start Alarm,NO
+MG,Astor,Shine,Advance Internet Feature,Remote Vehicle Status Check,NO
+MG,Astor,Shine,Advance Internet Feature,Digital Car Key,NO
+MG,Astor,Shine,Advance Internet Feature,Inbuilt Assistant,NO
+MG,Astor,Shine,Advance Internet Feature,Hinglish Voice Commands,NO
+MG,Astor,Shine,Advance Internet Feature,Navigation with Live Traffic,NO
+MG,Astor,Shine,Advance Internet Feature,E-Call & I-Call,NO
+MG,Astor,Shine,Advance Internet Feature,Over the Air (OTA) Updates,NO
+MG,Astor,Shine,Advance Internet Feature,Over Speeding Alert,NO
+MG,Astor,Shine,Advance Internet Feature,In Car Remote Control App,NO
+MG,Astor,Shine,Advance Internet Feature,Smartwatch App,NO
+MG,Astor,Shine,Advance Internet Feature,Remote AC On/Off,NO
+MG,Astor,Shine,Advance Internet Feature,Remote Door Lock/Unlock,NO
+MG,Astor,Shine,Advance Internet Feature,Geo-fence Alert,NO

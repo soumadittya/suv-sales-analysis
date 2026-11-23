@@ -1,0 +1,151 @@
+company,model,variant,category,feature_name,feature_details
+Maruti Suzuki,e Vitara,Zeta,Engine & Transmission,Battery Capacity,61 kWh
+Maruti Suzuki,e Vitara,Zeta,Engine & Transmission,Motor Power,128 kW
+Maruti Suzuki,e Vitara,Zeta,Engine & Transmission,Motor Type,3 Phase AC Permanent Magnet Synchronous
+Maruti Suzuki,e Vitara,Zeta,Engine & Transmission,Max Power,172bhp
+Maruti Suzuki,e Vitara,Zeta,Engine & Transmission,Max Torque,193Nm
+Maruti Suzuki,e Vitara,Zeta,Engine & Transmission,Range,543 km
+Maruti Suzuki,e Vitara,Zeta,Engine & Transmission,Battery Type,Lithium ion
+Maruti Suzuki,e Vitara,Zeta,Engine & Transmission,Charging Time (A.C),9.0 H (10-100%)
+Maruti Suzuki,e Vitara,Zeta,Engine & Transmission,Charging Time (D.C),45 Min (10-80%)
+Maruti Suzuki,e Vitara,Zeta,Engine & Transmission,Regenerative Braking,YES
+Maruti Suzuki,e Vitara,Zeta,Engine & Transmission,Charging Port,CCS-II
+Maruti Suzuki,e Vitara,Zeta,Engine & Transmission,Charging Options,7.4 kW AC
+Maruti Suzuki,e Vitara,Zeta,Engine & Transmission,Charger Type,CCS2 (DC)/Type 2 (AC)
+Maruti Suzuki,e Vitara,Zeta,Engine & Transmission,Charging Time (7.2 kW AC Fast Charger),9.0 H (10-100%)
+Maruti Suzuki,e Vitara,Zeta,Engine & Transmission,Charging Time (50 kW DC Fast Charger),45 Min (10-80%)
+Maruti Suzuki,e Vitara,Zeta,Engine & Transmission,Transmission Type,Automatic
+Maruti Suzuki,e Vitara,Zeta,Engine & Transmission,Gearbox,Single Speed
+Maruti Suzuki,e Vitara,Zeta,Engine & Transmission,Drive Type,2WD
+Maruti Suzuki,e Vitara,Zeta,Fuel & Performance,Fuel Type,Electric
+Maruti Suzuki,e Vitara,Zeta,Fuel & Performance,Emission Norm Compliance,ZEV
+Maruti Suzuki,e Vitara,Zeta,Charging,Charging Time,45 Min (10-80%)
+Maruti Suzuki,e Vitara,Zeta,Charging,Fast Charging,YES
+Maruti Suzuki,e Vitara,Zeta,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Maruti Suzuki,e Vitara,Zeta,"Suspension, Steering & Brakes",Rear Suspension,Multi-link suspension
+Maruti Suzuki,e Vitara,Zeta,"Suspension, Steering & Brakes",Steering Type,Electric
+Maruti Suzuki,e Vitara,Zeta,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Maruti Suzuki,e Vitara,Zeta,"Suspension, Steering & Brakes",Steering Gear Type,Electric
+Maruti Suzuki,e Vitara,Zeta,"Suspension, Steering & Brakes",Turning Radius,5.2 m
+Maruti Suzuki,e Vitara,Zeta,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Maruti Suzuki,e Vitara,Zeta,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Maruti Suzuki,e Vitara,Zeta,Dimensions & Capacity,Length,4275 mm
+Maruti Suzuki,e Vitara,Zeta,Dimensions & Capacity,Width,1800 mm
+Maruti Suzuki,e Vitara,Zeta,Dimensions & Capacity,Height,1640 mm
+Maruti Suzuki,e Vitara,Zeta,Dimensions & Capacity,Boot Space,310 Litres
+Maruti Suzuki,e Vitara,Zeta,Dimensions & Capacity,Seating Capacity,5
+Maruti Suzuki,e Vitara,Zeta,Dimensions & Capacity,Ground Clearance Unladen,185 mm
+Maruti Suzuki,e Vitara,Zeta,Dimensions & Capacity,Wheel Base,2700 mm
+Maruti Suzuki,e Vitara,Zeta,Dimensions & Capacity,Kerb Weight,1790 kg
+Maruti Suzuki,e Vitara,Zeta,Dimensions & Capacity,Gross Weight,2250 kg
+Maruti Suzuki,e Vitara,Zeta,Comfort & Convenience,Boot Opening,Electronic
+Maruti Suzuki,e Vitara,Zeta,Comfort & Convenience,Power Steering,YES
+Maruti Suzuki,e Vitara,Zeta,Comfort & Convenience,Air Conditioner,YES
+Maruti Suzuki,e Vitara,Zeta,Comfort & Convenience,Heater,YES
+Maruti Suzuki,e Vitara,Zeta,Comfort & Convenience,Adjustable Steering,Height & Reach
+Maruti Suzuki,e Vitara,Zeta,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Maruti Suzuki,e Vitara,Zeta,Comfort & Convenience,Ventilated Seats,NO
+Maruti Suzuki,e Vitara,Zeta,Comfort & Convenience,Electric Adjustable Seats,NO
+Maruti Suzuki,e Vitara,Zeta,Comfort & Convenience,Automatic Climate Control,YES
+Maruti Suzuki,e Vitara,Zeta,Comfort & Convenience,Air Quality Control,YES
+Maruti Suzuki,e Vitara,Zeta,Comfort & Convenience,Accessory Power Outlet,YES
+Maruti Suzuki,e Vitara,Zeta,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Maruti Suzuki,e Vitara,Zeta,Comfort & Convenience,Adjustable Headrest,YES
+Maruti Suzuki,e Vitara,Zeta,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Maruti Suzuki,e Vitara,Zeta,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Maruti Suzuki,e Vitara,Zeta,Comfort & Convenience,Rear AC Vents,YES
+Maruti Suzuki,e Vitara,Zeta,Comfort & Convenience,Cruise Control,NO
+Maruti Suzuki,e Vitara,Zeta,Comfort & Convenience,Parking Sensors,Front & Rear
+Maruti Suzuki,e Vitara,Zeta,Comfort & Convenience,Foldable Rear Seat,40:20:40 Split
+Maruti Suzuki,e Vitara,Zeta,Comfort & Convenience,KeyLess Entry,YES
+Maruti Suzuki,e Vitara,Zeta,Comfort & Convenience,Engine Start/Stop Button,YES
+Maruti Suzuki,e Vitara,Zeta,Comfort & Convenience,Voice Commands,YES
+Maruti Suzuki,e Vitara,Zeta,Comfort & Convenience,USB Charger,Front & Rear
+Maruti Suzuki,e Vitara,Zeta,Comfort & Convenience,Central Console Armrest,With Storage
+Maruti Suzuki,e Vitara,Zeta,Comfort & Convenience,Drive Modes,3
+Maruti Suzuki,e Vitara,Zeta,Comfort & Convenience,Glove Box light,YES
+Maruti Suzuki,e Vitara,Zeta,Comfort & Convenience,Follow Me Home Headlamps,YES
+Maruti Suzuki,e Vitara,Zeta,Comfort & Convenience,Additional Features,Snow Mode Switch
+Maruti Suzuki,e Vitara,Zeta,Comfort & Convenience,Drive Mode Types,ECO | NORMAL | SPORTS
+Maruti Suzuki,e Vitara,Zeta,Comfort & Convenience,Power Windows,Front & Rear
+Maruti Suzuki,e Vitara,Zeta,Comfort & Convenience,Cup Holders,Front & Rear
+Maruti Suzuki,e Vitara,Zeta,Interior,Leather Wrapped Steering Wheel,YES
+Maruti Suzuki,e Vitara,Zeta,Interior,Glove Box,YES
+Maruti Suzuki,e Vitara,Zeta,Interior,Lighting,"Ambient light, Footwell Lamp"
+Maruti Suzuki,e Vitara,Zeta,Interior,Additional Features,Parcel Tray
+Maruti Suzuki,e Vitara,Zeta,Interior,Digital Cluster,YES
+Maruti Suzuki,e Vitara,Zeta,Interior,Digital Cluster Size,10.25
+Maruti Suzuki,e Vitara,Zeta,Interior,Upholstery,Fabric
+Maruti Suzuki,e Vitara,Zeta,Exterior,Adjustable Headlamps,YES
+Maruti Suzuki,e Vitara,Zeta,Exterior,Rain Sensing Wiper,YES
+Maruti Suzuki,e Vitara,Zeta,Exterior,Rear Window Wiper,YES
+Maruti Suzuki,e Vitara,Zeta,Exterior,Rear Window Washer,YES
+Maruti Suzuki,e Vitara,Zeta,Exterior,Rear Window Defogger,YES
+Maruti Suzuki,e Vitara,Zeta,Exterior,Wheel Covers,NO
+Maruti Suzuki,e Vitara,Zeta,Exterior,Alloy Wheels,YES
+Maruti Suzuki,e Vitara,Zeta,Exterior,Rear Spoiler,YES
+Maruti Suzuki,e Vitara,Zeta,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Maruti Suzuki,e Vitara,Zeta,Exterior,Projector Headlamps,YES
+Maruti Suzuki,e Vitara,Zeta,Exterior,Automatic Headlamps,YES
+Maruti Suzuki,e Vitara,Zeta,Exterior,Antenna,Shark Fin
+Maruti Suzuki,e Vitara,Zeta,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Maruti Suzuki,e Vitara,Zeta,Exterior,Tyre Size,225/55 R18
+Maruti Suzuki,e Vitara,Zeta,Exterior,Tyre Type,Tubeless Radial
+Maruti Suzuki,e Vitara,Zeta,Exterior,LED DRLs,YES
+Maruti Suzuki,e Vitara,Zeta,Exterior,LED Headlamps,YES
+Maruti Suzuki,e Vitara,Zeta,Exterior,LED Taillights,YES
+Maruti Suzuki,e Vitara,Zeta,Exterior,LED Fog Lamps,NO
+Maruti Suzuki,e Vitara,Zeta,Safety,Anti-lock Braking System (ABS),YES
+Maruti Suzuki,e Vitara,Zeta,Safety,Brake Assist,YES
+Maruti Suzuki,e Vitara,Zeta,Safety,Central Locking,YES
+Maruti Suzuki,e Vitara,Zeta,Safety,Child Safety Locks,YES
+Maruti Suzuki,e Vitara,Zeta,Safety,Anti-Theft Alarm,YES
+Maruti Suzuki,e Vitara,Zeta,Safety,No. of Airbags,7
+Maruti Suzuki,e Vitara,Zeta,Safety,Driver Airbag,YES
+Maruti Suzuki,e Vitara,Zeta,Safety,Passenger Airbag,YES
+Maruti Suzuki,e Vitara,Zeta,Safety,Side Airbag,YES
+Maruti Suzuki,e Vitara,Zeta,Safety,Day & Night Rear View Mirror,YES
+Maruti Suzuki,e Vitara,Zeta,Safety,Electronic Brakeforce Distribution (EBD),YES
+Maruti Suzuki,e Vitara,Zeta,Safety,Traction Control,YES
+Maruti Suzuki,e Vitara,Zeta,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Maruti Suzuki,e Vitara,Zeta,Safety,Engine Immobilizer,YES
+Maruti Suzuki,e Vitara,Zeta,Safety,Electronic Stability Control (ESC),YES
+Maruti Suzuki,e Vitara,Zeta,Safety,Rear Camera,With Guidedlines
+Maruti Suzuki,e Vitara,Zeta,Safety,ISOFIX Child Seat Mounts,YES
+Maruti Suzuki,e Vitara,Zeta,Safety,Hill Assist,YES
+Maruti Suzuki,e Vitara,Zeta,Safety,360 View Camera,NO
+Maruti Suzuki,e Vitara,Zeta,Entertainment & Communication,Radio,YES
+Maruti Suzuki,e Vitara,Zeta,Entertainment & Communication,Wireless Phone Charging,YES
+Maruti Suzuki,e Vitara,Zeta,Entertainment & Communication,Bluetooth Connectivity,YES
+Maruti Suzuki,e Vitara,Zeta,Entertainment & Communication,Touchscreen,YES
+Maruti Suzuki,e Vitara,Zeta,Entertainment & Communication,Touchscreen Size,10.1 inch
+Maruti Suzuki,e Vitara,Zeta,Entertainment & Communication,Android Auto,YES
+Maruti Suzuki,e Vitara,Zeta,Entertainment & Communication,Apple CarPlay,YES
+Maruti Suzuki,e Vitara,Zeta,Entertainment & Communication,No. of Speakers,4
+Maruti Suzuki,e Vitara,Zeta,Entertainment & Communication,Usb Ports,YES
+Maruti Suzuki,e Vitara,Zeta,Entertainment & Communication,Additional Features,Wireless Apple CarPlay™ /Android Auto™ Connectivity
+Maruti Suzuki,e Vitara,Zeta,Entertainment & Communication,Speakers,Front & Rear
+Maruti Suzuki,e Vitara,Zeta,ADAS Feature,Forward Collision Warning,NO
+Maruti Suzuki,e Vitara,Zeta,ADAS Feature,Automatic Emergency Braking,NO
+Maruti Suzuki,e Vitara,Zeta,ADAS Feature,Lane Keep Assist,NO
+Maruti Suzuki,e Vitara,Zeta,ADAS Feature,Lane Departure Prevention Assist,NO
+Maruti Suzuki,e Vitara,Zeta,ADAS Feature,Adaptive Cruise Control,NO
+Maruti Suzuki,e Vitara,Zeta,ADAS Feature,Adaptive High Beam Assist,NO
+Maruti Suzuki,e Vitara,Zeta,ADAS Feature,Rear Cross Traffic Alert,NO
+Maruti Suzuki,e Vitara,Zeta,ADAS Feature,Blind Spot Monitor,NO
+Maruti Suzuki,e Vitara,Zeta,Advance Internet Feature,Live Location,YES
+Maruti Suzuki,e Vitara,Zeta,Advance Internet Feature,Remote Immobiliser,YES
+Maruti Suzuki,e Vitara,Zeta,Advance Internet Feature,Remote Vehicle Status Check,YES
+Maruti Suzuki,e Vitara,Zeta,Advance Internet Feature,E-Call & I-Call,YES
+Maruti Suzuki,e Vitara,Zeta,Advance Internet Feature,Google / Alexa Connectivity,YES
+Maruti Suzuki,e Vitara,Zeta,Advance Internet Feature,SOS Button,YES
+Maruti Suzuki,e Vitara,Zeta,Advance Internet Feature,Over Speeding Alert,YES
+Maruti Suzuki,e Vitara,Zeta,Advance Internet Feature,Tow Away Alert,YES
+Maruti Suzuki,e Vitara,Zeta,Advance Internet Feature,In Car Remote Control App,YES
+Maruti Suzuki,e Vitara,Zeta,Advance Internet Feature,Smartwatch App,YES
+Maruti Suzuki,e Vitara,Zeta,Advance Internet Feature,Valet Mode,YES
+Maruti Suzuki,e Vitara,Zeta,Advance Internet Feature,Remote AC On/Off,YES
+Maruti Suzuki,e Vitara,Zeta,Advance Internet Feature,Remote Door Lock/Unlock,YES
+Maruti Suzuki,e Vitara,Zeta,Advance Internet Feature,Remote Vehicle Ignition Start/Stop,YES
+Maruti Suzuki,e Vitara,Zeta,Advance Internet Feature,SOS / Emergency Assistance,YES
+Maruti Suzuki,e Vitara,Zeta,Advance Internet Feature,Geo-fence Alert,YES

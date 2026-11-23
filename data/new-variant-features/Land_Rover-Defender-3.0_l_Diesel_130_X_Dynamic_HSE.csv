@@ -1,0 +1,142 @@
+company,model,variant,category,feature_name,feature_details
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Engine & Transmission,Engine Type,D350 Diesel
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Engine & Transmission,Displacement,2997 cc
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Engine & Transmission,Max Power,345bhp@3750rpm
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Engine & Transmission,Max Torque,700Nm@1500-2500rpm
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Engine & Transmission,No. of Cylinders,6
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Engine & Transmission,Valves Per Cylinder,4
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Engine & Transmission,Turbo Charger,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Engine & Transmission,Transmission Type,Automatic
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Engine & Transmission,Gearbox,8-Speed
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Engine & Transmission,Drive Type,AWD
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Fuel & Performance,Fuel Type,Diesel
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Fuel & Performance,Diesel Mileage ARAI,10.8 kmpl
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Fuel & Performance,Top Speed,191 kmph
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Fuel & Performance,Acceleration,6.8 s
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Fuel & Performance,0-100kmph,6.8 s
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,"Suspension, Steering & Brakes",Front Suspension,Air suspension
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,"Suspension, Steering & Brakes",Rear Suspension,Air suspension
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,"Suspension, Steering & Brakes",Steering Type,Electric
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,"Suspension, Steering & Brakes",Steering Gear Type,Rack & Pinion
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,"Suspension, Steering & Brakes",Rear Brake Type,Ventilated Disc
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Dimensions & Capacity,Length,5358 mm
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Dimensions & Capacity,Width,2008 mm
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Dimensions & Capacity,Height,1970 mm
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Dimensions & Capacity,Seating Capacity,7
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Dimensions & Capacity,Wheel Base,3022 mm
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Dimensions & Capacity,Gross Weight,3380 kg
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Dimensions & Capacity,Reported Boot Space,499 Litres
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Comfort & Convenience,Boot Opening,Powered
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Comfort & Convenience,Power Steering,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Comfort & Convenience,Air Conditioner,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Comfort & Convenience,Heater,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Comfort & Convenience,Adjustable Steering,Height & Reach
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Comfort & Convenience,Ventilated Seats,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Comfort & Convenience,Electric Adjustable Seats,Front
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Comfort & Convenience,Automatic Climate Control,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Comfort & Convenience,Air Quality Control,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Comfort & Convenience,Accessory Power Outlet,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Comfort & Convenience,Adjustable Headrest,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Comfort & Convenience,Rear AC Vents,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Comfort & Convenience,Cruise Control,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Comfort & Convenience,Parking Sensors,Front & Rear
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Comfort & Convenience,KeyLess Entry,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Comfort & Convenience,Engine Start/Stop Button,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Comfort & Convenience,Voice Commands,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Comfort & Convenience,Paddle Shifters,NO
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Comfort & Convenience,USB Charger,Front & Rear
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Comfort & Convenience,Follow Me Home Headlamps,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Comfort & Convenience,Power Windows,Front & Rear
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Comfort & Convenience,Cup Holders,Front & Rear
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Comfort & Convenience,Heated Seats,Front Only
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Interior,Glove Box,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Interior,Lighting,"Ambient light, Footwell Lamp"
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Interior,Digital Cluster,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Interior,Upholstery,Leather
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Interior,Ambient Light Colour (numbers),64
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Exterior,Adjustable Headlamps,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Exterior,Rain Sensing Wiper,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Exterior,Rear Window Wiper,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Exterior,Rear Window Washer,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Exterior,Rear Window Defogger,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Exterior,Wheel Covers,NO
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Exterior,Alloy Wheels,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Exterior,Roof Rails,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Exterior,Automatic Headlamps,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Exterior,Fog Lights,Front & Rear
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Exterior,Antenna,Shark Fin
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Exterior,Sunroof,Panoramic
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Exterior,Heated Outside Rear View Mirror,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Exterior,Tyre Type,Radial Tubeless
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Exterior,LED DRLs,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Exterior,LED Headlamps,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Exterior,LED Taillights,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Exterior,LED Fog Lamps,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Safety,Anti-lock Braking System (ABS),YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Safety,Brake Assist,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Safety,Central Locking,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Safety,Child Safety Locks,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Safety,Anti-Theft Alarm,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Safety,No. of Airbags,6
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Safety,Driver Airbag,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Safety,Passenger Airbag,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Safety,Side Airbag,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Safety,Side Airbag-Rear,NO
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Safety,Day & Night Rear View Mirror,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Safety,Electronic Brakeforce Distribution (EBD),YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Safety,Traction Control,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Safety,Engine Immobilizer,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Safety,Electronic Stability Control (ESC),YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Safety,Rear Camera,With Guidedlines
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Safety,Anti-Pinch Power Windows,All Windows
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Safety,ISOFIX Child Seat Mounts,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Safety,Hill Descent Control,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Safety,Hill Assist,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Safety,360 View Camera,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Entertainment & Communication,Radio,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Entertainment & Communication,Wireless Phone Charging,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Entertainment & Communication,Bluetooth Connectivity,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Entertainment & Communication,Touchscreen,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Entertainment & Communication,Touchscreen Size,13.1 inch
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Entertainment & Communication,Android Auto,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Entertainment & Communication,Apple CarPlay,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Entertainment & Communication,No. of Speakers,10
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Entertainment & Communication,Usb Ports,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Entertainment & Communication,Subwoofer,1
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Entertainment & Communication,Additional Features,Meridian Sound System
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Entertainment & Communication,Speakers,Front & Rear
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,ADAS Feature,Forward Collision Warning,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,ADAS Feature,Blind Spot Collision Avoidance Assist,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,ADAS Feature,Lane Departure Warning,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,ADAS Feature,Lane Departure Prevention Assist,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,ADAS Feature,Road Departure Mitigation System,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,ADAS Feature,Driver Attention Warning,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,ADAS Feature,Adaptive Cruise Control,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,ADAS Feature,Leading Vehicle Departure Alert,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,ADAS Feature,Adaptive High Beam Assist,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,ADAS Feature,Rear Cross Traffic Alert,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,ADAS Feature,Rear Cross Traffic Collision-Avoidance Assist,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,ADAS Feature,Blind Spot Monitor,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Advance Internet Feature,Remote Vehicle Status Check,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Advance Internet Feature,Navigation with Live Traffic,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Advance Internet Feature,Live Weather,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Advance Internet Feature,E-Call & I-Call,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Advance Internet Feature,Crash Notification,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Advance Internet Feature,SOS Button,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Advance Internet Feature,RSA,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Advance Internet Feature,Over Speeding Alert,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Advance Internet Feature,Tow Away Alert,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Advance Internet Feature,In Car Remote Control App,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Advance Internet Feature,Valet Mode,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Advance Internet Feature,Remote AC On/Off,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Advance Internet Feature,Remote Door Lock/Unlock,YES
+Land Rover,Defender,3.0 l Diesel 130 X-Dynamic HSE,Advance Internet Feature,SOS / Emergency Assistance,YES

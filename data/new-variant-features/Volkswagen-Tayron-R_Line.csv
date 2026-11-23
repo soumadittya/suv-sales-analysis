@@ -1,0 +1,131 @@
+company,model,variant,category,feature_name,feature_details
+Volkswagen,Tayron,R-Line,Engine & Transmission,Engine Type,2.0L TSI Turbocharged
+Volkswagen,Tayron,R-Line,Engine & Transmission,Displacement,1984 cc
+Volkswagen,Tayron,R-Line,Engine & Transmission,Max Power,201.2bhp@4500-6000rpm
+Volkswagen,Tayron,R-Line,Engine & Transmission,Max Torque,320Nm@1500-4400rpm
+Volkswagen,Tayron,R-Line,Engine & Transmission,No. of Cylinders,4
+Volkswagen,Tayron,R-Line,Engine & Transmission,Valves Per Cylinder,4
+Volkswagen,Tayron,R-Line,Engine & Transmission,Turbo Charger,YES
+Volkswagen,Tayron,R-Line,Engine & Transmission,Transmission Type,Automatic
+Volkswagen,Tayron,R-Line,Engine & Transmission,Gearbox,7-speed DSG
+Volkswagen,Tayron,R-Line,Engine & Transmission,Drive Type,AWD
+Volkswagen,Tayron,R-Line,Fuel & Performance,Fuel Type,Petrol
+Volkswagen,Tayron,R-Line,Fuel & Performance,Petrol Fuel Tank Capacity,61 Litres
+Volkswagen,Tayron,R-Line,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Volkswagen,Tayron,R-Line,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Volkswagen,Tayron,R-Line,"Suspension, Steering & Brakes",Rear Suspension,Multi-link suspension
+Volkswagen,Tayron,R-Line,"Suspension, Steering & Brakes",Steering Type,Electric
+Volkswagen,Tayron,R-Line,"Suspension, Steering & Brakes",Steering Gear Type,Rack & Pinion
+Volkswagen,Tayron,R-Line,"Suspension, Steering & Brakes",Turning Radius,6.05 m
+Volkswagen,Tayron,R-Line,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Volkswagen,Tayron,R-Line,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Volkswagen,Tayron,R-Line,"Suspension, Steering & Brakes",Boot Space Rear Seat Folding,1905 Litres
+Volkswagen,Tayron,R-Line,Dimensions & Capacity,Length,4792 mm
+Volkswagen,Tayron,R-Line,Dimensions & Capacity,Width,1866 mm
+Volkswagen,Tayron,R-Line,Dimensions & Capacity,Height,1665 mm
+Volkswagen,Tayron,R-Line,Dimensions & Capacity,Boot Space,345 Litres
+Volkswagen,Tayron,R-Line,Dimensions & Capacity,Seating Capacity,7
+Volkswagen,Tayron,R-Line,Dimensions & Capacity,Wheel Base,2789 mm
+Volkswagen,Tayron,R-Line,Dimensions & Capacity,Kerb Weight,1864 kg
+Volkswagen,Tayron,R-Line,Dimensions & Capacity,Gross Weight,2510 kg
+Volkswagen,Tayron,R-Line,Comfort & Convenience,Boot Opening,Hands-Free
+Volkswagen,Tayron,R-Line,Comfort & Convenience,Power Steering,YES
+Volkswagen,Tayron,R-Line,Comfort & Convenience,Air Conditioner,YES
+Volkswagen,Tayron,R-Line,Comfort & Convenience,Heater,YES
+Volkswagen,Tayron,R-Line,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Volkswagen,Tayron,R-Line,Comfort & Convenience,Ventilated Seats,YES
+Volkswagen,Tayron,R-Line,Comfort & Convenience,Electric Adjustable Seats,Front
+Volkswagen,Tayron,R-Line,Comfort & Convenience,Automatic Climate Control,YES
+Volkswagen,Tayron,R-Line,Comfort & Convenience,Air Quality Control,YES
+Volkswagen,Tayron,R-Line,Comfort & Convenience,Accessory Power Outlet,YES
+Volkswagen,Tayron,R-Line,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Volkswagen,Tayron,R-Line,Comfort & Convenience,Adjustable Headrest,YES
+Volkswagen,Tayron,R-Line,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Volkswagen,Tayron,R-Line,Comfort & Convenience,Rear AC Vents,YES
+Volkswagen,Tayron,R-Line,Comfort & Convenience,Lumbar Support,YES
+Volkswagen,Tayron,R-Line,Comfort & Convenience,Cruise Control,YES
+Volkswagen,Tayron,R-Line,Comfort & Convenience,Parking Sensors,Front & Rear
+Volkswagen,Tayron,R-Line,Comfort & Convenience,Foldable Rear Seat,40:20:40 Split
+Volkswagen,Tayron,R-Line,Comfort & Convenience,KeyLess Entry,YES
+Volkswagen,Tayron,R-Line,Comfort & Convenience,Engine Start/Stop Button,YES
+Volkswagen,Tayron,R-Line,Comfort & Convenience,Voice Commands,YES
+Volkswagen,Tayron,R-Line,Comfort & Convenience,Paddle Shifters,YES
+Volkswagen,Tayron,R-Line,Comfort & Convenience,USB Charger,Front & Rear
+Volkswagen,Tayron,R-Line,Comfort & Convenience,Central Console Armrest,With Storage
+Volkswagen,Tayron,R-Line,Comfort & Convenience,Drive Modes,6
+Volkswagen,Tayron,R-Line,Comfort & Convenience,Drive Mode Types,"Eco, Comfort, Sport, Individual, Offroad, Snow driving modes"
+Volkswagen,Tayron,R-Line,Comfort & Convenience,Power Windows,Front & Rear
+Volkswagen,Tayron,R-Line,Comfort & Convenience,Heated Seats,Front Only
+Volkswagen,Tayron,R-Line,Interior,Leather Wrapped Steering Wheel,YES
+Volkswagen,Tayron,R-Line,Interior,Glove Box,YES
+Volkswagen,Tayron,R-Line,Interior,Lighting,"Ambient light, Footwell Lamp"
+Volkswagen,Tayron,R-Line,Interior,Digital Cluster,YES
+Volkswagen,Tayron,R-Line,Interior,Digital Cluster Size,10.25
+Volkswagen,Tayron,R-Line,Interior,Upholstery,Leatherette
+Volkswagen,Tayron,R-Line,Interior,Ambient Light Colour (numbers),30
+Volkswagen,Tayron,R-Line,Exterior,Adjustable Headlamps,YES
+Volkswagen,Tayron,R-Line,Exterior,Rain Sensing Wiper,YES
+Volkswagen,Tayron,R-Line,Exterior,Wheel Covers,NO
+Volkswagen,Tayron,R-Line,Exterior,Alloy Wheels,YES
+Volkswagen,Tayron,R-Line,Exterior,Rear Spoiler,YES
+Volkswagen,Tayron,R-Line,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Volkswagen,Tayron,R-Line,Exterior,Cornering Headlamps,YES
+Volkswagen,Tayron,R-Line,Exterior,Roof Rails,YES
+Volkswagen,Tayron,R-Line,Exterior,Automatic Headlamps,YES
+Volkswagen,Tayron,R-Line,Exterior,Fog Lights,Rear
+Volkswagen,Tayron,R-Line,Exterior,Sunroof,Panoramic
+Volkswagen,Tayron,R-Line,Exterior,Heated Outside Rear View Mirror,YES
+Volkswagen,Tayron,R-Line,Exterior,Puddle Lamps,YES
+Volkswagen,Tayron,R-Line,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Volkswagen,Tayron,R-Line,Exterior,Tyre Size,255/45 R19
+Volkswagen,Tayron,R-Line,Exterior,Tyre Type,Radial Tubeless
+Volkswagen,Tayron,R-Line,Exterior,LED DRLs,YES
+Volkswagen,Tayron,R-Line,Exterior,LED Headlamps,YES
+Volkswagen,Tayron,R-Line,Exterior,LED Taillights,YES
+Volkswagen,Tayron,R-Line,Exterior,LED Fog Lamps,YES
+Volkswagen,Tayron,R-Line,Safety,Anti-lock Braking System (ABS),YES
+Volkswagen,Tayron,R-Line,Safety,Brake Assist,YES
+Volkswagen,Tayron,R-Line,Safety,Central Locking,YES
+Volkswagen,Tayron,R-Line,Safety,Child Safety Locks,YES
+Volkswagen,Tayron,R-Line,Safety,Anti-Theft Alarm,YES
+Volkswagen,Tayron,R-Line,Safety,No. of Airbags,9
+Volkswagen,Tayron,R-Line,Safety,Driver Airbag,YES
+Volkswagen,Tayron,R-Line,Safety,Passenger Airbag,YES
+Volkswagen,Tayron,R-Line,Safety,Side Airbag,YES
+Volkswagen,Tayron,R-Line,Safety,Side Airbag-Rear,YES
+Volkswagen,Tayron,R-Line,Safety,Day & Night Rear View Mirror,YES
+Volkswagen,Tayron,R-Line,Safety,Electronic Brakeforce Distribution (EBD),YES
+Volkswagen,Tayron,R-Line,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Volkswagen,Tayron,R-Line,Safety,Electronic Stability Control (ESC),YES
+Volkswagen,Tayron,R-Line,Safety,Rear Camera,With Guidedlines
+Volkswagen,Tayron,R-Line,Safety,Anti-Pinch Power Windows,All Windows
+Volkswagen,Tayron,R-Line,Safety,ISOFIX Child Seat Mounts,YES
+Volkswagen,Tayron,R-Line,Safety,Heads-Up Display (HUD),YES
+Volkswagen,Tayron,R-Line,Safety,Hill Descent Control,YES
+Volkswagen,Tayron,R-Line,Safety,Hill Assist,YES
+Volkswagen,Tayron,R-Line,Safety,360 View Camera,YES
+Volkswagen,Tayron,R-Line,Safety,EURO NCAP Safety Rating,5 Star
+Volkswagen,Tayron,R-Line,Entertainment & Communication,Radio,YES
+Volkswagen,Tayron,R-Line,Entertainment & Communication,Wireless Phone Charging,YES
+Volkswagen,Tayron,R-Line,Entertainment & Communication,Bluetooth Connectivity,YES
+Volkswagen,Tayron,R-Line,Entertainment & Communication,Touchscreen,YES
+Volkswagen,Tayron,R-Line,Entertainment & Communication,Touchscreen Size,15 inch
+Volkswagen,Tayron,R-Line,Entertainment & Communication,Android Auto,Wireless
+Volkswagen,Tayron,R-Line,Entertainment & Communication,Apple CarPlay,YES
+Volkswagen,Tayron,R-Line,Entertainment & Communication,No. of Speakers,11
+Volkswagen,Tayron,R-Line,Entertainment & Communication,Usb Ports,YES
+Volkswagen,Tayron,R-Line,Entertainment & Communication,Additional Features,Immersive sound experience by 'Harman Kardon' with 11 speakers
+Volkswagen,Tayron,R-Line,Entertainment & Communication,Speakers,Front & Rear
+Volkswagen,Tayron,R-Line,ADAS Feature,Automatic Emergency Braking,YES
+Volkswagen,Tayron,R-Line,ADAS Feature,Lane Keep Assist,YES
+Volkswagen,Tayron,R-Line,ADAS Feature,Driver Attention Warning,YES
+Volkswagen,Tayron,R-Line,ADAS Feature,Adaptive Cruise Control,YES
+Volkswagen,Tayron,R-Line,ADAS Feature,Adaptive High Beam Assist,YES
+Volkswagen,Tayron,R-Line,ADAS Feature,Rear Cross Traffic Alert,YES
+Volkswagen,Tayron,R-Line,ADAS Feature,Blind Spot Monitor,YES
+Volkswagen,Tayron,R-Line,Advance Internet Feature,Live Location,YES
+Volkswagen,Tayron,R-Line,Advance Internet Feature,Navigation with Live Traffic,YES
+Volkswagen,Tayron,R-Line,Advance Internet Feature,E-Call & I-Call,YES
+Volkswagen,Tayron,R-Line,Advance Internet Feature,Over Speeding Alert,YES
+Volkswagen,Tayron,R-Line,Advance Internet Feature,SOS / Emergency Assistance,YES
+Volkswagen,Tayron,R-Line,Advance Internet Feature,Inbuilt APPs,My Volkswagen Connect Plus

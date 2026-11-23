@@ -1,0 +1,65 @@
+company,model,variant,category,feature_name,feature_details
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Engine & Transmission,Engine Type,3.0 L 6-cylinder
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Engine & Transmission,Displacement,2998 cc
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Engine & Transmission,Max Power,394bhp@5500-6500rpm
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Engine & Transmission,Max Torque,550Nm@2000-5000rpm
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Engine & Transmission,No. of Cylinders,6
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Engine & Transmission,Valves Per Cylinder,4
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Engine & Transmission,Transmission Type,Automatic
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Engine & Transmission,Gearbox,8-Speed
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Engine & Transmission,Drive Type,AWD
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Fuel & Performance,Fuel Type,Petrol
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Fuel & Performance,Emission Norm Compliance,BS VI
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Fuel & Performance,Top Speed,242 kmph
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Fuel & Performance,Acceleration,5.5
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Fuel & Performance,0-100kmph,5.5
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,"Suspension, Steering & Brakes",Front Suspension,Air suspension
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,"Suspension, Steering & Brakes",Rear Suspension,Air suspension
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,"Suspension, Steering & Brakes",Turning Radius,12.53 m
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Dimensions & Capacity,Length,4946 mm
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Dimensions & Capacity,Width,2209 mm
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Dimensions & Capacity,Height,1820 mm
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Dimensions & Capacity,Boot Space,647 Litres
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Dimensions & Capacity,Seating Capacity,5
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Dimensions & Capacity,Wheel Base,2997 mm
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Dimensions & Capacity,Gross Weight,3220 kg
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Comfort & Convenience,Power Steering,YES
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Comfort & Convenience,Air Conditioner,YES
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Comfort & Convenience,Heater,YES
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Comfort & Convenience,Ventilated Seats,YES
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Comfort & Convenience,Electric Adjustable Seats,Front & Rear
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Comfort & Convenience,Air Quality Control,YES
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Comfort & Convenience,Accessory Power Outlet,YES
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Comfort & Convenience,Adjustable Headrest,YES
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Comfort & Convenience,Rear AC Vents,YES
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Comfort & Convenience,Lumbar Support,YES
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Comfort & Convenience,Active noise cancellation,YES
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Comfort & Convenience,Cruise Control,YES
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Comfort & Convenience,Parking Sensors,Front & Rear
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Comfort & Convenience,Real-Time Vehicle Tracking,YES
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Comfort & Convenience,Engine Start/Stop Button,YES
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Comfort & Convenience,Voice Commands,YES
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Comfort & Convenience,USB Charger,Front & Rear
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Comfort & Convenience,Central Console Armrest,YES
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Comfort & Convenience,Gear Shift Indicator,YES
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Interior,Leather Wrapped Steering Wheel,YES
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Interior,Leather wrap gear-shift selector,YES
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Exterior,Adjustable Headlamps,YES
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Exterior,Rain Sensing Wiper,YES
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Exterior,Rear Window Wiper,YES
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Exterior,Rear Window Washer,YES
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Exterior,Rear Window Defogger,YES
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Exterior,Alloy Wheels,YES
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Exterior,Rear Spoiler,YES
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Exterior,Cornering Foglamps,YES
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Exterior,Roof Rails,YES
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Exterior,Automatic Headlamps,YES
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Exterior,Sun Roof,YES
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Exterior,LED DRLs,YES
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Exterior,LED Headlamps,YES
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Exterior,LED Taillights,YES
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Safety,Driver Airbag,YES
+Land Rover,Range Rover Sport,3.0l Autobiography Petrol,Safety,Day & Night Rear View Mirror,YES

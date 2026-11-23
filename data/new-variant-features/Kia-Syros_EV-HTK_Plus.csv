@@ -1,0 +1,117 @@
+company,model,variant,category,feature_name,feature_details
+Kia,Syros EV,HTK Plus,Engine & Transmission,Battery Capacity,42 kWh
+Kia,Syros EV,HTK Plus,Engine & Transmission,Motor Power,99 kW
+Kia,Syros EV,HTK Plus,Engine & Transmission,Motor Type,Permanent Magnet Synchronous Motor
+Kia,Syros EV,HTK Plus,Engine & Transmission,Max Power,133bhp
+Kia,Syros EV,HTK Plus,Engine & Transmission,Max Torque,255Nm
+Kia,Syros EV,HTK Plus,Engine & Transmission,Range,443 km
+Kia,Syros EV,HTK Plus,Engine & Transmission,Battery Type,Lithium-ion
+Kia,Syros EV,HTK Plus,Engine & Transmission,Charging Time (A.C),4H- 11kW (10-100%)
+Kia,Syros EV,HTK Plus,Engine & Transmission,Charging Time (D.C),39 Min-100kW (10%-80%)
+Kia,Syros EV,HTK Plus,Engine & Transmission,Charging Port,CCS-II
+Kia,Syros EV,HTK Plus,Engine & Transmission,Transmission Type,Automatic
+Kia,Syros EV,HTK Plus,Engine & Transmission,Gearbox,1-Speed
+Kia,Syros EV,HTK Plus,Engine & Transmission,Drive Type,FWD
+Kia,Syros EV,HTK Plus,Fuel & Performance,Fuel Type,Electric
+Kia,Syros EV,HTK Plus,Fuel & Performance,Emission Norm Compliance,ZEV
+Kia,Syros EV,HTK Plus,Charging,Fast Charging,YES
+Kia,Syros EV,HTK Plus,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Kia,Syros EV,HTK Plus,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Kia,Syros EV,HTK Plus,"Suspension, Steering & Brakes",Steering Type,Electric
+Kia,Syros EV,HTK Plus,"Suspension, Steering & Brakes",Steering Column,Tilt
+Kia,Syros EV,HTK Plus,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Kia,Syros EV,HTK Plus,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Kia,Syros EV,HTK Plus,Dimensions & Capacity,Length,3995 mm
+Kia,Syros EV,HTK Plus,Dimensions & Capacity,Width,1805 mm
+Kia,Syros EV,HTK Plus,Dimensions & Capacity,Height,1670 mm
+Kia,Syros EV,HTK Plus,Dimensions & Capacity,Seating Capacity,5
+Kia,Syros EV,HTK Plus,Dimensions & Capacity,Wheel Base,2550 mm
+Kia,Syros EV,HTK Plus,Comfort & Convenience,Power Steering,YES
+Kia,Syros EV,HTK Plus,Comfort & Convenience,Air Conditioner,YES
+Kia,Syros EV,HTK Plus,Comfort & Convenience,Heater,YES
+Kia,Syros EV,HTK Plus,Comfort & Convenience,Adjustable Steering,Height only
+Kia,Syros EV,HTK Plus,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Kia,Syros EV,HTK Plus,Comfort & Convenience,Ventilated Seats,NO
+Kia,Syros EV,HTK Plus,Comfort & Convenience,Electric Adjustable Seats,NO
+Kia,Syros EV,HTK Plus,Comfort & Convenience,Automatic Climate Control,YES
+Kia,Syros EV,HTK Plus,Comfort & Convenience,Accessory Power Outlet,YES
+Kia,Syros EV,HTK Plus,Comfort & Convenience,Adjustable Headrest,YES
+Kia,Syros EV,HTK Plus,Comfort & Convenience,Rear Seat Centre Arm Rest,NO
+Kia,Syros EV,HTK Plus,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Kia,Syros EV,HTK Plus,Comfort & Convenience,Rear AC Vents,YES
+Kia,Syros EV,HTK Plus,Comfort & Convenience,Cruise Control,YES
+Kia,Syros EV,HTK Plus,Comfort & Convenience,Parking Sensors,Rear
+Kia,Syros EV,HTK Plus,Comfort & Convenience,KeyLess Entry,YES
+Kia,Syros EV,HTK Plus,Comfort & Convenience,Engine Start/Stop Button,YES
+Kia,Syros EV,HTK Plus,Comfort & Convenience,Voice Commands,YES
+Kia,Syros EV,HTK Plus,Comfort & Convenience,Paddle Shifters,YES
+Kia,Syros EV,HTK Plus,Comfort & Convenience,USB Charger,Front & Rear
+Kia,Syros EV,HTK Plus,Comfort & Convenience,Central Console Armrest,With Storage
+Kia,Syros EV,HTK Plus,Comfort & Convenience,Drive Modes,3
+Kia,Syros EV,HTK Plus,Comfort & Convenience,Additional Features,Sunglass Holder
+Kia,Syros EV,HTK Plus,Comfort & Convenience,Drive Mode Types,ECO | NORMAL | SPORTS
+Kia,Syros EV,HTK Plus,Comfort & Convenience,Power Windows,Front & Rear
+Kia,Syros EV,HTK Plus,Interior,Glove Box,YES
+Kia,Syros EV,HTK Plus,Interior,Digital Cluster,YES
+Kia,Syros EV,HTK Plus,Interior,Digital Cluster Size,12.3
+Kia,Syros EV,HTK Plus,Interior,Upholstery,Semi-Leatherette
+Kia,Syros EV,HTK Plus,Interior,Ambient Light Colour (numbers),0
+Kia,Syros EV,HTK Plus,Exterior,Adjustable Headlamps,YES
+Kia,Syros EV,HTK Plus,Exterior,Rear Window Wiper,NO
+Kia,Syros EV,HTK Plus,Exterior,Rear Window Washer,NO
+Kia,Syros EV,HTK Plus,Exterior,Rear Window Defogger,NO
+Kia,Syros EV,HTK Plus,Exterior,Rear Spoiler,YES
+Kia,Syros EV,HTK Plus,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Kia,Syros EV,HTK Plus,Exterior,Automatic Headlamps,YES
+Kia,Syros EV,HTK Plus,Exterior,Fog Lights,Front
+Kia,Syros EV,HTK Plus,Exterior,Antenna,Shark Fin
+Kia,Syros EV,HTK Plus,Exterior,Sunroof,NO
+Kia,Syros EV,HTK Plus,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Kia,Syros EV,HTK Plus,Exterior,Tyre Size,215/ 60 R16
+Kia,Syros EV,HTK Plus,Exterior,Tyre Type,Radial & Tubeless
+Kia,Syros EV,HTK Plus,Exterior,LED DRLs,YES
+Kia,Syros EV,HTK Plus,Exterior,LED Headlamps,YES
+Kia,Syros EV,HTK Plus,Exterior,LED Taillights,YES
+Kia,Syros EV,HTK Plus,Exterior,LED Fog Lamps,YES
+Kia,Syros EV,HTK Plus,Safety,Anti-lock Braking System (ABS),YES
+Kia,Syros EV,HTK Plus,Safety,Brake Assist,YES
+Kia,Syros EV,HTK Plus,Safety,Child Safety Locks,YES
+Kia,Syros EV,HTK Plus,Safety,No. of Airbags,6
+Kia,Syros EV,HTK Plus,Safety,Driver Airbag,YES
+Kia,Syros EV,HTK Plus,Safety,Passenger Airbag,YES
+Kia,Syros EV,HTK Plus,Safety,Side Airbag,YES
+Kia,Syros EV,HTK Plus,Safety,Day & Night Rear View Mirror,YES
+Kia,Syros EV,HTK Plus,Safety,Electronic Brakeforce Distribution (EBD),YES
+Kia,Syros EV,HTK Plus,Safety,Traction Control,YES
+Kia,Syros EV,HTK Plus,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Kia,Syros EV,HTK Plus,Safety,Electronic Stability Control (ESC),YES
+Kia,Syros EV,HTK Plus,Safety,Rear Camera,With Guidedlines
+Kia,Syros EV,HTK Plus,Safety,ISOFIX Child Seat Mounts,YES
+Kia,Syros EV,HTK Plus,Safety,Hill Assist,YES
+Kia,Syros EV,HTK Plus,Safety,360 View Camera,NO
+Kia,Syros EV,HTK Plus,Entertainment & Communication,Radio,YES
+Kia,Syros EV,HTK Plus,Entertainment & Communication,Wireless Phone Charging,NO
+Kia,Syros EV,HTK Plus,Entertainment & Communication,Bluetooth Connectivity,YES
+Kia,Syros EV,HTK Plus,Entertainment & Communication,Touchscreen Size,12.3 inch
+Kia,Syros EV,HTK Plus,Entertainment & Communication,Android Auto,Wireless
+Kia,Syros EV,HTK Plus,Entertainment & Communication,Apple CarPlay,Wireless
+Kia,Syros EV,HTK Plus,Entertainment & Communication,No. of Speakers,6
+Kia,Syros EV,HTK Plus,Entertainment & Communication,Usb Ports,YES
+Kia,Syros EV,HTK Plus,Entertainment & Communication,Speakers,Front & Rear
+Kia,Syros EV,HTK Plus,ADAS Feature,Forward Collision Warning,NO
+Kia,Syros EV,HTK Plus,ADAS Feature,Lane Departure Warning,NO
+Kia,Syros EV,HTK Plus,ADAS Feature,Lane Keep Assist,NO
+Kia,Syros EV,HTK Plus,ADAS Feature,Driver Attention Warning,NO
+Kia,Syros EV,HTK Plus,ADAS Feature,Adaptive Cruise Control,NO
+Kia,Syros EV,HTK Plus,ADAS Feature,Leading Vehicle Departure Alert,NO
+Kia,Syros EV,HTK Plus,ADAS Feature,Adaptive High Beam Assist,NO
+Kia,Syros EV,HTK Plus,ADAS Feature,Blind Spot Monitor,NO
+Kia,Syros EV,HTK Plus,Advance Internet Feature,Remote Vehicle Status Check,NO
+Kia,Syros EV,HTK Plus,Advance Internet Feature,Over the Air (OTA) Updates,NO
+Kia,Syros EV,HTK Plus,Advance Internet Feature,In Car Remote Control App,NO
+Kia,Syros EV,HTK Plus,Advance Internet Feature,Smartwatch App,NO
+Kia,Syros EV,HTK Plus,Advance Internet Feature,Valet Mode,NO
+Kia,Syros EV,HTK Plus,Advance Internet Feature,Remote AC On/Off,NO
+Kia,Syros EV,HTK Plus,Advance Internet Feature,Remote Door Lock/Unlock,NO
+Kia,Syros EV,HTK Plus,Advance Internet Feature,Remote Vehicle Ignition Start/Stop,NO
+Kia,Syros EV,HTK Plus,Advance Internet Feature,Inbuilt APPs,NO

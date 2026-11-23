@@ -1,0 +1,119 @@
+company,model,variant,category,feature_name,feature_details
+Nissan,Magnite,Acenta,Engine & Transmission,Engine Type,1.0 B4D
+Nissan,Magnite,Acenta,Engine & Transmission,Displacement,999 cc
+Nissan,Magnite,Acenta,Engine & Transmission,Max Power,71bhp@6250rpm
+Nissan,Magnite,Acenta,Engine & Transmission,Max Torque,96Nm@3400 -3600rpm
+Nissan,Magnite,Acenta,Engine & Transmission,No. of Cylinders,3
+Nissan,Magnite,Acenta,Engine & Transmission,Valves Per Cylinder,4
+Nissan,Magnite,Acenta,Engine & Transmission,Turbo Charger,NO
+Nissan,Magnite,Acenta,Engine & Transmission,Transmission Type,Manual
+Nissan,Magnite,Acenta,Engine & Transmission,Gearbox,5-Speed
+Nissan,Magnite,Acenta,Engine & Transmission,Drive Type,FWD
+Nissan,Magnite,Acenta,Fuel & Performance,Fuel Type,Petrol
+Nissan,Magnite,Acenta,Fuel & Performance,Petrol Mileage ARAI,19.4 kmpl
+Nissan,Magnite,Acenta,Fuel & Performance,Petrol Fuel Tank Capacity,40 Litres
+Nissan,Magnite,Acenta,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Nissan,Magnite,Acenta,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Nissan,Magnite,Acenta,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Nissan,Magnite,Acenta,"Suspension, Steering & Brakes",Shock Absorbers Type,Double Acting
+Nissan,Magnite,Acenta,"Suspension, Steering & Brakes",Steering Type,Electric
+Nissan,Magnite,Acenta,"Suspension, Steering & Brakes",Steering Column,Tilt
+Nissan,Magnite,Acenta,"Suspension, Steering & Brakes",Turning Radius,5 m
+Nissan,Magnite,Acenta,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Nissan,Magnite,Acenta,"Suspension, Steering & Brakes",Rear Brake Type,Drum
+Nissan,Magnite,Acenta,"Suspension, Steering & Brakes",Boot Space Rear Seat Folding,690 Litres
+Nissan,Magnite,Acenta,Dimensions & Capacity,Length,3994 mm
+Nissan,Magnite,Acenta,Dimensions & Capacity,Width,1758 mm
+Nissan,Magnite,Acenta,Dimensions & Capacity,Height,1572 mm
+Nissan,Magnite,Acenta,Dimensions & Capacity,Boot Space,336 Litres
+Nissan,Magnite,Acenta,Dimensions & Capacity,Seating Capacity,5
+Nissan,Magnite,Acenta,Dimensions & Capacity,Ground Clearance Unladen,205 mm
+Nissan,Magnite,Acenta,Dimensions & Capacity,Wheel Base,2500 mm
+Nissan,Magnite,Acenta,Dimensions & Capacity,Kerb Weight,1019 kg
+Nissan,Magnite,Acenta,Dimensions & Capacity,Gross Weight,1402 kg
+Nissan,Magnite,Acenta,Comfort & Convenience,Boot Opening,Manual
+Nissan,Magnite,Acenta,Comfort & Convenience,Power Steering,YES
+Nissan,Magnite,Acenta,Comfort & Convenience,Air Conditioner,YES
+Nissan,Magnite,Acenta,Comfort & Convenience,Heater,YES
+Nissan,Magnite,Acenta,Comfort & Convenience,Adjustable Steering,Height only
+Nissan,Magnite,Acenta,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Nissan,Magnite,Acenta,Comfort & Convenience,Automatic Climate Control,YES
+Nissan,Magnite,Acenta,Comfort & Convenience,Air Quality Control,YES
+Nissan,Magnite,Acenta,Comfort & Convenience,Accessory Power Outlet,YES
+Nissan,Magnite,Acenta,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Nissan,Magnite,Acenta,Comfort & Convenience,Adjustable Headrest,YES
+Nissan,Magnite,Acenta,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Nissan,Magnite,Acenta,Comfort & Convenience,Rear AC Vents,NO
+Nissan,Magnite,Acenta,Comfort & Convenience,Cruise Control,NO
+Nissan,Magnite,Acenta,Comfort & Convenience,Parking Sensors,Rear
+Nissan,Magnite,Acenta,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Nissan,Magnite,Acenta,Comfort & Convenience,KeyLess Entry,YES
+Nissan,Magnite,Acenta,Comfort & Convenience,Engine Start/Stop Button,NO
+Nissan,Magnite,Acenta,Comfort & Convenience,Voice Commands,NO
+Nissan,Magnite,Acenta,Comfort & Convenience,USB Charger,NO
+Nissan,Magnite,Acenta,Comfort & Convenience,Central Console Armrest,NO
+Nissan,Magnite,Acenta,Comfort & Convenience,Gear Shift Indicator,YES
+Nissan,Magnite,Acenta,Comfort & Convenience,Glove Box light,NO
+Nissan,Magnite,Acenta,Comfort & Convenience,Power Windows,Front & Rear
+Nissan,Magnite,Acenta,Comfort & Convenience,Cup Holders,Front & Rear
+Nissan,Magnite,Acenta,Interior,Leather Wrapped Steering Wheel,NO
+Nissan,Magnite,Acenta,Interior,Glove Box,YES
+Nissan,Magnite,Acenta,Interior,Digital Cluster,YES
+Nissan,Magnite,Acenta,Interior,Digital Cluster Size,3.5
+Nissan,Magnite,Acenta,Interior,Upholstery,Fabric
+Nissan,Magnite,Acenta,Exterior,Adjustable Headlamps,YES
+Nissan,Magnite,Acenta,Exterior,Rear Window Wiper,YES
+Nissan,Magnite,Acenta,Exterior,Rear Window Washer,YES
+Nissan,Magnite,Acenta,Exterior,Rear Window Defogger,YES
+Nissan,Magnite,Acenta,Exterior,Wheel Covers,YES
+Nissan,Magnite,Acenta,Exterior,Alloy Wheels,NO
+Nissan,Magnite,Acenta,Exterior,Rear Spoiler,YES
+Nissan,Magnite,Acenta,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Nissan,Magnite,Acenta,Exterior,Projector Headlamps,NO
+Nissan,Magnite,Acenta,Exterior,Roof Rails,YES
+Nissan,Magnite,Acenta,Exterior,Fog Lights,NO
+Nissan,Magnite,Acenta,Exterior,Antenna,Shark Fin
+Nissan,Magnite,Acenta,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Nissan,Magnite,Acenta,Exterior,Tyre Size,195/60R16
+Nissan,Magnite,Acenta,Exterior,Tyre Type,Tubeless Radial
+Nissan,Magnite,Acenta,Exterior,Wheel Size,16 Inch
+Nissan,Magnite,Acenta,Exterior,LED DRLs,NO
+Nissan,Magnite,Acenta,Exterior,LED Headlamps,NO
+Nissan,Magnite,Acenta,Exterior,LED Taillights,NO
+Nissan,Magnite,Acenta,Exterior,LED Fog Lamps,NO
+Nissan,Magnite,Acenta,Safety,Anti-lock Braking System (ABS),YES
+Nissan,Magnite,Acenta,Safety,Brake Assist,YES
+Nissan,Magnite,Acenta,Safety,Central Locking,YES
+Nissan,Magnite,Acenta,Safety,Child Safety Locks,YES
+Nissan,Magnite,Acenta,Safety,Anti-Theft Alarm,YES
+Nissan,Magnite,Acenta,Safety,No. of Airbags,6
+Nissan,Magnite,Acenta,Safety,Driver Airbag,YES
+Nissan,Magnite,Acenta,Safety,Passenger Airbag,YES
+Nissan,Magnite,Acenta,Safety,Side Airbag,YES
+Nissan,Magnite,Acenta,Safety,Side Airbag-Rear,NO
+Nissan,Magnite,Acenta,Safety,Day & Night Rear View Mirror,YES
+Nissan,Magnite,Acenta,Safety,Electronic Brakeforce Distribution (EBD),YES
+Nissan,Magnite,Acenta,Safety,Traction Control,YES
+Nissan,Magnite,Acenta,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Nissan,Magnite,Acenta,Safety,Engine Immobilizer,YES
+Nissan,Magnite,Acenta,Safety,Electronic Stability Control (ESC),YES
+Nissan,Magnite,Acenta,Safety,Rear Camera,With Guidedlines
+Nissan,Magnite,Acenta,Safety,Anti-Theft Device,YES
+Nissan,Magnite,Acenta,Safety,Anti-Pinch Power Windows,Driver's Window
+Nissan,Magnite,Acenta,Safety,ISOFIX Child Seat Mounts,YES
+Nissan,Magnite,Acenta,Safety,Hill Assist,YES
+Nissan,Magnite,Acenta,Safety,360 View Camera,NO
+Nissan,Magnite,Acenta,Safety,Global NCAP Safety Rating,5 Star
+Nissan,Magnite,Acenta,Safety,Global NCAP Child Safety Rating,3 Star
+Nissan,Magnite,Acenta,Entertainment & Communication,Radio,YES
+Nissan,Magnite,Acenta,Entertainment & Communication,Wireless Phone Charging,NO
+Nissan,Magnite,Acenta,Entertainment & Communication,Bluetooth Connectivity,YES
+Nissan,Magnite,Acenta,Entertainment & Communication,Wi-Fi Connectivity,YES
+Nissan,Magnite,Acenta,Entertainment & Communication,Touchscreen,YES
+Nissan,Magnite,Acenta,Entertainment & Communication,Touchscreen Size,9 inch
+Nissan,Magnite,Acenta,Entertainment & Communication,Android Auto,YES
+Nissan,Magnite,Acenta,Entertainment & Communication,Apple CarPlay,YES
+Nissan,Magnite,Acenta,Entertainment & Communication,No. of Speakers,4
+Nissan,Magnite,Acenta,Entertainment & Communication,Usb Ports,NO
+Nissan,Magnite,Acenta,Entertainment & Communication,Speakers,Front & Rear
+Nissan,Magnite,Acenta,Advance Internet Feature,Remote Vehicle Ignition Start/Stop,NO

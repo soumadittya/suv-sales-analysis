@@ -1,0 +1,151 @@
+company,model,variant,category,feature_name,feature_details
+Kia,Sonet,HTK (O) Diesel,Engine & Transmission,Engine Type,1.5L CRDi VGT
+Kia,Sonet,HTK (O) Diesel,Engine & Transmission,Displacement,1493 cc
+Kia,Sonet,HTK (O) Diesel,Engine & Transmission,Max Power,114bhp@4000rpm
+Kia,Sonet,HTK (O) Diesel,Engine & Transmission,Max Torque,250Nm@1500-2750rpm
+Kia,Sonet,HTK (O) Diesel,Engine & Transmission,No. of Cylinders,4
+Kia,Sonet,HTK (O) Diesel,Engine & Transmission,Valves Per Cylinder,4
+Kia,Sonet,HTK (O) Diesel,Engine & Transmission,Fuel Supply System,CRDi
+Kia,Sonet,HTK (O) Diesel,Engine & Transmission,Turbo Charger,YES
+Kia,Sonet,HTK (O) Diesel,Engine & Transmission,Transmission Type,Manual
+Kia,Sonet,HTK (O) Diesel,Engine & Transmission,Gearbox,6-Speed
+Kia,Sonet,HTK (O) Diesel,Engine & Transmission,Drive Type,FWD
+Kia,Sonet,HTK (O) Diesel,Fuel & Performance,Fuel Type,Diesel
+Kia,Sonet,HTK (O) Diesel,Fuel & Performance,Diesel Mileage ARAI,24.1 kmpl
+Kia,Sonet,HTK (O) Diesel,Fuel & Performance,Diesel Fuel Tank Capacity,45 Litres
+Kia,Sonet,HTK (O) Diesel,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Kia,Sonet,HTK (O) Diesel,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Kia,Sonet,HTK (O) Diesel,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Kia,Sonet,HTK (O) Diesel,"Suspension, Steering & Brakes",Steering Type,Electric
+Kia,Sonet,HTK (O) Diesel,"Suspension, Steering & Brakes",Steering Column,Tilt
+Kia,Sonet,HTK (O) Diesel,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Kia,Sonet,HTK (O) Diesel,"Suspension, Steering & Brakes",Rear Brake Type,Drum
+Kia,Sonet,HTK (O) Diesel,Dimensions & Capacity,Length,3995 mm
+Kia,Sonet,HTK (O) Diesel,Dimensions & Capacity,Width,1790 mm
+Kia,Sonet,HTK (O) Diesel,Dimensions & Capacity,Height,1642 mm
+Kia,Sonet,HTK (O) Diesel,Dimensions & Capacity,Boot Space,385 Litres
+Kia,Sonet,HTK (O) Diesel,Dimensions & Capacity,Seating Capacity,5
+Kia,Sonet,HTK (O) Diesel,Dimensions & Capacity,Wheel Base,2500 mm
+Kia,Sonet,HTK (O) Diesel,Comfort & Convenience,Boot Opening,Electronic
+Kia,Sonet,HTK (O) Diesel,Comfort & Convenience,Power Steering,YES
+Kia,Sonet,HTK (O) Diesel,Comfort & Convenience,Air Conditioner,YES
+Kia,Sonet,HTK (O) Diesel,Comfort & Convenience,Heater,YES
+Kia,Sonet,HTK (O) Diesel,Comfort & Convenience,Adjustable Steering,Height only
+Kia,Sonet,HTK (O) Diesel,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Kia,Sonet,HTK (O) Diesel,Comfort & Convenience,Ventilated Seats,NO
+Kia,Sonet,HTK (O) Diesel,Comfort & Convenience,Electric Adjustable Seats,NO
+Kia,Sonet,HTK (O) Diesel,Comfort & Convenience,Automatic Climate Control,YES
+Kia,Sonet,HTK (O) Diesel,Comfort & Convenience,Air Quality Control,NO
+Kia,Sonet,HTK (O) Diesel,Comfort & Convenience,Accessory Power Outlet,YES
+Kia,Sonet,HTK (O) Diesel,Comfort & Convenience,Rear Seat Headrest,Integrated
+Kia,Sonet,HTK (O) Diesel,Comfort & Convenience,Adjustable Headrest,YES
+Kia,Sonet,HTK (O) Diesel,Comfort & Convenience,Rear Seat Centre Arm Rest,NO
+Kia,Sonet,HTK (O) Diesel,Comfort & Convenience,Rear AC Vents,YES
+Kia,Sonet,HTK (O) Diesel,Comfort & Convenience,Active noise cancellation,NO
+Kia,Sonet,HTK (O) Diesel,Comfort & Convenience,Cruise Control,NO
+Kia,Sonet,HTK (O) Diesel,Comfort & Convenience,Parking Sensors,Rear
+Kia,Sonet,HTK (O) Diesel,Comfort & Convenience,Real-Time Vehicle Tracking,NO
+Kia,Sonet,HTK (O) Diesel,Comfort & Convenience,Foldable Rear Seat,Bench Folding
+Kia,Sonet,HTK (O) Diesel,Comfort & Convenience,KeyLess Entry,YES
+Kia,Sonet,HTK (O) Diesel,Comfort & Convenience,Engine Start/Stop Button,NO
+Kia,Sonet,HTK (O) Diesel,Comfort & Convenience,Voice Commands,YES
+Kia,Sonet,HTK (O) Diesel,Comfort & Convenience,Paddle Shifters,NO
+Kia,Sonet,HTK (O) Diesel,Comfort & Convenience,USB Charger,Front & Rear
+Kia,Sonet,HTK (O) Diesel,Comfort & Convenience,Central Console Armrest,With Storage
+Kia,Sonet,HTK (O) Diesel,Comfort & Convenience,Gear Shift Indicator,YES
+Kia,Sonet,HTK (O) Diesel,Comfort & Convenience,Drive Modes,NO
+Kia,Sonet,HTK (O) Diesel,Comfort & Convenience,Idle Start-Stop System,YES
+Kia,Sonet,HTK (O) Diesel,Comfort & Convenience,Follow Me Home Headlamps,YES
+Kia,Sonet,HTK (O) Diesel,Comfort & Convenience,Additional Features,Sunglass Holder
+Kia,Sonet,HTK (O) Diesel,Comfort & Convenience,Drive Mode Types,NO
+Kia,Sonet,HTK (O) Diesel,Comfort & Convenience,Power Windows,Front & Rear
+Kia,Sonet,HTK (O) Diesel,Comfort & Convenience,Cup Holders,Front Only
+Kia,Sonet,HTK (O) Diesel,Interior,Leather Wrapped Steering Wheel,NO
+Kia,Sonet,HTK (O) Diesel,Interior,Leather wrap gear-shift selector,NO
+Kia,Sonet,HTK (O) Diesel,Interior,Glove Box,YES
+Kia,Sonet,HTK (O) Diesel,Interior,Folding Table in The Rear,NO
+Kia,Sonet,HTK (O) Diesel,Interior,Digital Cluster,YES
+Kia,Sonet,HTK (O) Diesel,Interior,Digital Cluster Size,4.2
+Kia,Sonet,HTK (O) Diesel,Interior,Upholstery,Leatherette
+Kia,Sonet,HTK (O) Diesel,Exterior,Adjustable Headlamps,YES
+Kia,Sonet,HTK (O) Diesel,Exterior,Headlamp Washers,NO
+Kia,Sonet,HTK (O) Diesel,Exterior,Rain Sensing Wiper,NO
+Kia,Sonet,HTK (O) Diesel,Exterior,Rear Window Wiper,YES
+Kia,Sonet,HTK (O) Diesel,Exterior,Rear Window Washer,YES
+Kia,Sonet,HTK (O) Diesel,Exterior,Rear Window Defogger,YES
+Kia,Sonet,HTK (O) Diesel,Exterior,Tinted Glass,YES
+Kia,Sonet,HTK (O) Diesel,Exterior,Rear Spoiler,NO
+Kia,Sonet,HTK (O) Diesel,Exterior,Side Stepper,NO
+Kia,Sonet,HTK (O) Diesel,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Kia,Sonet,HTK (O) Diesel,Exterior,Roof Rails,YES
+Kia,Sonet,HTK (O) Diesel,Exterior,Automatic Headlamps,YES
+Kia,Sonet,HTK (O) Diesel,Exterior,Fog Lights,NO
+Kia,Sonet,HTK (O) Diesel,Exterior,Antenna,Shark Fin
+Kia,Sonet,HTK (O) Diesel,Exterior,Sunroof,Single Pane
+Kia,Sonet,HTK (O) Diesel,Exterior,Heated Outside Rear View Mirror,NO
+Kia,Sonet,HTK (O) Diesel,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Kia,Sonet,HTK (O) Diesel,Exterior,Wheels Type,Steel with Cover
+Kia,Sonet,HTK (O) Diesel,Exterior,Tyre Size,215/60 R16
+Kia,Sonet,HTK (O) Diesel,Exterior,Tyre Type,Radial Tubeless
+Kia,Sonet,HTK (O) Diesel,Exterior,Wheel Size,16 Inch
+Kia,Sonet,HTK (O) Diesel,Exterior,LED DRLs,YES
+Kia,Sonet,HTK (O) Diesel,Exterior,LED Headlamps,NO
+Kia,Sonet,HTK (O) Diesel,Exterior,LED Taillights,YES
+Kia,Sonet,HTK (O) Diesel,Exterior,LED Fog Lamps,NO
+Kia,Sonet,HTK (O) Diesel,Safety,Anti-lock Braking System (ABS),YES
+Kia,Sonet,HTK (O) Diesel,Safety,Brake Assist,YES
+Kia,Sonet,HTK (O) Diesel,Safety,Central Locking,YES
+Kia,Sonet,HTK (O) Diesel,Safety,Child Safety Locks,YES
+Kia,Sonet,HTK (O) Diesel,Safety,Anti-Theft Alarm,YES
+Kia,Sonet,HTK (O) Diesel,Safety,No. of Airbags,6
+Kia,Sonet,HTK (O) Diesel,Safety,Driver Airbag,YES
+Kia,Sonet,HTK (O) Diesel,Safety,Passenger Airbag,YES
+Kia,Sonet,HTK (O) Diesel,Safety,Side Airbag,YES
+Kia,Sonet,HTK (O) Diesel,Safety,Side Airbag-Rear,NO
+Kia,Sonet,HTK (O) Diesel,Safety,Day & Night Rear View Mirror,YES
+Kia,Sonet,HTK (O) Diesel,Safety,Electronic Brakeforce Distribution (EBD),YES
+Kia,Sonet,HTK (O) Diesel,Safety,Traction Control,NO
+Kia,Sonet,HTK (O) Diesel,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Kia,Sonet,HTK (O) Diesel,Safety,Engine Immobilizer,YES
+Kia,Sonet,HTK (O) Diesel,Safety,Electronic Stability Control (ESC),YES
+Kia,Sonet,HTK (O) Diesel,Safety,Rear Camera,With Guidedlines
+Kia,Sonet,HTK (O) Diesel,Safety,ISOFIX Child Seat Mounts,YES
+Kia,Sonet,HTK (O) Diesel,Safety,Heads-Up Display (HUD),NO
+Kia,Sonet,HTK (O) Diesel,Safety,Hill Descent Control,YES
+Kia,Sonet,HTK (O) Diesel,Safety,Hill Assist,YES
+Kia,Sonet,HTK (O) Diesel,Safety,360 View Camera,NO
+Kia,Sonet,HTK (O) Diesel,Entertainment & Communication,Radio,YES
+Kia,Sonet,HTK (O) Diesel,Entertainment & Communication,Wireless Phone Charging,NO
+Kia,Sonet,HTK (O) Diesel,Entertainment & Communication,Bluetooth Connectivity,YES
+Kia,Sonet,HTK (O) Diesel,Entertainment & Communication,Touchscreen,YES
+Kia,Sonet,HTK (O) Diesel,Entertainment & Communication,Touchscreen Size,8 inch
+Kia,Sonet,HTK (O) Diesel,Entertainment & Communication,Android Auto,YES
+Kia,Sonet,HTK (O) Diesel,Entertainment & Communication,Apple CarPlay,YES
+Kia,Sonet,HTK (O) Diesel,Entertainment & Communication,No. of Speakers,4
+Kia,Sonet,HTK (O) Diesel,Entertainment & Communication,Usb Ports,YES
+Kia,Sonet,HTK (O) Diesel,Entertainment & Communication,Tweeters,2
+Kia,Sonet,HTK (O) Diesel,Entertainment & Communication,Additional Features,Wireless Android Auto & Apple CarPlay
+Kia,Sonet,HTK (O) Diesel,Entertainment & Communication,Speakers,Front & Rear
+Kia,Sonet,HTK (O) Diesel,ADAS Feature,Forward Collision Warning,NO
+Kia,Sonet,HTK (O) Diesel,ADAS Feature,Lane Departure Warning,NO
+Kia,Sonet,HTK (O) Diesel,ADAS Feature,Lane Keep Assist,NO
+Kia,Sonet,HTK (O) Diesel,ADAS Feature,Driver Attention Warning,NO
+Kia,Sonet,HTK (O) Diesel,ADAS Feature,Leading Vehicle Departure Alert,NO
+Kia,Sonet,HTK (O) Diesel,ADAS Feature,Adaptive High Beam Assist,NO
+Kia,Sonet,HTK (O) Diesel,ADAS Feature,Blind Spot Monitor,NO
+Kia,Sonet,HTK (O) Diesel,Advance Internet Feature,Live Location,NO
+Kia,Sonet,HTK (O) Diesel,Advance Internet Feature,Remote Vehicle Status Check,NO
+Kia,Sonet,HTK (O) Diesel,Advance Internet Feature,Inbuilt Assistant,NO
+Kia,Sonet,HTK (O) Diesel,Advance Internet Feature,Hinglish Voice Commands,NO
+Kia,Sonet,HTK (O) Diesel,Advance Internet Feature,Navigation with Live Traffic,NO
+Kia,Sonet,HTK (O) Diesel,Advance Internet Feature,Send POI to Vehicle From App,NO
+Kia,Sonet,HTK (O) Diesel,Advance Internet Feature,Live Weather,NO
+Kia,Sonet,HTK (O) Diesel,Advance Internet Feature,E-Call & I-Call,NO
+Kia,Sonet,HTK (O) Diesel,Advance Internet Feature,Over the Air (OTA) Updates,NO
+Kia,Sonet,HTK (O) Diesel,Advance Internet Feature,Google / Alexa Connectivity,NO
+Kia,Sonet,HTK (O) Diesel,Advance Internet Feature,Save Route/Place,NO
+Kia,Sonet,HTK (O) Diesel,Advance Internet Feature,SOS Button,NO
+Kia,Sonet,HTK (O) Diesel,Advance Internet Feature,RSA,NO
+Kia,Sonet,HTK (O) Diesel,Advance Internet Feature,Smartwatch App,NO
+Kia,Sonet,HTK (O) Diesel,Advance Internet Feature,Remote AC On/Off,NO
+Kia,Sonet,HTK (O) Diesel,Advance Internet Feature,Remote Door Lock/Unlock,NO

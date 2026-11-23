@@ -1,0 +1,123 @@
+company,model,variant,category,feature_name,feature_details
+Nissan,Magnite,N Connecta,Engine & Transmission,Engine Type,1.0 B4D
+Nissan,Magnite,N Connecta,Engine & Transmission,Displacement,999 cc
+Nissan,Magnite,N Connecta,Engine & Transmission,Max Power,71bhp@6250rpm
+Nissan,Magnite,N Connecta,Engine & Transmission,Max Torque,96Nm@3400 -3600rpm
+Nissan,Magnite,N Connecta,Engine & Transmission,No. of Cylinders,3
+Nissan,Magnite,N Connecta,Engine & Transmission,Valves Per Cylinder,4
+Nissan,Magnite,N Connecta,Engine & Transmission,Turbo Charger,NO
+Nissan,Magnite,N Connecta,Engine & Transmission,Regenerative Braking,NO
+Nissan,Magnite,N Connecta,Engine & Transmission,Transmission Type,Manual
+Nissan,Magnite,N Connecta,Engine & Transmission,Gearbox,5-Speed
+Nissan,Magnite,N Connecta,Engine & Transmission,Drive Type,FWD
+Nissan,Magnite,N Connecta,Fuel & Performance,Fuel Type,Petrol
+Nissan,Magnite,N Connecta,Fuel & Performance,Petrol Mileage ARAI,19.4 kmpl
+Nissan,Magnite,N Connecta,Fuel & Performance,Petrol Fuel Tank Capacity,40 Litres
+Nissan,Magnite,N Connecta,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Nissan,Magnite,N Connecta,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Nissan,Magnite,N Connecta,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Nissan,Magnite,N Connecta,"Suspension, Steering & Brakes",Shock Absorbers Type,Double Acting
+Nissan,Magnite,N Connecta,"Suspension, Steering & Brakes",Steering Type,Electric
+Nissan,Magnite,N Connecta,"Suspension, Steering & Brakes",Steering Column,Tilt
+Nissan,Magnite,N Connecta,"Suspension, Steering & Brakes",Turning Radius,5 m
+Nissan,Magnite,N Connecta,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Nissan,Magnite,N Connecta,"Suspension, Steering & Brakes",Rear Brake Type,Drum
+Nissan,Magnite,N Connecta,"Suspension, Steering & Brakes",Boot Space Rear Seat Folding,690 Litres
+Nissan,Magnite,N Connecta,Dimensions & Capacity,Length,3994 mm
+Nissan,Magnite,N Connecta,Dimensions & Capacity,Width,1758 mm
+Nissan,Magnite,N Connecta,Dimensions & Capacity,Height,1572 mm
+Nissan,Magnite,N Connecta,Dimensions & Capacity,Boot Space,336 Litres
+Nissan,Magnite,N Connecta,Dimensions & Capacity,Seating Capacity,5
+Nissan,Magnite,N Connecta,Dimensions & Capacity,Ground Clearance Unladen,205 mm
+Nissan,Magnite,N Connecta,Dimensions & Capacity,Wheel Base,2500 mm
+Nissan,Magnite,N Connecta,Dimensions & Capacity,Kerb Weight,1019 kg
+Nissan,Magnite,N Connecta,Dimensions & Capacity,Gross Weight,1402 kg
+Nissan,Magnite,N Connecta,Comfort & Convenience,Boot Opening,Manual
+Nissan,Magnite,N Connecta,Comfort & Convenience,Power Steering,YES
+Nissan,Magnite,N Connecta,Comfort & Convenience,Air Conditioner,YES
+Nissan,Magnite,N Connecta,Comfort & Convenience,Heater,YES
+Nissan,Magnite,N Connecta,Comfort & Convenience,Adjustable Steering,Height only
+Nissan,Magnite,N Connecta,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Nissan,Magnite,N Connecta,Comfort & Convenience,Automatic Climate Control,YES
+Nissan,Magnite,N Connecta,Comfort & Convenience,Air Quality Control,YES
+Nissan,Magnite,N Connecta,Comfort & Convenience,Accessory Power Outlet,YES
+Nissan,Magnite,N Connecta,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Nissan,Magnite,N Connecta,Comfort & Convenience,Adjustable Headrest,YES
+Nissan,Magnite,N Connecta,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Nissan,Magnite,N Connecta,Comfort & Convenience,Rear AC Vents,YES
+Nissan,Magnite,N Connecta,Comfort & Convenience,Cruise Control,NO
+Nissan,Magnite,N Connecta,Comfort & Convenience,Parking Sensors,Rear
+Nissan,Magnite,N Connecta,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Nissan,Magnite,N Connecta,Comfort & Convenience,KeyLess Entry,YES
+Nissan,Magnite,N Connecta,Comfort & Convenience,Engine Start/Stop Button,YES
+Nissan,Magnite,N Connecta,Comfort & Convenience,Voice Commands,YES
+Nissan,Magnite,N Connecta,Comfort & Convenience,USB Charger,Front & Rear
+Nissan,Magnite,N Connecta,Comfort & Convenience,Central Console Armrest,With Storage
+Nissan,Magnite,N Connecta,Comfort & Convenience,Gear Shift Indicator,YES
+Nissan,Magnite,N Connecta,Comfort & Convenience,Glove Box light,YES
+Nissan,Magnite,N Connecta,Comfort & Convenience,Power Windows,Front & Rear
+Nissan,Magnite,N Connecta,Comfort & Convenience,Cup Holders,Front & Rear
+Nissan,Magnite,N Connecta,Interior,Leather Wrapped Steering Wheel,NO
+Nissan,Magnite,N Connecta,Interior,Glove Box,YES
+Nissan,Magnite,N Connecta,Interior,Additional Features,Rear Parcel Tray
+Nissan,Magnite,N Connecta,Interior,Digital Cluster,YES
+Nissan,Magnite,N Connecta,Interior,Digital Cluster Size,7
+Nissan,Magnite,N Connecta,Interior,Upholstery,Fabric
+Nissan,Magnite,N Connecta,Exterior,Adjustable Headlamps,YES
+Nissan,Magnite,N Connecta,Exterior,Rear Window Wiper,YES
+Nissan,Magnite,N Connecta,Exterior,Rear Window Washer,YES
+Nissan,Magnite,N Connecta,Exterior,Rear Window Defogger,YES
+Nissan,Magnite,N Connecta,Exterior,Wheel Covers,NO
+Nissan,Magnite,N Connecta,Exterior,Alloy Wheels,YES
+Nissan,Magnite,N Connecta,Exterior,Rear Spoiler,YES
+Nissan,Magnite,N Connecta,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Nissan,Magnite,N Connecta,Exterior,Projector Headlamps,NO
+Nissan,Magnite,N Connecta,Exterior,Roof Rails,YES
+Nissan,Magnite,N Connecta,Exterior,Fog Lights,NO
+Nissan,Magnite,N Connecta,Exterior,Antenna,Shark Fin
+Nissan,Magnite,N Connecta,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Nissan,Magnite,N Connecta,Exterior,Tyre Size,195/60 R16
+Nissan,Magnite,N Connecta,Exterior,Tyre Type,Tubeless Radial
+Nissan,Magnite,N Connecta,Exterior,Wheel Size,16 Inch
+Nissan,Magnite,N Connecta,Exterior,LED DRLs,YES
+Nissan,Magnite,N Connecta,Exterior,LED Headlamps,NO
+Nissan,Magnite,N Connecta,Exterior,LED Taillights,NO
+Nissan,Magnite,N Connecta,Exterior,LED Fog Lamps,NO
+Nissan,Magnite,N Connecta,Safety,Anti-lock Braking System (ABS),YES
+Nissan,Magnite,N Connecta,Safety,Brake Assist,YES
+Nissan,Magnite,N Connecta,Safety,Central Locking,YES
+Nissan,Magnite,N Connecta,Safety,Child Safety Locks,YES
+Nissan,Magnite,N Connecta,Safety,Anti-Theft Alarm,YES
+Nissan,Magnite,N Connecta,Safety,No. of Airbags,6
+Nissan,Magnite,N Connecta,Safety,Driver Airbag,YES
+Nissan,Magnite,N Connecta,Safety,Passenger Airbag,YES
+Nissan,Magnite,N Connecta,Safety,Side Airbag,YES
+Nissan,Magnite,N Connecta,Safety,Side Airbag-Rear,NO
+Nissan,Magnite,N Connecta,Safety,Day & Night Rear View Mirror,YES
+Nissan,Magnite,N Connecta,Safety,Electronic Brakeforce Distribution (EBD),YES
+Nissan,Magnite,N Connecta,Safety,Traction Control,YES
+Nissan,Magnite,N Connecta,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Nissan,Magnite,N Connecta,Safety,Engine Immobilizer,YES
+Nissan,Magnite,N Connecta,Safety,Electronic Stability Control (ESC),YES
+Nissan,Magnite,N Connecta,Safety,Rear Camera,With Guidedlines
+Nissan,Magnite,N Connecta,Safety,Anti-Theft Device,YES
+Nissan,Magnite,N Connecta,Safety,Anti-Pinch Power Windows,Driver's Window
+Nissan,Magnite,N Connecta,Safety,ISOFIX Child Seat Mounts,YES
+Nissan,Magnite,N Connecta,Safety,Hill Assist,YES
+Nissan,Magnite,N Connecta,Safety,360 View Camera,NO
+Nissan,Magnite,N Connecta,Safety,Global NCAP Safety Rating,5 Star
+Nissan,Magnite,N Connecta,Safety,Global NCAP Child Safety Rating,3 Star
+Nissan,Magnite,N Connecta,Entertainment & Communication,Radio,YES
+Nissan,Magnite,N Connecta,Entertainment & Communication,Wireless Phone Charging,NO
+Nissan,Magnite,N Connecta,Entertainment & Communication,Bluetooth Connectivity,YES
+Nissan,Magnite,N Connecta,Entertainment & Communication,Wi-Fi Connectivity,YES
+Nissan,Magnite,N Connecta,Entertainment & Communication,Touchscreen,YES
+Nissan,Magnite,N Connecta,Entertainment & Communication,Touchscreen Size,8 inch
+Nissan,Magnite,N Connecta,Entertainment & Communication,Android Auto,YES
+Nissan,Magnite,N Connecta,Entertainment & Communication,Apple CarPlay,YES
+Nissan,Magnite,N Connecta,Entertainment & Communication,No. of Speakers,4
+Nissan,Magnite,N Connecta,Entertainment & Communication,Usb Ports,YES
+Nissan,Magnite,N Connecta,Entertainment & Communication,Tweeters,2
+Nissan,Magnite,N Connecta,Entertainment & Communication,Additional Features,3D sound by ARKAMYS
+Nissan,Magnite,N Connecta,Entertainment & Communication,Speakers,Front & Rear
+Nissan,Magnite,N Connecta,Advance Internet Feature,Remote Vehicle Ignition Start/Stop,NO

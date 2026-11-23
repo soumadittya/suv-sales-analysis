@@ -1,0 +1,87 @@
+company,model,variant,category,feature_name,feature_details
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Engine & Transmission,Engine Type,G20 TGDi mStallion
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Engine & Transmission,Displacement,1997 cc
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Engine & Transmission,Max Power,159.58bhp@5000rpm
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Engine & Transmission,Max Torque,330Nm@1500-3000rpm
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Engine & Transmission,No. of Cylinders,4
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Engine & Transmission,Valves Per Cylinder,4
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Engine & Transmission,Turbo Charger,YES
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Engine & Transmission,Transmission Type,Manual
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Engine & Transmission,Gearbox,6-Speed
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Engine & Transmission,Drive Type,4WD
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Fuel & Performance,Fuel Type,Petrol
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Fuel & Performance,Petrol Fuel Tank Capacity,50 Litres
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,"Suspension, Steering & Brakes",Front Suspension,Double wishbone suspension
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,"Suspension, Steering & Brakes",Rear Suspension,"Multi-link, Solid Axle"
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,"Suspension, Steering & Brakes",Steering Type,Electric
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,"Suspension, Steering & Brakes",Steering Column,Tilt
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,"Suspension, Steering & Brakes",Steering Gear Type,Rack & Pinion
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Dimensions & Capacity,Length,3995 mm
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Dimensions & Capacity,Width,1870 mm
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Dimensions & Capacity,Height,1855 mm
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Dimensions & Capacity,Seating Capacity,4
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Dimensions & Capacity,Ground Clearance Unladen,232 mm
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Dimensions & Capacity,Wheel Base,2450 mm
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Dimensions & Capacity,Approach Angle,40 °
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Dimensions & Capacity,Break-over Angle,26.4 °
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Dimensions & Capacity,Departure Angle,36 °
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Comfort & Convenience,Boot Opening,Manual
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Comfort & Convenience,Power Steering,YES
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Comfort & Convenience,Air Conditioner,YES
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Comfort & Convenience,Heater,YES
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Comfort & Convenience,Accessory Power Outlet,YES
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Comfort & Convenience,Adjustable Headrest,YES
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Comfort & Convenience,Rear AC Vents,YES
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Comfort & Convenience,Cruise Control,YES
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Comfort & Convenience,Parking Sensors,Front & Rear
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Comfort & Convenience,Foldable Rear Seat,50:50 Split
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Comfort & Convenience,KeyLess Entry,YES
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Comfort & Convenience,Voice Commands,YES
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Comfort & Convenience,Follow Me Home Headlamps,YES
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Comfort & Convenience,Additional Features,Electronic Locking Differential
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Comfort & Convenience,Power Windows,Front Only
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Interior,Glove Box,YES
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Interior,Digital Cluster,Analog with MID
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Interior,Upholstery,Leatherette
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Exterior,Rear Window Wiper,YES
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Exterior,Rear Window Washer,YES
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Exterior,Rear Window Defogger,YES
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Exterior,Alloy Wheels,YES
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Exterior,Side Stepper,YES
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Exterior,Fog Lights,Front
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Exterior,Antenna,Fender-mounted
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Exterior,Outside Rear View Mirror (ORVM),Powered
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Exterior,Tyre Size,255/60 R19
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Exterior,Tyre Type,Tubeless All-Terrain
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Exterior,Wheel Size,19 Inch
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Exterior,LED DRLs,YES
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Exterior,LED Headlamps,YES
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Exterior,LED Taillights,YES
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Safety,Anti-lock Braking System (ABS),YES
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Safety,Brake Assist,YES
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Safety,Central Locking,YES
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Safety,Child Safety Locks,YES
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Safety,No. of Airbags,6
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Safety,Day & Night Rear View Mirror,YES
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Safety,Electronic Brakeforce Distribution (EBD),YES
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Safety,Electronic Stability Control (ESC),YES
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Safety,Rear Camera,With Guidedlines
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Safety,ISOFIX Child Seat Mounts,YES
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Safety,Hill Descent Control,YES
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Safety,Hill Assist,YES
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Safety,Safety Airbags,"Driver & Passenger, Front Side, Rear Side"
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Entertainment & Communication,Radio,YES
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Entertainment & Communication,Bluetooth Connectivity,YES
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Entertainment & Communication,Touchscreen,YES
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Entertainment & Communication,Touchscreen Size,10.25 inch
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Entertainment & Communication,Android Auto,Wireless
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Entertainment & Communication,Apple CarPlay,Wired
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Entertainment & Communication,No. of Speakers,4
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Entertainment & Communication,Usb Ports,YES
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Entertainment & Communication,Tweeters,2
+Mahindra,Thar OG,Thar 2.0L ZXT 4WD Petrol,Entertainment & Communication,Speakers,Front & Rear

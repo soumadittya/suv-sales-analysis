@@ -1,0 +1,95 @@
+company,model,variant,category,feature_name,feature_details
+Porsche,Cayenne Coupe,GTS,Engine & Transmission,Engine Type,4.0 L Twin Turbo V8
+Porsche,Cayenne Coupe,GTS,Engine & Transmission,Displacement,3996 cc
+Porsche,Cayenne Coupe,GTS,Engine & Transmission,Max Power,493bhp@5400rpm
+Porsche,Cayenne Coupe,GTS,Engine & Transmission,Max Torque,660Nm@1340rpm
+Porsche,Cayenne Coupe,GTS,Engine & Transmission,No. of Cylinders,8
+Porsche,Cayenne Coupe,GTS,Engine & Transmission,Valves Per Cylinder,4
+Porsche,Cayenne Coupe,GTS,Engine & Transmission,Turbo Charger,Twin
+Porsche,Cayenne Coupe,GTS,Engine & Transmission,Transmission Type,Automatic
+Porsche,Cayenne Coupe,GTS,Engine & Transmission,Gearbox,8-Speed
+Porsche,Cayenne Coupe,GTS,Engine & Transmission,Drive Type,AWD
+Porsche,Cayenne Coupe,GTS,Fuel & Performance,Fuel Type,Petrol
+Porsche,Cayenne Coupe,GTS,Fuel & Performance,Petrol Fuel Tank Capacity,75 Litres
+Porsche,Cayenne Coupe,GTS,Fuel & Performance,Petrol Highway Mileage,8 kmpl
+Porsche,Cayenne Coupe,GTS,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Porsche,Cayenne Coupe,GTS,Fuel & Performance,Top Speed,248 kmph
+Porsche,Cayenne Coupe,GTS,"Suspension, Steering & Brakes",Front Suspension,Air suspension
+Porsche,Cayenne Coupe,GTS,"Suspension, Steering & Brakes",Rear Suspension,Air suspension
+Porsche,Cayenne Coupe,GTS,"Suspension, Steering & Brakes",Steering Type,Electric
+Porsche,Cayenne Coupe,GTS,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Porsche,Cayenne Coupe,GTS,"Suspension, Steering & Brakes",Steering Gear Type,Rack & Pinion
+Porsche,Cayenne Coupe,GTS,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Porsche,Cayenne Coupe,GTS,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Porsche,Cayenne Coupe,GTS,Dimensions & Capacity,Length,4931 mm
+Porsche,Cayenne Coupe,GTS,Dimensions & Capacity,Width,1983 mm
+Porsche,Cayenne Coupe,GTS,Dimensions & Capacity,Height,1676 mm
+Porsche,Cayenne Coupe,GTS,Dimensions & Capacity,Boot Space,625 Litres
+Porsche,Cayenne Coupe,GTS,Dimensions & Capacity,Seating Capacity,4
+Porsche,Cayenne Coupe,GTS,Dimensions & Capacity,Reported Ground Clearance (Unladen),192 mm
+Porsche,Cayenne Coupe,GTS,Comfort & Convenience,Power Steering,YES
+Porsche,Cayenne Coupe,GTS,Comfort & Convenience,Power Boot,YES
+Porsche,Cayenne Coupe,GTS,Comfort & Convenience,Air Conditioner,YES
+Porsche,Cayenne Coupe,GTS,Comfort & Convenience,Heater,YES
+Porsche,Cayenne Coupe,GTS,Comfort & Convenience,Adjustable Steering,YES
+Porsche,Cayenne Coupe,GTS,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Porsche,Cayenne Coupe,GTS,Comfort & Convenience,Electric Adjustable Seats,Front
+Porsche,Cayenne Coupe,GTS,Comfort & Convenience,Automatic Climate Control,YES
+Porsche,Cayenne Coupe,GTS,Comfort & Convenience,Air Quality Control,YES
+Porsche,Cayenne Coupe,GTS,Comfort & Convenience,Low Fuel Warning Light,YES
+Porsche,Cayenne Coupe,GTS,Comfort & Convenience,Accessory Power Outlet,YES
+Porsche,Cayenne Coupe,GTS,Comfort & Convenience,Rear Seat Headrest,YES
+Porsche,Cayenne Coupe,GTS,Comfort & Convenience,Adjustable Headrest,YES
+Porsche,Cayenne Coupe,GTS,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Porsche,Cayenne Coupe,GTS,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Porsche,Cayenne Coupe,GTS,Comfort & Convenience,Cruise Control,YES
+Porsche,Cayenne Coupe,GTS,Comfort & Convenience,Parking Sensors,Front & Rear
+Porsche,Cayenne Coupe,GTS,Comfort & Convenience,Navigation System,YES
+Porsche,Cayenne Coupe,GTS,Comfort & Convenience,KeyLess Entry,YES
+Porsche,Cayenne Coupe,GTS,Comfort & Convenience,Engine Start/Stop Button,YES
+Porsche,Cayenne Coupe,GTS,Comfort & Convenience,Voice Commands,YES
+Porsche,Cayenne Coupe,GTS,Comfort & Convenience,Paddle Shifters,YES
+Porsche,Cayenne Coupe,GTS,Comfort & Convenience,USB Charger,Front
+Porsche,Cayenne Coupe,GTS,Comfort & Convenience,Central Console Armrest,YES
+Porsche,Cayenne Coupe,GTS,Comfort & Convenience,Gear Shift Indicator,NO
+Porsche,Cayenne Coupe,GTS,Comfort & Convenience,Follow Me Home Headlamps,YES
+Porsche,Cayenne Coupe,GTS,Interior,Leather wrap gear-shift selector,YES
+Porsche,Cayenne Coupe,GTS,Interior,Digital Clock,YES
+Porsche,Cayenne Coupe,GTS,Interior,Additional Features,"Standard Interior / Partial Leather Seats, Sports rear seat system, Central rev counter with Black dial, Compass instrument dial/Sport Chrono stopwatch instrument dial black, Roof lining and A-/B-/ C-pillar trims in fabric, Front and rear door sill guards in Aluminium with model logo at front and 'Cayenne' model logo on rear, Sun visors for driver and front passenger, Fixed luggage compartment cover, For single-tone interiors in matching interior colour, for two-tone interiors in the darker interior colour, with 'PORSCHE' logo, A choice of seven colored light schemes for the ambient lighting in(overhead console, front and rear door panels, door compartments, the front and rear footwell, including illumination of the front cupholder)"
+Porsche,Cayenne Coupe,GTS,Exterior,Adjustable Headlamps,YES
+Porsche,Cayenne Coupe,GTS,Exterior,Alloy Wheels,YES
+Porsche,Cayenne Coupe,GTS,Exterior,Tinted Glass,YES
+Porsche,Cayenne Coupe,GTS,Exterior,Rear Spoiler,YES
+Porsche,Cayenne Coupe,GTS,Exterior,Projector Headlamps,YES
+Porsche,Cayenne Coupe,GTS,Exterior,Automatic Headlamps,YES
+Porsche,Cayenne Coupe,GTS,Exterior,Heated Wing Mirror,YES
+Porsche,Cayenne Coupe,GTS,Exterior,Tyre Type,"Tubeless, Radial"
+Porsche,Cayenne Coupe,GTS,Exterior,LED DRLs,YES
+Porsche,Cayenne Coupe,GTS,Exterior,LED Headlamps,YES
+Porsche,Cayenne Coupe,GTS,Exterior,LED Taillights,YES
+Porsche,Cayenne Coupe,GTS,Exterior,Additional Features,"Cayenne Design wheels, Wheels painted silver, Wheel Arch Cover in Black, Sideskirts, Lower Valance, Exterior Mirror Lower Trims including Mirror Base in Black, Exterior package Black (high-gloss), Preparation for towbar system, Rear Diffusor in Louvered Design, Door handles painted in exterior colour, Silver coloured model designation, Matrix LED Headlights, LED taillights including light strip, Automatically dimming interior and exterior mirrors, Electrically adjustable and heatable electrically folding exterior mirrors (also via remote key), aspherical on driver’s side, including ambient lighting, Panoramic Roof, fixed incl. electrically operated roller blind, Green-tinted thermally insulated glass, TPM Valve in Silver"
+Porsche,Cayenne Coupe,GTS,Safety,Anti-lock Braking System (ABS),YES
+Porsche,Cayenne Coupe,GTS,Safety,Central Locking,YES
+Porsche,Cayenne Coupe,GTS,Safety,Anti-Theft Alarm,YES
+Porsche,Cayenne Coupe,GTS,Safety,No. of Airbags,6
+Porsche,Cayenne Coupe,GTS,Safety,Driver Airbag,YES
+Porsche,Cayenne Coupe,GTS,Safety,Passenger Airbag,YES
+Porsche,Cayenne Coupe,GTS,Safety,Side Airbag,YES
+Porsche,Cayenne Coupe,GTS,Safety,Side Airbag-Rear,NO
+Porsche,Cayenne Coupe,GTS,Safety,Day & Night Rear View Mirror,YES
+Porsche,Cayenne Coupe,GTS,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Porsche,Cayenne Coupe,GTS,Safety,Engine Immobilizer,YES
+Porsche,Cayenne Coupe,GTS,Safety,Anti-Theft Device,YES
+Porsche,Cayenne Coupe,GTS,Safety,ISOFIX Child Seat Mounts,YES
+Porsche,Cayenne Coupe,GTS,Entertainment & Communication,Radio,YES
+Porsche,Cayenne Coupe,GTS,Entertainment & Communication,Wireless Phone Charging,YES
+Porsche,Cayenne Coupe,GTS,Entertainment & Communication,USB & Auxiliary input,YES
+Porsche,Cayenne Coupe,GTS,Entertainment & Communication,Bluetooth Connectivity,YES
+Porsche,Cayenne Coupe,GTS,Entertainment & Communication,Compass,YES
+Porsche,Cayenne Coupe,GTS,Entertainment & Communication,Touchscreen,YES
+Porsche,Cayenne Coupe,GTS,Entertainment & Communication,Android Auto,YES
+Porsche,Cayenne Coupe,GTS,Entertainment & Communication,Apple CarPlay,YES
+Porsche,Cayenne Coupe,GTS,Entertainment & Communication,No. of Speakers,10
+Porsche,Cayenne Coupe,GTS,Entertainment & Communication,Usb Ports,YES
+Porsche,Cayenne Coupe,GTS,Entertainment & Communication,Additional Features,Sound Package Plus with 10 Speakers and a total Output of 150 Watts
+Porsche,Cayenne Coupe,GTS,Entertainment & Communication,Speakers,Front & Rear

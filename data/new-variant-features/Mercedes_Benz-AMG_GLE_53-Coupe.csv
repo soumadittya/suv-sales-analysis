@@ -1,0 +1,144 @@
+company,model,variant,category,feature_name,feature_details
+Mercedes-Benz,AMG GLE 53,Coupe,Engine & Transmission,Engine Type,3.0-litre 6-cylinder In-lineTurbo Engine
+Mercedes-Benz,AMG GLE 53,Coupe,Engine & Transmission,Displacement,2999 cc
+Mercedes-Benz,AMG GLE 53,Coupe,Engine & Transmission,Max Power,429.1bhp@6100rpm
+Mercedes-Benz,AMG GLE 53,Coupe,Engine & Transmission,Max Torque,520Nm@1800-5800rpm
+Mercedes-Benz,AMG GLE 53,Coupe,Engine & Transmission,No. of Cylinders,6
+Mercedes-Benz,AMG GLE 53,Coupe,Engine & Transmission,Valves Per Cylinder,4
+Mercedes-Benz,AMG GLE 53,Coupe,Engine & Transmission,Turbo Charger,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Engine & Transmission,Transmission Type,Automatic
+Mercedes-Benz,AMG GLE 53,Coupe,Engine & Transmission,Gearbox,9-Speed TRONIC AT
+Mercedes-Benz,AMG GLE 53,Coupe,Engine & Transmission,Drive Type,AWD
+Mercedes-Benz,AMG GLE 53,Coupe,Fuel & Performance,Fuel Type,Petrol
+Mercedes-Benz,AMG GLE 53,Coupe,Fuel & Performance,Petrol Mileage ARAI,8.9 kmpl
+Mercedes-Benz,AMG GLE 53,Coupe,Fuel & Performance,Petrol Fuel Tank Capacity,85 Litres
+Mercedes-Benz,AMG GLE 53,Coupe,Fuel & Performance,Secondary Fuel Type,Electric
+Mercedes-Benz,AMG GLE 53,Coupe,Fuel & Performance,Emission Norm Compliance,BS VI
+Mercedes-Benz,AMG GLE 53,Coupe,Fuel & Performance,Top Speed,250 kmph
+Mercedes-Benz,AMG GLE 53,Coupe,Fuel & Performance,Acceleration,5.3 s
+Mercedes-Benz,AMG GLE 53,Coupe,Fuel & Performance,0-100kmph,5.3 s
+Mercedes-Benz,AMG GLE 53,Coupe,"Suspension, Steering & Brakes",Front Suspension,Air suspension
+Mercedes-Benz,AMG GLE 53,Coupe,"Suspension, Steering & Brakes",Rear Suspension,Air suspension
+Mercedes-Benz,AMG GLE 53,Coupe,"Suspension, Steering & Brakes",Steering Type,Electric
+Mercedes-Benz,AMG GLE 53,Coupe,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Mercedes-Benz,AMG GLE 53,Coupe,"Suspension, Steering & Brakes",Steering Gear Type,Rack & Pinion
+Mercedes-Benz,AMG GLE 53,Coupe,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Mercedes-Benz,AMG GLE 53,Coupe,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Mercedes-Benz,AMG GLE 53,Coupe,Dimensions & Capacity,Length,4961 mm
+Mercedes-Benz,AMG GLE 53,Coupe,Dimensions & Capacity,Width,2157 mm
+Mercedes-Benz,AMG GLE 53,Coupe,Dimensions & Capacity,Height,1716 mm
+Mercedes-Benz,AMG GLE 53,Coupe,Dimensions & Capacity,Boot Space,655 Litres
+Mercedes-Benz,AMG GLE 53,Coupe,Dimensions & Capacity,Seating Capacity,5
+Mercedes-Benz,AMG GLE 53,Coupe,Dimensions & Capacity,Wheel Base,2750 mm
+Mercedes-Benz,AMG GLE 53,Coupe,Dimensions & Capacity,Kerb Weight,2305 kg
+Mercedes-Benz,AMG GLE 53,Coupe,Dimensions & Capacity,Gross Weight,3050 kg
+Mercedes-Benz,AMG GLE 53,Coupe,Comfort & Convenience,Power Steering,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Comfort & Convenience,Power Boot,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Comfort & Convenience,Air Conditioner,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Comfort & Convenience,Heater,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Comfort & Convenience,Adjustable Steering,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Comfort & Convenience,Height Adjustable Driver Seat,Optional
+Mercedes-Benz,AMG GLE 53,Coupe,Comfort & Convenience,Ventilated Seats,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Comfort & Convenience,Electric Adjustable Seats,Front
+Mercedes-Benz,AMG GLE 53,Coupe,Comfort & Convenience,Automatic Climate Control,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Comfort & Convenience,Air Quality Control,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Comfort & Convenience,Remote Climate Control (A/C),YES
+Mercedes-Benz,AMG GLE 53,Coupe,Comfort & Convenience,Remote Trunk Opener,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Comfort & Convenience,Low Fuel Warning Light,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Comfort & Convenience,Accessory Power Outlet,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Comfort & Convenience,Rear Seat Headrest,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Comfort & Convenience,Adjustable Headrest,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Comfort & Convenience,Rear AC Vents,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Comfort & Convenience,Lumbar Support,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Comfort & Convenience,Cruise Control,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Comfort & Convenience,Parking Sensors,Front & Rear
+Mercedes-Benz,AMG GLE 53,Coupe,Comfort & Convenience,Navigation System,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Comfort & Convenience,Find My Car location,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Mercedes-Benz,AMG GLE 53,Coupe,Comfort & Convenience,Smart Key Band,NO
+Mercedes-Benz,AMG GLE 53,Coupe,Comfort & Convenience,KeyLess Entry,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Comfort & Convenience,Engine Start/Stop Button,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Comfort & Convenience,Voice Commands,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Comfort & Convenience,Paddle Shifters,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Comfort & Convenience,USB Charger,Front & Rear
+Mercedes-Benz,AMG GLE 53,Coupe,Comfort & Convenience,Central Console Armrest,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Comfort & Convenience,Gear Shift Indicator,NO
+Mercedes-Benz,AMG GLE 53,Coupe,Comfort & Convenience,Follow Me Home Headlamps,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Interior,Electronic Multi-Tripmeter,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Interior,Leather Seats,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Interior,Fabric Upholstery,NO
+Mercedes-Benz,AMG GLE 53,Coupe,Interior,Leather Wrapped Steering Wheel,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Interior,Leather wrap gear-shift selector,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Interior,Glove Box,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Interior,Digital Clock,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Interior,Outside Temperature Display,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Interior,Driving Experience Control Eco,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Interior,Folding Table in The Rear,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Exterior,Adjustable Headlamps,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Exterior,Fog Lights - Front,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Exterior,Headlamp Washers,NO
+Mercedes-Benz,AMG GLE 53,Coupe,Exterior,Rain Sensing Wiper,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Exterior,Rear Window Wiper,NO
+Mercedes-Benz,AMG GLE 53,Coupe,Exterior,Rear Window Washer,NO
+Mercedes-Benz,AMG GLE 53,Coupe,Exterior,Rear Window Defogger,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Exterior,Wheel Covers,NO
+Mercedes-Benz,AMG GLE 53,Coupe,Exterior,Alloy Wheels,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Exterior,Power Antenna,NO
+Mercedes-Benz,AMG GLE 53,Coupe,Exterior,Tinted Glass,NO
+Mercedes-Benz,AMG GLE 53,Coupe,Exterior,Rear Spoiler,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Exterior,Side Stepper,Optional
+Mercedes-Benz,AMG GLE 53,Coupe,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Exterior,Dual Tone Body Colour,NO
+Mercedes-Benz,AMG GLE 53,Coupe,Exterior,Cornering Headlamps,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Exterior,Roof Rails,NO
+Mercedes-Benz,AMG GLE 53,Coupe,Exterior,Automatic Headlamps,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Exterior,Trunk Opener,Smart
+Mercedes-Benz,AMG GLE 53,Coupe,Exterior,Heated Wing Mirror,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Exterior,Sun Roof,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Exterior,Tyre Size,255/55 R19
+Mercedes-Benz,AMG GLE 53,Coupe,Exterior,Tyre Type,Tubeless
+Mercedes-Benz,AMG GLE 53,Coupe,Exterior,Wheel Size,R21 Inch
+Mercedes-Benz,AMG GLE 53,Coupe,Exterior,LED DRLs,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Exterior,LED Headlamps,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Exterior,LED Taillights,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Exterior,LED Fog Lamps,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Safety,Anti-lock Braking System (ABS),YES
+Mercedes-Benz,AMG GLE 53,Coupe,Safety,Brake Assist,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Safety,Central Locking,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Safety,Child Safety Locks,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Safety,Anti-Theft Alarm,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Safety,No. of Airbags,9
+Mercedes-Benz,AMG GLE 53,Coupe,Safety,Driver Airbag,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Safety,Passenger Airbag,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Safety,Side Airbag,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Safety,Side Airbag-Rear,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Safety,Day & Night Rear View Mirror,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Safety,Traction Control,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Mercedes-Benz,AMG GLE 53,Coupe,Safety,Engine Immobilizer,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Safety,Electronic Stability Control (ESC),YES
+Mercedes-Benz,AMG GLE 53,Coupe,Safety,ISOFIX Child Seat Mounts,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Safety,Heads-Up Display (HUD),YES
+Mercedes-Benz,AMG GLE 53,Coupe,Safety,Blind Spot Camera,NO
+Mercedes-Benz,AMG GLE 53,Coupe,Safety,Hill Descent Control,NO
+Mercedes-Benz,AMG GLE 53,Coupe,Safety,Hill Assist,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Safety,360 View Camera,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Safety,Global NCAP Safety Rating,5 Star
+Mercedes-Benz,AMG GLE 53,Coupe,Entertainment & Communication,Radio,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Entertainment & Communication,Audio System Remote Control,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Entertainment & Communication,MirrorLink,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Entertainment & Communication,Wireless Phone Charging,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Entertainment & Communication,USB & Auxiliary input,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Entertainment & Communication,Bluetooth Connectivity,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Entertainment & Communication,Wi-Fi Connectivity,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Entertainment & Communication,Compass,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Entertainment & Communication,Touchscreen,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Entertainment & Communication,Touchscreen Size,12.3
+Mercedes-Benz,AMG GLE 53,Coupe,Entertainment & Communication,Android Auto,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Entertainment & Communication,Apple CarPlay,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Entertainment & Communication,No. of Speakers,13
+Mercedes-Benz,AMG GLE 53,Coupe,Entertainment & Communication,Rear Entertainment System,NO
+Mercedes-Benz,AMG GLE 53,Coupe,Entertainment & Communication,Usb Ports,YES
+Mercedes-Benz,AMG GLE 53,Coupe,Entertainment & Communication,Speakers,Front & Rear
+Mercedes-Benz,AMG GLE 53,Coupe,ADAS Feature,Blind Spot Monitor,YES

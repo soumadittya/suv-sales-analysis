@@ -1,0 +1,125 @@
+company,model,variant,category,feature_name,feature_details
+Hyundai,Exter,HX6,Engine & Transmission,Engine Type,1.2 l Kappa
+Hyundai,Exter,HX6,Engine & Transmission,Displacement,1197 cc
+Hyundai,Exter,HX6,Engine & Transmission,Max Power,82bhp@6000rpm
+Hyundai,Exter,HX6,Engine & Transmission,Max Torque,113.8Nm@4000rpm
+Hyundai,Exter,HX6,Engine & Transmission,No. of Cylinders,4
+Hyundai,Exter,HX6,Engine & Transmission,Valves Per Cylinder,4
+Hyundai,Exter,HX6,Engine & Transmission,Transmission Type,Manual
+Hyundai,Exter,HX6,Engine & Transmission,Gearbox,5-Speed
+Hyundai,Exter,HX6,Engine & Transmission,Drive Type,FWD
+Hyundai,Exter,HX6,Fuel & Performance,Fuel Type,Petrol
+Hyundai,Exter,HX6,Fuel & Performance,Petrol Fuel Tank Capacity,37 Litres
+Hyundai,Exter,HX6,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Hyundai,Exter,HX6,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Hyundai,Exter,HX6,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Hyundai,Exter,HX6,"Suspension, Steering & Brakes",Shock Absorbers Type,Gas Type
+Hyundai,Exter,HX6,"Suspension, Steering & Brakes",Steering Type,Electric
+Hyundai,Exter,HX6,"Suspension, Steering & Brakes",Steering Column,Tilt
+Hyundai,Exter,HX6,"Suspension, Steering & Brakes",Steering Gear Type,Rack & Pinion
+Hyundai,Exter,HX6,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Hyundai,Exter,HX6,"Suspension, Steering & Brakes",Rear Brake Type,Drum
+Hyundai,Exter,HX6,Dimensions & Capacity,Length,3830 mm
+Hyundai,Exter,HX6,Dimensions & Capacity,Width,1723 mm
+Hyundai,Exter,HX6,Dimensions & Capacity,Height,1643 mm
+Hyundai,Exter,HX6,Dimensions & Capacity,Boot Space,391 Litres
+Hyundai,Exter,HX6,Dimensions & Capacity,Seating Capacity,5
+Hyundai,Exter,HX6,Dimensions & Capacity,Wheel Base,2450 mm
+Hyundai,Exter,HX6,Dimensions & Capacity,Reported Boot Space,391 Litres
+Hyundai,Exter,HX6,Comfort & Convenience,Boot Opening,Manual
+Hyundai,Exter,HX6,Comfort & Convenience,Power Steering,YES
+Hyundai,Exter,HX6,Comfort & Convenience,Air Conditioner,YES
+Hyundai,Exter,HX6,Comfort & Convenience,Heater,YES
+Hyundai,Exter,HX6,Comfort & Convenience,Adjustable Steering,Height only
+Hyundai,Exter,HX6,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Hyundai,Exter,HX6,Comfort & Convenience,Automatic Climate Control,YES
+Hyundai,Exter,HX6,Comfort & Convenience,Accessory Power Outlet,YES
+Hyundai,Exter,HX6,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Hyundai,Exter,HX6,Comfort & Convenience,Adjustable Headrest,YES
+Hyundai,Exter,HX6,Comfort & Convenience,Rear AC Vents,YES
+Hyundai,Exter,HX6,Comfort & Convenience,Cruise Control,YES
+Hyundai,Exter,HX6,Comfort & Convenience,Parking Sensors,Rear
+Hyundai,Exter,HX6,Comfort & Convenience,KeyLess Entry,YES
+Hyundai,Exter,HX6,Comfort & Convenience,Engine Start/Stop Button,YES
+Hyundai,Exter,HX6,Comfort & Convenience,Paddle Shifters,NO
+Hyundai,Exter,HX6,Comfort & Convenience,USB Charger,Front & Rear
+Hyundai,Exter,HX6,Comfort & Convenience,Gear Shift Indicator,YES
+Hyundai,Exter,HX6,Comfort & Convenience,Additional Features,Rear Parcel Tray
+Hyundai,Exter,HX6,Comfort & Convenience,Power Windows,Front & Rear
+Hyundai,Exter,HX6,Interior,Leather Wrapped Steering Wheel,NO
+Hyundai,Exter,HX6,Interior,Glove Box,YES
+Hyundai,Exter,HX6,Interior,Digital Cluster,YES
+Hyundai,Exter,HX6,Interior,Upholstery,Fabric
+Hyundai,Exter,HX6,Exterior,Adjustable Headlamps,YES
+Hyundai,Exter,HX6,Exterior,Rear Window Wiper,NO
+Hyundai,Exter,HX6,Exterior,Rear Window Washer,NO
+Hyundai,Exter,HX6,Exterior,Rear Window Defogger,YES
+Hyundai,Exter,HX6,Exterior,Rear Spoiler,YES
+Hyundai,Exter,HX6,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Hyundai,Exter,HX6,Exterior,Projector Headlamps,YES
+Hyundai,Exter,HX6,Exterior,Roof Rails,YES
+Hyundai,Exter,HX6,Exterior,Automatic Headlamps,NO
+Hyundai,Exter,HX6,Exterior,Antenna,Shark Fin
+Hyundai,Exter,HX6,Exterior,Sunroof,Single Pane
+Hyundai,Exter,HX6,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Hyundai,Exter,HX6,Exterior,Wheels Type,Steel with Cover
+Hyundai,Exter,HX6,Exterior,Tyre Size,175/65 R15
+Hyundai,Exter,HX6,Exterior,Tyre Type,Radial Tubeless
+Hyundai,Exter,HX6,Exterior,Wheel Size,15 Inch
+Hyundai,Exter,HX6,Exterior,LED DRLs,YES
+Hyundai,Exter,HX6,Exterior,LED Taillights,YES
+Hyundai,Exter,HX6,Safety,Anti-lock Braking System (ABS),YES
+Hyundai,Exter,HX6,Safety,Central Locking,YES
+Hyundai,Exter,HX6,Safety,Child Safety Locks,YES
+Hyundai,Exter,HX6,Safety,Anti-Theft Alarm,YES
+Hyundai,Exter,HX6,Safety,No. of Airbags,6
+Hyundai,Exter,HX6,Safety,Driver Airbag,YES
+Hyundai,Exter,HX6,Safety,Passenger Airbag,YES
+Hyundai,Exter,HX6,Safety,Side Airbag,YES
+Hyundai,Exter,HX6,Safety,Side Airbag-Rear,NO
+Hyundai,Exter,HX6,Safety,Day & Night Rear View Mirror,YES
+Hyundai,Exter,HX6,Safety,Electronic Brakeforce Distribution (EBD),YES
+Hyundai,Exter,HX6,Safety,Traction Control,YES
+Hyundai,Exter,HX6,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Hyundai,Exter,HX6,Safety,Engine Immobilizer,YES
+Hyundai,Exter,HX6,Safety,Electronic Stability Control (ESC),YES
+Hyundai,Exter,HX6,Safety,Rear Camera,With Guidedlines
+Hyundai,Exter,HX6,Safety,Anti-Theft Device,YES
+Hyundai,Exter,HX6,Safety,ISOFIX Child Seat Mounts,YES
+Hyundai,Exter,HX6,Safety,Hill Assist,YES
+Hyundai,Exter,HX6,Entertainment & Communication,Radio,YES
+Hyundai,Exter,HX6,Entertainment & Communication,Wireless Phone Charging,NO
+Hyundai,Exter,HX6,Entertainment & Communication,Bluetooth Connectivity,YES
+Hyundai,Exter,HX6,Entertainment & Communication,Touchscreen,YES
+Hyundai,Exter,HX6,Entertainment & Communication,Touchscreen Size,8 inch
+Hyundai,Exter,HX6,Entertainment & Communication,Android Auto,YES
+Hyundai,Exter,HX6,Entertainment & Communication,Apple CarPlay,YES
+Hyundai,Exter,HX6,Entertainment & Communication,Usb Ports,YES
+Hyundai,Exter,HX6,Entertainment & Communication,Additional Features,Wireless Android Auto & Apple CarPlay
+Hyundai,Exter,HX6,Entertainment & Communication,Speakers,Front & Rear
+Hyundai,Exter,HX6,ADAS Feature,Forward Collision Warning,NO
+Hyundai,Exter,HX6,ADAS Feature,Automatic Emergency Braking,NO
+Hyundai,Exter,HX6,ADAS Feature,Oncoming Lane Mitigation,NO
+Hyundai,Exter,HX6,ADAS Feature,Speed Assist System,NO
+Hyundai,Exter,HX6,ADAS Feature,Traffic Sign Recognition,NO
+Hyundai,Exter,HX6,ADAS Feature,Blind Spot Collision Avoidance Assist,NO
+Hyundai,Exter,HX6,ADAS Feature,Lane Departure Warning,NO
+Hyundai,Exter,HX6,ADAS Feature,Lane Keep Assist,NO
+Hyundai,Exter,HX6,ADAS Feature,Lane Departure Prevention Assist,NO
+Hyundai,Exter,HX6,ADAS Feature,Road Departure Mitigation System,NO
+Hyundai,Exter,HX6,ADAS Feature,Driver Attention Warning,NO
+Hyundai,Exter,HX6,ADAS Feature,Adaptive Cruise Control,NO
+Hyundai,Exter,HX6,ADAS Feature,Leading Vehicle Departure Alert,NO
+Hyundai,Exter,HX6,ADAS Feature,Adaptive High Beam Assist,NO
+Hyundai,Exter,HX6,ADAS Feature,Rear Cross Traffic Alert,NO
+Hyundai,Exter,HX6,ADAS Feature,Rear Cross Traffic Collision-Avoidance Assist,NO
+Hyundai,Exter,HX6,Advance Internet Feature,Live Location,NO
+Hyundai,Exter,HX6,Advance Internet Feature,Remote Vehicle Status Check,NO
+Hyundai,Exter,HX6,Advance Internet Feature,Live Weather,NO
+Hyundai,Exter,HX6,Advance Internet Feature,Over the Air (OTA) Updates,NO
+Hyundai,Exter,HX6,Advance Internet Feature,Crash Notification,NO
+Hyundai,Exter,HX6,Advance Internet Feature,SOS Button,NO
+Hyundai,Exter,HX6,Advance Internet Feature,In Car Remote Control App,NO
+Hyundai,Exter,HX6,Advance Internet Feature,Valet Mode,NO
+Hyundai,Exter,HX6,Advance Internet Feature,Remote Door Lock/Unlock,NO
+Hyundai,Exter,HX6,Advance Internet Feature,SOS / Emergency Assistance,NO

@@ -1,0 +1,19 @@
+company,model,variant,category,feature_name,feature_details
+Porsche,Cayenne Electric,Standard,Engine & Transmission,Max Power,436bhp
+Porsche,Cayenne Electric,Standard,Engine & Transmission,Max Torque,835Nm
+Porsche,Cayenne Electric,Standard,Engine & Transmission,Range,642 km
+Porsche,Cayenne Electric,Standard,Engine & Transmission,Battery Type,113
+Porsche,Cayenne Electric,Standard,Engine & Transmission,Regenerative Braking,NO
+Porsche,Cayenne Electric,Standard,Engine & Transmission,Transmission Type,Automatic
+Porsche,Cayenne Electric,Standard,Engine & Transmission,Drive Type,AWD
+Porsche,Cayenne Electric,Standard,Fuel & Performance,Fuel Type,Electric
+Porsche,Cayenne Electric,Standard,Fuel & Performance,Emission Norm Compliance,-1
+Porsche,Cayenne Electric,Standard,Fuel & Performance,Top Speed,230 kmph
+Porsche,Cayenne Electric,Standard,Charging,Fast Charging,NO
+Porsche,Cayenne Electric,Standard,Dimensions & Capacity,Length,4985 mm
+Porsche,Cayenne Electric,Standard,Dimensions & Capacity,Seating Capacity,5
+Porsche,Cayenne Electric,Standard,Safety,No. of Airbags,8
+Porsche,Cayenne Electric,Standard,Safety,Driver Airbag,YES
+Porsche,Cayenne Electric,Standard,Safety,Passenger Airbag,YES
+Porsche,Cayenne Electric,Standard,Safety,Side Airbag,YES
+Porsche,Cayenne Electric,Standard,Safety,Side Airbag-Rear,YES

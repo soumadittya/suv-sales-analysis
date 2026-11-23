@@ -1,0 +1,142 @@
+company,model,variant,category,feature_name,feature_details
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Engine & Transmission,Engine Type,5.0 Litre P525 V8 Petrol
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Engine & Transmission,Displacement,5000 cc
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Engine & Transmission,Max Power,420bhp@5500-6600rpm
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Engine & Transmission,Max Torque,550Nm@1800-5000rpm
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Engine & Transmission,No. of Cylinders,8
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Engine & Transmission,Valves Per Cylinder,4
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Engine & Transmission,Turbo Charger,NO
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Engine & Transmission,Super Charge,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Engine & Transmission,Transmission Type,Automatic
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Engine & Transmission,Gearbox,8-Speed
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Engine & Transmission,Drive Type,AWD
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Fuel & Performance,Fuel Type,Petrol
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Fuel & Performance,Petrol Mileage ARAI,6.8 kmpl
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Fuel & Performance,Top Speed,240 kmph
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Fuel & Performance,Acceleration,5.8 s
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Fuel & Performance,0-100kmph,5.8 s
+Land Rover,Defender,5.0 l V8 Petrol 110 X,"Suspension, Steering & Brakes",Front Suspension,Air suspension
+Land Rover,Defender,5.0 l V8 Petrol 110 X,"Suspension, Steering & Brakes",Rear Suspension,Air suspension
+Land Rover,Defender,5.0 l V8 Petrol 110 X,"Suspension, Steering & Brakes",Steering Type,Electronic
+Land Rover,Defender,5.0 l V8 Petrol 110 X,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Land Rover,Defender,5.0 l V8 Petrol 110 X,"Suspension, Steering & Brakes",Steering Gear Type,Rack & Pinion
+Land Rover,Defender,5.0 l V8 Petrol 110 X,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Land Rover,Defender,5.0 l V8 Petrol 110 X,"Suspension, Steering & Brakes",Rear Brake Type,Ventilated Disc
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Dimensions & Capacity,Length,4758 mm
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Dimensions & Capacity,Width,2105 mm
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Dimensions & Capacity,Height,1967 mm
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Dimensions & Capacity,Seating Capacity,5
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Dimensions & Capacity,Wheel Base,3022 mm
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Dimensions & Capacity,Gross Weight,3200 kg
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Comfort & Convenience,Boot Opening,Powered
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Comfort & Convenience,Power Steering,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Comfort & Convenience,Air Conditioner,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Comfort & Convenience,Heater,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Comfort & Convenience,Adjustable Steering,Height & Reach
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Comfort & Convenience,Ventilated Seats,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Comfort & Convenience,Electric Adjustable Seats,Front
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Comfort & Convenience,Automatic Climate Control,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Comfort & Convenience,Air Quality Control,NO
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Comfort & Convenience,Accessory Power Outlet,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Comfort & Convenience,Adjustable Headrest,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Comfort & Convenience,Rear AC Vents,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Comfort & Convenience,Cruise Control,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Comfort & Convenience,Parking Sensors,Front & Rear
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Comfort & Convenience,KeyLess Entry,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Comfort & Convenience,Engine Start/Stop Button,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Comfort & Convenience,Voice Commands,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Comfort & Convenience,Paddle Shifters,NO
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Comfort & Convenience,USB Charger,Front & Rear
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Comfort & Convenience,Follow Me Home Headlamps,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Comfort & Convenience,Power Windows,Front & Rear
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Comfort & Convenience,Cup Holders,Front & Rear
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Comfort & Convenience,Heated Seats,Front Only
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Interior,Glove Box,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Interior,Lighting,"Ambient light, Footwell Lamp"
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Interior,Digital Cluster,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Interior,Upholstery,Leather
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Interior,Ambient Light Colour (numbers),64
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Exterior,Adjustable Headlamps,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Exterior,Rain Sensing Wiper,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Exterior,Rear Window Wiper,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Exterior,Rear Window Washer,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Exterior,Rear Window Defogger,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Exterior,Wheel Covers,NO
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Exterior,Alloy Wheels,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Exterior,Roof Rails,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Exterior,Automatic Headlamps,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Exterior,Fog Lights,Front & Rear
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Exterior,Antenna,Shark Fin
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Exterior,Sunroof,Panoramic
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Exterior,Heated Outside Rear View Mirror,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Exterior,Tyre Type,Radial Tubeless
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Exterior,LED DRLs,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Exterior,LED Headlamps,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Exterior,LED Taillights,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Exterior,LED Fog Lamps,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Safety,Anti-lock Braking System (ABS),YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Safety,Brake Assist,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Safety,Central Locking,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Safety,Child Safety Locks,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Safety,Anti-Theft Alarm,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Safety,No. of Airbags,6
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Safety,Driver Airbag,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Safety,Passenger Airbag,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Safety,Side Airbag,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Safety,Side Airbag-Rear,NO
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Safety,Day & Night Rear View Mirror,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Safety,Electronic Brakeforce Distribution (EBD),YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Safety,Traction Control,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Safety,Engine Immobilizer,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Safety,Electronic Stability Control (ESC),YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Safety,Rear Camera,With Guidedlines
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Safety,Anti-Pinch Power Windows,All Windows
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Safety,ISOFIX Child Seat Mounts,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Safety,Hill Descent Control,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Safety,Hill Assist,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Safety,360 View Camera,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Entertainment & Communication,Radio,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Entertainment & Communication,Wireless Phone Charging,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Entertainment & Communication,Bluetooth Connectivity,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Entertainment & Communication,Touchscreen,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Entertainment & Communication,Touchscreen Size,13.1 inch
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Entertainment & Communication,Android Auto,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Entertainment & Communication,Apple CarPlay,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Entertainment & Communication,No. of Speakers,14
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Entertainment & Communication,Usb Ports,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Entertainment & Communication,Subwoofer,1
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Entertainment & Communication,Additional Features,Meridian Surround Sound System
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Entertainment & Communication,Speakers,Front & Rear
+Land Rover,Defender,5.0 l V8 Petrol 110 X,ADAS Feature,Forward Collision Warning,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,ADAS Feature,Blind Spot Collision Avoidance Assist,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,ADAS Feature,Lane Departure Warning,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,ADAS Feature,Lane Departure Prevention Assist,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,ADAS Feature,Road Departure Mitigation System,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,ADAS Feature,Driver Attention Warning,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,ADAS Feature,Adaptive Cruise Control,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,ADAS Feature,Leading Vehicle Departure Alert,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,ADAS Feature,Adaptive High Beam Assist,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,ADAS Feature,Rear Cross Traffic Alert,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,ADAS Feature,Rear Cross Traffic Collision-Avoidance Assist,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,ADAS Feature,Blind Spot Monitor,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Advance Internet Feature,Remote Vehicle Status Check,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Advance Internet Feature,Navigation with Live Traffic,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Advance Internet Feature,Live Weather,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Advance Internet Feature,E-Call & I-Call,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Advance Internet Feature,Crash Notification,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Advance Internet Feature,SOS Button,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Advance Internet Feature,RSA,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Advance Internet Feature,Over Speeding Alert,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Advance Internet Feature,Tow Away Alert,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Advance Internet Feature,In Car Remote Control App,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Advance Internet Feature,Valet Mode,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Advance Internet Feature,Remote AC On/Off,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Advance Internet Feature,Remote Door Lock/Unlock,YES
+Land Rover,Defender,5.0 l V8 Petrol 110 X,Advance Internet Feature,SOS / Emergency Assistance,YES

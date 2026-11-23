@@ -1,0 +1,129 @@
+company,model,variant,category,feature_name,feature_details
+Hyundai,Creta,E Diesel,Engine & Transmission,Engine Type,1.5L U2 CRDi
+Hyundai,Creta,E Diesel,Engine & Transmission,Displacement,1493 cc
+Hyundai,Creta,E Diesel,Engine & Transmission,Max Power,114bhp@4000rpm
+Hyundai,Creta,E Diesel,Engine & Transmission,Max Torque,250Nm@1500-2750rpm
+Hyundai,Creta,E Diesel,Engine & Transmission,No. of Cylinders,4
+Hyundai,Creta,E Diesel,Engine & Transmission,Valves Per Cylinder,4
+Hyundai,Creta,E Diesel,Engine & Transmission,Valve Configuration,DOHC
+Hyundai,Creta,E Diesel,Engine & Transmission,Fuel Supply System,CRDi
+Hyundai,Creta,E Diesel,Engine & Transmission,Turbo Charger,YES
+Hyundai,Creta,E Diesel,Engine & Transmission,Transmission Type,Manual
+Hyundai,Creta,E Diesel,Engine & Transmission,Gearbox,6-Speed
+Hyundai,Creta,E Diesel,Engine & Transmission,Drive Type,FWD
+Hyundai,Creta,E Diesel,Fuel & Performance,Fuel Type,Diesel
+Hyundai,Creta,E Diesel,Fuel & Performance,Diesel Mileage ARAI,21.8 kmpl
+Hyundai,Creta,E Diesel,Fuel & Performance,Diesel Fuel Tank Capacity,50 Litres
+Hyundai,Creta,E Diesel,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Hyundai,Creta,E Diesel,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Hyundai,Creta,E Diesel,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Hyundai,Creta,E Diesel,"Suspension, Steering & Brakes",Steering Type,Electric
+Hyundai,Creta,E Diesel,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Hyundai,Creta,E Diesel,"Suspension, Steering & Brakes",Steering Gear Type,Rack & Pinion
+Hyundai,Creta,E Diesel,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Hyundai,Creta,E Diesel,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Hyundai,Creta,E Diesel,Dimensions & Capacity,Length,4330 mm
+Hyundai,Creta,E Diesel,Dimensions & Capacity,Width,1790 mm
+Hyundai,Creta,E Diesel,Dimensions & Capacity,Height,1635 mm
+Hyundai,Creta,E Diesel,Dimensions & Capacity,Seating Capacity,5
+Hyundai,Creta,E Diesel,Dimensions & Capacity,Wheel Base,2610 mm
+Hyundai,Creta,E Diesel,Dimensions & Capacity,Reported Boot Space,433 Litres
+Hyundai,Creta,E Diesel,Comfort & Convenience,Boot Opening,Electronic
+Hyundai,Creta,E Diesel,Comfort & Convenience,Power Steering,YES
+Hyundai,Creta,E Diesel,Comfort & Convenience,Air Conditioner,YES
+Hyundai,Creta,E Diesel,Comfort & Convenience,Heater,YES
+Hyundai,Creta,E Diesel,Comfort & Convenience,Adjustable Steering,Height & Reach
+Hyundai,Creta,E Diesel,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Hyundai,Creta,E Diesel,Comfort & Convenience,Ventilated Seats,NO
+Hyundai,Creta,E Diesel,Comfort & Convenience,Electric Adjustable Seats,NO
+Hyundai,Creta,E Diesel,Comfort & Convenience,Automatic Climate Control,NO
+Hyundai,Creta,E Diesel,Comfort & Convenience,Accessory Power Outlet,YES
+Hyundai,Creta,E Diesel,Comfort & Convenience,Rear Seat Headrest,Integrated
+Hyundai,Creta,E Diesel,Comfort & Convenience,Adjustable Headrest,YES
+Hyundai,Creta,E Diesel,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Hyundai,Creta,E Diesel,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Hyundai,Creta,E Diesel,Comfort & Convenience,Rear AC Vents,YES
+Hyundai,Creta,E Diesel,Comfort & Convenience,Cruise Control,NO
+Hyundai,Creta,E Diesel,Comfort & Convenience,Parking Sensors,Rear
+Hyundai,Creta,E Diesel,Comfort & Convenience,Real-Time Vehicle Tracking,NO
+Hyundai,Creta,E Diesel,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Hyundai,Creta,E Diesel,Comfort & Convenience,KeyLess Entry,YES
+Hyundai,Creta,E Diesel,Comfort & Convenience,Engine Start/Stop Button,NO
+Hyundai,Creta,E Diesel,Comfort & Convenience,Voice Commands,NO
+Hyundai,Creta,E Diesel,Comfort & Convenience,Paddle Shifters,NO
+Hyundai,Creta,E Diesel,Comfort & Convenience,USB Charger,Front & Rear
+Hyundai,Creta,E Diesel,Comfort & Convenience,Central Console Armrest,With Storage
+Hyundai,Creta,E Diesel,Comfort & Convenience,Drive Modes,NO
+Hyundai,Creta,E Diesel,Comfort & Convenience,Idle Start-Stop System,YES
+Hyundai,Creta,E Diesel,Comfort & Convenience,Power Windows,Front & Rear
+Hyundai,Creta,E Diesel,Interior,Glove Box,YES
+Hyundai,Creta,E Diesel,Interior,Upholstery,Fabric
+Hyundai,Creta,E Diesel,Exterior,Rain Sensing Wiper,NO
+Hyundai,Creta,E Diesel,Exterior,Rear Window Wiper,NO
+Hyundai,Creta,E Diesel,Exterior,Rear Window Washer,NO
+Hyundai,Creta,E Diesel,Exterior,Rear Window Defogger,NO
+Hyundai,Creta,E Diesel,Exterior,Wheel Covers,YES
+Hyundai,Creta,E Diesel,Exterior,Alloy Wheels,NO
+Hyundai,Creta,E Diesel,Exterior,Rear Spoiler,YES
+Hyundai,Creta,E Diesel,Exterior,Outside Rear View Mirror Turn Indicators,NO
+Hyundai,Creta,E Diesel,Exterior,Projector Headlamps,YES
+Hyundai,Creta,E Diesel,Exterior,Roof Rails,NO
+Hyundai,Creta,E Diesel,Exterior,Automatic Headlamps,NO
+Hyundai,Creta,E Diesel,Exterior,Antenna,Micro Roof
+Hyundai,Creta,E Diesel,Exterior,Sunroof,NO
+Hyundai,Creta,E Diesel,Exterior,Puddle Lamps,NO
+Hyundai,Creta,E Diesel,Exterior,Outside Rear View Mirror (ORVM),Manual
+Hyundai,Creta,E Diesel,Exterior,Tyre Size,205/65 R16
+Hyundai,Creta,E Diesel,Exterior,Tyre Type,Radial Tubeless
+Hyundai,Creta,E Diesel,Exterior,Wheel Size,16 Inch
+Hyundai,Creta,E Diesel,Exterior,LED DRLs,NO
+Hyundai,Creta,E Diesel,Exterior,LED Headlamps,NO
+Hyundai,Creta,E Diesel,Exterior,LED Taillights,NO
+Hyundai,Creta,E Diesel,Safety,Anti-lock Braking System (ABS),YES
+Hyundai,Creta,E Diesel,Safety,Brake Assist,YES
+Hyundai,Creta,E Diesel,Safety,Central Locking,YES
+Hyundai,Creta,E Diesel,Safety,Child Safety Locks,YES
+Hyundai,Creta,E Diesel,Safety,Anti-Theft Alarm,YES
+Hyundai,Creta,E Diesel,Safety,No. of Airbags,6
+Hyundai,Creta,E Diesel,Safety,Driver Airbag,YES
+Hyundai,Creta,E Diesel,Safety,Passenger Airbag,YES
+Hyundai,Creta,E Diesel,Safety,Side Airbag,YES
+Hyundai,Creta,E Diesel,Safety,Side Airbag-Rear,NO
+Hyundai,Creta,E Diesel,Safety,Day & Night Rear View Mirror,YES
+Hyundai,Creta,E Diesel,Safety,Electronic Brakeforce Distribution (EBD),YES
+Hyundai,Creta,E Diesel,Safety,Traction Control,YES
+Hyundai,Creta,E Diesel,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Hyundai,Creta,E Diesel,Safety,Engine Immobilizer,YES
+Hyundai,Creta,E Diesel,Safety,Electronic Stability Control (ESC),YES
+Hyundai,Creta,E Diesel,Safety,Rear Camera,NO
+Hyundai,Creta,E Diesel,Safety,Anti-Theft Device,YES
+Hyundai,Creta,E Diesel,Safety,ISOFIX Child Seat Mounts,YES
+Hyundai,Creta,E Diesel,Safety,Hill Assist,YES
+Hyundai,Creta,E Diesel,Safety,360 View Camera,NO
+Hyundai,Creta,E Diesel,Entertainment & Communication,Radio,NO
+Hyundai,Creta,E Diesel,Entertainment & Communication,Wireless Phone Charging,NO
+Hyundai,Creta,E Diesel,Entertainment & Communication,Bluetooth Connectivity,NO
+Hyundai,Creta,E Diesel,Entertainment & Communication,Touchscreen,NO
+Hyundai,Creta,E Diesel,Entertainment & Communication,Android Auto,NO
+Hyundai,Creta,E Diesel,Entertainment & Communication,Apple CarPlay,NO
+Hyundai,Creta,E Diesel,Entertainment & Communication,Usb Ports,YES
+Hyundai,Creta,E Diesel,Entertainment & Communication,Inbuilt Apps,NO
+Hyundai,Creta,E Diesel,Entertainment & Communication,Speakers,NO
+Hyundai,Creta,E Diesel,ADAS Feature,Forward Collision Warning,NO
+Hyundai,Creta,E Diesel,ADAS Feature,Blind Spot Collision Avoidance Assist,NO
+Hyundai,Creta,E Diesel,ADAS Feature,Lane Departure Warning,NO
+Hyundai,Creta,E Diesel,ADAS Feature,Lane Keep Assist,NO
+Hyundai,Creta,E Diesel,ADAS Feature,Driver Attention Warning,NO
+Hyundai,Creta,E Diesel,ADAS Feature,Adaptive Cruise Control,NO
+Hyundai,Creta,E Diesel,ADAS Feature,Leading Vehicle Departure Alert,NO
+Hyundai,Creta,E Diesel,ADAS Feature,Adaptive High Beam Assist,NO
+Hyundai,Creta,E Diesel,ADAS Feature,Rear Cross Traffic Alert,NO
+Hyundai,Creta,E Diesel,ADAS Feature,Rear Cross Traffic Collision-Avoidance Assist,NO
+Hyundai,Creta,E Diesel,ADAS Feature,Blind Spot Monitor,NO
+Hyundai,Creta,E Diesel,Advance Internet Feature,Live Location,NO
+Hyundai,Creta,E Diesel,Advance Internet Feature,Over the Air (OTA) Updates,NO
+Hyundai,Creta,E Diesel,Advance Internet Feature,Google / Alexa Connectivity,NO
+Hyundai,Creta,E Diesel,Advance Internet Feature,SOS Button,NO
+Hyundai,Creta,E Diesel,Advance Internet Feature,RSA,NO
+Hyundai,Creta,E Diesel,Advance Internet Feature,Remote Vehicle Ignition Start/Stop,NO
+Hyundai,Creta,E Diesel,Advance Internet Feature,Geo-fence Alert,NO

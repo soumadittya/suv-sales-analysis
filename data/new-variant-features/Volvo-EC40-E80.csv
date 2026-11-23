@@ -1,0 +1,163 @@
+company,model,variant,category,feature_name,feature_details
+Volvo,EC40,E80,Engine & Transmission,Battery Capacity,78 kWh
+Volvo,EC40,E80,Engine & Transmission,Motor Power,402.30
+Volvo,EC40,E80,Engine & Transmission,Max Power,402.30bhp
+Volvo,EC40,E80,Engine & Transmission,Max Torque,660Nm
+Volvo,EC40,E80,Engine & Transmission,Range,530 km
+Volvo,EC40,E80,Engine & Transmission,Battery Type,Lithium-Ion
+Volvo,EC40,E80,Engine & Transmission,Charging Time (A.C),8 Hours
+Volvo,EC40,E80,Engine & Transmission,Charging Time (D.C),27Min (150 kW)
+Volvo,EC40,E80,Engine & Transmission,Regenerative Braking,YES
+Volvo,EC40,E80,Engine & Transmission,Charging Port,CCS-II
+Volvo,EC40,E80,Engine & Transmission,Charging Options,11 kW AC | 150 kW DC
+Volvo,EC40,E80,Engine & Transmission,Transmission Type,Automatic
+Volvo,EC40,E80,Engine & Transmission,Gearbox,1-Speed
+Volvo,EC40,E80,Engine & Transmission,Drive Type,AWD
+Volvo,EC40,E80,Fuel & Performance,Fuel Type,Electric
+Volvo,EC40,E80,Fuel & Performance,Emission Norm Compliance,ZEV
+Volvo,EC40,E80,Fuel & Performance,Top Speed,180 kmph
+Volvo,EC40,E80,Fuel & Performance,Acceleration 0-100kmph,4.7Sec
+Volvo,EC40,E80,Charging,Charging Time,27Min (150 kW DC)
+Volvo,EC40,E80,Charging,Fast Charging,YES
+Volvo,EC40,E80,"Suspension, Steering & Brakes",Steering Type,Electric
+Volvo,EC40,E80,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Volvo,EC40,E80,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Volvo,EC40,E80,Dimensions & Capacity,Length,4440 mm
+Volvo,EC40,E80,Dimensions & Capacity,Width,1873 mm
+Volvo,EC40,E80,Dimensions & Capacity,Height,1591 mm
+Volvo,EC40,E80,Dimensions & Capacity,Boot Space,413 Litres
+Volvo,EC40,E80,Dimensions & Capacity,Seating Capacity,5
+Volvo,EC40,E80,Dimensions & Capacity,Wheel Base,2080 mm
+Volvo,EC40,E80,Dimensions & Capacity,Front Tread,1641 mm
+Volvo,EC40,E80,Dimensions & Capacity,Reported Boot Space,610 Litres
+Volvo,EC40,E80,Dimensions & Capacity,Reported Ground Clearance (Unladen),177 mm
+Volvo,EC40,E80,Comfort & Convenience,Boot Opening,Automatic
+Volvo,EC40,E80,Comfort & Convenience,Power Steering,YES
+Volvo,EC40,E80,Comfort & Convenience,Air Conditioner,YES
+Volvo,EC40,E80,Comfort & Convenience,Heater,YES
+Volvo,EC40,E80,Comfort & Convenience,Adjustable Steering,YES
+Volvo,EC40,E80,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Volvo,EC40,E80,Comfort & Convenience,Electric Adjustable Seats,Front
+Volvo,EC40,E80,Comfort & Convenience,Automatic Climate Control,YES
+Volvo,EC40,E80,Comfort & Convenience,Air Quality Control,YES
+Volvo,EC40,E80,Comfort & Convenience,Accessory Power Outlet,YES
+Volvo,EC40,E80,Comfort & Convenience,Adjustable Headrest,YES
+Volvo,EC40,E80,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Volvo,EC40,E80,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Volvo,EC40,E80,Comfort & Convenience,Rear AC Vents,YES
+Volvo,EC40,E80,Comfort & Convenience,Lumbar Support,YES
+Volvo,EC40,E80,Comfort & Convenience,Cruise Control,YES
+Volvo,EC40,E80,Comfort & Convenience,Parking Sensors,Front & Rear
+Volvo,EC40,E80,Comfort & Convenience,Real-Time Vehicle Tracking,YES
+Volvo,EC40,E80,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Volvo,EC40,E80,Comfort & Convenience,KeyLess Entry,YES
+Volvo,EC40,E80,Comfort & Convenience,Engine Start/Stop Button,NO
+Volvo,EC40,E80,Comfort & Convenience,Voice Commands,YES
+Volvo,EC40,E80,Comfort & Convenience,Paddle Shifters,YES
+Volvo,EC40,E80,Comfort & Convenience,USB Charger,Front & Rear
+Volvo,EC40,E80,Comfort & Convenience,Central Console Armrest,With Storage
+Volvo,EC40,E80,Comfort & Convenience,Glove Box light,YES
+Volvo,EC40,E80,Comfort & Convenience,Follow Me Home Headlamps,YES
+Volvo,EC40,E80,Comfort & Convenience,Additional Features,"Clean zone (Air Purifier),Humidity Sensors,Fixed Panaromic Sun Roof,Automatically dimmed inner and exterior mirror,Front tread plated metal recharge,Parking ticket holder,Waste bin in front of armrest,Glove box curry hook,Suede textile/Microtech Upholstery,Power adjustable driver seat with mamory,Power adjustable passenger seat,4 way power adjustable lumbar support,Mechanicle Cushion Extenshion Front seat,Mechanicle release fold 2nd row rear seat,Power foldable rear headrest from centre stack display,Luggage space in front,Foldable floor hatchs with grocery bag holder,Warning Triabgle,First aid kit,Connector EU type+ Quickcharge,Cord plug m type 2 Mode 2"
+Volvo,EC40,E80,Interior,Electronic Multi-Tripmeter,YES
+Volvo,EC40,E80,Interior,Leather wrap gear-shift selector,NO
+Volvo,EC40,E80,Interior,Glove Box,YES
+Volvo,EC40,E80,Interior,Digital Clock,YES
+Volvo,EC40,E80,Interior,Folding Table in The Rear,YES
+Volvo,EC40,E80,Interior,Additional Features,"Decore Topography back lit decore,Illuminated vanity mirror in sunvisor LH / RH side,Artificial leather steering wheel with unl deco inlay 3 spoke,sport,Gearlever knob,Interior illumination high level,Parking ticket holder,Glovebox curry hook,Tunnel console high gloss black ash tray lid,Charcoal roof colour interior,Interior Motion Sensor for alarm,Key remote control,Tempered glass side & rear windows,31.24 cms (12.3 inch) driver display,Carpet kit textile,Power Opreted tailgate"
+Volvo,EC40,E80,Interior,Digital Cluster,YES
+Volvo,EC40,E80,Interior,Upholstery,Fabric
+Volvo,EC40,E80,Exterior,Adjustable Headlamps,YES
+Volvo,EC40,E80,Exterior,Fog Lights - Front,YES
+Volvo,EC40,E80,Exterior,Alloy Wheels,YES
+Volvo,EC40,E80,Exterior,Rear Spoiler,YES
+Volvo,EC40,E80,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Volvo,EC40,E80,Exterior,Projector Headlamps,YES
+Volvo,EC40,E80,Exterior,Roof Rails,NO
+Volvo,EC40,E80,Exterior,Trunk Opener,Remote
+Volvo,EC40,E80,Exterior,Fog Lights,Front
+Volvo,EC40,E80,Exterior,Antenna,Shark Fin
+Volvo,EC40,E80,Exterior,Sunroof,Panoramic
+Volvo,EC40,E80,Exterior,Puddle Lamps,YES
+Volvo,EC40,E80,Exterior,Tyre Size,235/50 R19
+Volvo,EC40,E80,Exterior,Tyre Type,"Tubeless, Radial"
+Volvo,EC40,E80,Exterior,LED DRLs,YES
+Volvo,EC40,E80,Exterior,LED Headlamps,YES
+Volvo,EC40,E80,Exterior,LED Taillights,YES
+Volvo,EC40,E80,Exterior,LED Fog Lamps,YES
+Volvo,EC40,E80,Exterior,Additional Features,"BEV grill colour coordinated convert mesh,High gloss black décor side window,,Handle side door body colour keyless and illumination,Black rear view mirror covers,Retractable rear view mirror,Pixle technology headlights,EBL flashing brake light and hazard warning,Foglight in front,Temporary Sparewheel,Jack,Warning Triabgle"
+Volvo,EC40,E80,Safety,Anti-lock Braking System (ABS),YES
+Volvo,EC40,E80,Safety,Brake Assist,YES
+Volvo,EC40,E80,Safety,Central Locking,YES
+Volvo,EC40,E80,Safety,Child Safety Locks,YES
+Volvo,EC40,E80,Safety,Anti-Theft Alarm,YES
+Volvo,EC40,E80,Safety,No. of Airbags,7
+Volvo,EC40,E80,Safety,Driver Airbag,YES
+Volvo,EC40,E80,Safety,Passenger Airbag,YES
+Volvo,EC40,E80,Safety,Side Airbag,YES
+Volvo,EC40,E80,Safety,Side Airbag-Rear,NO
+Volvo,EC40,E80,Safety,Day & Night Rear View Mirror,YES
+Volvo,EC40,E80,Safety,Electronic Brakeforce Distribution (EBD),YES
+Volvo,EC40,E80,Safety,Acoustic Vehicle Alert System,YES
+Volvo,EC40,E80,Safety,Traction Control,YES
+Volvo,EC40,E80,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Volvo,EC40,E80,Safety,Electronic Stability Control (ESC),YES
+Volvo,EC40,E80,Safety,Rear Camera,With Guidedlines
+Volvo,EC40,E80,Safety,ISOFIX Child Seat Mounts,YES
+Volvo,EC40,E80,Safety,Blind Spot Camera,YES
+Volvo,EC40,E80,Safety,Hill Descent Control,YES
+Volvo,EC40,E80,Safety,Hill Assist,YES
+Volvo,EC40,E80,Safety,360 View Camera,YES
+Volvo,EC40,E80,Entertainment & Communication,Radio,YES
+Volvo,EC40,E80,Entertainment & Communication,Wireless Phone Charging,YES
+Volvo,EC40,E80,Entertainment & Communication,USB & Auxiliary input,YES
+Volvo,EC40,E80,Entertainment & Communication,Bluetooth Connectivity,YES
+Volvo,EC40,E80,Entertainment & Communication,Wi-Fi Connectivity,YES
+Volvo,EC40,E80,Entertainment & Communication,Touchscreen,YES
+Volvo,EC40,E80,Entertainment & Communication,Touchscreen Size,9 Inch
+Volvo,EC40,E80,Entertainment & Communication,Android Auto,YES
+Volvo,EC40,E80,Entertainment & Communication,Apple CarPlay,YES
+Volvo,EC40,E80,Entertainment & Communication,Rear Entertainment System,YES
+Volvo,EC40,E80,Entertainment & Communication,Usb Ports,YES
+Volvo,EC40,E80,Entertainment & Communication,Inbuilt Apps,"Savan, Spotyfy, Etc."
+Volvo,EC40,E80,Entertainment & Communication,Additional Features,"Harmon kardon premium sound system,Remote cuntrol button in steering wheel,22.86cms (9 inch) centre display with touch screen,2 USB Type-c connectors front,Digital service pack,Android based google assisted infotainment system,Volvo on call,with Telematic ca Module,Apple car play with wire,Speech funcion,Inductive charging for smartphone"
+Volvo,EC40,E80,Entertainment & Communication,Speakers,Front & Rear
+Volvo,EC40,E80,ADAS Feature,Forward Collision Warning,YES
+Volvo,EC40,E80,ADAS Feature,Automatic Emergency Braking,YES
+Volvo,EC40,E80,ADAS Feature,Oncoming Lane Mitigation,YES
+Volvo,EC40,E80,ADAS Feature,Speed Assist System,YES
+Volvo,EC40,E80,ADAS Feature,Traffic Sign Recognition,YES
+Volvo,EC40,E80,ADAS Feature,Blind Spot Collision Avoidance Assist,YES
+Volvo,EC40,E80,ADAS Feature,Lane Departure Warning,YES
+Volvo,EC40,E80,ADAS Feature,Lane Keep Assist,YES
+Volvo,EC40,E80,ADAS Feature,Driver Attention Warning,YES
+Volvo,EC40,E80,ADAS Feature,Adaptive Cruise Control,YES
+Volvo,EC40,E80,ADAS Feature,Leading Vehicle Departure Alert,YES
+Volvo,EC40,E80,ADAS Feature,Blind Spot Monitor,YES
+Volvo,EC40,E80,Advance Internet Feature,Live Location,YES
+Volvo,EC40,E80,Advance Internet Feature,Remote Immobiliser,YES
+Volvo,EC40,E80,Advance Internet Feature,Unauthorised Vehicle entry,YES
+Volvo,EC40,E80,Advance Internet Feature,Remote Vehicle Status Check,YES
+Volvo,EC40,E80,Advance Internet Feature,E-Manual,YES
+Volvo,EC40,E80,Advance Internet Feature,Digital Car Key,YES
+Volvo,EC40,E80,Advance Internet Feature,Inbuilt Assistant,YES
+Volvo,EC40,E80,Advance Internet Feature,Navigation with Live Traffic,YES
+Volvo,EC40,E80,Advance Internet Feature,Send POI to Vehicle From App,YES
+Volvo,EC40,E80,Advance Internet Feature,Live Weather,YES
+Volvo,EC40,E80,Advance Internet Feature,E-Call & I-Call,YES
+Volvo,EC40,E80,Advance Internet Feature,Over the Air (OTA) Updates,YES
+Volvo,EC40,E80,Advance Internet Feature,Google / Alexa Connectivity,YES
+Volvo,EC40,E80,Advance Internet Feature,Save Route/Place,YES
+Volvo,EC40,E80,Advance Internet Feature,Crash Notification,YES
+Volvo,EC40,E80,Advance Internet Feature,SOS Button,YES
+Volvo,EC40,E80,Advance Internet Feature,RSA,YES
+Volvo,EC40,E80,Advance Internet Feature,Over Speeding Alert,YES
+Volvo,EC40,E80,Advance Internet Feature,In Car Remote Control App,YES
+Volvo,EC40,E80,Advance Internet Feature,Smartwatch App,YES
+Volvo,EC40,E80,Advance Internet Feature,Valet Mode,YES
+Volvo,EC40,E80,Advance Internet Feature,Remote AC On/Off,YES
+Volvo,EC40,E80,Advance Internet Feature,Remote Door Lock/Unlock,YES
+Volvo,EC40,E80,Advance Internet Feature,Remote Vehicle Ignition Start/Stop,YES
+Volvo,EC40,E80,Advance Internet Feature,Remote Boot Open,YES
+Volvo,EC40,E80,Advance Internet Feature,SOS / Emergency Assistance,YES
+Volvo,EC40,E80,Advance Internet Feature,Geo-fence Alert,YES

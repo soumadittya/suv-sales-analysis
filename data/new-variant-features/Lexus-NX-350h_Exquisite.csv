@@ -1,0 +1,129 @@
+company,model,variant,category,feature_name,feature_details
+Lexus,NX,350h Exquisite,Engine & Transmission,Engine Type,A25B-FXS
+Lexus,NX,350h Exquisite,Engine & Transmission,Displacement,2487 cc
+Lexus,NX,350h Exquisite,Engine & Transmission,Motor Type,Permanent Magnet Synchronous
+Lexus,NX,350h Exquisite,Engine & Transmission,Max Power,187.74bhp@6000rpm
+Lexus,NX,350h Exquisite,Engine & Transmission,Max Torque,239Nm@4300-4500rpm
+Lexus,NX,350h Exquisite,Engine & Transmission,No. of Cylinders,4
+Lexus,NX,350h Exquisite,Engine & Transmission,Valves Per Cylinder,4
+Lexus,NX,350h Exquisite,Engine & Transmission,Fuel Supply System,sequential fuel injection
+Lexus,NX,350h Exquisite,Engine & Transmission,Turbo Charger,YES
+Lexus,NX,350h Exquisite,Engine & Transmission,Battery Type,Lithium-ion Battery
+Lexus,NX,350h Exquisite,Engine & Transmission,Transmission Type,Automatic
+Lexus,NX,350h Exquisite,Engine & Transmission,Gearbox,E-CVT
+Lexus,NX,350h Exquisite,Engine & Transmission,Drive Type,AWD
+Lexus,NX,350h Exquisite,Fuel & Performance,Fuel Type,Petrol
+Lexus,NX,350h Exquisite,Fuel & Performance,Petrol Mileage ARAI,9.5 kmpl
+Lexus,NX,350h Exquisite,Fuel & Performance,Petrol Fuel Tank Capacity,55 Litres
+Lexus,NX,350h Exquisite,Fuel & Performance,Secondary Fuel Type,Electric
+Lexus,NX,350h Exquisite,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Lexus,NX,350h Exquisite,Fuel & Performance,Top Speed,200 kmph
+Lexus,NX,350h Exquisite,Fuel & Performance,Acceleration,7.7 s
+Lexus,NX,350h Exquisite,Fuel & Performance,0-100kmph,7.7 s
+Lexus,NX,350h Exquisite,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Lexus,NX,350h Exquisite,"Suspension, Steering & Brakes",Rear Suspension,Air suspension
+Lexus,NX,350h Exquisite,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Lexus,NX,350h Exquisite,"Suspension, Steering & Brakes",Turning Radius,5.8 m
+Lexus,NX,350h Exquisite,"Suspension, Steering & Brakes",Front Brake Type,Ventilated Disc
+Lexus,NX,350h Exquisite,"Suspension, Steering & Brakes",Rear Brake Type,Ventilated Disc
+Lexus,NX,350h Exquisite,Dimensions & Capacity,Length,4660 mm
+Lexus,NX,350h Exquisite,Dimensions & Capacity,Width,1865 mm
+Lexus,NX,350h Exquisite,Dimensions & Capacity,Height,1670 mm
+Lexus,NX,350h Exquisite,Dimensions & Capacity,Boot Space,520 Litres
+Lexus,NX,350h Exquisite,Dimensions & Capacity,Seating Capacity,5
+Lexus,NX,350h Exquisite,Dimensions & Capacity,Ground Clearance Unladen,195 mm
+Lexus,NX,350h Exquisite,Dimensions & Capacity,Wheel Base,2690 mm
+Lexus,NX,350h Exquisite,Dimensions & Capacity,Front Tread,1605 mm
+Lexus,NX,350h Exquisite,Dimensions & Capacity,Rear Tread,1625 mm
+Lexus,NX,350h Exquisite,Dimensions & Capacity,Kerb Weight,1790-1870 kg
+Lexus,NX,350h Exquisite,Dimensions & Capacity,Gross Weight,2380 kg
+Lexus,NX,350h Exquisite,Comfort & Convenience,Power Steering,YES
+Lexus,NX,350h Exquisite,Comfort & Convenience,Air Conditioner,YES
+Lexus,NX,350h Exquisite,Comfort & Convenience,Heater,YES
+Lexus,NX,350h Exquisite,Comfort & Convenience,Adjustable Steering,YES
+Lexus,NX,350h Exquisite,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Lexus,NX,350h Exquisite,Comfort & Convenience,Ventilated Seats,YES
+Lexus,NX,350h Exquisite,Comfort & Convenience,Automatic Climate Control,YES
+Lexus,NX,350h Exquisite,Comfort & Convenience,Air Quality Control,YES
+Lexus,NX,350h Exquisite,Comfort & Convenience,Accessory Power Outlet,YES
+Lexus,NX,350h Exquisite,Comfort & Convenience,Rear Seat Headrest,YES
+Lexus,NX,350h Exquisite,Comfort & Convenience,Adjustable Headrest,YES
+Lexus,NX,350h Exquisite,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Lexus,NX,350h Exquisite,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Lexus,NX,350h Exquisite,Comfort & Convenience,Rear AC Vents,YES
+Lexus,NX,350h Exquisite,Comfort & Convenience,Lumbar Support,YES
+Lexus,NX,350h Exquisite,Comfort & Convenience,Active noise cancellation,YES
+Lexus,NX,350h Exquisite,Comfort & Convenience,Cruise Control,YES
+Lexus,NX,350h Exquisite,Comfort & Convenience,Parking Sensors,Front & Rear
+Lexus,NX,350h Exquisite,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Lexus,NX,350h Exquisite,Comfort & Convenience,KeyLess Entry,YES
+Lexus,NX,350h Exquisite,Comfort & Convenience,Engine Start/Stop Button,YES
+Lexus,NX,350h Exquisite,Comfort & Convenience,Voice Commands,YES
+Lexus,NX,350h Exquisite,Comfort & Convenience,Paddle Shifters,YES
+Lexus,NX,350h Exquisite,Comfort & Convenience,USB Charger,Front & Rear
+Lexus,NX,350h Exquisite,Comfort & Convenience,Central Console Armrest,YES
+Lexus,NX,350h Exquisite,Comfort & Convenience,Gear Shift Indicator,YES
+Lexus,NX,350h Exquisite,Comfort & Convenience,Drive Modes,3
+Lexus,NX,350h Exquisite,Comfort & Convenience,Glove Box light,YES
+Lexus,NX,350h Exquisite,Comfort & Convenience,Idle Start-Stop System,YES
+Lexus,NX,350h Exquisite,Comfort & Convenience,Additional Features,"Rear seat Power Folding, driver Seat 4-Way Power adjust Lumbar Support, Front Seat Adjuster (Power 8-way), Hybrid Sequential (S-Mode) Shift Matic, EV Mode with Switch , Console front and Rear end panel-4 Type-C USB Ports & 2 DC 12V Accessory Socket, Adaptive Variable Suspension,"
+Lexus,NX,350h Exquisite,Interior,Leather Wrapped Steering Wheel,YES
+Lexus,NX,350h Exquisite,Interior,Leather wrap gear-shift selector,YES
+Lexus,NX,350h Exquisite,Interior,Glove Box,YES
+Lexus,NX,350h Exquisite,Interior,Additional Features,"Accelerator Pedal(Organ Type), Brake Pedal (Pendant Type), Inside Rear View Mirror-EC,Door Scuff Plate,Seat Back Pocket (Front Seat only) , Package Tray Trim & tonneau cover, Door Trim Ornament (Wood), Position memory switches, Performance Rod"
+Lexus,NX,350h Exquisite,Interior,Upholstery,Leather
+Lexus,NX,350h Exquisite,Exterior,Adjustable Headlamps,YES
+Lexus,NX,350h Exquisite,Exterior,Fog Lights - Front,YES
+Lexus,NX,350h Exquisite,Exterior,Fog Lights - Rear,YES
+Lexus,NX,350h Exquisite,Exterior,Rain Sensing Wiper,YES
+Lexus,NX,350h Exquisite,Exterior,Rear Window Wiper,YES
+Lexus,NX,350h Exquisite,Exterior,Rear Window Defogger,YES
+Lexus,NX,350h Exquisite,Exterior,Alloy Wheels,YES
+Lexus,NX,350h Exquisite,Exterior,Rear Spoiler,YES
+Lexus,NX,350h Exquisite,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Lexus,NX,350h Exquisite,Exterior,Dual Tone Body Colour,Optional
+Lexus,NX,350h Exquisite,Exterior,Cornering Headlamps,YES
+Lexus,NX,350h Exquisite,Exterior,Cornering Foglamps,YES
+Lexus,NX,350h Exquisite,Exterior,Roof Rails,YES
+Lexus,NX,350h Exquisite,Exterior,Automatic Headlamps,YES
+Lexus,NX,350h Exquisite,Exterior,Trunk Opener,Smart
+Lexus,NX,350h Exquisite,Exterior,Heated Wing Mirror,YES
+Lexus,NX,350h Exquisite,Exterior,Sun Roof,YES
+Lexus,NX,350h Exquisite,Exterior,Tyre Size,235/50R20
+Lexus,NX,350h Exquisite,Exterior,Tyre Type,"Tubeless,Radial"
+Lexus,NX,350h Exquisite,Exterior,LED DRLs,YES
+Lexus,NX,350h Exquisite,Exterior,LED Headlamps,YES
+Lexus,NX,350h Exquisite,Exterior,LED Taillights,YES
+Lexus,NX,350h Exquisite,Exterior,LED Fog Lamps,YES
+Lexus,NX,350h Exquisite,Exterior,Additional Features,"Antenna - Radio +Shark Fin, 3-eye Bi-Beam LED headlamps with auto-leveling system And Headlamp Cleaner, LED turn signal lamps, LED DRL (Daytime Running Lamp) (W/o Cut Switch), LED Front and Rear fog lamps, LED Rear Combination Lamp & Light Bar Lamp End to End, Cornering Lamp, LED High Mount Stop lamp (On Rear Spoiler), Panoramic roof (Slide UV & IR Cut), Roof Rail (Silver), Outside rear view mirror (Auto,EC,Heater)(Visor cover- Body Color), EMT (Extended Mobility Tire), Front Bumper & Grille / Rear Bumper (Normal), Windshield & Front Side glass - Green UV Acoustic, Front, Rear QTR Glass & Back Glass -Green UV, Rear Side Glass -Light Green UV,"
+Lexus,NX,350h Exquisite,Safety,Anti-lock Braking System (ABS),YES
+Lexus,NX,350h Exquisite,Safety,Brake Assist,YES
+Lexus,NX,350h Exquisite,Safety,Central Locking,YES
+Lexus,NX,350h Exquisite,Safety,Child Safety Locks,YES
+Lexus,NX,350h Exquisite,Safety,Anti-Theft Alarm,YES
+Lexus,NX,350h Exquisite,Safety,No. of Airbags,8
+Lexus,NX,350h Exquisite,Safety,Driver Airbag,YES
+Lexus,NX,350h Exquisite,Safety,Passenger Airbag,YES
+Lexus,NX,350h Exquisite,Safety,Side Airbag,YES
+Lexus,NX,350h Exquisite,Safety,Side Airbag-Rear,YES
+Lexus,NX,350h Exquisite,Safety,Day & Night Rear View Mirror,YES
+Lexus,NX,350h Exquisite,Safety,Traction Control,YES
+Lexus,NX,350h Exquisite,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Lexus,NX,350h Exquisite,Safety,Engine Immobilizer,YES
+Lexus,NX,350h Exquisite,Safety,Anti-Theft Device,YES
+Lexus,NX,350h Exquisite,Safety,ISOFIX Child Seat Mounts,YES
+Lexus,NX,350h Exquisite,Safety,Heads-Up Display (HUD),YES
+Lexus,NX,350h Exquisite,Safety,Hill Assist,YES
+Lexus,NX,350h Exquisite,Entertainment & Communication,Radio,YES
+Lexus,NX,350h Exquisite,Entertainment & Communication,Wireless Phone Charging,NO
+Lexus,NX,350h Exquisite,Entertainment & Communication,Bluetooth Connectivity,YES
+Lexus,NX,350h Exquisite,Entertainment & Communication,Touchscreen,YES
+Lexus,NX,350h Exquisite,Entertainment & Communication,Touchscreen Size,14 Inch
+Lexus,NX,350h Exquisite,Entertainment & Communication,Android Auto,YES
+Lexus,NX,350h Exquisite,Entertainment & Communication,Apple CarPlay,YES
+Lexus,NX,350h Exquisite,Entertainment & Communication,No. of Speakers,10
+Lexus,NX,350h Exquisite,Entertainment & Communication,Usb Ports,YES
+Lexus,NX,350h Exquisite,Entertainment & Communication,Subwoofer,1
+Lexus,NX,350h Exquisite,Entertainment & Communication,Additional Features,"Lexus Navigation system,Lexus Premium Audio, Interior Illumination with 14 colours,"
+Lexus,NX,350h Exquisite,Entertainment & Communication,Speakers,Front & Rear
+Lexus,NX,350h Exquisite,ADAS Feature,Blind Spot Monitor,YES

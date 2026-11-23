@@ -1,0 +1,118 @@
+company,model,variant,category,feature_name,feature_details
+Kia,Syros,HTK Plus Diesel AT,Engine & Transmission,Engine Type,D1.5 CRDi VGT
+Kia,Syros,HTK Plus Diesel AT,Engine & Transmission,Displacement,1493 cc
+Kia,Syros,HTK Plus Diesel AT,Engine & Transmission,Max Power,114bhp@4000rpm
+Kia,Syros,HTK Plus Diesel AT,Engine & Transmission,Max Torque,250Nm@1500-2750rpm
+Kia,Syros,HTK Plus Diesel AT,Engine & Transmission,No. of Cylinders,4
+Kia,Syros,HTK Plus Diesel AT,Engine & Transmission,Valves Per Cylinder,4
+Kia,Syros,HTK Plus Diesel AT,Engine & Transmission,Turbo Charger,YES
+Kia,Syros,HTK Plus Diesel AT,Engine & Transmission,Transmission Type,Automatic
+Kia,Syros,HTK Plus Diesel AT,Engine & Transmission,Gearbox,6 Speed
+Kia,Syros,HTK Plus Diesel AT,Engine & Transmission,Drive Type,FWD
+Kia,Syros,HTK Plus Diesel AT,Fuel & Performance,Fuel Type,Diesel
+Kia,Syros,HTK Plus Diesel AT,Fuel & Performance,Diesel Fuel Tank Capacity,45 Litres
+Kia,Syros,HTK Plus Diesel AT,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Kia,Syros,HTK Plus Diesel AT,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Kia,Syros,HTK Plus Diesel AT,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Kia,Syros,HTK Plus Diesel AT,"Suspension, Steering & Brakes",Steering Type,Electric
+Kia,Syros,HTK Plus Diesel AT,"Suspension, Steering & Brakes",Steering Column,Tilt
+Kia,Syros,HTK Plus Diesel AT,"Suspension, Steering & Brakes",Steering Gear Type,Rack & Pinion
+Kia,Syros,HTK Plus Diesel AT,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Kia,Syros,HTK Plus Diesel AT,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Kia,Syros,HTK Plus Diesel AT,Dimensions & Capacity,Length,3995 mm
+Kia,Syros,HTK Plus Diesel AT,Dimensions & Capacity,Width,1805 mm
+Kia,Syros,HTK Plus Diesel AT,Dimensions & Capacity,Height,1680 mm
+Kia,Syros,HTK Plus Diesel AT,Dimensions & Capacity,Boot Space,465 Litres
+Kia,Syros,HTK Plus Diesel AT,Dimensions & Capacity,Seating Capacity,5
+Kia,Syros,HTK Plus Diesel AT,Dimensions & Capacity,Wheel Base,2550 mm
+Kia,Syros,HTK Plus Diesel AT,Comfort & Convenience,Power Steering,YES
+Kia,Syros,HTK Plus Diesel AT,Comfort & Convenience,Air Conditioner,YES
+Kia,Syros,HTK Plus Diesel AT,Comfort & Convenience,Heater,YES
+Kia,Syros,HTK Plus Diesel AT,Comfort & Convenience,Adjustable Steering,Height only
+Kia,Syros,HTK Plus Diesel AT,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Kia,Syros,HTK Plus Diesel AT,Comfort & Convenience,Ventilated Seats,NO
+Kia,Syros,HTK Plus Diesel AT,Comfort & Convenience,Electric Adjustable Seats,NO
+Kia,Syros,HTK Plus Diesel AT,Comfort & Convenience,Automatic Climate Control,NO
+Kia,Syros,HTK Plus Diesel AT,Comfort & Convenience,Accessory Power Outlet,YES
+Kia,Syros,HTK Plus Diesel AT,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Kia,Syros,HTK Plus Diesel AT,Comfort & Convenience,Adjustable Headrest,YES
+Kia,Syros,HTK Plus Diesel AT,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Kia,Syros,HTK Plus Diesel AT,Comfort & Convenience,Rear AC Vents,YES
+Kia,Syros,HTK Plus Diesel AT,Comfort & Convenience,Cruise Control,YES
+Kia,Syros,HTK Plus Diesel AT,Comfort & Convenience,Parking Sensors,Rear
+Kia,Syros,HTK Plus Diesel AT,Comfort & Convenience,Foldable Rear Seat,2nd Row 60:40 Split
+Kia,Syros,HTK Plus Diesel AT,Comfort & Convenience,KeyLess Entry,YES
+Kia,Syros,HTK Plus Diesel AT,Comfort & Convenience,Engine Start/Stop Button,YES
+Kia,Syros,HTK Plus Diesel AT,Comfort & Convenience,Paddle Shifters,YES
+Kia,Syros,HTK Plus Diesel AT,Comfort & Convenience,Central Console Armrest,YES
+Kia,Syros,HTK Plus Diesel AT,Comfort & Convenience,Drive Modes,3
+Kia,Syros,HTK Plus Diesel AT,Comfort & Convenience,Additional Features,Sunglass Holder
+Kia,Syros,HTK Plus Diesel AT,Comfort & Convenience,Drive Mode Types,Eco-Normal-Sport
+Kia,Syros,HTK Plus Diesel AT,Comfort & Convenience,Power Windows,Front & Rear
+Kia,Syros,HTK Plus Diesel AT,Comfort & Convenience,Cup Holders,Front & Rear
+Kia,Syros,HTK Plus Diesel AT,Interior,Glove Box,YES
+Kia,Syros,HTK Plus Diesel AT,Interior,Digital Cluster,YES
+Kia,Syros,HTK Plus Diesel AT,Interior,Digital Cluster Size,12
+Kia,Syros,HTK Plus Diesel AT,Interior,Upholstery,Semi-Leatherette
+Kia,Syros,HTK Plus Diesel AT,Exterior,Rear Window Wiper,NO
+Kia,Syros,HTK Plus Diesel AT,Exterior,Rear Window Washer,NO
+Kia,Syros,HTK Plus Diesel AT,Exterior,Rear Window Defogger,YES
+Kia,Syros,HTK Plus Diesel AT,Exterior,Wheel Covers,NO
+Kia,Syros,HTK Plus Diesel AT,Exterior,Alloy Wheels,YES
+Kia,Syros,HTK Plus Diesel AT,Exterior,Rear Spoiler,YES
+Kia,Syros,HTK Plus Diesel AT,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Kia,Syros,HTK Plus Diesel AT,Exterior,Roof Rails,YES
+Kia,Syros,HTK Plus Diesel AT,Exterior,Fog Lights,Front
+Kia,Syros,HTK Plus Diesel AT,Exterior,Antenna,Shark Fin
+Kia,Syros,HTK Plus Diesel AT,Exterior,Sunroof,Panoramic
+Kia,Syros,HTK Plus Diesel AT,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Kia,Syros,HTK Plus Diesel AT,Exterior,Tyre Size,215/60 R16
+Kia,Syros,HTK Plus Diesel AT,Exterior,Tyre Type,Radial Tubeless
+Kia,Syros,HTK Plus Diesel AT,Exterior,Wheel Size,16 Inch
+Kia,Syros,HTK Plus Diesel AT,Exterior,LED DRLs,YES
+Kia,Syros,HTK Plus Diesel AT,Exterior,LED Headlamps,YES
+Kia,Syros,HTK Plus Diesel AT,Exterior,LED Taillights,YES
+Kia,Syros,HTK Plus Diesel AT,Exterior,LED Fog Lamps,YES
+Kia,Syros,HTK Plus Diesel AT,Safety,Anti-lock Braking System (ABS),YES
+Kia,Syros,HTK Plus Diesel AT,Safety,Brake Assist,YES
+Kia,Syros,HTK Plus Diesel AT,Safety,Central Locking,YES
+Kia,Syros,HTK Plus Diesel AT,Safety,Child Safety Locks,YES
+Kia,Syros,HTK Plus Diesel AT,Safety,Anti-Theft Alarm,YES
+Kia,Syros,HTK Plus Diesel AT,Safety,No. of Airbags,6
+Kia,Syros,HTK Plus Diesel AT,Safety,Driver Airbag,YES
+Kia,Syros,HTK Plus Diesel AT,Safety,Passenger Airbag,YES
+Kia,Syros,HTK Plus Diesel AT,Safety,Side Airbag,YES
+Kia,Syros,HTK Plus Diesel AT,Safety,Side Airbag-Rear,NO
+Kia,Syros,HTK Plus Diesel AT,Safety,Day & Night Rear View Mirror,YES
+Kia,Syros,HTK Plus Diesel AT,Safety,Electronic Brakeforce Distribution (EBD),YES
+Kia,Syros,HTK Plus Diesel AT,Safety,Traction Control,YES
+Kia,Syros,HTK Plus Diesel AT,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Kia,Syros,HTK Plus Diesel AT,Safety,Electronic Stability Control (ESC),YES
+Kia,Syros,HTK Plus Diesel AT,Safety,Rear Camera,With Guidedlines
+Kia,Syros,HTK Plus Diesel AT,Safety,ISOFIX Child Seat Mounts,YES
+Kia,Syros,HTK Plus Diesel AT,Safety,Hill Assist,YES
+Kia,Syros,HTK Plus Diesel AT,Safety,Bharat NCAP Safety Rating,5 Star
+Kia,Syros,HTK Plus Diesel AT,Safety,Bharat NCAP Child Safety Rating,5 Star
+Kia,Syros,HTK Plus Diesel AT,Entertainment & Communication,Radio,YES
+Kia,Syros,HTK Plus Diesel AT,Entertainment & Communication,Wireless Phone Charging,NO
+Kia,Syros,HTK Plus Diesel AT,Entertainment & Communication,Bluetooth Connectivity,YES
+Kia,Syros,HTK Plus Diesel AT,Entertainment & Communication,Touchscreen,YES
+Kia,Syros,HTK Plus Diesel AT,Entertainment & Communication,Touchscreen Size,10.25 inch
+Kia,Syros,HTK Plus Diesel AT,Entertainment & Communication,Android Auto,YES
+Kia,Syros,HTK Plus Diesel AT,Entertainment & Communication,Apple CarPlay,YES
+Kia,Syros,HTK Plus Diesel AT,Entertainment & Communication,No. of Speakers,6
+Kia,Syros,HTK Plus Diesel AT,Entertainment & Communication,Usb Ports,YES
+Kia,Syros,HTK Plus Diesel AT,Entertainment & Communication,Additional Features,Wireless Android Auto & Apple CarPlay
+Kia,Syros,HTK Plus Diesel AT,Entertainment & Communication,Speakers,Front & Rear
+Kia,Syros,HTK Plus Diesel AT,Advance Internet Feature,Live Location,NO
+Kia,Syros,HTK Plus Diesel AT,Advance Internet Feature,Remote Vehicle Status Check,NO
+Kia,Syros,HTK Plus Diesel AT,Advance Internet Feature,Inbuilt Assistant,NO
+Kia,Syros,HTK Plus Diesel AT,Advance Internet Feature,Hinglish Voice Commands,NO
+Kia,Syros,HTK Plus Diesel AT,Advance Internet Feature,Navigation with Live Traffic,NO
+Kia,Syros,HTK Plus Diesel AT,Advance Internet Feature,Over the Air (OTA) Updates,NO
+Kia,Syros,HTK Plus Diesel AT,Advance Internet Feature,Over Speeding Alert,NO
+Kia,Syros,HTK Plus Diesel AT,Advance Internet Feature,In Car Remote Control App,NO
+Kia,Syros,HTK Plus Diesel AT,Advance Internet Feature,Valet Mode,NO
+Kia,Syros,HTK Plus Diesel AT,Advance Internet Feature,Remote AC On/Off,NO
+Kia,Syros,HTK Plus Diesel AT,Advance Internet Feature,Remote Door Lock/Unlock,NO
+Kia,Syros,HTK Plus Diesel AT,Advance Internet Feature,Inbuilt APPs,NO

@@ -1,0 +1,120 @@
+company,model,variant,category,feature_name,feature_details
+Jeep,Grand Cherokee,Limited Opt,Engine & Transmission,Engine Type,2.0L GME T4
+Jeep,Grand Cherokee,Limited Opt,Engine & Transmission,Displacement,1995 cc
+Jeep,Grand Cherokee,Limited Opt,Engine & Transmission,Max Power,268.27bhp@5200rpm
+Jeep,Grand Cherokee,Limited Opt,Engine & Transmission,Max Torque,400Nm@3000rpm
+Jeep,Grand Cherokee,Limited Opt,Engine & Transmission,No. of Cylinders,4
+Jeep,Grand Cherokee,Limited Opt,Engine & Transmission,Valves Per Cylinder,4
+Jeep,Grand Cherokee,Limited Opt,Engine & Transmission,Transmission Type,Automatic
+Jeep,Grand Cherokee,Limited Opt,Engine & Transmission,Gearbox,8 Speed AT
+Jeep,Grand Cherokee,Limited Opt,Engine & Transmission,Drive Type,4WD
+Jeep,Grand Cherokee,Limited Opt,Fuel & Performance,Fuel Type,Petrol
+Jeep,Grand Cherokee,Limited Opt,Fuel & Performance,Petrol Fuel Tank Capacity,87 Litres
+Jeep,Grand Cherokee,Limited Opt,Fuel & Performance,Petrol Highway Mileage,10 kmpl
+Jeep,Grand Cherokee,Limited Opt,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Jeep,Grand Cherokee,Limited Opt,Fuel & Performance,Top Speed,289 kmph
+Jeep,Grand Cherokee,Limited Opt,"Suspension, Steering & Brakes",Front Suspension,Multi-link suspension
+Jeep,Grand Cherokee,Limited Opt,"Suspension, Steering & Brakes",Rear Suspension,Multi-link suspension
+Jeep,Grand Cherokee,Limited Opt,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Jeep,Grand Cherokee,Limited Opt,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Jeep,Grand Cherokee,Limited Opt,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Jeep,Grand Cherokee,Limited Opt,Dimensions & Capacity,Length,4914 mm
+Jeep,Grand Cherokee,Limited Opt,Dimensions & Capacity,Width,1979 mm
+Jeep,Grand Cherokee,Limited Opt,Dimensions & Capacity,Height,1792 mm
+Jeep,Grand Cherokee,Limited Opt,Dimensions & Capacity,Seating Capacity,5
+Jeep,Grand Cherokee,Limited Opt,Dimensions & Capacity,Wheel Base,2964 mm
+Jeep,Grand Cherokee,Limited Opt,Dimensions & Capacity,Kerb Weight,2097 kg
+Jeep,Grand Cherokee,Limited Opt,Dimensions & Capacity,Reported Boot Space,1068 Litres
+Jeep,Grand Cherokee,Limited Opt,Dimensions & Capacity,Reported Ground Clearance (Unladen),215 mm
+Jeep,Grand Cherokee,Limited Opt,Comfort & Convenience,Boot Opening,Electronic
+Jeep,Grand Cherokee,Limited Opt,Comfort & Convenience,Power Steering,YES
+Jeep,Grand Cherokee,Limited Opt,Comfort & Convenience,Air Conditioner,YES
+Jeep,Grand Cherokee,Limited Opt,Comfort & Convenience,Heater,YES
+Jeep,Grand Cherokee,Limited Opt,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Jeep,Grand Cherokee,Limited Opt,Comfort & Convenience,Ventilated Seats,YES
+Jeep,Grand Cherokee,Limited Opt,Comfort & Convenience,Electric Adjustable Seats,Front Only
+Jeep,Grand Cherokee,Limited Opt,Comfort & Convenience,Automatic Climate Control,YES
+Jeep,Grand Cherokee,Limited Opt,Comfort & Convenience,Accessory Power Outlet,YES
+Jeep,Grand Cherokee,Limited Opt,Comfort & Convenience,Adjustable Headrest,YES
+Jeep,Grand Cherokee,Limited Opt,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Jeep,Grand Cherokee,Limited Opt,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Jeep,Grand Cherokee,Limited Opt,Comfort & Convenience,Rear AC Vents,YES
+Jeep,Grand Cherokee,Limited Opt,Comfort & Convenience,Active noise cancellation,YES
+Jeep,Grand Cherokee,Limited Opt,Comfort & Convenience,Cruise Control,YES
+Jeep,Grand Cherokee,Limited Opt,Comfort & Convenience,Parking Sensors,Front & Rear
+Jeep,Grand Cherokee,Limited Opt,Comfort & Convenience,Real-Time Vehicle Tracking,YES
+Jeep,Grand Cherokee,Limited Opt,Comfort & Convenience,KeyLess Entry,YES
+Jeep,Grand Cherokee,Limited Opt,Comfort & Convenience,Engine Start/Stop Button,YES
+Jeep,Grand Cherokee,Limited Opt,Comfort & Convenience,Voice Commands,YES
+Jeep,Grand Cherokee,Limited Opt,Comfort & Convenience,USB Charger,Front & Rear
+Jeep,Grand Cherokee,Limited Opt,Comfort & Convenience,Drive Modes,1
+Jeep,Grand Cherokee,Limited Opt,Comfort & Convenience,Glove Box light,YES
+Jeep,Grand Cherokee,Limited Opt,Comfort & Convenience,Idle Start-Stop System,YES
+Jeep,Grand Cherokee,Limited Opt,Comfort & Convenience,Follow Me Home Headlamps,YES
+Jeep,Grand Cherokee,Limited Opt,Comfort & Convenience,Drive Mode Types,Sport
+Jeep,Grand Cherokee,Limited Opt,Interior,Glove Box,YES
+Jeep,Grand Cherokee,Limited Opt,Interior,Lighting,"Ambient light,Reading Lamp,Boot Lamp,Glove Box Lamp"
+Jeep,Grand Cherokee,Limited Opt,Interior,Digital Cluster,YES
+Jeep,Grand Cherokee,Limited Opt,Interior,Digital Cluster Size,10.25
+Jeep,Grand Cherokee,Limited Opt,Interior,Upholstery,Leather
+Jeep,Grand Cherokee,Limited Opt,Exterior,Adjustable Headlamps,YES
+Jeep,Grand Cherokee,Limited Opt,Exterior,Rain Sensing Wiper,YES
+Jeep,Grand Cherokee,Limited Opt,Exterior,Rear Window Wiper,YES
+Jeep,Grand Cherokee,Limited Opt,Exterior,Rear Window Washer,YES
+Jeep,Grand Cherokee,Limited Opt,Exterior,Rear Window Defogger,YES
+Jeep,Grand Cherokee,Limited Opt,Exterior,Wheel Covers,NO
+Jeep,Grand Cherokee,Limited Opt,Exterior,Alloy Wheels,YES
+Jeep,Grand Cherokee,Limited Opt,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Jeep,Grand Cherokee,Limited Opt,Exterior,Sunroof,Panoramic
+Jeep,Grand Cherokee,Limited Opt,Exterior,Heated Outside Rear View Mirror,YES
+Jeep,Grand Cherokee,Limited Opt,Exterior,Tyre Type,"Tubeless,Radial"
+Jeep,Grand Cherokee,Limited Opt,Exterior,LED DRLs,YES
+Jeep,Grand Cherokee,Limited Opt,Exterior,LED Headlamps,YES
+Jeep,Grand Cherokee,Limited Opt,Exterior,LED Taillights,YES
+Jeep,Grand Cherokee,Limited Opt,Safety,Anti-lock Braking System (ABS),YES
+Jeep,Grand Cherokee,Limited Opt,Safety,Brake Assist,YES
+Jeep,Grand Cherokee,Limited Opt,Safety,Central Locking,YES
+Jeep,Grand Cherokee,Limited Opt,Safety,Child Safety Locks,YES
+Jeep,Grand Cherokee,Limited Opt,Safety,Anti-Theft Alarm,YES
+Jeep,Grand Cherokee,Limited Opt,Safety,No. of Airbags,8
+Jeep,Grand Cherokee,Limited Opt,Safety,Day & Night Rear View Mirror,YES
+Jeep,Grand Cherokee,Limited Opt,Safety,Electronic Brakeforce Distribution (EBD),YES
+Jeep,Grand Cherokee,Limited Opt,Safety,Traction Control,YES
+Jeep,Grand Cherokee,Limited Opt,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Jeep,Grand Cherokee,Limited Opt,Safety,Engine Immobilizer,YES
+Jeep,Grand Cherokee,Limited Opt,Safety,Electronic Stability Control (ESC),YES
+Jeep,Grand Cherokee,Limited Opt,Safety,Rear Camera,With Guidedlines
+Jeep,Grand Cherokee,Limited Opt,Safety,Anti-Theft Device,YES
+Jeep,Grand Cherokee,Limited Opt,Safety,Anti-Pinch Power Windows,All Windows
+Jeep,Grand Cherokee,Limited Opt,Safety,ISOFIX Child Seat Mounts,YES
+Jeep,Grand Cherokee,Limited Opt,Safety,Heads-Up Display (HUD),YES
+Jeep,Grand Cherokee,Limited Opt,Safety,Hill Assist,YES
+Jeep,Grand Cherokee,Limited Opt,Safety,360 View Camera,YES
+Jeep,Grand Cherokee,Limited Opt,Safety,Safety Airbags,"Driver & Passenger,Front Side,Curtain,Driver Knee,Passenger Knee"
+Jeep,Grand Cherokee,Limited Opt,Entertainment & Communication,Radio,YES
+Jeep,Grand Cherokee,Limited Opt,Entertainment & Communication,Wireless Phone Charging,YES
+Jeep,Grand Cherokee,Limited Opt,Entertainment & Communication,Bluetooth Connectivity,YES
+Jeep,Grand Cherokee,Limited Opt,Entertainment & Communication,Touchscreen,YES
+Jeep,Grand Cherokee,Limited Opt,Entertainment & Communication,Touchscreen Size,10.1 inch
+Jeep,Grand Cherokee,Limited Opt,Entertainment & Communication,Android Auto,YES
+Jeep,Grand Cherokee,Limited Opt,Entertainment & Communication,Apple CarPlay,YES
+Jeep,Grand Cherokee,Limited Opt,Entertainment & Communication,No. of Speakers,9
+Jeep,Grand Cherokee,Limited Opt,Entertainment & Communication,Usb Ports,YES
+Jeep,Grand Cherokee,Limited Opt,Entertainment & Communication,Subwoofer,1
+Jeep,Grand Cherokee,Limited Opt,Entertainment & Communication,Additional Features,"9 speaker Alpine amplified system with subwoofer, Wireless charging pad, Google Android Auto Apple CarPlay"
+Jeep,Grand Cherokee,Limited Opt,Entertainment & Communication,Speakers,Front & Rear
+Jeep,Grand Cherokee,Limited Opt,ADAS Feature,Forward Collision Warning,YES
+Jeep,Grand Cherokee,Limited Opt,ADAS Feature,Lane Departure Warning,YES
+Jeep,Grand Cherokee,Limited Opt,ADAS Feature,Lane Keep Assist,YES
+Jeep,Grand Cherokee,Limited Opt,ADAS Feature,Driver Attention Warning,YES
+Jeep,Grand Cherokee,Limited Opt,ADAS Feature,Adaptive Cruise Control,YES
+Jeep,Grand Cherokee,Limited Opt,ADAS Feature,Rear Cross Traffic Alert,YES
+Jeep,Grand Cherokee,Limited Opt,ADAS Feature,Blind Spot Monitor,YES
+Jeep,Grand Cherokee,Limited Opt,Advance Internet Feature,Live Location,YES
+Jeep,Grand Cherokee,Limited Opt,Advance Internet Feature,Google / Alexa Connectivity,YES
+Jeep,Grand Cherokee,Limited Opt,Advance Internet Feature,SOS Button,YES
+Jeep,Grand Cherokee,Limited Opt,Advance Internet Feature,RSA,YES
+Jeep,Grand Cherokee,Limited Opt,Advance Internet Feature,Smartwatch App,YES
+Jeep,Grand Cherokee,Limited Opt,Advance Internet Feature,Remote Door Lock/Unlock,YES
+Jeep,Grand Cherokee,Limited Opt,Advance Internet Feature,SOS / Emergency Assistance,YES
+Jeep,Grand Cherokee,Limited Opt,Advance Internet Feature,Geo-fence Alert,YES

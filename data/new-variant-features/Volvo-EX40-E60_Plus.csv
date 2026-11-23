@@ -1,0 +1,108 @@
+company,model,variant,category,feature_name,feature_details
+Volvo,EX40,E60 Plus,Engine & Transmission,Battery Capacity,69 kWh
+Volvo,EX40,E60 Plus,Engine & Transmission,Motor Power,238 hp
+Volvo,EX40,E60 Plus,Engine & Transmission,Max Power,237.99bhp
+Volvo,EX40,E60 Plus,Engine & Transmission,Max Torque,660Nm
+Volvo,EX40,E60 Plus,Engine & Transmission,Range,592 km
+Volvo,EX40,E60 Plus,Engine & Transmission,Battery Type,Lithium-Ion
+Volvo,EX40,E60 Plus,Engine & Transmission,Charging Time (D.C),28 Min 150 kW
+Volvo,EX40,E60 Plus,Engine & Transmission,Regenerative Braking Levels,YES
+Volvo,EX40,E60 Plus,Engine & Transmission,Charging Port,CCS-II
+Volvo,EX40,E60 Plus,Engine & Transmission,Charging Options,15 A Wall Box | 150 kW DC
+Volvo,EX40,E60 Plus,Engine & Transmission,Charger Type,15 A Wall Box
+Volvo,EX40,E60 Plus,Engine & Transmission,Transmission Type,Automatic
+Volvo,EX40,E60 Plus,Engine & Transmission,Gearbox,1-Speed
+Volvo,EX40,E60 Plus,Engine & Transmission,Drive Type,AWD
+Volvo,EX40,E60 Plus,Fuel & Performance,Fuel Type,Electric
+Volvo,EX40,E60 Plus,Fuel & Performance,Emission Norm Compliance,ZEV
+Volvo,EX40,E60 Plus,Fuel & Performance,Top Speed,180 kmph
+Volvo,EX40,E60 Plus,Fuel & Performance,Acceleration 0-100kmph,4.9 s
+Volvo,EX40,E60 Plus,Charging,Fast Charging,YES
+Volvo,EX40,E60 Plus,"Suspension, Steering & Brakes",Front Suspension,Air suspension
+Volvo,EX40,E60 Plus,"Suspension, Steering & Brakes",Rear Suspension,Air suspension
+Volvo,EX40,E60 Plus,"Suspension, Steering & Brakes",Steering Type,Electric
+Volvo,EX40,E60 Plus,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Volvo,EX40,E60 Plus,"Suspension, Steering & Brakes",Steering Gear Type,Rack & Pinion
+Volvo,EX40,E60 Plus,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Volvo,EX40,E60 Plus,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Volvo,EX40,E60 Plus,Dimensions & Capacity,Length,4425 mm
+Volvo,EX40,E60 Plus,Dimensions & Capacity,Width,1873 mm
+Volvo,EX40,E60 Plus,Dimensions & Capacity,Height,1651 mm
+Volvo,EX40,E60 Plus,Dimensions & Capacity,Boot Space,414 Litres
+Volvo,EX40,E60 Plus,Dimensions & Capacity,Seating Capacity,5
+Volvo,EX40,E60 Plus,Dimensions & Capacity,Ground Clearance (Laden),175 mm
+Volvo,EX40,E60 Plus,Dimensions & Capacity,Wheel Base,2923 mm
+Volvo,EX40,E60 Plus,Dimensions & Capacity,Front Tread,1570 mm
+Volvo,EX40,E60 Plus,Dimensions & Capacity,Kerb Weight,2205 kg
+Volvo,EX40,E60 Plus,Dimensions & Capacity,Reported Ground Clearance (Unladen),175 mm
+Volvo,EX40,E60 Plus,Comfort & Convenience,Boot Opening,Automatic
+Volvo,EX40,E60 Plus,Comfort & Convenience,Power Steering,YES
+Volvo,EX40,E60 Plus,Comfort & Convenience,Air Conditioner,YES
+Volvo,EX40,E60 Plus,Comfort & Convenience,Heater,YES
+Volvo,EX40,E60 Plus,Comfort & Convenience,Adjustable Steering,YES
+Volvo,EX40,E60 Plus,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Volvo,EX40,E60 Plus,Comfort & Convenience,Automatic Climate Control,YES
+Volvo,EX40,E60 Plus,Comfort & Convenience,Air Quality Control,YES
+Volvo,EX40,E60 Plus,Comfort & Convenience,Accessory Power Outlet,YES
+Volvo,EX40,E60 Plus,Comfort & Convenience,Rear Seat Headrest,YES
+Volvo,EX40,E60 Plus,Comfort & Convenience,Adjustable Headrest,YES
+Volvo,EX40,E60 Plus,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Volvo,EX40,E60 Plus,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Volvo,EX40,E60 Plus,Comfort & Convenience,Rear AC Vents,YES
+Volvo,EX40,E60 Plus,Comfort & Convenience,Lumbar Support,YES
+Volvo,EX40,E60 Plus,Comfort & Convenience,Cruise Control,YES
+Volvo,EX40,E60 Plus,Comfort & Convenience,Parking Sensors,Front & Rear
+Volvo,EX40,E60 Plus,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Volvo,EX40,E60 Plus,Comfort & Convenience,KeyLess Entry,YES
+Volvo,EX40,E60 Plus,Comfort & Convenience,Voice Commands,YES
+Volvo,EX40,E60 Plus,Comfort & Convenience,USB Charger,Front
+Volvo,EX40,E60 Plus,Comfort & Convenience,Central Console Armrest,YES
+Volvo,EX40,E60 Plus,Comfort & Convenience,Additional Features,"Power folding rear head restraints, Clean Zone, air purifier, humidity sensor, Driving range up to 418km. When needed, at home or at work can fast-charge from zero to 80% in around 40 minutes. Fast charging DC up to 150 kW under optimal charging conditions., Key remort control High level, Power adjustable Passenger seat,mechanical chudhion extension front seat,mechanical release fold 2nd row rear seat, power foldable rear headrest from centre stack display,Waste bin in front of armrest,Tunnel console high glos black,One Pedal Drive option, Air Purifier System with PM 2.5 sensor"
+Volvo,EX40,E60 Plus,Interior,Glove Box,YES
+Volvo,EX40,E60 Plus,Interior,Additional Features,"Ashtray and cigarette lighter, Road Sign Information, Ticket holder, Illuminated vanity mirrors, Auto-dimmed rear view mirrors, 31.24 Cms (12.3 inch) Driver display, charcol connect suede textile/microtech upholstery, Mechenical cushion extension front seat,carpet kit textile,Front tread plates metal recharge,Interior illumination high level,Charcoale roof colur interior"
+Volvo,EX40,E60 Plus,Interior,Digital Cluster,YES
+Volvo,EX40,E60 Plus,Interior,Upholstery,Fabric
+Volvo,EX40,E60 Plus,Exterior,Adjustable Headlamps,YES
+Volvo,EX40,E60 Plus,Exterior,Rain Sensing Wiper,YES
+Volvo,EX40,E60 Plus,Exterior,Rear Window Wiper,YES
+Volvo,EX40,E60 Plus,Exterior,Rear Window Washer,YES
+Volvo,EX40,E60 Plus,Exterior,Rear Window Defogger,YES
+Volvo,EX40,E60 Plus,Exterior,Alloy Wheels,YES
+Volvo,EX40,E60 Plus,Exterior,Rear Spoiler,YES
+Volvo,EX40,E60 Plus,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Volvo,EX40,E60 Plus,Exterior,Automatic Headlamps,YES
+Volvo,EX40,E60 Plus,Exterior,Sun Roof,YES
+Volvo,EX40,E60 Plus,Exterior,Tyre Size,"F 235/50,R 255/45"
+Volvo,EX40,E60 Plus,Exterior,Tyre Type,"Tubeless,Radial"
+Volvo,EX40,E60 Plus,Exterior,LED DRLs,YES
+Volvo,EX40,E60 Plus,Exterior,LED Headlamps,YES
+Volvo,EX40,E60 Plus,Exterior,LED Taillights,YES
+Volvo,EX40,E60 Plus,Exterior,Additional Features,"Fog lamps with cornering function, Body-coloured covered grille, Door mirror covers, Black Stone, High-gloss black side window trim, Panoramic roof, Protective cap kit, Matt Tech Grey, Recharge embossed logo on C/D-pillar, Roof rails, glossy black,, BEV grill, colour coordinated / covered mesh, BEV grill, colour coordinated / covered mesh,High gloss black decor side window, Handle side door body color keyless and illumination, Black rear view mirror covers,EBL, Flashing brake light and hazard warning, C-Pillar recharge moulding"
+Volvo,EX40,E60 Plus,Safety,Anti-lock Braking System (ABS),YES
+Volvo,EX40,E60 Plus,Safety,Brake Assist,YES
+Volvo,EX40,E60 Plus,Safety,Central Locking,YES
+Volvo,EX40,E60 Plus,Safety,Child Safety Locks,YES
+Volvo,EX40,E60 Plus,Safety,Anti-Theft Alarm,YES
+Volvo,EX40,E60 Plus,Safety,No. of Airbags,7
+Volvo,EX40,E60 Plus,Safety,Driver Airbag,YES
+Volvo,EX40,E60 Plus,Safety,Passenger Airbag,YES
+Volvo,EX40,E60 Plus,Safety,Side Airbag,YES
+Volvo,EX40,E60 Plus,Safety,Side Airbag-Rear,NO
+Volvo,EX40,E60 Plus,Safety,Day & Night Rear View Mirror,YES
+Volvo,EX40,E60 Plus,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Volvo,EX40,E60 Plus,Safety,ISOFIX Child Seat Mounts,YES
+Volvo,EX40,E60 Plus,Safety,Hill Descent Control,YES
+Volvo,EX40,E60 Plus,Safety,Hill Assist,YES
+Volvo,EX40,E60 Plus,Safety,360 View Camera,YES
+Volvo,EX40,E60 Plus,Entertainment & Communication,Radio,YES
+Volvo,EX40,E60 Plus,Entertainment & Communication,Wireless Phone Charging,YES
+Volvo,EX40,E60 Plus,Entertainment & Communication,Bluetooth Connectivity,YES
+Volvo,EX40,E60 Plus,Entertainment & Communication,Touchscreen,YES
+Volvo,EX40,E60 Plus,Entertainment & Communication,Touchscreen Size,9 Inch
+Volvo,EX40,E60 Plus,Entertainment & Communication,Android Auto,YES
+Volvo,EX40,E60 Plus,Entertainment & Communication,Apple CarPlay,YES
+Volvo,EX40,E60 Plus,Entertainment & Communication,No. of Speakers,8
+Volvo,EX40,E60 Plus,Entertainment & Communication,Usb Ports,YES
+Volvo,EX40,E60 Plus,Entertainment & Communication,Additional Features,"Google Assistant, Google Play, Google Maps, 250W High Performing Sound System,12V power outlet and one or two USB ports, speech function,, App Store or Google Play,"
+Volvo,EX40,E60 Plus,Entertainment & Communication,Speakers,Front & Rear
+Volvo,EX40,E60 Plus,ADAS Feature,Blind Spot Monitor,YES

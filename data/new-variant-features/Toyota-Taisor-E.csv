@@ -1,0 +1,114 @@
+company,model,variant,category,feature_name,feature_details
+Toyota,Taisor,E,Engine & Transmission,Engine Type,1.2L K-Series Dual Jet
+Toyota,Taisor,E,Engine & Transmission,Displacement,1197 cc
+Toyota,Taisor,E,Engine & Transmission,Max Power,88.5bhp@6000rpm
+Toyota,Taisor,E,Engine & Transmission,Max Torque,113Nm@4400rpm
+Toyota,Taisor,E,Engine & Transmission,No. of Cylinders,4
+Toyota,Taisor,E,Engine & Transmission,Valves Per Cylinder,4
+Toyota,Taisor,E,Engine & Transmission,Turbo Charger,NO
+Toyota,Taisor,E,Engine & Transmission,Transmission Type,Manual
+Toyota,Taisor,E,Engine & Transmission,Gearbox,5-Speed
+Toyota,Taisor,E,Engine & Transmission,Drive Type,FWD
+Toyota,Taisor,E,Fuel & Performance,Fuel Type,Petrol
+Toyota,Taisor,E,Fuel & Performance,Petrol Mileage ARAI,21.7 kmpl
+Toyota,Taisor,E,Fuel & Performance,Petrol Fuel Tank Capacity,37 Litres
+Toyota,Taisor,E,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Toyota,Taisor,E,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Toyota,Taisor,E,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Toyota,Taisor,E,"Suspension, Steering & Brakes",Steering Type,Electric
+Toyota,Taisor,E,"Suspension, Steering & Brakes",Steering Column,Tilt
+Toyota,Taisor,E,"Suspension, Steering & Brakes",Turning Radius,4.9 m
+Toyota,Taisor,E,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Toyota,Taisor,E,"Suspension, Steering & Brakes",Rear Brake Type,Drum
+Toyota,Taisor,E,Dimensions & Capacity,Length,3995 mm
+Toyota,Taisor,E,Dimensions & Capacity,Width,1765 mm
+Toyota,Taisor,E,Dimensions & Capacity,Height,1550 mm
+Toyota,Taisor,E,Dimensions & Capacity,Boot Space,308 Litres
+Toyota,Taisor,E,Dimensions & Capacity,Seating Capacity,5
+Toyota,Taisor,E,Dimensions & Capacity,Wheel Base,2520 mm
+Toyota,Taisor,E,Dimensions & Capacity,Kerb Weight,965-970 kg
+Toyota,Taisor,E,Dimensions & Capacity,Gross Weight,1450 kg
+Toyota,Taisor,E,Comfort & Convenience,Boot Opening,Manual
+Toyota,Taisor,E,Comfort & Convenience,Power Steering,YES
+Toyota,Taisor,E,Comfort & Convenience,Air Conditioner,YES
+Toyota,Taisor,E,Comfort & Convenience,Heater,YES
+Toyota,Taisor,E,Comfort & Convenience,Height Adjustable Driver Seat,NO
+Toyota,Taisor,E,Comfort & Convenience,Automatic Climate Control,YES
+Toyota,Taisor,E,Comfort & Convenience,Adjustable Headrest,YES
+Toyota,Taisor,E,Comfort & Convenience,Rear AC Vents,NO
+Toyota,Taisor,E,Comfort & Convenience,Cruise Control,NO
+Toyota,Taisor,E,Comfort & Convenience,Parking Sensors,Rear
+Toyota,Taisor,E,Comfort & Convenience,Real-Time Vehicle Tracking,NO
+Toyota,Taisor,E,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Toyota,Taisor,E,Comfort & Convenience,KeyLess Entry,YES
+Toyota,Taisor,E,Comfort & Convenience,Engine Start/Stop Button,NO
+Toyota,Taisor,E,Comfort & Convenience,Paddle Shifters,NO
+Toyota,Taisor,E,Comfort & Convenience,USB Charger,NO
+Toyota,Taisor,E,Comfort & Convenience,Central Console Armrest,NO
+Toyota,Taisor,E,Comfort & Convenience,Gear Shift Indicator,YES
+Toyota,Taisor,E,Comfort & Convenience,Idle Start-Stop System,YES
+Toyota,Taisor,E,Comfort & Convenience,Follow Me Home Headlamps,NO
+Toyota,Taisor,E,Comfort & Convenience,Power Windows,Front & Rear
+Toyota,Taisor,E,Interior,Leather Wrapped Steering Wheel,NO
+Toyota,Taisor,E,Interior,Glove Box,YES
+Toyota,Taisor,E,Interior,Digital Cluster,NO
+Toyota,Taisor,E,Interior,Digital Cluster Size,NO
+Toyota,Taisor,E,Interior,Upholstery,Fabric
+Toyota,Taisor,E,Exterior,Adjustable Headlamps,YES
+Toyota,Taisor,E,Exterior,Rear Window Wiper,NO
+Toyota,Taisor,E,Exterior,Rear Window Washer,NO
+Toyota,Taisor,E,Exterior,Rear Window Defogger,YES
+Toyota,Taisor,E,Exterior,Rear Spoiler,YES
+Toyota,Taisor,E,Exterior,Outside Rear View Mirror Turn Indicators,NO
+Toyota,Taisor,E,Exterior,Halogen Headlamps,YES
+Toyota,Taisor,E,Exterior,Roof Rails,YES
+Toyota,Taisor,E,Exterior,Automatic Headlamps,NO
+Toyota,Taisor,E,Exterior,Antenna,Shark Fin
+Toyota,Taisor,E,Exterior,Outside Rear View Mirror (ORVM),Manual
+Toyota,Taisor,E,Exterior,Tyre Size,195/60 R16
+Toyota,Taisor,E,Exterior,Tyre Type,Tubeless & Radial
+Toyota,Taisor,E,Exterior,Wheel Size,16 Inch
+Toyota,Taisor,E,Exterior,LED DRLs,NO
+Toyota,Taisor,E,Exterior,LED Headlamps,NO
+Toyota,Taisor,E,Safety,Anti-lock Braking System (ABS),YES
+Toyota,Taisor,E,Safety,Central Locking,YES
+Toyota,Taisor,E,Safety,Child Safety Locks,YES
+Toyota,Taisor,E,Safety,Anti-Theft Alarm,NO
+Toyota,Taisor,E,Safety,No. of Airbags,6
+Toyota,Taisor,E,Safety,Driver Airbag,YES
+Toyota,Taisor,E,Safety,Passenger Airbag,YES
+Toyota,Taisor,E,Safety,Side Airbag,YES
+Toyota,Taisor,E,Safety,Day & Night Rear View Mirror,YES
+Toyota,Taisor,E,Safety,Electronic Brakeforce Distribution (EBD),YES
+Toyota,Taisor,E,Safety,Traction Control,YES
+Toyota,Taisor,E,Safety,Engine Immobilizer,YES
+Toyota,Taisor,E,Safety,Electronic Stability Control (ESC),YES
+Toyota,Taisor,E,Safety,Rear Camera,NO
+Toyota,Taisor,E,Safety,Anti-Pinch Power Windows,Driver's Window
+Toyota,Taisor,E,Safety,ISOFIX Child Seat Mounts,YES
+Toyota,Taisor,E,Safety,Heads-Up Display (HUD),NO
+Toyota,Taisor,E,Safety,Hill Assist,YES
+Toyota,Taisor,E,Safety,360 View Camera,NO
+Toyota,Taisor,E,Entertainment & Communication,Radio,NO
+Toyota,Taisor,E,Entertainment & Communication,Wireless Phone Charging,NO
+Toyota,Taisor,E,Entertainment & Communication,Bluetooth Connectivity,NO
+Toyota,Taisor,E,Entertainment & Communication,Touchscreen,NO
+Toyota,Taisor,E,Entertainment & Communication,Android Auto,NO
+Toyota,Taisor,E,Entertainment & Communication,Apple CarPlay,NO
+Toyota,Taisor,E,Entertainment & Communication,Usb Ports,NO
+Toyota,Taisor,E,Entertainment & Communication,Speakers,NO
+Toyota,Taisor,E,Advance Internet Feature,Remote Immobiliser,NO
+Toyota,Taisor,E,Advance Internet Feature,Unauthorised Vehicle entry,NO
+Toyota,Taisor,E,Advance Internet Feature,Remote Vehicle Status Check,NO
+Toyota,Taisor,E,Advance Internet Feature,Over the Air (OTA) Updates,NO
+Toyota,Taisor,E,Advance Internet Feature,Google / Alexa Connectivity,NO
+Toyota,Taisor,E,Advance Internet Feature,Over Speeding Alert,NO
+Toyota,Taisor,E,Advance Internet Feature,Tow Away Alert,NO
+Toyota,Taisor,E,Advance Internet Feature,In Car Remote Control App,NO
+Toyota,Taisor,E,Advance Internet Feature,Smartwatch App,NO
+Toyota,Taisor,E,Advance Internet Feature,Valet Mode,NO
+Toyota,Taisor,E,Advance Internet Feature,Remote AC On/Off,NO
+Toyota,Taisor,E,Advance Internet Feature,Remote Door Lock/Unlock,NO
+Toyota,Taisor,E,Advance Internet Feature,Remote Vehicle Ignition Start/Stop,NO
+Toyota,Taisor,E,Advance Internet Feature,Remote Boot Open,NO
+Toyota,Taisor,E,Advance Internet Feature,Inbuilt APPs,NO

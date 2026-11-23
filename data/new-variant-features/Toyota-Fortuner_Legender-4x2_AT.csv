@@ -1,0 +1,117 @@
+company,model,variant,category,feature_name,feature_details
+Toyota,Fortuner Legender,4x2 AT,Engine & Transmission,Engine Type,2.8 L Diesel engine
+Toyota,Fortuner Legender,4x2 AT,Engine & Transmission,Displacement,2755 cc
+Toyota,Fortuner Legender,4x2 AT,Engine & Transmission,Max Power,201.15bhp@3000-3400rpm
+Toyota,Fortuner Legender,4x2 AT,Engine & Transmission,Max Torque,500Nm@1600-2800rpm
+Toyota,Fortuner Legender,4x2 AT,Engine & Transmission,No. of Cylinders,4
+Toyota,Fortuner Legender,4x2 AT,Engine & Transmission,Valves Per Cylinder,4
+Toyota,Fortuner Legender,4x2 AT,Engine & Transmission,Valve Configuration,DOHC
+Toyota,Fortuner Legender,4x2 AT,Engine & Transmission,Fuel Supply System,Direct Injection
+Toyota,Fortuner Legender,4x2 AT,Engine & Transmission,Turbo Charger,YES
+Toyota,Fortuner Legender,4x2 AT,Engine & Transmission,Transmission Type,Automatic
+Toyota,Fortuner Legender,4x2 AT,Engine & Transmission,Gearbox,6-Speed with Sequential Shift
+Toyota,Fortuner Legender,4x2 AT,Engine & Transmission,Drive Type,2WD
+Toyota,Fortuner Legender,4x2 AT,Fuel & Performance,Fuel Type,Diesel
+Toyota,Fortuner Legender,4x2 AT,Fuel & Performance,Diesel Fuel Tank Capacity,80 Litres
+Toyota,Fortuner Legender,4x2 AT,Fuel & Performance,Diesel Highway Mileage,14.4 kmpl
+Toyota,Fortuner Legender,4x2 AT,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Toyota,Fortuner Legender,4x2 AT,Fuel & Performance,Top Speed,190 kmph
+Toyota,Fortuner Legender,4x2 AT,"Suspension, Steering & Brakes",Front Suspension,Double wishbone suspension
+Toyota,Fortuner Legender,4x2 AT,"Suspension, Steering & Brakes",Rear Suspension,Multi-link suspension
+Toyota,Fortuner Legender,4x2 AT,"Suspension, Steering & Brakes",Steering Type,Hydraulic
+Toyota,Fortuner Legender,4x2 AT,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Toyota,Fortuner Legender,4x2 AT,"Suspension, Steering & Brakes",Turning Radius,5.8 m
+Toyota,Fortuner Legender,4x2 AT,"Suspension, Steering & Brakes",Front Brake Type,Ventilated Disc
+Toyota,Fortuner Legender,4x2 AT,"Suspension, Steering & Brakes",Rear Brake Type,Ventilated Disc
+Toyota,Fortuner Legender,4x2 AT,Dimensions & Capacity,Length,4795 mm
+Toyota,Fortuner Legender,4x2 AT,Dimensions & Capacity,Width,1855 mm
+Toyota,Fortuner Legender,4x2 AT,Dimensions & Capacity,Height,1835 mm
+Toyota,Fortuner Legender,4x2 AT,Dimensions & Capacity,Seating Capacity,7
+Toyota,Fortuner Legender,4x2 AT,Dimensions & Capacity,Wheel Base,2745 mm
+Toyota,Fortuner Legender,4x2 AT,Dimensions & Capacity,Gross Weight,2510 kg
+Toyota,Fortuner Legender,4x2 AT,Dimensions & Capacity,Reported Boot Space,296 Litres
+Toyota,Fortuner Legender,4x2 AT,Dimensions & Capacity,Reported Ground Clearance (Unladen),225 mm
+Toyota,Fortuner Legender,4x2 AT,Comfort & Convenience,Boot Opening,Electronic
+Toyota,Fortuner Legender,4x2 AT,Comfort & Convenience,Power Steering,YES
+Toyota,Fortuner Legender,4x2 AT,Comfort & Convenience,Air Conditioner,YES
+Toyota,Fortuner Legender,4x2 AT,Comfort & Convenience,Heater,YES
+Toyota,Fortuner Legender,4x2 AT,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Toyota,Fortuner Legender,4x2 AT,Comfort & Convenience,Ventilated Seats,YES
+Toyota,Fortuner Legender,4x2 AT,Comfort & Convenience,Electric Adjustable Seats,Front
+Toyota,Fortuner Legender,4x2 AT,Comfort & Convenience,Automatic Climate Control,YES
+Toyota,Fortuner Legender,4x2 AT,Comfort & Convenience,Accessory Power Outlet,YES
+Toyota,Fortuner Legender,4x2 AT,Comfort & Convenience,Adjustable Headrest,YES
+Toyota,Fortuner Legender,4x2 AT,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Toyota,Fortuner Legender,4x2 AT,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Toyota,Fortuner Legender,4x2 AT,Comfort & Convenience,Rear AC Vents,YES
+Toyota,Fortuner Legender,4x2 AT,Comfort & Convenience,Lumbar Support,YES
+Toyota,Fortuner Legender,4x2 AT,Comfort & Convenience,Cruise Control,YES
+Toyota,Fortuner Legender,4x2 AT,Comfort & Convenience,Parking Sensors,Front & Rear
+Toyota,Fortuner Legender,4x2 AT,Comfort & Convenience,Real-Time Vehicle Tracking,YES
+Toyota,Fortuner Legender,4x2 AT,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Toyota,Fortuner Legender,4x2 AT,Comfort & Convenience,KeyLess Entry,YES
+Toyota,Fortuner Legender,4x2 AT,Comfort & Convenience,Engine Start/Stop Button,YES
+Toyota,Fortuner Legender,4x2 AT,Comfort & Convenience,Voice Commands,YES
+Toyota,Fortuner Legender,4x2 AT,Comfort & Convenience,Paddle Shifters,YES
+Toyota,Fortuner Legender,4x2 AT,Comfort & Convenience,USB Charger,Front & Rear
+Toyota,Fortuner Legender,4x2 AT,Comfort & Convenience,Central Console Armrest,YES
+Toyota,Fortuner Legender,4x2 AT,Comfort & Convenience,Drive Modes,3
+Toyota,Fortuner Legender,4x2 AT,Comfort & Convenience,Idle Start-Stop System,NO
+Toyota,Fortuner Legender,4x2 AT,Comfort & Convenience,Drive Mode Types,ECO / NORMAL / SPORT
+Toyota,Fortuner Legender,4x2 AT,Interior,Leather Wrapped Steering Wheel,YES
+Toyota,Fortuner Legender,4x2 AT,Interior,Leather wrap gear-shift selector,YES
+Toyota,Fortuner Legender,4x2 AT,Interior,Glove Box,YES
+Toyota,Fortuner Legender,4x2 AT,Interior,Lighting,"Ambient light, Footwell Lamp"
+Toyota,Fortuner Legender,4x2 AT,Interior,Digital Cluster,YES
+Toyota,Fortuner Legender,4x2 AT,Interior,Upholstery,Leatherette
+Toyota,Fortuner Legender,4x2 AT,Exterior,Adjustable Headlamps,YES
+Toyota,Fortuner Legender,4x2 AT,Exterior,Rear Window Wiper,YES
+Toyota,Fortuner Legender,4x2 AT,Exterior,Rear Window Washer,YES
+Toyota,Fortuner Legender,4x2 AT,Exterior,Rear Window Defogger,YES
+Toyota,Fortuner Legender,4x2 AT,Exterior,Wheel Covers,NO
+Toyota,Fortuner Legender,4x2 AT,Exterior,Alloy Wheels,YES
+Toyota,Fortuner Legender,4x2 AT,Exterior,Rear Spoiler,YES
+Toyota,Fortuner Legender,4x2 AT,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Toyota,Fortuner Legender,4x2 AT,Exterior,Roof Rails,YES
+Toyota,Fortuner Legender,4x2 AT,Exterior,Automatic Headlamps,YES
+Toyota,Fortuner Legender,4x2 AT,Exterior,Fog Lights,Front & Rear
+Toyota,Fortuner Legender,4x2 AT,Exterior,Puddle Lamps,YES
+Toyota,Fortuner Legender,4x2 AT,Exterior,Tyre Size,265/65 R17
+Toyota,Fortuner Legender,4x2 AT,Exterior,Tyre Type,Tubeless
+Toyota,Fortuner Legender,4x2 AT,Exterior,LED DRLs,YES
+Toyota,Fortuner Legender,4x2 AT,Exterior,LED Headlamps,YES
+Toyota,Fortuner Legender,4x2 AT,Exterior,LED Taillights,YES
+Toyota,Fortuner Legender,4x2 AT,Exterior,LED Fog Lamps,YES
+Toyota,Fortuner Legender,4x2 AT,Safety,Anti-lock Braking System (ABS),YES
+Toyota,Fortuner Legender,4x2 AT,Safety,Brake Assist,YES
+Toyota,Fortuner Legender,4x2 AT,Safety,Central Locking,YES
+Toyota,Fortuner Legender,4x2 AT,Safety,Child Safety Locks,YES
+Toyota,Fortuner Legender,4x2 AT,Safety,Anti-Theft Alarm,YES
+Toyota,Fortuner Legender,4x2 AT,Safety,No. of Airbags,7
+Toyota,Fortuner Legender,4x2 AT,Safety,Driver Airbag,YES
+Toyota,Fortuner Legender,4x2 AT,Safety,Passenger Airbag,YES
+Toyota,Fortuner Legender,4x2 AT,Safety,Side Airbag,YES
+Toyota,Fortuner Legender,4x2 AT,Safety,Side Airbag-Rear,NO
+Toyota,Fortuner Legender,4x2 AT,Safety,Day & Night Rear View Mirror,YES
+Toyota,Fortuner Legender,4x2 AT,Safety,Electronic Brakeforce Distribution (EBD),YES
+Toyota,Fortuner Legender,4x2 AT,Safety,Traction Control,YES
+Toyota,Fortuner Legender,4x2 AT,Safety,Engine Immobilizer,YES
+Toyota,Fortuner Legender,4x2 AT,Safety,Electronic Stability Control (ESC),YES
+Toyota,Fortuner Legender,4x2 AT,Safety,Rear Camera,With Guidedlines
+Toyota,Fortuner Legender,4x2 AT,Safety,Anti-Theft Device,YES
+Toyota,Fortuner Legender,4x2 AT,Safety,Anti-Pinch Power Windows,All Windows
+Toyota,Fortuner Legender,4x2 AT,Safety,ISOFIX Child Seat Mounts,YES
+Toyota,Fortuner Legender,4x2 AT,Safety,Hill Assist,YES
+Toyota,Fortuner Legender,4x2 AT,Entertainment & Communication,Radio,YES
+Toyota,Fortuner Legender,4x2 AT,Entertainment & Communication,Wireless Phone Charging,YES
+Toyota,Fortuner Legender,4x2 AT,Entertainment & Communication,Bluetooth Connectivity,YES
+Toyota,Fortuner Legender,4x2 AT,Entertainment & Communication,Touchscreen,YES
+Toyota,Fortuner Legender,4x2 AT,Entertainment & Communication,Touchscreen Size,8 inch
+Toyota,Fortuner Legender,4x2 AT,Entertainment & Communication,Android Auto,YES
+Toyota,Fortuner Legender,4x2 AT,Entertainment & Communication,Apple CarPlay,YES
+Toyota,Fortuner Legender,4x2 AT,Entertainment & Communication,No. of Speakers,6
+Toyota,Fortuner Legender,4x2 AT,Entertainment & Communication,Usb Ports,YES
+Toyota,Fortuner Legender,4x2 AT,Entertainment & Communication,Speakers,Front & Rear
+Toyota,Fortuner Legender,4x2 AT,Advance Internet Feature,E-Call & I-Call,YES
+Toyota,Fortuner Legender,4x2 AT,Advance Internet Feature,SOS / Emergency Assistance,YES
+Toyota,Fortuner Legender,4x2 AT,Advance Internet Feature,Geo-fence Alert,YES

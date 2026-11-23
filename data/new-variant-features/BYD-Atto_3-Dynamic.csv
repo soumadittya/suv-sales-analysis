@@ -1,0 +1,119 @@
+company,model,variant,category,feature_name,feature_details
+BYD,Atto 3,Dynamic,Engine & Transmission,Battery Capacity,49.92 kWh
+BYD,Atto 3,Dynamic,Engine & Transmission,Motor Power,150 kW
+BYD,Atto 3,Dynamic,Engine & Transmission,Motor Type,Permanent magnet synchronous motor
+BYD,Atto 3,Dynamic,Engine & Transmission,Max Power,201bhp
+BYD,Atto 3,Dynamic,Engine & Transmission,Max Torque,310Nm
+BYD,Atto 3,Dynamic,Engine & Transmission,Range,468 km
+BYD,Atto 3,Dynamic,Engine & Transmission,Battery Type,Blade Battery
+BYD,Atto 3,Dynamic,Engine & Transmission,Charging Time (A.C),8H (7.2 kW AC)
+BYD,Atto 3,Dynamic,Engine & Transmission,Charging Time (D.C),50 min (80 kW 0-80%)
+BYD,Atto 3,Dynamic,Engine & Transmission,Regenerative Braking,YES
+BYD,Atto 3,Dynamic,Engine & Transmission,Charging Port,CCS-II
+BYD,Atto 3,Dynamic,Engine & Transmission,Transmission Type,Automatic
+BYD,Atto 3,Dynamic,Engine & Transmission,Drive Type,FWD
+BYD,Atto 3,Dynamic,Fuel & Performance,Fuel Type,Electric
+BYD,Atto 3,Dynamic,Fuel & Performance,Emission Norm Compliance,ZEV
+BYD,Atto 3,Dynamic,Fuel & Performance,Acceleration 0-100kmph,7.9 s
+BYD,Atto 3,Dynamic,Charging,Fast Charging,YES
+BYD,Atto 3,Dynamic,"Suspension, Steering & Brakes",Front Suspension,MacPherson suspension
+BYD,Atto 3,Dynamic,"Suspension, Steering & Brakes",Rear Suspension,Multi link suspension
+BYD,Atto 3,Dynamic,"Suspension, Steering & Brakes",Steering Type,Electric
+BYD,Atto 3,Dynamic,"Suspension, Steering & Brakes",Front Brake Type,Ventilated Disc
+BYD,Atto 3,Dynamic,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+BYD,Atto 3,Dynamic,"Suspension, Steering & Brakes",Boot Space Rear Seat Folding,1340 Litres
+BYD,Atto 3,Dynamic,Dimensions & Capacity,Length,4455 mm
+BYD,Atto 3,Dynamic,Dimensions & Capacity,Width,1875 mm
+BYD,Atto 3,Dynamic,Dimensions & Capacity,Height,1615 mm
+BYD,Atto 3,Dynamic,Dimensions & Capacity,Boot Space,440 Litres
+BYD,Atto 3,Dynamic,Dimensions & Capacity,Seating Capacity,5
+BYD,Atto 3,Dynamic,Dimensions & Capacity,Ground Clearance Unladen,175 mm
+BYD,Atto 3,Dynamic,Dimensions & Capacity,Wheel Base,2720 mm
+BYD,Atto 3,Dynamic,Dimensions & Capacity,Front Tread,1575 mm
+BYD,Atto 3,Dynamic,Dimensions & Capacity,Rear Tread,1580 mm
+BYD,Atto 3,Dynamic,Dimensions & Capacity,Kerb Weight,1680 kg
+BYD,Atto 3,Dynamic,Dimensions & Capacity,Gross Weight,2090 kg
+BYD,Atto 3,Dynamic,Comfort & Convenience,Boot Opening,Electronic
+BYD,Atto 3,Dynamic,Comfort & Convenience,Power Steering,YES
+BYD,Atto 3,Dynamic,Comfort & Convenience,Air Conditioner,YES
+BYD,Atto 3,Dynamic,Comfort & Convenience,Heater,YES
+BYD,Atto 3,Dynamic,Comfort & Convenience,Height Adjustable Driver Seat,YES
+BYD,Atto 3,Dynamic,Comfort & Convenience,Electric Adjustable Seats,Front
+BYD,Atto 3,Dynamic,Comfort & Convenience,Automatic Climate Control,YES
+BYD,Atto 3,Dynamic,Comfort & Convenience,Air Quality Control,YES
+BYD,Atto 3,Dynamic,Comfort & Convenience,Accessory Power Outlet,YES
+BYD,Atto 3,Dynamic,Comfort & Convenience,Adjustable Headrest,YES
+BYD,Atto 3,Dynamic,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+BYD,Atto 3,Dynamic,Comfort & Convenience,Rear AC Vents,YES
+BYD,Atto 3,Dynamic,Comfort & Convenience,Cruise Control,YES
+BYD,Atto 3,Dynamic,Comfort & Convenience,Parking Sensors,Front & Rear
+BYD,Atto 3,Dynamic,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+BYD,Atto 3,Dynamic,Comfort & Convenience,KeyLess Entry,YES
+BYD,Atto 3,Dynamic,Comfort & Convenience,Voice Commands,YES
+BYD,Atto 3,Dynamic,Comfort & Convenience,USB Charger,Front & Rear
+BYD,Atto 3,Dynamic,Comfort & Convenience,Central Console Armrest,With Storage
+BYD,Atto 3,Dynamic,Comfort & Convenience,Follow Me Home Headlamps,YES
+BYD,Atto 3,Dynamic,Comfort & Convenience,Additional Features,"6-way power adjustment - driver seat,4-way power adjustment - front passenger seat,Portable card key"
+BYD,Atto 3,Dynamic,Interior,Glove Box,YES
+BYD,Atto 3,Dynamic,Interior,Additional Features,Single-color gradient ambient lighting - door handle
+BYD,Atto 3,Dynamic,Interior,Digital Cluster,YES
+BYD,Atto 3,Dynamic,Interior,Digital Cluster Size,5
+BYD,Atto 3,Dynamic,Interior,Upholstery,Leatherette
+BYD,Atto 3,Dynamic,Exterior,Adjustable Headlamps,YES
+BYD,Atto 3,Dynamic,Exterior,Rear Window Wiper,YES
+BYD,Atto 3,Dynamic,Exterior,Rear Window Washer,YES
+BYD,Atto 3,Dynamic,Exterior,Rear Window Defogger,YES
+BYD,Atto 3,Dynamic,Exterior,Alloy Wheels,YES
+BYD,Atto 3,Dynamic,Exterior,Outside Rear View Mirror Turn Indicators,YES
+BYD,Atto 3,Dynamic,Exterior,Roof Rails,YES
+BYD,Atto 3,Dynamic,Exterior,Antenna,Shark Fin
+BYD,Atto 3,Dynamic,Exterior,Sunroof,Panoramic
+BYD,Atto 3,Dynamic,Exterior,Heated Outside Rear View Mirror,YES
+BYD,Atto 3,Dynamic,Exterior,Tyre Size,215/60 R17
+BYD,Atto 3,Dynamic,Exterior,Tyre Type,Radial Tubeless
+BYD,Atto 3,Dynamic,Exterior,LED DRLs,YES
+BYD,Atto 3,Dynamic,Exterior,LED Headlamps,YES
+BYD,Atto 3,Dynamic,Exterior,LED Taillights,YES
+BYD,Atto 3,Dynamic,Exterior,Additional Features,Electric unlock tailgate
+BYD,Atto 3,Dynamic,Safety,Anti-lock Braking System (ABS),YES
+BYD,Atto 3,Dynamic,Safety,Central Locking,YES
+BYD,Atto 3,Dynamic,Safety,Child Safety Locks,YES
+BYD,Atto 3,Dynamic,Safety,No. of Airbags,7
+BYD,Atto 3,Dynamic,Safety,Driver Airbag,YES
+BYD,Atto 3,Dynamic,Safety,Passenger Airbag,YES
+BYD,Atto 3,Dynamic,Safety,Side Airbag,YES
+BYD,Atto 3,Dynamic,Safety,Side Airbag-Rear,NO
+BYD,Atto 3,Dynamic,Safety,Day & Night Rear View Mirror,YES
+BYD,Atto 3,Dynamic,Safety,Electronic Brakeforce Distribution (EBD),YES
+BYD,Atto 3,Dynamic,Safety,Traction Control,YES
+BYD,Atto 3,Dynamic,Safety,Tyre Pressure Monitoring System (TPMS),YES
+BYD,Atto 3,Dynamic,Safety,Engine Immobilizer,YES
+BYD,Atto 3,Dynamic,Safety,Electronic Stability Control (ESC),YES
+BYD,Atto 3,Dynamic,Safety,Rear Camera,With Guidedlines
+BYD,Atto 3,Dynamic,Safety,Anti-Pinch Power Windows,All Windows
+BYD,Atto 3,Dynamic,Safety,ISOFIX Child Seat Mounts,YES
+BYD,Atto 3,Dynamic,Safety,Hill Descent Control,YES
+BYD,Atto 3,Dynamic,Safety,Hill Assist,YES
+BYD,Atto 3,Dynamic,Safety,360 View Camera,YES
+BYD,Atto 3,Dynamic,Safety,Global NCAP Safety Rating,5 Star
+BYD,Atto 3,Dynamic,Entertainment & Communication,Radio,YES
+BYD,Atto 3,Dynamic,Entertainment & Communication,Wireless Phone Charging,YES
+BYD,Atto 3,Dynamic,Entertainment & Communication,Bluetooth Connectivity,YES
+BYD,Atto 3,Dynamic,Entertainment & Communication,Touchscreen,YES
+BYD,Atto 3,Dynamic,Entertainment & Communication,Touchscreen Size,12.8 inch
+BYD,Atto 3,Dynamic,Entertainment & Communication,Android Auto,YES
+BYD,Atto 3,Dynamic,Entertainment & Communication,Apple CarPlay,YES
+BYD,Atto 3,Dynamic,Entertainment & Communication,No. of Speakers,6
+BYD,Atto 3,Dynamic,Entertainment & Communication,Usb Ports,YES
+BYD,Atto 3,Dynamic,Entertainment & Communication,Speakers,Front & Rear
+BYD,Atto 3,Dynamic,ADAS Feature,Forward Collision Warning,NO
+BYD,Atto 3,Dynamic,ADAS Feature,Automatic Emergency Braking,NO
+BYD,Atto 3,Dynamic,ADAS Feature,Blind Spot Collision Avoidance Assist,NO
+BYD,Atto 3,Dynamic,ADAS Feature,Lane Departure Warning,NO
+BYD,Atto 3,Dynamic,ADAS Feature,Lane Keep Assist,NO
+BYD,Atto 3,Dynamic,ADAS Feature,Adaptive Cruise Control,NO
+BYD,Atto 3,Dynamic,ADAS Feature,Rear Cross Traffic Alert,NO
+BYD,Atto 3,Dynamic,ADAS Feature,Rear Cross Traffic Collision-Avoidance Assist,NO
+BYD,Atto 3,Dynamic,ADAS Feature,Blind Spot Monitor,NO
+BYD,Atto 3,Dynamic,Advance Internet Feature,Digital Car Key,YES
+BYD,Atto 3,Dynamic,Advance Internet Feature,Remote Boot Open,YES

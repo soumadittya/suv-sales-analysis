@@ -1,0 +1,113 @@
+company,model,variant,category,feature_name,feature_details
+Toyota,Urban Cruiser Hyryder,Hyryder S,Engine & Transmission,Engine Type,K15B
+Toyota,Urban Cruiser Hyryder,Hyryder S,Engine & Transmission,Displacement,1462 cc
+Toyota,Urban Cruiser Hyryder,Hyryder S,Engine & Transmission,Max Power,101.64bhp@6000rpm
+Toyota,Urban Cruiser Hyryder,Hyryder S,Engine & Transmission,Max Torque,136.8Nm@4400rpm
+Toyota,Urban Cruiser Hyryder,Hyryder S,Engine & Transmission,No. of Cylinders,4
+Toyota,Urban Cruiser Hyryder,Hyryder S,Engine & Transmission,Valves Per Cylinder,4
+Toyota,Urban Cruiser Hyryder,Hyryder S,Engine & Transmission,Transmission Type,Manual
+Toyota,Urban Cruiser Hyryder,Hyryder S,Engine & Transmission,Gearbox,5-Speed
+Toyota,Urban Cruiser Hyryder,Hyryder S,Engine & Transmission,Drive Type,FWD
+Toyota,Urban Cruiser Hyryder,Hyryder S,Fuel & Performance,Fuel Type,Petrol
+Toyota,Urban Cruiser Hyryder,Hyryder S,Fuel & Performance,Petrol Mileage ARAI,21.12 kmpl
+Toyota,Urban Cruiser Hyryder,Hyryder S,Fuel & Performance,Petrol Fuel Tank Capacity,45 Litres
+Toyota,Urban Cruiser Hyryder,Hyryder S,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Toyota,Urban Cruiser Hyryder,Hyryder S,Fuel & Performance,Top Speed,180 kmph
+Toyota,Urban Cruiser Hyryder,Hyryder S,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Toyota,Urban Cruiser Hyryder,Hyryder S,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Toyota,Urban Cruiser Hyryder,Hyryder S,"Suspension, Steering & Brakes",Steering Type,Electric
+Toyota,Urban Cruiser Hyryder,Hyryder S,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Toyota,Urban Cruiser Hyryder,Hyryder S,"Suspension, Steering & Brakes",Turning Radius,5.4 m
+Toyota,Urban Cruiser Hyryder,Hyryder S,"Suspension, Steering & Brakes",Front Brake Type,Ventilated Disc
+Toyota,Urban Cruiser Hyryder,Hyryder S,"Suspension, Steering & Brakes",Rear Brake Type,Solid Disc
+Toyota,Urban Cruiser Hyryder,Hyryder S,Dimensions & Capacity,Length,4365 mm
+Toyota,Urban Cruiser Hyryder,Hyryder S,Dimensions & Capacity,Width,1795 mm
+Toyota,Urban Cruiser Hyryder,Hyryder S,Dimensions & Capacity,Height,1645 mm
+Toyota,Urban Cruiser Hyryder,Hyryder S,Dimensions & Capacity,Boot Space,373 Litres
+Toyota,Urban Cruiser Hyryder,Hyryder S,Dimensions & Capacity,Seating Capacity,5
+Toyota,Urban Cruiser Hyryder,Hyryder S,Dimensions & Capacity,Wheel Base,2600 mm
+Toyota,Urban Cruiser Hyryder,Hyryder S,Dimensions & Capacity,Kerb Weight,1155-1185 kg
+Toyota,Urban Cruiser Hyryder,Hyryder S,Dimensions & Capacity,Gross Weight,1645 kg
+Toyota,Urban Cruiser Hyryder,Hyryder S,Dimensions & Capacity,Reported Boot Space,373 Litres
+Toyota,Urban Cruiser Hyryder,Hyryder S,Comfort & Convenience,Boot Opening,Manual
+Toyota,Urban Cruiser Hyryder,Hyryder S,Comfort & Convenience,Power Steering,YES
+Toyota,Urban Cruiser Hyryder,Hyryder S,Comfort & Convenience,Air Conditioner,YES
+Toyota,Urban Cruiser Hyryder,Hyryder S,Comfort & Convenience,Heater,YES
+Toyota,Urban Cruiser Hyryder,Hyryder S,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Toyota,Urban Cruiser Hyryder,Hyryder S,Comfort & Convenience,Ventilated Seats,NO
+Toyota,Urban Cruiser Hyryder,Hyryder S,Comfort & Convenience,Automatic Climate Control,YES
+Toyota,Urban Cruiser Hyryder,Hyryder S,Comfort & Convenience,Air Quality Control,YES
+Toyota,Urban Cruiser Hyryder,Hyryder S,Comfort & Convenience,Accessory Power Outlet,YES
+Toyota,Urban Cruiser Hyryder,Hyryder S,Comfort & Convenience,Adjustable Headrest,YES
+Toyota,Urban Cruiser Hyryder,Hyryder S,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Toyota,Urban Cruiser Hyryder,Hyryder S,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Toyota,Urban Cruiser Hyryder,Hyryder S,Comfort & Convenience,Rear AC Vents,YES
+Toyota,Urban Cruiser Hyryder,Hyryder S,Comfort & Convenience,Cruise Control,YES
+Toyota,Urban Cruiser Hyryder,Hyryder S,Comfort & Convenience,Parking Sensors,Rear
+Toyota,Urban Cruiser Hyryder,Hyryder S,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Toyota,Urban Cruiser Hyryder,Hyryder S,Comfort & Convenience,KeyLess Entry,YES
+Toyota,Urban Cruiser Hyryder,Hyryder S,Comfort & Convenience,Engine Start/Stop Button,YES
+Toyota,Urban Cruiser Hyryder,Hyryder S,Comfort & Convenience,Voice Commands,YES
+Toyota,Urban Cruiser Hyryder,Hyryder S,Comfort & Convenience,Paddle Shifters,NO
+Toyota,Urban Cruiser Hyryder,Hyryder S,Comfort & Convenience,USB Charger,Front & Rear
+Toyota,Urban Cruiser Hyryder,Hyryder S,Comfort & Convenience,Central Console Armrest,With Storage
+Toyota,Urban Cruiser Hyryder,Hyryder S,Comfort & Convenience,Gear Shift Indicator,YES
+Toyota,Urban Cruiser Hyryder,Hyryder S,Comfort & Convenience,Glove Box light,YES
+Toyota,Urban Cruiser Hyryder,Hyryder S,Comfort & Convenience,Follow Me Home Headlamps,NO
+Toyota,Urban Cruiser Hyryder,Hyryder S,Interior,Leather Wrapped Steering Wheel,NO
+Toyota,Urban Cruiser Hyryder,Hyryder S,Interior,Glove Box,YES
+Toyota,Urban Cruiser Hyryder,Hyryder S,Interior,Digital Cluster,Semi
+Toyota,Urban Cruiser Hyryder,Hyryder S,Interior,Digital Cluster Size,4.2 inch
+Toyota,Urban Cruiser Hyryder,Hyryder S,Interior,Upholstery,Fabric
+Toyota,Urban Cruiser Hyryder,Hyryder S,Exterior,Adjustable Headlamps,YES
+Toyota,Urban Cruiser Hyryder,Hyryder S,Exterior,Rear Window Wiper,NO
+Toyota,Urban Cruiser Hyryder,Hyryder S,Exterior,Rear Window Washer,NO
+Toyota,Urban Cruiser Hyryder,Hyryder S,Exterior,Wheel Covers,YES
+Toyota,Urban Cruiser Hyryder,Hyryder S,Exterior,Alloy Wheels,NO
+Toyota,Urban Cruiser Hyryder,Hyryder S,Exterior,Rear Spoiler,YES
+Toyota,Urban Cruiser Hyryder,Hyryder S,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Toyota,Urban Cruiser Hyryder,Hyryder S,Exterior,Projector Headlamps,YES
+Toyota,Urban Cruiser Hyryder,Hyryder S,Exterior,Halogen Headlamps,YES
+Toyota,Urban Cruiser Hyryder,Hyryder S,Exterior,Roof Rails,YES
+Toyota,Urban Cruiser Hyryder,Hyryder S,Exterior,Antenna,Shark Fin
+Toyota,Urban Cruiser Hyryder,Hyryder S,Exterior,Sunroof,NO
+Toyota,Urban Cruiser Hyryder,Hyryder S,Exterior,Tyre Size,215/60 R17
+Toyota,Urban Cruiser Hyryder,Hyryder S,Exterior,Tyre Type,"Tubeless, Radial"
+Toyota,Urban Cruiser Hyryder,Hyryder S,Exterior,Wheel Size,17 Inch
+Toyota,Urban Cruiser Hyryder,Hyryder S,Exterior,LED DRLs,YES
+Toyota,Urban Cruiser Hyryder,Hyryder S,Exterior,LED Headlamps,NO
+Toyota,Urban Cruiser Hyryder,Hyryder S,Exterior,LED Taillights,YES
+Toyota,Urban Cruiser Hyryder,Hyryder S,Safety,Anti-lock Braking System (ABS),YES
+Toyota,Urban Cruiser Hyryder,Hyryder S,Safety,Central Locking,YES
+Toyota,Urban Cruiser Hyryder,Hyryder S,Safety,Child Safety Locks,YES
+Toyota,Urban Cruiser Hyryder,Hyryder S,Safety,No. of Airbags,6
+Toyota,Urban Cruiser Hyryder,Hyryder S,Safety,Driver Airbag,YES
+Toyota,Urban Cruiser Hyryder,Hyryder S,Safety,Passenger Airbag,YES
+Toyota,Urban Cruiser Hyryder,Hyryder S,Safety,Side Airbag,YES
+Toyota,Urban Cruiser Hyryder,Hyryder S,Safety,Day & Night Rear View Mirror,YES
+Toyota,Urban Cruiser Hyryder,Hyryder S,Safety,Electronic Brakeforce Distribution (EBD),YES
+Toyota,Urban Cruiser Hyryder,Hyryder S,Safety,Traction Control,YES
+Toyota,Urban Cruiser Hyryder,Hyryder S,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Toyota,Urban Cruiser Hyryder,Hyryder S,Safety,Engine Immobilizer,YES
+Toyota,Urban Cruiser Hyryder,Hyryder S,Safety,Electronic Stability Control (ESC),YES
+Toyota,Urban Cruiser Hyryder,Hyryder S,Safety,Rear Camera,With Guidedlines
+Toyota,Urban Cruiser Hyryder,Hyryder S,Safety,ISOFIX Child Seat Mounts,YES
+Toyota,Urban Cruiser Hyryder,Hyryder S,Safety,Heads-Up Display (HUD),NO
+Toyota,Urban Cruiser Hyryder,Hyryder S,Safety,Hill Descent Control,NO
+Toyota,Urban Cruiser Hyryder,Hyryder S,Safety,Hill Assist,YES
+Toyota,Urban Cruiser Hyryder,Hyryder S,Safety,360 View Camera,NO
+Toyota,Urban Cruiser Hyryder,Hyryder S,Entertainment & Communication,Radio,YES
+Toyota,Urban Cruiser Hyryder,Hyryder S,Entertainment & Communication,Wireless Phone Charging,NO
+Toyota,Urban Cruiser Hyryder,Hyryder S,Entertainment & Communication,Bluetooth Connectivity,YES
+Toyota,Urban Cruiser Hyryder,Hyryder S,Entertainment & Communication,Touchscreen,YES
+Toyota,Urban Cruiser Hyryder,Hyryder S,Entertainment & Communication,Touchscreen Size,7 inch
+Toyota,Urban Cruiser Hyryder,Hyryder S,Entertainment & Communication,Android Auto,YES
+Toyota,Urban Cruiser Hyryder,Hyryder S,Entertainment & Communication,Apple CarPlay,YES
+Toyota,Urban Cruiser Hyryder,Hyryder S,Entertainment & Communication,No. of Speakers,4
+Toyota,Urban Cruiser Hyryder,Hyryder S,Entertainment & Communication,Usb Ports,YES
+Toyota,Urban Cruiser Hyryder,Hyryder S,Entertainment & Communication,Speakers,Front & Rear
+Toyota,Urban Cruiser Hyryder,Hyryder S,Advance Internet Feature,Remote Vehicle Status Check,YES
+Toyota,Urban Cruiser Hyryder,Hyryder S,Advance Internet Feature,In Car Remote Control App,YES
+Toyota,Urban Cruiser Hyryder,Hyryder S,Advance Internet Feature,Remote AC On/Off,YES
+Toyota,Urban Cruiser Hyryder,Hyryder S,Advance Internet Feature,Remote Door Lock/Unlock,YES
+Toyota,Urban Cruiser Hyryder,Hyryder S,Advance Internet Feature,Remote Vehicle Ignition Start/Stop,YES

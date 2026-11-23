@@ -1,0 +1,142 @@
+company,model,variant,category,feature_name,feature_details
+Tata,Sierra,Pure L DCA,Engine & Transmission,Engine Type,1.5L Revotron
+Tata,Sierra,Pure L DCA,Engine & Transmission,Displacement,1498 cc
+Tata,Sierra,Pure L DCA,Engine & Transmission,Max Power,105bhp@6000rpm
+Tata,Sierra,Pure L DCA,Engine & Transmission,Max Torque,145Nm@2100rpm
+Tata,Sierra,Pure L DCA,Engine & Transmission,No. of Cylinders,4
+Tata,Sierra,Pure L DCA,Engine & Transmission,Valves Per Cylinder,4
+Tata,Sierra,Pure L DCA,Engine & Transmission,Fuel Supply System,Atkinson
+Tata,Sierra,Pure L DCA,Engine & Transmission,Turbo Charger,NO
+Tata,Sierra,Pure L DCA,Engine & Transmission,Transmission Type,Automatic
+Tata,Sierra,Pure L DCA,Engine & Transmission,Gearbox,7 Speed
+Tata,Sierra,Pure L DCA,Engine & Transmission,Drive Type,FWD
+Tata,Sierra,Pure L DCA,Fuel & Performance,Fuel Type,Petrol
+Tata,Sierra,Pure L DCA,Fuel & Performance,Petrol Fuel Tank Capacity,50 Litres
+Tata,Sierra,Pure L DCA,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Tata,Sierra,Pure L DCA,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Tata,Sierra,Pure L DCA,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Tata,Sierra,Pure L DCA,"Suspension, Steering & Brakes",Steering Type,Electric
+Tata,Sierra,Pure L DCA,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Tata,Sierra,Pure L DCA,"Suspension, Steering & Brakes",Turning Radius,5.3
+Tata,Sierra,Pure L DCA,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Tata,Sierra,Pure L DCA,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Tata,Sierra,Pure L DCA,"Suspension, Steering & Brakes",Boot Space Rear Seat Folding,1257 Litres
+Tata,Sierra,Pure L DCA,Dimensions & Capacity,Length,4340 mm
+Tata,Sierra,Pure L DCA,Dimensions & Capacity,Width,1841 mm
+Tata,Sierra,Pure L DCA,Dimensions & Capacity,Height,1715 mm
+Tata,Sierra,Pure L DCA,Dimensions & Capacity,Boot Space,622 Litres
+Tata,Sierra,Pure L DCA,Dimensions & Capacity,Seating Capacity,5
+Tata,Sierra,Pure L DCA,Dimensions & Capacity,Ground Clearance Unladen,205 mm
+Tata,Sierra,Pure L DCA,Dimensions & Capacity,Wheel Base,2730 mm
+Tata,Sierra,Pure L DCA,Comfort & Convenience,Boot Opening,Powered
+Tata,Sierra,Pure L DCA,Comfort & Convenience,Power Steering,YES
+Tata,Sierra,Pure L DCA,Comfort & Convenience,Air Conditioner,YES
+Tata,Sierra,Pure L DCA,Comfort & Convenience,Heater,YES
+Tata,Sierra,Pure L DCA,Comfort & Convenience,Adjustable Steering,Height & Reach
+Tata,Sierra,Pure L DCA,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Tata,Sierra,Pure L DCA,Comfort & Convenience,Ventilated Seats,NO
+Tata,Sierra,Pure L DCA,Comfort & Convenience,Electric Adjustable Seats,NO
+Tata,Sierra,Pure L DCA,Comfort & Convenience,Automatic Climate Control,YES
+Tata,Sierra,Pure L DCA,Comfort & Convenience,Air Quality Control,NO
+Tata,Sierra,Pure L DCA,Comfort & Convenience,Accessory Power Outlet,YES
+Tata,Sierra,Pure L DCA,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Tata,Sierra,Pure L DCA,Comfort & Convenience,Adjustable Headrest,YES
+Tata,Sierra,Pure L DCA,Comfort & Convenience,Rear Seat Centre Arm Rest,NO
+Tata,Sierra,Pure L DCA,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Tata,Sierra,Pure L DCA,Comfort & Convenience,Rear AC Vents,YES
+Tata,Sierra,Pure L DCA,Comfort & Convenience,Cruise Control,YES
+Tata,Sierra,Pure L DCA,Comfort & Convenience,Parking Sensors,Rear
+Tata,Sierra,Pure L DCA,Comfort & Convenience,Foldable Rear Seat,Bench Folding
+Tata,Sierra,Pure L DCA,Comfort & Convenience,KeyLess Entry,YES
+Tata,Sierra,Pure L DCA,Comfort & Convenience,Engine Start/Stop Button,YES
+Tata,Sierra,Pure L DCA,Comfort & Convenience,Voice Commands,YES
+Tata,Sierra,Pure L DCA,Comfort & Convenience,Paddle Shifters,YES
+Tata,Sierra,Pure L DCA,Comfort & Convenience,USB Charger,Front
+Tata,Sierra,Pure L DCA,Comfort & Convenience,Central Console Armrest,With Storage
+Tata,Sierra,Pure L DCA,Comfort & Convenience,Idle Start-Stop System,YES
+Tata,Sierra,Pure L DCA,Comfort & Convenience,Follow Me Home Headlamps,YES
+Tata,Sierra,Pure L DCA,Comfort & Convenience,Voice assisted sunroof,NO
+Tata,Sierra,Pure L DCA,Comfort & Convenience,Power Windows,Front & Rear
+Tata,Sierra,Pure L DCA,Interior,Leather Wrapped Steering Wheel,NO
+Tata,Sierra,Pure L DCA,Interior,Leather wrap gear-shift selector,NO
+Tata,Sierra,Pure L DCA,Interior,Glove Box,YES
+Tata,Sierra,Pure L DCA,Interior,Digital Cluster,YES
+Tata,Sierra,Pure L DCA,Interior,Digital Cluster Size,4
+Tata,Sierra,Pure L DCA,Interior,Upholstery,Leatherette
+Tata,Sierra,Pure L DCA,Exterior,Rain Sensing Wiper,NO
+Tata,Sierra,Pure L DCA,Exterior,Rear Window Wiper,YES
+Tata,Sierra,Pure L DCA,Exterior,Rear Window Washer,YES
+Tata,Sierra,Pure L DCA,Exterior,Rear Window Defogger,NO
+Tata,Sierra,Pure L DCA,Exterior,Rear Spoiler,YES
+Tata,Sierra,Pure L DCA,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Tata,Sierra,Pure L DCA,Exterior,Projector Headlamps,YES
+Tata,Sierra,Pure L DCA,Exterior,Cornering Foglamps,NO
+Tata,Sierra,Pure L DCA,Exterior,Roof Rails,YES
+Tata,Sierra,Pure L DCA,Exterior,Automatic Headlamps,NO
+Tata,Sierra,Pure L DCA,Exterior,Fog Lights,NO
+Tata,Sierra,Pure L DCA,Exterior,Antenna,Shark Fin
+Tata,Sierra,Pure L DCA,Exterior,Sunroof,NO
+Tata,Sierra,Pure L DCA,Exterior,Puddle Lamps,NO
+Tata,Sierra,Pure L DCA,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Tata,Sierra,Pure L DCA,Exterior,Wheels Type,Alloy
+Tata,Sierra,Pure L DCA,Exterior,Tyre Size,215/65 R17
+Tata,Sierra,Pure L DCA,Exterior,Tyre Type,Radial & Tubeless
+Tata,Sierra,Pure L DCA,Exterior,Wheel Size,17 Inch
+Tata,Sierra,Pure L DCA,Exterior,LED DRLs,YES
+Tata,Sierra,Pure L DCA,Exterior,LED Headlamps,YES
+Tata,Sierra,Pure L DCA,Exterior,LED Taillights,YES
+Tata,Sierra,Pure L DCA,Exterior,LED Fog Lamps,NO
+Tata,Sierra,Pure L DCA,Exterior,Additional Features,Flush door handles
+Tata,Sierra,Pure L DCA,Safety,Anti-lock Braking System (ABS),YES
+Tata,Sierra,Pure L DCA,Safety,Brake Assist,YES
+Tata,Sierra,Pure L DCA,Safety,Central Locking,YES
+Tata,Sierra,Pure L DCA,Safety,Child Safety Locks,YES
+Tata,Sierra,Pure L DCA,Safety,Anti-Theft Alarm,YES
+Tata,Sierra,Pure L DCA,Safety,No. of Airbags,6
+Tata,Sierra,Pure L DCA,Safety,Driver Airbag,YES
+Tata,Sierra,Pure L DCA,Safety,Passenger Airbag,YES
+Tata,Sierra,Pure L DCA,Safety,Side Airbag,YES
+Tata,Sierra,Pure L DCA,Safety,Day & Night Rear View Mirror,YES
+Tata,Sierra,Pure L DCA,Safety,Electronic Brakeforce Distribution (EBD),YES
+Tata,Sierra,Pure L DCA,Safety,Traction Control,YES
+Tata,Sierra,Pure L DCA,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Tata,Sierra,Pure L DCA,Safety,Engine Immobilizer,YES
+Tata,Sierra,Pure L DCA,Safety,Electronic Stability Control (ESC),YES
+Tata,Sierra,Pure L DCA,Safety,Rear Camera,With Guidedlines
+Tata,Sierra,Pure L DCA,Safety,ISOFIX Child Seat Mounts,YES
+Tata,Sierra,Pure L DCA,Safety,Heads-Up Display (HUD),NO
+Tata,Sierra,Pure L DCA,Safety,Hill Descent Control,YES
+Tata,Sierra,Pure L DCA,Safety,Hill Assist,YES
+Tata,Sierra,Pure L DCA,Safety,360 View Camera,NO
+Tata,Sierra,Pure L DCA,Safety,Bharat NCAP Safety Rating,5 Star
+Tata,Sierra,Pure L DCA,Entertainment & Communication,Radio,YES
+Tata,Sierra,Pure L DCA,Entertainment & Communication,Wireless Phone Charging,NO
+Tata,Sierra,Pure L DCA,Entertainment & Communication,Bluetooth Connectivity,YES
+Tata,Sierra,Pure L DCA,Entertainment & Communication,Touchscreen,YES
+Tata,Sierra,Pure L DCA,Entertainment & Communication,Touchscreen Size,10.24 inch
+Tata,Sierra,Pure L DCA,Entertainment & Communication,Android Auto,YES
+Tata,Sierra,Pure L DCA,Entertainment & Communication,Apple CarPlay,YES
+Tata,Sierra,Pure L DCA,Entertainment & Communication,No. of Speakers,4
+Tata,Sierra,Pure L DCA,Entertainment & Communication,Usb Ports,YES
+Tata,Sierra,Pure L DCA,Entertainment & Communication,Tweeters,4
+Tata,Sierra,Pure L DCA,Entertainment & Communication,Additional Features,Wireless Android Auto & Apple CarPlay
+Tata,Sierra,Pure L DCA,Entertainment & Communication,Speakers,Front & Rear
+Tata,Sierra,Pure L DCA,ADAS Feature,Forward Collision Warning,NO
+Tata,Sierra,Pure L DCA,ADAS Feature,Automatic Emergency Braking,NO
+Tata,Sierra,Pure L DCA,ADAS Feature,Speed Assist System,NO
+Tata,Sierra,Pure L DCA,ADAS Feature,Traffic Sign Recognition,NO
+Tata,Sierra,Pure L DCA,ADAS Feature,Blind Spot Collision Avoidance Assist,NO
+Tata,Sierra,Pure L DCA,ADAS Feature,Lane Departure Warning,NO
+Tata,Sierra,Pure L DCA,ADAS Feature,Lane Keep Assist,NO
+Tata,Sierra,Pure L DCA,ADAS Feature,Lane Departure Prevention Assist,NO
+Tata,Sierra,Pure L DCA,ADAS Feature,Driver Attention Warning,NO
+Tata,Sierra,Pure L DCA,ADAS Feature,Adaptive Cruise Control,NO
+Tata,Sierra,Pure L DCA,ADAS Feature,Adaptive High Beam Assist,NO
+Tata,Sierra,Pure L DCA,ADAS Feature,Rear Cross Traffic Alert,NO
+Tata,Sierra,Pure L DCA,ADAS Feature,Rear Cross Traffic Collision-Avoidance Assist,NO
+Tata,Sierra,Pure L DCA,ADAS Feature,Blind Spot Monitor,NO
+Tata,Sierra,Pure L DCA,Advance Internet Feature,Live Location,YES
+Tata,Sierra,Pure L DCA,Advance Internet Feature,Navigation with Live Traffic,NO
+Tata,Sierra,Pure L DCA,Advance Internet Feature,E-Call & I-Call,NO
+Tata,Sierra,Pure L DCA,Advance Internet Feature,Google / Alexa Connectivity,NO
+Tata,Sierra,Pure L DCA,Advance Internet Feature,SOS Button,NO

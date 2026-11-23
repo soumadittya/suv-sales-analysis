@@ -1,0 +1,151 @@
+company,model,variant,category,feature_name,feature_details
+Mahindra,XUV 3XO,REVX A Turbo AT,Engine & Transmission,Engine Type,mStallion (TGDi) engine
+Mahindra,XUV 3XO,REVX A Turbo AT,Engine & Transmission,Displacement,1197 cc
+Mahindra,XUV 3XO,REVX A Turbo AT,Engine & Transmission,Max Power,128.73bhp@5000rpm
+Mahindra,XUV 3XO,REVX A Turbo AT,Engine & Transmission,Max Torque,230Nm@1500-3750rpm
+Mahindra,XUV 3XO,REVX A Turbo AT,Engine & Transmission,No. of Cylinders,3
+Mahindra,XUV 3XO,REVX A Turbo AT,Engine & Transmission,Valves Per Cylinder,4
+Mahindra,XUV 3XO,REVX A Turbo AT,Engine & Transmission,Turbo Charger,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Engine & Transmission,Transmission Type,Automatic
+Mahindra,XUV 3XO,REVX A Turbo AT,Engine & Transmission,Gearbox,6-Speed AT
+Mahindra,XUV 3XO,REVX A Turbo AT,Engine & Transmission,Drive Type,FWD
+Mahindra,XUV 3XO,REVX A Turbo AT,Fuel & Performance,Fuel Type,Petrol
+Mahindra,XUV 3XO,REVX A Turbo AT,Fuel & Performance,Petrol Mileage ARAI,18.2 kmpl
+Mahindra,XUV 3XO,REVX A Turbo AT,Fuel & Performance,Petrol Fuel Tank Capacity,42 Litres
+Mahindra,XUV 3XO,REVX A Turbo AT,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Mahindra,XUV 3XO,REVX A Turbo AT,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Mahindra,XUV 3XO,REVX A Turbo AT,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Mahindra,XUV 3XO,REVX A Turbo AT,"Suspension, Steering & Brakes",Steering Type,Electric
+Mahindra,XUV 3XO,REVX A Turbo AT,"Suspension, Steering & Brakes",Turning Radius,5.3 m
+Mahindra,XUV 3XO,REVX A Turbo AT,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Mahindra,XUV 3XO,REVX A Turbo AT,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Mahindra,XUV 3XO,REVX A Turbo AT,Dimensions & Capacity,Length,3990 mm
+Mahindra,XUV 3XO,REVX A Turbo AT,Dimensions & Capacity,Width,1821 mm
+Mahindra,XUV 3XO,REVX A Turbo AT,Dimensions & Capacity,Height,1647 mm
+Mahindra,XUV 3XO,REVX A Turbo AT,Dimensions & Capacity,Boot Space,364 Litres
+Mahindra,XUV 3XO,REVX A Turbo AT,Dimensions & Capacity,Seating Capacity,5
+Mahindra,XUV 3XO,REVX A Turbo AT,Dimensions & Capacity,Wheel Base,2600 mm
+Mahindra,XUV 3XO,REVX A Turbo AT,Comfort & Convenience,Boot Opening,Electronic
+Mahindra,XUV 3XO,REVX A Turbo AT,Comfort & Convenience,Power Steering,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Comfort & Convenience,Air Conditioner,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Comfort & Convenience,Heater,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Comfort & Convenience,Ventilated Seats,NO
+Mahindra,XUV 3XO,REVX A Turbo AT,Comfort & Convenience,Electric Adjustable Seats,NO
+Mahindra,XUV 3XO,REVX A Turbo AT,Comfort & Convenience,Automatic Climate Control,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Comfort & Convenience,Accessory Power Outlet,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Comfort & Convenience,Adjustable Headrest,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Comfort & Convenience,Rear AC Vents,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Comfort & Convenience,Cruise Control,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Comfort & Convenience,Parking Sensors,Rear
+Mahindra,XUV 3XO,REVX A Turbo AT,Comfort & Convenience,Real-Time Vehicle Tracking,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Mahindra,XUV 3XO,REVX A Turbo AT,Comfort & Convenience,KeyLess Entry,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Comfort & Convenience,Engine Start/Stop Button,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Comfort & Convenience,Paddle Shifters,NO
+Mahindra,XUV 3XO,REVX A Turbo AT,Comfort & Convenience,USB Charger,Front & Rear
+Mahindra,XUV 3XO,REVX A Turbo AT,Comfort & Convenience,Central Console Armrest,With Storage
+Mahindra,XUV 3XO,REVX A Turbo AT,Comfort & Convenience,Glove Box light,NO
+Mahindra,XUV 3XO,REVX A Turbo AT,Comfort & Convenience,Idle Start-Stop System,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Comfort & Convenience,Follow Me Home Headlamps,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Comfort & Convenience,Power Windows,Front & Rear
+Mahindra,XUV 3XO,REVX A Turbo AT,Comfort & Convenience,Cup Holders,Front & Rear
+Mahindra,XUV 3XO,REVX A Turbo AT,Interior,Leather Wrapped Steering Wheel,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Interior,Leather wrap gear-shift selector,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Interior,Glove Box,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Interior,Folding Table in The Rear,NO
+Mahindra,XUV 3XO,REVX A Turbo AT,Interior,Digital Cluster,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Interior,Digital Cluster Size,10.25 Inch
+Mahindra,XUV 3XO,REVX A Turbo AT,Interior,Upholstery,Leatherette
+Mahindra,XUV 3XO,REVX A Turbo AT,Exterior,Adjustable Headlamps,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Exterior,Headlamp Washers,NO
+Mahindra,XUV 3XO,REVX A Turbo AT,Exterior,Rear Window Wiper,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Exterior,Rear Window Washer,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Exterior,Rear Window Defogger,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Exterior,Rear Spoiler,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Exterior,Side Stepper,NO
+Mahindra,XUV 3XO,REVX A Turbo AT,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Exterior,Projector Headlamps,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Exterior,Halogen Headlamps,NO
+Mahindra,XUV 3XO,REVX A Turbo AT,Exterior,Cornering Foglamps,NO
+Mahindra,XUV 3XO,REVX A Turbo AT,Exterior,Roof Rails,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Exterior,Automatic Headlamps,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Exterior,Fog Lights,NO
+Mahindra,XUV 3XO,REVX A Turbo AT,Exterior,Convertible Top,NO
+Mahindra,XUV 3XO,REVX A Turbo AT,Exterior,Sunroof,Panoramic
+Mahindra,XUV 3XO,REVX A Turbo AT,Exterior,Heated Outside Rear View Mirror,NO
+Mahindra,XUV 3XO,REVX A Turbo AT,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Mahindra,XUV 3XO,REVX A Turbo AT,Exterior,Wheels Type,Alloy
+Mahindra,XUV 3XO,REVX A Turbo AT,Exterior,Tyre Size,205/65 R16
+Mahindra,XUV 3XO,REVX A Turbo AT,Exterior,Tyre Type,"Tubeless, Radial"
+Mahindra,XUV 3XO,REVX A Turbo AT,Exterior,Wheel Size,16 Inch
+Mahindra,XUV 3XO,REVX A Turbo AT,Exterior,LED DRLs,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Exterior,LED Headlamps,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Exterior,LED Taillights,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Exterior,LED Fog Lamps,NO
+Mahindra,XUV 3XO,REVX A Turbo AT,Exterior,Additional Features,Electronic Trumpet Horn
+Mahindra,XUV 3XO,REVX A Turbo AT,Safety,Anti-lock Braking System (ABS),YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Safety,Brake Assist,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Safety,Central Locking,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Safety,Child Safety Locks,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Safety,Anti-Theft Alarm,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Safety,No. of Airbags,6
+Mahindra,XUV 3XO,REVX A Turbo AT,Safety,Driver Airbag,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Safety,Passenger Airbag,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Safety,Side Airbag,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Safety,Side Airbag-Rear,NO
+Mahindra,XUV 3XO,REVX A Turbo AT,Safety,Day & Night Rear View Mirror,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Safety,Electronic Brakeforce Distribution (EBD),YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Safety,Traction Control,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Safety,Engine Immobilizer,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Safety,Electronic Stability Control (ESC),YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Safety,Rear Camera,With Guidedlines
+Mahindra,XUV 3XO,REVX A Turbo AT,Safety,ISOFIX Child Seat Mounts,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Safety,Heads-Up Display (HUD),NO
+Mahindra,XUV 3XO,REVX A Turbo AT,Safety,360 View Camera,NO
+Mahindra,XUV 3XO,REVX A Turbo AT,Safety,Bharat NCAP Safety Rating,5 Star
+Mahindra,XUV 3XO,REVX A Turbo AT,Safety,Bharat NCAP Child Safety Rating,5 Star
+Mahindra,XUV 3XO,REVX A Turbo AT,Entertainment & Communication,Radio,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Entertainment & Communication,Wireless Phone Charging,NO
+Mahindra,XUV 3XO,REVX A Turbo AT,Entertainment & Communication,Bluetooth Connectivity,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Entertainment & Communication,Touchscreen,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Entertainment & Communication,Touchscreen Size,10.25 inch
+Mahindra,XUV 3XO,REVX A Turbo AT,Entertainment & Communication,Android Auto,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Entertainment & Communication,Apple CarPlay,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Entertainment & Communication,No. of Speakers,6
+Mahindra,XUV 3XO,REVX A Turbo AT,Entertainment & Communication,Usb Ports,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Entertainment & Communication,Tweeters,2
+Mahindra,XUV 3XO,REVX A Turbo AT,Entertainment & Communication,Additional Features,Wireless Android Auto And Apple CarPlay
+Mahindra,XUV 3XO,REVX A Turbo AT,Entertainment & Communication,Speakers,Front & Rear
+Mahindra,XUV 3XO,REVX A Turbo AT,Entertainment & Communication,Dolby Atmos,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,ADAS Feature,Adaptive Cruise Control,NO
+Mahindra,XUV 3XO,REVX A Turbo AT,ADAS Feature,Blind Spot Monitor,NO
+Mahindra,XUV 3XO,REVX A Turbo AT,ADAS Feature,Autonomous Parking,NO
+Mahindra,XUV 3XO,REVX A Turbo AT,Advance Internet Feature,Live Location,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Advance Internet Feature,Remote Immobiliser,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Advance Internet Feature,Unauthorised Vehicle entry,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Advance Internet Feature,Engine Start Alarm,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Advance Internet Feature,Remote Vehicle Status Check,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Advance Internet Feature,PUC Expiry,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Advance Internet Feature,Insurance Expiry,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Advance Internet Feature,E-Manual,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Advance Internet Feature,Inbuilt Assistant,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Advance Internet Feature,Navigation with Live Traffic,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Advance Internet Feature,Send POI to Vehicle From App,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Advance Internet Feature,Live Weather,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Advance Internet Feature,E-Call & I-Call,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Advance Internet Feature,Over the Air (OTA) Updates,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Advance Internet Feature,Google / Alexa Connectivity,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Advance Internet Feature,Save Route/Place,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Advance Internet Feature,SOS Button,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Advance Internet Feature,RSA,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Advance Internet Feature,Over Speeding Alert,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Advance Internet Feature,Tow Away Alert,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Advance Internet Feature,Valet Mode,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Advance Internet Feature,Remote AC On/Off,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Advance Internet Feature,Remote Door Lock/Unlock,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Advance Internet Feature,Remote Vehicle Ignition Start/Stop,YES
+Mahindra,XUV 3XO,REVX A Turbo AT,Advance Internet Feature,Geo-fence Alert,YES

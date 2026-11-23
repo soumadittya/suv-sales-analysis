@@ -1,0 +1,142 @@
+company,model,variant,category,feature_name,feature_details
+Mercedes-Benz,GLC,300,Engine & Transmission,Engine Type,M254
+Mercedes-Benz,GLC,300,Engine & Transmission,Displacement,1999 cc
+Mercedes-Benz,GLC,300,Engine & Transmission,Max Power,254.79bhp@5800rpm
+Mercedes-Benz,GLC,300,Engine & Transmission,Max Torque,400Nm@1800-2200rpm
+Mercedes-Benz,GLC,300,Engine & Transmission,No. of Cylinders,4
+Mercedes-Benz,GLC,300,Engine & Transmission,Valves Per Cylinder,4
+Mercedes-Benz,GLC,300,Engine & Transmission,Fuel Supply System,MPI
+Mercedes-Benz,GLC,300,Engine & Transmission,Regenerative Braking,NO
+Mercedes-Benz,GLC,300,Engine & Transmission,Transmission Type,Automatic
+Mercedes-Benz,GLC,300,Engine & Transmission,Gearbox,9-Speed
+Mercedes-Benz,GLC,300,Engine & Transmission,Drive Type,4WD
+Mercedes-Benz,GLC,300,Fuel & Performance,Fuel Type,Petrol
+Mercedes-Benz,GLC,300,Fuel & Performance,Petrol Fuel Tank Capacity,66 Litres
+Mercedes-Benz,GLC,300,Fuel & Performance,Petrol Highway Mileage,12.7 kmpl
+Mercedes-Benz,GLC,300,Fuel & Performance,Top Speed,240 kmph
+Mercedes-Benz,GLC,300,Fuel & Performance,Acceleration,6.2 s
+Mercedes-Benz,GLC,300,Fuel & Performance,0-100kmph,6.2 s
+Mercedes-Benz,GLC,300,"Suspension, Steering & Brakes",Front Suspension,Multi-link suspension
+Mercedes-Benz,GLC,300,"Suspension, Steering & Brakes",Rear Suspension,Multi-link suspension
+Mercedes-Benz,GLC,300,"Suspension, Steering & Brakes",Steering Type,Electric
+Mercedes-Benz,GLC,300,"Suspension, Steering & Brakes",Steering Column,tilt and telescopic
+Mercedes-Benz,GLC,300,Dimensions & Capacity,Length,4716 mm
+Mercedes-Benz,GLC,300,Dimensions & Capacity,Width,1890 mm
+Mercedes-Benz,GLC,300,Dimensions & Capacity,Height,1640 mm
+Mercedes-Benz,GLC,300,Dimensions & Capacity,Boot Space,620 Litres
+Mercedes-Benz,GLC,300,Dimensions & Capacity,Seating Capacity,5
+Mercedes-Benz,GLC,300,Dimensions & Capacity,Wheel Base,3095 mm
+Mercedes-Benz,GLC,300,Dimensions & Capacity,Front Tread,1561 mm
+Mercedes-Benz,GLC,300,Dimensions & Capacity,Rear Tread,1640 mm
+Mercedes-Benz,GLC,300,Dimensions & Capacity,Kerb Weight,2000 kg
+Mercedes-Benz,GLC,300,Dimensions & Capacity,Gross Weight,2550 kg
+Mercedes-Benz,GLC,300,Comfort & Convenience,Boot Opening,Automatic
+Mercedes-Benz,GLC,300,Comfort & Convenience,Power Steering,YES
+Mercedes-Benz,GLC,300,Comfort & Convenience,Air Conditioner,YES
+Mercedes-Benz,GLC,300,Comfort & Convenience,Adjustable Steering,YES
+Mercedes-Benz,GLC,300,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Mercedes-Benz,GLC,300,Comfort & Convenience,Electric Adjustable Seats,Front & Rear
+Mercedes-Benz,GLC,300,Comfort & Convenience,Automatic Climate Control,YES
+Mercedes-Benz,GLC,300,Comfort & Convenience,Air Quality Control,YES
+Mercedes-Benz,GLC,300,Comfort & Convenience,Accessory Power Outlet,YES
+Mercedes-Benz,GLC,300,Comfort & Convenience,Rear Seat Headrest,YES
+Mercedes-Benz,GLC,300,Comfort & Convenience,Adjustable Headrest,YES
+Mercedes-Benz,GLC,300,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Mercedes-Benz,GLC,300,Comfort & Convenience,Height Adjustable Front Seat Belts,NO
+Mercedes-Benz,GLC,300,Comfort & Convenience,Rear AC Vents,YES
+Mercedes-Benz,GLC,300,Comfort & Convenience,Lumbar Support,YES
+Mercedes-Benz,GLC,300,Comfort & Convenience,Active noise cancellation,YES
+Mercedes-Benz,GLC,300,Comfort & Convenience,Cruise Control,YES
+Mercedes-Benz,GLC,300,Comfort & Convenience,Parking Sensors,Front & Rear
+Mercedes-Benz,GLC,300,Comfort & Convenience,Real-Time Vehicle Tracking,YES
+Mercedes-Benz,GLC,300,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Mercedes-Benz,GLC,300,Comfort & Convenience,KeyLess Entry,YES
+Mercedes-Benz,GLC,300,Comfort & Convenience,Engine Start/Stop Button,YES
+Mercedes-Benz,GLC,300,Comfort & Convenience,Voice Commands,YES
+Mercedes-Benz,GLC,300,Comfort & Convenience,Paddle Shifters,YES
+Mercedes-Benz,GLC,300,Comfort & Convenience,USB Charger,Front
+Mercedes-Benz,GLC,300,Comfort & Convenience,Central Console Armrest,YES
+Mercedes-Benz,GLC,300,Comfort & Convenience,Drive Modes,4
+Mercedes-Benz,GLC,300,Comfort & Convenience,Additional Features,"DIRECT SELECT lever, DYNAMIC SELECT, Technical Underguard, driver assistance systems"
+Mercedes-Benz,GLC,300,Interior,Leather Wrapped Steering Wheel,YES
+Mercedes-Benz,GLC,300,Interior,Glove Box,YES
+Mercedes-Benz,GLC,300,Interior,Lighting,",Ambient light,Boot Lamp"
+Mercedes-Benz,GLC,300,Interior,Digital Cluster,YES
+Mercedes-Benz,GLC,300,Interior,Digital Cluster Size,12.3 inch
+Mercedes-Benz,GLC,300,Interior,Upholstery,Leather
+Mercedes-Benz,GLC,300,Interior,Ambient Light Colour (numbers),64
+Mercedes-Benz,GLC,300,Exterior,Adjustable Headlamps,YES
+Mercedes-Benz,GLC,300,Exterior,Rain Sensing Wiper,YES
+Mercedes-Benz,GLC,300,Exterior,Rear Window Wiper,YES
+Mercedes-Benz,GLC,300,Exterior,Rear Window Washer,YES
+Mercedes-Benz,GLC,300,Exterior,Rear Window Defogger,YES
+Mercedes-Benz,GLC,300,Exterior,Alloy Wheels,YES
+Mercedes-Benz,GLC,300,Exterior,Rear Spoiler,YES
+Mercedes-Benz,GLC,300,Exterior,Side Stepper,YES
+Mercedes-Benz,GLC,300,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Mercedes-Benz,GLC,300,Exterior,Halogen Headlamps,YES
+Mercedes-Benz,GLC,300,Exterior,Cornering Headlamps,YES
+Mercedes-Benz,GLC,300,Exterior,Roof Rails,YES
+Mercedes-Benz,GLC,300,Exterior,Automatic Headlamps,YES
+Mercedes-Benz,GLC,300,Exterior,Sunroof,Panoramic
+Mercedes-Benz,GLC,300,Exterior,Tyre Size,235/55 R19
+Mercedes-Benz,GLC,300,Exterior,Tyre Type,"Tubeless,Radial"
+Mercedes-Benz,GLC,300,Exterior,Wheel Size,R19 Inch
+Mercedes-Benz,GLC,300,Exterior,LED DRLs,YES
+Mercedes-Benz,GLC,300,Exterior,LED Headlamps,YES
+Mercedes-Benz,GLC,300,Exterior,LED Taillights,YES
+Mercedes-Benz,GLC,300,Exterior,Additional Features,"""Aluminium-look running boards with, Rear trim strip Plastic Chrome Plated rubber studs, Door sill panels, Illuminated door sill panels with “Mercedes-Benz” The manual pull-out roller sunblinds protect against direct, lettering, Door Handle Recesses, large, 2-piece, AMG Filler Cap, LCD projector, With animated Mercedes-Benz pattern"""
+Mercedes-Benz,GLC,300,Safety,Anti-lock Braking System (ABS),YES
+Mercedes-Benz,GLC,300,Safety,Brake Assist,YES
+Mercedes-Benz,GLC,300,Safety,Central Locking,YES
+Mercedes-Benz,GLC,300,Safety,Child Safety Locks,YES
+Mercedes-Benz,GLC,300,Safety,Anti-Theft Alarm,YES
+Mercedes-Benz,GLC,300,Safety,No. of Airbags,7
+Mercedes-Benz,GLC,300,Safety,Driver Airbag,YES
+Mercedes-Benz,GLC,300,Safety,Passenger Airbag,YES
+Mercedes-Benz,GLC,300,Safety,Side Airbag,YES
+Mercedes-Benz,GLC,300,Safety,Side Airbag-Rear,NO
+Mercedes-Benz,GLC,300,Safety,Day & Night Rear View Mirror,YES
+Mercedes-Benz,GLC,300,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Mercedes-Benz,GLC,300,Safety,Engine Immobilizer,YES
+Mercedes-Benz,GLC,300,Safety,Rear Camera,With Guidedlines
+Mercedes-Benz,GLC,300,Safety,Anti-Theft Device,YES
+Mercedes-Benz,GLC,300,Safety,Anti-Pinch Power Windows,All Windows
+Mercedes-Benz,GLC,300,Safety,ISOFIX Child Seat Mounts,YES
+Mercedes-Benz,GLC,300,Safety,Blind Spot Camera,YES
+Mercedes-Benz,GLC,300,Safety,Hill Descent Control,YES
+Mercedes-Benz,GLC,300,Safety,Hill Assist,YES
+Mercedes-Benz,GLC,300,Safety,360 View Camera,YES
+Mercedes-Benz,GLC,300,Entertainment & Communication,Radio,YES
+Mercedes-Benz,GLC,300,Entertainment & Communication,MirrorLink,NO
+Mercedes-Benz,GLC,300,Entertainment & Communication,Wireless Phone Charging,YES
+Mercedes-Benz,GLC,300,Entertainment & Communication,Bluetooth Connectivity,YES
+Mercedes-Benz,GLC,300,Entertainment & Communication,Wi-Fi Connectivity,YES
+Mercedes-Benz,GLC,300,Entertainment & Communication,Touchscreen,YES
+Mercedes-Benz,GLC,300,Entertainment & Communication,Touchscreen Size,11.9 Inch
+Mercedes-Benz,GLC,300,Entertainment & Communication,Android Auto,YES
+Mercedes-Benz,GLC,300,Entertainment & Communication,Apple CarPlay,YES
+Mercedes-Benz,GLC,300,Entertainment & Communication,No. of Speakers,15
+Mercedes-Benz,GLC,300,Entertainment & Communication,Usb Ports,YES
+Mercedes-Benz,GLC,300,Entertainment & Communication,Additional Features,"connect with Alexa, Google Home integration and Parking location on navigation system"
+Mercedes-Benz,GLC,300,Entertainment & Communication,Speakers,Front & Rear
+Mercedes-Benz,GLC,300,ADAS Feature,Speed Assist System,YES
+Mercedes-Benz,GLC,300,ADAS Feature,Traffic Sign Recognition,YES
+Mercedes-Benz,GLC,300,ADAS Feature,Blind Spot Collision Avoidance Assist,YES
+Mercedes-Benz,GLC,300,ADAS Feature,Lane Departure Warning,YES
+Mercedes-Benz,GLC,300,ADAS Feature,Lane Keep Assist,YES
+Mercedes-Benz,GLC,300,ADAS Feature,Adaptive High Beam Assist,YES
+Mercedes-Benz,GLC,300,ADAS Feature,Blind Spot Monitor,YES
+Mercedes-Benz,GLC,300,ADAS Feature,Autonomous Parking,Full
+Mercedes-Benz,GLC,300,Advance Internet Feature,Live Location,YES
+Mercedes-Benz,GLC,300,Advance Internet Feature,Digital Car Key,YES
+Mercedes-Benz,GLC,300,Advance Internet Feature,Navigation with Live Traffic,YES
+Mercedes-Benz,GLC,300,Advance Internet Feature,Send POI to Vehicle From App,YES
+Mercedes-Benz,GLC,300,Advance Internet Feature,Live Weather,YES
+Mercedes-Benz,GLC,300,Advance Internet Feature,E-Call & I-Call,YES
+Mercedes-Benz,GLC,300,Advance Internet Feature,Google / Alexa Connectivity,YES
+Mercedes-Benz,GLC,300,Advance Internet Feature,Save Route/Place,YES
+Mercedes-Benz,GLC,300,Advance Internet Feature,Remote AC On/Off,YES
+Mercedes-Benz,GLC,300,Advance Internet Feature,Remote Door Lock/Unlock,YES
+Mercedes-Benz,GLC,300,Advance Internet Feature,SOS / Emergency Assistance,YES
+Mercedes-Benz,GLC,300,Advance Internet Feature,Geo-fence Alert,YES

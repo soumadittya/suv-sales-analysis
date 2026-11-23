@@ -1,0 +1,138 @@
+company,model,variant,category,feature_name,feature_details
+BMW,X5,xDrive40i M Sport,Engine & Transmission,Engine Type,Turbo 6-cylinder engine
+BMW,X5,xDrive40i M Sport,Engine & Transmission,Displacement,2998 cc
+BMW,X5,xDrive40i M Sport,Engine & Transmission,Max Power,375.48bhp@5200-6250rpm
+BMW,X5,xDrive40i M Sport,Engine & Transmission,Max Torque,520Nm@1850-5000rpm
+BMW,X5,xDrive40i M Sport,Engine & Transmission,No. of Cylinders,6
+BMW,X5,xDrive40i M Sport,Engine & Transmission,Valves Per Cylinder,4
+BMW,X5,xDrive40i M Sport,Engine & Transmission,Turbo Charger,YES
+BMW,X5,xDrive40i M Sport,Engine & Transmission,Super Charge,NO
+BMW,X5,xDrive40i M Sport,Engine & Transmission,Transmission Type,Automatic
+BMW,X5,xDrive40i M Sport,Engine & Transmission,Gearbox,8-Speed Steptronic
+BMW,X5,xDrive40i M Sport,Engine & Transmission,Drive Type,4WD
+BMW,X5,xDrive40i M Sport,Fuel & Performance,Fuel Type,Petrol
+BMW,X5,xDrive40i M Sport,Fuel & Performance,Petrol Mileage ARAI,12 kmpl
+BMW,X5,xDrive40i M Sport,Fuel & Performance,Petrol Fuel Tank Capacity,83 Litres
+BMW,X5,xDrive40i M Sport,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+BMW,X5,xDrive40i M Sport,Fuel & Performance,Top Speed,243 kmph
+BMW,X5,xDrive40i M Sport,Fuel & Performance,Acceleration,5.4 s
+BMW,X5,xDrive40i M Sport,Fuel & Performance,0-100kmph,5.4 s
+BMW,X5,xDrive40i M Sport,"Suspension, Steering & Brakes",Front Suspension,Air suspension
+BMW,X5,xDrive40i M Sport,"Suspension, Steering & Brakes",Rear Suspension,Air suspension
+BMW,X5,xDrive40i M Sport,"Suspension, Steering & Brakes",Steering Type,Electric
+BMW,X5,xDrive40i M Sport,"Suspension, Steering & Brakes",Front Brake Type,Disc
+BMW,X5,xDrive40i M Sport,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+BMW,X5,xDrive40i M Sport,Dimensions & Capacity,Length,4922 mm
+BMW,X5,xDrive40i M Sport,Dimensions & Capacity,Width,2004 mm
+BMW,X5,xDrive40i M Sport,Dimensions & Capacity,Height,1745 mm
+BMW,X5,xDrive40i M Sport,Dimensions & Capacity,Boot Space,645 Litres
+BMW,X5,xDrive40i M Sport,Dimensions & Capacity,Seating Capacity,5
+BMW,X5,xDrive40i M Sport,Dimensions & Capacity,Wheel Base,2975 mm
+BMW,X5,xDrive40i M Sport,Dimensions & Capacity,Rear Tread,1686 mm
+BMW,X5,xDrive40i M Sport,Dimensions & Capacity,Kerb Weight,2220 kg
+BMW,X5,xDrive40i M Sport,Comfort & Convenience,Power Steering,YES
+BMW,X5,xDrive40i M Sport,Comfort & Convenience,Power Boot,YES
+BMW,X5,xDrive40i M Sport,Comfort & Convenience,Air Conditioner,YES
+BMW,X5,xDrive40i M Sport,Comfort & Convenience,Heater,YES
+BMW,X5,xDrive40i M Sport,Comfort & Convenience,Adjustable Steering,YES
+BMW,X5,xDrive40i M Sport,Comfort & Convenience,Height Adjustable Driver Seat,YES
+BMW,X5,xDrive40i M Sport,Comfort & Convenience,Electric Adjustable Seats,Front
+BMW,X5,xDrive40i M Sport,Comfort & Convenience,Automatic Climate Control,YES
+BMW,X5,xDrive40i M Sport,Comfort & Convenience,Air Quality Control,YES
+BMW,X5,xDrive40i M Sport,Comfort & Convenience,Remote Trunk Opener,YES
+BMW,X5,xDrive40i M Sport,Comfort & Convenience,Low Fuel Warning Light,YES
+BMW,X5,xDrive40i M Sport,Comfort & Convenience,Accessory Power Outlet,YES
+BMW,X5,xDrive40i M Sport,Comfort & Convenience,Rear Seat Headrest,YES
+BMW,X5,xDrive40i M Sport,Comfort & Convenience,Adjustable Headrest,YES
+BMW,X5,xDrive40i M Sport,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+BMW,X5,xDrive40i M Sport,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+BMW,X5,xDrive40i M Sport,Comfort & Convenience,Rear AC Vents,YES
+BMW,X5,xDrive40i M Sport,Comfort & Convenience,Lumbar Support,YES
+BMW,X5,xDrive40i M Sport,Comfort & Convenience,Cruise Control,YES
+BMW,X5,xDrive40i M Sport,Comfort & Convenience,Parking Sensors,Front & Rear
+BMW,X5,xDrive40i M Sport,Comfort & Convenience,Navigation System,YES
+BMW,X5,xDrive40i M Sport,Comfort & Convenience,Foldable Rear Seat,40:20:40 Split
+BMW,X5,xDrive40i M Sport,Comfort & Convenience,KeyLess Entry,YES
+BMW,X5,xDrive40i M Sport,Comfort & Convenience,Engine Start/Stop Button,YES
+BMW,X5,xDrive40i M Sport,Comfort & Convenience,Voice Commands,YES
+BMW,X5,xDrive40i M Sport,Comfort & Convenience,Paddle Shifters,YES
+BMW,X5,xDrive40i M Sport,Comfort & Convenience,USB Charger,Front
+BMW,X5,xDrive40i M Sport,Comfort & Convenience,Central Console Armrest,YES
+BMW,X5,xDrive40i M Sport,Comfort & Convenience,Drive Modes,4
+BMW,X5,xDrive40i M Sport,Comfort & Convenience,Additional Features,"Servotronic Steering Assist, Cruise Control with braking function, M Sport(M Aerodynamics package with front apron, side skirts and wheel arch trims in body colour, BMW individual High-Gloss Shadow line, M designation on the sides, M sport brake with blue painted brake callipers with M designation, Rear apron with diffuser insert, Tailpipe finishers in M Sport package-specific geometry, M door sill finishers, illuminated and M-specific pedals, BMW individual headliner anthracite, M Sport package-specific car key), Active Seat Ventilation, BMW Gesture Control"
+BMW,X5,xDrive40i M Sport,Interior,Electronic Multi-Tripmeter,YES
+BMW,X5,xDrive40i M Sport,Interior,Leather Seats,YES
+BMW,X5,xDrive40i M Sport,Interior,Fabric Upholstery,NO
+BMW,X5,xDrive40i M Sport,Interior,Leather Wrapped Steering Wheel,YES
+BMW,X5,xDrive40i M Sport,Interior,Glove Box,YES
+BMW,X5,xDrive40i M Sport,Interior,Digital Clock,YES
+BMW,X5,xDrive40i M Sport,Interior,Outside Temperature Display,YES
+BMW,X5,xDrive40i M Sport,Interior,Driving Experience Control Eco,YES
+BMW,X5,xDrive40i M Sport,Interior,Additional Features,"Black, Sensatec Black"
+BMW,X5,xDrive40i M Sport,Interior,Digital Cluster,"Widescreen Curved Display, Fully Digital 12.3 Instrument Display"
+BMW,X5,xDrive40i M Sport,Interior,Digital Cluster Size,12.3
+BMW,X5,xDrive40i M Sport,Interior,Ambient Light Colour (numbers),6
+BMW,X5,xDrive40i M Sport,Exterior,Adjustable Headlamps,YES
+BMW,X5,xDrive40i M Sport,Exterior,Fog Lights - Front,YES
+BMW,X5,xDrive40i M Sport,Exterior,Fog Lights - Rear,YES
+BMW,X5,xDrive40i M Sport,Exterior,Rain Sensing Wiper,YES
+BMW,X5,xDrive40i M Sport,Exterior,Rear Window Wiper,NO
+BMW,X5,xDrive40i M Sport,Exterior,Rear Window Defogger,YES
+BMW,X5,xDrive40i M Sport,Exterior,Wheel Covers,NO
+BMW,X5,xDrive40i M Sport,Exterior,Alloy Wheels,YES
+BMW,X5,xDrive40i M Sport,Exterior,Power Antenna,NO
+BMW,X5,xDrive40i M Sport,Exterior,Tinted Glass,NO
+BMW,X5,xDrive40i M Sport,Exterior,Rear Spoiler,YES
+BMW,X5,xDrive40i M Sport,Exterior,Side Stepper,NO
+BMW,X5,xDrive40i M Sport,Exterior,Outside Rear View Mirror Turn Indicators,YES
+BMW,X5,xDrive40i M Sport,Exterior,Halogen Headlamps,NO
+BMW,X5,xDrive40i M Sport,Exterior,Cornering Headlamps,YES
+BMW,X5,xDrive40i M Sport,Exterior,Roof Rails,YES
+BMW,X5,xDrive40i M Sport,Exterior,Automatic Headlamps,YES
+BMW,X5,xDrive40i M Sport,Exterior,Trunk Opener,Smart
+BMW,X5,xDrive40i M Sport,Exterior,Heated Wing Mirror,YES
+BMW,X5,xDrive40i M Sport,Exterior,Sunroof,Panoramic
+BMW,X5,xDrive40i M Sport,Exterior,Heated Outside Rear View Mirror,YES
+BMW,X5,xDrive40i M Sport,Exterior,Tyre Size,21
+BMW,X5,xDrive40i M Sport,Exterior,Tyre Type,"Tubeless, Runflat"
+BMW,X5,xDrive40i M Sport,Exterior,LED DRLs,YES
+BMW,X5,xDrive40i M Sport,Exterior,LED Headlamps,YES
+BMW,X5,xDrive40i M Sport,Exterior,LED Taillights,YES
+BMW,X5,xDrive40i M Sport,Exterior,LED Fog Lamps,YES
+BMW,X5,xDrive40i M Sport,Exterior,Additional Features,"Illuminated Kidney (Iconic Glow) Grille, BMW Adaptive LED Headlights with(BMW Selective Beam, High-beam assistant,Blue Design Element, Accent lighting with turn indicators), Sun Protection Glazing, Exterior mirrors(anti-dazzle function (driver's side) and parking function for passenger side exterior mirror), Two-part tailgate, BMW Individual roof rails High-Gloss Shadow Line"
+BMW,X5,xDrive40i M Sport,Safety,Anti-lock Braking System (ABS),YES
+BMW,X5,xDrive40i M Sport,Safety,Brake Assist,YES
+BMW,X5,xDrive40i M Sport,Safety,Central Locking,YES
+BMW,X5,xDrive40i M Sport,Safety,Child Safety Locks,YES
+BMW,X5,xDrive40i M Sport,Safety,Anti-Theft Alarm,YES
+BMW,X5,xDrive40i M Sport,Safety,No. of Airbags,6
+BMW,X5,xDrive40i M Sport,Safety,Driver Airbag,YES
+BMW,X5,xDrive40i M Sport,Safety,Passenger Airbag,YES
+BMW,X5,xDrive40i M Sport,Safety,Side Airbag,YES
+BMW,X5,xDrive40i M Sport,Safety,Side Airbag-Rear,NO
+BMW,X5,xDrive40i M Sport,Safety,Electronic Brakeforce Distribution (EBD),YES
+BMW,X5,xDrive40i M Sport,Safety,Traction Control,YES
+BMW,X5,xDrive40i M Sport,Safety,Tyre Pressure Monitoring System (TPMS),YES
+BMW,X5,xDrive40i M Sport,Safety,Engine Immobilizer,YES
+BMW,X5,xDrive40i M Sport,Safety,Electronic Stability Control (ESC),YES
+BMW,X5,xDrive40i M Sport,Safety,Rear Camera,With Guidedlines
+BMW,X5,xDrive40i M Sport,Safety,Anti-Theft Device,YES
+BMW,X5,xDrive40i M Sport,Safety,ISOFIX Child Seat Mounts,YES
+BMW,X5,xDrive40i M Sport,Safety,Heads-Up Display (HUD),YES
+BMW,X5,xDrive40i M Sport,Safety,Hill Descent Control,YES
+BMW,X5,xDrive40i M Sport,Safety,Hill Assist,NO
+BMW,X5,xDrive40i M Sport,Safety,360 View Camera,YES
+BMW,X5,xDrive40i M Sport,Entertainment & Communication,Radio,YES
+BMW,X5,xDrive40i M Sport,Entertainment & Communication,Audio System Remote Control,YES
+BMW,X5,xDrive40i M Sport,Entertainment & Communication,Wireless Phone Charging,YES
+BMW,X5,xDrive40i M Sport,Entertainment & Communication,USB & Auxiliary input,YES
+BMW,X5,xDrive40i M Sport,Entertainment & Communication,Bluetooth Connectivity,YES
+BMW,X5,xDrive40i M Sport,Entertainment & Communication,Touchscreen,YES
+BMW,X5,xDrive40i M Sport,Entertainment & Communication,Android Auto,NO
+BMW,X5,xDrive40i M Sport,Entertainment & Communication,Apple CarPlay,YES
+BMW,X5,xDrive40i M Sport,Entertainment & Communication,No. of Speakers,16
+BMW,X5,xDrive40i M Sport,Entertainment & Communication,Rear Entertainment System,YES
+BMW,X5,xDrive40i M Sport,Entertainment & Communication,Usb Ports,YES
+BMW,X5,xDrive40i M Sport,Entertainment & Communication,Additional Features,"464 W Harman Kardon Surround Sound system, BMW Connected Package Professional(Teleservices, Intelligent E-call, Remote software upgrade, MyBMW App with Remote Services, Intelligent Personal Assistant), Digital Key Plus"
+BMW,X5,xDrive40i M Sport,Entertainment & Communication,Speakers,Front & Rear
+BMW,X5,xDrive40i M Sport,ADAS Feature,Autonomous Parking,NO

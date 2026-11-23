@@ -1,0 +1,128 @@
+company,model,variant,category,feature_name,feature_details
+Volvo,XC60,B5,Engine & Transmission,Engine Type,Mild-Hybrid
+Volvo,XC60,B5,Engine & Transmission,Displacement,1969 cc
+Volvo,XC60,B5,Engine & Transmission,Max Power,247bhp
+Volvo,XC60,B5,Engine & Transmission,Max Torque,360Nm
+Volvo,XC60,B5,Engine & Transmission,No. of Cylinders,4
+Volvo,XC60,B5,Engine & Transmission,Valves Per Cylinder,4
+Volvo,XC60,B5,Engine & Transmission,Transmission Type,Automatic
+Volvo,XC60,B5,Engine & Transmission,Gearbox,8-speed
+Volvo,XC60,B5,Engine & Transmission,Drive Type,AWD
+Volvo,XC60,B5,Fuel & Performance,Fuel Type,Petrol
+Volvo,XC60,B5,Fuel & Performance,Petrol Fuel Tank Capacity,71 Litres
+Volvo,XC60,B5,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Volvo,XC60,B5,Fuel & Performance,Top Speed,180 kmph
+Volvo,XC60,B5,Fuel & Performance,Acceleration,6.9 s
+Volvo,XC60,B5,Fuel & Performance,0-100kmph,6.9 s
+Volvo,XC60,B5,"Suspension, Steering & Brakes",Front Suspension,Air suspension
+Volvo,XC60,B5,"Suspension, Steering & Brakes",Rear Suspension,Air suspension
+Volvo,XC60,B5,"Suspension, Steering & Brakes",Steering Type,Electric
+Volvo,XC60,B5,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Volvo,XC60,B5,"Suspension, Steering & Brakes",Turning Radius,5.5 m
+Volvo,XC60,B5,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Volvo,XC60,B5,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Volvo,XC60,B5,"Suspension, Steering & Brakes",Boot Space Rear Seat Folding,965 Litres
+Volvo,XC60,B5,Dimensions & Capacity,Length,4708 mm
+Volvo,XC60,B5,Dimensions & Capacity,Width,1902 mm
+Volvo,XC60,B5,Dimensions & Capacity,Height,1655 mm
+Volvo,XC60,B5,Dimensions & Capacity,Boot Space,483 Litres
+Volvo,XC60,B5,Dimensions & Capacity,Seating Capacity,5
+Volvo,XC60,B5,Dimensions & Capacity,Wheel Base,2865 mm
+Volvo,XC60,B5,Comfort & Convenience,Boot Opening,Hands-Free
+Volvo,XC60,B5,Comfort & Convenience,Power Steering,YES
+Volvo,XC60,B5,Comfort & Convenience,Air Conditioner,YES
+Volvo,XC60,B5,Comfort & Convenience,Heater,YES
+Volvo,XC60,B5,Comfort & Convenience,Adjustable Steering,Height & Reach
+Volvo,XC60,B5,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Volvo,XC60,B5,Comfort & Convenience,Ventilated Seats,YES
+Volvo,XC60,B5,Comfort & Convenience,Electric Adjustable Seats,Front Only
+Volvo,XC60,B5,Comfort & Convenience,Automatic Climate Control,YES
+Volvo,XC60,B5,Comfort & Convenience,Air Quality Control,YES
+Volvo,XC60,B5,Comfort & Convenience,Remote Trunk Opener,YES
+Volvo,XC60,B5,Comfort & Convenience,Accessory Power Outlet,YES
+Volvo,XC60,B5,Comfort & Convenience,Adjustable Headrest,YES
+Volvo,XC60,B5,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Volvo,XC60,B5,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Volvo,XC60,B5,Comfort & Convenience,Rear AC Vents,YES
+Volvo,XC60,B5,Comfort & Convenience,Lumbar Support,YES
+Volvo,XC60,B5,Comfort & Convenience,Cruise Control,YES
+Volvo,XC60,B5,Comfort & Convenience,Parking Sensors,Front & Rear
+Volvo,XC60,B5,Comfort & Convenience,Real-Time Vehicle Tracking,YES
+Volvo,XC60,B5,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Volvo,XC60,B5,Comfort & Convenience,KeyLess Entry,YES
+Volvo,XC60,B5,Comfort & Convenience,Engine Start/Stop Button,YES
+Volvo,XC60,B5,Comfort & Convenience,Paddle Shifters,YES
+Volvo,XC60,B5,Comfort & Convenience,Central Console Armrest,With Storage
+Volvo,XC60,B5,Comfort & Convenience,Idle Start-Stop System,YES
+Volvo,XC60,B5,Comfort & Convenience,Follow Me Home Headlamps,YES
+Volvo,XC60,B5,Comfort & Convenience,Additional Features,"Air Purifier with PM 2.5-sensor, Key remote control High level, Comfort seat padding, , Power adjustable driver seat with memory,Power adjustable side support, 4 way power adjustable lumbar support,Backrest massage, front seats,Heated front seats,Mechanical release fold 2nd row rear seat, Manually foldable rear headrests,Pedal standard, Pilot Assist, Blind spot Information System with Cross traffic alert,Collision Mitigation support, rear"
+Volvo,XC60,B5,Comfort & Convenience,Voice assisted sunroof,YES
+Volvo,XC60,B5,Comfort & Convenience,Power Windows,Front & Rear
+Volvo,XC60,B5,Comfort & Convenience,Cup Holders,Front & Rear
+Volvo,XC60,B5,Interior,Leather Wrapped Steering Wheel,YES
+Volvo,XC60,B5,Interior,Glove Box,YES
+Volvo,XC60,B5,Interior,Lighting,Ambient light
+Volvo,XC60,B5,Interior,Upholstery,Leather
+Volvo,XC60,B5,Exterior,Adjustable Headlamps,YES
+Volvo,XC60,B5,Exterior,Rain Sensing Wiper,YES
+Volvo,XC60,B5,Exterior,Rear Window Wiper,YES
+Volvo,XC60,B5,Exterior,Rear Window Washer,YES
+Volvo,XC60,B5,Exterior,Rear Window Defogger,YES
+Volvo,XC60,B5,Exterior,Wheel Covers,NO
+Volvo,XC60,B5,Exterior,Alloy Wheels,YES
+Volvo,XC60,B5,Exterior,Tinted Glass,YES
+Volvo,XC60,B5,Exterior,Rear Spoiler,YES
+Volvo,XC60,B5,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Volvo,XC60,B5,Exterior,Roof Rails,YES
+Volvo,XC60,B5,Exterior,Automatic Headlamps,YES
+Volvo,XC60,B5,Exterior,Fog Lights,Front
+Volvo,XC60,B5,Exterior,Antenna,Shark Fin
+Volvo,XC60,B5,Exterior,Sunroof,Panoramic
+Volvo,XC60,B5,Exterior,Puddle Lamps,YES
+Volvo,XC60,B5,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Volvo,XC60,B5,Exterior,Tyre Size,235/55 R19
+Volvo,XC60,B5,Exterior,Tyre Type,Radial Tubeless
+Volvo,XC60,B5,Exterior,Wheel Size,19 Inch
+Volvo,XC60,B5,Exterior,LED DRLs,YES
+Volvo,XC60,B5,Exterior,LED Headlamps,YES
+Volvo,XC60,B5,Exterior,LED Taillights,YES
+Volvo,XC60,B5,Exterior,LED Fog Lamps,YES
+Volvo,XC60,B5,Safety,Anti-lock Braking System (ABS),YES
+Volvo,XC60,B5,Safety,Brake Assist,YES
+Volvo,XC60,B5,Safety,Central Locking,YES
+Volvo,XC60,B5,Safety,Child Safety Locks,YES
+Volvo,XC60,B5,Safety,Anti-Theft Alarm,YES
+Volvo,XC60,B5,Safety,No. of Airbags,6
+Volvo,XC60,B5,Safety,Driver Airbag,YES
+Volvo,XC60,B5,Safety,Passenger Airbag,YES
+Volvo,XC60,B5,Safety,Side Airbag,YES
+Volvo,XC60,B5,Safety,Side Airbag-Rear,NO
+Volvo,XC60,B5,Safety,Day & Night Rear View Mirror,YES
+Volvo,XC60,B5,Safety,Electronic Brakeforce Distribution (EBD),YES
+Volvo,XC60,B5,Safety,Traction Control,YES
+Volvo,XC60,B5,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Volvo,XC60,B5,Safety,Engine Immobilizer,YES
+Volvo,XC60,B5,Safety,Electronic Stability Control (ESC),YES
+Volvo,XC60,B5,Safety,Rear Camera,With Guidedlines
+Volvo,XC60,B5,Safety,Anti-Theft Device,YES
+Volvo,XC60,B5,Safety,ISOFIX Child Seat Mounts,YES
+Volvo,XC60,B5,Safety,Heads-Up Display (HUD),YES
+Volvo,XC60,B5,Safety,Hill Descent Control,YES
+Volvo,XC60,B5,Safety,Hill Assist,YES
+Volvo,XC60,B5,Safety,360 View Camera,YES
+Volvo,XC60,B5,Entertainment & Communication,Radio,YES
+Volvo,XC60,B5,Entertainment & Communication,Wireless Phone Charging,YES
+Volvo,XC60,B5,Entertainment & Communication,Bluetooth Connectivity,YES
+Volvo,XC60,B5,Entertainment & Communication,Touchscreen,YES
+Volvo,XC60,B5,Entertainment & Communication,Android Auto,YES
+Volvo,XC60,B5,Entertainment & Communication,Apple CarPlay,YES
+Volvo,XC60,B5,Entertainment & Communication,No. of Speakers,15
+Volvo,XC60,B5,Entertainment & Communication,Usb Ports,YES
+Volvo,XC60,B5,Entertainment & Communication,Additional Features,"Intelligent Driver Information System,Premium Sound by Bowers and Wilkins,2 USB Typ-C connections, Subwoofer,Digital Service package, Volvo cars app,Android powered infotainment system including google services,Speech function, Inductive Charging for smartphone, Apple Carplay (iPhone with wire)"
+Volvo,XC60,B5,Entertainment & Communication,Speakers,Front & Rear
+Volvo,XC60,B5,ADAS Feature,Forward Collision Warning,YES
+Volvo,XC60,B5,ADAS Feature,Oncoming Lane Mitigation,YES
+Volvo,XC60,B5,ADAS Feature,Lane Departure Warning,YES
+Volvo,XC60,B5,ADAS Feature,Lane Keep Assist,YES
+Volvo,XC60,B5,ADAS Feature,Adaptive Cruise Control,YES
+Volvo,XC60,B5,ADAS Feature,Rear Cross Traffic Alert,YES

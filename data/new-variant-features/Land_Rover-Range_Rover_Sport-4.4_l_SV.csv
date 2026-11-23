@@ -1,0 +1,75 @@
+company,model,variant,category,feature_name,feature_details
+Land Rover,Range Rover Sport,4.4 l SV,Engine & Transmission,Engine Type,4.4 L 6-cylinder
+Land Rover,Range Rover Sport,4.4 l SV,Engine & Transmission,Displacement,4395 cc
+Land Rover,Range Rover Sport,4.4 l SV,Engine & Transmission,Max Power,626.25bhp@6000-7000rpm
+Land Rover,Range Rover Sport,4.4 l SV,Engine & Transmission,Max Torque,700Nm@1800-5855rpm
+Land Rover,Range Rover Sport,4.4 l SV,Engine & Transmission,No. of Cylinders,8
+Land Rover,Range Rover Sport,4.4 l SV,Engine & Transmission,Valves Per Cylinder,4
+Land Rover,Range Rover Sport,4.4 l SV,Engine & Transmission,Transmission Type,Automatic
+Land Rover,Range Rover Sport,4.4 l SV,Engine & Transmission,Gearbox,8-Speed
+Land Rover,Range Rover Sport,4.4 l SV,Engine & Transmission,Drive Type,AWD
+Land Rover,Range Rover Sport,4.4 l SV,Fuel & Performance,Fuel Type,Petrol
+Land Rover,Range Rover Sport,4.4 l SV,Fuel & Performance,Petrol Fuel Tank Capacity,86 Litres
+Land Rover,Range Rover Sport,4.4 l SV,Fuel & Performance,Emission Norm Compliance,BS VI
+Land Rover,Range Rover Sport,4.4 l SV,Fuel & Performance,Top Speed,234 kmph
+Land Rover,Range Rover Sport,4.4 l SV,Fuel & Performance,Acceleration,5.9 s
+Land Rover,Range Rover Sport,4.4 l SV,Fuel & Performance,0-100kmph,5.9 s
+Land Rover,Range Rover Sport,4.4 l SV,"Suspension, Steering & Brakes",Turning Radius,12.53 m
+Land Rover,Range Rover Sport,4.4 l SV,Dimensions & Capacity,Length,4946 mm
+Land Rover,Range Rover Sport,4.4 l SV,Dimensions & Capacity,Width,2209 mm
+Land Rover,Range Rover Sport,4.4 l SV,Dimensions & Capacity,Height,1820 mm
+Land Rover,Range Rover Sport,4.4 l SV,Dimensions & Capacity,Boot Space,530 Litres
+Land Rover,Range Rover Sport,4.4 l SV,Dimensions & Capacity,Seating Capacity,5
+Land Rover,Range Rover Sport,4.4 l SV,Dimensions & Capacity,Wheel Base,2610 mm
+Land Rover,Range Rover Sport,4.4 l SV,Dimensions & Capacity,Kerb Weight,2360 kg
+Land Rover,Range Rover Sport,4.4 l SV,Dimensions & Capacity,Gross Weight,3220 kg
+Land Rover,Range Rover Sport,4.4 l SV,Comfort & Convenience,Power Steering,YES
+Land Rover,Range Rover Sport,4.4 l SV,Comfort & Convenience,Air Conditioner,YES
+Land Rover,Range Rover Sport,4.4 l SV,Comfort & Convenience,Heater,YES
+Land Rover,Range Rover Sport,4.4 l SV,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Land Rover,Range Rover Sport,4.4 l SV,Comfort & Convenience,Ventilated Seats,YES
+Land Rover,Range Rover Sport,4.4 l SV,Comfort & Convenience,Electric Adjustable Seats,Front & Rear
+Land Rover,Range Rover Sport,4.4 l SV,Comfort & Convenience,Automatic Climate Control,YES
+Land Rover,Range Rover Sport,4.4 l SV,Comfort & Convenience,Air Quality Control,YES
+Land Rover,Range Rover Sport,4.4 l SV,Comfort & Convenience,Accessory Power Outlet,YES
+Land Rover,Range Rover Sport,4.4 l SV,Comfort & Convenience,Adjustable Headrest,YES
+Land Rover,Range Rover Sport,4.4 l SV,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Land Rover,Range Rover Sport,4.4 l SV,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Land Rover,Range Rover Sport,4.4 l SV,Comfort & Convenience,Rear AC Vents,YES
+Land Rover,Range Rover Sport,4.4 l SV,Comfort & Convenience,Lumbar Support,YES
+Land Rover,Range Rover Sport,4.4 l SV,Comfort & Convenience,Active noise cancellation,YES
+Land Rover,Range Rover Sport,4.4 l SV,Comfort & Convenience,Cruise Control,YES
+Land Rover,Range Rover Sport,4.4 l SV,Comfort & Convenience,Parking Sensors,Front & Rear
+Land Rover,Range Rover Sport,4.4 l SV,Comfort & Convenience,Real-Time Vehicle Tracking,YES
+Land Rover,Range Rover Sport,4.4 l SV,Comfort & Convenience,Engine Start/Stop Button,YES
+Land Rover,Range Rover Sport,4.4 l SV,Comfort & Convenience,Voice Commands,YES
+Land Rover,Range Rover Sport,4.4 l SV,Comfort & Convenience,USB Charger,Front & Rear
+Land Rover,Range Rover Sport,4.4 l SV,Comfort & Convenience,Central Console Armrest,YES
+Land Rover,Range Rover Sport,4.4 l SV,Comfort & Convenience,Gear Shift Indicator,YES
+Land Rover,Range Rover Sport,4.4 l SV,Comfort & Convenience,Additional Features,"Adaptive Dynamics, Adaptive Off-Road Cruise Control, Terrain Response 2, Park Assist, Adaptive Cruise Control with Steering Assist"
+Land Rover,Range Rover Sport,4.4 l SV,Interior,Leather Wrapped Steering Wheel,YES
+Land Rover,Range Rover Sport,4.4 l SV,Interior,Leather wrap gear-shift selector,YES
+Land Rover,Range Rover Sport,4.4 l SV,Interior,Additional Features,"Perforated Semi-Aniline leather seats, 22-way heated and ventilated, massage electric memory front seats with winged headrests and heated and ventilated power recline rear seats with winged headrests, Premium Cabin lighting, Illuminated metal treadplates with Autobiography script,"
+Land Rover,Range Rover Sport,4.4 l SV,Exterior,Adjustable Headlamps,YES
+Land Rover,Range Rover Sport,4.4 l SV,Exterior,Rain Sensing Wiper,YES
+Land Rover,Range Rover Sport,4.4 l SV,Exterior,Rear Window Wiper,YES
+Land Rover,Range Rover Sport,4.4 l SV,Exterior,Rear Window Washer,YES
+Land Rover,Range Rover Sport,4.4 l SV,Exterior,Rear Window Defogger,YES
+Land Rover,Range Rover Sport,4.4 l SV,Exterior,Alloy Wheels,YES
+Land Rover,Range Rover Sport,4.4 l SV,Exterior,Rear Spoiler,YES
+Land Rover,Range Rover Sport,4.4 l SV,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Land Rover,Range Rover Sport,4.4 l SV,Exterior,Cornering Foglamps,YES
+Land Rover,Range Rover Sport,4.4 l SV,Exterior,Roof Rails,YES
+Land Rover,Range Rover Sport,4.4 l SV,Exterior,Automatic Headlamps,YES
+Land Rover,Range Rover Sport,4.4 l SV,Exterior,Sun Roof,YES
+Land Rover,Range Rover Sport,4.4 l SV,Exterior,LED DRLs,YES
+Land Rover,Range Rover Sport,4.4 l SV,Exterior,LED Headlamps,YES
+Land Rover,Range Rover Sport,4.4 l SV,Exterior,LED Taillights,YES
+Land Rover,Range Rover Sport,4.4 l SV,Exterior,Additional Features,"Black brake calipers, 22 alloy wheels, Sliding panoramic roof, Black contrast roof, Heated, electric, power fold, memory door mirrors with approach lights and auto-dimming driver side, Digital LED headlights with signature DRL and Image Projection"
+Land Rover,Range Rover Sport,4.4 l SV,Safety,Driver Airbag,YES
+Land Rover,Range Rover Sport,4.4 l SV,Safety,Day & Night Rear View Mirror,YES
+Land Rover,Range Rover Sport,4.4 l SV,Safety,Heads-Up Display (HUD),YES
+Land Rover,Range Rover Sport,4.4 l SV,Entertainment & Communication,Touchscreen Size,13.1 inch
+Land Rover,Range Rover Sport,4.4 l SV,Entertainment & Communication,No. of Speakers,29
+Land Rover,Range Rover Sport,4.4 l SV,Entertainment & Communication,Rear Touchscreen,NO
+Land Rover,Range Rover Sport,4.4 l SV,Entertainment & Communication,Additional Features,"speakers, a subwoofer and 1 430 W of amplifier power, Meridian 3D Surround Sound System, Wireless Apple CarPlay and Wireless Android Auto"

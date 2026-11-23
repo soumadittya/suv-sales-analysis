@@ -1,0 +1,154 @@
+company,model,variant,category,feature_name,feature_details
+Mahindra,XUV 3XO,ZNG AX5 CNG,Engine & Transmission,Engine Type,mStallion (TCMPFi) engine
+Mahindra,XUV 3XO,ZNG AX5 CNG,Engine & Transmission,Displacement,1197 cc
+Mahindra,XUV 3XO,ZNG AX5 CNG,Engine & Transmission,Max Power,109.96bhp@5000rpm
+Mahindra,XUV 3XO,ZNG AX5 CNG,Engine & Transmission,Max Torque,200Nm@1500-3500rpm
+Mahindra,XUV 3XO,ZNG AX5 CNG,Engine & Transmission,No. of Cylinders,3
+Mahindra,XUV 3XO,ZNG AX5 CNG,Engine & Transmission,Valves Per Cylinder,4
+Mahindra,XUV 3XO,ZNG AX5 CNG,Engine & Transmission,Turbo Charger,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Engine & Transmission,Transmission Type,Manual
+Mahindra,XUV 3XO,ZNG AX5 CNG,Engine & Transmission,Gearbox,6-Speed
+Mahindra,XUV 3XO,ZNG AX5 CNG,Engine & Transmission,Drive Type,FWD
+Mahindra,XUV 3XO,ZNG AX5 CNG,Fuel & Performance,Fuel Type,CNG
+Mahindra,XUV 3XO,ZNG AX5 CNG,Fuel & Performance,CNG Mileage ARAI,24.7 km/kg
+Mahindra,XUV 3XO,ZNG AX5 CNG,Fuel & Performance,CNG Fuel Tank Capacity,42 Litres
+Mahindra,XUV 3XO,ZNG AX5 CNG,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Mahindra,XUV 3XO,ZNG AX5 CNG,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Mahindra,XUV 3XO,ZNG AX5 CNG,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Mahindra,XUV 3XO,ZNG AX5 CNG,"Suspension, Steering & Brakes",Steering Type,Electric
+Mahindra,XUV 3XO,ZNG AX5 CNG,"Suspension, Steering & Brakes",Turning Radius,5.3 m
+Mahindra,XUV 3XO,ZNG AX5 CNG,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Mahindra,XUV 3XO,ZNG AX5 CNG,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Mahindra,XUV 3XO,ZNG AX5 CNG,Dimensions & Capacity,Length,3990 mm
+Mahindra,XUV 3XO,ZNG AX5 CNG,Dimensions & Capacity,Width,1821 mm
+Mahindra,XUV 3XO,ZNG AX5 CNG,Dimensions & Capacity,Height,1647 mm
+Mahindra,XUV 3XO,ZNG AX5 CNG,Dimensions & Capacity,Boot Space,270 Litres
+Mahindra,XUV 3XO,ZNG AX5 CNG,Dimensions & Capacity,Seating Capacity,5
+Mahindra,XUV 3XO,ZNG AX5 CNG,Dimensions & Capacity,Wheel Base,2600 mm
+Mahindra,XUV 3XO,ZNG AX5 CNG,Comfort & Convenience,Boot Opening,Electronic
+Mahindra,XUV 3XO,ZNG AX5 CNG,Comfort & Convenience,Power Steering,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Comfort & Convenience,Air Conditioner,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Comfort & Convenience,Heater,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Comfort & Convenience,Ventilated Seats,NO
+Mahindra,XUV 3XO,ZNG AX5 CNG,Comfort & Convenience,Electric Adjustable Seats,NO
+Mahindra,XUV 3XO,ZNG AX5 CNG,Comfort & Convenience,Automatic Climate Control,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Comfort & Convenience,Accessory Power Outlet,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Comfort & Convenience,Adjustable Headrest,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Comfort & Convenience,Rear AC Vents,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Comfort & Convenience,Cruise Control,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Comfort & Convenience,Parking Sensors,Rear
+Mahindra,XUV 3XO,ZNG AX5 CNG,Comfort & Convenience,Real-Time Vehicle Tracking,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Mahindra,XUV 3XO,ZNG AX5 CNG,Comfort & Convenience,KeyLess Entry,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Comfort & Convenience,Engine Start/Stop Button,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Comfort & Convenience,Paddle Shifters,NO
+Mahindra,XUV 3XO,ZNG AX5 CNG,Comfort & Convenience,USB Charger,Front & Rear
+Mahindra,XUV 3XO,ZNG AX5 CNG,Comfort & Convenience,Central Console Armrest,With Storage
+Mahindra,XUV 3XO,ZNG AX5 CNG,Comfort & Convenience,Glove Box light,NO
+Mahindra,XUV 3XO,ZNG AX5 CNG,Comfort & Convenience,Idle Start-Stop System,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Comfort & Convenience,Follow Me Home Headlamps,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Comfort & Convenience,Power Windows,Front & Rear
+Mahindra,XUV 3XO,ZNG AX5 CNG,Comfort & Convenience,Cup Holders,Front & Rear
+Mahindra,XUV 3XO,ZNG AX5 CNG,Interior,Leather Wrapped Steering Wheel,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Interior,Leather wrap gear-shift selector,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Interior,Glove Box,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Interior,Folding Table in The Rear,NO
+Mahindra,XUV 3XO,ZNG AX5 CNG,Interior,Digital Cluster,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Interior,Digital Cluster Size,10.25 Inch
+Mahindra,XUV 3XO,ZNG AX5 CNG,Interior,Upholstery,Fabric
+Mahindra,XUV 3XO,ZNG AX5 CNG,Exterior,Adjustable Headlamps,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Exterior,Headlamp Washers,NO
+Mahindra,XUV 3XO,ZNG AX5 CNG,Exterior,Rear Window Wiper,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Exterior,Rear Window Washer,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Exterior,Rear Window Defogger,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Exterior,Rear Spoiler,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Exterior,Side Stepper,NO
+Mahindra,XUV 3XO,ZNG AX5 CNG,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Exterior,Projector Headlamps,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Exterior,Halogen Headlamps,NO
+Mahindra,XUV 3XO,ZNG AX5 CNG,Exterior,Cornering Foglamps,NO
+Mahindra,XUV 3XO,ZNG AX5 CNG,Exterior,Roof Rails,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Exterior,Automatic Headlamps,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Exterior,Fog Lights,NO
+Mahindra,XUV 3XO,ZNG AX5 CNG,Exterior,Convertible Top,NO
+Mahindra,XUV 3XO,ZNG AX5 CNG,Exterior,Sunroof,Single Pane
+Mahindra,XUV 3XO,ZNG AX5 CNG,Exterior,Heated Outside Rear View Mirror,NO
+Mahindra,XUV 3XO,ZNG AX5 CNG,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Mahindra,XUV 3XO,ZNG AX5 CNG,Exterior,Wheels Type,Alloy
+Mahindra,XUV 3XO,ZNG AX5 CNG,Exterior,Tyre Size,205/65 R16
+Mahindra,XUV 3XO,ZNG AX5 CNG,Exterior,Tyre Type,Tubeless
+Mahindra,XUV 3XO,ZNG AX5 CNG,Exterior,Wheel Size,16 Inch
+Mahindra,XUV 3XO,ZNG AX5 CNG,Exterior,LED DRLs,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Exterior,LED Headlamps,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Exterior,LED Taillights,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Exterior,LED Fog Lamps,NO
+Mahindra,XUV 3XO,ZNG AX5 CNG,Exterior,Additional Features,Electronic Trumpet Horn
+Mahindra,XUV 3XO,ZNG AX5 CNG,Safety,Anti-lock Braking System (ABS),YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Safety,Brake Assist,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Safety,Central Locking,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Safety,Child Safety Locks,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Safety,Anti-Theft Alarm,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Safety,No. of Airbags,6
+Mahindra,XUV 3XO,ZNG AX5 CNG,Safety,Driver Airbag,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Safety,Passenger Airbag,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Safety,Side Airbag,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Safety,Side Airbag-Rear,NO
+Mahindra,XUV 3XO,ZNG AX5 CNG,Safety,Day & Night Rear View Mirror,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Safety,Electronic Brakeforce Distribution (EBD),YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Safety,Traction Control,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Safety,Engine Immobilizer,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Safety,Electronic Stability Control (ESC),YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Safety,Rear Camera,With Guidedlines
+Mahindra,XUV 3XO,ZNG AX5 CNG,Safety,ISOFIX Child Seat Mounts,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Safety,Heads-Up Display (HUD),NO
+Mahindra,XUV 3XO,ZNG AX5 CNG,Safety,360 View Camera,NO
+Mahindra,XUV 3XO,ZNG AX5 CNG,Safety,Bharat NCAP Safety Rating,5 Star
+Mahindra,XUV 3XO,ZNG AX5 CNG,Safety,Bharat NCAP Child Safety Rating,5 Star
+Mahindra,XUV 3XO,ZNG AX5 CNG,Entertainment & Communication,Radio,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Entertainment & Communication,Wireless Phone Charging,NO
+Mahindra,XUV 3XO,ZNG AX5 CNG,Entertainment & Communication,Bluetooth Connectivity,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Entertainment & Communication,Touchscreen,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Entertainment & Communication,Touchscreen Size,10.25 inch
+Mahindra,XUV 3XO,ZNG AX5 CNG,Entertainment & Communication,Android Auto,Wireless
+Mahindra,XUV 3XO,ZNG AX5 CNG,Entertainment & Communication,Apple CarPlay,Wireless
+Mahindra,XUV 3XO,ZNG AX5 CNG,Entertainment & Communication,No. of Speakers,6
+Mahindra,XUV 3XO,ZNG AX5 CNG,Entertainment & Communication,Usb Ports,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Entertainment & Communication,Speakers,Front & Rear
+Mahindra,XUV 3XO,ZNG AX5 CNG,ADAS Feature,Forward Collision Warning,NO
+Mahindra,XUV 3XO,ZNG AX5 CNG,ADAS Feature,Automatic Emergency Braking,NO
+Mahindra,XUV 3XO,ZNG AX5 CNG,ADAS Feature,Traffic Sign Recognition,NO
+Mahindra,XUV 3XO,ZNG AX5 CNG,ADAS Feature,Lane Departure Warning,NO
+Mahindra,XUV 3XO,ZNG AX5 CNG,ADAS Feature,Lane Keep Assist,NO
+Mahindra,XUV 3XO,ZNG AX5 CNG,ADAS Feature,Adaptive Cruise Control,NO
+Mahindra,XUV 3XO,ZNG AX5 CNG,ADAS Feature,Adaptive High Beam Assist,NO
+Mahindra,XUV 3XO,ZNG AX5 CNG,ADAS Feature,Blind Spot Monitor,NO
+Mahindra,XUV 3XO,ZNG AX5 CNG,ADAS Feature,Autonomous Parking,NO
+Mahindra,XUV 3XO,ZNG AX5 CNG,Advance Internet Feature,Live Location,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Advance Internet Feature,Remote Immobiliser,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Advance Internet Feature,Unauthorised Vehicle entry,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Advance Internet Feature,Engine Start Alarm,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Advance Internet Feature,Remote Vehicle Status Check,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Advance Internet Feature,PUC Expiry,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Advance Internet Feature,Insurance Expiry,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Advance Internet Feature,E-Manual,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Advance Internet Feature,Inbuilt Assistant,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Advance Internet Feature,Navigation with Live Traffic,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Advance Internet Feature,Send POI to Vehicle From App,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Advance Internet Feature,Live Weather,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Advance Internet Feature,E-Call & I-Call,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Advance Internet Feature,Over the Air (OTA) Updates,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Advance Internet Feature,Google / Alexa Connectivity,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Advance Internet Feature,Save Route/Place,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Advance Internet Feature,SOS Button,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Advance Internet Feature,RSA,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Advance Internet Feature,Over Speeding Alert,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Advance Internet Feature,Tow Away Alert,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Advance Internet Feature,Valet Mode,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Advance Internet Feature,Remote AC On/Off,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Advance Internet Feature,Remote Door Lock/Unlock,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Advance Internet Feature,Remote Vehicle Ignition Start/Stop,YES
+Mahindra,XUV 3XO,ZNG AX5 CNG,Advance Internet Feature,Geo-fence Alert,YES

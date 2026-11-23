@@ -1,0 +1,103 @@
+company,model,variant,category,feature_name,feature_details
+Renault,Kiger,Techno AMT,Engine & Transmission,Engine Type,1.0L Energy
+Renault,Kiger,Techno AMT,Engine & Transmission,Displacement,999 cc
+Renault,Kiger,Techno AMT,Engine & Transmission,Max Power,71bhp@6250rpm
+Renault,Kiger,Techno AMT,Engine & Transmission,Max Torque,96Nm@3500rpm
+Renault,Kiger,Techno AMT,Engine & Transmission,No. of Cylinders,3
+Renault,Kiger,Techno AMT,Engine & Transmission,Valves Per Cylinder,4
+Renault,Kiger,Techno AMT,Engine & Transmission,Fuel Supply System,MPFi
+Renault,Kiger,Techno AMT,Engine & Transmission,Turbo Charger,NO
+Renault,Kiger,Techno AMT,Engine & Transmission,Transmission Type,Automatic
+Renault,Kiger,Techno AMT,Engine & Transmission,Gearbox,easy-R AMT
+Renault,Kiger,Techno AMT,Engine & Transmission,Drive Type,FWD
+Renault,Kiger,Techno AMT,Fuel & Performance,Fuel Type,Petrol
+Renault,Kiger,Techno AMT,Fuel & Performance,Petrol Mileage ARAI,19.83 kmpl
+Renault,Kiger,Techno AMT,Fuel & Performance,Petrol Fuel Tank Capacity,40 Litres
+Renault,Kiger,Techno AMT,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Renault,Kiger,Techno AMT,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Renault,Kiger,Techno AMT,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Renault,Kiger,Techno AMT,"Suspension, Steering & Brakes",Steering Type,Electric
+Renault,Kiger,Techno AMT,"Suspension, Steering & Brakes",Steering Column,Tilt
+Renault,Kiger,Techno AMT,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Renault,Kiger,Techno AMT,"Suspension, Steering & Brakes",Rear Brake Type,Drum
+Renault,Kiger,Techno AMT,Dimensions & Capacity,Length,3990 mm
+Renault,Kiger,Techno AMT,Dimensions & Capacity,Width,1912 mm
+Renault,Kiger,Techno AMT,Dimensions & Capacity,Height,1605 mm
+Renault,Kiger,Techno AMT,Dimensions & Capacity,Boot Space,405 Litres
+Renault,Kiger,Techno AMT,Dimensions & Capacity,Seating Capacity,5
+Renault,Kiger,Techno AMT,Dimensions & Capacity,Ground Clearance Unladen,205 mm
+Renault,Kiger,Techno AMT,Dimensions & Capacity,Wheel Base,2500 mm
+Renault,Kiger,Techno AMT,Comfort & Convenience,Boot Opening,Electronic
+Renault,Kiger,Techno AMT,Comfort & Convenience,Power Steering,YES
+Renault,Kiger,Techno AMT,Comfort & Convenience,Air Conditioner,YES
+Renault,Kiger,Techno AMT,Comfort & Convenience,Heater,YES
+Renault,Kiger,Techno AMT,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Renault,Kiger,Techno AMT,Comfort & Convenience,Ventilated Seats,NO
+Renault,Kiger,Techno AMT,Comfort & Convenience,Automatic Climate Control,YES
+Renault,Kiger,Techno AMT,Comfort & Convenience,Air Quality Control,YES
+Renault,Kiger,Techno AMT,Comfort & Convenience,Accessory Power Outlet,YES
+Renault,Kiger,Techno AMT,Comfort & Convenience,Adjustable Headrest,YES
+Renault,Kiger,Techno AMT,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Renault,Kiger,Techno AMT,Comfort & Convenience,Rear AC Vents,YES
+Renault,Kiger,Techno AMT,Comfort & Convenience,Cruise Control,NO
+Renault,Kiger,Techno AMT,Comfort & Convenience,Parking Sensors,Rear
+Renault,Kiger,Techno AMT,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Renault,Kiger,Techno AMT,Comfort & Convenience,KeyLess Entry,YES
+Renault,Kiger,Techno AMT,Comfort & Convenience,Engine Start/Stop Button,YES
+Renault,Kiger,Techno AMT,Comfort & Convenience,USB Charger,Front
+Renault,Kiger,Techno AMT,Comfort & Convenience,Central Console Armrest,With Storage
+Renault,Kiger,Techno AMT,Comfort & Convenience,Follow Me Home Headlamps,NO
+Renault,Kiger,Techno AMT,Comfort & Convenience,Power Windows,Front & Rear
+Renault,Kiger,Techno AMT,Interior,Glove Box,YES
+Renault,Kiger,Techno AMT,Interior,Digital Cluster,YES
+Renault,Kiger,Techno AMT,Interior,Digital Cluster Size,3.5
+Renault,Kiger,Techno AMT,Interior,Upholstery,Fabric
+Renault,Kiger,Techno AMT,Exterior,Adjustable Headlamps,YES
+Renault,Kiger,Techno AMT,Exterior,Rain Sensing Wiper,NO
+Renault,Kiger,Techno AMT,Exterior,Rear Window Wiper,YES
+Renault,Kiger,Techno AMT,Exterior,Rear Window Washer,YES
+Renault,Kiger,Techno AMT,Exterior,Rear Window Defogger,NO
+Renault,Kiger,Techno AMT,Exterior,Rear Spoiler,YES
+Renault,Kiger,Techno AMT,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Renault,Kiger,Techno AMT,Exterior,Halogen Headlamps,NO
+Renault,Kiger,Techno AMT,Exterior,Roof Rails,YES
+Renault,Kiger,Techno AMT,Exterior,Antenna,Shark Fin
+Renault,Kiger,Techno AMT,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Renault,Kiger,Techno AMT,Exterior,Wheels Type,Steel with Cover
+Renault,Kiger,Techno AMT,Exterior,Tyre Size,195/60
+Renault,Kiger,Techno AMT,Exterior,Tyre Type,Radial Tubeless
+Renault,Kiger,Techno AMT,Exterior,LED DRLs,YES
+Renault,Kiger,Techno AMT,Exterior,LED Headlamps,YES
+Renault,Kiger,Techno AMT,Exterior,LED Taillights,YES
+Renault,Kiger,Techno AMT,Exterior,LED Fog Lamps,NO
+Renault,Kiger,Techno AMT,Safety,Anti-lock Braking System (ABS),YES
+Renault,Kiger,Techno AMT,Safety,Brake Assist,YES
+Renault,Kiger,Techno AMT,Safety,Central Locking,YES
+Renault,Kiger,Techno AMT,Safety,Child Safety Locks,YES
+Renault,Kiger,Techno AMT,Safety,No. of Airbags,6
+Renault,Kiger,Techno AMT,Safety,Driver Airbag,YES
+Renault,Kiger,Techno AMT,Safety,Passenger Airbag,YES
+Renault,Kiger,Techno AMT,Safety,Side Airbag,YES
+Renault,Kiger,Techno AMT,Safety,Side Airbag-Rear,NO
+Renault,Kiger,Techno AMT,Safety,Day & Night Rear View Mirror,YES
+Renault,Kiger,Techno AMT,Safety,Electronic Brakeforce Distribution (EBD),YES
+Renault,Kiger,Techno AMT,Safety,Traction Control,YES
+Renault,Kiger,Techno AMT,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Renault,Kiger,Techno AMT,Safety,Engine Immobilizer,YES
+Renault,Kiger,Techno AMT,Safety,Electronic Stability Control (ESC),YES
+Renault,Kiger,Techno AMT,Safety,Rear Camera,With Guidedlines
+Renault,Kiger,Techno AMT,Safety,ISOFIX Child Seat Mounts,YES
+Renault,Kiger,Techno AMT,Safety,Hill Assist,YES
+Renault,Kiger,Techno AMT,Safety,360 View Camera,NO
+Renault,Kiger,Techno AMT,Safety,Global NCAP Safety Rating,4 Star
+Renault,Kiger,Techno AMT,Safety,Global NCAP Child Safety Rating,3 Star
+Renault,Kiger,Techno AMT,Entertainment & Communication,Radio,YES
+Renault,Kiger,Techno AMT,Entertainment & Communication,Wireless Phone Charging,NO
+Renault,Kiger,Techno AMT,Entertainment & Communication,Bluetooth Connectivity,YES
+Renault,Kiger,Techno AMT,Entertainment & Communication,Touchscreen,YES
+Renault,Kiger,Techno AMT,Entertainment & Communication,Touchscreen Size,8 inch
+Renault,Kiger,Techno AMT,Entertainment & Communication,Android Auto,Wireless
+Renault,Kiger,Techno AMT,Entertainment & Communication,Apple CarPlay,Wireless
+Renault,Kiger,Techno AMT,Entertainment & Communication,No. of Speakers,4
+Renault,Kiger,Techno AMT,Entertainment & Communication,Usb Ports,YES
+Renault,Kiger,Techno AMT,Entertainment & Communication,Speakers,Front & Rear

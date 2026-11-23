@@ -1,0 +1,134 @@
+company,model,variant,category,feature_name,feature_details
+Tata,Punch EV,Empowered 40,Engine & Transmission,Battery Capacity,40 kWh
+Tata,Punch EV,Empowered 40,Engine & Transmission,Motor Power,95 kW
+Tata,Punch EV,Empowered 40,Engine & Transmission,Motor Type,Permanent Magnet Synchronous
+Tata,Punch EV,Empowered 40,Engine & Transmission,Max Power,127bhp
+Tata,Punch EV,Empowered 40,Engine & Transmission,Max Torque,154Nm
+Tata,Punch EV,Empowered 40,Engine & Transmission,Range,335-355 km
+Tata,Punch EV,Empowered 40,Engine & Transmission,Battery Type,Lithium-ion
+Tata,Punch EV,Empowered 40,Engine & Transmission,Charging Time (A.C),14.8H-10-100%
+Tata,Punch EV,Empowered 40,Engine & Transmission,Charging Time (D.C),26 Min ( 20-80%)
+Tata,Punch EV,Empowered 40,Engine & Transmission,Regenerative Braking,YES
+Tata,Punch EV,Empowered 40,Engine & Transmission,Regenerative Braking Levels,4
+Tata,Punch EV,Empowered 40,Engine & Transmission,Charging Port,CCS-II
+Tata,Punch EV,Empowered 40,Engine & Transmission,Charging Options,7.2 kW AC | 3.3 KW AC | 65 kW DC
+Tata,Punch EV,Empowered 40,Engine & Transmission,Charger Type,CCS2 (DC)/Type 2 (AC)
+Tata,Punch EV,Empowered 40,Engine & Transmission,Charging Time (15 A Plug Point),14.8H (10-100%)
+Tata,Punch EV,Empowered 40,Engine & Transmission,Charging Time (7.2 kW AC Fast Charger),5.3 H (10-100%)
+Tata,Punch EV,Empowered 40,Engine & Transmission,Transmission Type,Automatic
+Tata,Punch EV,Empowered 40,Engine & Transmission,Gearbox,Single Speed
+Tata,Punch EV,Empowered 40,Engine & Transmission,Drive Type,FWD
+Tata,Punch EV,Empowered 40,Fuel & Performance,Fuel Type,Electric
+Tata,Punch EV,Empowered 40,Fuel & Performance,Emission Norm Compliance,ZEV
+Tata,Punch EV,Empowered 40,Fuel & Performance,Acceleration 0-100kmph,9.0 s
+Tata,Punch EV,Empowered 40,Charging,Charging Time,26 Min ( 10-80%)
+Tata,Punch EV,Empowered 40,Charging,Fast Charging,YES
+Tata,Punch EV,Empowered 40,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Tata,Punch EV,Empowered 40,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Tata,Punch EV,Empowered 40,"Suspension, Steering & Brakes",Steering Type,Electric
+Tata,Punch EV,Empowered 40,"Suspension, Steering & Brakes",Steering Column,Tilt
+Tata,Punch EV,Empowered 40,"Suspension, Steering & Brakes",Steering Gear Type,Electric
+Tata,Punch EV,Empowered 40,"Suspension, Steering & Brakes",Turning Radius,5 m
+Tata,Punch EV,Empowered 40,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Tata,Punch EV,Empowered 40,"Suspension, Steering & Brakes",Rear Brake Type,Drum
+Tata,Punch EV,Empowered 40,Dimensions & Capacity,Length,3880 mm
+Tata,Punch EV,Empowered 40,Dimensions & Capacity,Width,1742 mm
+Tata,Punch EV,Empowered 40,Dimensions & Capacity,Height,1622 mm
+Tata,Punch EV,Empowered 40,Dimensions & Capacity,Boot Space,366 Litres
+Tata,Punch EV,Empowered 40,Dimensions & Capacity,Seating Capacity,5
+Tata,Punch EV,Empowered 40,Dimensions & Capacity,Ground Clearance Unladen,195 mm
+Tata,Punch EV,Empowered 40,Dimensions & Capacity,Wheel Base,2445 mm
+Tata,Punch EV,Empowered 40,Comfort & Convenience,Boot Opening,Electronic
+Tata,Punch EV,Empowered 40,Comfort & Convenience,Power Steering,YES
+Tata,Punch EV,Empowered 40,Comfort & Convenience,Air Conditioner,YES
+Tata,Punch EV,Empowered 40,Comfort & Convenience,Heater,YES
+Tata,Punch EV,Empowered 40,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Tata,Punch EV,Empowered 40,Comfort & Convenience,Ventilated Seats,NO
+Tata,Punch EV,Empowered 40,Comfort & Convenience,Automatic Climate Control,YES
+Tata,Punch EV,Empowered 40,Comfort & Convenience,Air Quality Control,YES
+Tata,Punch EV,Empowered 40,Comfort & Convenience,Accessory Power Outlet,YES
+Tata,Punch EV,Empowered 40,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Tata,Punch EV,Empowered 40,Comfort & Convenience,Adjustable Headrest,YES
+Tata,Punch EV,Empowered 40,Comfort & Convenience,Rear Seat Centre Arm Rest,NO
+Tata,Punch EV,Empowered 40,Comfort & Convenience,Cruise Control,YES
+Tata,Punch EV,Empowered 40,Comfort & Convenience,Parking Sensors,Rear
+Tata,Punch EV,Empowered 40,Comfort & Convenience,KeyLess Entry,YES
+Tata,Punch EV,Empowered 40,Comfort & Convenience,Engine Start/Stop Button,YES
+Tata,Punch EV,Empowered 40,Comfort & Convenience,Voice Commands,YES
+Tata,Punch EV,Empowered 40,Comfort & Convenience,Paddle Shifters,YES
+Tata,Punch EV,Empowered 40,Comfort & Convenience,USB Charger,Front & Rear
+Tata,Punch EV,Empowered 40,Comfort & Convenience,Central Console Armrest,With Storage
+Tata,Punch EV,Empowered 40,Comfort & Convenience,Drive Modes,3
+Tata,Punch EV,Empowered 40,Comfort & Convenience,Follow Me Home Headlamps,YES
+Tata,Punch EV,Empowered 40,Comfort & Convenience,Voice assisted sunroof,NO
+Tata,Punch EV,Empowered 40,Comfort & Convenience,Drive Mode Types,Eco | City | Sport
+Tata,Punch EV,Empowered 40,Comfort & Convenience,Power Windows,Front & Rear
+Tata,Punch EV,Empowered 40,Interior,Glove Box,YES
+Tata,Punch EV,Empowered 40,Interior,Digital Cluster,YES
+Tata,Punch EV,Empowered 40,Interior,Digital Cluster Size,10.24
+Tata,Punch EV,Empowered 40,Interior,Upholstery,Fabric
+Tata,Punch EV,Empowered 40,Exterior,Adjustable Headlamps,YES
+Tata,Punch EV,Empowered 40,Exterior,Rain Sensing Wiper,YES
+Tata,Punch EV,Empowered 40,Exterior,Rear Window Wiper,YES
+Tata,Punch EV,Empowered 40,Exterior,Rear Window Defogger,YES
+Tata,Punch EV,Empowered 40,Exterior,Rear Spoiler,YES
+Tata,Punch EV,Empowered 40,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Tata,Punch EV,Empowered 40,Exterior,Cornering Foglamps,NO
+Tata,Punch EV,Empowered 40,Exterior,Roof Rails,NO
+Tata,Punch EV,Empowered 40,Exterior,Automatic Headlamps,YES
+Tata,Punch EV,Empowered 40,Exterior,Fog Lights,NO
+Tata,Punch EV,Empowered 40,Exterior,Antenna,Shark Fin
+Tata,Punch EV,Empowered 40,Exterior,Sunroof,NO
+Tata,Punch EV,Empowered 40,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Tata,Punch EV,Empowered 40,Exterior,Wheels Type,Alloy
+Tata,Punch EV,Empowered 40,Exterior,Tyre Size,195/60 R16
+Tata,Punch EV,Empowered 40,Exterior,Tyre Type,Radial Tubeless
+Tata,Punch EV,Empowered 40,Exterior,Wheel Size,16 Inch
+Tata,Punch EV,Empowered 40,Exterior,LED DRLs,YES
+Tata,Punch EV,Empowered 40,Exterior,LED Headlamps,NO
+Tata,Punch EV,Empowered 40,Exterior,LED Taillights,YES
+Tata,Punch EV,Empowered 40,Exterior,LED Fog Lamps,NO
+Tata,Punch EV,Empowered 40,Safety,Anti-lock Braking System (ABS),YES
+Tata,Punch EV,Empowered 40,Safety,Central Locking,YES
+Tata,Punch EV,Empowered 40,Safety,Child Safety Locks,YES
+Tata,Punch EV,Empowered 40,Safety,Anti-Theft Alarm,YES
+Tata,Punch EV,Empowered 40,Safety,No. of Airbags,6
+Tata,Punch EV,Empowered 40,Safety,Driver Airbag,YES
+Tata,Punch EV,Empowered 40,Safety,Passenger Airbag,YES
+Tata,Punch EV,Empowered 40,Safety,Side Airbag,YES
+Tata,Punch EV,Empowered 40,Safety,Day & Night Rear View Mirror,YES
+Tata,Punch EV,Empowered 40,Safety,Electronic Brakeforce Distribution (EBD),YES
+Tata,Punch EV,Empowered 40,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Tata,Punch EV,Empowered 40,Safety,Electronic Stability Control (ESC),YES
+Tata,Punch EV,Empowered 40,Safety,Rear Camera,With Guidedlines
+Tata,Punch EV,Empowered 40,Safety,ISOFIX Child Seat Mounts,YES
+Tata,Punch EV,Empowered 40,Safety,Hill Descent Control,YES
+Tata,Punch EV,Empowered 40,Safety,Hill Assist,YES
+Tata,Punch EV,Empowered 40,Safety,360 View Camera,YES
+Tata,Punch EV,Empowered 40,Safety,Bharat NCAP Safety Rating,5 Star
+Tata,Punch EV,Empowered 40,Safety,Bharat NCAP Child Safety Rating,5 Star
+Tata,Punch EV,Empowered 40,Entertainment & Communication,Radio,YES
+Tata,Punch EV,Empowered 40,Entertainment & Communication,Wireless Phone Charging,NO
+Tata,Punch EV,Empowered 40,Entertainment & Communication,Bluetooth Connectivity,YES
+Tata,Punch EV,Empowered 40,Entertainment & Communication,Touchscreen,YES
+Tata,Punch EV,Empowered 40,Entertainment & Communication,Touchscreen Size,10.24 inch
+Tata,Punch EV,Empowered 40,Entertainment & Communication,Android Auto,YES
+Tata,Punch EV,Empowered 40,Entertainment & Communication,Apple CarPlay,YES
+Tata,Punch EV,Empowered 40,Entertainment & Communication,No. of Speakers,4
+Tata,Punch EV,Empowered 40,Entertainment & Communication,Usb Ports,YES
+Tata,Punch EV,Empowered 40,Entertainment & Communication,Additional Features,Wireless Apple CarPlay /Android Auto Connectivity
+Tata,Punch EV,Empowered 40,Entertainment & Communication,Speakers,Front & Rear
+Tata,Punch EV,Empowered 40,ADAS Feature,Blind Spot Monitor,YES
+Tata,Punch EV,Empowered 40,Advance Internet Feature,Live Location,YES
+Tata,Punch EV,Empowered 40,Advance Internet Feature,Remote Immobiliser,YES
+Tata,Punch EV,Empowered 40,Advance Internet Feature,Remote Vehicle Status Check,YES
+Tata,Punch EV,Empowered 40,Advance Internet Feature,Inbuilt Assistant,YES
+Tata,Punch EV,Empowered 40,Advance Internet Feature,Navigation with Live Traffic,YES
+Tata,Punch EV,Empowered 40,Advance Internet Feature,Over the Air (OTA) Updates,YES
+Tata,Punch EV,Empowered 40,Advance Internet Feature,Google / Alexa Connectivity,YES
+Tata,Punch EV,Empowered 40,Advance Internet Feature,Crash Notification,YES
+Tata,Punch EV,Empowered 40,Advance Internet Feature,In Car Remote Control App,YES
+Tata,Punch EV,Empowered 40,Advance Internet Feature,Smartwatch App,YES
+Tata,Punch EV,Empowered 40,Advance Internet Feature,Remote Door Lock/Unlock,YES
+Tata,Punch EV,Empowered 40,Advance Internet Feature,SOS / Emergency Assistance,NO
+Tata,Punch EV,Empowered 40,Advance Internet Feature,Inbuilt APPs,iRA.ev | Arcade.ev 2.0

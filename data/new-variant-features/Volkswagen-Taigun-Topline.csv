@@ -1,0 +1,131 @@
+company,model,variant,category,feature_name,feature_details
+Volkswagen,Taigun,Topline,Engine & Transmission,Engine Type,1.0L TSI
+Volkswagen,Taigun,Topline,Engine & Transmission,Displacement,999 cc
+Volkswagen,Taigun,Topline,Engine & Transmission,Max Power,114bhp@5000-5500rpm
+Volkswagen,Taigun,Topline,Engine & Transmission,Max Torque,178Nm@1850-4000rpm
+Volkswagen,Taigun,Topline,Engine & Transmission,No. of Cylinders,3
+Volkswagen,Taigun,Topline,Engine & Transmission,Valves Per Cylinder,4
+Volkswagen,Taigun,Topline,Engine & Transmission,Fuel Supply System,TSI
+Volkswagen,Taigun,Topline,Engine & Transmission,Turbo Charger,YES
+Volkswagen,Taigun,Topline,Engine & Transmission,Transmission Type,Manual
+Volkswagen,Taigun,Topline,Engine & Transmission,Gearbox,6-Speed
+Volkswagen,Taigun,Topline,Engine & Transmission,Drive Type,FWD
+Volkswagen,Taigun,Topline,Fuel & Performance,Fuel Type,Petrol
+Volkswagen,Taigun,Topline,Fuel & Performance,Petrol Mileage ARAI,19.98 kmpl
+Volkswagen,Taigun,Topline,Fuel & Performance,Petrol Fuel Tank Capacity,50 Litres
+Volkswagen,Taigun,Topline,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Volkswagen,Taigun,Topline,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Volkswagen,Taigun,Topline,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Volkswagen,Taigun,Topline,"Suspension, Steering & Brakes",Steering Type,Electric
+Volkswagen,Taigun,Topline,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Volkswagen,Taigun,Topline,"Suspension, Steering & Brakes",Steering Gear Type,Rack & Pinion
+Volkswagen,Taigun,Topline,"Suspension, Steering & Brakes",Turning Radius,5.05 m
+Volkswagen,Taigun,Topline,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Volkswagen,Taigun,Topline,"Suspension, Steering & Brakes",Rear Brake Type,Drum
+Volkswagen,Taigun,Topline,"Suspension, Steering & Brakes",Boot Space Rear Seat Folding,1405 Litres
+Volkswagen,Taigun,Topline,Dimensions & Capacity,Length,4221 mm
+Volkswagen,Taigun,Topline,Dimensions & Capacity,Width,1760 mm
+Volkswagen,Taigun,Topline,Dimensions & Capacity,Height,1612 mm
+Volkswagen,Taigun,Topline,Dimensions & Capacity,Boot Space,385 Litres
+Volkswagen,Taigun,Topline,Dimensions & Capacity,Seating Capacity,5
+Volkswagen,Taigun,Topline,Dimensions & Capacity,Wheel Base,2651 mm
+Volkswagen,Taigun,Topline,Dimensions & Capacity,Kerb Weight,1262 kg
+Volkswagen,Taigun,Topline,Dimensions & Capacity,Gross Weight,1643 kg
+Volkswagen,Taigun,Topline,Comfort & Convenience,Power Steering,YES
+Volkswagen,Taigun,Topline,Comfort & Convenience,Air Conditioner,YES
+Volkswagen,Taigun,Topline,Comfort & Convenience,Heater,YES
+Volkswagen,Taigun,Topline,Comfort & Convenience,Adjustable Steering,Height & Reach
+Volkswagen,Taigun,Topline,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Volkswagen,Taigun,Topline,Comfort & Convenience,Ventilated Seats,YES
+Volkswagen,Taigun,Topline,Comfort & Convenience,Electric Adjustable Seats,Front
+Volkswagen,Taigun,Topline,Comfort & Convenience,Automatic Climate Control,YES
+Volkswagen,Taigun,Topline,Comfort & Convenience,Accessory Power Outlet,YES
+Volkswagen,Taigun,Topline,Comfort & Convenience,Adjustable Headrest,YES
+Volkswagen,Taigun,Topline,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Volkswagen,Taigun,Topline,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Volkswagen,Taigun,Topline,Comfort & Convenience,Rear AC Vents,YES
+Volkswagen,Taigun,Topline,Comfort & Convenience,Cruise Control,YES
+Volkswagen,Taigun,Topline,Comfort & Convenience,Parking Sensors,Front & Rear
+Volkswagen,Taigun,Topline,Comfort & Convenience,Real-Time Vehicle Tracking,YES
+Volkswagen,Taigun,Topline,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Volkswagen,Taigun,Topline,Comfort & Convenience,KeyLess Entry,YES
+Volkswagen,Taigun,Topline,Comfort & Convenience,Engine Start/Stop Button,YES
+Volkswagen,Taigun,Topline,Comfort & Convenience,Voice Commands,YES
+Volkswagen,Taigun,Topline,Comfort & Convenience,Paddle Shifters,NO
+Volkswagen,Taigun,Topline,Comfort & Convenience,USB Charger,Front & Rear
+Volkswagen,Taigun,Topline,Comfort & Convenience,Central Console Armrest,With Storage
+Volkswagen,Taigun,Topline,Comfort & Convenience,Gear Shift Indicator,YES
+Volkswagen,Taigun,Topline,Comfort & Convenience,Idle Start-Stop System,YES
+Volkswagen,Taigun,Topline,Comfort & Convenience,Follow Me Home Headlamps,YES
+Volkswagen,Taigun,Topline,Comfort & Convenience,Additional Features,Rear parcel tray
+Volkswagen,Taigun,Topline,Comfort & Convenience,Power Windows,Front & Rear
+Volkswagen,Taigun,Topline,Interior,Glove Box,YES
+Volkswagen,Taigun,Topline,Interior,Lighting,"Ambient light, Footwell Lamp"
+Volkswagen,Taigun,Topline,Interior,Digital Cluster,YES
+Volkswagen,Taigun,Topline,Interior,Digital Cluster Size,10.25
+Volkswagen,Taigun,Topline,Interior,Upholstery,Leatherette
+Volkswagen,Taigun,Topline,Exterior,Adjustable Headlamps,YES
+Volkswagen,Taigun,Topline,Exterior,Rain Sensing Wiper,YES
+Volkswagen,Taigun,Topline,Exterior,Rear Window Wiper,YES
+Volkswagen,Taigun,Topline,Exterior,Rear Window Washer,YES
+Volkswagen,Taigun,Topline,Exterior,Rear Window Defogger,YES
+Volkswagen,Taigun,Topline,Exterior,Wheel Covers,NO
+Volkswagen,Taigun,Topline,Exterior,Alloy Wheels,YES
+Volkswagen,Taigun,Topline,Exterior,Rear Spoiler,YES
+Volkswagen,Taigun,Topline,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Volkswagen,Taigun,Topline,Exterior,Cornering Headlamps,YES
+Volkswagen,Taigun,Topline,Exterior,Roof Rails,YES
+Volkswagen,Taigun,Topline,Exterior,Automatic Headlamps,YES
+Volkswagen,Taigun,Topline,Exterior,Fog Lights,Rear
+Volkswagen,Taigun,Topline,Exterior,Antenna,Shark Fin
+Volkswagen,Taigun,Topline,Exterior,Sunroof,Panoramic
+Volkswagen,Taigun,Topline,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Volkswagen,Taigun,Topline,Exterior,Tyre Size,205/55 R17
+Volkswagen,Taigun,Topline,Exterior,Tyre Type,Radial Tubeless
+Volkswagen,Taigun,Topline,Exterior,Wheel Size,17 Inch
+Volkswagen,Taigun,Topline,Exterior,LED DRLs,YES
+Volkswagen,Taigun,Topline,Exterior,LED Headlamps,YES
+Volkswagen,Taigun,Topline,Exterior,LED Taillights,YES
+Volkswagen,Taigun,Topline,Safety,Anti-lock Braking System (ABS),YES
+Volkswagen,Taigun,Topline,Safety,Brake Assist,YES
+Volkswagen,Taigun,Topline,Safety,Central Locking,YES
+Volkswagen,Taigun,Topline,Safety,Child Safety Locks,YES
+Volkswagen,Taigun,Topline,Safety,No. of Airbags,6
+Volkswagen,Taigun,Topline,Safety,Driver Airbag,YES
+Volkswagen,Taigun,Topline,Safety,Passenger Airbag,YES
+Volkswagen,Taigun,Topline,Safety,Side Airbag,YES
+Volkswagen,Taigun,Topline,Safety,Side Airbag-Rear,NO
+Volkswagen,Taigun,Topline,Safety,Day & Night Rear View Mirror,YES
+Volkswagen,Taigun,Topline,Safety,Electronic Brakeforce Distribution (EBD),YES
+Volkswagen,Taigun,Topline,Safety,Traction Control,YES
+Volkswagen,Taigun,Topline,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Volkswagen,Taigun,Topline,Safety,Engine Immobilizer,YES
+Volkswagen,Taigun,Topline,Safety,Electronic Stability Control (ESC),YES
+Volkswagen,Taigun,Topline,Safety,Rear Camera,With Guidedlines
+Volkswagen,Taigun,Topline,Safety,Anti-Pinch Power Windows,Driver's Window
+Volkswagen,Taigun,Topline,Safety,ISOFIX Child Seat Mounts,YES
+Volkswagen,Taigun,Topline,Safety,Hill Assist,YES
+Volkswagen,Taigun,Topline,Entertainment & Communication,Radio,YES
+Volkswagen,Taigun,Topline,Entertainment & Communication,Wireless Phone Charging,YES
+Volkswagen,Taigun,Topline,Entertainment & Communication,Bluetooth Connectivity,YES
+Volkswagen,Taigun,Topline,Entertainment & Communication,Touchscreen,YES
+Volkswagen,Taigun,Topline,Entertainment & Communication,Touchscreen Size,10.1 inch
+Volkswagen,Taigun,Topline,Entertainment & Communication,Android Auto,YES
+Volkswagen,Taigun,Topline,Entertainment & Communication,Apple CarPlay,YES
+Volkswagen,Taigun,Topline,Entertainment & Communication,No. of Speakers,6
+Volkswagen,Taigun,Topline,Entertainment & Communication,Usb Ports,YES
+Volkswagen,Taigun,Topline,Entertainment & Communication,Inbuilt Apps,YouTube | Amazon Music | Spotify
+Volkswagen,Taigun,Topline,Entertainment & Communication,Subwoofer,1
+Volkswagen,Taigun,Topline,Entertainment & Communication,Additional Features,Wireless1) App-Connect with Android AutoTM
+Volkswagen,Taigun,Topline,Entertainment & Communication,Speakers,Front & Rear
+Volkswagen,Taigun,Topline,Advance Internet Feature,Live Location,YES
+Volkswagen,Taigun,Topline,Advance Internet Feature,PUC Expiry,YES
+Volkswagen,Taigun,Topline,Advance Internet Feature,Insurance Expiry,YES
+Volkswagen,Taigun,Topline,Advance Internet Feature,Inbuilt Assistant,YES
+Volkswagen,Taigun,Topline,Advance Internet Feature,E-Call & I-Call,YES
+Volkswagen,Taigun,Topline,Advance Internet Feature,Save Route/Place,YES
+Volkswagen,Taigun,Topline,Advance Internet Feature,SOS Button,YES
+Volkswagen,Taigun,Topline,Advance Internet Feature,Valet Mode,YES
+Volkswagen,Taigun,Topline,Advance Internet Feature,SOS / Emergency Assistance,YES
+Volkswagen,Taigun,Topline,Advance Internet Feature,Geo-fence Alert,YES
+Volkswagen,Taigun,Topline,Advance Internet Feature,Inbuilt APPs,MyVolkswagen Connect Plus

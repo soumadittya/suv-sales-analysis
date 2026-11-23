@@ -1,0 +1,131 @@
+company,model,variant,category,feature_name,feature_details
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Engine & Transmission,Engine Type,TD4 Engine
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Engine & Transmission,Displacement,1997 cc
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Engine & Transmission,Max Power,183.9bhp@5500rpm
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Engine & Transmission,Max Torque,365Nm@1 300 - 4 500rpm
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Engine & Transmission,No. of Cylinders,4
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Engine & Transmission,Valves Per Cylinder,4
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Engine & Transmission,Turbo Charger,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Engine & Transmission,Transmission Type,Automatic
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Engine & Transmission,Gearbox,8-Speed AT
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Engine & Transmission,Drive Type,AWD
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Fuel & Performance,Fuel Type,Petrol
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Fuel & Performance,Petrol Mileage ARAI,15.8 kmpl
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Fuel & Performance,Petrol Fuel Tank Capacity,82 Litres
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Fuel & Performance,Petrol Highway Mileage,13.1 kmpl
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Fuel & Performance,Top Speed,210 kmph
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Fuel & Performance,Acceleration,8.2 s
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Fuel & Performance,0-100kmph,8.2 s
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,"Suspension, Steering & Brakes",Steering Type,Electric
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,"Suspension, Steering & Brakes",Steering Gear Type,Rack&Pinion
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,"Suspension, Steering & Brakes",Turning Radius,6 m
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,"Suspension, Steering & Brakes",Front Brake Type,Ventilated Disc
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Dimensions & Capacity,Length,4797 mm
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Dimensions & Capacity,Width,2147 mm
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Dimensions & Capacity,Height,1678 mm
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Dimensions & Capacity,Boot Space,673 Litres
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Dimensions & Capacity,Seating Capacity,5
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Dimensions & Capacity,Ground Clearance (Laden),156 mm
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Dimensions & Capacity,Wheel Base,3006 mm
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Dimensions & Capacity,Rear Tread,1654 mm
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Dimensions & Capacity,Kerb Weight,1875 kg
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Dimensions & Capacity,Gross Weight,2590 kg
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Comfort & Convenience,Boot Opening,Electronic
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Comfort & Convenience,Power Steering,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Comfort & Convenience,Air Conditioner,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Comfort & Convenience,Heater,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Comfort & Convenience,Adjustable Steering,Powered Adjustment
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Comfort & Convenience,Ventilated Seats,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Comfort & Convenience,Electric Adjustable Seats,Front
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Comfort & Convenience,Automatic Climate Control,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Comfort & Convenience,Air Quality Control,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Comfort & Convenience,Accessory Power Outlet,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Comfort & Convenience,Rear AC Vents,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Comfort & Convenience,Lumbar Support,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Comfort & Convenience,Cruise Control,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Comfort & Convenience,Parking Sensors,Rear
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Comfort & Convenience,Real-Time Vehicle Tracking,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Comfort & Convenience,Foldable Rear Seat,40:20:40 Split
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Comfort & Convenience,KeyLess Entry,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Comfort & Convenience,Engine Start/Stop Button,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Comfort & Convenience,Voice Commands,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Comfort & Convenience,Paddle Shifters,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Comfort & Convenience,USB Charger,Front & Rear
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Comfort & Convenience,Central Console Armrest,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Comfort & Convenience,Gear Shift Indicator,NO
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Comfort & Convenience,Follow Me Home Headlamps,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Comfort & Convenience,Additional Features,"GROUND CLEARANCE – (STANDARD to OFF ROAD) (Approach Angle:- 23.6/22.5 to 25.0/27.5 Departure Angle:- 25.0/24.8 to 27.0/29.5 Ramp Angle:- 19.1/18.3 to 22.0/23.5 Maximum wading depth:- 530/580mm), 40:20:40 split fold rear seat , Rear centre headrest, Passive front headrests, 14-way driver memory front seats with rear power recline"
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Comfort & Convenience,Drive Mode Types,ECO | CITY | SPORT
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Comfort & Convenience,Power Windows,Front & Rear
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Comfort & Convenience,Cup Holders,Front & Rear
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Interior,Leather Wrapped Steering Wheel,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Interior,Glove Box,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Interior,Folding Table in The Rear,NO
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Interior,Additional Features,"Finisher Shadow Aluminium, Metal Load space Scuff Plate, R Dynamic Metal Front Tread plates, Headlining Morzine, Ebony Headlining, Interior Lighting, Analog Dials With Central TFT Display, Perforated Grained Leather and Suede cloth Seats, 10 Way Seats (8 Ways Electric, 2 Ways Manual), Floor Mats Carpet, Shadow Aluminium trim finisher, Light Oyster Morzine headlining, Ebony perforated grained leather seats with Ebony interior, Lower Touchscreen, Electrically adjustable steering column, Auto-dimming interior rear view mirror, Illuminated vanity mirrors, Cabin Air Ionisation with PM2.5 filter, Bright metal pedals, Premium cabin lighting, Standard IP end caps, Metal front treadplates with R-Dynamic branding, Lockable cooled glovebox,, Rear seat remote release levers,"
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Exterior,Adjustable Headlamps,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Exterior,Rain Sensing Wiper,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Exterior,Rear Window Wiper,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Exterior,Rear Window Washer,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Exterior,Rear Window Defogger,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Exterior,Wheel Covers,NO
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Exterior,Alloy Wheels,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Exterior,Tinted Glass,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Exterior,Rear Spoiler,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Exterior,Side Stepper,NO
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Exterior,Halogen Headlamps,NO
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Exterior,Roof Rails,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Exterior,Automatic Headlamps,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Exterior,Antenna,Shark Fin
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Exterior,Sun Roof,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Exterior,Puddle Lamps,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Exterior,Tyre Type,"Tubeless,Radial"
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Exterior,LED DRLs,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Exterior,LED Headlamps,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Exterior,LED Taillights,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Exterior,Additional Features,"Style 7014, 7 spoke, Gloss Sparkle Silver, Black contrast roof Acoustic laminated windscreen Rain sensing windscreen wipers Heated, electric, power fold door mirrors with approach lights and auto-dimming driver side Flush deployable door handles Unpainted brake calipers Velar and R-Dynamic badge Heated rear window with timer Tailgate spoiler Powered tailgate / boot lid Rear Axle Open Differential Flush Deploy able Door Handles Door Mirror Approach light Premium LED Headlights 5 spoke with Satin Dark Grey Finish Wheel, Premium LED headlights with signature DRL, Auto High Beam Assist, Automatic Headlight Levelling (AHBA), Headlight power wash"
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Safety,Anti-lock Braking System (ABS),YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Safety,Brake Assist,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Safety,Central Locking,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Safety,Child Safety Locks,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Safety,Anti-Theft Alarm,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Safety,No. of Airbags,6
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Safety,Driver Airbag,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Safety,Passenger Airbag,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Safety,Side Airbag,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Safety,Side Airbag-Rear,NO
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Safety,Day & Night Rear View Mirror,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Safety,Traction Control,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Safety,Engine Immobilizer,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Safety,Rear Camera,With Guidedlines
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Safety,Anti-Theft Device,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Safety,Anti-Pinch Power Windows,All Windows
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Safety,ISOFIX Child Seat Mounts,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Safety,Heads-Up Display (HUD),YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Safety,Hill Descent Control,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Safety,Hill Assist,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Safety,360 View Camera,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Safety,Global NCAP Safety Rating,5 Star
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Entertainment & Communication,Radio,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Entertainment & Communication,Wireless Phone Charging,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Entertainment & Communication,Bluetooth Connectivity,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Entertainment & Communication,Wi-Fi Connectivity,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Entertainment & Communication,Touchscreen,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Entertainment & Communication,Touchscreen Size,11.4 inch
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Entertainment & Communication,Android Auto,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Entertainment & Communication,Apple CarPlay,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Entertainment & Communication,No. of Speakers,10
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Entertainment & Communication,Rear Entertainment System,NO
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Entertainment & Communication,Usb Ports,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Entertainment & Communication,Additional Features,Pro Service and WI-FI Hotspot
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,Entertainment & Communication,Speakers,Front & Rear
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,ADAS Feature,Blind Spot Monitor,YES
+Land Rover,Range Rover Velar,2.0 l Petrol Autobiography,ADAS Feature,Autonomous Parking,Full

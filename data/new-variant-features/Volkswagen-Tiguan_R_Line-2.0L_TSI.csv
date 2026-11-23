@@ -1,0 +1,125 @@
+company,model,variant,category,feature_name,feature_details
+Volkswagen,Tiguan R-Line,2.0L TSI,Engine & Transmission,Engine Type,2.0L TSI Turbocharged
+Volkswagen,Tiguan R-Line,2.0L TSI,Engine & Transmission,Displacement,1984 cc
+Volkswagen,Tiguan R-Line,2.0L TSI,Engine & Transmission,Max Power,201bhp@4500 - 6000rpm
+Volkswagen,Tiguan R-Line,2.0L TSI,Engine & Transmission,Max Torque,320Nm@1500-4400rpm
+Volkswagen,Tiguan R-Line,2.0L TSI,Engine & Transmission,No. of Cylinders,4
+Volkswagen,Tiguan R-Line,2.0L TSI,Engine & Transmission,Valves Per Cylinder,4
+Volkswagen,Tiguan R-Line,2.0L TSI,Engine & Transmission,Turbo Charger,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Engine & Transmission,Transmission Type,Automatic
+Volkswagen,Tiguan R-Line,2.0L TSI,Engine & Transmission,Gearbox,7-speed DSG
+Volkswagen,Tiguan R-Line,2.0L TSI,Engine & Transmission,Drive Type,AWD
+Volkswagen,Tiguan R-Line,2.0L TSI,Fuel & Performance,Fuel Type,Petrol
+Volkswagen,Tiguan R-Line,2.0L TSI,Fuel & Performance,Petrol Mileage ARAI,12.58 kmpl
+Volkswagen,Tiguan R-Line,2.0L TSI,Fuel & Performance,Petrol Fuel Tank Capacity,60 Litres
+Volkswagen,Tiguan R-Line,2.0L TSI,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Volkswagen,Tiguan R-Line,2.0L TSI,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Volkswagen,Tiguan R-Line,2.0L TSI,"Suspension, Steering & Brakes",Rear Suspension,Multi-link suspension
+Volkswagen,Tiguan R-Line,2.0L TSI,"Suspension, Steering & Brakes",Steering Type,Electric
+Volkswagen,Tiguan R-Line,2.0L TSI,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Volkswagen,Tiguan R-Line,2.0L TSI,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+Volkswagen,Tiguan R-Line,2.0L TSI,"Suspension, Steering & Brakes",Boot Space Rear Seat Folding,1650 Litres
+Volkswagen,Tiguan R-Line,2.0L TSI,Dimensions & Capacity,Length,4539 mm
+Volkswagen,Tiguan R-Line,2.0L TSI,Dimensions & Capacity,Width,1859 mm
+Volkswagen,Tiguan R-Line,2.0L TSI,Dimensions & Capacity,Height,1656 mm
+Volkswagen,Tiguan R-Line,2.0L TSI,Dimensions & Capacity,Boot Space,652 Litres
+Volkswagen,Tiguan R-Line,2.0L TSI,Dimensions & Capacity,Seating Capacity,5
+Volkswagen,Tiguan R-Line,2.0L TSI,Dimensions & Capacity,Ground Clearance Unladen,176 mm
+Volkswagen,Tiguan R-Line,2.0L TSI,Dimensions & Capacity,Wheel Base,2680 mm
+Volkswagen,Tiguan R-Line,2.0L TSI,Dimensions & Capacity,Kerb Weight,1758 kg
+Volkswagen,Tiguan R-Line,2.0L TSI,Dimensions & Capacity,Gross Weight,2300 kg
+Volkswagen,Tiguan R-Line,2.0L TSI,Comfort & Convenience,Power Steering,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Comfort & Convenience,Air Conditioner,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Comfort & Convenience,Heater,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Comfort & Convenience,Adjustable Steering,Height & Reach
+Volkswagen,Tiguan R-Line,2.0L TSI,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Comfort & Convenience,Ventilated Seats,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Comfort & Convenience,Electric Adjustable Seats,Front
+Volkswagen,Tiguan R-Line,2.0L TSI,Comfort & Convenience,Automatic Climate Control,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Comfort & Convenience,Air Quality Control,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Comfort & Convenience,Accessory Power Outlet,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Comfort & Convenience,Rear Seat Headrest,Integrated
+Volkswagen,Tiguan R-Line,2.0L TSI,Comfort & Convenience,Adjustable Headrest,NO
+Volkswagen,Tiguan R-Line,2.0L TSI,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Comfort & Convenience,Rear AC Vents,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Comfort & Convenience,Lumbar Support,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Comfort & Convenience,Cruise Control,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Comfort & Convenience,Parking Sensors,Front & Rear
+Volkswagen,Tiguan R-Line,2.0L TSI,Comfort & Convenience,Real-Time Vehicle Tracking,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Comfort & Convenience,KeyLess Entry,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Comfort & Convenience,Engine Start/Stop Button,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Comfort & Convenience,Voice Commands,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Comfort & Convenience,Paddle Shifters,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Comfort & Convenience,USB Charger,Front & Rear
+Volkswagen,Tiguan R-Line,2.0L TSI,Comfort & Convenience,Central Console Armrest,With Storage
+Volkswagen,Tiguan R-Line,2.0L TSI,Comfort & Convenience,Idle Start-Stop System,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Comfort & Convenience,Follow Me Home Headlamps,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Comfort & Convenience,Voice assisted sunroof,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Comfort & Convenience,Power Windows,Front & Rear
+Volkswagen,Tiguan R-Line,2.0L TSI,Comfort & Convenience,Cup Holders,Front & Rear
+Volkswagen,Tiguan R-Line,2.0L TSI,Interior,Leather Wrapped Steering Wheel,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Interior,Glove Box,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Interior,Lighting,Ambient light
+Volkswagen,Tiguan R-Line,2.0L TSI,Interior,Digital Cluster,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Interior,Digital Cluster Size,10.2
+Volkswagen,Tiguan R-Line,2.0L TSI,Interior,Ambient Light Colour (numbers),30
+Volkswagen,Tiguan R-Line,2.0L TSI,Exterior,Adjustable Headlamps,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Exterior,Rain Sensing Wiper,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Exterior,Alloy Wheels,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Exterior,Roof Rails,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Exterior,Sunroof,Panoramic
+Volkswagen,Tiguan R-Line,2.0L TSI,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Volkswagen,Tiguan R-Line,2.0L TSI,Exterior,Tyre Size,255/45 R19
+Volkswagen,Tiguan R-Line,2.0L TSI,Exterior,Tyre Type,Radial Tubeless
+Volkswagen,Tiguan R-Line,2.0L TSI,Exterior,LED DRLs,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Exterior,LED Headlamps,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Exterior,LED Taillights,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Safety,Anti-lock Braking System (ABS),YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Safety,Brake Assist,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Safety,Central Locking,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Safety,Child Safety Locks,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Safety,Anti-Theft Alarm,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Safety,No. of Airbags,9
+Volkswagen,Tiguan R-Line,2.0L TSI,Safety,Driver Airbag,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Safety,Passenger Airbag,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Safety,Side Airbag,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Safety,Side Airbag-Rear,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Safety,Day & Night Rear View Mirror,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Safety,Electronic Brakeforce Distribution (EBD),YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Safety,Traction Control,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Safety,Engine Immobilizer,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Safety,Electronic Stability Control (ESC),YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Safety,Rear Camera,With Guidedlines
+Volkswagen,Tiguan R-Line,2.0L TSI,Safety,Anti-Theft Device,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Safety,Anti-Pinch Power Windows,Driver's Window
+Volkswagen,Tiguan R-Line,2.0L TSI,Safety,ISOFIX Child Seat Mounts,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Safety,Heads-Up Display (HUD),YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Safety,Hill Descent Control,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Safety,Hill Assist,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Safety,EURO NCAP Safety Rating,5 Star
+Volkswagen,Tiguan R-Line,2.0L TSI,Entertainment & Communication,Radio,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Entertainment & Communication,Wireless Phone Charging,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Entertainment & Communication,Bluetooth Connectivity,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Entertainment & Communication,Touchscreen,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Entertainment & Communication,Touchscreen Size,15 inch
+Volkswagen,Tiguan R-Line,2.0L TSI,Entertainment & Communication,Android Auto,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Entertainment & Communication,Apple CarPlay,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Entertainment & Communication,Usb Ports,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Entertainment & Communication,Additional Features,Wired and Wireless App-Connect for Apple CarPlay and Android Auto
+Volkswagen,Tiguan R-Line,2.0L TSI,Entertainment & Communication,Speakers,Front & Rear
+Volkswagen,Tiguan R-Line,2.0L TSI,ADAS Feature,Automatic Emergency Braking,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,ADAS Feature,Lane Keep Assist,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,ADAS Feature,Driver Attention Warning,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,ADAS Feature,Adaptive Cruise Control,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,ADAS Feature,Adaptive High Beam Assist,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,ADAS Feature,Rear Cross Traffic Alert,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,ADAS Feature,Autonomous Parking,Semi
+Volkswagen,Tiguan R-Line,2.0L TSI,Advance Internet Feature,Live Location,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Advance Internet Feature,Navigation with Live Traffic,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Advance Internet Feature,E-Call & I-Call,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Advance Internet Feature,Over Speeding Alert,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Advance Internet Feature,SOS / Emergency Assistance,YES
+Volkswagen,Tiguan R-Line,2.0L TSI,Advance Internet Feature,Inbuilt APPs,My Volkswagen Connect Plus

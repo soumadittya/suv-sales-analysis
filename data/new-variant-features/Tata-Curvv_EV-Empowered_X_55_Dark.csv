@@ -1,0 +1,153 @@
+company,model,variant,category,feature_name,feature_details
+Tata,Curvv EV,Empowered X 55 Dark,Engine & Transmission,Battery Capacity,55 kWh
+Tata,Curvv EV,Empowered X 55 Dark,Engine & Transmission,Motor Power,123 kW
+Tata,Curvv EV,Empowered X 55 Dark,Engine & Transmission,Motor Type,Permanent Magnet Synchronous
+Tata,Curvv EV,Empowered X 55 Dark,Engine & Transmission,Max Power,165bhp
+Tata,Curvv EV,Empowered X 55 Dark,Engine & Transmission,Max Torque,215Nm
+Tata,Curvv EV,Empowered X 55 Dark,Engine & Transmission,Range,502 km
+Tata,Curvv EV,Empowered X 55 Dark,Engine & Transmission,Battery Type,Lithium-ion
+Tata,Curvv EV,Empowered X 55 Dark,Engine & Transmission,Charging Time (A.C),7.6H-7.2kW-(10-100%)
+Tata,Curvv EV,Empowered X 55 Dark,Engine & Transmission,Charging Time (D.C),40Min-70kW-(10-80%)
+Tata,Curvv EV,Empowered X 55 Dark,Engine & Transmission,Regenerative Braking,YES
+Tata,Curvv EV,Empowered X 55 Dark,Engine & Transmission,Regenerative Braking Levels,4
+Tata,Curvv EV,Empowered X 55 Dark,Engine & Transmission,Charging Port,CCS-II
+Tata,Curvv EV,Empowered X 55 Dark,Engine & Transmission,Charging Options,15A Socket|7.2 kW AC Wall Box|DC Fast Charger
+Tata,Curvv EV,Empowered X 55 Dark,Engine & Transmission,Charger Type,7.2 kW AC Wall Box
+Tata,Curvv EV,Empowered X 55 Dark,Engine & Transmission,Charging Time (15 A Plug Point),21H-(10-100%)
+Tata,Curvv EV,Empowered X 55 Dark,Engine & Transmission,Charging Time (7.2 kW AC Fast Charger),7.6H-(10-100%)
+Tata,Curvv EV,Empowered X 55 Dark,Engine & Transmission,Transmission Type,Automatic
+Tata,Curvv EV,Empowered X 55 Dark,Engine & Transmission,Drive Type,FWD
+Tata,Curvv EV,Empowered X 55 Dark,Fuel & Performance,Fuel Type,Electric
+Tata,Curvv EV,Empowered X 55 Dark,Fuel & Performance,Emission Norm Compliance,ZEV
+Tata,Curvv EV,Empowered X 55 Dark,Fuel & Performance,Top Speed,160 kmph
+Tata,Curvv EV,Empowered X 55 Dark,Fuel & Performance,Acceleration 0-100kmph,8.6 s
+Tata,Curvv EV,Empowered X 55 Dark,Charging,Charging Time,40Min-70kW-(10-80%)
+Tata,Curvv EV,Empowered X 55 Dark,Charging,Fast Charging,YES
+Tata,Curvv EV,Empowered X 55 Dark,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Tata,Curvv EV,Empowered X 55 Dark,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Tata,Curvv EV,Empowered X 55 Dark,"Suspension, Steering & Brakes",Steering Type,Electric
+Tata,Curvv EV,Empowered X 55 Dark,"Suspension, Steering & Brakes",Steering Column,Tilt
+Tata,Curvv EV,Empowered X 55 Dark,"Suspension, Steering & Brakes",Turning Radius,5.35 m
+Tata,Curvv EV,Empowered X 55 Dark,"Suspension, Steering & Brakes",Front Brake Type,Disc With i-VBAC
+Tata,Curvv EV,Empowered X 55 Dark,"Suspension, Steering & Brakes",Rear Brake Type,Disc With i-VBAC
+Tata,Curvv EV,Empowered X 55 Dark,Dimensions & Capacity,Length,4310 mm
+Tata,Curvv EV,Empowered X 55 Dark,Dimensions & Capacity,Width,1810 mm
+Tata,Curvv EV,Empowered X 55 Dark,Dimensions & Capacity,Height,1637 mm
+Tata,Curvv EV,Empowered X 55 Dark,Dimensions & Capacity,Boot Space,500 Litres
+Tata,Curvv EV,Empowered X 55 Dark,Dimensions & Capacity,Seating Capacity,5
+Tata,Curvv EV,Empowered X 55 Dark,Dimensions & Capacity,Ground Clearance Unladen,186 mm
+Tata,Curvv EV,Empowered X 55 Dark,Dimensions & Capacity,Wheel Base,2560 mm
+Tata,Curvv EV,Empowered X 55 Dark,Comfort & Convenience,Boot Opening,Hands-Free
+Tata,Curvv EV,Empowered X 55 Dark,Comfort & Convenience,Power Steering,YES
+Tata,Curvv EV,Empowered X 55 Dark,Comfort & Convenience,Air Conditioner,YES
+Tata,Curvv EV,Empowered X 55 Dark,Comfort & Convenience,Heater,YES
+Tata,Curvv EV,Empowered X 55 Dark,Comfort & Convenience,Adjustable Steering,Height only
+Tata,Curvv EV,Empowered X 55 Dark,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Tata,Curvv EV,Empowered X 55 Dark,Comfort & Convenience,Ventilated Seats,YES
+Tata,Curvv EV,Empowered X 55 Dark,Comfort & Convenience,Electric Adjustable Seats,Front
+Tata,Curvv EV,Empowered X 55 Dark,Comfort & Convenience,Automatic Climate Control,YES
+Tata,Curvv EV,Empowered X 55 Dark,Comfort & Convenience,Air Quality Control,YES
+Tata,Curvv EV,Empowered X 55 Dark,Comfort & Convenience,Accessory Power Outlet,YES
+Tata,Curvv EV,Empowered X 55 Dark,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Tata,Curvv EV,Empowered X 55 Dark,Comfort & Convenience,Adjustable Headrest,YES
+Tata,Curvv EV,Empowered X 55 Dark,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Tata,Curvv EV,Empowered X 55 Dark,Comfort & Convenience,Rear AC Vents,YES
+Tata,Curvv EV,Empowered X 55 Dark,Comfort & Convenience,Cruise Control,YES
+Tata,Curvv EV,Empowered X 55 Dark,Comfort & Convenience,Parking Sensors,Front & Rear
+Tata,Curvv EV,Empowered X 55 Dark,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Tata,Curvv EV,Empowered X 55 Dark,Comfort & Convenience,KeyLess Entry,YES
+Tata,Curvv EV,Empowered X 55 Dark,Comfort & Convenience,Engine Start/Stop Button,YES
+Tata,Curvv EV,Empowered X 55 Dark,Comfort & Convenience,Voice Commands,YES
+Tata,Curvv EV,Empowered X 55 Dark,Comfort & Convenience,Paddle Shifters,YES
+Tata,Curvv EV,Empowered X 55 Dark,Comfort & Convenience,USB Charger,Front & Rear
+Tata,Curvv EV,Empowered X 55 Dark,Comfort & Convenience,Central Console Armrest,With Storage
+Tata,Curvv EV,Empowered X 55 Dark,Comfort & Convenience,Drive Modes,3
+Tata,Curvv EV,Empowered X 55 Dark,Comfort & Convenience,Voice assisted sunroof,YES
+Tata,Curvv EV,Empowered X 55 Dark,Comfort & Convenience,Drive Mode Types,ECO|CITY|SPORT
+Tata,Curvv EV,Empowered X 55 Dark,Comfort & Convenience,Power Windows,Front & Rear
+Tata,Curvv EV,Empowered X 55 Dark,Comfort & Convenience,Cup Holders,Front & Rear
+Tata,Curvv EV,Empowered X 55 Dark,Interior,Leather Wrapped Steering Wheel,YES
+Tata,Curvv EV,Empowered X 55 Dark,Interior,Glove Box,YES
+Tata,Curvv EV,Empowered X 55 Dark,Interior,Lighting,Ambient light
+Tata,Curvv EV,Empowered X 55 Dark,Interior,Digital Cluster,YES
+Tata,Curvv EV,Empowered X 55 Dark,Interior,Digital Cluster Size,12.29
+Tata,Curvv EV,Empowered X 55 Dark,Interior,Upholstery,Leatherette
+Tata,Curvv EV,Empowered X 55 Dark,Exterior,Adjustable Headlamps,YES
+Tata,Curvv EV,Empowered X 55 Dark,Exterior,Rain Sensing Wiper,YES
+Tata,Curvv EV,Empowered X 55 Dark,Exterior,Rear Window Defogger,YES
+Tata,Curvv EV,Empowered X 55 Dark,Exterior,Wheel Covers,NO
+Tata,Curvv EV,Empowered X 55 Dark,Exterior,Alloy Wheels,YES
+Tata,Curvv EV,Empowered X 55 Dark,Exterior,Rear Spoiler,YES
+Tata,Curvv EV,Empowered X 55 Dark,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Tata,Curvv EV,Empowered X 55 Dark,Exterior,Projector Headlamps,YES
+Tata,Curvv EV,Empowered X 55 Dark,Exterior,Cornering Foglamps,YES
+Tata,Curvv EV,Empowered X 55 Dark,Exterior,Automatic Headlamps,YES
+Tata,Curvv EV,Empowered X 55 Dark,Exterior,Fog Lights,Front
+Tata,Curvv EV,Empowered X 55 Dark,Exterior,Antenna,Shark Fin
+Tata,Curvv EV,Empowered X 55 Dark,Exterior,Sunroof,Panoramic
+Tata,Curvv EV,Empowered X 55 Dark,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Tata,Curvv EV,Empowered X 55 Dark,Exterior,Tyre Size,215/55 R18
+Tata,Curvv EV,Empowered X 55 Dark,Exterior,Tyre Type,Low Rolling Resistance
+Tata,Curvv EV,Empowered X 55 Dark,Exterior,LED DRLs,YES
+Tata,Curvv EV,Empowered X 55 Dark,Exterior,LED Headlamps,YES
+Tata,Curvv EV,Empowered X 55 Dark,Exterior,LED Taillights,YES
+Tata,Curvv EV,Empowered X 55 Dark,Exterior,Additional Features,Flush Door Handles | Frunk - 11.6L
+Tata,Curvv EV,Empowered X 55 Dark,Safety,Anti-lock Braking System (ABS),YES
+Tata,Curvv EV,Empowered X 55 Dark,Safety,Central Locking,YES
+Tata,Curvv EV,Empowered X 55 Dark,Safety,Child Safety Locks,YES
+Tata,Curvv EV,Empowered X 55 Dark,Safety,No. of Airbags,6
+Tata,Curvv EV,Empowered X 55 Dark,Safety,Driver Airbag,YES
+Tata,Curvv EV,Empowered X 55 Dark,Safety,Passenger Airbag,YES
+Tata,Curvv EV,Empowered X 55 Dark,Safety,Side Airbag,YES
+Tata,Curvv EV,Empowered X 55 Dark,Safety,Side Airbag-Rear,NO
+Tata,Curvv EV,Empowered X 55 Dark,Safety,Day & Night Rear View Mirror,YES
+Tata,Curvv EV,Empowered X 55 Dark,Safety,Electronic Brakeforce Distribution (EBD),YES
+Tata,Curvv EV,Empowered X 55 Dark,Safety,Acoustic Vehicle Alert System,YES
+Tata,Curvv EV,Empowered X 55 Dark,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Tata,Curvv EV,Empowered X 55 Dark,Safety,Electronic Stability Control (ESC),YES
+Tata,Curvv EV,Empowered X 55 Dark,Safety,Rear Camera,With Guidedlines
+Tata,Curvv EV,Empowered X 55 Dark,Safety,Blind Spot Camera,YES
+Tata,Curvv EV,Empowered X 55 Dark,Safety,Hill Descent Control,YES
+Tata,Curvv EV,Empowered X 55 Dark,Safety,Hill Assist,YES
+Tata,Curvv EV,Empowered X 55 Dark,Safety,360 View Camera,YES
+Tata,Curvv EV,Empowered X 55 Dark,Safety,Bharat NCAP Safety Rating,5 Star
+Tata,Curvv EV,Empowered X 55 Dark,Safety,Bharat NCAP Child Safety Rating,5 Star
+Tata,Curvv EV,Empowered X 55 Dark,Entertainment & Communication,Radio,YES
+Tata,Curvv EV,Empowered X 55 Dark,Entertainment & Communication,Wireless Phone Charging,YES
+Tata,Curvv EV,Empowered X 55 Dark,Entertainment & Communication,Bluetooth Connectivity,YES
+Tata,Curvv EV,Empowered X 55 Dark,Entertainment & Communication,Wi-Fi Connectivity,YES
+Tata,Curvv EV,Empowered X 55 Dark,Entertainment & Communication,Touchscreen,YES
+Tata,Curvv EV,Empowered X 55 Dark,Entertainment & Communication,Touchscreen Size,12.3 inch
+Tata,Curvv EV,Empowered X 55 Dark,Entertainment & Communication,Android Auto,YES
+Tata,Curvv EV,Empowered X 55 Dark,Entertainment & Communication,Apple CarPlay,YES
+Tata,Curvv EV,Empowered X 55 Dark,Entertainment & Communication,No. of Speakers,4
+Tata,Curvv EV,Empowered X 55 Dark,Entertainment & Communication,Usb Ports,YES
+Tata,Curvv EV,Empowered X 55 Dark,Entertainment & Communication,Tweeters,4
+Tata,Curvv EV,Empowered X 55 Dark,Entertainment & Communication,Subwoofer,1
+Tata,Curvv EV,Empowered X 55 Dark,Entertainment & Communication,Additional Features,Wireless Android Auto and Apple Carplay | JBLTM Cinematic Sound System
+Tata,Curvv EV,Empowered X 55 Dark,Entertainment & Communication,Speakers,Front & Rear
+Tata,Curvv EV,Empowered X 55 Dark,ADAS Feature,Forward Collision Warning,YES
+Tata,Curvv EV,Empowered X 55 Dark,ADAS Feature,Automatic Emergency Braking,YES
+Tata,Curvv EV,Empowered X 55 Dark,ADAS Feature,Speed Assist System,YES
+Tata,Curvv EV,Empowered X 55 Dark,ADAS Feature,Traffic Sign Recognition,YES
+Tata,Curvv EV,Empowered X 55 Dark,ADAS Feature,Blind Spot Collision Avoidance Assist,YES
+Tata,Curvv EV,Empowered X 55 Dark,ADAS Feature,Lane Departure Warning,YES
+Tata,Curvv EV,Empowered X 55 Dark,ADAS Feature,Lane Keep Assist,YES
+Tata,Curvv EV,Empowered X 55 Dark,ADAS Feature,Driver Attention Warning,YES
+Tata,Curvv EV,Empowered X 55 Dark,ADAS Feature,Adaptive Cruise Control,YES
+Tata,Curvv EV,Empowered X 55 Dark,ADAS Feature,Adaptive High Beam Assist,YES
+Tata,Curvv EV,Empowered X 55 Dark,ADAS Feature,Rear Cross Traffic Alert,YES
+Tata,Curvv EV,Empowered X 55 Dark,ADAS Feature,Blind Spot Monitor,YES
+Tata,Curvv EV,Empowered X 55 Dark,Advance Internet Feature,Live Location,YES
+Tata,Curvv EV,Empowered X 55 Dark,Advance Internet Feature,Inbuilt Assistant,YES
+Tata,Curvv EV,Empowered X 55 Dark,Advance Internet Feature,Hinglish Voice Commands,YES
+Tata,Curvv EV,Empowered X 55 Dark,Advance Internet Feature,Navigation with Live Traffic,YES
+Tata,Curvv EV,Empowered X 55 Dark,Advance Internet Feature,Live Weather,YES
+Tata,Curvv EV,Empowered X 55 Dark,Advance Internet Feature,Over the Air (OTA) Updates,YES
+Tata,Curvv EV,Empowered X 55 Dark,Advance Internet Feature,Google / Alexa Connectivity,YES
+Tata,Curvv EV,Empowered X 55 Dark,Advance Internet Feature,SOS Button,YES
+Tata,Curvv EV,Empowered X 55 Dark,Advance Internet Feature,RSA,YES
+Tata,Curvv EV,Empowered X 55 Dark,Advance Internet Feature,Over Speeding Alert,YES
+Tata,Curvv EV,Empowered X 55 Dark,Advance Internet Feature,Smartwatch App,YES
+Tata,Curvv EV,Empowered X 55 Dark,Advance Internet Feature,SOS / Emergency Assistance,YES
+Tata,Curvv EV,Empowered X 55 Dark,Advance Internet Feature,Inbuilt APPs,iRA.ev | Arcade.ev

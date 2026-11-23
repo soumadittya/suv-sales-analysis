@@ -1,0 +1,119 @@
+company,model,variant,category,feature_name,feature_details
+Skoda,Kylaq,Prestige Plus,Engine & Transmission,Engine Type,1.0 TSI
+Skoda,Kylaq,Prestige Plus,Engine & Transmission,Displacement,999 cc
+Skoda,Kylaq,Prestige Plus,Engine & Transmission,Max Power,114bhp@5000-5500rpm
+Skoda,Kylaq,Prestige Plus,Engine & Transmission,Max Torque,178Nm@1750-4000rpm
+Skoda,Kylaq,Prestige Plus,Engine & Transmission,No. of Cylinders,3
+Skoda,Kylaq,Prestige Plus,Engine & Transmission,Valves Per Cylinder,4
+Skoda,Kylaq,Prestige Plus,Engine & Transmission,Turbo Charger,YES
+Skoda,Kylaq,Prestige Plus,Engine & Transmission,Transmission Type,Manual
+Skoda,Kylaq,Prestige Plus,Engine & Transmission,Gearbox,6-Speed
+Skoda,Kylaq,Prestige Plus,Engine & Transmission,Drive Type,FWD
+Skoda,Kylaq,Prestige Plus,Fuel & Performance,Fuel Type,Petrol
+Skoda,Kylaq,Prestige Plus,Fuel & Performance,Petrol Mileage ARAI,19.31 kmpl
+Skoda,Kylaq,Prestige Plus,Fuel & Performance,Petrol Fuel Tank Capacity,45 Litres
+Skoda,Kylaq,Prestige Plus,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+Skoda,Kylaq,Prestige Plus,"Suspension, Steering & Brakes",Front Suspension,MacPherson Strut suspension
+Skoda,Kylaq,Prestige Plus,"Suspension, Steering & Brakes",Rear Suspension,Rear twist beam
+Skoda,Kylaq,Prestige Plus,"Suspension, Steering & Brakes",Steering Type,Electric
+Skoda,Kylaq,Prestige Plus,"Suspension, Steering & Brakes",Steering Column,Tilt & Telescopic
+Skoda,Kylaq,Prestige Plus,"Suspension, Steering & Brakes",Steering Gear Type,Rack&Pinion
+Skoda,Kylaq,Prestige Plus,"Suspension, Steering & Brakes",Front Brake Type,Disc
+Skoda,Kylaq,Prestige Plus,"Suspension, Steering & Brakes",Rear Brake Type,Drum
+Skoda,Kylaq,Prestige Plus,"Suspension, Steering & Brakes",Boot Space Rear Seat Folding,1265 Litres
+Skoda,Kylaq,Prestige Plus,"Suspension, Steering & Brakes",Boot Space Rear Seat Folding,1265 Litres
+Skoda,Kylaq,Prestige Plus,Dimensions & Capacity,Length,3995 mm
+Skoda,Kylaq,Prestige Plus,Dimensions & Capacity,Width,1783 mm
+Skoda,Kylaq,Prestige Plus,Dimensions & Capacity,Height,1619 mm
+Skoda,Kylaq,Prestige Plus,Dimensions & Capacity,Boot Space,446 Litres
+Skoda,Kylaq,Prestige Plus,Dimensions & Capacity,Seating Capacity,5
+Skoda,Kylaq,Prestige Plus,Dimensions & Capacity,Ground Clearance Unladen,189 mm
+Skoda,Kylaq,Prestige Plus,Dimensions & Capacity,Wheel Base,2566 mm
+Skoda,Kylaq,Prestige Plus,Dimensions & Capacity,Kerb Weight,1169-1219 kg
+Skoda,Kylaq,Prestige Plus,Dimensions & Capacity,Gross Weight,1630 kg
+Skoda,Kylaq,Prestige Plus,Comfort & Convenience,Power Steering,YES
+Skoda,Kylaq,Prestige Plus,Comfort & Convenience,Air Conditioner,YES
+Skoda,Kylaq,Prestige Plus,Comfort & Convenience,Heater,YES
+Skoda,Kylaq,Prestige Plus,Comfort & Convenience,Adjustable Steering,Height & Reach
+Skoda,Kylaq,Prestige Plus,Comfort & Convenience,Height Adjustable Driver Seat,YES
+Skoda,Kylaq,Prestige Plus,Comfort & Convenience,Ventilated Seats,YES
+Skoda,Kylaq,Prestige Plus,Comfort & Convenience,Electric Adjustable Seats,Front Only
+Skoda,Kylaq,Prestige Plus,Comfort & Convenience,Automatic Climate Control,YES
+Skoda,Kylaq,Prestige Plus,Comfort & Convenience,Air Quality Control,YES
+Skoda,Kylaq,Prestige Plus,Comfort & Convenience,Accessory Power Outlet,YES
+Skoda,Kylaq,Prestige Plus,Comfort & Convenience,Rear Seat Headrest,Adjustable
+Skoda,Kylaq,Prestige Plus,Comfort & Convenience,Adjustable Headrest,YES
+Skoda,Kylaq,Prestige Plus,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+Skoda,Kylaq,Prestige Plus,Comfort & Convenience,Rear AC Vents,YES
+Skoda,Kylaq,Prestige Plus,Comfort & Convenience,Cruise Control,YES
+Skoda,Kylaq,Prestige Plus,Comfort & Convenience,Parking Sensors,Rear
+Skoda,Kylaq,Prestige Plus,Comfort & Convenience,Foldable Rear Seat,60:40 Split
+Skoda,Kylaq,Prestige Plus,Comfort & Convenience,KeyLess Entry,YES
+Skoda,Kylaq,Prestige Plus,Comfort & Convenience,Engine Start/Stop Button,YES
+Skoda,Kylaq,Prestige Plus,Comfort & Convenience,Paddle Shifters,NO
+Skoda,Kylaq,Prestige Plus,Comfort & Convenience,USB Charger,Front & Rear
+Skoda,Kylaq,Prestige Plus,Comfort & Convenience,Central Console Armrest,With Storage
+Skoda,Kylaq,Prestige Plus,Comfort & Convenience,Gear Shift Indicator,YES
+Skoda,Kylaq,Prestige Plus,Comfort & Convenience,Idle Start-Stop System,YES
+Skoda,Kylaq,Prestige Plus,Comfort & Convenience,Additional Features,Sunglass Holder
+Skoda,Kylaq,Prestige Plus,Comfort & Convenience,Power Windows,Front & Rear
+Skoda,Kylaq,Prestige Plus,Interior,Glove Box,YES
+Skoda,Kylaq,Prestige Plus,Interior,Lighting,Ambient light
+Skoda,Kylaq,Prestige Plus,Interior,Additional Features,Rear Parcel Tray
+Skoda,Kylaq,Prestige Plus,Interior,Digital Cluster,YES
+Skoda,Kylaq,Prestige Plus,Interior,Digital Cluster Size,8
+Skoda,Kylaq,Prestige Plus,Interior,Upholstery,Leatherette
+Skoda,Kylaq,Prestige Plus,Exterior,Adjustable Headlamps,YES
+Skoda,Kylaq,Prestige Plus,Exterior,Rain Sensing Wiper,YES
+Skoda,Kylaq,Prestige Plus,Exterior,Rear Window Wiper,YES
+Skoda,Kylaq,Prestige Plus,Exterior,Rear Window Washer,YES
+Skoda,Kylaq,Prestige Plus,Exterior,Rear Window Defogger,YES
+Skoda,Kylaq,Prestige Plus,Exterior,Rear Spoiler,YES
+Skoda,Kylaq,Prestige Plus,Exterior,Outside Rear View Mirror Turn Indicators,YES
+Skoda,Kylaq,Prestige Plus,Exterior,Projector Headlamps,YES
+Skoda,Kylaq,Prestige Plus,Exterior,Cornering Foglamps,YES
+Skoda,Kylaq,Prestige Plus,Exterior,Roof Rails,YES
+Skoda,Kylaq,Prestige Plus,Exterior,Automatic Headlamps,YES
+Skoda,Kylaq,Prestige Plus,Exterior,Fog Lights,Front
+Skoda,Kylaq,Prestige Plus,Exterior,Antenna,Shark Fin
+Skoda,Kylaq,Prestige Plus,Exterior,Sunroof,Single Pane
+Skoda,Kylaq,Prestige Plus,Exterior,Outside Rear View Mirror (ORVM),Powered & Folding
+Skoda,Kylaq,Prestige Plus,Exterior,Tyre Size,205/55 R17
+Skoda,Kylaq,Prestige Plus,Exterior,Tyre Type,Radial Tubeless
+Skoda,Kylaq,Prestige Plus,Exterior,Wheel Size,17 Inch
+Skoda,Kylaq,Prestige Plus,Exterior,LED DRLs,YES
+Skoda,Kylaq,Prestige Plus,Exterior,LED Headlamps,YES
+Skoda,Kylaq,Prestige Plus,Exterior,LED Taillights,YES
+Skoda,Kylaq,Prestige Plus,Exterior,LED Fog Lamps,YES
+Skoda,Kylaq,Prestige Plus,Safety,Anti-lock Braking System (ABS),YES
+Skoda,Kylaq,Prestige Plus,Safety,Brake Assist,YES
+Skoda,Kylaq,Prestige Plus,Safety,Central Locking,YES
+Skoda,Kylaq,Prestige Plus,Safety,Child Safety Locks,YES
+Skoda,Kylaq,Prestige Plus,Safety,Anti-Theft Alarm,YES
+Skoda,Kylaq,Prestige Plus,Safety,No. of Airbags,6
+Skoda,Kylaq,Prestige Plus,Safety,Driver Airbag,YES
+Skoda,Kylaq,Prestige Plus,Safety,Passenger Airbag,YES
+Skoda,Kylaq,Prestige Plus,Safety,Side Airbag,YES
+Skoda,Kylaq,Prestige Plus,Safety,Side Airbag-Rear,NO
+Skoda,Kylaq,Prestige Plus,Safety,Day & Night Rear View Mirror,YES
+Skoda,Kylaq,Prestige Plus,Safety,Electronic Brakeforce Distribution (EBD),YES
+Skoda,Kylaq,Prestige Plus,Safety,Traction Control,YES
+Skoda,Kylaq,Prestige Plus,Safety,Tyre Pressure Monitoring System (TPMS),YES
+Skoda,Kylaq,Prestige Plus,Safety,Engine Immobilizer,YES
+Skoda,Kylaq,Prestige Plus,Safety,Electronic Stability Control (ESC),YES
+Skoda,Kylaq,Prestige Plus,Safety,Rear Camera,With Guidedlines
+Skoda,Kylaq,Prestige Plus,Safety,Anti-Pinch Power Windows,Driver's Window
+Skoda,Kylaq,Prestige Plus,Safety,ISOFIX Child Seat Mounts,YES
+Skoda,Kylaq,Prestige Plus,Safety,Hill Assist,YES
+Skoda,Kylaq,Prestige Plus,Entertainment & Communication,Radio,YES
+Skoda,Kylaq,Prestige Plus,Entertainment & Communication,Wireless Phone Charging,YES
+Skoda,Kylaq,Prestige Plus,Entertainment & Communication,Bluetooth Connectivity,YES
+Skoda,Kylaq,Prestige Plus,Entertainment & Communication,Touchscreen,YES
+Skoda,Kylaq,Prestige Plus,Entertainment & Communication,Touchscreen Size,10.07 inch
+Skoda,Kylaq,Prestige Plus,Entertainment & Communication,Android Auto,YES
+Skoda,Kylaq,Prestige Plus,Entertainment & Communication,Apple CarPlay,YES
+Skoda,Kylaq,Prestige Plus,Entertainment & Communication,No. of Speakers,4
+Skoda,Kylaq,Prestige Plus,Entertainment & Communication,Usb Ports,YES
+Skoda,Kylaq,Prestige Plus,Entertainment & Communication,Tweeters,2
+Skoda,Kylaq,Prestige Plus,Entertainment & Communication,Additional Features,Wireless Android Auto & Apple CarPlay
+Skoda,Kylaq,Prestige Plus,Entertainment & Communication,Speakers,Front & Rear

@@ -1,0 +1,139 @@
+company,model,variant,category,feature_name,feature_details
+BMW,X5,xDrive30d xLine,Engine & Transmission,Engine Type,Turbo 6-cylinder engine
+BMW,X5,xDrive30d xLine,Engine & Transmission,Displacement,2993 cc
+BMW,X5,xDrive30d xLine,Engine & Transmission,Max Power,281.68bhp@4000rpm
+BMW,X5,xDrive30d xLine,Engine & Transmission,Max Torque,650Nm@1500-2500rpm
+BMW,X5,xDrive30d xLine,Engine & Transmission,No. of Cylinders,6
+BMW,X5,xDrive30d xLine,Engine & Transmission,Valves Per Cylinder,4
+BMW,X5,xDrive30d xLine,Engine & Transmission,Turbo Charger,YES
+BMW,X5,xDrive30d xLine,Engine & Transmission,Super Charge,NO
+BMW,X5,xDrive30d xLine,Engine & Transmission,Transmission Type,Automatic
+BMW,X5,xDrive30d xLine,Engine & Transmission,Gearbox,8-Speed Steptronic
+BMW,X5,xDrive30d xLine,Engine & Transmission,Drive Type,4WD
+BMW,X5,xDrive30d xLine,Fuel & Performance,Fuel Type,Diesel
+BMW,X5,xDrive30d xLine,Fuel & Performance,Diesel Mileage ARAI,12 kmpl
+BMW,X5,xDrive30d xLine,Fuel & Performance,Diesel Fuel Tank Capacity,80 Litres
+BMW,X5,xDrive30d xLine,Fuel & Performance,Emission Norm Compliance,BS VI 2.0
+BMW,X5,xDrive30d xLine,Fuel & Performance,Top Speed,243 kmph
+BMW,X5,xDrive30d xLine,Fuel & Performance,Acceleration,6.1 s
+BMW,X5,xDrive30d xLine,Fuel & Performance,0-100kmph,6.1 s
+BMW,X5,xDrive30d xLine,"Suspension, Steering & Brakes",Front Suspension,Air suspension
+BMW,X5,xDrive30d xLine,"Suspension, Steering & Brakes",Rear Suspension,Air suspension
+BMW,X5,xDrive30d xLine,"Suspension, Steering & Brakes",Steering Type,Electric
+BMW,X5,xDrive30d xLine,"Suspension, Steering & Brakes",Front Brake Type,Disc
+BMW,X5,xDrive30d xLine,"Suspension, Steering & Brakes",Rear Brake Type,Disc
+BMW,X5,xDrive30d xLine,Dimensions & Capacity,Length,4922 mm
+BMW,X5,xDrive30d xLine,Dimensions & Capacity,Width,2004 mm
+BMW,X5,xDrive30d xLine,Dimensions & Capacity,Height,1745 mm
+BMW,X5,xDrive30d xLine,Dimensions & Capacity,Boot Space,645 Litres
+BMW,X5,xDrive30d xLine,Dimensions & Capacity,Seating Capacity,5
+BMW,X5,xDrive30d xLine,Dimensions & Capacity,Wheel Base,2975 mm
+BMW,X5,xDrive30d xLine,Dimensions & Capacity,Rear Tread,1686 mm
+BMW,X5,xDrive30d xLine,Dimensions & Capacity,Kerb Weight,2060 kg
+BMW,X5,xDrive30d xLine,Comfort & Convenience,Power Steering,YES
+BMW,X5,xDrive30d xLine,Comfort & Convenience,Power Boot,YES
+BMW,X5,xDrive30d xLine,Comfort & Convenience,Air Conditioner,YES
+BMW,X5,xDrive30d xLine,Comfort & Convenience,Heater,YES
+BMW,X5,xDrive30d xLine,Comfort & Convenience,Adjustable Steering,YES
+BMW,X5,xDrive30d xLine,Comfort & Convenience,Height Adjustable Driver Seat,YES
+BMW,X5,xDrive30d xLine,Comfort & Convenience,Electric Adjustable Seats,Front
+BMW,X5,xDrive30d xLine,Comfort & Convenience,Automatic Climate Control,YES
+BMW,X5,xDrive30d xLine,Comfort & Convenience,Air Quality Control,YES
+BMW,X5,xDrive30d xLine,Comfort & Convenience,Remote Trunk Opener,YES
+BMW,X5,xDrive30d xLine,Comfort & Convenience,Low Fuel Warning Light,YES
+BMW,X5,xDrive30d xLine,Comfort & Convenience,Accessory Power Outlet,YES
+BMW,X5,xDrive30d xLine,Comfort & Convenience,Rear Seat Headrest,YES
+BMW,X5,xDrive30d xLine,Comfort & Convenience,Adjustable Headrest,YES
+BMW,X5,xDrive30d xLine,Comfort & Convenience,Rear Seat Centre Arm Rest,YES
+BMW,X5,xDrive30d xLine,Comfort & Convenience,Height Adjustable Front Seat Belts,YES
+BMW,X5,xDrive30d xLine,Comfort & Convenience,Rear AC Vents,YES
+BMW,X5,xDrive30d xLine,Comfort & Convenience,Lumbar Support,YES
+BMW,X5,xDrive30d xLine,Comfort & Convenience,Cruise Control,YES
+BMW,X5,xDrive30d xLine,Comfort & Convenience,Parking Sensors,Front & Rear
+BMW,X5,xDrive30d xLine,Comfort & Convenience,Navigation System,YES
+BMW,X5,xDrive30d xLine,Comfort & Convenience,Foldable Rear Seat,40:20:40 Split
+BMW,X5,xDrive30d xLine,Comfort & Convenience,KeyLess Entry,YES
+BMW,X5,xDrive30d xLine,Comfort & Convenience,Engine Start/Stop Button,YES
+BMW,X5,xDrive30d xLine,Comfort & Convenience,Voice Commands,YES
+BMW,X5,xDrive30d xLine,Comfort & Convenience,Paddle Shifters,YES
+BMW,X5,xDrive30d xLine,Comfort & Convenience,USB Charger,Front
+BMW,X5,xDrive30d xLine,Comfort & Convenience,Central Console Armrest,YES
+BMW,X5,xDrive30d xLine,Comfort & Convenience,Drive Modes,4
+BMW,X5,xDrive30d xLine,Comfort & Convenience,Additional Features,"Servotronic Steering Assist, Cruise Control with braking function, xLine Package(BMW Kidney Grille with exclusively designed vertical slats with front sides in aluminium with satinised look, Air Breather Aluminium Satinated with high-gloss black elements, Exterior Line Aluminium Satinated, Roof rails Aluminium Satinated, Tailpipe trims Aluminium Satinated, BMW inscription front and rear, illuminated), BMW Gesture Control"
+BMW,X5,xDrive30d xLine,Interior,Electronic Multi-Tripmeter,YES
+BMW,X5,xDrive30d xLine,Interior,Leather Seats,YES
+BMW,X5,xDrive30d xLine,Interior,Fabric Upholstery,NO
+BMW,X5,xDrive30d xLine,Interior,Leather Wrapped Steering Wheel,YES
+BMW,X5,xDrive30d xLine,Interior,Glove Box,YES
+BMW,X5,xDrive30d xLine,Interior,Digital Clock,YES
+BMW,X5,xDrive30d xLine,Interior,Outside Temperature Display,YES
+BMW,X5,xDrive30d xLine,Interior,Driving Experience Control Eco,YES
+BMW,X5,xDrive30d xLine,Interior,Additional Features,"AC(separate control for rear left and right passengers and 2 extra vents in B-Pillars), Floor mats in velour, IRVM with automatic anti-dazzle function, Roller Sunblind, rear side windows, BMW Live Cockpit Plus(High-resolution (1920x720 pixels) 14.9 Control Display, BMW Operating System 8.0 with variable configurable widgets, Navigation Function with RTTI, Touch Functionality, iDrive Controller)"
+BMW,X5,xDrive30d xLine,Interior,Digital Cluster,Widescreen Curved Display Fully Digital 12.3 Instrument Display
+BMW,X5,xDrive30d xLine,Interior,Digital Cluster Size,12.3
+BMW,X5,xDrive30d xLine,Interior,Ambient Light Colour (numbers),6
+BMW,X5,xDrive30d xLine,Exterior,Adjustable Headlamps,YES
+BMW,X5,xDrive30d xLine,Exterior,Fog Lights - Front,YES
+BMW,X5,xDrive30d xLine,Exterior,Fog Lights - Rear,YES
+BMW,X5,xDrive30d xLine,Exterior,Rain Sensing Wiper,YES
+BMW,X5,xDrive30d xLine,Exterior,Rear Window Wiper,NO
+BMW,X5,xDrive30d xLine,Exterior,Rear Window Defogger,YES
+BMW,X5,xDrive30d xLine,Exterior,Wheel Covers,NO
+BMW,X5,xDrive30d xLine,Exterior,Alloy Wheels,YES
+BMW,X5,xDrive30d xLine,Exterior,Power Antenna,NO
+BMW,X5,xDrive30d xLine,Exterior,Tinted Glass,NO
+BMW,X5,xDrive30d xLine,Exterior,Rear Spoiler,YES
+BMW,X5,xDrive30d xLine,Exterior,Side Stepper,NO
+BMW,X5,xDrive30d xLine,Exterior,Outside Rear View Mirror Turn Indicators,YES
+BMW,X5,xDrive30d xLine,Exterior,Halogen Headlamps,NO
+BMW,X5,xDrive30d xLine,Exterior,Cornering Headlamps,YES
+BMW,X5,xDrive30d xLine,Exterior,Roof Rails,YES
+BMW,X5,xDrive30d xLine,Exterior,Automatic Headlamps,YES
+BMW,X5,xDrive30d xLine,Exterior,Trunk Opener,Smart
+BMW,X5,xDrive30d xLine,Exterior,Heated Wing Mirror,YES
+BMW,X5,xDrive30d xLine,Exterior,Sunroof,Panoramic
+BMW,X5,xDrive30d xLine,Exterior,Heated Outside Rear View Mirror,YES
+BMW,X5,xDrive30d xLine,Exterior,Tyre Size,21
+BMW,X5,xDrive30d xLine,Exterior,Tyre Type,"Tubeless, Runflat"
+BMW,X5,xDrive30d xLine,Exterior,LED DRLs,YES
+BMW,X5,xDrive30d xLine,Exterior,LED Headlamps,YES
+BMW,X5,xDrive30d xLine,Exterior,LED Taillights,YES
+BMW,X5,xDrive30d xLine,Exterior,LED Fog Lamps,YES
+BMW,X5,xDrive30d xLine,Exterior,Additional Features,"Sun Protection Glazing, Aluminium Running Board, Exterior mirrors(anti-dazzle function (driver's side) and parking function for passenger side exterior mirror), Two-part tailgate, Roof rails aluminium satinated"
+BMW,X5,xDrive30d xLine,Safety,Anti-lock Braking System (ABS),YES
+BMW,X5,xDrive30d xLine,Safety,Brake Assist,YES
+BMW,X5,xDrive30d xLine,Safety,Central Locking,YES
+BMW,X5,xDrive30d xLine,Safety,Child Safety Locks,YES
+BMW,X5,xDrive30d xLine,Safety,Anti-Theft Alarm,YES
+BMW,X5,xDrive30d xLine,Safety,No. of Airbags,6
+BMW,X5,xDrive30d xLine,Safety,Driver Airbag,YES
+BMW,X5,xDrive30d xLine,Safety,Passenger Airbag,YES
+BMW,X5,xDrive30d xLine,Safety,Side Airbag,YES
+BMW,X5,xDrive30d xLine,Safety,Side Airbag-Rear,NO
+BMW,X5,xDrive30d xLine,Safety,Electronic Brakeforce Distribution (EBD),YES
+BMW,X5,xDrive30d xLine,Safety,Traction Control,YES
+BMW,X5,xDrive30d xLine,Safety,Tyre Pressure Monitoring System (TPMS),YES
+BMW,X5,xDrive30d xLine,Safety,Engine Immobilizer,YES
+BMW,X5,xDrive30d xLine,Safety,Electronic Stability Control (ESC),YES
+BMW,X5,xDrive30d xLine,Safety,Rear Camera,With Guidedlines
+BMW,X5,xDrive30d xLine,Safety,Anti-Theft Device,YES
+BMW,X5,xDrive30d xLine,Safety,ISOFIX Child Seat Mounts,YES
+BMW,X5,xDrive30d xLine,Safety,Heads-Up Display (HUD),NO
+BMW,X5,xDrive30d xLine,Safety,Hill Descent Control,YES
+BMW,X5,xDrive30d xLine,Safety,Hill Assist,NO
+BMW,X5,xDrive30d xLine,Safety,360 View Camera,YES
+BMW,X5,xDrive30d xLine,Safety,Global NCAP Safety Rating,5 Star
+BMW,X5,xDrive30d xLine,Entertainment & Communication,Radio,YES
+BMW,X5,xDrive30d xLine,Entertainment & Communication,Audio System Remote Control,YES
+BMW,X5,xDrive30d xLine,Entertainment & Communication,Wireless Phone Charging,YES
+BMW,X5,xDrive30d xLine,Entertainment & Communication,USB & Auxiliary input,YES
+BMW,X5,xDrive30d xLine,Entertainment & Communication,Bluetooth Connectivity,YES
+BMW,X5,xDrive30d xLine,Entertainment & Communication,Touchscreen,YES
+BMW,X5,xDrive30d xLine,Entertainment & Communication,Android Auto,NO
+BMW,X5,xDrive30d xLine,Entertainment & Communication,Apple CarPlay,YES
+BMW,X5,xDrive30d xLine,Entertainment & Communication,No. of Speakers,16
+BMW,X5,xDrive30d xLine,Entertainment & Communication,Rear Entertainment System,YES
+BMW,X5,xDrive30d xLine,Entertainment & Communication,Usb Ports,YES
+BMW,X5,xDrive30d xLine,Entertainment & Communication,Additional Features,"464 W Harman Kardon Surround Sound system, BMW Connected Package Professional(Teleservices, Intelligent E-call, Remote software upgrade, MyBMW App with Remote Services, Intelligent Personal Assistant), Digital Key Plus"
+BMW,X5,xDrive30d xLine,Entertainment & Communication,Speakers,Front & Rear
+BMW,X5,xDrive30d xLine,ADAS Feature,Autonomous Parking,NO
