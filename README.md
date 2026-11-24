@@ -14,15 +14,17 @@ It covers 1,399 SUV variants of 136 models from 25 brands, with New Delhi prices
 
 1. `scrapers/` collect every variant's features and prices from CarDekho into `data/`.
 2. `notebooks/suv_research.ipynb` cleans the data, builds the fair-price model and the trim ladders, and writes the results to `app_data/`. It shows how each data problem was found and why each fix was chosen.
-3. `app/` is a FastAPI app that reads `app_data/` and serves four pages: Find, Variant, Compare and About.
+3. `notebooks/suv_insights.ipynb` sorts the SUVs into seven price segments and answers the buyer questions for each segment, each brand and the whole market. Every answer comes with a reason. It reads `app_data/` and writes `insights_data/`, which feeds the new web app (in progress).
+4. `app/` is the current FastAPI app. It reads `app_data/` and serves four pages: Find, Variant, Compare and About.
 
 ## Folders
 
 ```
 app/                       FastAPI app: routes, page templates, CSS
-app_data/                  the notebook's output, which the app reads (see its README)
+app_data/                  suv_research.ipynb's output, which the app reads (see its README)
+insights_data/             suv_insights.ipynb's answers for the new web app (see its README)
 data/                      raw CarDekho data: one features file per variant, prices, scrape log
-notebooks/                 suv_research.ipynb
+notebooks/                 suv_research.ipynb, then suv_insights.ipynb
 scrapers/                  the two CarDekho scrapers (Python standard library only)
 tests/                     pytest tests for the app
 sales-analysis-2020-2025/  an earlier study of the 20 best-selling SUVs, with its own README
@@ -46,7 +48,13 @@ Then open http://localhost:8000. Run the tests with `pytest -q`.
 
 ## Rebuild the app's data
 
-Open `notebooks/suv_research.ipynb` and run every cell (Restart & Run All). It rewrites all the files in `app_data/`. Restart the app to load them.
+Open `notebooks/suv_research.ipynb` and run every cell (Restart & Run All). It rewrites all the files in `app_data/`. Then do the same with `notebooks/suv_insights.ipynb`, which rebuilds `insights_data/` from them. Restart the app to load the new files.
+
+To run a notebook from the command line instead, run this from the `notebooks/` folder:
+
+```bash
+jupyter execute --inplace suv_insights.ipynb
+```
 
 ## Deploy on Render
 
