@@ -10,17 +10,20 @@
   <p>CarDekho's page for each of {{ "{:,}".format(totals.variants) }} SUV variants ({{ totals.models }} models from {{ totals.brands }} brands): its features, specifications and New Delhi prices, as listed on {{ price_date }}. All prices on this site are <strong>ex-showroom</strong> prices, because they are listed for every variant and are the same in every city.</p>
   <p>CarDekho doesn't list every feature for every car. A feature only counts when CarDekho confirms it, and a car only loses points for a missing feature when CarDekho says it doesn't have it. So no car is punished for a gap in the listing.</p>
 
-  <h2>Price segments</h2>
+  <h2 id="price-segments">Price segments</h2>
   <p>Each variant goes into a segment by its own price, so a model whose variants span several bands appears in each of them.</p>
+  <p>A segment's <strong>average price</strong> is the mean ex-showroom price of its variants. Its <strong>standard deviation</strong> is how far a typical variant's price is from that average: small when the prices bunch together, large when they spread across the band. Each variant counts once, and every listed variant is included, so this is the population standard deviation. The top segment has no upper limit, so its dearest cars pull the average above what a typical car there costs.</p>
   <div class="table-scroll">
     <table class="plain-table">
-      <thead><tr><th scope="col">Segment</th><th scope="col">Price range</th><th scope="col" class="num">Variants</th></tr></thead>
+      <thead><tr><th scope="col">Segment</th><th scope="col">Price range</th><th scope="col" class="num">Variants</th><th scope="col" class="num">Average price</th><th scope="col" class="num">Standard deviation</th></tr></thead>
       <tbody>
         {% for s in segments %}
         <tr><th scope="row"><a href="segments/{{ s.slug }}.html">{{ s.segment }}</a></th>
           {% set low = (s.from_lakh | float) * 100000 %}
           <td>{% if not s.to_lakh %}{{ low | lakh }} and above{% elif low == 0 %}Under {{ ((s.to_lakh | float) * 100000) | lakh }}{% else %}{{ low | lakh }} to under {{ ((s.to_lakh | float) * 100000) | lakh }}{% endif %}</td>
-          <td class="num">{{ s.variants }}</td></tr>
+          <td class="num">{{ s.variants }}</td>
+          <td class="num">{{ s.avg_price | lakh }}</td>
+          <td class="num">{{ s.std_price | lakh }}</td></tr>
         {% endfor %}
       </tbody>
     </table>

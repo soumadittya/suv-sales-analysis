@@ -99,6 +99,10 @@ main { padding-top: 28px; padding-bottom: 56px; }
 .page-head { margin-bottom: 18px; }
 .facts { margin: 8px 0 0; color: var(--muted); }
 .facts-small { margin: 2px 0 0; color: var(--muted); font-size: 0.92rem; }
+.price-stats { display: flex; flex-wrap: wrap; gap: 10px; margin: 14px 0 8px; }
+.price-stats div { padding: 10px 14px; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); box-shadow: var(--shadow); }
+.price-stats dt { color: var(--muted); font-size: 0.76rem; font-weight: 650; text-transform: uppercase; letter-spacing: 0.04em; }
+.price-stats dd { margin: 2px 0 0; font-size: 1.2rem; font-weight: 700; font-variant-numeric: tabular-nums; }
 .pager { display: flex; justify-content: space-between; gap: 12px; margin: 14px 0 0; font-size: 0.92rem; }
 .pager-next { margin-left: auto; text-align: right; }
 
@@ -129,6 +133,9 @@ main { padding-top: 28px; padding-bottom: 56px; }
 .segment-name { font-size: 1.25rem; font-weight: 700; }
 .segment-facts { color: var(--muted); font-size: 0.92rem; }
 .segment-line { font-size: 0.92rem; }
+.segment-stats { display: grid; gap: 2px; padding: 8px 0; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+.segment-stats .segment-line { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; font-weight: 650; font-variant-numeric: tabular-nums; }
+.segment-stats .label { display: inline; }
 .label { display: block; color: var(--muted); font-size: 0.76rem; font-weight: 650; text-transform: uppercase; letter-spacing: 0.04em; }
 .segment-go { margin-top: auto; padding-top: 6px; color: var(--accent); font-weight: 600; font-size: 0.92rem; }
 

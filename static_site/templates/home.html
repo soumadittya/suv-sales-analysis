@@ -11,6 +11,10 @@
     <a class="segment-card" href="segments/{{ s.slug }}.html">
       <span class="segment-name">{{ s.segment }}</span>
       <span class="segment-facts">{{ plural(s.variants | int, "variant") }} · {{ plural(s.models | int, "model") }} · {{ plural(s.brands | int, "brand") }}</span>
+      <span class="segment-stats">
+        <span class="segment-line"><span class="label">Average price</span> {{ s.avg_price | lakh }}</span>
+        <span class="segment-line"><span class="label">Standard deviation</span> {{ s.std_price | lakh }}</span>
+      </span>
       <span class="segment-line"><span class="label">Starts at</span> {{ s.from_price | lakh }}, {{ s.cheapest_variant }}</span>
       {% if s.best %}
       <span class="segment-line"><span class="label">Best value</span> {{ s.best.name }}, {{ s.best.metric }}</span>

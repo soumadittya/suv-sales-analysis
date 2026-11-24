@@ -11,7 +11,7 @@ Files written by `notebooks/suv_insights.ipynb`; the web app reads them. Do not 
 
 Rows: 7
 
-Columns: `segment_id`, `segment`, `from_lakh`, `to_lakh`, `variants`, `models`, `brands`, `from_price`, `to_price`, `cheapest_variant`
+Columns: `segment_id`, `segment`, `from_lakh`, `to_lakh`, `variants`, `models`, `brands`, `from_price`, `to_price`, `avg_price`, `std_price`, `cheapest_variant`
 
 ## segment_models.csv
 

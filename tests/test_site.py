@@ -94,6 +94,27 @@ def test_top_answers_match_the_data(site):
             assert a["name"] in block and a["metric"] in block, a["group"]
 
 
+def test_segment_average_and_spread(site):
+    """Each segment's average price and standard deviation match its variants, and are
+    shown at the top of its page and on its home-page card."""
+    out, _ = site
+    prices = {}
+    for v in rows("variants.csv"):
+        prices.setdefault(v["segment"], []).append(float(v["ex_showroom_price"]))
+    home = (out / "index.html").read_text(encoding="utf-8")
+    for s in rows("segments.csv"):
+        p = prices[s["segment"]]
+        mean = sum(p) / len(p)
+        sd = (sum((x - mean) ** 2 for x in p) / len(p)) ** 0.5   # population SD: every variant is included
+        assert abs(float(s["avg_price"]) - mean) <= 1 and abs(float(s["std_price"]) - sd) <= 1, s["segment"]
+
+        slug = site_build.slugify(s["segment"])
+        head = (out / "segments" / f"{slug}.html").read_text(encoding="utf-8").split('id="top"', 1)[1].split("</header>", 1)[0]
+        card = home.split(f'href="segments/{slug}.html"', 1)[1].split("</a>", 1)[0]
+        for text in (site_build.lakh(s["avg_price"]), site_build.lakh(s["std_price"])):
+            assert text in head and text in card, (s["segment"], text)
+
+
 def test_no_javascript(site):
     _, pages = site
     assert all(page.scripts == 0 for page in pages.values())

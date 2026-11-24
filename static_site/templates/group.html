@@ -10,6 +10,13 @@
 <header class="page-head" id="top">
   <h1>{{ heading }}</h1>
   <p class="facts">{{ facts }}</p>
+  {% if kind == "segment" %}
+  <dl class="price-stats">
+    <div><dt>Average price</dt><dd>{{ group.avg_price | lakh }}</dd></div>
+    <div><dt>Standard deviation</dt><dd>{{ group.std_price | lakh }}</dd></div>
+  </dl>
+  <p class="facts-small">The standard deviation is how far a typical variant's price is from the average. <a href="../method.html#price-segments">How these are worked out</a></p>
+  {% endif %}
   {% if kind == "brand" %}
   <p class="facts-small">In {{ plural(group.segment_list | length, "segment") }}: {{ group.segment_list | join(", ") }}</p>
   {% endif %}
