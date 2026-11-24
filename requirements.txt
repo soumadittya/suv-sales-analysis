@@ -1,8 +1,4 @@
-# Packages the web app needs to run. Render installs this file on every deploy.
-# Versions match the project venv the app was built and tested with.
-fastapi==0.165.0
-starlette==1.10.0
-uvicorn==0.54.0
+# What static_site/build.py needs to build the website.
+# The site itself is plain files, so the host (a Render static site) installs nothing.
+# Versions match the project venv the site was built and tested with.
 jinja2==3.1.6
-pandas==3.1.1
-numpy==2.5.4

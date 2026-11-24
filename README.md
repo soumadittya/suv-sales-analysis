@@ -18,25 +18,23 @@ It covers 1,399 SUV variants of 136 models from 25 brands, with New Delhi prices
 3. `notebooks/suv_insights.ipynb` defines the seven price segments (with each one's average price and standard deviation) and the scores (value for money, features, modern features, engine, safety). It then answers every question for each segment, each brand and the whole market, and writes the answers with their reasons to `insights_data/`.
 4. `static_site/build.py` turns `insights_data/` into plain HTML pages in `site/`. Nothing is calculated while people browse, so the site needs no server code or database. Its only script, `assets/dropdowns.js`, opens the collapsed sections that an in-page link points into; the pages work without it.
 
-`app/` holds an earlier FastAPI version of the app (Find, Variant, Compare and About pages, reading `app_data/`), kept for now.
-
 ## Folders
 
 ```
-static_site/               build.py, the page templates and the stylesheet
-site/                      the built website (made by static_site/build.py; don't edit by hand)
-insights_data/             suv_insights.ipynb's answers, which the site is built from (see its README)
-app_data/                  suv_research.ipynb's output (see its README)
-data/                      raw CarDekho data: one features file per variant, prices, scrape log
-notebooks/                 suv_research.ipynb, then suv_insights.ipynb
-scrapers/                  the two CarDekho scrapers (Python standard library only)
-tests/                     pytest tests for the site and the earlier app
-app/                       the earlier FastAPI app
-sales-analysis-2020-2025/  an earlier study of the 20 best-selling SUVs, with its own README
-requirements.txt           what the earlier FastAPI app needs to run
-requirements-dev.txt       everything: the notebooks, the site build and the tests
-.python-version            Python 3.13
+static_site/          build.py, the page templates, the stylesheet and the dropdown script
+site/                 the built website (made by static_site/build.py; don't edit by hand)
+insights_data/        suv_insights.ipynb's answers, which the site is built from (see its README)
+app_data/             suv_research.ipynb's output; suv_insights.ipynb reads the clean variants and fair prices from it
+data/                 raw CarDekho data: one features file per variant, prices, scrape log
+notebooks/            suv_research.ipynb, then suv_insights.ipynb
+scrapers/             the two CarDekho scrapers (Python standard library only)
+tests/                pytest tests for the site
+requirements.txt      what building the site needs
+requirements-dev.txt  everything: the site build, the tests and the notebooks
+.python-version       Python 3.13
 ```
+
+Earlier work is kept on the `archive` branch: the first web app (FastAPI, with Find, Variant, Compare and About pages) and a 2020–2025 sales study of the 20 best-selling SUVs.
 
 ## Build and view the site locally
 
@@ -79,12 +77,6 @@ jupyter execute --inplace suv_insights.ipynb
 - **Build command:** any command that succeeds, for example `echo "site/ is prebuilt"`
 
 Static sites are free on Render. Every push to `main` publishes the new `site/`.
-
-## The earlier FastAPI app
-
-Run it locally with `uvicorn app.main:app --reload` and open http://localhost:8000. To host it on Render instead, create a Web Service:
-- **Build command:** `pip install -r requirements.txt`
-- **Start command:** `uvicorn app.main:app --host 0.0.0.0 --port $PORT`
 
 ## Data
 

@@ -1,12 +1,12 @@
-# Everything else: running the tests and re-running notebooks/suv_research.ipynb.
-# Not needed on Render.
+# Everything: building the site, running the tests, and re-running the two notebooks.
 -r requirements.txt
 
 # tests
 pytest==9.2.0
-httpx==0.28.1
 
-# notebook
+# notebooks
+pandas==3.1.1
+numpy==2.5.4
 ipykernel==7.4.0
 matplotlib==3.11.2
 seaborn==0.13.2
