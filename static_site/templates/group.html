@@ -1,5 +1,5 @@
 {% extends "base.html" %}
-{% from "_question.html" import category_sections, jump_links %}
+{% from "_question.html" import category_sections, section_start, section_end %}
 {% block main %}
 {% set label = group.segment if kind == "segment" else group.brand %}
 <nav class="crumbs" aria-label="Breadcrumb">
@@ -26,12 +26,9 @@
   </p>
 </header>
 
-{{ jump_links(categories, ("cars", cars_heading)) }}
-
-<section class="category" id="cars" aria-labelledby="cars-title">
-  <div class="category-head">
-    <h2 id="cars-title">{{ cars_heading }}</h2>
-  </div>
+<p class="section-hint">Open a section to see its cars, or its questions and answers.</p>
+<div class="categories">
+{{ section_start("cars", cars_heading, plural(models | length, "model")) }}
   <p class="section-note">{{ cars_note }} Open a model to see its variants.</p>
   <div class="models">
     {% for m in models %}
@@ -67,7 +64,7 @@
     </details>
     {% endfor %}
   </div>
-</section>
-
+{{ section_end() }}
 {{ category_sections(categories) }}
+</div>
 {% endblock %}

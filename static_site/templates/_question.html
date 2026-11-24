@@ -29,23 +29,28 @@
 </article>
 {% endmacro %}
 
+{# Each section is a dropdown (<details>) that starts collapsed; the summary shows its name and size. #}
+{% macro section_start(id, title, count) %}
+<details class="category" id="{{ id }}">
+  <summary class="category-head">
+    <h2>{{ title }}</h2>
+    <span class="category-count">{{ count }}</span>
+  </summary>
+  <div class="category-body">
+{% endmacro %}
+
+{% macro section_end() %}
+    <p class="to-top-row"><a class="to-top" href="#top">Back to top</a></p>
+  </div>
+</details>
+{% endmacro %}
+
 {% macro category_sections(categories) %}
 {% for c in categories %}
-<section class="category" id="{{ c.slug }}" aria-labelledby="{{ c.slug }}-title">
-  <div class="category-head">
-    <h2 id="{{ c.slug }}-title">{{ c.name }}</h2>
-    <a class="to-top" href="#top">Back to top</a>
-  </div>
+{{ section_start(c.slug, c.name, plural(c.questions | length, "question")) }}
   {% for q in c.questions %}
   {{ question(q) }}
   {% endfor %}
-</section>
+{{ section_end() }}
 {% endfor %}
-{% endmacro %}
-
-{% macro jump_links(categories, first=None) %}
-<nav class="jump" aria-label="On this page">
-  {% if first %}<a href="#{{ first[0] }}">{{ first[1] }}</a>{% endif %}
-  {% for c in categories %}<a href="#{{ c.slug }}">{{ c.name }}</a>{% endfor %}
-</nav>
 {% endmacro %}

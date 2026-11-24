@@ -26,7 +26,8 @@ class Page(HTMLParser):
 
     def __init__(self, text):
         super().__init__()
-        self.links, self.ids, self.questions, self.scripts = [], set(), [], 0
+        self.links, self.ids, self.questions, self.scripts = [], set(), [], []
+        self.sections = []   # (id, starts open?) for each section dropdown
         self.feed(text)
 
     def handle_starttag(self, tag, attrs):
@@ -38,7 +39,9 @@ class Page(HTMLParser):
         if tag == "article" and "question" in attrs.get("class", ""):
             self.questions.append(attrs["id"])
         if tag == "script":
-            self.scripts += 1
+            self.scripts.append(attrs.get("src", "inline"))
+        if tag == "details" and "category" in attrs.get("class", "").split():
+            self.sections.append((attrs["id"], "open" in attrs))
 
 
 @pytest.fixture(scope="module")
@@ -83,6 +86,27 @@ def test_every_question_is_on_every_page(site):
         elif path.parent.name == "brands" and path.name != "index.html":
             assert len(page.questions) == count["brand"], path.name
     assert len(pages[(out / "overall.html").resolve()].questions) == count["overall"]
+
+
+def test_sections_are_collapsed_dropdowns(site):
+    """On segment, brand and overall pages every section is a dropdown that starts closed:
+    the cars section first (segment and brand pages), then one per question category."""
+    out, pages = site
+    questions = rows("questions.csv")
+    categories = {tab: list(dict.fromkeys(q["category"] for q in questions if q["tab"] == tab))
+                  for tab in ("segment", "brand", "overall")}
+    for path, page in pages.items():
+        if path.parent.name == "segments":
+            expected = ["cars"] + [site_build.slugify(c) for c in categories["segment"]]
+        elif path.parent.name == "brands" and path.name != "index.html":
+            expected = ["cars"] + [site_build.slugify(c) for c in categories["brand"]]
+        elif path.name == "overall.html":
+            expected = [site_build.slugify(c) for c in categories["overall"]]
+        else:
+            assert page.sections == [], path.name
+            continue
+        assert sorted(sid for sid, _ in page.sections) == sorted(expected), path.name
+        assert not any(is_open for _, is_open in page.sections), f"{path.name}: a section starts open"
 
 
 def test_top_answers_match_the_data(site):
@@ -143,9 +167,12 @@ def test_model_average_and_spread_on_brand_pages(site):
             assert f"Standard deviation {site_build.lakh(m['std_price'])}" in summary, m["model_name"]
 
 
-def test_no_javascript(site):
-    _, pages = site
-    assert all(page.scripts == 0 for page in pages.values())
+def test_only_script_is_the_dropdown_helper(site):
+    """The one script just opens dropdowns that a link points into; no page has any other."""
+    out, pages = site
+    for path, page in pages.items():
+        assert len(page.scripts) == 1 and page.scripts[0].endswith("assets/dropdowns.js"), path.name
+        assert (path.parent / page.scripts[0]).resolve().is_file(), path.name
 
 
 def test_value_colours_follow_the_badges():

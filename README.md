@@ -16,7 +16,7 @@ It covers 1,399 SUV variants of 136 models from 25 brands, with New Delhi prices
 1. `scrapers/` collect every variant's features and prices from CarDekho into `data/`.
 2. `notebooks/suv_research.ipynb` cleans the data and builds the fair-price model, which gives each variant the price its features usually cost. It writes the results to `app_data/`, and shows how each data problem was found and why each fix was chosen.
 3. `notebooks/suv_insights.ipynb` defines the seven price segments (with each one's average price and standard deviation) and the scores (value for money, features, modern features, engine, safety). It then answers every question for each segment, each brand and the whole market, and writes the answers with their reasons to `insights_data/`.
-4. `static_site/build.py` turns `insights_data/` into plain HTML pages in `site/`. Nothing is calculated while people browse, so the site needs no server code, database or JavaScript.
+4. `static_site/build.py` turns `insights_data/` into plain HTML pages in `site/`. Nothing is calculated while people browse, so the site needs no server code or database. Its only script, `assets/dropdowns.js`, opens the collapsed sections that an in-page link points into; the pages work without it.
 
 `app/` holds an earlier FastAPI version of the app (Find, Variant, Compare and About pages, reading `app_data/`), kept for now.
 

@@ -1,11 +1,13 @@
 {% extends "base.html" %}
-{% from "_question.html" import category_sections, jump_links %}
+{% from "_question.html" import category_sections %}
 {% block main %}
 <section class="intro" id="top">
   <h1>Overall</h1>
   <p class="lede">Questions about all {{ "{:,}".format(totals.variants) }} SUV variants together, regardless of segment or brand.</p>
 </section>
 
-{{ jump_links(categories) }}
+<p class="section-hint">Open a section to see its questions and answers.</p>
+<div class="categories">
 {{ category_sections(categories) }}
+</div>
 {% endblock %}

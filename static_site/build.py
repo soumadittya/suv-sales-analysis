@@ -2,7 +2,8 @@
 
 Every answer on the site was worked out by notebooks/suv_insights.ipynb, so the
 site is plain HTML and CSS: nothing is calculated while people browse, and any
-static host (Render static sites, GitHub Pages, Netlify) can serve it.
+static host (Render static sites, GitHub Pages, Netlify) can serve it. The one
+script, assets/dropdowns.js, only opens the collapsed sections a link points into.
 
 Run from the project folder:
     python static_site/build.py
