@@ -115,6 +115,34 @@ def test_segment_average_and_spread(site):
             assert text in head and text in card, (s["segment"], text)
 
 
+def test_model_average_and_spread_on_brand_pages(site):
+    """Each model's average price and standard deviation match all its variants, and are
+    shown in its row on its brand page."""
+    out, _ = site
+    prices = {}
+    for v in rows("variants.csv"):
+        prices.setdefault(v["model_name"], []).append(float(v["ex_showroom_price"]))
+    brand_slug = {b["brand"]: site_build.slugify(b["brand"]) for b in rows("brands.csv")}
+    models = rows("models.csv")
+    assert {m["model_name"] for m in models} == set(prices)
+    for m in models:
+        p = prices[m["model_name"]]
+        mean = sum(p) / len(p)
+        sd = (sum((x - mean) ** 2 for x in p) / len(p)) ** 0.5
+        assert int(m["variants"]) == len(p), m["model_name"]
+        assert abs(float(m["avg_price"]) - mean) <= 1 and abs(float(m["std_price"]) - sd) <= 1, m["model_name"]
+
+        html = (out / "brands" / f"{brand_slug[m['company']]}.html").read_text(encoding="utf-8")
+        summary = html.split(f'id="model-{site_build.slugify(m["model_name"])}"', 1)[1].split("</summary>", 1)[0]
+        assert f"Average {site_build.lakh(m['avg_price'])}" in summary, m["model_name"]
+        if len(p) == 1:
+            assert "One variant, so no spread" in summary, m["model_name"]
+        elif sd == 0:
+            assert "All variants cost the same, so no spread" in summary, m["model_name"]
+        else:
+            assert f"Standard deviation {site_build.lakh(m['std_price'])}" in summary, m["model_name"]
+
+
 def test_no_javascript(site):
     _, pages = site
     assert all(page.scripts == 0 for page in pages.values())

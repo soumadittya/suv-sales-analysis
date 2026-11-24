@@ -6,6 +6,7 @@ Files written by `notebooks/suv_insights.ipynb`; the web app reads them. Do not 
 - Prices are ex-showroom, in rupees. 1 lakh = ₹1,00,000; 1 crore = ₹1,00,00,000.
 - In the answers files, rows with `item_type` = note (rank 0) sum up an answer or explain a short or empty list.
 - In `segments.csv`, an empty `to_lakh` means the segment has no upper price limit.
+- Averages and standard deviations are of ex-showroom prices, with each variant counted once. The standard deviation is the population one (every listed variant is included), so a model with one variant has `std_price` 0.
 
 ## segments.csv
 
@@ -24,6 +25,12 @@ Columns: `segment_id`, `segment`, `company`, `model`, `model_name`, `variants`, 
 Rows: 25
 
 Columns: `brand`, `variants`, `models`, `brands`, `from_price`, `to_price`, `cheapest_variant`, `segments`
+
+## models.csv
+
+Rows: 136
+
+Columns: `company`, `model`, `model_name`, `variants`, `from_price`, `to_price`, `avg_price`, `std_price`
 
 ## variants.csv
 

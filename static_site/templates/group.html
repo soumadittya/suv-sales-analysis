@@ -38,7 +38,12 @@
     <details class="model" id="model-{{ m.slug }}">
       <summary>
         <span class="model-name">{{ m.name }}</span>
-        <span class="model-meta">{{ m.count }} · {{ m.prices }}</span>
+        <span class="model-meta">
+          <span>{{ m.count }} · {{ m.prices }}</span>
+          {% if m.stats %}
+          <span class="model-stats"><span class="nowrap">Average {{ m.stats.avg }}</span> · {% if m.stats.note %}{{ m.stats.note }}{% else %}<span class="nowrap">Standard deviation {{ m.stats.std }}</span>{% endif %}</span>
+          {% endif %}
+        </span>
       </summary>
       <div class="table-scroll">
         <table class="variant-table">

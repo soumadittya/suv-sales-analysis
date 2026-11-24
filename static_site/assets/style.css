@@ -243,7 +243,9 @@ main { padding-top: 28px; padding-bottom: 56px; }
 .model[open] > summary::before { content: "▾"; }
 .model[open] > summary { border-bottom: 1px solid var(--line); }
 .model-name { font-weight: 650; flex: 1 1 auto; }
-.model-meta { color: var(--muted); font-size: 0.9rem; font-variant-numeric: tabular-nums; }
+.model-meta { display: grid; justify-items: end; text-align: right; color: var(--muted); font-size: 0.9rem; font-variant-numeric: tabular-nums; }
+.model-stats { color: var(--ink); }
+.nowrap { white-space: nowrap; }
 .model:target { border-color: var(--accent); }
 
 .table-scroll { overflow-x: auto; }
@@ -284,4 +286,5 @@ tbody tr:last-child > * { border-bottom: 0; }
   .tags, .reason { margin-left: 0; }
   .category-head { flex-wrap: wrap; }
   th, td { padding: 7px 9px; }
+  .model-meta { justify-items: start; text-align: left; }
 }

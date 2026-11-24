@@ -132,6 +132,7 @@ class Site:
         self.brand_slug = {b["brand"]: b["slug"] for b in self.brands}
 
         self.segment_models = read("segment_models.csv")
+        self.model_stats = {m["model_name"]: m for m in read("models.csv")}
         self.feature_lists = read("feature_lists.csv")
 
         dates = {v["price_date"] for v in self.variants if v["price_date"]}
@@ -151,8 +152,20 @@ class Site:
             "fuel": v["fuel"], "gearbox": v["gearbox"], "seats": v["seats"], "value": value, "tone": tone(value, v["badge"]),
         }
 
-    def model_list(self, variants: list[dict]) -> list[dict]:
-        """Models with their variants, cheapest model first."""
+    def stats(self, name: str, shown: int) -> dict:
+        """A model's average price and standard deviation over all its variants (from models.csv)."""
+        m = self.model_stats[name]
+        assert int(m["variants"]) == shown, f"{name}: the page lists {shown} variants, models.csv has {m['variants']}"
+        note = ""
+        if int(m["variants"]) == 1:
+            note = "One variant, so no spread"
+        elif float(m["std_price"]) == 0:
+            note = "All variants cost the same, so no spread"
+        return {"avg": lakh(m["avg_price"]), "std": "" if note else lakh(m["std_price"]), "note": note}
+
+    def model_list(self, variants: list[dict], with_stats: bool = False) -> list[dict]:
+        """Models with their variants, cheapest model first. with_stats adds each model's
+        average price and standard deviation, which only make sense when every variant is listed."""
         grouped = defaultdict(list)
         for v in variants:
             grouped[v["model_name"]].append(v)
@@ -163,6 +176,7 @@ class Site:
             models.append({
                 "name": name, "slug": slugify(name), "count": plural(len(rows), "variant"),
                 "prices": price_range(min(prices), max(prices)), "from": min(prices),
+                "stats": self.stats(name, len(rows)) if with_stats else None,
                 "variants": [self.variant_row(v) for v in rows],
             })
         return sorted(models, key=lambda m: (m["from"], m["name"]))
@@ -260,14 +274,14 @@ def build(out_dir: Path = OUT_DIR) -> list[Path]:
           segment_slug=site.segment_slug, n_questions=len(site.questions["brand"]))
     for i, b in enumerate(site.brands):
         members = [v for v in site.variants if v["company"] == b["brand"]]
-        models = site.model_list(members)
+        models = site.model_list(members, with_stats=True)
         local = {m["slug"] for m in models}
         write(f"brands/{b['slug']}.html", "group.html", tab="brand", title=b["brand"],
               kind="brand", group=b, heading=b["brand"],
               facts=f"{plural(int(b['variants']), 'variant')} of {plural(int(b['models']), 'model')}, "
                     f"{price_range(b['from_price'], b['to_price'])}",
               models=models, cars_heading=f"{b['brand']} models",
-              cars_note="Every variant of each model, cheapest first.",
+              cars_note="Every variant of each model, cheapest first, with the average price and standard deviation of the model's variants.",
               categories=site.categories("brand", b["brand"], "../", local),
               prev=site.brands[i - 1] if i > 0 else None,
               next=site.brands[i + 1] if i + 1 < len(site.brands) else None)
