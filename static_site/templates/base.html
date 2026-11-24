@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en-IN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ title }} · SUV Insights</title>
+  <meta name="description" content="Indian SUVs ranked by price segment, brand and overall, with a reason for every answer. CarDekho data, New Delhi prices of {{ price_date }}.">
+  <link rel="stylesheet" href="{{ root }}assets/style.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to the content</a>
+  <header class="masthead">
+    <div class="wrap masthead-top">
+      <a class="site-name" href="{{ root }}index.html">SUV Insights</a>
+      <span class="site-tagline">Indian SUVs, ranked with reasons</span>
+    </div>
+    <nav class="wrap tabs" aria-label="Sections">
+      <a class="tab" href="{{ root }}index.html"{% if tab == "segment" %} aria-current="page"{% endif %}>Segments</a>
+      <a class="tab" href="{{ root }}brands/index.html"{% if tab == "brand" %} aria-current="page"{% endif %}>Brands</a>
+      <a class="tab" href="{{ root }}overall.html"{% if tab == "overall" %} aria-current="page"{% endif %}>Overall</a>
+    </nav>
+  </header>
+
+  <main id="main" class="wrap">
+{% block main %}{% endblock %}
+  </main>
+
+  <footer class="footer">
+    <div class="wrap">
+      <p>Data: CarDekho, {{ "{:,}".format(totals.variants) }} SUV variants of {{ totals.models }} models from {{ totals.brands }} brands. Prices are ex-showroom New Delhi prices listed on {{ price_date }}. They change often, so check the latest price with a dealer.</p>
+      <p><a href="{{ root }}method.html">How the answers are worked out</a></p>
+    </div>
+  </footer>
+</body>
+</html>

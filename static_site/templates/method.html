@@ -1,0 +1,75 @@
+{% extends "base.html" %}
+{% block main %}
+<section class="intro" id="top">
+  <h1>How the answers are worked out</h1>
+  <p class="lede">Every answer on this site comes from one analysis of CarDekho's listings. This page explains the measures behind the rankings, so you can judge each reason for yourself.</p>
+</section>
+
+<div class="prose">
+  <h2>The data</h2>
+  <p>CarDekho's page for each of {{ "{:,}".format(totals.variants) }} SUV variants ({{ totals.models }} models from {{ totals.brands }} brands): its features, specifications and New Delhi prices, as listed on {{ price_date }}. All prices on this site are <strong>ex-showroom</strong> prices, because they are listed for every variant and are the same in every city.</p>
+  <p>CarDekho doesn't list every feature for every car. A feature only counts when CarDekho confirms it, and a car only loses points for a missing feature when CarDekho says it doesn't have it. So no car is punished for a gap in the listing.</p>
+
+  <h2>Price segments</h2>
+  <p>Each variant goes into a segment by its own price, so a model whose variants span several bands appears in each of them.</p>
+  <div class="table-scroll">
+    <table class="plain-table">
+      <thead><tr><th scope="col">Segment</th><th scope="col">Price range</th><th scope="col" class="num">Variants</th></tr></thead>
+      <tbody>
+        {% for s in segments %}
+        <tr><th scope="row"><a href="segments/{{ s.slug }}.html">{{ s.segment }}</a></th>
+          {% set low = (s.from_lakh | float) * 100000 %}
+          <td>{% if not s.to_lakh %}{{ low | lakh }} and above{% elif low == 0 %}Under {{ ((s.to_lakh | float) * 100000) | lakh }}{% else %}{{ low | lakh }} to under {{ ((s.to_lakh | float) * 100000) | lakh }}{% endif %}</td>
+          <td class="num">{{ s.variants }}</td></tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+
+  <h2>Value for money</h2>
+  <p>Each variant has a <strong>fair price</strong>: what the market usually charges for its set of features. It comes from a price model that learns from the listed variants how much each feature adds to an SUV's price. A car priced below its fair price gives you more for your money. "12% below fair price" means it costs 12% less than its features usually cost. A model's value is the average over its variants in that segment or brand.</p>
+  <p>The labels follow the model: more than 15% below is <span class="chip chip-good">Good value</span>, more than 15% above is <span class="chip chip-bad">Overpriced</span>, and anything in between is fair.</p>
+
+  <h2>Features</h2>
+  <p>"Feature loaded" is measured on a fixed list of {{ lists.feature | length }} comfort and technology features that CarDekho reports for most cars. Each one a car has earns 1 point. Safety equipment is scored separately, below, so it isn't counted twice.</p>
+  <p>A car also loses <strong>2 points</strong> for each of these basics it lacks: {{ lists.basic | map(attribute="feature") | join(", ") }}.</p>
+  <details class="list-box">
+    <summary>The {{ lists.feature | length }} features on the list</summary>
+    <ul class="columns">{% for f in lists.feature %}<li>{{ f.feature }}</li>{% endfor %}</ul>
+  </details>
+  <p>A "feature-loaded variant" is one in the best-equipped quarter of its segment or brand.</p>
+
+  <h2>Modern, eye-catching features</h2>
+  <p>Features that impress in the showroom but don't change how safe or capable a car is. The modern score is how many of these {{ lists.modern | length }} a car has:</p>
+  <ul class="columns">{% for f in lists.modern %}<li>{{ f.feature }}</li>{% endfor %}</ul>
+
+  <h2>Engine performance</h2>
+  <p>Power (bhp) and torque (Nm), each compared with the other cars in the same segment or brand: 0 for the weakest there, 100 for the strongest. The engine score is the average of the two. "Strong" depends on what a car is up against: 150 bhp is a lot under ₹15 lakh, but little above ₹1 crore.</p>
+  <p>"Modern features but a weak engine" means more modern features than the segment's middle car, and an engine weaker than at least half the segment. The reverse question uses the reverse test.</p>
+
+  <h2>Safety</h2>
+  <p>Only about half the variants have a crash-test rating, so the safety score rests mainly on safety equipment (out of 100). The crash rating adds or takes off points where one exists. Bharat NCAP is used when there is one, otherwise Global NCAP.</p>
+  <div class="two-col">
+    <table class="plain-table">
+      <thead><tr><th scope="col">Equipment</th><th scope="col" class="num">Points</th></tr></thead>
+      <tbody>{% for f in lists.safety %}<tr><td>{{ f.feature }}</td><td class="num">{{ f.points }}</td></tr>{% endfor %}</tbody>
+    </table>
+    <table class="plain-table">
+      <thead><tr><th scope="col">Crash rating</th><th scope="col" class="num">Points</th></tr></thead>
+      <tbody>{% for f in lists["crash rating"] %}<tr><td>{{ f.feature }}</td><td class="num">{{ "+" if f.points | int > 0 else "" }}{{ f.points }}</td></tr>{% endfor %}</tbody>
+    </table>
+  </div>
+  <p>A "high-safety variant" is one in the safest quarter of its segment or brand.</p>
+
+  <h2>Gearbox, drive, seats and ADAS</h2>
+  <ul>
+    <li><strong>Gearbox type</strong> is CarDekho's. When CarDekho only says "automatic", the variant name often tells: "AMT", "DCT", "DCA" (Tata's dual-clutch), "CVT" or "IVT" (Hyundai's CVT). A plain "AT" takes the type of the same model's other "AT" variants. The rest are shown as "type not listed". Electric cars have no gearbox, so they are left out of the automatic questions.</li>
+    <li><strong>4x4 and AWD</strong> use the makers' own labels from CarDekho's "drive type".</li>
+    <li><strong>7-seater</strong> means 7 or more seats.</li>
+    <li><strong>ADAS</strong> means CarDekho lists at least one driver-assistance feature.</li>
+  </ul>
+
+  <h2>Short lists</h2>
+  <p>When fewer cars qualify than a question asks for (say, a "top 10" for a brand with 4 variants), only the best one is shown, with a note saying so.</p>
+</div>
+{% endblock %}

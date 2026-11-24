@@ -1,0 +1,61 @@
+{% extends "base.html" %}
+{% from "_question.html" import category_sections, jump_links %}
+{% block main %}
+{% set label = group.segment if kind == "segment" else group.brand %}
+<nav class="crumbs" aria-label="Breadcrumb">
+  {% if kind == "segment" %}<a href="../index.html">Segments</a>{% else %}<a href="index.html">Brands</a>{% endif %}
+  <span aria-hidden="true">›</span> <span aria-current="page">{{ heading }}</span>
+</nav>
+
+<header class="page-head" id="top">
+  <h1>{{ heading }}</h1>
+  <p class="facts">{{ facts }}</p>
+  {% if kind == "brand" %}
+  <p class="facts-small">In {{ plural(group.segment_list | length, "segment") }}: {{ group.segment_list | join(", ") }}</p>
+  {% endif %}
+  <p class="pager">
+    {% if prev %}<a href="{{ prev.slug }}.html"><span aria-hidden="true">←</span> {{ prev.segment if kind == "segment" else prev.brand }}</a>{% endif %}
+    {% if next %}<a class="pager-next" href="{{ next.slug }}.html">{{ next.segment if kind == "segment" else next.brand }} <span aria-hidden="true">→</span></a>{% endif %}
+  </p>
+</header>
+
+{{ jump_links(categories, ("cars", cars_heading)) }}
+
+<section class="category" id="cars" aria-labelledby="cars-title">
+  <div class="category-head">
+    <h2 id="cars-title">{{ cars_heading }}</h2>
+  </div>
+  <p class="section-note">{{ cars_note }} Open a model to see its variants.</p>
+  <div class="models">
+    {% for m in models %}
+    <details class="model" id="model-{{ m.slug }}">
+      <summary>
+        <span class="model-name">{{ m.name }}</span>
+        <span class="model-meta">{{ m.count }} · {{ m.prices }}</span>
+      </summary>
+      <div class="table-scroll">
+        <table class="variant-table">
+          <thead>
+            <tr><th scope="col">Variant</th><th scope="col">Price</th><th scope="col">Fuel</th><th scope="col">Gearbox</th><th scope="col">Seats</th><th scope="col">Price vs fair</th></tr>
+          </thead>
+          <tbody>
+            {% for v in m.variants %}
+            <tr>
+              <td><a href="{{ v.url }}" rel="noopener" target="_blank">{{ v.variant }}</a></td>
+              <td class="num">{{ v.price }}</td>
+              <td>{{ v.fuel }}</td>
+              <td>{{ v.gearbox }}</td>
+              <td class="num">{{ v.seats }}</td>
+              <td><span class="chip chip-{{ v.tone }}">{{ v.value }}</span></td>
+            </tr>
+            {% endfor %}
+          </tbody>
+        </table>
+      </div>
+    </details>
+    {% endfor %}
+  </div>
+</section>
+
+{{ category_sections(categories) }}
+{% endblock %}

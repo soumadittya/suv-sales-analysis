@@ -29,7 +29,7 @@ Columns: `brand`, `variants`, `models`, `brands`, `from_price`, `to_price`, `che
 
 Rows: 1,399
 
-Columns: `segment_id`, `segment`, `company`, `model`, `variant`, `name`, `model_name`, `ex_showroom_price`, `on_road_price`, `fuel`, `fuel_type`, `gearbox`, `gearbox_source`, `is_automatic`, `drive_type`, `seats`, `engine_cc`, `engine_size`, `battery_kwh`, `power_bhp`, `torque_nm`, `airbags`, `adas`, `crash_stars`, `crash_test`, `fair_price`, `difference_pct`, `badge`, `feature_score`, `features_present`, `basics_missing_count`, `basics_missing`, `feature_list`, `modern_score`, `modern_list`, `safety_score`, `safety_equipment`, `crash_points`, `safety_list`, `cardekho_url`
+Columns: `segment_id`, `segment`, `company`, `model`, `variant`, `name`, `model_name`, `ex_showroom_price`, `on_road_price`, `fuel`, `fuel_type`, `gearbox`, `gearbox_source`, `is_automatic`, `drive_type`, `seats`, `engine_cc`, `engine_size`, `battery_kwh`, `power_bhp`, `torque_nm`, `airbags`, `adas`, `crash_stars`, `crash_test`, `fair_price`, `difference_pct`, `badge`, `feature_score`, `features_present`, `basics_missing_count`, `basics_missing`, `feature_list`, `modern_score`, `modern_list`, `safety_score`, `safety_equipment`, `crash_points`, `safety_list`, `cardekho_url`, `price_date`
 
 ## questions.csv
 

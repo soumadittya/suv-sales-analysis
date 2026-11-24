@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% block main %}
+<section class="intro" id="top">
+  <h1>Brands</h1>
+  <p class="lede">The same {{ n_questions }} questions as the segments, asked about each brand's own range. Comparisons are made within the brand: a "weak engine" means weaker than most of that brand's SUVs. For brands with only a few cars, a list shows just the best one.</p>
+</section>
+
+<div class="table-scroll">
+  <table class="brand-table">
+    <thead>
+      <tr><th scope="col">Brand</th><th scope="col" class="num">Models</th><th scope="col" class="num">Variants</th><th scope="col">Prices</th><th scope="col">Segments</th></tr>
+    </thead>
+    <tbody>
+      {% for b in brands %}
+      <tr>
+        <th scope="row"><a href="{{ b.slug }}.html">{{ b.brand }}</a></th>
+        <td class="num">{{ b.models }}</td>
+        <td class="num">{{ b.variants }}</td>
+        <td>{{ b.from_price | lakh }}{% if b.from_price != b.to_price %} to {{ b.to_price | lakh }}{% endif %}</td>
+        <td class="segments-cell">{% for s in b.segment_list %}<a class="pill" href="../segments/{{ segment_slug[s] }}.html">{{ s }}</a>{% endfor %}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+{% endblock %}

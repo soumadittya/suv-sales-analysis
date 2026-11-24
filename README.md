@@ -1,39 +1,44 @@
-# SUV Value Guide
+# SUV Insights: Indian SUVs, ranked with reasons
 
-A small web app for Indian SUV buyers and car reviewers. It answers three questions:
+A static website that sorts Indian SUVs into price segments and answers buyer questions about them:
+- 26 questions for each price segment, such as the best value, the most feature loaded, the safest, where automatics or ADAS start, and the 7-seaters.
+- The same 26 questions for each brand.
+- 8 questions about the whole market.
 
-- Which variants have the features I need, within my budget?
-- Is this variant's price fair for what it offers?
-- Which trim of a model gives the most for the money?
+Every answer comes with a reason.
 
 It covers 1,399 SUV variants of 136 models from 25 brands, with New Delhi prices from CarDekho collected on 20 Nov 2026.
 
-**Live app:** _link to be added after the first Render deploy_
+**Live site:** _link to be added after the first Render deploy_
 
 ## How it works
 
 1. `scrapers/` collect every variant's features and prices from CarDekho into `data/`.
-2. `notebooks/suv_research.ipynb` cleans the data, builds the fair-price model and the trim ladders, and writes the results to `app_data/`. It shows how each data problem was found and why each fix was chosen.
-3. `notebooks/suv_insights.ipynb` sorts the SUVs into seven price segments and answers the buyer questions for each segment, each brand and the whole market. Every answer comes with a reason. It reads `app_data/` and writes `insights_data/`, which feeds the new web app (in progress).
-4. `app/` is the current FastAPI app. It reads `app_data/` and serves four pages: Find, Variant, Compare and About.
+2. `notebooks/suv_research.ipynb` cleans the data and builds the fair-price model, which gives each variant the price its features usually cost. It writes the results to `app_data/`, and shows how each data problem was found and why each fix was chosen.
+3. `notebooks/suv_insights.ipynb` defines the seven price segments and the scores (value for money, features, modern features, engine, safety). It then answers every question for each segment, each brand and the whole market, and writes the answers with their reasons to `insights_data/`.
+4. `static_site/build.py` turns `insights_data/` into plain HTML pages in `site/`. Nothing is calculated while people browse, so the site needs no server code, database or JavaScript.
+
+`app/` holds an earlier FastAPI version of the app (Find, Variant, Compare and About pages, reading `app_data/`), kept for now.
 
 ## Folders
 
 ```
-app/                       FastAPI app: routes, page templates, CSS
-app_data/                  suv_research.ipynb's output, which the app reads (see its README)
-insights_data/             suv_insights.ipynb's answers for the new web app (see its README)
+static_site/               build.py, the page templates and the stylesheet
+site/                      the built website (made by static_site/build.py; don't edit by hand)
+insights_data/             suv_insights.ipynb's answers, which the site is built from (see its README)
+app_data/                  suv_research.ipynb's output (see its README)
 data/                      raw CarDekho data: one features file per variant, prices, scrape log
 notebooks/                 suv_research.ipynb, then suv_insights.ipynb
 scrapers/                  the two CarDekho scrapers (Python standard library only)
-tests/                     pytest tests for the app
+tests/                     pytest tests for the site and the earlier app
+app/                       the earlier FastAPI app
 sales-analysis-2020-2025/  an earlier study of the 20 best-selling SUVs, with its own README
-requirements.txt           what the app needs to run (Render installs this)
-requirements-dev.txt       the app plus the tests and the notebook
+requirements.txt           what the earlier FastAPI app needs to run
+requirements-dev.txt       everything: the notebooks, the site build and the tests
 .python-version            Python 3.13
 ```
 
-## Run it locally
+## Build and view the site locally
 
 With Python 3.13, from this folder:
 
@@ -41,14 +46,23 @@ With Python 3.13, from this folder:
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements-dev.txt
-uvicorn app.main:app --reload
+python static_site/build.py
 ```
 
-Then open http://localhost:8000. Run the tests with `pytest -q`.
+Then open `site/index.html` in a browser, or serve the folder and open http://localhost:8010:
 
-## Rebuild the app's data
+```bash
+python -m http.server 8010 --directory site
+```
 
-Open `notebooks/suv_research.ipynb` and run every cell (Restart & Run All). It rewrites all the files in `app_data/`. Then do the same with `notebooks/suv_insights.ipynb`, which rebuilds `insights_data/` from them. Restart the app to load the new files.
+Run the tests with `pytest -q`.
+
+## Update the answers
+
+1. Run `notebooks/suv_research.ipynb` (Restart & Run All). It rewrites `app_data/`.
+2. Run `notebooks/suv_insights.ipynb`. It rewrites `insights_data/`.
+3. Run `python static_site/build.py`. It rewrites `site/`.
+4. Commit and push. The host serves the new pages.
 
 To run a notebook from the command line instead, run this from the `notebooks/` folder:
 
@@ -58,13 +72,19 @@ jupyter execute --inplace suv_insights.ipynb
 
 ## Deploy on Render
 
-Create a Web Service from this repository on the `main` branch:
+`site/` is committed already built, so the host only has to serve files. Create a **Static Site** from this repository:
 
+- **Branch:** `main`
+- **Publish directory:** `site`
+- **Build command:** any command that succeeds, for example `echo "site/ is prebuilt"`
+
+Static sites are free on Render. Every push to `main` publishes the new `site/`.
+
+## The earlier FastAPI app
+
+Run it locally with `uvicorn app.main:app --reload` and open http://localhost:8000. To host it on Render instead, create a Web Service:
 - **Build command:** `pip install -r requirements.txt`
 - **Start command:** `uvicorn app.main:app --host 0.0.0.0 --port $PORT`
-- **Instance type:** Free
-
-Render reads the Python version from `.python-version`, and every push to `main` redeploys the app. The free instance sleeps after 15 minutes without visitors, so the first page after a quiet spell can take about a minute to load.
 
 ## Data
 
