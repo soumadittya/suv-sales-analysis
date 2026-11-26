@@ -1,14 +1,14 @@
-"""Build the static website in site/ from the CSV files in insights_data/.
+"""Build the static website in docs/ from the CSV files in insights_data/.
 
 Every answer on the site was worked out by notebooks/suv_insights.ipynb, so the
-site is plain HTML and CSS: nothing is calculated while people browse, and any
-static host (Render static sites, GitHub Pages, Netlify) can serve it. The one
-script, assets/dropdowns.js, only opens the collapsed sections a link points into.
+site is plain HTML and CSS: nothing is calculated while people browse. GitHub
+Pages serves the docs/ folder of the main branch as it is. The one script,
+assets/dropdowns.js, only opens the collapsed sections a link points into.
 
 Run from the project folder:
     python static_site/build.py
-Then open site/index.html in a browser, or serve the folder:
-    python -m http.server 8010 --directory site
+Then open docs/index.html in a browser, or serve the folder:
+    python -m http.server 8010 --directory docs
 """
 
 from __future__ import annotations
@@ -27,8 +27,9 @@ from jinja2 import Environment, FileSystemLoader, StrictUndefined, select_autoes
 HERE = Path(__file__).resolve().parent
 ROOT = HERE.parent
 DATA_DIR = ROOT / "insights_data"
-OUT_DIR = ROOT / "site"
+OUT_DIR = ROOT / "docs"            # GitHub Pages publishes this folder
 MARKER = ".built-by-static-site"   # build() only ever deletes a folder that has this file
+NO_JEKYLL = ".nojekyll"            # tells GitHub Pages to serve the files as they are, without Jekyll
 
 TAB_LABEL = {"segment": "Segments", "brand": "Brands", "overall": "Overall"}
 
@@ -298,6 +299,7 @@ def build(out_dir: Path = OUT_DIR) -> list[Path]:
     write("method.html", "method.html", tab="", title="How the answers are worked out",
           segments=site.segments, lists=lists)
 
+    (out_dir / NO_JEKYLL).write_text("")
     (out_dir / MARKER).write_text("This folder is rebuilt by static_site/build.py; do not edit it by hand.\n")
     return written
 
