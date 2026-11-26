@@ -1,0 +1,70 @@
+{% extends "base.html" %}
+{% from "_question.html" import category_sections, section_start, section_end %}
+{% block main %}
+{% set label = group.segment if kind == "segment" else group.brand %}
+<nav class="crumbs" aria-label="Breadcrumb">
+  {% if kind == "segment" %}<a href="../index.html">Segments</a>{% else %}<a href="index.html">Brands</a>{% endif %}
+  <span aria-hidden="true">›</span> <span aria-current="page">{{ heading }}</span>
+</nav>
+
+<header class="page-head" id="top">
+  <h1>{{ heading }}</h1>
+  <p class="facts">{{ facts }}</p>
+  {% if kind == "segment" %}
+  <dl class="price-stats">
+    <div><dt>Average price</dt><dd>{{ group.avg_price | lakh }}</dd></div>
+    <div><dt>Standard deviation</dt><dd>{{ group.std_price | lakh }}</dd></div>
+  </dl>
+  <p class="facts-small">The standard deviation is how far a typical variant's price is from the average. <a href="../method.html#price-segments">How these are worked out</a></p>
+  {% endif %}
+  {% if kind == "brand" %}
+  <p class="facts-small">In {{ plural(group.segment_list | length, "segment") }}: {{ group.segment_list | join(", ") }}</p>
+  {% endif %}
+  <p class="pager">
+    {% if prev %}<a href="{{ prev.slug }}.html"><span aria-hidden="true">←</span> {{ prev.segment if kind == "segment" else prev.brand }}</a>{% endif %}
+    {% if next %}<a class="pager-next" href="{{ next.slug }}.html">{{ next.segment if kind == "segment" else next.brand }} <span aria-hidden="true">→</span></a>{% endif %}
+  </p>
+</header>
+
+<p class="section-hint">Open a section to see its cars, or its questions and answers.</p>
+<div class="categories">
+{{ section_start("cars", cars_heading, plural(models | length, "model")) }}
+  <p class="section-note">{{ cars_note }} Open a model to see its variants.</p>
+  <div class="models">
+    {% for m in models %}
+    <details class="model" id="model-{{ m.slug }}">
+      <summary>
+        <span class="model-name">{{ m.name }}</span>
+        <span class="model-meta">
+          <span>{{ m.count }} · {{ m.prices }}</span>
+          {% if m.stats %}
+          <span class="model-stats"><span class="nowrap">Average {{ m.stats.avg }}</span> · {% if m.stats.note %}{{ m.stats.note }}{% else %}<span class="nowrap">Standard deviation {{ m.stats.std }}</span>{% endif %}</span>
+          {% endif %}
+        </span>
+      </summary>
+      <div class="table-scroll">
+        <table class="variant-table">
+          <thead>
+            <tr><th scope="col">Variant</th><th scope="col">Price</th><th scope="col">Fuel</th><th scope="col">Gearbox</th><th scope="col">Seats</th><th scope="col">Price vs fair</th></tr>
+          </thead>
+          <tbody>
+            {% for v in m.variants %}
+            <tr>
+              <td><a href="{{ v.url }}" rel="noopener" target="_blank">{{ v.variant }}</a></td>
+              <td class="num">{{ v.price }}</td>
+              <td>{{ v.fuel }}</td>
+              <td>{{ v.gearbox }}</td>
+              <td class="num">{{ v.seats }}</td>
+              <td><span class="chip chip-{{ v.tone }}">{{ v.value }}</span></td>
+            </tr>
+            {% endfor %}
+          </tbody>
+        </table>
+      </div>
+    </details>
+    {% endfor %}
+  </div>
+{{ section_end() }}
+{{ category_sections(categories) }}
+</div>
+{% endblock %}

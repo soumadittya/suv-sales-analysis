@@ -1,0 +1,65 @@
+list,feature,points
+basic,power steering,-2
+basic,air conditioning,-2
+basic,power windows,-2
+basic,central locking,-2
+basic,remote keyless entry,-2
+basic,Bluetooth,-2
+basic,a touchscreen,-2
+basic,a height-adjustable driver seat,-2
+basic,rear parking sensors,-2
+feature,automatic climate control,1
+feature,rear AC vents,1
+feature,cruise control,1
+feature,push-button start,1
+feature,a rear camera,1
+feature,a 360° camera,1
+feature,front parking sensors,1
+feature,a digital instrument cluster,1
+feature,a touchscreen of 10 inches or more,1
+feature,6 or more speakers,1
+feature,wireless Android Auto / Apple CarPlay,1
+feature,wireless phone charging,1
+feature,voice commands,1
+feature,connected-car features,1
+feature,a sunroof,1
+feature,ventilated seats,1
+feature,a powered driver seat,1
+feature,leather or leatherette seats,1
+feature,a leather-wrapped steering wheel,1
+feature,a rear centre armrest,1
+feature,a powered tailgate,1
+feature,an air purifier,1
+feature,LED headlamps,1
+feature,automatic headlamps,1
+feature,rain-sensing wipers,1
+feature,ambient lighting,1
+feature,alloy wheels,1
+feature,a rear wiper,1
+feature,a rear defogger,1
+modern,a touchscreen of 10.25 inches or more,1
+modern,a digital cluster of 10.25 inches or more,1
+modern,a panoramic sunroof,1
+modern,ambient lighting,1
+modern,ventilated seats,1
+modern,wireless phone charging,1
+modern,wireless Android Auto / Apple CarPlay,1
+modern,a 360° camera,1
+modern,a powered tailgate,1
+modern,premium sound,1
+modern,powered front seats,1
+modern,a head-up display,1
+modern,connected-car features,1
+safety,"airbags (2 → 0, 6 → 25, 7+ → 30)",30
+safety,ESC,15
+safety,ADAS,15
+safety,a tyre pressure monitor,10
+safety,rear disc brakes,10
+safety,ISOFIX mounts,5
+safety,hill-start assist,5
+safety,a 360° camera (or a rear camera: 5),10
+crash rating,5 stars,10
+crash rating,4 stars,5
+crash rating,3 stars,0
+crash rating,2 stars or fewer,-10
+crash rating,not tested,0

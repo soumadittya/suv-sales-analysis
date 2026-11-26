@@ -1,0 +1,56 @@
+{% macro question(q) %}
+<article class="question" id="{{ q.id | lower }}">
+  <h3 class="question-text"><span class="question-id">{{ q.id }}</span> {{ q.text }}</h3>
+  {% for note in q.notes %}
+  <p class="note">{{ note }}</p>
+  {% endfor %}
+  {% if q.ranked %}
+  <ol class="answers">
+    {% for a in q.ranked %}
+    <li class="answer">
+      <div class="answer-head">
+        <span class="rank" aria-label="Rank {{ a.rank }}">{{ a.rank }}</span>
+        <span class="answer-name">
+          {% if a.url %}<a href="{{ a.url }}"{% if a.external %} rel="noopener" target="_blank"{% endif %}>{{ a.name }}</a>{% else %}{{ a.name }}{% endif %}
+        </span>
+        {% if a.price %}<span class="answer-price">{{ a.price }}</span>{% endif %}
+      </div>
+      {% if a.metric or a.highlight %}
+      <div class="tags">
+        {% if a.metric %}<span class="chip chip-{{ a.tone }}">{{ a.metric }}</span>{% endif %}
+        {% if a.highlight and a.highlight != a.metric %}<span class="flag">{{ a.highlight }}</span>{% endif %}
+      </div>
+      {% endif %}
+      <p class="reason">{{ a.reason }}</p>
+    </li>
+    {% endfor %}
+  </ol>
+  {% endif %}
+</article>
+{% endmacro %}
+
+{# Each section is a dropdown (<details>) that starts collapsed; the summary shows its name and size. #}
+{% macro section_start(id, title, count) %}
+<details class="category" id="{{ id }}">
+  <summary class="category-head">
+    <h2>{{ title }}</h2>
+    <span class="category-count">{{ count }}</span>
+  </summary>
+  <div class="category-body">
+{% endmacro %}
+
+{% macro section_end() %}
+    <p class="to-top-row"><a class="to-top" href="#top">Back to top</a></p>
+  </div>
+</details>
+{% endmacro %}
+
+{% macro category_sections(categories) %}
+{% for c in categories %}
+{{ section_start(c.slug, c.name, plural(c.questions | length, "question")) }}
+  {% for q in c.questions %}
+  {{ question(q) }}
+  {% endfor %}
+{{ section_end() }}
+{% endfor %}
+{% endmacro %}

@@ -1,0 +1,214 @@
+segment_id,segment,company,model,model_name,variants,from_price,to_price
+1,Under ₹10 lakh,Nissan,Magnite,Nissan Magnite,26,569400,999400
+1,Under ₹10 lakh,Tata,Punch,Tata Punch,25,574990,996990
+1,Under ₹10 lakh,Hyundai,Exter,Hyundai Exter,23,580600,964600
+1,Under ₹10 lakh,Renault,Kiger,Renault Kiger,17,581000,940000
+1,Under ₹10 lakh,Maruti Suzuki,FRONX,Maruti Suzuki FRONX,9,689900,975900
+1,Under ₹10 lakh,Tata,Nexon,Tata Nexon,17,739990,999990
+1,Under ₹10 lakh,Toyota,Taisor,Toyota Taisor,6,743000,929000
+1,Under ₹10 lakh,Kia,Sonet,Kia Sonet,10,744900,999900
+1,Under ₹10 lakh,Maruti Suzuki,Brezza,Maruti Suzuki Brezza,7,749900,999000
+1,Under ₹10 lakh,Skoda,Kylaq,Skoda Kylaq,4,759000,949000
+1,Under ₹10 lakh,Mahindra,XUV 3XO,Mahindra XUV 3XO,9,779000,999900
+1,Under ₹10 lakh,Hyundai,Venue,Hyundai Venue,8,799900,999900
+1,Under ₹10 lakh,Kia,Syros,Kia Syros,4,841900,999900
+1,Under ₹10 lakh,Citroen,Basalt X,Citroen Basalt X,5,855000,999000
+1,Under ₹10 lakh,Mahindra,Bolero,Mahindra Bolero,4,856999,998999
+1,Under ₹10 lakh,Citroen,Aircross X,Citroen Aircross X,4,889000,999000
+1,Under ₹10 lakh,Mahindra,Bolero Neo,Mahindra Bolero Neo,4,906000,999898
+1,Under ₹10 lakh,Tata,Punch EV,Tata Punch EV,1,979000,979000
+1,Under ₹10 lakh,MG,Astor,MG Astor,1,979100,979100
+1,Under ₹10 lakh,Tata,Curvv,Tata Curvv,1,999990,999990
+2,₹10–15 lakh,Maruti Suzuki,Brezza,Maruti Suzuki Brezza,12,1009000,1370500
+2,₹10–15 lakh,Tata,Nexon,Tata Nexon,65,1016990,1451990
+2,₹10–15 lakh,Hyundai,Venue,Hyundai Venue,27,1017900,1499900
+2,₹10–15 lakh,Kia,Sonet,Kia Sonet,13,1028900,1435900
+2,₹10–15 lakh,Mahindra,Thar OG,Mahindra Thar OG,4,1032000,1476500
+2,₹10–15 lakh,Mahindra,Bolero Neo,Mahindra Bolero Neo,2,1039000,1085000
+2,₹10–15 lakh,Tata,Punch EV,Tata Punch EV,4,1039000,1269000
+2,₹10–15 lakh,Renault,Kiger,Renault Kiger,2,1040000,1040000
+2,₹10–15 lakh,Toyota,Taisor,Toyota Taisor,6,1045000,1294000
+2,₹10–15 lakh,Nissan,Tekton,Nissan Tekton,6,1049000,1499000
+2,₹10–15 lakh,Renault,Duster,Renault Duster,6,1049000,1449000
+2,₹10–15 lakh,Skoda,Kylaq,Skoda Kylaq,9,1049000,1309000
+2,₹10–15 lakh,Citroen,Aircross X,Citroen Aircross X,10,1049500,1471600
+2,₹10–15 lakh,Maruti Suzuki,Victoris,Maruti Suzuki Victoris,11,1049900,1482300
+2,₹10–15 lakh,Mahindra,XUV 3XO,Mahindra XUV 3XO,21,1059000,1407500
+2,₹10–15 lakh,Maruti Suzuki,FRONX,Maruti Suzuki FRONX,5,1060900,1202900
+2,₹10–15 lakh,Kia,Syros,Kia Syros,12,1061900,1499900
+2,₹10–15 lakh,Hyundai,Venue N Line,Hyundai Venue N Line,4,1066100,1174100
+2,₹10–15 lakh,Nissan,Magnite,Nissan Magnite,2,1069000,1099000
+2,₹10–15 lakh,Skoda,Kushaq,Skoda Kushaq,4,1069000,1489000
+2,₹10–15 lakh,Maruti Suzuki,Grand Vitara,Maruti Suzuki Grand Vitara,10,1076500,1480400
+2,₹10–15 lakh,Tata,Punch,Tata Punch,1,1076990,1076990
+2,₹10–15 lakh,Hyundai,Creta,Hyundai Creta,16,1090700,1480200
+2,₹10–15 lakh,Volkswagen,Taigun,Volkswagen Taigun,5,1099900,1471900
+2,₹10–15 lakh,Tata,Curvv,Tata Curvv,17,1099990,1445990
+2,₹10–15 lakh,Kia,Seltos,Kia Seltos,8,1124900,1471900
+2,₹10–15 lakh,MG,Astor,MG Astor,5,1134100,1452100
+2,₹10–15 lakh,Citroen,Basalt X,Citroen Basalt X,9,1134300,1410500
+2,₹10–15 lakh,Mahindra,Bolero Neo Plus,Mahindra Bolero Neo Plus,2,1146000,1256000
+2,₹10–15 lakh,Tata,Sierra,Tata Sierra,13,1149000,1499000
+2,₹10–15 lakh,Honda,Elevate,Honda Elevate,4,1180000,1393000
+2,₹10–15 lakh,MG,Hector,MG Hector,2,1214000,1494800
+2,₹10–15 lakh,Tata,Nexon EV,Tata Nexon EV,3,1249000,1434000
+2,₹10–15 lakh,Mahindra,Thar ROXX,Mahindra Thar ROXX,2,1252000,1423000
+2,₹10–15 lakh,Maruti Suzuki,Jimny,Maruti Suzuki Jimny,5,1259000,1451700
+2,₹10–15 lakh,Toyota,Urban Cruiser Hyryder,Toyota Urban Cruiser Hyryder,4,1282000,1487000
+2,₹10–15 lakh,Tata,Harrier,Tata Harrier,2,1299990,1399990
+2,₹10–15 lakh,Tata,Safari,Tata Safari,2,1339990,1484990
+2,₹10–15 lakh,Mahindra,Scorpio,Mahindra Scorpio,2,1343200,1390900
+2,₹10–15 lakh,Kia,Syros EV,Kia Syros EV,2,1349900,1499900
+2,₹10–15 lakh,Mahindra,Scorpio N,Mahindra Scorpio N,2,1369000,1418999
+2,₹10–15 lakh,Mahindra,XUV 3XO EV,Mahindra XUV 3XO EV,2,1388999,1495999
+2,₹10–15 lakh,Mahindra,XUV 7XO,Mahindra XUV 7XO,1,1399000,1399000
+2,₹10–15 lakh,Hyundai,Alcazar,Hyundai Alcazar,1,1450700,1450700
+2,₹10–15 lakh,MG,Windsor EV,MG Windsor EV,1,1484800,1484800
+3,₹15–20 lakh,Mahindra,XUV 3XO,Mahindra XUV 3XO,1,1503500,1503500
+3,₹15–20 lakh,Hyundai,Creta,Hyundai Creta,35,1503600,1995800
+3,₹15–20 lakh,Kia,Seltos,Kia Seltos,24,1503900,1999900
+3,₹15–20 lakh,Maruti Suzuki,Victoris,Maruti Suzuki Victoris,25,1517900,1998900
+3,₹15–20 lakh,Toyota,Urban Cruiser Hyryder,Toyota Urban Cruiser Hyryder,18,1518999,1999000
+3,₹15–20 lakh,Tata,Sierra,Tata Sierra,38,1519000,1999000
+3,₹15–20 lakh,Maruti Suzuki,Grand Vitara,Maruti Suzuki Grand Vitara,25,1520000,1977400
+3,₹15–20 lakh,Mahindra,Thar ROXX,Mahindra Thar ROXX,15,1528000,1999500
+3,₹15–20 lakh,Renault,Duster,Renault Duster,14,1529000,1949000
+3,₹15–20 lakh,Tata,Curvv,Tata Curvv,8,1529990,1899990
+3,₹15–20 lakh,MG,Astor,MG Astor,2,1530100,1530100
+3,₹15–20 lakh,Tata,Nexon EV,Tata Nexon EV,2,1534000,1634000
+3,₹15–20 lakh,Mahindra,XUV 7XO,Mahindra XUV 7XO,11,1536499,1988999
+3,₹15–20 lakh,Honda,Elevate,Honda Elevate,7,1539000,1840000
+3,₹15–20 lakh,Nissan,Tekton,Nissan Tekton,6,1539000,1859000
+3,₹15–20 lakh,Hyundai,Venue N Line,Hyundai Venue N Line,2,1548700,1566700
+3,₹15–20 lakh,Mahindra,XUV400 EV,Mahindra XUV400 EV,5,1548999,1769000
+3,₹15–20 lakh,Hyundai,Alcazar,Hyundai Alcazar,10,1549800,1906600
+3,₹15–20 lakh,Mahindra,Scorpio N,Mahindra Scorpio N,12,1556692,1998995
+3,₹15–20 lakh,Volkswagen,Taigun,Volkswagen Taigun,6,1556900,1946900
+3,₹15–20 lakh,Mahindra,Thar OG,Mahindra Thar OG,11,1559500,1899000
+3,₹15–20 lakh,Hyundai,Venue,Hyundai Venue,2,1564700,1582700
+3,₹15–20 lakh,Skoda,Kushaq,Skoda Kushaq,7,1569000,1919000
+3,₹15–20 lakh,Kia,Syros,Kia Syros,1,1581900,1581900
+3,₹15–20 lakh,MG,Hector,MG Hector,7,1594800,1999800
+3,₹15–20 lakh,Kia,Syros EV,Kia Syros EV,5,1599900,1999900
+3,₹15–20 lakh,MG,Windsor EV,MG Windsor EV,5,1614800,1914800
+3,₹15–20 lakh,Maruti Suzuki,e Vitara,Maruti Suzuki e Vitara,2,1619000,1794000
+3,₹15–20 lakh,Tata,Harrier,Tata Harrier,21,1639990,1999990
+3,₹15–20 lakh,Tata,Safari,Tata Safari,13,1684990,1999990
+3,₹15–20 lakh,Tata,Curvv EV,Tata Curvv EV,3,1719000,1969000
+3,₹15–20 lakh,Mahindra,Scorpio,Mahindra Scorpio,2,1748400,1748400
+3,₹15–20 lakh,MG,ZS EV,MG ZS EV,5,1799000,1999600
+3,₹15–20 lakh,MG,Hector Plus,MG Hector Plus,1,1799800,1799800
+3,₹15–20 lakh,Hyundai,Creta Electric,Hyundai Creta Electric,4,1802800,1999900
+3,₹15–20 lakh,Jeep,Compass,Jeep Compass,1,1829000,1829000
+3,₹15–20 lakh,Tata,Sierra EV,Tata Sierra EV,3,1879000,1999000
+3,₹15–20 lakh,Hyundai,Creta N Line,Hyundai Creta N Line,3,1903300,1994990
+3,₹15–20 lakh,Mahindra,BE 6 SPORTEQ,Mahindra BE 6 SPORTEQ,1,1945000,1945000
+4,₹20–30 lakh,Hyundai,Creta,Hyundai Creta,3,2006300,2045700
+4,₹20–30 lakh,Hyundai,Creta N Line,Hyundai Creta N Line,1,2009990,2009990
+4,₹20–30 lakh,MG,Hector Plus,MG Hector Plus,2,2014800,2014800
+4,₹20–30 lakh,Hyundai,Creta Electric,Hyundai Creta Electric,25,2015500,2522100
+4,₹20–30 lakh,Toyota,Urban Cruiser Hyryder,Toyota Urban Cruiser Hyryder,2,2019000,2030999
+4,₹20–30 lakh,Maruti Suzuki,e Vitara,Maruti Suzuki e Vitara,2,2021000,2021000
+4,₹20–30 lakh,Hyundai,Alcazar,Hyundai Alcazar,20,2022462,2195700
+4,₹20–30 lakh,MG,Hector Tomahawk EV,MG Hector Tomahawk EV,4,2024800,2424800
+4,₹20–30 lakh,Tata,Harrier,Tata Harrier,34,2024990,2610990
+4,₹20–30 lakh,Tata,Sierra,Tata Sierra,8,2029000,2159000
+4,₹20–30 lakh,Tata,Safari,Tata Safari,57,2029990,2690990
+4,₹20–30 lakh,Kia,Seltos,Kia Seltos,6,2032400,2181900
+4,₹20–30 lakh,Mahindra,Scorpio N,Mahindra Scorpio N,17,2037847,2549001
+4,₹20–30 lakh,Tata,Sierra EV,Tata Sierra EV,13,2048000,2648000
+4,₹20–30 lakh,Mahindra,XEV 9S,Mahindra XEV 9S,9,2065000,2995000
+4,₹20–30 lakh,Mahindra,XUV 7XO,Mahindra XUV 7XO,15,2068499,2579000
+4,₹20–30 lakh,MG,ZS EV,MG ZS EV,2,2074600,2074600
+4,₹20–30 lakh,Mahindra,Thar ROXX,Mahindra Thar ROXX,4,2083000,2352500
+4,₹20–30 lakh,Mahindra,BE 6 SPORTEQ,Mahindra BE 6 SPORTEQ,9,2095000,2695000
+4,₹20–30 lakh,Tata,Harrier EV,Tata Harrier EV,16,2179000,2979000
+4,₹20–30 lakh,Mahindra,XEV 9e,Mahindra XEV 9e,13,2190000,2935000
+4,₹20–30 lakh,Jeep,Meridian,Jeep Meridian,4,2333000,2939000
+4,₹20–30 lakh,Toyota,Urban Cruiser EBELLA,Toyota Urban Cruiser EBELLA,1,2360000,2360000
+4,₹20–30 lakh,Jeep,Compass,Jeep Compass,10,2363000,2876000
+4,₹20–30 lakh,BYD,Atto 3,BYD Atto 3,1,2499000,2499000
+4,₹20–30 lakh,MG,Hector Tomahawk PHEV,MG Hector Tomahawk PHEV,2,2569800,2779800
+4,₹20–30 lakh,Kia,Sorento,Kia Sorento,3,2799000,2949000
+5,₹30–50 lakh,Tata,Harrier EV,Tata Harrier EV,2,3004000,3054000
+5,₹30–50 lakh,Mahindra,XEV 9S,Mahindra XEV 9S,1,3015000,3015000
+5,₹30–50 lakh,BYD,Atto 3,BYD Atto 3,2,3035000,3449000
+5,₹30–50 lakh,Jeep,Meridian,Jeep Meridian,9,3039000,3826000
+5,₹30–50 lakh,Mahindra,XEV 9e,Mahindra XEV 9e,3,3050000,3125001
+5,₹30–50 lakh,Jeep,Compass,Jeep Compass,2,3070000,3095000
+5,₹30–50 lakh,Kia,Sorento,Kia Sorento,29,3099000,4039000
+5,₹30–50 lakh,Isuzu,MU-X,Isuzu MU-X,2,3453240,3770580
+5,₹30–50 lakh,Toyota,Fortuner,Toyota Fortuner,7,3511000,4355000
+5,₹30–50 lakh,Skoda,Kodiaq,Skoda Kodiaq,3,3699000,4699000
+5,₹30–50 lakh,Citroen,C5 Aircross,Citroen C5 Aircross,2,3732400,3732400
+5,₹30–50 lakh,Volvo,EX30,Volvo EX30,1,4100000,4100000
+5,₹30–50 lakh,BYD,Sealion 7,BYD Sealion 7,2,4190000,4990000
+5,₹30–50 lakh,Volkswagen,Tayron,Volkswagen Tayron,2,4199000,4774000
+5,₹30–50 lakh,Toyota,Fortuner Legender,Toyota Fortuner Legender,3,4335000,4877000
+5,₹30–50 lakh,MG,Majestor,MG Majestor,3,4349000,4599000
+5,₹30–50 lakh,Volkswagen,Tiguan R-Line,Volkswagen Tiguan R-Line,1,4711013,4711013
+5,₹30–50 lakh,Mini,Countryman C,Mini Countryman C,1,4750000,4750000
+5,₹30–50 lakh,Nissan,X-Trail,Nissan X-Trail,1,4819862,4819862
+5,₹30–50 lakh,Volvo,EX40,Volvo EX40,1,4900000,4900000
+5,₹30–50 lakh,BMW,X1 LWB,BMW X1 LWB,1,4990000,4990000
+5,₹30–50 lakh,Honda,ZR-V,Honda ZR-V,1,4999900,4999900
+6,₹50 lakh–1 crore,BYD,Sealion 7,BYD Sealion 7,2,5060000,5590000
+6,₹50 lakh–1 crore,Toyota,Fortuner,Toyota Fortuner,1,5097000,5097000
+6,₹50 lakh–1 crore,Mercedes-Benz,GLA,Mercedes-Benz GLA,3,5180000,5500000
+6,₹50 lakh–1 crore,Audi,Q3,Audi Q3,2,5199000,5599000
+6,₹50 lakh–1 crore,BMW,X1,BMW X1,1,5290000,5290000
+6,₹50 lakh–1 crore,Audi,Q3 Sportback,Audi Q3 Sportback,1,5425001,5425001
+6,₹50 lakh–1 crore,BMW,iX1,BMW iX1,1,5470000,5470000
+6,₹50 lakh–1 crore,Mini,Countryman Electric,Mini Countryman Electric,2,5565000,6070000
+6,₹50 lakh–1 crore,Hyundai,IONIQ 5,Hyundai IONIQ 5,1,5570000,5570000
+6,₹50 lakh–1 crore,Volvo,EC40,Volvo EC40,1,5900000,5900000
+6,₹50 lakh–1 crore,Jeep,Grand Cherokee,Jeep Grand Cherokee,1,6300000,6300000
+6,₹50 lakh–1 crore,Land Rover,Discovery Sport,Land Rover Discovery Sport,2,6337000,6337000
+6,₹50 lakh–1 crore,Land Rover,Range Rover Evoque,Land Rover Range Rover Evoque,2,6490001,6490001
+6,₹50 lakh–1 crore,Audi,Q5,Audi Q5,2,6555000,7073001
+6,₹50 lakh–1 crore,Kia,EV6,Kia EV6,1,6597937,6597937
+6,₹50 lakh–1 crore,Mini,Countryman,Mini Countryman,1,6615000,6615000
+6,₹50 lakh–1 crore,Jeep,Wrangler,Jeep Wrangler,3,6620000,7080000
+6,₹50 lakh–1 crore,Skoda,Kodiaq RS,Skoda Kodiaq RS,1,6699000,6699000
+6,₹50 lakh–1 crore,Lexus,NX,Lexus NX,4,6759000,7450000
+6,₹50 lakh–1 crore,Volvo,XC60,Volvo XC60,1,6890000,6890000
+6,₹50 lakh–1 crore,BMW,X3,BMW X3,3,6990000,7820000
+6,₹50 lakh–1 crore,Jaguar,F-Pace,Jaguar F-Pace,2,7290000,7290000
+6,₹50 lakh–1 crore,Mercedes-Benz,GLC,Mercedes-Benz GLC,2,7700000,7800000
+6,₹50 lakh–1 crore,Audi,Q7,Audi Q7,2,8716999,9615000
+6,₹50 lakh–1 crore,Land Rover,Range Rover Velar,Land Rover Range Rover Velar,2,8850001,8850001
+6,₹50 lakh–1 crore,Porsche,Macan,Porsche Macan,1,8965000,8965000
+6,₹50 lakh–1 crore,Lexus,RX,Lexus RX,1,8999000,8999000
+6,₹50 lakh–1 crore,BMW,X5,BMW X5,2,9690000,9890000
+6,₹50 lakh–1 crore,Volvo,XC90,Volvo XC90,1,9780000,9780000
+6,₹50 lakh–1 crore,Land Rover,Defender,Land Rover Defender,1,9900000,9900000
+6,₹50 lakh–1 crore,Mercedes-Benz,AMG GLC 43,Mercedes-Benz AMG GLC 43,1,9985000,9985000
+7,Above ₹1 crore,Mercedes-Benz,GLE,Mercedes-Benz GLE,5,10000000,11650000
+7,Above ₹1 crore,Lexus,RX,Lexus RX,1,11000000,11000000
+7,Above ₹1 crore,BMW,X5,BMW X5,2,11140000,11340000
+7,Above ₹1 crore,Audi,Q8,Audi Q8,1,11310000,11310000
+7,Above ₹1 crore,Land Rover,Defender,Land Rover Defender,13,11800001,26190001
+7,Above ₹1 crore,Porsche,Macan EV,Porsche Macan EV,3,12162000,17327000
+7,Above ₹1 crore,Land Rover,Discovery,Land Rover Discovery,3,12525000,13682000
+7,Above ₹1 crore,BMW,X7,BMW X7,4,12581000,13860000
+7,Above ₹1 crore,Volvo,EX90,Volvo EX90,1,12600000,12600000
+7,Above ₹1 crore,Kia,EV9,Kia EV9,1,12990000,12990000
+7,Above ₹1 crore,Mercedes-Benz,EQS SUV,Mercedes-Benz EQS SUV,4,13350000,14800000
+7,Above ₹1 crore,Mercedes-Benz,GLS,Mercedes-Benz GLS,4,13750000,14300000
+7,Above ₹1 crore,Porsche,Cayenne,Porsche Cayenne,2,13869000,19417000
+7,Above ₹1 crore,BMW,iX,BMW iX,1,13950000,13950000
+7,Above ₹1 crore,Land Rover,Range Rover Sport,Land Rover Range Rover Sport,8,14300000,23500000
+7,Above ₹1 crore,Porsche,Cayenne Coupe,Porsche Cayenne Coupe,2,14441000,19541000
+7,Above ₹1 crore,Mercedes-Benz,AMG GLE 53,Mercedes-Benz AMG GLE 53,2,15200000,18750000
+7,Above ₹1 crore,Porsche,Cayenne Electric,Porsche Cayenne Electric,2,17727000,22751000
+7,Above ₹1 crore,BMW,X6,BMW X6,1,17790000,17790000
+7,Above ₹1 crore,Audi,SQ8,Audi SQ8,1,18123000,18123000
+7,Above ₹1 crore,Toyota,Land Cruiser 300,Toyota Land Cruiser 300,2,21775000,22493300
+7,Above ₹1 crore,Audi,RS Q8,Audi RS Q8,1,23383000,23383000
+7,Above ₹1 crore,Land Rover,Range Rover,Land Rover Range Rover,14,24000000,49000000
+7,Above ₹1 crore,Mercedes-Benz,Maybach EQS SUV,Mercedes-Benz Maybach EQS SUV,2,24000000,26500000
+7,Above ₹1 crore,BMW,XM,BMW XM,1,25455000,25455000
+7,Above ₹1 crore,Mercedes-Benz,G-Class,Mercedes-Benz G-Class,5,25500000,43000001
+7,Above ₹1 crore,Mercedes-Benz,Maybach GLS,Mercedes-Benz Maybach GLS,3,27500000,41000000
+7,Above ₹1 crore,Lexus,LX,Lexus LX,2,28140000,29266000
+7,Above ₹1 crore,Mercedes-Benz,G-Class Electric,Mercedes-Benz G-Class Electric,1,31000000,31000000

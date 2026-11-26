@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+{% block main %}
+<section class="intro" id="top">
+  <h1>Indian SUVs by price segment</h1>
+  <p class="lede">{{ "{:,}".format(totals.variants) }} SUV variants of {{ totals.models }} models from {{ totals.brands }} brands, sorted into {{ segments | length }} price segments by their ex-showroom price. Pick a segment to see its cars and the answers to {{ n_questions }} buyer questions, each with a reason.</p>
+</section>
+
+<ol class="segment-grid">
+  {% for s in segments %}
+  <li>
+    <a class="segment-card" href="segments/{{ s.slug }}.html">
+      <span class="segment-name">{{ s.segment }}</span>
+      <span class="segment-facts">{{ plural(s.variants | int, "variant") }} · {{ plural(s.models | int, "model") }} · {{ plural(s.brands | int, "brand") }}</span>
+      <span class="segment-stats">
+        <span class="segment-line"><span class="label">Average price</span> {{ s.avg_price | lakh }}</span>
+        <span class="segment-line"><span class="label">Standard deviation</span> {{ s.std_price | lakh }}</span>
+      </span>
+      <span class="segment-line"><span class="label">Starts at</span> {{ s.from_price | lakh }}, {{ s.cheapest_variant }}</span>
+      {% if s.best %}
+      <span class="segment-line"><span class="label">Best value</span> {{ s.best.name }}, {{ s.best.metric }}</span>
+      {% endif %}
+      <span class="segment-go">See the cars and answers <span aria-hidden="true">→</span></span>
+    </a>
+  </li>
+  {% endfor %}
+</ol>
+{% endblock %}

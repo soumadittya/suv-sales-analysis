@@ -1,0 +1,8 @@
+segment_id,segment,from_lakh,to_lakh,variants,models,brands,from_price,to_price,avg_price,std_price,cheapest_variant
+1,Under ₹10 lakh,0,10.0,185,20,11,569400,999990,870777,105893,Nissan Magnite Visia
+2,₹10–15 lakh,10,15.0,346,45,13,1009000,1499900,1265719,137233,Maruti Suzuki Brezza ZXi Turbo Dual Tone
+3,₹15–20 lakh,15,20.0,363,39,13,1503500,1999990,1769890,149657,Mahindra XUV 3XO AX7 L Turbo AT
+4,₹20–30 lakh,20,30.0,283,27,9,2006300,2995000,2368619,238834,Hyundai Creta King Turbo DCT DT
+5,₹30–50 lakh,30,50.0,79,22,16,3004000,4999900,3814587,553598,Tata Harrier EV Empowered QWD 75 Stealth
+6,₹50 lakh–1 crore,50,100.0,51,31,15,5060000,9985000,7045803,1451261,BYD Sealion 7 Premium Festive Edition
+7,Above ₹1 crore,100,,92,29,9,10000000,49000000,20946083,9540100,Mercedes-Benz GLE 300d 4Matic AMG Line

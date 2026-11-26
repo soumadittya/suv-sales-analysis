@@ -1,0 +1,26 @@
+brand,variants,models,brands,from_price,to_price,cheapest_variant,segments
+Audi,10,7,1,5199000,23383000,Audi Q3 Nova,₹50 lakh–1 crore; Above ₹1 crore
+BMW,17,9,1,4990000,25455000,BMW X1 LWB sDrive18Li M Sport,₹30–50 lakh; ₹50 lakh–1 crore; Above ₹1 crore
+BYD,7,2,1,2499000,5590000,BYD Atto 3 Dynamic,₹20–30 lakh; ₹30–50 lakh; ₹50 lakh–1 crore
+Citroen,30,3,1,855000,3732400,Citroen Basalt X You,Under ₹10 lakh; ₹10–15 lakh; ₹30–50 lakh
+Honda,12,2,1,1180000,4999900,Honda Elevate SV,₹10–15 lakh; ₹15–20 lakh; ₹30–50 lakh
+Hyundai,185,8,1,580600,5570000,Hyundai Exter HX2,Under ₹10 lakh; ₹10–15 lakh; ₹15–20 lakh; ₹20–30 lakh; ₹50 lakh–1 crore
+Isuzu,2,1,1,3453240,3770580,Isuzu MU-X 4X2 AT,₹30–50 lakh
+Jaguar,2,1,1,7290000,7290000,Jaguar F-Pace 2.0 R-Dynamic S,₹50 lakh–1 crore
+Jeep,30,4,1,1829000,7080000,Jeep Compass 2.0 Sport,₹15–20 lakh; ₹20–30 lakh; ₹30–50 lakh; ₹50 lakh–1 crore
+Kia,119,7,1,744900,12990000,Kia Sonet HTE,Under ₹10 lakh; ₹10–15 lakh; ₹15–20 lakh; ₹20–30 lakh; ₹30–50 lakh; ₹50 lakh–1 crore; Above ₹1 crore
+Land Rover,45,7,1,6337000,49000000,Land Rover Discovery Sport Dynamic SE,₹50 lakh–1 crore; Above ₹1 crore
+Lexus,8,3,1,6759000,29266000,Lexus NX 350h Exquisite,₹50 lakh–1 crore; Above ₹1 crore
+MG,42,8,1,979100,4599000,MG Astor Sprint,Under ₹10 lakh; ₹10–15 lakh; ₹15–20 lakh; ₹20–30 lakh; ₹30–50 lakh
+Mahindra,184,14,1,779000,3125001,Mahindra XUV 3XO MX1,Under ₹10 lakh; ₹10–15 lakh; ₹15–20 lakh; ₹20–30 lakh; ₹30–50 lakh
+Maruti Suzuki,113,6,1,689900,2021000,Maruti Suzuki FRONX Sigma,Under ₹10 lakh; ₹10–15 lakh; ₹15–20 lakh; ₹20–30 lakh
+Mercedes-Benz,32,11,1,5180000,43000001,Mercedes-Benz GLA 200,₹50 lakh–1 crore; Above ₹1 crore
+Mini,4,3,1,4750000,6615000,Mini Countryman C Std,₹30–50 lakh; ₹50 lakh–1 crore
+Nissan,41,3,1,569400,4819862,Nissan Magnite Visia,Under ₹10 lakh; ₹10–15 lakh; ₹15–20 lakh; ₹30–50 lakh
+Porsche,10,5,1,8965000,22751000,Porsche Macan Standard,₹50 lakh–1 crore; Above ₹1 crore
+Renault,39,2,1,581000,1949000,Renault Kiger Authentic,Under ₹10 lakh; ₹10–15 lakh; ₹15–20 lakh
+Skoda,28,4,1,759000,6699000,Skoda Kylaq Classic,Under ₹10 lakh; ₹10–15 lakh; ₹15–20 lakh; ₹30–50 lakh; ₹50 lakh–1 crore
+Tata,369,11,1,574990,3054000,Tata Punch Smart,Under ₹10 lakh; ₹10–15 lakh; ₹15–20 lakh; ₹20–30 lakh; ₹30–50 lakh
+Toyota,50,6,1,743000,22493300,Toyota Taisor E,Under ₹10 lakh; ₹10–15 lakh; ₹15–20 lakh; ₹20–30 lakh; ₹30–50 lakh; ₹50 lakh–1 crore; Above ₹1 crore
+Volkswagen,14,3,1,1099900,4774000,Volkswagen Taigun Comfortline,₹10–15 lakh; ₹15–20 lakh; ₹30–50 lakh
+Volvo,6,6,1,4100000,12600000,Volvo EX30 RWD Ultra,₹30–50 lakh; ₹50 lakh–1 crore; Above ₹1 crore
